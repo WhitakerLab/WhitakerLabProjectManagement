@@ -1,4 +1,4 @@
-This list was curated by František Váša in April 2017.
+This list was curated by [František Váša](https://github.com/frantisekvasa) in April 2017. Thank you FV! :tada: :sparkles: :balloon:
 
 ### General reviews / Introductions
 
