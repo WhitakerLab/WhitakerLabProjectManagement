@@ -4,18 +4,16 @@ This list is adapted from Lucia Magis Weinberg's [list of resources for getting 
 
 Wagenmakers, E.-J. (2015). [A perfect storm: The record of a revolution](http://www.in-mind.org/article/a-perfect-storm-the-record-of-a-revolution). In-Mind Magazine.
 
-[Replicability and Reproducibility Debate](http://www.bps.org.uk/what-we-do/bps/governance/boards-and-committees/research-board/research-board-resources/replicability-and-reproducibility-debate/replicability-and-reproducibility-debate) organized by the BPS at the Royal Society on 26 May 2016, with presentations from Marcus Munafò, Roger Watt, Dorothy Bishop, Chris Chambers, Kathryn Sharples, Nick Brown and Prateek Buch. Link straight to the youtube video of this debate [here](https://www.youtube.com/watch?v=tTuZ-IEc0Eg&feature=youtu.be)
+[Replicability and Reproducibility Debate](http://www.bps.org.uk/what-we-do/bps/governance/boards-and-committees/research-board/research-board-resources/replicability-and-reproducibility-debate/replicability-and-reproducibility-debate) organized by the BPS at the Royal Society on 26 May 2016, with presentations from Marcus Munafò, Roger Watt, Dorothy Bishop, Chris Chambers, Kathryn Sharples, Nick Brown and Prateek Buch. Go straight to the youtube video of this debate [here](https://www.youtube.com/watch?v=tTuZ-IEc0Eg&feature=youtu.be)
 
-Bastian, H. (2016). Reproducibility Crisis Timeline: Milestones in Tackling Research Reliability. [Blog](http://blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/) Absolutely Maybe.
+Bastian, H. (2016). Reproducibility Crisis Timeline: Milestones in Tackling Research Reliability. [[Blog]](http://blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/) Absolutely Maybe.
 
-Gelman, A. (2016). What has happened down here is the winds have changed. [Blog](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) Statistical Modeling, Causal Inference, and Social Science.
+Gelman, A. (2016). What has happened down here is the winds have changed. [[Blog]](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) Statistical Modeling, Causal Inference, and Social Science.
 
 
 ### Some examination of mistakes that distort research
 
-Slides by Tom Hardwicke. Science as a Human Edeavour/ Building a Reproducible Research Workflow [Slides](https://osf.io/rxwsp/). 
-
-Slides by Courtney Soderberg. Practical Steps for Increasing Openness and Reproducibility. [Slides](https://osf.io/br8d4/)
+Slides by Tom Hardwicke. Science as a Human Edeavour/ Building a Reproducible Research Workflow [[Slides]](https://osf.io/rxwsp/). These slides offer a pretty straightforward (and illustrated!) description of the things that can go wrong. 
 
 FiveThirtyEight’s [Hack Your Way To Scientific Glory](https://projects.fivethirtyeight.com/p-hacking/) : striking online demonstration of p-hacking in action!
 
@@ -29,9 +27,11 @@ Leek, Jeffrey T. and Jager, Leah R., [Is Most Published Research Really False?](
 Open Science Collaboration. (2015). [Estimating the reproducibility of psychological science](https://osf.io/ezum7/). Science, 349(6251). 
 
 
-### Some initiatives to promote more rigourous research 
+### Better research practices 
 
-Hardwicke, T. E., Jameel, L., Jones, M., Walczak, E. J., & Magis-Weinberg, L. (2014). Only human: Scientists, systems, and suspect statistics. Opticon1826, (16):25, 1-12. [doi](http://dx.doi.org/10.5334/opt.ch) [pdf](http://www.tomhardwicke.co.uk/docs/onlyHuman.pdf)
+Slides by Courtney Soderberg. Practical Steps for Increasing Openness and Reproducibility. [[Slides]](https://osf.io/br8d4/). This is an easy place to start.
+
+Hardwicke, T. E., Jameel, L., Jones, M., Walczak, E. J., & Magis-Weinberg, L. (2014). Only human: Scientists, systems, and suspect statistics. Opticon1826, (16):25, 1-12. [doi](http://dx.doi.org/10.5334/opt.ch) [pdf](http://www.tomhardwicke.co.uk/docs/onlyHuman.pdf). 
 
 Chambers, C. D., Dienes, Z., McIntosh, R. D., Rotshtein, P. and Willmes, K. (2015). [Registered reports: realigning incentives in scientific publishing](http://orca.cf.ac.uk/73305/). Cortex, 66, A1-A2. 
 
