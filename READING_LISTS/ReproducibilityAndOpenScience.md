@@ -13,23 +13,23 @@ Gelman, A. (2016). [What has happened down here is the winds have changed](http:
 
 ### Examination of mistakes that distort research
 
-Slides by Tom Hardwicke. Science as a Human Edeavour/ Building a Reproducible Research Workflow [[Slides]](https://osf.io/rxwsp/). 
+Slides by Tom Hardwicke. Science as a Human Edeavour/ Building a Reproducible Research Workflow [[Slides](https://osf.io/rxwsp/)]. 
 
 FiveThirtyEight’s [Hack Your Way To Scientific Glory](https://projects.fivethirtyeight.com/p-hacking/) 
 
 
 ### Statistical discussion of the expected frequency of false positives
 
-Ioannidis JP (2005) Why most published research findings are false. PLoS Med 2: e124. [journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+Ioannidis JP (2005) Why most published research findings are false. PLoS Med 2: e124. [doi:10.1371/journal.pmed.0020124](https://doi.org/10.1371/journal.pmed.0020124)
 
-Leek, Jeffrey T. and Jager, Leah R., Is Most Published Research Really False? (March 2017). Annual Review of Statistics and Its Application, Vol. 4, Issue 1, pp. 109-122, 2017. [annualreviews.org/doi/10.1146/annurev-statistics-060116-054104](http://www.annualreviews.org/doi/10.1146/annurev-statistics-060116-054104)
+Leek, Jeffrey T. and Jager, Leah R., Is Most Published Research Really False? (March 2017). Annual Review of Statistics and Its Application, Vol. 4, Issue 1, pp. 109-122, 2017. [doi:10.1146/annurev-statistics-060116-054104](http://doi.org/10.1146/annurev-statistics-060116-054104)
 
 Open Science Collaboration. (2015). Science, 349(6251). [Estimating the reproducibility of psychological science](https://osf.io/ezum7/). 
 
 
 ### Better research practices 
 
-Slides by Courtney Soderberg. Practical Steps for Increasing Openness and Reproducibility. [[Slides]](https://osf.io/br8d4/). 
+Slides by Courtney Soderberg. Practical Steps for Increasing Openness and Reproducibility. [[Slides](https://osf.io/br8d4/)]. 
 
 Hardwicke, T. E., Jameel, L., Jones, M., Walczak, E. J., & Magis-Weinberg, L. (2014). Only human: Scientists, systems, and suspect statistics. Opticon1826, (16):25, 1-12. [dx.doi.org/10.5334/opt.ch](http://dx.doi.org/10.5334/opt.ch) [pdf](http://www.tomhardwicke.co.uk/docs/onlyHuman.pdf). 
 
