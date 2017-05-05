@@ -4,7 +4,7 @@ This list is adapted from Lucia Magis Weinberg's [list of resources for getting 
 
 Wagenmakers, E.-J. (2015). [A perfect storm: The record of a revolution](http://www.in-mind.org/article/a-perfect-storm-the-record-of-a-revolution). In-Mind Magazine.
 
-[Replicability and Reproducibility Debate](http://www.bps.org.uk/what-we-do/bps/governance/boards-and-committees/research-board/research-board-resources/replicability-and-reproducibility-debate/replicability-and-reproducibility-debate) (2016) organized by the BPS at the Royal Society with presentations from Marcus Munafò, Roger Watt, Dorothy Bishop, Chris Chambers, Kathryn Sharples, Nick Brown and Prateek Buch., [video](https://www.youtube.com/watch?v=tTuZ-IEc0Eg&feature=youtu.be)
+[Replicability and Reproducibility Debate](http://www.bps.org.uk/what-we-do/bps/governance/boards-and-committees/research-board/research-board-resources/replicability-and-reproducibility-debate/replicability-and-reproducibility-debate) (2016) organized by the BPS at the Royal Society with presentations from Marcus Munafò, Roger Watt, Dorothy Bishop, Chris Chambers, Kathryn Sharples, Nick Brown and Prateek Buch. [video](https://www.youtube.com/watch?v=tTuZ-IEc0Eg&feature=youtu.be)
 
 Bastian, H. (2016). [Reproducibility Crisis Timeline: Milestones in Tackling Research Reliability](http://blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/).
 
