@@ -31,12 +31,12 @@ Open Science Collaboration. (2015). Science, 349(6251). [Estimating the reproduc
 
 Slides by Courtney Soderberg. Practical Steps for Increasing Openness and Reproducibility. [[Slides](https://osf.io/br8d4/)]. 
 
-Hardwicke, T. E., Jameel, L., Jones, M., Walczak, E. J., & Magis-Weinberg, L. (2014). Only human: Scientists, systems, and suspect statistics. Opticon1826, (16):25, 1-12. [dx.doi.org/10.5334/opt.ch](http://dx.doi.org/10.5334/opt.ch) [pdf](http://www.tomhardwicke.co.uk/docs/onlyHuman.pdf). 
+Hardwicke, T. E., Jameel, L., Jones, M., Walczak, E. J., & Magis-Weinberg, L. (2014). Only human: Scientists, systems, and suspect statistics. Opticon1826, (16):25, 1-12. [doi:10.5334/opt.ch](http://dx.doi.org/10.5334/opt.ch) [pdf](http://www.tomhardwicke.co.uk/docs/onlyHuman.pdf). 
 
-Chambers, C. D., Dienes, Z., McIntosh, R. D., Rotshtein, P. and Willmes, K. (2015). Registered reports: realigning incentives in scientific publishing. Cortex, 66, A1-A2. [orca.cf.ac.uk/73305/](http://orca.cf.ac.uk/73305/)
+Chambers, C. D., Dienes, Z., McIntosh, R. D., Rotshtein, P. and Willmes, K. (2015). Registered reports: realigning incentives in scientific publishing. Cortex, 66, A1-A2. [doi:10.1016/j.cortex.2015.03.022](http://dx.doi.org/10.1016/j.cortex.2015.03.022)
 
-Morey, R. D., Chambers, C. D., Etchells, P. J., Harris, C. R., Hoekstra, R., Lakens, D., Lewandowsky, S., Morey, C. C., Newman, D. P., Schönbrodt, F. D., Vanpaemel, W., Wagenmakers, E. and Zwaan, R. A. (2016). The Peer Reviewers’ Openness Initiative: incentivizing open research practices through peer review. Royal Society Open Science, 3(1). [rsos.royalsocietypublishing.org/content/3/1/150547](http://rsos.royalsocietypublishing.org/content/3/1/150547)  [orca.cf.ac.uk/85057/](http://orca.cf.ac.uk/85057/)
+Morey, R. D., Chambers, C. D., Etchells, P. J., Harris, C. R., Hoekstra, R., Lakens, D., Lewandowsky, S., Morey, C. C., Newman, D. P., Schönbrodt, F. D., Vanpaemel, W., Wagenmakers, E. and Zwaan, R. A. (2016). The Peer Reviewers’ Openness Initiative: incentivizing open research practices through peer review. Royal Society Open Science, 3(1). [doi:10.1098/rsos.150547](http://doi.org/10.1098/rsos.150547)
 
-Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., & Ioannidis, J. P. A. (in press). A manifesto for reproducible science. Nature Human Behaviour. [www.nature.com/articles/s41562-016-0021](https://www.nature.com/articles/s41562-016-0021).
+Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., & Ioannidis, J. P. A. (in press). A manifesto for reproducible science. Nature Human Behaviour. [doi:10.1038/s41562-016-0021](https://doi.org/10.1038/s41562-016-0021).
 
 
