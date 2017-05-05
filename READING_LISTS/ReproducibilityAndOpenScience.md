@@ -1,24 +1,24 @@
-This list is adapted from Lucia Magis Weinberg's [list of resources for getting started with open science and reproducibility](https://luciamagisweinberg.wordpress.com/2017/03/23/reproducibilityopen-science-resources/)
+This list is adapted from Lucia Magis Weinberg's [list of resources for getting started with open science and reproducibility](https://luciamagisweinberg.wordpress.com/2017/03/23/reproducibilityopen-science-resources/). Thank you Lucia :sparkles: :tada:
 
-### Some overviews and timelines of the "Reproducibility Crisis"
+### Overviews and timelines of the "Reproducibility Crisis"
 
-Wagenmakers, E.-J. (2015). [A perfect storm: The record of a revolution](http://www.in-mind.org/article/a-perfect-storm-the-record-of-a-revolution). In-Mind Magazine.
+Wagenmakers, E.-J. (2015). A perfect storm: The record of a revolution. In-Mind Magazine. [link](http://www.in-mind.org/article/a-perfect-storm-the-record-of-a-revolution)
 
-[Replicability and Reproducibility Debate](http://www.bps.org.uk/what-we-do/bps/governance/boards-and-committees/research-board/research-board-resources/replicability-and-reproducibility-debate/replicability-and-reproducibility-debate) organized by the BPS at the Royal Society on 26 May 2016, with presentations from Marcus Munafò, Roger Watt, Dorothy Bishop, Chris Chambers, Kathryn Sharples, Nick Brown and Prateek Buch. Go straight to the youtube video of this debate [here](https://www.youtube.com/watch?v=tTuZ-IEc0Eg&feature=youtu.be)
+Replicability and Reproducibility Debate (2016) organized by the BPS at the Royal Society with presentations from Marcus Munafò, Roger Watt, Dorothy Bishop, Chris Chambers, Kathryn Sharples, Nick Brown and Prateek Buch. [link](http://www.bps.org.uk/what-we-do/bps/governance/boards-and-committees/research-board/research-board-resources/replicability-and-reproducibility-debate/replicability-and-reproducibility-debate), [video](https://www.youtube.com/watch?v=tTuZ-IEc0Eg&feature=youtu.be)
 
-Bastian, H. (2016). Reproducibility Crisis Timeline: Milestones in Tackling Research Reliability. [[Blog]](http://blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/) Absolutely Maybe.
+Bastian, H. (2016). Reproducibility Crisis Timeline: Milestones in Tackling Research Reliability. [[Blog (Absolutely Maybe)]](http://blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/)
 
-Gelman, A. (2016). What has happened down here is the winds have changed. [[Blog]](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) Statistical Modeling, Causal Inference, and Social Science.
+Gelman, A. (2016). What has happened down here is the winds have changed. [[Blog (Statistical Modeling, Causal Inference, and Social Science)]](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) 
 
 
-### Some examination of mistakes that distort research
+### Examination of mistakes that distort research
 
 Slides by Tom Hardwicke. Science as a Human Edeavour/ Building a Reproducible Research Workflow [[Slides]](https://osf.io/rxwsp/). These slides offer a pretty straightforward (and illustrated!) description of the things that can go wrong. 
 
 FiveThirtyEight’s [Hack Your Way To Scientific Glory](https://projects.fivethirtyeight.com/p-hacking/) : striking online demonstration of p-hacking in action!
 
 
-### Some statistical discussion of the expected frequency of false positives
+### Statistical discussion of the expected frequency of false positives
 
 Ioannidis JP (2005) [Why most published research findings are false](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124). PLoS Med 2: e124 
 
