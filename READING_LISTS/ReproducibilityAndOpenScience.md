@@ -2,13 +2,13 @@ This list is adapted from Lucia Magis Weinberg's [list of resources for getting 
 
 ### Overviews and timelines of the "Reproducibility Crisis"
 
-Wagenmakers, E.-J. (2015). A perfect storm: The record of a revolution. In-Mind Magazine. [link to article](http://www.in-mind.org/article/a-perfect-storm-the-record-of-a-revolution)
+Wagenmakers, E.-J. (2015). A perfect storm: The record of a revolution. In-Mind Magazine. [in-mind.org/article/a-perfect-storm-the-record-of-a-revolution](http://www.in-mind.org/article/a-perfect-storm-the-record-of-a-revolution)
 
-Replicability and Reproducibility Debate (2016) organized by the BPS at the Royal Society with presentations from Marcus Munafò, Roger Watt, Dorothy Bishop, Chris Chambers, Kathryn Sharples, Nick Brown and Prateek Buch. [link to BPS page](http://www.bps.org.uk/what-we-do/bps/governance/boards-and-committees/research-board/research-board-resources/replicability-and-reproducibility-debate/replicability-and-reproducibility-debate), [video](https://www.youtube.com/watch?v=tTuZ-IEc0Eg&feature=youtu.be)
+Replicability and Reproducibility Debate (2016) organized by the BPS at the Royal Society with presentations from Marcus Munafò, Roger Watt, Dorothy Bishop, Chris Chambers, Kathryn Sharples, Nick Brown and Prateek Buch. [bps.org.uk/what-we-do/bps/governance/boards-and-committees/research-board/research-board-resources/replicability-and-reproducibility-debate/replicability-and-reproducibility-debate](http://www.bps.org.uk/what-we-do/bps/governance/boards-and-committees/research-board/research-board-resources/replicability-and-reproducibility-debate/replicability-and-reproducibility-debate), [video](https://www.youtube.com/watch?v=tTuZ-IEc0Eg&feature=youtu.be)
 
-Bastian, H. (2016). Reproducibility Crisis Timeline: Milestones in Tackling Research Reliability. [Blog post](http://blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/)
+Bastian, H. (2016). Reproducibility Crisis Timeline: Milestones in Tackling Research Reliability. [blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/](http://blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/)
 
-Gelman, A. (2016). What has happened down here is the winds have changed. [Blog post](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) 
+Gelman, A. (2016). What has happened down here is the winds have changed. [andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) 
 
 
 ### Examination of mistakes that distort research
