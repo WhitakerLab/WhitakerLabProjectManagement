@@ -6,9 +6,9 @@ Wagenmakers, E.-J. (2015). A perfect storm: The record of a revolution. In-Mind 
 
 Replicability and Reproducibility Debate (2016) organized by the BPS at the Royal Society with presentations from Marcus Munafò, Roger Watt, Dorothy Bishop, Chris Chambers, Kathryn Sharples, Nick Brown and Prateek Buch. [link](http://www.bps.org.uk/what-we-do/bps/governance/boards-and-committees/research-board/research-board-resources/replicability-and-reproducibility-debate/replicability-and-reproducibility-debate), [video](https://www.youtube.com/watch?v=tTuZ-IEc0Eg&feature=youtu.be)
 
-Bastian, H. (2016). Reproducibility Crisis Timeline: Milestones in Tackling Research Reliability. [[Blog (Absolutely Maybe)]](http://blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/)
+Bastian, H. (2016). Reproducibility Crisis Timeline: Milestones in Tackling Research Reliability. [Blog post](http://blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/)
 
-Gelman, A. (2016). What has happened down here is the winds have changed. [[Blog (Statistical Modeling, Causal Inference, and Social Science)]](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) 
+Gelman, A. (2016). What has happened down here is the winds have changed. [Blog post](http://andrewgelman.com/2016/09/21/what-has-happened-down-here-is-the-winds-have-changed/) 
 
 
 ### Examination of mistakes that distort research
