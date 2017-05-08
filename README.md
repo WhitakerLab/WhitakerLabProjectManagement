@@ -1,5 +1,7 @@
 # Whitaker Lab Project Management
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/WhitakerLab/Lobby)
+
 This repository contains issues related to the management of all Whitaker Lab projects along with weekly progress records for all lab members and collaborators.
 
 Check out the [roadmap](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/1) for more information.
