@@ -295,8 +295,8 @@ Date | Day   | City, Country                | Event
 23   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 24   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 25   | Mon   | :uk: London, UK              | Working at Turing Institute   
-26   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-27   | Wed   | :uk: London, UK              | Working at Turing Institute   
+26   | Tue   | :snowboarder: Lausanne, Switzerland | Open science summer school   
+27   | Wed   | :snowboarder: Lausanne, Switzerland | Open science summer school   
 28   | Thurs | :uk: London, UK              | Working at Turing Institute   
 29   | Fri   | :uk: London, UK              | Working at Turing Institute   
 30   | Sat   | :dog: Deeping, UK            | Weekend relaxing
@@ -311,9 +311,9 @@ Date | Day   | City, Country                | Event
 4    | Wed   | :uk: London, UK              | Working at Turing Institute   
 5    | Thurs | :uk: London, UK              | Working at Turing Institute   
 6    | Fri   | :uk: London, UK              | Working at Turing Institute   
-7    | Sat   | :cn: Nanning, China          | ICHBD2017
-8    | Sun   | :cn: Nanning, China          | ICHBD2017
-9    | Mon   | :cn: Nanning, China          | ICHBD2017
+7    | Sat   | :city_sunset: Hong Kong, Hong Kong          | Visiting Rosee and Marc
+8    | Sun   | :city_sunset: Hong Kong, Hong Kong          | Visiting Rosee and Marc
+9    | Mon   | :city_sunset: Hong Kong, Hong Kong          | Visiting Rosee and Marc
 10   | Tue   | :cn: Nanning, China          | ICHBD2017
 11   | Wed   | :cn: Nanning, China          | ICHBD2017
 12   | Thurs | :cn: Nanning, China          | ICHBD2017
