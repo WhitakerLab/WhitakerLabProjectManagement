@@ -165,15 +165,15 @@ Date | Day   | City, Country             | Event
 ---- | ----- | ------------------------- | -----
 1    | Thurs | :us: San Francisco, CA, USA       | Mozilla Science Lab Global Sprint
 2    | Fri   | :us: San Francisco, CA, USA       | Mozilla Science Lab Global Sprint
-3    | Sat   | :us: San Francisco, CA, USA    | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1880&pg=personal)
-4    | Sun   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1880&pg=personal)
-5    | Mon   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1880&pg=personal)
-6    | Tue   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1880&pg=personal)
-7    | Wed   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1880&pg=personal)
-8    | Thurs | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1880&pg=personal)
-9    | Fri   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1880&pg=personal)
-10    | Sat   | :bicyclist: ALC journey, CA, USA     | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1880&pg=personal)
-11    | Sun   | :bicyclist: Los Angeles, CA, USA     | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1880&pg=personal)
+3    | Sat   | :us: San Francisco, CA, USA    | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
+4    | Sun   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
+5    | Mon   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
+6    | Tue   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
+7    | Wed   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
+8    | Thurs | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
+9    | Fri   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
+10    | Sat   | :bicyclist: ALC journey, CA, USA     | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
+11    | Sun   | :bicyclist: Los Angeles, CA, USA     | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
 12    | Mon   | :earth_africa: South Africa             | Mozilla Fellows off boarding
 13    | Tue   | :earth_africa: South Africa             | Mozilla Fellows off boarding
 14    | Wed   | :earth_africa: South Africa             | Mozilla Fellows off boarding
@@ -181,8 +181,8 @@ Date | Day   | City, Country             | Event
 16    | Fri   | :earth_africa: South Africa             | Mozilla Fellows off boarding
 17    | Sat   | :earth_africa: South Africa             | Mozilla Fellows off boarding
 18    | Sun   | :earth_africa: South Africa             | Mozilla Fellows off boarding
-19    | Mon   | ??                       | ??
-20    | Tue   | ??                       | ??
+19    | Mon   | :earth_africa: South Africa             | Mozilla Fellows off boarding
+20    | Tue   | :earth_africa: South Africa             | Mozilla Fellows off boarding
 21    | Wed   | :maple_leaf: Vancouver, BC, Canada    | Seeing friends
 22    | Thurs | :maple_leaf: Vancouver, BC, Canada    | [Brainhack-Vancouver](https://ohbm.github.io/hackathon2017/)
 23    | Fri   | :maple_leaf: Vancouver, BC, Canada    | [Brainhack-Vancouver](https://ohbm.github.io/hackathon2017/)
@@ -221,14 +221,14 @@ Date | Day   | City, Country             | Event
 21   | Fri   | :uk: London, UK                | Working at Turing Institute
 22   | Sat   | :dog: Deeping, UK               | Weekend relaxing
 23   | Sun   | :dog: Deeping, UK               | Weekend relaxing
-24   | Mon   | :uk: London, UK                | Working at Turing
+24   | Mon   | :uk: London, UK                | British library Gay UK Alan Turing discussion
 25   | Tue   | :mortar_board: Cambridge, UK             | Working in Cambridge
 26   | Wed   | :uk: London, UK                | Working at Turing Institute
 27   | Thurs | Albufeira, Portugal       | Friends' wedding
 28   | Fri   | Albufeira, Portugal       | Friends' wedding
 29   | Sat   | Albufeira, Portugal       | Friends' wedding
 30   | Sun   | Albufeira, Portugal       | Friends' wedding
-31   | Mon   | :uk: London, UK                | Rosee & Marc wedding
+31   | Mon   | Albufeira, Portugal            | Friends' wedding
 
 ### August 2017
 
