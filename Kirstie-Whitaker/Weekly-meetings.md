@@ -1,12 +1,12 @@
 # Weekly Meetings
 
-* [12th May 2017](#12th-may-2017)
+* [12th May 2017](#date-12th-may-2017)
 
 ### Date: 12th May 2017
 
 #### Who did you help this week?
 
-I helped out Katja, Yo, Tobey and Dan in person by giving them feedback about their application for the Mozilla fellowship & answering some questions. I hopefully helped a few others by blogging about my experience: https://whitakerlab.github.io/blog/Mozilla-fellowship/.
+I helped out Katja, Yo, Tobey and Dan in person by giving them feedback about their application for the Mozilla fellowship & answering some questions. I hopefully helped a few others by blogging about my experience: https://whitakerlab.github.io/blog/Mozilla-fellowship.
 
 #### Who helped you this week?
 
@@ -39,9 +39,11 @@ Not sure what else, I'm sure there are more things I can get help with but I nee
 
 #### Any other topics
 
-NA
+Really delighted to be working with Isla. Super fun 10 days and very much looking forward for the next few weeks :grinning: :raised_hands: :balloon:
 
 ---
+
+## Template
 
 ### Date: [INSERT DATE OF MEETING]
 

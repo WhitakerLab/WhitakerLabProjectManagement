@@ -1,8 +1,8 @@
 # Weekly Meetings
 
-* [12th May 2017](#Date-12052017)
+* [12th May 2017](#date-12th-may-2017)
 
-### Date: 12/05/2017
+### Date: 12th May 2017
 
 #### Who did you help this week?
 
@@ -61,7 +61,11 @@
 
 What's going to happen in June? How should I spend my time while Kirstie's is traveling?
 * KW: Take ownership of DVS project - really explore the data and look for insights. Also potentially explore network measures between two groups (probably by implementing permutation test between them).
-=======
+
+---
+
+## Template
+
 ### Date: [INSERT DATE OF MEETING]
 
 #### Who did you help this week?
@@ -96,4 +100,3 @@ Replace this text with a one/two sentence description of who helped you this wee
 * Try to estimate how long each task will take.
 
 #### Any other topics
-
