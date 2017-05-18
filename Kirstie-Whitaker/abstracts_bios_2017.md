@@ -8,15 +8,22 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 ### Table of Contents
 
+* [OHBM Student Postdoc SIG](#ohbm-student-postdoc-sig)
 * [CamBRAIN NeuroTalks](#cambrain-neurotalks)
 * [Cambridge Brainhack-Global](#cambridge-brainhack-global)
 * [NSPN Chicheley Hall](#nspn-chicheley-hall)
 * [Cambridge Science Festival](#cambridge-science-festival)
 * [Endocrine Society (ENDO)](#endocrine-society)
 * [Society of Biological Psychiatry](#society-of-biological-psychiatry)
+* [GAY UK panel discussion on Alan Turing](#gay-uk-panel-discussion-on-alan-turing)
 * [International Conference for Cognitive Neuroscience](#international-conference-for-cognitive=neuroscience)
 * [European College of Neuropsychopharmacology (ENCP) Congress](#european-college-of-neuropsychopharmacology-ecnp-congress)
 
+### OHBM Student Postdoc significance
+
+**Qualifications**: B.Sc., Physics (University of Bristol); M.Sc., Medical Physics (University of British Columbia); Ph.D., Neuroscience (University of California at Berkeley); Research Fellow (University of Cambridge & Turing Institute for Data Science).
+
+**Bio**: Kirstie discovered the wonder of brain imaging at the University of British Columbia during a masters degree in Medical Physics. She completed a PhD in Neuroscience at the University of California, Berkeley in 2012 and in 2017 joined the Turing Institute for Data Science from a postdoctoral fellowship at the University of Cambridge in the Department of Psychiatry. Her research uses magnetic resonance images to understand changes in the brain's structure and function that underlie the emergence of schizophrenia and depression. She is particularly passionate about ensuring that work is reproducible and can be replicated in independent data sets. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 ### CamBRAIN NeuroTalks
 
