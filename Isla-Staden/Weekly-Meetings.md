@@ -81,8 +81,8 @@ What's going to happen in June? How should I spend my time while Kirstie's is tr
 
 #### What did you achieve?
 
-* For [WhitakerLab issue 19](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/19) I got the first two wrappers working, have been writing my comments as I go
-* For the DAS project I learnt quite a lot about the data, produced some nice graphs. 
+* For [WhitakerLab issue 19](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/19) I got the first two wrappers working, have been writing my comments as I go :carousel_horse: :sparkles:
+* For the DAS project I learnt quite a lot about the data, produced some nice graphs. :art:
 
 #### What did you struggle with?
 
