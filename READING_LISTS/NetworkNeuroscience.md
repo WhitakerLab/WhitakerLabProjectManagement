@@ -2,7 +2,7 @@ This list was curated by [František Váša](https://github.com/frantisekvasa) i
 
 ### General reviews / Introductions
 
-Bloch, A. A., Giedd, J. N., & Bullmore, E. (2013). Imaging structural co-variance between human brain regions. Nat. Rev. Neurosci. 14, 322-336. [doi: 10.1038/nrn3465](http://www.nature.com/nrn/journal/v14/n5/full/nrn3465.html)
+Bloch, A. A., Giedd, J. N., & Bullmore, E. (2013). Imaging structural co-variance between human brain regions. Nat. Rev. Neurosci. 14, 322-336. [doi: 10.1038/nrn3465](http://www.nature.com/nrn/journal/v14/n5/full/nrn3465.html).  [link without paywall](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4043276/)
 
 Bullmore, E., & Sporns, O. (2009). Complex brain networks: graph theoretical analysis of structural and functional systems. Nat. Rev. Neurosci., 10, 186–198. [doi:10.1038/nrn2575](https://doi.org/10.1038/nrn2575)
 
