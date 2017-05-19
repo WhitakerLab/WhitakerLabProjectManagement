@@ -1,14 +1,17 @@
-# Weekly Meetings
+cd# Weekly Meetings
 
 * [12th May 2017](#date-12th-may-2017)
+* [19th May 2017](#date-19th-may-2017)
 
+<a id=date-12th-may-2017></a>
 ### Date: 12th May 2017
 
 #### Who did you help this week?
 
-* I did some analysis of the DVS data that has been interesting
+* I did some analysis of the DAS data that has been interesting
   * KW: Yaaaaay! Super exciting!
   * KW Q: What is Beautiful Soup!? Where's the name from?
+    * IS: It seems to come from Alice in Wonderland, see [here](http://www.authorama.com/alice-in-wonderland-10.html), I'm still not really sure why.
 
 #### Who helped you this week?
 
@@ -62,6 +65,43 @@
 What's going to happen in June? How should I spend my time while Kirstie's is traveling?
 * KW: Take ownership of DVS project - really explore the data and look for insights. Also potentially explore network measures between two groups (probably by implementing permutation test between them).
 
+---
+
+
+<a id='date-19th-may-2017'></a>
+### Date: 19th May 2017
+
+#### Who did you help this week?
+
+* Helped HH by proofreading his fellowship application
+
+#### Who helped you this week?
+
+* BMcG gave me a lot of good advice about what to expect from articles data, techniques to use with the large xml files.
+
+#### What did you achieve?
+
+* For [WhitakerLab issue 19](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/19) I got the first two wrappers working, have been writing my comments as I go
+* For the DAS project I learnt quite a lot about the data, produced some nice graphs. 
+
+#### What did you struggle with?
+
+* Understanding the structural covariance network analysis with respect to brain science
+* TypeErrors :moyai:
+* I feel that this week I got bogged down a lot in programming issues
+
+#### What would you like to work on next week?
+
+* I'd like to get the structural covariance blog written up (:watch: a couple of days. There is quite a lot to do here, not just in terms of getting the visualisations going, but also explaining (and understanding!) what is going on.
+* For the DAS project I still need to check a sample of the data for accuracy (:watch:  a few hours, I fear)
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Kirstie?
+
+* Would benefit from talking about structural covariance networks, where the data comes from etc. (:watch: maybe an hour some time next week?)
+
+
+#### Any other topics
 ---
 
 ## Template
