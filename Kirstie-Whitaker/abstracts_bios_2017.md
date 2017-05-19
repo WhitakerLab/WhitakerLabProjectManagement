@@ -141,6 +141,10 @@ We conclude that normative human brain maturation involves a genetically pattern
 
 ### Fragile Families Challenge
 
+**Website**: http://www.fragilefamilieschallenge.org/apply/
+
+**Date**: Applied on 19th May 2017
+
 **Describe your previous research, coursework, or work experience that is related to the Fragile Families Challenge.**
 *We expect that the most relevant experience will come from social science and data science, but we are open minded. Please include links to your CV, your published papers, and your open source software (as appropriate).*
 
