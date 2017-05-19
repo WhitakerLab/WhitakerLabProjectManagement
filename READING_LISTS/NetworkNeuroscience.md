@@ -2,6 +2,8 @@ This list was curated by [František Váša](https://github.com/frantisekvasa) i
 
 ### General reviews / Introductions
 
+Bloch, A. A., Giedd, J. N., & Bullmore, E. (2013). Imaging structural co-variance between human brain regions. Nat. Rev. Neurosci. 14, 322-336. [doi: 10.1038/nrn3465](http://www.nature.com/nrn/journal/v14/n5/full/nrn3465.html)
+
 Bullmore, E., & Sporns, O. (2009). Complex brain networks: graph theoretical analysis of structural and functional systems. Nat. Rev. Neurosci., 10, 186–198. [doi:10.1038/nrn2575](https://doi.org/10.1038/nrn2575)
 
 Wig, G. S., Schlaggar, B. L., & Petersen, S. E. (2011). Concepts and principles in the analysis of brain networks. Ann. N. Y. Acad. Sci., 1224, 126–146. [doi:10.1111/j.1749-6632.2010.05947.x](https://doi.org/10.1111/j.1749-6632.2010.05947.x)
