@@ -14,7 +14,9 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * [NSPN Chicheley Hall](#nspn-chicheley-hall)
 * [Cambridge Science Festival](#cambridge-science-festival)
 * [Endocrine Society (ENDO)](#endocrine-society)
+* [Invited talk at University of Pennsylvania](#invited-talk-at-university-of-pennsylvania)
 * [Society of Biological Psychiatry](#society-of-biological-psychiatry)
+* [Fragile Families Challenge](#fragile-families-challenge)
 * [GAY UK panel discussion on Alan Turing](#gay-uk-panel-discussion-on-alan-turing)
 * [International Conference for Cognitive Neuroscience](#international-conference-for-cognitive=neuroscience)
 * [European College of Neuropsychopharmacology (ENCP) Congress](#european-college-of-neuropsychopharmacology-ecnp-congress)
@@ -68,6 +70,8 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 **Website**: http://www.sciencefestival.cam.ac.uk/events/exploring-teenage-brain-limited-tickets-available-door
 
+**Date**: 21st March 2017
+
 **Abstract**: Dr Kirstie Whitaker will take you on a journey "under the hood" to learn how researchers in Cambridge (and around the world) are studying the teenage brain. She will discuss what we can (and can not!) learn from brain scans in understanding this sensitive period of brain development.
 
 **Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit of the Department of Psychiatry at the University of Cambridge. She is a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and a passionate advocate for reproducible neuroimaging research. Dr Whitaker received her PhD in Neuroscience in 2012 from the University of California at Berkeley, funded by a Fulbright scholarship. She is the founder and lead developer of the STEMM Role Models project ([www.stemmrolemodels.com](http://stemmrolemodels.com/)) that seeks to ensure conference organisers are able to invite the most exciting and diverse speakers to their event. Her personal website is www.kirstiewhitaker.com and she tweets [@kirstie_j](https://twitter.com/kirstie_j).
@@ -85,7 +89,9 @@ Adolescence is a period of human brain growth and high incidence of mental healt
 
 ### Endocrine Society
 
-**Website**: http://www.endocrine.org/endo-2017
+**Website**: www.endocrine.org/meetings/endo-annual-meetings
+
+**Date**: 3rd April 2017
 
 **Title**: Making Connections in the Adolescent Brain
 
@@ -93,12 +99,26 @@ Adolescence is a period of human brain growth and high incidence of mental healt
 
 **Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit at the University of Cambridge working with Prof Ed Bullmore. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 Mozilla Fellow for Science. In July 2017 she will join The [The Alan Turing Institute](https://www.turing.ac.uk/) as a Research Fellow.
 
+**Slides**: https://doi.org/10.6084/m9.figshare.4810603
+
+### Invited talk at University of Pennsylvania
+
+**Date**: 20th April 2017
+
+**Title**: Structural brain development during adolescence and its relation to psychiatric disorders
+
+**Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. I will present my work within the Neuroscience in Psychiatry Network (NSPN; www.nspn.org.uk) on cortical myelination between the ages of 14 and 24. I will show, consistently in two cohorts, that age-related changes in adolescence are concentrated on the more densely connected hubs of the human structural connectome. I will demonstrate the power of integrating open data sets such as the Allen Brain Atlas with non-invasive imaging techniques: specifically by linking the expression of schizophrenia risk genes to adolescent brain development.
+
+**Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit of the Department of Psychiatry at the University of Cambridge. She is a 2016/17 Mozilla Fellow for Science and a passionate advocate for reproducible neuroimaging research. Dr Whitaker received her PhD in Neuroscience in 2012 from the University of California at Berkeley, funded by a Fulbright scholarship. She is the founder and lead developer of the STEMM Role Models project (www.stemmrolemodels.com) that seeks to ensure conference organisers are able to invite the most exciting and diverse speakers to their event. Her personal website is www.kirstiewhitaker.com and she tweets [@kirstie_j](https://twitter.com/kirstie_j).
+
+**Slides**: https://doi.org/10.6084/m9.figshare.3843405
+
 
 ### Society of Biological Psychiatry
 
 **Website**: https://sobp.societyconference.com/conf_website/c29icC5zb2NpZXR5Y29uZmVyZ
 
-**Dates**: 18th - 20th May 2017
+**Date**: 18th - 20th May 2017
 
 **Title**: Adolescence is associated with genomically patterned consolidation of the hubs of the human brain connectome
 
@@ -116,10 +136,48 @@ We found that association cortical areas were thicker and less myelinated than p
 CONCLUSIONS
 We conclude that normative human brain maturation involves a genetically patterned process of consolidating anatomical network hubs. We argue that developmental variation of this consolidation process may be relevant both to normal cognitive and behavioral changes and the high incidence of schizophrenia during human brain adolescence.
 
+**Slides**: https://doi.org/10.6084/m9.figshare.5024930
+
+
+### Fragile Families Challenge
+
+**Describe your previous research, coursework, or work experience that is related to the Fragile Families Challenge.**
+*We expect that the most relevant experience will come from social science and data science, but we are open minded. Please include links to your CV, your published papers, and your open source software (as appropriate).*
+
+I am a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). I completed my PhD in Neuroscience at the University of California, Berkeley in 2012 and hold a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. I conducted postdoctoral research in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. I uses magnetic resonance imaging to study child and adolescent brain development and I am a passionate advocate for reproducible neuroscience. I am a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
+
+* CV: [Whitaker_CV.pdf](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Kirstie-Whitaker/Whitaker_CV.pdf)
+* ORCID record: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)
+* GitHub: [KirstieJane](https://github.com/KirstieJane) and [WhitakerLab](https://github.com/WhitakerLab)
+
+**Describe your previous experience working with restricted-access data.**
+*This could be in an academic, corporate, or governmental setting. Please be specific. If you have no experience with restricted-access data, please let us know, and it will not automatically disqualify you from participating.*
+
+I have published based on analyses of four closed access data sets. They have all been neuroimaging studies and we did not have consent from our participants to share the data widely. All studies have received ethical approval from the appropriate institutions (University of British Columbia, University of California at Berkeley (x2) and  University of Cambridge). All were analysed in academic settings.
+
+**Describe the context in which you plan to participate.**
+*For example, are you planning to participate at a university, company, or government agency? If you are doing this in a course, please tell us the name of the professor.*
+
+I will be leading an interdisciplinary team of researchers at the Alan Turing Institute for Data Science.
+
+**Please let us know your current employer or if you are a student, your current university.**
+*If you are self-employed, not employed, or retired, please say so.*
+
+I am employed by the University of Cambridge through a fellowship from the Alan Turing Institute.
+
+**Do you plan to participate in the Challenge in good faith and consistent with norms of scientific behavior?**
+
+Yes :grin:
+
+**What is motivating you to participate?**
+
+I am interested in the effects of early childhood environments on the development of intelligence, academic achievement and mental health disorders. I am also very excited to work on a complex data set within a diverse team of experts in machine learning, longitudinal analyses and social science.
 
 ### GAY UK: Panel discussion on Alan Turing
 
 **Website**:
+
+**Date**: 24th July 2017
 
 **Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) and senior research associate in the Department of Psychiatry at the University of Cambridge. She uses magnetic resonance imaging to study child and adolescent brain development. She is an Fulbright scholarship alumna, 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and founder of the [STEMM Role Models](http://stemmrolemodels.com/) project.
 
@@ -154,8 +212,12 @@ We conclude that normative human brain maturation involves a genetically pattern
 
 **Website**: Insert link
 
+**Date**: Date
+
 **Title**: Talk title
 
 **Abstract**: Abstract
 
 **Bio**: Bio
+
+**Slides**: Figshare link to slides (if applicable)
