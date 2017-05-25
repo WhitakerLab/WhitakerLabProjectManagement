@@ -17,6 +17,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * [Invited talk at University of Pennsylvania](#invited-talk-at-university-of-pennsylvania)
 * [Society of Biological Psychiatry](#society-of-biological-psychiatry)
 * [Fragile Families Challenge](#fragile-families-challenge)
+* [Talk at Poldrack lab meeting](#talk-at-poldrack-lab-meeting)
 * [GAY UK panel discussion on Alan Turing](#gay-uk-panel-discussion-on-alan-turing)
 * [International Conference for Cognitive Neuroscience](#international-conference-for-cognitive=neuroscience)
 * [European College of Neuropsychopharmacology (ENCP) Congress](#european-college-of-neuropsychopharmacology-ecnp-congress)
@@ -176,6 +177,17 @@ Yes :grin:
 **What is motivating you to participate?**
 
 I am interested in the effects of early childhood environments on the development of intelligence, academic achievement and mental health disorders. I am also very excited to work on a complex data set within a diverse team of experts in machine learning, longitudinal analyses and social science.
+
+### Talk at Poldrack lab meeting
+
+**Date**: 31st May 2017
+
+**Title**: The logistical and emotional challenges of replicating published work
+
+**Abstract**: Encouraging reproducible research - the sharing of data and code along with published findings - opens up the possibility of investigating how well a finding replicates in independent cohorts. It may not be easy to reproduce what someone has done (their code often is not well documented for example) but I have confidence that the open science community can help on the analysis front. A more challenging frontier is the application of a definition of replication - if the "blob" is in a slightly different location what do we conclude? Finally, however, the hardest challenge may be in dealing with the push-back from the original authors who could perceive "failed replications" as a personal attack. During my allocated time at lab meeting I will present a project proposal to replicate neuroimaging findings, explain the motivations and set up what I see are the major challenges. I hope to stimulate a discussion about the future of publishing replication studies in the era of big, and open, data.
+
+**Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
 
 ### GAY UK: Panel discussion on Alan Turing
 
