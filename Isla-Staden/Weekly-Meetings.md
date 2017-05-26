@@ -2,6 +2,7 @@ cd# Weekly Meetings
 
 * [12th May 2017](#date-12th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
+* [26th May 2017](#date-26th-may-2017)
 
 <a id=date-12th-may-2017></a>
 ### Date: 12th May 2017
@@ -102,14 +103,17 @@ What's going to happen in June? How should I spend my time while Kirstie's is tr
 
 
 #### Any other topics
+
 ---
 
-
-### Date: [26-May-2017]
+### Date: 26th May 2017
 
 #### Who did you help this week?
 
 Hmmm.
+
+* KW: Practical help of refactoring the Brains Networks in Python code is helping *everyone* who wants to use the code in the future!
+    (which may only be a couple of people, but that's still REALLY helpful)
 
 #### Who helped you this week?
 
@@ -129,15 +133,23 @@ Kirstie gave me a lot of life-saving help with the Brain Networks in Python stuf
 #### What would you like to work on next week?
 
 * I've really enjoyed the Brain Networks in python stuff. It seems to me that there is a lot more work to be done there in terms of modularising and introducing tests. (weeks plural?)
+  * KW: Action for Kirstie - introduce Isla to Martin O'Reilly because testing would be AMAAAAAZING :sparkles: :sparkles: :sparkles:
 * I'd like to take a shot at the pubmed API (a day or two)
 * I should write up the data checking I did so that BMcG can pass it on to IH (a few hours)
+
 
 #### Where do you need help from Kirstie?
 
 * Let's really think about this. I will still probably need to ask a bunch of questions about these scripts - via github issues as discussed. 
 * I guess I'm a little afraid that I'll run out of stuff to do, especially if the DAS project doesn't work out.
+  * KW: Some ideas:
+    * Visualise the correlation matrices sorted in different ways - eg by module or topologically by x, y, z
+    * Use Force Atlas layout to visualise the topology of the network
+    * Permutation testing between groups (Big job! Woooo!)
 
 #### Any other topics
+
+Think about https://science.mozilla.org/blog/mini-grant-cfp!
 
 ---
 
