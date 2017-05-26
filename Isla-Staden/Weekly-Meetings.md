@@ -1,10 +1,57 @@
-cd# Weekly Meetings
+# Weekly Meetings
 
-* [12th May 2017](#date-12th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [26th May 2017](#date-26th-may-2017)
 
-<a id=date-12th-may-2017></a>
+* [12th May 2017](#date-12th-may-2017)
+
+### Date: 19th May 2017
+
+#### Who did you help this week?
+
+* Helped HH by proofreading his fellowship application
+  * KW: VERY helpful!
+
+#### Who helped you this week?
+
+* BMcG gave me a lot of good advice about what to expect from articles data, techniques to use with the large xml files.
+  * KW: Great stuff
+
+#### What did you achieve?
+
+* For [WhitakerLab issue 19](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/19) I got the first two wrappers working, have been writing my comments as I go :carousel_horse: :sparkles:
+  * KW: WAY TO GO! Thank you!
+* For the DAS project I learnt quite a lot about the data, produced some nice graphs. :art:
+  * KW: They look great...although not what we'd expect from the data :unamused:
+
+#### What did you struggle with?
+
+* Understanding the structural covariance network analysis with respect to brain science
+  * KW: Definitely difficult if you can't access the papers!! Try [Unpaywall](http://unpaywall.org/) and see if there are green open access versions of the papers. Here's a [bunch of information](http://osc.cam.ac.uk/open-access) about open access at Cambridge if you're interested.
+* TypeErrors :moyai:
+  * KW: WELL DONE!
+* I feel that this week I got bogged down a lot in programming issues
+  * KW: Just keep pushing! :punch:
+
+#### What would you like to work on next week?
+
+* I'd like to get the structural covariance blog written up (:watch: a couple of days. There is quite a lot to do here, not just in terms of getting the visualisations going, but also explaining (and understanding!) what is going on.
+  * KW: GREAT! Thank you.
+* For the DAS project I still need to check a sample of the data for accuracy (:watch:  a few hours, I fear)
+  * KW: Yes, great plan. I'd suggest starting with papers that have a lot of references and are open access. Eg from PlosOne.
+* Try to estimate how long each task will take.
+  * KW: If you figure this out, please do let me know :neutral_face:
+
+#### Where do you need help from Kirstie?
+
+* Would benefit from talking about structural covariance networks, where the data comes from etc. (:watch: maybe an hour some time next week?)
+  * KW: absolutely.
+
+#### Any other topics
+
+---
+
+
 ### Date: 12th May 2017
 
 #### Who did you help this week?
@@ -67,92 +114,6 @@ What's going to happen in June? How should I spend my time while Kirstie's is tr
 * KW: Take ownership of DVS project - really explore the data and look for insights. Also potentially explore network measures between two groups (probably by implementing permutation test between them).
 
 ---
-
-
-<a id='date-19th-may-2017'></a>
-### Date: 19th May 2017
-
-#### Who did you help this week?
-
-* Helped HH by proofreading his fellowship application
-
-#### Who helped you this week?
-
-* BMcG gave me a lot of good advice about what to expect from articles data, techniques to use with the large xml files.
-
-#### What did you achieve?
-
-* For [WhitakerLab issue 19](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/19) I got the first two wrappers working, have been writing my comments as I go
-* For the DAS project I learnt quite a lot about the data, produced some nice graphs. 
-
-#### What did you struggle with?
-
-* Understanding the structural covariance network analysis with respect to brain science
-* TypeErrors :moyai:
-* I feel that this week I got bogged down a lot in programming issues
-
-#### What would you like to work on next week?
-
-* I'd like to get the structural covariance blog written up (:watch: a couple of days. There is quite a lot to do here, not just in terms of getting the visualisations going, but also explaining (and understanding!) what is going on.
-* For the DAS project I still need to check a sample of the data for accuracy (:watch:  a few hours, I fear)
-* Try to estimate how long each task will take.
-
-#### Where do you need help from Kirstie?
-
-* Would benefit from talking about structural covariance networks, where the data comes from etc. (:watch: maybe an hour some time next week?)
-
-
-#### Any other topics
-
----
-
-### Date: 26th May 2017
-
-#### Who did you help this week?
-
-Hmmm.
-
-* KW: Practical help of refactoring the Brains Networks in Python code is helping *everyone* who wants to use the code in the future!
-    (which may only be a couple of people, but that's still REALLY helpful)
-
-#### Who helped you this week?
-
-Kirstie gave me a lot of life-saving help with the Brain Networks in Python stuff
-
-#### What did you achieve?
-
-* Confirmed innacuracies in xml data for DAS
-* Got a lot of things working nicely in Brain Networks in Python
-
-#### What did you struggle with?
-
-* Although I've found it easy to describe graph theory and python, I'm struggling to talk about the motivations for this sort of work
-* Earlier in the week with the DAS issues I lost optimism
-
-
-#### What would you like to work on next week?
-
-* I've really enjoyed the Brain Networks in python stuff. It seems to me that there is a lot more work to be done there in terms of modularising and introducing tests. (weeks plural?)
-  * KW: Action for Kirstie - introduce Isla to Martin O'Reilly because testing would be AMAAAAAZING :sparkles: :sparkles: :sparkles:
-* I'd like to take a shot at the pubmed API (a day or two)
-* I should write up the data checking I did so that BMcG can pass it on to IH (a few hours)
-
-
-#### Where do you need help from Kirstie?
-
-* Let's really think about this. I will still probably need to ask a bunch of questions about these scripts - via github issues as discussed. 
-* I guess I'm a little afraid that I'll run out of stuff to do, especially if the DAS project doesn't work out.
-  * KW: Some ideas:
-    * Visualise the correlation matrices sorted in different ways - eg by module or topologically by x, y, z
-    * Use Force Atlas layout to visualise the topology of the network
-    * Permutation testing between groups (Big job! Woooo!)
-
-#### Any other topics
-
-Think about https://science.mozilla.org/blog/mini-grant-cfp!
-
----
-
 
 ## Template
 
