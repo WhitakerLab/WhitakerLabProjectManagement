@@ -104,6 +104,44 @@ What's going to happen in June? How should I spend my time while Kirstie's is tr
 #### Any other topics
 ---
 
+
+### Date: [26-May-2017]
+
+#### Who did you help this week?
+
+Hmmm.
+
+#### Who helped you this week?
+
+Kirstie gave me a lot of life-saving help with the Brain Networks in Python stuff
+
+#### What did you achieve?
+
+* Confirmed innacuracies in xml data for DAS
+* Got a lot of things working nicely in Brain Networks in Python
+
+#### What did you struggle with?
+
+* Although I've found it easy to describe graph theory and python, I'm struggling to talk about the motivations for this sort of work
+* Earlier in the week with the DAS issues I lost optimism
+
+
+#### What would you like to work on next week?
+
+* I've really enjoyed the Brain Networks in python stuff. It seems to me that there is a lot more work to be done there in terms of modularising and introducing tests. (weeks plural?)
+* I'd like to take a shot at the pubmed API (a day or two)
+* I should write up the data checking I did so that BMcG can pass it on to IH (a few hours)
+
+#### Where do you need help from Kirstie?
+
+* Let's really think about this. I will still probably need to ask a bunch of questions about these scripts - via github issues as discussed. 
+* I guess I'm a little afraid that I'll run out of stuff to do, especially if the DAS project doesn't work out.
+
+#### Any other topics
+
+---
+
+
 ## Template
 
 ### Date: [INSERT DATE OF MEETING]
