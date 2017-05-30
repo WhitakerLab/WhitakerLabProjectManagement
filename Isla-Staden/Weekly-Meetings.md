@@ -1,11 +1,11 @@
 # Weekly Meetings
 
-* [19th May 2017](#date-19th-may-2017)
 * [26th May 2017](#date-26th-may-2017)
+* [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
 ---
   
-
  ### Date: 26th May 2017
   
  #### Who did you help this week?
@@ -32,7 +32,7 @@
 #### What would you like to work on next week?
   
   * I've really enjoyed the Brain Networks in python stuff. It seems to me that there is a lot more work to be done there in terms of modularising and introducing tests. (weeks plural?)
-   * KW: Action for Kirstie - introduce Isla to Martin O'Reilly because testing would be AMAAAAAZING :sparkles: :sparkles: :sparkles:
+    * KW: Action for Kirstie - introduce Isla to Martin O'Reilly because testing would be AMAAAAAZING :sparkles: :sparkles: :sparkles:
   * I'd like to take a shot at the pubmed API (a day or two)
   * I should write up the data checking I did so that BMcG can pass it on to IH (a few hours)
   
