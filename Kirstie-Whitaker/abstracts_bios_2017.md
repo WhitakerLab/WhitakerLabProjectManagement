@@ -71,6 +71,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 **Website**: http://www.sciencefestival.cam.ac.uk/events/exploring-teenage-brain-limited-tickets-available-door
 
+
 **Date**: 21st March 2017
 
 **Abstract**: Dr Kirstie Whitaker will take you on a journey "under the hood" to learn how researchers in Cambridge (and around the world) are studying the teenage brain. She will discuss what we can (and can not!) learn from brain scans in understanding this sensitive period of brain development.
@@ -90,6 +91,7 @@ Adolescence is a period of human brain growth and high incidence of mental healt
 
 ### Endocrine Society
 
+
 **Website**: www.endocrine.org/meetings/endo-annual-meetings
 
 **Date**: 3rd April 2017
@@ -99,6 +101,7 @@ Adolescence is a period of human brain growth and high incidence of mental healt
 **Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. I will present findings that adolescent cortical myelination and shrinkage are coupled and specifically associated with a dorsoventrally patterned gene expression profile enriched for synaptic, oligodendroglial- and schizophrenia-related genes. The topologically efficient and biologically expensive hubs of the brain anatomical network are located in association cortical regions and have the most pronounced changes during adolescence.
 
 **Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit at the University of Cambridge working with Prof Ed Bullmore. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 Mozilla Fellow for Science. In July 2017 she will join The [The Alan Turing Institute](https://www.turing.ac.uk/) as a Research Fellow.
+
 
 **Slides**: https://doi.org/10.6084/m9.figshare.4810603
 
@@ -136,6 +139,7 @@ We found that association cortical areas were thicker and less myelinated than p
 
 CONCLUSIONS
 We conclude that normative human brain maturation involves a genetically patterned process of consolidating anatomical network hubs. We argue that developmental variation of this consolidation process may be relevant both to normal cognitive and behavioral changes and the high incidence of schizophrenia during human brain adolescence.
+
 
 **Slides**: https://doi.org/10.6084/m9.figshare.5024930
 
@@ -193,6 +197,7 @@ I am interested in the effects of early childhood environments on the developmen
 
 **Website**:
 
+
 **Date**: 24th July 2017
 
 **Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) and senior research associate in the Department of Psychiatry at the University of Cambridge. She uses magnetic resonance imaging to study child and adolescent brain development. She is an Fulbright scholarship alumna, 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and founder of the [STEMM Role Models](http://stemmrolemodels.com/) project.
@@ -227,6 +232,7 @@ I am interested in the effects of early childhood environments on the developmen
 ### TEMPLATE: Title of event
 
 **Website**: Insert link
+
 
 **Date**: Date
 
