@@ -22,7 +22,7 @@ All content in this repository is [openly licensed](https://github.com/WhitakerL
 
 For example, if you were to use content from this repo in your own project management lab guide, you'd attribute the Whitaker Lab with a sentence like:
 
-> The material in Dr. Mystery's Lab Guide is a partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. Dr. Mystery's Lab Guide is licensed under CC BY 4.0 by [Your name here].
+> The material in Dr. Mystery's Lab Guide is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. Dr. Mystery's Lab Guide is licensed under CC BY 4.0 by [Your name here].
 
 More on CC BY 4.0 licensing can be found at [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
