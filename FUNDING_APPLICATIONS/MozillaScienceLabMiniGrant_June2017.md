@@ -86,7 +86,7 @@ We will also add *new functionality* to the code. There is currently no way (in 
 
 Along with integrated tests, *documentation* will allow the Brain Networks in Python code to be used by many people. We will provide example data and clear tutorials to make it easy for users to install and get up and running with the code. These tutorials will be in the form of Jupyter notebooks that can be either downloaded and run locally or run in a MyBinder ([http://mybinder.org](http://mybinder.org)) instance online. An example Jupyter notebook that is currently in development can be found at [https://github.com/WhitakerLab/BrainNetworksInPython/blob/master/Example_JupyterNotebook.ipynb](https://github.com/WhitakerLab/BrainNetworksInPython/blob/master/Example_JupyterNotebook.ipynb).
 
-Finally, we will release our code as a python packages that can be easily installed via pip (https://packaging.python.org) or conda (https://conda.io). We will ensure that all released versions of our code have digital object identifiers from Zenodo ([https://zenodo.org](https://zenodo.org/)).
+Finally, we will release our code as a Python package that can be easily installed via `pip` (https://packaging.python.org) or conda (https://conda.io). We will ensure that all released versions of our code have digital object identifiers from Zenodo ([https://zenodo.org](https://zenodo.org/)).
 
 *Outputs*
 
@@ -96,35 +96,28 @@ Finally, we will release our code as a python packages that can be easily instal
 * Version controlled code that permits rigorous reproducible neuroscience.
 * An open and inclusive community dedicated to supporting new and veteran users and contributors.
 
-Once a community grows around the project we hope to inspire additional integrations. For example collaborating with Mozilla Global Sprint project Cytoscape js ([http://js.cytoscape.org](http://js.cytoscape.org/)) to provide interactive visualisations of the networks. We could also harness the power of Docker containers promoted by BIDS (Brain Imaging Data Structure) Apps ([http://bids-apps.neuroimaging.io](http://bids-apps.neuroimaging.io/)) to make it even easier for analyses to be reproducible and accessible.
+Once a community grows around the project we hope to inspire additional integrations. For example collaborating with Mozilla Global Sprint project Cytoscape js ([http://js.cytoscape.org](http://js.cytoscape.org/)) to provide interactive visualisations of the networks. We could also harness the power of Docker containers promoted by BIDS (Brain Imaging Data Structure) Apps ([http://bids-apps.neuroimaging.io](http://bids-apps.neuroimaging.io/)) to make it even easier for analyses to be reproducible and accessible. The code currently provides very standard graph theoretic measures, but we would hope to integrate novel computations such as the network versatility (Shinn et al, 2017; [https://github.com/mwshinn/versatility](https://github.com/mwshinn/versatility)).
 
 *Outcomes*
 
-Make it easier to replicate analyses. Make network analyses more accessible.
+The Brain Networks in Python project will make it easier to conduct reproducible analyses of neuroimaging data. We will focus on smoother onboarding for new users (for example graduate students and postdoctoral researchers) to conduct network analyses. We will ensure that early career researchers from around the world can conduct the most rigorous and state of the art analyses of the human brain.
 
-Smoother onboarding. Ensure early career researchers can conduct cutting edge neuroimaging analysis in a documented and community supported enviroment.
+The outcomes of this project during the grant period will be to increase the number of researchers who have the confidence to use and contribute to free and open source software. By supporting our community of early career researchers we will build towards a critical mass of scientists who require open, reproducible and accessible research as a standard for the future of research.
 
-Better science. Better understanding of the brain!
-
-Lots of exciting extensions. Interactive visualisation, extension to different types of networks.
 
 **Provide key indicators you plan to use to measure project outcomes and source of data.** *(500 words)*
 
-DOI
-
-> All projects should specifically reflect priorities that enhance our broader community efforts toward open innovation, efficiency in regards to practicing open science (lower barriers, ease of use & integration, etc), and reproducibility (transparent research methods & results).
-
-Gooooooood question. I'm not sure. Probably the best would be some papers to come out of it!
-
-* Simone?
-* Paula?
-* Kirstie NORA
+* Number of contributors. We will track the number of commits in any branch of the project along with any comments on issues or pull request reviews as contributions using the Let All Build a Hatrack tool ([https://labhr.github.io](https://labhr.github.io/)). We will acknowledge these contributors publicly within the GitHub project repository using Kent Dodd's All Contributors emoji key ([https://github.com/kentcdodds/all-contributors](https://github.com/kentcdodds/all-contributors)).
+* Package downloads. We will track the number of downloads of our Python package using the [http://pypi-ranking.info](http://pypi-ranking.info) website.
+* Scientific citations of the code. We will track the Zenodo DOI for each version of the code to see how often the Brain Networks in Python code is used in academic publications. There are three projects that Kirstie Whitaker is already involved in that will cite the code on submission for publication by the end of 2017.
 
 **Explain who will benefit from the project.** *(100 words)*
 
-AAAAAALSO A good question. Scientists. People wanting to study brain as a complex network. Network analysists who want to apply their methods to brain networks? <-- good idea, could be that there are people with graph theory specific knowledge who have ideas about how you should analyse the brain. The open source code would allow them to see and improve our analysis
+Early career researchers who are new to network neuroscience will benefit from this project and will find friendly support for their endeavors from the development team.
 
-Allows provenance of analysis and efficient knowledge transfer, so this project also benefits senior scientists who are mentoring members of their group. They don't have to be concerned about
+Complex network analysts will benefit from the example data and option of their models being integrated into the project to facilitate wider adoption in the neuroimaging community.
+
+Reproducible and version controlled software means that the provenance of an analysis can be recorded. It also ensures efficient knowledge transfer and therefore this project benefits senior scientists as expertise will not leave their group when one member advances to a new position.
 
 **List any risks or challenges that may affect the overall success of your project and now how Mozilla and/or others can help you to overcome these challenges.** *(250 words)*
 
@@ -134,36 +127,31 @@ Probably the biggest challenge is that it is not usable for others - currently c
 
 **Is this a new project or continuation? If new, please describe your qualifications to initiate the activity. If continued, please describe your accomplishments to date. Feel free to include links to articles and documents online that highlight your recent work.** *(1000 words)*
 
-Continuation of Kirstie's work. INSERT DESCRIPTION OF PNAS PAPER.
+The project is a continuation of the work that Dr Kirstie Whitaker published in 2016 ([Whitaker\*, Vertes\* et al, 2016](http://dx.doi.org/10.1073/pnas.1601745113)). The code is openly available on GitHub ([https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016](https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016)). For this work, Dr Whitaker and her collaborator Petra Vertes were named as [2016 Global Thinkers](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
-New for Isla. INSERT expertise re: graph theory & networks etc.
+Dr Whitaker's CV is available at our lab GitHub repository: https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Kirstie-Whitaker/Whitaker_CV.pdf
 
-* Degree in Maths from Cambridge - including graph theory course.
-* Advanced coding in Python - matplotlib, networkx, numpy, pandas - git & GitHub, LaTeX and matlab.
-* Already working on the code - jupyter notebook
+I am a research assistant in the Whitaker Lab at the Alan Turing Institute. I have a BSc in Mathematics from the University of Cambridge which included specialised training in graph theory and topological analysis.
+
+I have advanced coding skills in Matlab and Python, including expertise in the matplotlib, networkx, numpy and pandas libraries that are used by the Brain Networks in Python project. I am a proficient git & GitHub user, and have experience writing academic documents in LaTeX.
+
+I am already working on the project described in this proposal and a list of my code contributions can be found at [https://github.com/WhitakerLab/BrainNetworksInPython/commits?author=Islast](https://github.com/WhitakerLab/BrainNetworksInPython/commits?author=Islast).
 
 
 **Mozilla works in the open. How will you document and share your project progress with the community.** *(250 words)*
 
-GitHuuuuuuub. Already there. Twitter account for lab.
+The Brain Networks in Python project is hosted on GitHub: [https://github.com/WhitakerLab/BrainNetworksInPython](https://github.com/WhitakerLab/BrainNetworksInPython).
 
-Got a contributing file and code of conduct. Building issues during mozilla global sprint and updating README file.
+We follow the Mozilla open leadership training best practice principles ([https://mozilla.github.io/open-leadership-training-series](https://mozilla.github.io/open-leadership-training-series/)). The Brain Networks in Python project has a README file, a code of conduct and a guide for contributors.
 
-Embrace working open philosophy. Ensure that work in progress is shared so that others can provide help and feedback.
-
-IS:
-
-* We work so openly that our weekly meetings notes are public.
-* It's fun for me to keep writing blog articles about our progress
+Within the Whitaker Lab we work as openly as possible. All the weekly meetings I have with Dr Whitaker are available ([https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md)). We are dedicated to sharing work in progress so that others can provide help and feedback. I am greatly looking forward to the opportunity to engage with the brain networks community and provide useful tools and documentation for their research.
 
 
 **How will you continue work on this project beyond the funding period?** *(250 words)*
 
-We hope that users will continue to contribute. Kirstie will be able to monitor contributions.
+Dr Whitaker will continue to lead the Brain Networks in Python project during her five year fellowship at the Turing Institute. I hope to find funding to continue my contributions beyond the end of the grant period possibly through the Alan Turing Institute's seed funding program. A requirement for seed funding is that a product or publication can be completed in six months. The Mozilla mini-grant would give me time to build community around the Brain Networks in Python software and therefore build a successful application to the internal Turing funding body.
 
-Isla....applying for other funding? Planning to apply for masters programs in maths - network analyses will support these endeveavors.
-
-Importantly - doesn't need to be "me". Whole point of building documentation openly is so that others can fork and contribute even if Isla leaves!
+Importantly however, I may not be needed to continue on the project. If our two month summer program of refactoring, modularisation, testing, documentation and community building goes to plan we will have a powerful open source community that can continue to develop without my input. I hope to remain involved in the project, but I also hope that I am not necessary. A key deliverable of this mini-grant would be a Brain Networks in Python package that sustain itself in a stable form.
 
 ### Upload documents
 
@@ -184,10 +172,3 @@ Importantly - doesn't need to be "me". Whole point of building documentation ope
 
 - [x] Yes
 - [ ] Not at this time
-
----
-
-Kirstie's Brain Networks In Python code is already available on github, we want to expand the code base, add tests and improve usability by creating detailed documentation and providing step by step instructions. In short, we want to make the code open source in a greater sense than just putting it out there.
-This will serve two purposes. The first: anyone will be be able to learn from it and use it to run network analyses on their own data with minimal friction. It will be straight forward for users to add their own features an build on the code base as needed. The second purpose addresses reproducibility in science. When someone (Kirstie or anybody else) reports a finding using these tools and makes their data available, everything can be checked. We allow people to check the results by providing clear instruction for beginners users- and to check the methodology, by making our code transparent, well-documented and testable.
-
-The goal Kirstie and I have is to show how easy it is to take something you have written for your own analysis purposes and make it useful to others and, by making your analysis reproducible, useful to yourself.
