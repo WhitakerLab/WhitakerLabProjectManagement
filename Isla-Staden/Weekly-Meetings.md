@@ -14,10 +14,11 @@
 
 Replace this text with a one/two sentence description of who you helped this week and how.
 
-
 #### Who helped you this week?
 
 Replace this text with a one/two sentence description of who helped you this week and how.
+
+* These are always the hardest two. Why? Is there something wrong with me?
 
 #### What did you achieve?
 
@@ -31,6 +32,7 @@ Replace this text with a one/two sentence description of who helped you this wee
 
 * Well there're some things I ought to do for the DAS project- i.e producing a presentation about my findings on the pubmed api/dataset/article contradictions (this from last week :moyai:) and taking a look at the new dataset. 
 * I would like to sort of get a start on testing next week. I *want* to pull everything in Brain Networks in Python together and start permuting/ making ever prettier figures, but it would be wiser to get the hang of testing before I rush into everything else.
+* Upload the new blog post! 
 
 #### Where do you need help from Kirstie?
 
