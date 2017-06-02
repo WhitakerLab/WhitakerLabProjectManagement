@@ -88,7 +88,7 @@ We will also add *new functionality* to the code. There is currently no way (in 
 
 Along with integrated tests, *documentation* will allow the Brain Networks in Python code to be used by many people. We will provide example data and clear tutorials to make it easy for users to install and get up and running with the code. These tutorials will be in the form of Jupyter notebooks that can be either downloaded and run locally or run in a MyBinder ([http://mybinder.org](http://mybinder.org)) instance online. An example Jupyter notebook that is currently in development can be found at [https://github.com/WhitakerLab/BrainNetworksInPython/blob/master/Example_JupyterNotebook.ipynb](https://github.com/WhitakerLab/BrainNetworksInPython/blob/master/Example_JupyterNotebook.ipynb).
 
-Finally, we will release our code as a Python package that can be easily installed via `pip` (https://packaging.python.org) or conda (https://conda.io). We will ensure that all released versions of our code have digital object identifiers from Zenodo ([https://zenodo.org](https://zenodo.org/)).
+Finally, we will *release our code as a Python package* that can be easily installed via `pip` (https://packaging.python.org) or conda (https://conda.io). We will ensure that all released versions of our code have digital object identifiers from Zenodo ([https://zenodo.org](https://zenodo.org/)).
 
 *Outputs*
 
@@ -149,7 +149,7 @@ The Brain Networks in Python project is hosted on GitHub: [https://github.com/Wh
 
 We follow the Mozilla open leadership training best practice principles ([https://mozilla.github.io/open-leadership-training-series](https://mozilla.github.io/open-leadership-training-series/)). The Brain Networks in Python project has a README file, a code of conduct and a guide for contributors.
 
-Within the Whitaker Lab we work as openly as possible. All the weekly meetings I have with Dr Whitaker are available ([https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md)). We are dedicated to sharing work in progress so that others can provide help and feedback. In my first week as a member of the Whitaker Lab Icontributed to the Whitaker Lab blog ([https://whitakerlab.github.io/blog/Hello-Earthling/](https://whitakerlab.github.io/blog/Hello-Earthling/)) and I am greatly looking forward to the opportunity to engage further with the brain networks community through social media and further blog posts.
+Within the Whitaker Lab we work as openly as possible. All the weekly meetings I have with Dr Whitaker are available ([https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md)). We are dedicated to sharing work in progress so that others can provide help and feedback. In my first week as a member of the Whitaker Lab Icontributed to the Whitaker Lab blog ([https://whitakerlab.github.io/blog/Hello-Earthling](https://whitakerlab.github.io/blog/Hello-Earthling/)) and I am greatly looking forward to the opportunity to engage further with the brain networks community through social media and further blog posts.
 
 
 **How will you continue work on this project beyond the funding period?** *(250 words)*
