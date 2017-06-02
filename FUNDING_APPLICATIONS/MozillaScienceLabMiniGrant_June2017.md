@@ -10,9 +10,9 @@
 
 **Physical address:**
 
-Alan Turing Institute
-British Library
-96 Euston Road
+Alan Turing Institute<br>
+British Library<br>
+96 Euston Road<br>
 London NW1 2DB
 
 **Institution:** Alan Turing Institute
@@ -26,14 +26,11 @@ No.
 
 **Title** *(10 words)*: Brain Networks in Python
 
-* KW note - this is a pretty crummy title - I'm totally up for a better one..
-  * IS: I like it. it's to the point. Unfortunately it acronymises to BNP... brainpy and pybrain already taken. NetworkNoggins?
-
 **Provide a brief description of your project or event**
 
 *(50 words)*
 
-NEEDED. Needs to relate to the goals of prototyping and onboarding new researchers.
+The Brain Networks in Python project provides open source, documented, tested and modular code to investigate the brain as a network. These analyses are reproducible, transparent and accessible to new and expert brain imaging researchers and network neuroscientists. Openly developed, this project welcomes users and contributors from all disciplines.
 
 **Total proposal budget in US Dollars (USD)**:
 
@@ -47,7 +44,7 @@ NEEDED. Needs to relate to the goals of prototyping and onboarding new researche
 
 I will be mentored by Dr Kirstie Whitaker. Kirstie is a research fellow at the Turing Institute and outgoing Mozilla Fellow for Science. She is a neuroscientist who studies brain development, using graph theory to understand the brain as a network. Dr Whitaker is a two time mentor for the Mozilla Open Leadership Training Series and she has extensive skills in nurturing and supporting open projects. The Brain Networks in Python is built within the Whitaker Lab GitHub repository where Dr Whitaker is an active contributor. She will review all code and documentation and provide guidance to ensure the Brain Networks In Python project is accessible and usable for all.
 
-I will also work with the research software engineering team at the Turing Institute. The team is lead by Dr James Heatherington....
+I will also work with the research software engineering team at the Alan Turing Institute. The team is lead by Dr James Heatherington who has worked for 5 years as the head of Research Software Development at University College London. In his words: "Well written, readable software, written for humans to read as well as computers to execute, forms an important part of research communications and can deliver significant research impact." ([http://www.ucl.ac.uk/research-it-services/people/james](http://www.ucl.ac.uk/research-it-services/people/james))
 
 **On which Internet health issue(s) does your proposal focus?**
 
@@ -72,7 +69,8 @@ I will also work with the research software engineering team at the Turing Insti
 
 **Describe the issue/problem you are trying to address.** *(100 words)*
 
-The brain is made of lots of regions. Traditional neuroimaging analyses have considered them all separately. This is no good. Modelling the connections between the different parts of the brain is much more reasonable. This project will implement graph theory to analyse magnetic resonance brain images as a network. The most popular toolbox to do brain network analyses is written in matlab. This project allows researchers who are at all levels of expertise in python programming to conduct the analyses.
+The brain made up of many regions that communicate millions of messages every second. Traditional neuroimaging analyses have considered each region separately and therefore failed to capture many aspects of brain structure and function. Graph theory allows us to analyse human brain images as a network (Bullmore & Sporns, 2009). The most popular toolbox to do brain network analyses is written in Matlab (Brain Connectivity Toolbox: https://sites.google.com/site/bctnet) which requires an expensive (and therefore inaccessible) license. We want to provide free and openly available software to allow all neuroscience researchers to conduct reproducible and biologically meaningful investigations of the human brain.
+
 
 **List key project activities (what you will do), outputs (what will be produced through your activities) and outcomes (impact of your project on your beneficiaries during the grant period).** *(1000 words)*
 
@@ -155,7 +153,7 @@ Embrace working open philosophy. Ensure that work in progress is shared so that 
 
 IS:
 
-* We work so openly that our weekly meetings notes are public. 
+* We work so openly that our weekly meetings notes are public.
 * It's fun for me to keep writing blog articles about our progress
 
 
