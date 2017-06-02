@@ -69,12 +69,12 @@ I will also work with the research software engineering team at the Alan Turing 
 
 **Describe the issue/problem you are trying to address.** *(100 words)*
 
-The brain made up of many regions that communicate millions of messages every second. Traditional neuroimaging analyses have considered each region separately and therefore failed to capture many aspects of brain structure and function. Graph theory allows us to analyse human brain images as a network ([Bullmore & Sporns, 2009](https://doi.org/10.1038/nrn2575)). The most popular toolbox to do brain network analyses is written in Matlab (Brain Connectivity Toolbox: https://sites.google.com/site/bctnet) which requires an expensive (and therefore inaccessible) license. We want to provide free and openly available software to allow all neuroscience researchers to conduct reproducible and biologically meaningful investigations of the human brain.
+The brain made up of many regions that communicate millions of messages every second. Traditional neuroimaging analyses have considered each region separately and therefore failed to capture many aspects of brain structure and function. Graph theory allows us to analyse human brain images as a network ([Bullmore & Sporns, 2009](https://doi.org/10.1038/nrn2575)). The most popular toolbox to do brain network analyses is written in Matlab (Brain Connectivity Toolbox; https://sites.google.com/site/bctnet) which requires an expensive (and therefore inaccessible) license. We want to provide free and openly available software to allow all neuroscience researchers to conduct reproducible and biologically meaningful investigations of the human brain.
 
 
 **List key project activities (what you will do), outputs (what will be produced through your activities) and outcomes (impact of your project on your beneficiaries during the grant period).** *(1000 words)*
 
-The three goals of this mini-grant proposal are to 1) unlock the specialised knowledge required to conduct graph theoretic analyses on brain imaging data, 2) make an existing code base more modular and therefore flexible enough to be used for a wider range of applications, and 3) to promote a free and open source community driven project that facilitates the highest level of scientific research. The proposed activities, outputs and outcomes are explained in detail below.
+The three goals of this mini-grant proposal are to 1) unlock the specialised knowledge required to conduct graph theoretic analyses on brain imaging data by providing clear documentation, 2) make an existing code base more modular and therefore flexible enough to be used for a wider range of applications, and 3) to promote a free and open source community driven project that facilitates the highest level of scientific research. The proposed activities, outputs and outcomes are explained in detail below.
 
 *Activities*
 
@@ -94,7 +94,7 @@ Finally, we will release our code as a Python package that can be easily install
 
 * MIT licensed, documented and tested code that is easy to use and re-use.
 * Modular code that can be repurposed for individual use cases.
-* An easy to install and version controlled python package that can be cited in future publications.
+* An easy to install python package that can be cited in future publications.
 * Version controlled code that permits rigorous reproducible neuroscience.
 * An open and inclusive community dedicated to supporting new and veteran users and contributors.
 
@@ -149,14 +149,14 @@ The Brain Networks in Python project is hosted on GitHub: [https://github.com/Wh
 
 We follow the Mozilla open leadership training best practice principles ([https://mozilla.github.io/open-leadership-training-series](https://mozilla.github.io/open-leadership-training-series/)). The Brain Networks in Python project has a README file, a code of conduct and a guide for contributors.
 
-Within the Whitaker Lab we work as openly as possible. All the weekly meetings I have with Dr Whitaker are available ([https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md)). We are dedicated to sharing work in progress so that others can provide help and feedback. I am greatly looking forward to the opportunity to engage with the brain networks community and provide useful tools and documentation for their research.
+Within the Whitaker Lab we work as openly as possible. All the weekly meetings I have with Dr Whitaker are available ([https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md)). We are dedicated to sharing work in progress so that others can provide help and feedback. In my first week as a member of the Whitaker Lab Icontributed to the Whitaker Lab blog ([https://whitakerlab.github.io/blog/Hello-Earthling/](https://whitakerlab.github.io/blog/Hello-Earthling/)) and I am greatly looking forward to the opportunity to engage further with the brain networks community through social media and further blog posts.
 
 
 **How will you continue work on this project beyond the funding period?** *(250 words)*
 
 Dr Whitaker will continue to lead the Brain Networks in Python project during her five year fellowship at the Turing Institute. I hope to find funding to continue my contributions beyond the end of the grant period possibly through the Alan Turing Institute's seed funding program. A requirement for seed funding is that a product or publication can be completed in six months. The Mozilla mini-grant would give me time to build community around the Brain Networks in Python software and therefore build a successful application to the internal Turing funding body.
 
-Importantly however, I may not be needed to continue on the project. If our two month summer program of refactoring, modularisation, testing, documentation and community building goes to plan we will have a powerful open source community that can continue to develop without my input. I hope to remain involved in the project, but I also hope that I am not necessary. A key deliverable of this mini-grant would be a Brain Networks in Python package that sustain itself in a stable form.
+Importantly however, I may not be needed to continue on the project. If our two month summer program of refactoring, modularisation, testing, documentation and community building goes to plan we will have a powerful open source community that can continue to develop without my input. I hope to remain involved in the project, but I also hope that I am not necessary. A key deliverable of this mini-grant would be a Brain Networks in Python package that can sustain itself in a stable form.
 
 ### Upload documents
 
