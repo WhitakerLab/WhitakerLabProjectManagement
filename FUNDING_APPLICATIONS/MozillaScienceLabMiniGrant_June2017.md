@@ -69,10 +69,12 @@ I will also work with the research software engineering team at the Alan Turing 
 
 **Describe the issue/problem you are trying to address.** *(100 words)*
 
-The brain made up of many regions that communicate millions of messages every second. Traditional neuroimaging analyses have considered each region separately and therefore failed to capture many aspects of brain structure and function. Graph theory allows us to analyse human brain images as a network ([Bullmore & Sporns, 2009]()). The most popular toolbox to do brain network analyses is written in Matlab (Brain Connectivity Toolbox: https://sites.google.com/site/bctnet) which requires an expensive (and therefore inaccessible) license. We want to provide free and openly available software to allow all neuroscience researchers to conduct reproducible and biologically meaningful investigations of the human brain.
+The brain made up of many regions that communicate millions of messages every second. Traditional neuroimaging analyses have considered each region separately and therefore failed to capture many aspects of brain structure and function. Graph theory allows us to analyse human brain images as a network ([Bullmore & Sporns, 2009](https://doi.org/10.1038/nrn2575)). The most popular toolbox to do brain network analyses is written in Matlab (Brain Connectivity Toolbox: https://sites.google.com/site/bctnet) which requires an expensive (and therefore inaccessible) license. We want to provide free and openly available software to allow all neuroscience researchers to conduct reproducible and biologically meaningful investigations of the human brain.
 
 
 **List key project activities (what you will do), outputs (what will be produced through your activities) and outcomes (impact of your project on your beneficiaries during the grant period).** *(1000 words)*
+
+The three goals of this mini-grant proposal are to 1) unlock the specialised knowledge required to conduct graph theoretic analyses on brain imaging data, 2) make an existing code base more modular and therefore flexible enough to be used for a wider range of applications, and 3) to promote a free and open source community driven project that facilitates the highest level of scientific research. The proposed activities, outputs and outcomes are explained in detail below.
 
 *Activities*
 
@@ -121,9 +123,12 @@ Reproducible and version controlled software means that the provenance of an ana
 
 **List any risks or challenges that may affect the overall success of your project and now how Mozilla and/or others can help you to overcome these challenges.** *(250 words)*
 
-These are ALL VERY GOOD POINTS.
+Although the code has been used very successfully by Kirstie Whitaker in previous publications, it is difficult to understand for external collaborators. I have been working hard to implement the code but it has been necessary to walk over to Kirstie's desk and ask her to explain (for example) naming structures and project organisation.
 
-Probably the biggest challenge is that it is not usable for others - currently code works perfectly for the Neuroscience in Psychiatry Network but requires Kirstie's idiosyncratic knowledge! Best way forward is to link into the Mozilla network and get early feedback from the community.
+It is easy to see how this situation developed. The person who originally wrote the code understands it so well that she has expert blindness to the challenges that fresh eyes may experience. It is imperative that we have user input from the beginning. The Mozilla Science Lab network will provide excellent opportunities to report on project development and receive feedback from the community.
+
+One of the greatest challenges for the project is that of finding time to build documentation, add in a test suite and refactor the code to be more modular and therefore more widely applicable. This mini-grant will be particularly valuable in levelling up the code base to make it easy to use for international standard publications in the field of network neuroscience.
+
 
 **Is this a new project or continuation? If new, please describe your qualifications to initiate the activity. If continued, please describe your accomplishments to date. Feel free to include links to articles and documents online that highlight your recent work.** *(1000 words)*
 
