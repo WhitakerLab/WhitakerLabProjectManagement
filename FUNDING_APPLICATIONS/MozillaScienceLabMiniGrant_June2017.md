@@ -6,7 +6,7 @@
 
 **Name:** Isla Staden
 
-**Email:**
+**Email:** istaden@turing.ac.uk
 
 **Physical address:**
 
@@ -27,6 +27,7 @@ No.
 **Title** *(10 words)*: Brain Networks in Python
 
 * KW note - this is a pretty crummy title - I'm totally up for a better one..
+  * IS: I like it. it's to the point. Unfortunately it acronymises to BNP... brainpy and pybrain already taken. NetworkNoggins?
 
 **Provide a brief description of your project or event**
 
@@ -71,7 +72,7 @@ I will also work with the research software engineering team at the Turing Insti
 
 **Describe the issue/problem you are trying to address.** *(100 words)*
 
-The brain is made of lots of regions. Traditional neuroimaging analyses have considered them all separately. This is no good. Modelling the connections between the different parts of the brain is much more reasonable. This project will implement graph theory to analysis magnetic resonance brain images as a network. The most popular toolbox to do brain network analyses is written in matlab. This project allows researchers who are at all levels of expertise in python programming to conduct the analyses.
+The brain is made of lots of regions. Traditional neuroimaging analyses have considered them all separately. This is no good. Modelling the connections between the different parts of the brain is much more reasonable. This project will implement graph theory to analyse magnetic resonance brain images as a network. The most popular toolbox to do brain network analyses is written in matlab. This project allows researchers who are at all levels of expertise in python programming to conduct the analyses.
 
 **List key project activities (what you will do), outputs (what will be produced through your activities) and outcomes (impact of your project on your beneficiaries during the grant period).** *(1000 words)*
 
@@ -103,7 +104,7 @@ Once a community grows around the project we hope to inspire additional integrat
 
 Make it easier to replicate analyses. Make network analyses more accessible.
 
-Smoother onboarding. Ensure early career researchers can conduct cutting edge neuroimaing analysis in a documented and community supported enviroment.
+Smoother onboarding. Ensure early career researchers can conduct cutting edge neuroimaging analysis in a documented and community supported enviroment.
 
 Better science. Better understanding of the brain!
 
