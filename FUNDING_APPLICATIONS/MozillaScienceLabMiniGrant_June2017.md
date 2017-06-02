@@ -124,7 +124,7 @@ Gooooooood question. I'm not sure. Probably the best would be some papers to com
 
 **Explain who will benefit from the project.** *(100 words)*
 
-AAAAAALSO A good question. Scientists. People wanting to study brain as a complex network. Network analysists who want to apply their methods to brain networks?
+AAAAAALSO A good question. Scientists. People wanting to study brain as a complex network. Network analysists who want to apply their methods to brain networks? <-- good idea, could be that there are people with graph theory specific knowledge who have ideas about how you should analyse the brain. The open source code would allow them to see and improve our analysis
 
 Allows provenance of analysis and efficient knowledge transfer, so this project also benefits senior scientists who are mentoring members of their group. They don't have to be concerned about
 
@@ -138,7 +138,8 @@ Probably the biggest challenge is that it is not usable for others - currently c
 
 Continuation of Kirstie's work. INSERT DESCRIPTION OF PNAS PAPER.
 
-New for Isla. INSERT expertise re: graph theory & networks etc.
+New for Isla. INSERT expertise re: graph theory & networks etc. 
+I
 
 **Mozilla works in the open. How will you document and share your project progress with the community.** *(250 words)*
 
@@ -148,10 +149,13 @@ Got a contributing file and code of conduct. Building issues during mozilla glob
 
 Embrace working open philosophy. Ensure that work in progress is shared so that others can provide help and feedback.
 
+IS: * We work so openly that our weekly meetings notes are public. 
+    * It's fun for me to keep writing blog articles about our progress
+
 
 **How will you continue work on this project beyond the funding period?** *(250 words)*
 
-We hope that users will continue to contribute. Kirstie will be able to mentor contributions.
+We hope that users will continue to contribute. Kirstie will be able to monitor contributions.
 
 Isla....applying for other funding?
 
