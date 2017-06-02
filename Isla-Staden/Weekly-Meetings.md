@@ -30,11 +30,11 @@ Replace this text with a one/two sentence description of who helped you this wee
 #### What would you like to work on next week?
 
 * Well there're some things I ought to do for the DAS project- i.e producing a presentation about my findings on the pubmed api/dataset/article contradictions (this from last week :moyai:) and taking a look at the new dataset. 
-* I would like to sort of get a start on testing next week. I *want* to pull everything in Brain Networks in Python together and start permuting/ making ever prettier figures, but I know it would be wiser to get the hang of testing before I rush into everything else.
+* I would like to sort of get a start on testing next week. I *want* to pull everything in Brain Networks in Python together and start permuting/ making ever prettier figures, but it would be wiser to get the hang of testing before I rush into everything else.
 
 #### Where do you need help from Kirstie?
 
-* I need her to pedal hard and raise good money for aids! :mountain_bicyclist::wind_chime:
+* I need her to pedal hard and raise good money for aids! :mountain_bicyclist::leaves:
 * It would be great if she could give me some pointers on learning testing
 
 #### Any other topics
