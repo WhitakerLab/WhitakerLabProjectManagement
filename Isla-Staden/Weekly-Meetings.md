@@ -1,8 +1,55 @@
 # Weekly Meetings
 
+* [2nd June 2017](#date-2nd-june-2017)
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+### Date: 2nd June 2017
+
+#### Who did you help this week?
+
+Replace this text with a one/two sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+Replace this text with a one/two sentence description of who helped you this week and how.
+
+* These are always the hardest two. Why? Is there something wrong with me?
+
+  * KW: No! Definitely not wrong with you. These are super odd questions to ask (but important I think!) Keep an eye on all the ways in which you're helping out. Moving forwards on the DAS project and the Brain Networks in Python code is really amazing!
+
+#### What did you achieve?
+
+* This has been a slow week, but I familiarised myself with the eupubmed API and with contentmine. 
+  * KW: GREAT! [Just keep pushing](http://matt.might.net/articles/phd-school-in-pictures/) :smile:
+* By end of today I'll upload the new blog post!
+  * (KW: Moved from plans for next week! YEAH!)
+
+#### What did you struggle with?
+
+* One thing that's been tricky this week is working without with Kirstie (since she's out of the country). I have relied on being able to go over to her desk and bug her.
+  * KW: Yes. This is definitely harder. Let's see if Gitter is useful:
+    * General questions in the [WhitakerLab Lobby](https://gitter.im/WhitakerLab/Lobby)
+    * Brain Networks in Python questions in the [BrainNetworksInPython](https://gitter.im/WhitakerLab/BrainNetworksInPython) room :smile:
+    
+#### What would you like to work on next week?
+
+* Well there're some things I ought to do for the DAS project- i.e producing a presentation about my findings on the pubmed api/dataset/article contradictions (this from last week :moyai:) and taking a look at the new dataset. 
+  * KW: I think this is the really important thing to cross off the list by the next time we talk. Otherwise it's going to just keep hanging over us :unamused:
+* I would like to sort of get a start on testing next week. I *want* to pull everything in Brain Networks in Python together and start permuting/ making ever prettier figures, but it would be wiser to get the hang of testing before I rush into everything else.
+  * KW: Yes, lets go for a marathon not a sprint on this front :fist:
+
+#### Where do you need help from Kirstie?
+
+* I need her to pedal hard and raise good money for aids! :mountain_bicyclist::leaves:
+* It would be great if she could give me some pointers on learning testing
+  * KW TODO: Put you in touch with Martin
+
+#### Any other topics
+
+
 
 ---
   
