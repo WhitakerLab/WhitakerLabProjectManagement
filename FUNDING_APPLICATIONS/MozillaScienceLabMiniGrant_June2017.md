@@ -138,8 +138,12 @@ Probably the biggest challenge is that it is not usable for others - currently c
 
 Continuation of Kirstie's work. INSERT DESCRIPTION OF PNAS PAPER.
 
-New for Isla. INSERT expertise re: graph theory & networks etc. 
-I
+New for Isla. INSERT expertise re: graph theory & networks etc.
+
+* Degree in Maths from Cambridge - including graph theory course.
+* Advanced coding in Python - matplotlib, networkx, numpy, pandas - git & GitHub, LaTeX and matlab.
+* Already working on the code - jupyter notebook
+
 
 **Mozilla works in the open. How will you document and share your project progress with the community.** *(250 words)*
 
@@ -149,15 +153,17 @@ Got a contributing file and code of conduct. Building issues during mozilla glob
 
 Embrace working open philosophy. Ensure that work in progress is shared so that others can provide help and feedback.
 
-IS: * We work so openly that our weekly meetings notes are public. 
-    * It's fun for me to keep writing blog articles about our progress
+IS:
+
+* We work so openly that our weekly meetings notes are public. 
+* It's fun for me to keep writing blog articles about our progress
 
 
 **How will you continue work on this project beyond the funding period?** *(250 words)*
 
 We hope that users will continue to contribute. Kirstie will be able to monitor contributions.
 
-Isla....applying for other funding?
+Isla....applying for other funding? Planning to apply for masters programs in maths - network analyses will support these endeveavors.
 
 Importantly - doesn't need to be "me". Whole point of building documentation openly is so that others can fork and contribute even if Isla leaves!
 
