@@ -1,8 +1,45 @@
 # Weekly Meetings
 
+* [2nd June 2017](#date-2nd-june-2017)
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+
+
+### Date: 2nd June 2017
+
+#### Who did you help this week?
+
+Replace this text with a one/two sentence description of who you helped this week and how.
+
+
+#### Who helped you this week?
+
+Replace this text with a one/two sentence description of who helped you this week and how.
+
+#### What did you achieve?
+
+* This has been a slow week, but I familiarised myself with the eupubmed API and with contentmine. 
+
+#### What did you struggle with?
+
+* One thing that's been tricky this week is working without with Kirstie (since she's out of the country). I have relied on being able to go over to her desk and bug her.
+
+#### What would you like to work on next week?
+
+* Well there're some things I ought to do for the DAS project- i.e producing a presentation about my findings on the pubmed api/dataset/article contradictions (this from last week :moyai:) and taking a look at the new dataset. 
+* I would like to sort of get a start on testing next week. I *want* to pull everything in Brain Networks in Python together and start permuting/ making ever prettier figures, but I know it would be wiser to get the hang of testing before I rush into everything else.
+
+#### Where do you need help from Kirstie?
+
+* I need her to pedal hard and raise good money for aids! :mountain_bicyclist::wind_chime:
+* It would be great if she could give me some pointers on learning testing
+
+#### Any other topics
+
+
 
 ---
   
