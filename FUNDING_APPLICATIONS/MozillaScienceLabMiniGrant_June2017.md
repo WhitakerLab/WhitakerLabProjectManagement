@@ -6,7 +6,7 @@
 
 **Name:** Isla Staden
 
-**Email:** islastaden@gmail.com
+**Email:**
 
 **Physical address:**
 
@@ -32,7 +32,7 @@ No.
 
 *(50 words)*
 
-
+NEEDED. Needs to relate to the goals of prototyping and onboarding new researchers.
 
 **Total proposal budget in US Dollars (USD)**:
 
@@ -46,7 +46,7 @@ No.
 
 I will be mentored by Dr Kirstie Whitaker. Kirstie is a research fellow at the Turing Institute and outgoing Mozilla Fellow for Science. She is a neuroscientist who studies brain development, using graph theory to understand the brain as a network. Dr Whitaker is a two time mentor for the Mozilla Open Leadership Training Series and she has extensive skills in nurturing and supporting open projects. The Brain Networks in Python is built within the Whitaker Lab GitHub repository where Dr Whitaker is an active contributor. She will review all code and documentation and provide guidance to ensure the Brain Networks In Python project is accessible and usable for all.
 
-I will also work with the research software engineering team at the Turing Institute. The team is lead by Dr James He
+I will also work with the research software engineering team at the Turing Institute. The team is lead by Dr James Heatherington....
 
 **On which Internet health issue(s) does your proposal focus?**
 
@@ -71,7 +71,7 @@ I will also work with the research software engineering team at the Turing Insti
 
 **Describe the issue/problem you are trying to address.** *(100 words)*
 
-The brain is made of lots of regions. Traditional neuroimaging analyses have considered them all separately. This is no good. It's much more likelye
+The brain is made of lots of regions. Traditional neuroimaging analyses have considered them all separately. This is no good. Modelling the connections between the different parts of the brain is much more reasonable. This project will implement graph theory to analysis magnetic resonance brain images as a network. The most popular toolbox to do brain network analyses is written in matlab. This project allows researchers who are at all levels of expertise in python programming to conduct the analyses.
 
 **List key project activities (what you will do), outputs (what will be produced through your activities) and outcomes (impact of your project on your beneficiaries during the grant period).** *(1000 words)*
 
@@ -91,13 +91,19 @@ Finally, we will release our code as a python packages that can be easily instal
 
 *Outputs*
 
-MIT licensed, documented and tested code
+MIT licensed, documented and tested code.
+
+Package. Will have DOI from zenodo.
 
 Blog posts and promotion to the community.
+
+Once a community grows around the project we hope to inspire additional integrations. For example collaborating with cytoscape to provide interactive visualisations of the networks. Or extending the network analysis methods etc.
 
 *Outcomes*
 
 Make it easier to replicate analyses. Make network analyses more accessible.
+
+Smoother onboarding. Ensure early career researchers can conduct cutting edge neuroimaing analysis in a documented and community supported enviroment.
 
 Better science. Better understanding of the brain!
 
@@ -119,6 +125,7 @@ Gooooooood question. I'm not sure. Probably the best would be some papers to com
 
 AAAAAALSO A good question. Scientists. People wanting to study brain as a complex network. Network analysists who want to apply their methods to brain networks?
 
+Allows provenance of analysis and efficient knowledge transfer, so this project also benefits senior scientists who are mentoring members of their group. They don't have to be concerned about
 
 **List any risks or challenges that may affect the overall success of your project and now how Mozilla and/or others can help you to overcome these challenges.** *(250 words)*
 
@@ -135,6 +142,10 @@ New for Isla. INSERT expertise re: graph theory & networks etc.
 **Mozilla works in the open. How will you document and share your project progress with the community.** *(250 words)*
 
 GitHuuuuuuub. Already there. Twitter account for lab.
+
+Got a contributing file and code of conduct. Building issues during mozilla global sprint and updating README file.
+
+Embrace working open philosophy. Ensure that work in progress is shared so that others can provide help and feedback.
 
 
 **How will you continue work on this project beyond the funding period?** *(250 words)*
