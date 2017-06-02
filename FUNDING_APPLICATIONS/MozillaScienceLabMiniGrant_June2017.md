@@ -6,15 +6,16 @@
 
 **Name:** Isla Staden
 
-**Email:**
+**Email:** islastaden@gmail.com
 
 **Physical address:**
 
 Alan Turing Institute
 British Library
+96 Euston Road
+London NW1 2DB
 
-
-**Institution:** Alan Turing Institute for Data Science
+**Institution:** Alan Turing Institute
 
 **Have you previously received a grant from the Mozilla Foundation?**
 *If so, list the amount and purpose of the grant.*
@@ -35,17 +36,17 @@ No.
 
 **Total proposal budget in US Dollars (USD)**:
 
-5,000
+4,960
 
 **How much money in USD are you requesting from the Mozilla Foundation?**
 
-5,000
+4,960
 
 **List your partners, if any, and the role/s they will play.** *(250 words)*
 
-I will be mentored by Dr Kirstie Whitaker. Kirstie is a research fellow at the Turing Institute and outgoing Mozilla Fellow for Science. She is a neuroscientist who studies brain development, using graph theory to understand the brain as a network. Dr Whitaker is a two time mentor for the Mozilla Open Leadership Training Program and she has extensive skills in nurturing and supporting open projects. The Brain Networks in Python is built within the Whitaker Lab GitHub repository where Dr Whitaker is an active contributor. She will review all code and documentation and provide guidance to ensure the Brain Networks In Python project is accessible and usable for all.
+I will be mentored by Dr Kirstie Whitaker. Kirstie is a research fellow at the Turing Institute and outgoing Mozilla Fellow for Science. She is a neuroscientist who studies brain development, using graph theory to understand the brain as a network. Dr Whitaker is a two time mentor for the Mozilla Open Leadership Training Series and she has extensive skills in nurturing and supporting open projects. The Brain Networks in Python is built within the Whitaker Lab GitHub repository where Dr Whitaker is an active contributor. She will review all code and documentation and provide guidance to ensure the Brain Networks In Python project is accessible and usable for all.
 
-* Tomas? Martin O'Reilly? RSE team at Turing?
+I will also work with the research software engineering team at the Turing Institute. The team is lead by Dr James He
 
 **On which Internet health issue(s) does your proposal focus?**
 
@@ -70,23 +71,43 @@ I will be mentored by Dr Kirstie Whitaker. Kirstie is a research fellow at the T
 
 **Describe the issue/problem you are trying to address.** *(100 words)*
 
-Something something need to make it easier to do analyses in a reproducible way.
+The brain is made of lots of regions. Traditional neuroimaging analyses have considered them all separately. This is no good. It's much more likelye
 
 **List key project activities (what you will do), outputs (what will be produced through your activities) and outcomes (impact of your project on your beneficiaries during the grant period).** *(1000 words)*
 
-Modularise code.
+*Activities*
 
-Add tests.
+The Brain Networks in Python code was implemented in the Neuroscience in Psychiatry Network publication "Adolescence is associated with genomically patterned consolidation of the hubs of the human brain connectome" published in PNAS in 2016 (doi: [10.1073/pnas.1601745113](http://dx.doi.org/10.1073/pnas.1601745113)). The code conducts structural covariance network analyses on cortical thickness measurements from a cohort of 300 participants and creates all figures and results tables for the published manuscript (GitHub repository: https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016).
 
-Add new functionality - permutation testing between groups.
+As currently written, the Brain Networks in Python code is monolithic. It is very difficult to repurpose for new analyses or for different datasets. The first goal of this project will be to *refactor the code into modules*. Specifically, we will break down the conceptual steps for a network analysis and allow the user to re-combine them as they see fit. For example, one user may want to use the code only for the graph theory measures while another may use the visualisation module alone. It will be possible to link the modules together to complete an entire neuroimaging analysis from start to finish, but this workflow will not be necessary. Modularising the software will permit a more diverse user base and a much more interoperable set of code.
 
-Dynamic visualisations.
+The second best time to add in tests for software is when refactoring. (The optimum time would have been when the code was written in the first place). As part of this 2 month project we will *add in high level and unit tests* for the network analysis code. Testing will give users confidence in our code and allow us to implement continuous integration. As the project develops, we will always be able to verify the accuracy of the modules.
 
-Provide documentation and examples.
+We will also add *new functionality* to the code. There is currently no way (in this codebase) to investigate the difference in brain networks between two groups. We will add a module that permutes the original data and builds up a null distribution so that differences between the two real groups, for example people with a diagnosis of depression and healthy controls, can be statistically tested.
+
+Along with integrated tests, *documentation* will allow the Brain Networks in Python code to be used by many people. We will provide example data and clear tutorials to make it easy for users to install and get up and running with the code. These tutorials will be in the form of Jupyter notebooks that can be either downloaded and run locally or run in a MyBinder (http://mybinder.org) instance online.
+
+Finally, we will release our code as a python packages that can be easily installed via pip (https://packaging.python.org/) or conda (https://conda.io/).
+
+*Outputs*
+
+MIT licensed, documented and tested code
 
 Blog posts and promotion to the community.
 
+*Outcomes*
+
+Make it easier to replicate analyses. Make network analyses more accessible.
+
+Better science. Better understanding of the brain!
+
+Lots of exciting extensions. Interactive visualisation, extension to different types of networks.
+
 **Provide key indicators you plan to use to measure project outcomes and source of data.** *(500 words)*
+
+DOI
+
+> All projects should specifically reflect priorities that enhance our broader community efforts toward open innovation, efficiency in regards to practicing open science (lower barriers, ease of use & integration, etc), and reproducibility (transparent research methods & results).
 
 Gooooooood question. I'm not sure. Probably the best would be some papers to come out of it!
 
@@ -143,3 +164,10 @@ Importantly - doesn't need to be "me". Whole point of building documentation ope
 
 - [x] Yes
 - [ ] Not at this time
+
+---
+
+Kirstie's Brain Networks In Python code is already available on github, we want to expand the code base, add tests and improve usability by creating detailed documentation and providing step by step instructions. In short, we want to make the code open source in a greater sense than just putting it out there.
+This will serve two purposes. The first: anyone will be be able to learn from it and use it to run network analyses on their own data with minimal friction. It will be straight forward for users to add their own features an build on the code base as needed. The second purpose addresses reproducibility in science. When someone (Kirstie or anybody else) reports a finding using these tools and makes their data available, everything can be checked. We allow people to check the results by providing clear instruction for beginners users- and to check the methodology, by making our code transparent, well-documented and testable.
+
+The goal Kirstie and I have is to show how easy it is to take something you have written for your own analysis purposes and make it useful to others and, by making your analysis reproducible, useful to yourself.
