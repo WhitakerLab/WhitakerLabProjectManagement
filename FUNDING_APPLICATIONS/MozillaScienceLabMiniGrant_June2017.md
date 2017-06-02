@@ -69,34 +69,34 @@ I will also work with the research software engineering team at the Alan Turing 
 
 **Describe the issue/problem you are trying to address.** *(100 words)*
 
-The brain made up of many regions that communicate millions of messages every second. Traditional neuroimaging analyses have considered each region separately and therefore failed to capture many aspects of brain structure and function. Graph theory allows us to analyse human brain images as a network (Bullmore & Sporns, 2009). The most popular toolbox to do brain network analyses is written in Matlab (Brain Connectivity Toolbox: https://sites.google.com/site/bctnet) which requires an expensive (and therefore inaccessible) license. We want to provide free and openly available software to allow all neuroscience researchers to conduct reproducible and biologically meaningful investigations of the human brain.
+The brain made up of many regions that communicate millions of messages every second. Traditional neuroimaging analyses have considered each region separately and therefore failed to capture many aspects of brain structure and function. Graph theory allows us to analyse human brain images as a network ([Bullmore & Sporns, 2009]()). The most popular toolbox to do brain network analyses is written in Matlab (Brain Connectivity Toolbox: https://sites.google.com/site/bctnet) which requires an expensive (and therefore inaccessible) license. We want to provide free and openly available software to allow all neuroscience researchers to conduct reproducible and biologically meaningful investigations of the human brain.
 
 
 **List key project activities (what you will do), outputs (what will be produced through your activities) and outcomes (impact of your project on your beneficiaries during the grant period).** *(1000 words)*
 
 *Activities*
 
-The Brain Networks in Python code was implemented in the Neuroscience in Psychiatry Network publication "Adolescence is associated with genomically patterned consolidation of the hubs of the human brain connectome" published in PNAS in 2016 (doi: [10.1073/pnas.1601745113](http://dx.doi.org/10.1073/pnas.1601745113)). The code conducts structural covariance network analyses on cortical thickness measurements from a cohort of 300 participants and creates all figures and results tables for the published manuscript (GitHub repository: https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016).
+The Brain Networks in Python code was implemented in the Neuroscience in Psychiatry Network publication "Adolescence is associated with genomically patterned consolidation of the hubs of the human brain connectome" published in PNAS in 2016 ([Whitaker\*, Vertes\* et al, 2016](http://dx.doi.org/10.1073/pnas.1601745113)). The code conducts structural covariance network analyses on cortical thickness measurements from two independent cohorts and creates all figures and results tables for the published manuscript. The code and data to support the manuscript can be found at [https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016](https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016).
 
-As currently written, the Brain Networks in Python code is monolithic. It is very difficult to repurpose for new analyses or for different datasets. The first goal of this project will be to *refactor the code into modules*. Specifically, we will break down the conceptual steps for a network analysis and allow the user to re-combine them as they see fit. For example, one user may want to use the code only for the graph theory measures while another may use the visualisation module alone. It will be possible to link the modules together to complete an entire neuroimaging analysis from start to finish, but this workflow will not be necessary. Modularising the software will permit a more diverse user base and a much more interoperable set of code.
+As currently written, the Brain Networks in Python code is monolithic. It is very difficult to repurpose for new analyses or for different datasets. The first goal of this project will be to *refactor the code into modules*. Specifically, I will break down the conceptual steps for a network analysis and allow the user to re-combine them as they see fit. For example, one user may want to use the code only for the graph theory measures while another may use the visualisation module alone. It will be possible to link the modules together to complete an entire neuroimaging analysis from start to finish, but this workflow will not be necessary. Modularising the software will permit a more diverse user base and a much more interoperable set of code.
 
-The second best time to add in tests for software is when refactoring. (The optimum time would have been when the code was written in the first place). As part of this 2 month project we will *add in high level and unit tests* for the network analysis code. Testing will give users confidence in our code and allow us to implement continuous integration. As the project develops, we will always be able to verify the accuracy of the modules.
+The second best time to add in tests for software is when refactoring. (The optimum time would have been when the code was written in the first place). As part of this 2 month project we will *add in high level and unit tests* for the network analysis code. Testing will give users confidence in our code and allow us to implement continuous integration. We are already developing in a version controlled enviroment on GitHub, but as the project develops, we will always be able to verify the accuracy of the modules.
 
-We will also add *new functionality* to the code. There is currently no way (in this codebase) to investigate the difference in brain networks between two groups. We will add a module that permutes the original data and builds up a null distribution so that differences between the two real groups, for example people with a diagnosis of depression and healthy controls, can be statistically tested.
+We will also add *new functionality* to the code. There is currently no way (in this codebase) to investigate the difference in brain networks between two groups. For example, a key question in the field of biological psychiatry is whether the brains of people who have a diagnosis of depression are differently connected to the brains of healthy control participants. We will add a module that permutes the original data and builds up a null distribution so that differences between the two real groups, for example people with a diagnosis of depression and healthy controls, can be statistically tested.
 
-Along with integrated tests, *documentation* will allow the Brain Networks in Python code to be used by many people. We will provide example data and clear tutorials to make it easy for users to install and get up and running with the code. These tutorials will be in the form of Jupyter notebooks that can be either downloaded and run locally or run in a MyBinder (http://mybinder.org) instance online.
+Along with integrated tests, *documentation* will allow the Brain Networks in Python code to be used by many people. We will provide example data and clear tutorials to make it easy for users to install and get up and running with the code. These tutorials will be in the form of Jupyter notebooks that can be either downloaded and run locally or run in a MyBinder ([http://mybinder.org](http://mybinder.org)) instance online. An example Jupyter notebook that is currently in development can be found at [https://github.com/WhitakerLab/BrainNetworksInPython/blob/master/Example_JupyterNotebook.ipynb](https://github.com/WhitakerLab/BrainNetworksInPython/blob/master/Example_JupyterNotebook.ipynb).
 
-Finally, we will release our code as a python packages that can be easily installed via pip (https://packaging.python.org/) or conda (https://conda.io/).
+Finally, we will release our code as a python packages that can be easily installed via pip (https://packaging.python.org) or conda (https://conda.io). We will ensure that all released versions of our code have digital object identifiers from Zenodo ([https://zenodo.org](https://zenodo.org/)).
 
 *Outputs*
 
-MIT licensed, documented and tested code.
+* MIT licensed, documented and tested code that is easy to use and re-use.
+* Modular code that can be repurposed for individual use cases.
+* An easy to install and version controlled python package that can be cited in future publications.
+* Version controlled code that permits rigorous reproducible neuroscience.
+* An open and inclusive community dedicated to supporting new and veteran users and contributors.
 
-Package. Will have DOI from zenodo.
-
-Blog posts and promotion to the community.
-
-Once a community grows around the project we hope to inspire additional integrations. For example collaborating with cytoscape to provide interactive visualisations of the networks. Or extending the network analysis methods etc.
+Once a community grows around the project we hope to inspire additional integrations. For example collaborating with Mozilla Global Sprint project Cytoscape js ([http://js.cytoscape.org](http://js.cytoscape.org/)) to provide interactive visualisations of the networks. We could also harness the power of Docker containers promoted by BIDS (Brain Imaging Data Structure) Apps ([http://bids-apps.neuroimaging.io](http://bids-apps.neuroimaging.io/)) to make it even easier for analyses to be reproducible and accessible.
 
 *Outcomes*
 
