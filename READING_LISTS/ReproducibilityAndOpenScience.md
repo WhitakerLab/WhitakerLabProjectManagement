@@ -39,4 +39,7 @@ Morey, R. D., Chambers, C. D., Etchells, P. J., Harris, C. R., Hoekstra, R., Lak
 
 Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., & Ioannidis, J. P. A. (in press). A manifesto for reproducible science. Nature Human Behaviour. [doi:10.1038/s41562-016-0021](https://doi.org/10.1038/s41562-016-0021).
 
+Taschuk M, Wilson G (2017) Ten simple rules for making research software more robust. PLoS Comput Biol 13(4): e1005412. [doi:10.1371/journal.pcbi.1005412](https://doi.org/10.1371/journal.pcbi.1005412)
+
+PLoS Collection: ["Ten simple rules"](http://collections.plos.org/ten-simple-rules)
 
