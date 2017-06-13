@@ -1,9 +1,38 @@
 # Weekly Meetings
 
+* [13th June 2017](#date-2nd-june-2017)
 * [2nd June 2017](#date-2nd-june-2017)
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+### Date: 13th June 2017
+
+#### Who did you help this week?
+
+
+
+#### Who helped you this week?
+
+MO gave me an intro to testing code
+
+#### What did you achieve?
+
+* Determined why there are so many 0 reference articles!
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Finish writing DAS report
+* If I get time I'd like to start testing BNIP
+
+#### Where do you need help from Kirstie?
+
+* If possible, ask R about the incorrect reference counts on the API
 
 
 ### Date: 2nd June 2017
