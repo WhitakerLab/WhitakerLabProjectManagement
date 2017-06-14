@@ -164,7 +164,7 @@ Date | Day   | City, Country             | Event
 Date | Day   | City, Country             | Event
 ---- | ----- | ------------------------- | -----
 1    | Thurs | 🦊 San Francisco, CA, USA       | Mozilla Science Lab Global Sprint
-2    | Fri   | 	U+1F98A San Francisco, CA, USA       | Mozilla Science Lab Global Sprint
+2    | Fri   | 🦊 San Francisco, CA, USA       | Mozilla Science Lab Global Sprint
 3    | Sat   | :us: San Francisco, CA, USA    | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
 4    | Sun   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
 5    | Mon   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
