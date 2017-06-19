@@ -154,17 +154,17 @@ Date | Day   | City, Country             | Event
 25   | Thurs | :mortar_board: Cambridge, UK             | Working in Cambridge
 26   | Fri   | :uk: London, UK                | Working at Turing  Institute
 27   | Sat   | :dog: Deeping, UK               | Weekend relaxing
-28   | Sun   | Travel: London, UK TO San Francisco, CA, USA | Poldrack lab visit
-29   | Mon   | :us: Stanford, CA, USA         | Poldrack lab visit
-30   | Tue   | :us: Stanford, CA, USA         | Poldrack lab visit
-31   | Wed   | :us: Berkeley, CA, USA         | BIDS visit
+28   | Sun   | :dog: Deeping, UK               | Weekend relaxing
+29   | Mon   | Travel: London, UK TO San Francisco, CA, USA | Mozilla Global Sprint
+30   | Tue   | :us: Berkeley, CA, USA         | Meeting with startup
+31   | Wed   | :us: Stanford, CA, USA         | Poldrack lab visit
 
 ### June 2017
 
 Date | Day   | City, Country             | Event
 ---- | ----- | ------------------------- | -----
-1    | Thurs | :us: San Francisco, CA, USA       | Mozilla Science Lab Global Sprint
-2    | Fri   | :us: San Francisco, CA, USA       | Mozilla Science Lab Global Sprint
+1    | Thurs | 🦊 San Francisco, CA, USA       | Mozilla Science Lab Global Sprint
+2    | Fri   | 	U+1F98A San Francisco, CA, USA       | Mozilla Science Lab Global Sprint
 3    | Sat   | :us: San Francisco, CA, USA    | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
 4    | Sun   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
 5    | Mon   | :bicyclist: ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1990&pg=personal)
@@ -224,11 +224,11 @@ Date | Day   | City, Country             | Event
 24   | Mon   | :uk: London, UK                | British library Gay UK Alan Turing discussion
 25   | Tue   | :mortar_board: Cambridge, UK             | Working in Cambridge
 26   | Wed   | :uk: London, UK                | Working at Turing Institute
-27   | Thurs | Albufeira, Portugal       | Friends' wedding
-28   | Fri   | Albufeira, Portugal       | Friends' wedding
-29   | Sat   | Albufeira, Portugal       | Friends' wedding
-30   | Sun   | Albufeira, Portugal       | Friends' wedding
-31   | Mon   | Albufeira, Portugal            | Friends' wedding
+27   | Thurs | 👰 Albufeira, Portugal       | Friends' wedding
+28   | Fri   | 👰 Albufeira, Portugal       | Friends' wedding
+29   | Sat   | 👰 Albufeira, Portugal       | Friends' wedding
+30   | Sun   | 👰 Albufeira, Portugal       | Friends' wedding
+31   | Mon   | 👰 Albufeira, Portugal            | Friends' wedding
 
 ### August 2017
 
@@ -329,10 +329,10 @@ Date | Day   | City, Country                | Event
 22   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 23   | Mon   | :uk: London, UK              | Working at Turing Institute   
 24   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-25   | Wed   | :uk: London, UK              | Working at Turing Institute   
-26   | Thurs | :uk: London, UK              | Working at Turing Institute   
-27   | Fri   | :uk: London, UK              | Working at Turing Institute   
-28   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-29   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
+25   | Wed   | :uk: London, UK              | Scientific Data conference
+26   | Thurs | :uk: London, UK              | Scientific Data hackathon
+27   | Fri   | :uk: London, UK              | [MozFest](https://mozillafestival.org/)
+28   | Sat   | :uk: London, UK              | [MozFest](https://mozillafestival.org/)
+29   | Sun   | :uk: London, UK              | [MozFest](https://mozillafestival.org/)
 30   | Mon   | :uk: London, UK              | Working at Turing Institute   
 31   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          

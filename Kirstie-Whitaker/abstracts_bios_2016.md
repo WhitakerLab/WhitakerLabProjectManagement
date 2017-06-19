@@ -11,6 +11,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * [Invited talk in Edinburgh](#invited-talk-in-edinburgh)
 * [Educated Brain Seminar](#educated-brain-seminar)
 * [Invited talk in Bristol](#invited-talk-in-bristol)
+* [Workshop at OpenCon](#workshop-at-opencon)
 * [CBU Open Science Workshop](#cbu-open-science-workshop)
 * [Invited talk in London](#invited-talk-in-london)
 * [Teenage Cancer Trust](#teenage-cancer-trust)
@@ -53,6 +54,14 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 **Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit of the Department of Psychiatry at the University of Cambridge. She is a 2016/17 Mozilla Fellow for Science and a passionate advocate for reproducible neuroimaging research. Dr Whitaker received her PhD in Neuroscience in 2012 from the University of California at Berkeley, funded by a Fulbright scholarship. She is the founder and lead developer of the STEMM Role Models project (www.stemmrolemodels.com) that seeks to ensure conference organisers are able to invite the most exciting and diverse speakers to their event. Her personal website is www.kirstiewhitaker.com and she tweets @kirstie_j.
 
 **Slides**: https://doi.org/10.6084/m9.figshare.3843405.v7
+
+### Workshop at OpenCon
+
+**Date**: 13th November 2016
+
+**Title**: How to harness Open to advance your career
+
+**Abstract**: Many (if not all) of the participants at OpenCon are convinced by the moral imperative to work openly. However, paying your rent and ensuring you have food on the table are hugely important! Currently most career progression rewards closed working habits. The only way we will change that culture is to ensure open advocates rise to positions in which they are able to change, for example, hiring and funding criteria. This workshop will crowd source and then discuss various ways in which you can harness open to advance your career. You will leave feeling motivated to continue to working in, or adjacent to, a traditionally closed system, and empowered to change it!
 
 ### CBU Open Science Workshop
 
