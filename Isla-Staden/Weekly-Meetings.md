@@ -1,10 +1,48 @@
 # Weekly Meetings
 
-* [13th June 2017](#date-2nd-june-2017)
+* [19th June 2017](#date-19th-june-2017)
+* [13th June 2017](#date-13th-june-2017)
 * [2nd June 2017](#date-2nd-june-2017)
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+## Template
+
+### Date: [19th June 2017]
+
+#### Who did you help this week?
+
+This week I actually did move the mugs left in the sink to the dishwasher
+
+#### Who helped you this week?
+
+BMcG gave me a lot of support writing the DAS report. Also my brother and dad let me test run my explanation on them. It's good to try and explain what you're doing to other people!
+
+#### What did you achieve?
+
+* Finished the report
+* Started reading up on brain network analysis
+
+#### What did you struggle with?
+
+* Microsoft office :boar:
+* Mostly this was a good week
+
+#### What would you like to work on next week?
+
+* I have a short program to write for DAS project
+* I need to finish the jupyter notebook that I started to show problems with the EPMC API, although we may be able to ask them directly now
+* Get a testing script started
+* I think now is a good time for me to learn some more about network neuroscience
+
+#### Where do you need help from Kirstie?
+
+* not sure, maybe with network neuroscience resources? I've been using the book and reading list
+
+#### Any other topics
+
 
 ### Date: 13th June 2017
 
