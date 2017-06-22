@@ -1,9 +1,90 @@
 # Weekly Meetings
 
+* [19th June 2017](#date-19th-june-2017)
+* [13th June 2017](#date-13th-june-2017)
 * [2nd June 2017](#date-2nd-june-2017)
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+## Template
+
+### Date: 19th June 2017
+
+#### Who did you help this week?
+
+This week I actually did move the mugs left in the sink to the dishwasher.
+
+* KW: *sigh* people suck. But thank you! :raised_hands:
+
+#### Who helped you this week?
+
+BMcG gave me a lot of support writing the DAS report. Also my brother and dad let me test run my explanation on them. It's good to try and explain what you're doing to other people!
+
+* KW: AWESOME! That's great! :clap: :sparkles:
+
+#### What did you achieve?
+
+* Finished the report
+  * KW: It looks fantastic - super helpful - well done :balloon: :cake:
+  
+    These two sentences make me SO HAPPY:
+    > We've checked the contents of ten data-availability statements against the articles online, all ten were indeed present in the online text.  
+    > We've also checked seven articles without this tag to make sure they didn't have data-availability statements. They did not.
+* Started reading up on brain network analysis
+
+#### What did you struggle with?
+
+* Microsoft office :boar:
+  * ***Action for KW***: Get Isla a copy of the evil office. :heavy_check_mark: Done - sent invite from personal account that can be shared with up to 5 people.
+* Mostly this was a good week
+  * KW: AWESOME :star2:
+
+#### What would you like to work on next week?
+
+* I have a short program to write for DAS project
+* I need to finish the jupyter notebook that I started to show problems with the EPMC API, although we may be able to ask them directly now
+* Get a testing script started
+* I think now is a good time for me to learn some more about network neuroscience
+
+* KW: These all sound great - if you want to implement anything with the GAP study data that would be super fun, but keeping on in this general direction is perfect.
+
+#### Where do you need help from Kirstie?
+
+* not sure, maybe with network neuroscience resources? I've been using the book and reading list
+  * KW: I think I need to get you some feedback on the blog post because that would be great to ship out and there are a few edits I'd like to see. Totally my fault that they're not submitted yet :eye_roll:
+  
+#### Any other topics
+
+
+### Date: 13th June 2017
+
+#### Who did you help this week?
+
+
+
+#### Who helped you this week?
+
+MO gave me an intro to testing code
+
+#### What did you achieve?
+
+* Determined why there are so many 0 reference articles!
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Finish writing DAS report
+* If I get time I'd like to start testing BNIP
+
+#### Where do you need help from Kirstie?
+
+* If possible, ask R about the incorrect reference counts on the API
 
 
 ### Date: 2nd June 2017
