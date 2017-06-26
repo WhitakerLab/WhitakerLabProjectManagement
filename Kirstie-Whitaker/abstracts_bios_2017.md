@@ -18,6 +18,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * [Society of Biological Psychiatry](#society-of-biological-psychiatry)
 * [Fragile Families Challenge](#fragile-families-challenge)
 * [Talk at Poldrack lab meeting](#talk-at-poldrack-lab-meeting)
+* [Self-nomination for OHBM Open Science SIG](#self-nomination-for-ohbm-open-science-sig)
 * [GAY UK panel discussion on Alan Turing](#gay-uk-panel-discussion-on-alan-turing)
 * [International Conference for Cognitive Neuroscience](#international-conference-for-cognitive=neuroscience)
 * [European College of Neuropsychopharmacology (ENCP) Congress](#european-college-of-neuropsychopharmacology-ecnp-congress)
@@ -191,6 +192,16 @@ I am interested in the effects of early childhood environments on the developmen
 **Abstract**: Encouraging reproducible research - the sharing of data and code along with published findings - opens up the possibility of investigating how well a finding replicates in independent cohorts. It may not be easy to reproduce what someone has done (their code often is not well documented for example) but I have confidence that the open science community can help on the analysis front. A more challenging frontier is the application of a definition of replication - if the "blob" is in a slightly different location what do we conclude? Finally, however, the hardest challenge may be in dealing with the push-back from the original authors who could perceive "failed replications" as a personal attack. During my allocated time at lab meeting I will present a project proposal to replicate neuroimaging findings, explain the motivations and set up what I see are the major challenges. I hope to stimulate a discussion about the future of publishing replication studies in the era of big, and open, data.
 
 **Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
+### Self-nomination for OHBM Open Science SIG
+
+**Name**: Kirstie Whitaker
+
+**Affiliations**: Alan Turing Institute for Data Science, London, UK & Department of Psychiatry, University of Cambridge, UK.
+
+**Desired position**: 2018-19 chair
+
+**Statement**: The technological challenges of Open Science have advanced in leaps and bounds. There are excellent tools for sharing data, analysis steps, and results of our studies. We now enter an era of scaling the adoption of these tools and practises. As 2018 chair I will ensure all members of OHBM have access to trainings they need to best conduct their research. I will lead a supportive and diverse conversation about the future of neuroimaging research, specifically focusing on the benefits that reproducible reasearch, reusable data and clear rewards for collaborative work can bring for early career researchers.
 
 
 ### GAY UK: Panel discussion on Alan Turing
