@@ -22,8 +22,9 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * [GAY UK panel discussion on Alan Turing](#gay-uk-panel-discussion-on-alan-turing)
 * [International Conference for Cognitive Neuroscience](#international-conference-for-cognitive=neuroscience)
 * [European College of Neuropsychopharmacology (ENCP) Congress](#european-college-of-neuropsychopharmacology-ecnp-congress)
+* [Better Science through Better Data](#better-science-through-better-data)
 
-### OHBM Student Postdoc significance
+### OHBM Student Postdoc SIG
 
 **Qualifications**: B.Sc., Physics (University of Bristol); M.Sc., Medical Physics (University of British Columbia); Ph.D., Neuroscience (University of California at Berkeley); Research Fellow (University of Cambridge & Turing Institute for Data Science).
 
@@ -193,6 +194,7 @@ I am interested in the effects of early childhood environments on the developmen
 
 **Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
+
 ### Self-nomination for OHBM Open Science SIG
 
 **Name**: Kirstie Whitaker
@@ -236,6 +238,15 @@ I am interested in the effects of early childhood environments on the developmen
 [1] Whitaker, K.J., Vértes, P.E., Romero-Garcia, R., Váša, F., Moutoussis, M., Prabhu, G., Weiskopf, N., Callaghan, M.F., Wagstyl, K., Rittman, T., Tait, R., Ooi, C., Suckling, J., Inkster, B., Fonagy, P., Dolan, R.J., Jones, P.B., Goodyer, I.M., NSPN Consortium, Bullmore, E.T., 2016. Adolescence is associated with genomically patterned consolidation of the hubs of the human brain connectome. Proc. Natl. Acad. Sci. USA. 113, 9105–10. doi:10.1073/pnas.1601745113
 
 **Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
+
+
+### Better Science through Better Data
+
+**Website**: https://www.eventbrite.co.uk/e/better-science-through-better-data-2017-scidata17-tickets-32719974324
+
+**Date**: 25th October 2017
+
+**Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance images to understand the changes in the brain's structure and function that underlie the emergence of schizophrenia and depression. She is particularly passionate about ensuring that work is reproducible and can be replicated in independent data sets. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 
 ---
