@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [6th July 2017](#date-6th-july-2017)
 * [19th June 2017](#date-19th-june-2017)
 * [13th June 2017](#date-13th-june-2017)
 * [2nd June 2017](#date-2nd-june-2017)
@@ -8,7 +9,47 @@
 * [12th May 2017](#date-12th-may-2017)
 
 
+
 ## Template
+
+### Date: 6th July 2017
+
+#### Who did you help this week?
+
+* I think I lent someone a pen
+* I made a document collecting my questions with AH's answers so that BMcG wouldn't have to look back and forth through the email chain
+
+
+#### Who helped you this week?
+
+* AH by responding to my questions so thoroughly
+* Kirstie's excellent debugging suggestions (thank you for letting me bug you so much):blossom:
+
+
+#### What did you achieve?
+ 
+* Got some very basic analysis going on the das project
+* Have made little improvements to the regression test script
+
+#### What did you struggle with?
+
+* Frustration
+* Computer directed anger management issues
+* productivity...
+
+#### What would you like to work on next week?
+
+* It's time to start analysis on the das dataset
+* I try not to neglect BNIP
+* learning about content mine
+
+#### Where do you need help from Kirstie?
+
+* Looking forward to our meeting to discuss analysis next Thursday!
+* Would like Kirstie to look over the testing scripts
+
+#### Any other topics
+
 
 ### Date: 19th June 2017
 
