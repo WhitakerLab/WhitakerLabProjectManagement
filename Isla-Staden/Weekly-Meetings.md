@@ -16,6 +16,7 @@
 
 #### Who did you help this week?
 
+* Fixed Kirstie's chair so it doesn't lean back
 * I think I lent someone a pen
 * I made a document collecting my questions with AH's answers so that BMcG wouldn't have to look back and forth through the email chain
 
