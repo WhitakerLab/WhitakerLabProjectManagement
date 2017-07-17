@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [17th July 2017](#date-17th-july-2017)
 * [6th July 2017](#date-6th-july-2017)
 * [19th June 2017](#date-19th-june-2017)
 * [13th June 2017](#date-13th-june-2017)
@@ -10,7 +11,39 @@
 
 
 
-## Template
+### Date: 17th July 2017
+
+#### Who did you help this week?
+
+Gave moral support to KZ on using content mine
+
+#### Who helped you this week?
+
+Kirstie and BmcG helped me with data analysis
+
+#### What did you achieve?
+
+* Introduced myself to PMR
+* Had a useful meeting for das-project
+* Have a full and useful csv now
+
+#### What did you struggle with?
+
+* I think I feel out of my depth with this analysis in a more serious way than usual
+
+#### What would you like to work on next week?
+
+* There are plenty of remaining csv analysis questions.
+* I find myself wondering about potential usefulness of contentmine
+* I really would like to try and apply some data science to separating positive and negative das
+
+#### Where do you need help from Kirstie?
+
+* Advice
+
+
+#### Any other topics
+
 
 ### Date: 6th July 2017
 
