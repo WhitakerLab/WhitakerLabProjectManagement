@@ -221,7 +221,7 @@ Date | Day   | City, Country             | Event
 21   | Fri   | :uk: London, UK                | Working at Turing Institute
 22   | Sat   | :dog: Deeping, UK               | Weekend relaxing
 23   | Sun   | :dog: Deeping, UK               | Weekend relaxing
-24   | Mon   | :uk: London, UK                | British library Gay UK Alan Turing discussion
+24   | Mon   | :uk: London, UK                | British library Gay UK [Alan Turing discussion](https://www.bl.uk/events/alan-turing-life-work-legacy)
 25   | Tue   | :mortar_board: Cambridge, UK             | Working in Cambridge
 26   | Wed   | :uk: London, UK                | Working at Turing Institute
 27   | Thurs | 👰 Albufeira, Portugal       | Friends' wedding
@@ -237,7 +237,7 @@ Date | Day   | City, Country             | Event
 1    | Tue   | :mortar_board: Cambridge, UK   | Working in Cambridge
 2    | Wed   | :uk: London, UK                | Working at Turing Institute
 3    | Thurs | :uk: London, UK                | Working at Turing Institute
-4    | Fri   | :uk: London, UK                | Working at Turing Institute
+4    | Fri   | :tulip: Amsterdam, Netherlands | [International Conference for Cognitive Neuroscience](http://www.icon2017.org/)
 5    | Sat   | :tulip: Amsterdam, Netherlands | [International Conference for Cognitive Neuroscience](http://www.icon2017.org/)
 6    | Sun   | :tulip: Amsterdam, Netherlands | [International Conference for Cognitive Neuroscience](http://www.icon2017.org/)
 7    | Mon   | :tulip: Amsterdam, Netherlands    | [International Conference for Cognitive Neuroscience](http://www.icon2017.org/)
@@ -253,12 +253,12 @@ Date | Day   | City, Country             | Event
 17   | Thurs | :uk: London, UK                | Working at Turing Institute
 18   | Fri   | :uk: London, UK                | Working at Turing Institute
 19   | Sat   | :dog: Deeping, UK               | Weekend relaxing
-20   | Sun   | :dog: Deeping, UK               | Weekend relaxing
-21   | Mon   | :uk: London, UK                | Working at Turing
-22   | Tue   | :mortar_board: Cambridge, UK             | Working in Cambridge
-23   | Wed   | :uk: London, UK                | Working at Turing Institute
-24   | Thurs | :uk: London, UK                | Working at Turing Institute
-25   | Fri   | :uk: London, UK                | Working at Turing Institute
+20   | Sun   | :maple_leaf: Toronto, Canada       | Mozilla strategy retreat
+21   | Mon   | :maple_leaf: Toronto, Canada       | Mozilla strategy retreat
+22   | Tue   | :maple_leaf: Toronto, Canada       | Mozilla strategy retreat
+23   | Wed   | :maple_leaf: Toronto, Canada       | Mozilla strategy retreat
+24   | Thurs | :maple_leaf: Toronto, Canada       | Mozilla strategy retreat
+25   | Fri   | :maple_leaf: Toronto, Canada       | Mozilla strategy retreat
 26   | Sat   | :dog: Deeping, UK               | Weekend relaxing
 27   | Sun   | :dog: Deeping, UK               | Weekend relaxing
 28   | Mon   | :uk: London, UK                | Working at Turing
