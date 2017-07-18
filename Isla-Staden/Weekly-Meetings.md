@@ -10,12 +10,13 @@
 * [12th May 2017](#date-12th-may-2017)
 
 
-
 ### Date: 17th July 2017
 
 #### Who did you help this week?
 
 Gave moral support to KZ on using content mine
+
+* KW - AWESOME - super helpful
 
 #### Who helped you this week?
 
@@ -30,7 +31,8 @@ Kirstie and BmcG helped me with data analysis
 #### What did you struggle with?
 
 * I think I feel out of my depth with this analysis in a more serious way than usual
-
+  * KW: This is a very appropriate feeling! We're asking you to do a whooole bunch of new things. And with great power (big data, big statistical models) comes great responsibility! It's very easy to do crazy things with statistics!!
+  
 #### What would you like to work on next week?
 
 * There are plenty of remaining csv analysis questions.
@@ -40,7 +42,7 @@ Kirstie and BmcG helped me with data analysis
 #### Where do you need help from Kirstie?
 
 * Advice
-
+  * KW: YOU. ROCK. And are doing an amazing job. And all your caution around the analyses are spot on :smile:
 
 #### Any other topics
 
@@ -50,15 +52,16 @@ Kirstie and BmcG helped me with data analysis
 #### Who did you help this week?
 
 * Fixed Kirstie's chair so it doesn't lean back
+  * KW: ***SO*** helpful.
 * I think I lent someone a pen
 * I made a document collecting my questions with AH's answers so that BMcG wouldn't have to look back and forth through the email chain
-
+  * KW: Really, seriously, incredibly useful. Great initiative. Thank you :balloon:
 
 #### Who helped you this week?
 
 * AH by responding to my questions so thoroughly
 * Kirstie's excellent debugging suggestions (thank you for letting me bug you so much):blossom:
-
+  * KW: No problem! Very happy to help out :smile:
 
 #### What did you achieve?
  
