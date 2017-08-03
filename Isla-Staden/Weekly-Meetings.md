@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [3rd August 2017](#date-3rd-august-2017)
 * [17th July 2017](#date-17th-july-2017)
 * [6th July 2017](#date-6th-july-2017)
 * [19th June 2017](#date-19th-june-2017)
@@ -8,6 +9,42 @@
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+## Template
+
+### Date: 3rd August 2017
+
+#### Who did you help this week?
+
+* I recommended the API to B on the fragile families project
+
+#### Who helped you this week?
+
+* Kirstie, big time. Gave me so much help on my mozfest, mozilla open leadership and opencon applications
+* AH sent over some new data availability statements
+
+#### What did you achieve?
+
+* Three applications! oof.
+* Took a look at the new das data
+* 
+
+#### What did you struggle with?
+
+* Writing applications- every time I read some thing back I flinch
+
+
+#### What would you like to work on next week?
+
+* The das project seems to have almost spiralled out of control. Needs explanation now, much more than analyses
+
+#### Where do you need help from Kirstie?
+
+* I could use some guidance on what the EPMC team needs to know
+
+#### Any other topics
+
+- - -
 
 
 ### Date: 17th July 2017
