@@ -10,42 +10,45 @@
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
 
-## Template
-
 ### Date: 3rd August 2017
 
 #### Who did you help this week?
 
 * I recommended the API to B on the fragile families project
+  * KW: That's great :tada:
 
 #### Who helped you this week?
 
 * Kirstie, big time. Gave me so much help on my mozfest, mozilla open leadership and opencon applications
+  * KW: Woooo hooo! :sparkles:
+    * Can we add these to the resources page for the website?
+    * To do for KW: merge in Mozilla mini grant PR
 * AH sent over some new data availability statements
 
 #### What did you achieve?
 
 * Three applications! oof.
+  * KW: :muscle: WAY TO GO.
 * Took a look at the new das data
-* 
 
 #### What did you struggle with?
 
 * Writing applications- every time I read some thing back I flinch
 
-
 #### What would you like to work on next week?
 
-* The das project seems to have almost spiralled out of control. Needs explanation now, much more than analyses
+* The das project seems to have almost spiraled out of control. Needs explanation now, much more than analyses
+  * KW: Sounds like a great plan. Hold [Bloom's Taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy) in mind and "aim to write a shorter letter" so we can communicate all the work you've done clearly.
+  * Build the report in either LaTeX or markdown - whichever works best.
 
 #### Where do you need help from Kirstie?
 
 * I could use some guidance on what the EPMC team needs to know
+  * KW: Great question - as discussed, stay focused on the errors in DAS & get those fixed first
 
 #### Any other topics
 
 - - -
-
 
 ### Date: 17th July 2017
 
@@ -69,7 +72,7 @@ Kirstie and BmcG helped me with data analysis
 
 * I think I feel out of my depth with this analysis in a more serious way than usual
   * KW: This is a very appropriate feeling! We're asking you to do a whooole bunch of new things. And with great power (big data, big statistical models) comes great responsibility! It's very easy to do crazy things with statistics!!
-  
+
 #### What would you like to work on next week?
 
 * There are plenty of remaining csv analysis questions.
@@ -101,7 +104,7 @@ Kirstie and BmcG helped me with data analysis
   * KW: No problem! Very happy to help out :smile:
 
 #### What did you achieve?
- 
+
 * Got some very basic analysis going on the das project
 * Have made little improvements to the regression test script
 
@@ -143,7 +146,7 @@ BMcG gave me a lot of support writing the DAS report. Also my brother and dad le
 
 * Finished the report
   * KW: It looks fantastic - super helpful - well done :balloon: :cake:
-  
+
     These two sentences make me SO HAPPY:
     > We've checked the contents of ten data-availability statements against the articles online, all ten were indeed present in the online text.  
     > We've also checked seven articles without this tag to make sure they didn't have data-availability statements. They did not.
@@ -169,7 +172,7 @@ BMcG gave me a lot of support writing the DAS report. Also my brother and dad le
 
 * not sure, maybe with network neuroscience resources? I've been using the book and reading list
   * KW: I think I need to get you some feedback on the blog post because that would be great to ship out and there are a few edits I'd like to see. Totally my fault that they're not submitted yet :eye_roll:
-  
+
 #### Any other topics
 
 
@@ -218,7 +221,7 @@ Replace this text with a one/two sentence description of who helped you this wee
 
 #### What did you achieve?
 
-* This has been a slow week, but I familiarised myself with the eupubmed API and with contentmine. 
+* This has been a slow week, but I familiarised myself with the eupubmed API and with contentmine.
   * KW: GREAT! [Just keep pushing](http://matt.might.net/articles/phd-school-in-pictures/) :smile:
 * By end of today I'll upload the new blog post!
   * (KW: Moved from plans for next week! YEAH!)
@@ -229,10 +232,10 @@ Replace this text with a one/two sentence description of who helped you this wee
   * KW: Yes. This is definitely harder. Let's see if Gitter is useful:
     * General questions in the [WhitakerLab Lobby](https://gitter.im/WhitakerLab/Lobby)
     * Brain Networks in Python questions in the [BrainNetworksInPython](https://gitter.im/WhitakerLab/BrainNetworksInPython) room :smile:
-    
+
 #### What would you like to work on next week?
 
-* Well there're some things I ought to do for the DAS project- i.e producing a presentation about my findings on the pubmed api/dataset/article contradictions (this from last week :moyai:) and taking a look at the new dataset. 
+* Well there're some things I ought to do for the DAS project- i.e producing a presentation about my findings on the pubmed api/dataset/article contradictions (this from last week :moyai:) and taking a look at the new dataset.
   * KW: I think this is the really important thing to cross off the list by the next time we talk. Otherwise it's going to just keep hanging over us :unamused:
 * I would like to sort of get a start on testing next week. I *want* to pull everything in Brain Networks in Python together and start permuting/ making ever prettier figures, but it would be wiser to get the hang of testing before I rush into everything else.
   * KW: Yes, lets go for a marathon not a sprint on this front :fist:
@@ -248,18 +251,18 @@ Replace this text with a one/two sentence description of who helped you this wee
 
 
 ---
-  
+
  ### Date: 26th May 2017
-  
+
  #### Who did you help this week?
-  
+
  Hmmm.
-  
+
 * KW: Practical help of refactoring the Brains Networks in Python code is helping *everyone* who wants to use the code in the future!
      (which may only be a couple of people, but that's still REALLY helpful)
-     
+
 #### Who helped you this week?
-  
+
  Kirstie gave me a lot of life-saving help with the Brain Networks in Python stuff
 
 #### What did you achieve?
@@ -273,25 +276,25 @@ Replace this text with a one/two sentence description of who helped you this wee
 * Earlier in the week with the DAS issues I lost optimism
 
 #### What would you like to work on next week?
-  
+
   * I've really enjoyed the Brain Networks in python stuff. It seems to me that there is a lot more work to be done there in terms of modularising and introducing tests. (weeks plural?)
     * KW: Action for Kirstie - introduce Isla to Martin O'Reilly because testing would be AMAAAAAZING :sparkles: :sparkles: :sparkles:
   * I'd like to take a shot at the pubmed API (a day or two)
   * I should write up the data checking I did so that BMcG can pass it on to IH (a few hours)
-  
+
  #### Where do you need help from Kirstie?
-  
-  * Let's really think about this. I will still probably need to ask a bunch of questions about these scripts - via github issues as discussed. 
+
+  * Let's really think about this. I will still probably need to ask a bunch of questions about these scripts - via github issues as discussed.
   * I guess I'm a little afraid that I'll run out of stuff to do, especially if the DAS project doesn't work out.
   * KW: Some ideas:
     * Visualise the correlation matrices sorted in different ways - eg by module or topologically by x, y, z
     * Use Force Atlas layout to visualise the topology of the network
     * Permutation testing between groups (Big job! Woooo!)
-  
+
 #### Any other topics
-  
+
  Think about https://science.mozilla.org/blog/mini-grant-cfp!
- 
+
 
 ### Date: 19th May 2017
 
@@ -410,7 +413,6 @@ What's going to happen in June? How should I spend my time while Kirstie's is tr
 #### Who did you help this week?
 
 Replace this text with a one/two sentence description of who you helped this week and how.
-
 
 #### Who helped you this week?
 
