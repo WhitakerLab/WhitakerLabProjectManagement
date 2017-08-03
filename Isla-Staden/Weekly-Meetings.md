@@ -1,9 +1,205 @@
 # Weekly Meetings
 
+* [3rd August 2017](#date-3rd-august-2017)
+* [17th July 2017](#date-17th-july-2017)
+* [6th July 2017](#date-6th-july-2017)
+* [19th June 2017](#date-19th-june-2017)
+* [13th June 2017](#date-13th-june-2017)
 * [2nd June 2017](#date-2nd-june-2017)
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+## Template
+
+### Date: 3rd August 2017
+
+#### Who did you help this week?
+
+* I recommended the API to B on the fragile families project
+
+#### Who helped you this week?
+
+* Kirstie, big time. Gave me so much help on my mozfest, mozilla open leadership and opencon applications
+* AH sent over some new data availability statements
+
+#### What did you achieve?
+
+* Three applications! oof.
+* Took a look at the new das data
+* 
+
+#### What did you struggle with?
+
+* Writing applications- every time I read some thing back I flinch
+
+
+#### What would you like to work on next week?
+
+* The das project seems to have almost spiralled out of control. Needs explanation now, much more than analyses
+
+#### Where do you need help from Kirstie?
+
+* I could use some guidance on what the EPMC team needs to know
+
+#### Any other topics
+
+- - -
+
+
+### Date: 17th July 2017
+
+#### Who did you help this week?
+
+Gave moral support to KZ on using content mine
+
+* KW - AWESOME - super helpful
+
+#### Who helped you this week?
+
+Kirstie and BmcG helped me with data analysis
+
+#### What did you achieve?
+
+* Introduced myself to PMR
+* Had a useful meeting for das-project
+* Have a full and useful csv now
+
+#### What did you struggle with?
+
+* I think I feel out of my depth with this analysis in a more serious way than usual
+  * KW: This is a very appropriate feeling! We're asking you to do a whooole bunch of new things. And with great power (big data, big statistical models) comes great responsibility! It's very easy to do crazy things with statistics!!
+  
+#### What would you like to work on next week?
+
+* There are plenty of remaining csv analysis questions.
+* I find myself wondering about potential usefulness of contentmine
+* I really would like to try and apply some data science to separating positive and negative das
+
+#### Where do you need help from Kirstie?
+
+* Advice
+  * KW: YOU. ROCK. And are doing an amazing job. And all your caution around the analyses are spot on :smile:
+
+#### Any other topics
+
+
+### Date: 6th July 2017
+
+#### Who did you help this week?
+
+* Fixed Kirstie's chair so it doesn't lean back
+  * KW: ***SO*** helpful.
+* I think I lent someone a pen
+* I made a document collecting my questions with AH's answers so that BMcG wouldn't have to look back and forth through the email chain
+  * KW: Really, seriously, incredibly useful. Great initiative. Thank you :balloon:
+
+#### Who helped you this week?
+
+* AH by responding to my questions so thoroughly
+* Kirstie's excellent debugging suggestions (thank you for letting me bug you so much):blossom:
+  * KW: No problem! Very happy to help out :smile:
+
+#### What did you achieve?
+ 
+* Got some very basic analysis going on the das project
+* Have made little improvements to the regression test script
+
+#### What did you struggle with?
+
+* Frustration
+* Computer directed anger management issues
+* productivity...
+
+#### What would you like to work on next week?
+
+* It's time to start analysis on the das dataset
+* I try not to neglect BNIP
+* learning about content mine
+
+#### Where do you need help from Kirstie?
+
+* Looking forward to our meeting to discuss analysis next Thursday!
+* Would like Kirstie to look over the testing scripts
+
+#### Any other topics
+
+
+### Date: 19th June 2017
+
+#### Who did you help this week?
+
+This week I actually did move the mugs left in the sink to the dishwasher.
+
+* KW: *sigh* people suck. But thank you! :raised_hands:
+
+#### Who helped you this week?
+
+BMcG gave me a lot of support writing the DAS report. Also my brother and dad let me test run my explanation on them. It's good to try and explain what you're doing to other people!
+
+* KW: AWESOME! That's great! :clap: :sparkles:
+
+#### What did you achieve?
+
+* Finished the report
+  * KW: It looks fantastic - super helpful - well done :balloon: :cake:
+  
+    These two sentences make me SO HAPPY:
+    > We've checked the contents of ten data-availability statements against the articles online, all ten were indeed present in the online text.  
+    > We've also checked seven articles without this tag to make sure they didn't have data-availability statements. They did not.
+* Started reading up on brain network analysis
+
+#### What did you struggle with?
+
+* Microsoft office :boar:
+  * ***Action for KW***: Get Isla a copy of the evil office. :heavy_check_mark: Done - sent invite from personal account that can be shared with up to 5 people.
+* Mostly this was a good week
+  * KW: AWESOME :star2:
+
+#### What would you like to work on next week?
+
+* I have a short program to write for DAS project
+* I need to finish the jupyter notebook that I started to show problems with the EPMC API, although we may be able to ask them directly now
+* Get a testing script started
+* I think now is a good time for me to learn some more about network neuroscience
+
+* KW: These all sound great - if you want to implement anything with the GAP study data that would be super fun, but keeping on in this general direction is perfect.
+
+#### Where do you need help from Kirstie?
+
+* not sure, maybe with network neuroscience resources? I've been using the book and reading list
+  * KW: I think I need to get you some feedback on the blog post because that would be great to ship out and there are a few edits I'd like to see. Totally my fault that they're not submitted yet :eye_roll:
+  
+#### Any other topics
+
+
+### Date: 13th June 2017
+
+#### Who did you help this week?
+
+
+
+#### Who helped you this week?
+
+MO gave me an intro to testing code
+
+#### What did you achieve?
+
+* Determined why there are so many 0 reference articles!
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Finish writing DAS report
+* If I get time I'd like to start testing BNIP
+
+#### Where do you need help from Kirstie?
+
+* If possible, ask R about the incorrect reference counts on the API
 
 
 ### Date: 2nd June 2017
