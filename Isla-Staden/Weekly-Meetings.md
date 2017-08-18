@@ -11,12 +11,14 @@
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
 
-<<<<<<< HEAD
 ### Date: 18th August 2017
 
 #### Who did you help this week?
 
-* I proofread Kirstie's newsletter
+* I proofread Kirstie's newsletter.
+  * KW: YAAAAY! Thank you! :sparkles: :balloon:
+  * KW: and you gave an awesome presentation! :star2:
+  * KW: AND you gave R a bunch of interesting resources (even if they aren't all that helpful)
 
 #### Who helped you this week?
 
@@ -26,7 +28,7 @@
 
 #### What did you achieve?
 
-* Report on the das project.
+* Report on the das project
 * Comparing the das datasets + report
 
 #### What did you struggle with?
@@ -36,10 +38,11 @@
 #### What would you like to work on next week?
 
 * Methods of clustering das, let's get something cooking before BM and IH change their minds
-	* Topic Modelling- interesting but not super useful
-	* minhash?
-	* blue scores/ngram distributions
-	* doc2vec ([has gensim implemenatation](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb))
+  * Topic Modelling- interesting but not super useful
+  * minhash?
+  * blue scores/ngram distributions
+  * doc2vec ([has gensim implemenatation](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb))
+    * KW: Take a look at this github repo if it's of any use! https://github.com/CDIPS-AI-2017/pensieve
 * I want to get all of the das work into shape, so that we can put it aside until the new data comes in. 
 
 #### Where do you need help from Kirstie?
