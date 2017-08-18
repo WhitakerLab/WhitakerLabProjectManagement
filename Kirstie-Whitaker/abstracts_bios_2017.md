@@ -8,44 +8,56 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 ### Table of Contents
 
-* [OHBM Student Postdoc SIG](#ohbm-student-postdoc-sig)
-* [CamBRAIN NeuroTalks](#cambrain-neurotalks)
-* [Cambridge Brainhack-Global](#cambridge-brainhack-global)
-* [NSPN Chicheley Hall](#nspn-chicheley-hall)
-* [Cambridge Science Festival](#cambridge-science-festival)
-* [I AM BEAST](#i-am-beast)
-* [Endocrine Society (ENDO)](#endocrine-society)
-* [Invited talk at University of Pennsylvania](#invited-talk-at-university-of-pennsylvania)
-* [Society of Biological Psychiatry](#society-of-biological-psychiatry)
-* [Fragile Families Challenge](#fragile-families-challenge)
-* [Talk at Poldrack lab meeting](#talk-at-poldrack-lab-meeting)
-* [Self-nomination for OHBM Open Science SIG](#self-nomination-for-ohbm-open-science-sig)
-* [GAY UK panel discussion on Alan Turing](#gay-uk-panel-discussion-on-alan-turing)
-* [International Conference for Cognitive Neuroscience](#international-conference-for-cognitive=neuroscience)
-* [Mozilla Strategy Retreat](#mozilla-strategy-retreat)
-* [European College of Neuropsychopharmacology (ENCP) Congress](#european-college-of-neuropsychopharmacology-ecnp-congress)
-<<<<<<< HEAD
-* [Open Science in Practice Summer School](#open-science-in-practice-summer-school)
-=======
-* [Open Science in Practice summer school](#open-science-in-practice-summer-school)
->>>>>>> 8208d9654069e1b49ffec14e7c138aa499f05de8
-* [Better Science through Better Data](#better-science-through-better-data)
+* January
+    * [OHBM Student Postdoc SIG](#ohbm-student-postdoc-sig)
+* February
+    * [CamBRAIN NeuroTalks](#cambrain-neurotalks)
+* March
+    * [Cambridge Brainhack-Global](#cambridge-brainhack-global)
+    * [NSPN Chicheley Hall](#nspn-chicheley-hall)
+    * [Cambridge Science Festival](#cambridge-science-festival)
+    * [I AM BEAST](#i-am-beast)
+* April
+    * [Endocrine Society (ENDO)](#endocrine-society)
+    * [Invited talk at University of Pennsylvania](#invited-talk-at-university-of-pennsylvania)
+* May
+    * [Society of Biological Psychiatry](#society-of-biological-psychiatry)
+    * [Fragile Families Challenge](#fragile-families-challenge)
+    * [Talk at Poldrack lab meeting](#talk-at-poldrack-lab-meeting)
+* June
+    * [Self-nomination for OHBM Open Science SIG](#self-nomination-for-ohbm-open-science-sig)
+* July
+    * [GAY UK panel discussion on Alan Turing](#gay-uk-panel-discussion-on-alan-turing)
+* August
+    * [International Conference for Cognitive Neuroscience](#international-conference-for-cognitive=neuroscience)
+    * [Mozilla Strategy Retreat](#mozilla-strategy-retreat)
+* September
+    * [European College of Neuropsychopharmacology (ENCP) Congress](#european-college-of-neuropsychopharmacology-ecnp-congress)
+    * [Open Science in Practice Summer School](#open-science-in-practice-summer-school)
+* October
+    * [Better Science through Better Data](#better-science-through-better-data)
+* November
+    * [Brainhack Warsaw](#brainhack-warsaw)
 
 ### OHBM Student Postdoc SIG
 
+**Date**:
+
 **Qualifications**: B.Sc., Physics (University of Bristol); M.Sc., Medical Physics (University of British Columbia); Ph.D., Neuroscience (University of California at Berkeley); Research Fellow (University of Cambridge & Turing Institute for Data Science).
 
-**Bio**: Kirstie discovered the wonder of brain imaging at the University of British Columbia during a masters degree in Medical Physics. She completed a PhD in Neuroscience at the University of California, Berkeley in 2012 and in 2017 joined the Turing Institute for Data Science from a postdoctoral fellowship at the University of Cambridge in the Department of Psychiatry. Her research uses magnetic resonance images to understand changes in the brain's structure and function that underlie the emergence of schizophrenia and depression. She is particularly passionate about ensuring that work is reproducible and can be replicated in independent data sets. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+**Bio**: Kirstie discovered the wonder of brain imaging at the University of British Columbia during a masters degree in Medical Physics. She completed a PhD in Neuroscience at the University of California, Berkeley in 2012 and in 2017 joined the Turing Institute for Data Science from a postdoctoral fellowship at the University of Cambridge in the Department of Psychiatry. Her research uses magnetic resonance images to understand changes in the brain's structure and function that underlie the emergence of schizophrenia and depression. She is particularly passionate about ensuring that work is reproducible and can be replicated in independent data sets. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 ### CamBRAIN NeuroTalks
 
 **Website**: https://cambrainsociety.com/events-2/cambrain-events/
 
+**Date**: 1st February 2017
+
 **Title**: Checking your working: a reproducible and replicable neuroimaging study of adolescent brain development.
 
 **Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. In 2016 the [Neuroscience in Psychiatry Network](http://www.nspn.org.uk/) published a study of adolescent brain development which showed that the hubs of the structural connectome are late developing and are found in association cortex (http://dx.doi.org/10.1073/pnas.1601745113). Furthermore these regions are enriched for genes related to schizophrenia. In this presentation Dr Kirstie Whitaker will demonstrate how this work is supported by open data and analysis code, and that the results replicate in two independent cohorts of teenagers. She will encourage CamBRAIN members to take steps towards ensuring that their work meets these standards for open and reproducible science in 2017 and beyond.
 
-**Bio**: Kirstie discovered the wonder of brain imaging at the University of British Columbia during a masters degree in Medical Physics. She completed a PhD in Neuroscience at the University of California, Berkeley in 2012 and in 2017 joined the Turing Institute from a postdoctoral fellowship at the University of Cambridge in the Department of Psychiatry. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+**Bio**: Kirstie discovered the wonder of brain imaging at the University of British Columbia during a masters degree in Medical Physics. She completed a PhD in Neuroscience at the University of California, Berkeley in 2012 and in 2017 joined the Turing Institute from a postdoctoral fellowship at the University of Cambridge in the Department of Psychiatry. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 **Slides**: https://doi.org/10.6084/m9.figshare.4602232
 
@@ -58,7 +70,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 **Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. In 2016 the [Neuroscience in Psychiatry Network](http://www.nspn.org.uk/) published a study of adolescent brain development which showed that the hubs of the structural connectome are late developing and are found in association cortex (http://dx.doi.org/10.1073/pnas.1601745113). Furthermore these regions are enriched for genes related to schizophrenia. In this presentation Dr Kirstie Whitaker will demonstrate how this work is supported by open data and analysis code, and that the results replicate in two independent cohorts of teenagers. She will encourage Brainhack-Global participants to take steps towards ensuring that their work meets these standards for open and reproducible science in 2017 and beyond.
 
-**Bio**: Kirstie discovered the wonder of brain imaging at the University of British Columbia during a masters degree in Medical Physics. She completed a PhD in Neuroscience at the University of California, Berkeley in 2012 and in 2017 joined the Turing Institute from a postdoctoral fellowship at the University of Cambridge in the Department of Psychiatry. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+**Bio**: Kirstie discovered the wonder of brain imaging at the University of British Columbia during a masters degree in Medical Physics. She completed a PhD in Neuroscience at the University of California, Berkeley in 2012 and in 2017 joined the Turing Institute from a postdoctoral fellowship at the University of Cambridge in the Department of Psychiatry. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 **Slides**: https://doi.org/10.6084/m9.figshare.4720996
 
@@ -73,7 +85,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 **Abstract**: Of the 300 participants who completed MRI scans as members of the UCHANGE study, 230 of them have returned for an additional MRI around one year later. In this talk, I will describe the processing pipeline for this data, including the quality control steps for the surface based reconstructions, and the demographics of the participants make up the longitudinal dataset. I will show that the cross-sectional results showing regional variation in the amount of age-related change in cortical thickness and magnetisation transfer (Whitaker\*, Vértes\* et al, 2016) are also present when within-person change is considered. My talk will conclude by describing planned analyses with Dr Simon White using mixed-models to understand the variation in brain structure across and within participants.
 
-**Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit at the University of Cambridge working with Prof Ed Bullmore. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). In July 2017 she will join [The Alan Turing Institute](https://www.turing.ac.uk/) as a Research Fellow.
+**Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit at the University of Cambridge working with Prof Ed Bullmore. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). In July 2017 she will join [The Alan Turing Institute](https://www.turing.ac.uk/) as a Research Fellow.
 
 
 ### Cambridge Science Festival
@@ -95,7 +107,7 @@ Adolescence is a period of human brain growth and high incidence of mental healt
 
 **Website**: http://www.sparkleanddark.com/
 
-**Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+**Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 
 ### Endocrine Society
@@ -109,7 +121,7 @@ Adolescence is a period of human brain growth and high incidence of mental healt
 
 **Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. I will present findings that adolescent cortical myelination and shrinkage are coupled and specifically associated with a dorsoventrally patterned gene expression profile enriched for synaptic, oligodendroglial- and schizophrenia-related genes. The topologically efficient and biologically expensive hubs of the brain anatomical network are located in association cortical regions and have the most pronounced changes during adolescence.
 
-**Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit at the University of Cambridge working with Prof Ed Bullmore. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 Mozilla Fellow for Science. In July 2017 she will join The [The Alan Turing Institute](https://www.turing.ac.uk/) as a Research Fellow.
+**Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit at the University of Cambridge working with Prof Ed Bullmore. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 Mozilla Fellow for Science. In July 2017 she will join The [The Alan Turing Institute](https://www.turing.ac.uk/) as a Research Fellow.
 
 
 **Slides**: https://doi.org/10.6084/m9.figshare.4810603
@@ -199,7 +211,7 @@ I am interested in the effects of early childhood environments on the developmen
 
 **Abstract**: Encouraging reproducible research - the sharing of data and code along with published findings - opens up the possibility of investigating how well a finding replicates in independent cohorts. It may not be easy to reproduce what someone has done (their code often is not well documented for example) but I have confidence that the open science community can help on the analysis front. A more challenging frontier is the application of a definition of replication - if the "blob" is in a slightly different location what do we conclude? Finally, however, the hardest challenge may be in dealing with the push-back from the original authors who could perceive "failed replications" as a personal attack. During my allocated time at lab meeting I will present a project proposal to replicate neuroimaging findings, explain the motivations and set up what I see are the major challenges. I hope to stimulate a discussion about the future of publishing replication studies in the era of big, and open, data.
 
-**Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+**Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 
 ### Self-nomination for OHBM Open Science SIG
@@ -220,7 +232,7 @@ I am interested in the effects of early childhood environments on the developmen
 
 **Date**: 24th July 2017
 
-**Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) and senior research associate in the Department of Psychiatry at the University of Cambridge. She uses magnetic resonance imaging to study child and adolescent brain development. She is an Fulbright scholarship alumna, 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and founder of the [STEMM Role Models](http://stemmrolemodels.com/) project.
+**Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) and senior research associate in the Department of Psychiatry at the University of Cambridge. She uses magnetic resonance imaging to study child and adolescent brain development. She is a Fulbright scholarship alumna, 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and founder of the [STEMM Role Models](http://stemmrolemodels.com/) project.
 
 
 ### International Conference for Cognitive Neuroscience
@@ -257,19 +269,34 @@ I am interested in the effects of early childhood environments on the developmen
 
 [1] Whitaker, K.J., Vértes, P.E., Romero-Garcia, R., Váša, F., Moutoussis, M., Prabhu, G., Weiskopf, N., Callaghan, M.F., Wagstyl, K., Rittman, T., Tait, R., Ooi, C., Suckling, J., Inkster, B., Fonagy, P., Dolan, R.J., Jones, P.B., Goodyer, I.M., NSPN Consortium, Bullmore, E.T., 2016. Adolescence is associated with genomically patterned consolidation of the hubs of the human brain connectome. Proc. Natl. Acad. Sci. USA. 113, 9105–10. doi:10.1073/pnas.1601745113
 
-**Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
+**Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
 
-### Open Science in Practice summer school
+### Open Science in Practice Summer School
 
 **Website**: https://osip2017.epfl.ch/page-145979.html
 
 **Date**: 26th September 2017
 
-**Title**: Showing your working: a how to guide to reproducible research
+**Title**: Publishing a reproducible paper
 
-**Abstract**: This talk will discuss the perceived and actual barriers experienced by researchers attempting to do reproducible research, and give practical guidance on how they can be overcome. It will include suggestions on how to make your code available and usable for others (including a strong suggestion to document it clearly so you don't have to reply to lots of email questions from future users). Exercises and resources will be persistently available after the talk and all audience members will leave knowing there is something they can do to step towards making their research reproducible.
+**Abstract**: This talk will discuss the perceived and actual barriers experienced by researchers attempting to do reproducible research, and give practical guidance on how they can be overcome. It will include suggestions on how to make your code and data available and usable for others (including a strong suggestion to document it clearly so you don't have to reply to lots of email questions from future users). Dr Kirstie Whitaker will present example publications from the [Neuroscience in Psychiatry Network](http://nspn.org.uk/) and discuss how the consortium has overcome challenges related to maintaining the privacy of our participants, complying with institutional ethical review boards, and building skills for individual researchers. She will encourage summer school participants to take steps towards ensuring that their publications are as open and reproducible as possible. The take home message will be: every little counts, and every journey starts with a single step.
 
-**Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+**Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
+
+### International Conference on Human Brain Development 2017
+
+**Website**:
+
+**Date**: 10th-15th October 2017
+
+**Title**: Making Connections in the Adolescent Brain
+
+**Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. I will present work by the Neuroscience in Psychiatry Network (NSPN; www.nspn.org.uk) on cortical myelination between the ages of 14 and 24. I will show, consistently in two cohorts, that age-related changes in adolescence are concentrated on the more densely connected hubs of the human structural connectome. These regions tend to be found in association cortex. I will demonstrate the power of integrating open data sets such as the Allen Brain Atlas with non-invasive imaging techniques. We found that the brain regions that change the most at this (late) stage of child brain development are enriched for genes linked to synapses and oligodendrocytes, and for genes associated with a risk of schizophrenia.
+
+**Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/). She completed her PhD in Neuroscience at UC Berkeley in 2012 and was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses MRI to understand changes in the brain's structure and function during adolescence and is passionate about ensuring  work is reproducible and can be independently replicated. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
+**Slides**:
 
 
 ### Better Science through Better Data
@@ -281,12 +308,24 @@ I am interested in the effects of early childhood environments on the developmen
 **Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance images to understand the changes in the brain's structure and function that underlie the emergence of schizophrenia and depression. She is particularly passionate about ensuring that work is reproducible and can be replicated in independent data sets. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 
+### Brainhack Warsaw
+
+**Website**: https://brainhackwarsaw.github.io/
+
+**Date**: 19th November
+
+**Title**: Shooting for the stars: Moving from reproducible to open research
+
+**Abstract**: This talk will discuss the perceived and actual barriers experienced by researchers attempting to do reproducible research in neuroscience, and give practical guidance on how they can be overcome. It will include suggestions on how to make your code and data available and usable for others (including a strong suggestion to document both clearly so you don't have to reply to lots of email questions from future users). However, as this is a Brainhack event, Dr Whitaker will push you further: to consider working openly. Open research is an important step in changing an academic reward system from its current focus on individual contributions and "getting there first" to sharing work as it is being created and allowing collaborators to contribute from the start. All Brainhack Warsaw participants will leave knowing there is something they can do to step towards making their research reproducible, and hopefully a few will be inspired to make more radical changes.
+
+**Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
+
 ---
 
 ### TEMPLATE: Title of event
 
 **Website**: Insert link
-
 
 **Date**: Date
 
