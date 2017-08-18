@@ -6,7 +6,7 @@
 
 **Name:** Isla Staden
 
-**Email:** istaden@turing.ac.uk
+**Email:** --
 
 **Physical address:**
 
