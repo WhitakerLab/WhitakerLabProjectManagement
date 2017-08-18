@@ -13,6 +13,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * [Cambridge Brainhack-Global](#cambridge-brainhack-global)
 * [NSPN Chicheley Hall](#nspn-chicheley-hall)
 * [Cambridge Science Festival](#cambridge-science-festival)
+* [I AM BEAST](#i-am-beast)
 * [Endocrine Society (ENDO)](#endocrine-society)
 * [Invited talk at University of Pennsylvania](#invited-talk-at-university-of-pennsylvania)
 * [Society of Biological Psychiatry](#society-of-biological-psychiatry)
@@ -21,7 +22,9 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * [Self-nomination for OHBM Open Science SIG](#self-nomination-for-ohbm-open-science-sig)
 * [GAY UK panel discussion on Alan Turing](#gay-uk-panel-discussion-on-alan-turing)
 * [International Conference for Cognitive Neuroscience](#international-conference-for-cognitive=neuroscience)
+* [Mozilla Strategy Retreat](#mozilla-strategy-retreat)
 * [European College of Neuropsychopharmacology (ENCP) Congress](#european-college-of-neuropsychopharmacology-ecnp-congress)
+* [Open Science in Practice Summer School](#open-science-in-practice-summer-school)
 * [Better Science through Better Data](#better-science-through-better-data)
 
 ### OHBM Student Postdoc SIG
