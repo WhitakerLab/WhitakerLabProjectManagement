@@ -35,6 +35,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
     * [European College of Neuropsychopharmacology (ENCP) Congress](#european-college-of-neuropsychopharmacology-ecnp-congress)
     * [Open Science in Practice Summer School](#open-science-in-practice-summer-school)
 * October
+    * [International Conference on Human Brain Development](#international-conference-on-human-brain-development)
     * [Better Science through Better Data](#better-science-through-better-data)
 * November
     * [Brainhack Warsaw](#brainhack-warsaw)
@@ -284,7 +285,7 @@ I am interested in the effects of early childhood environments on the developmen
 **Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 
-### International Conference on Human Brain Development 2017
+### International Conference on Human Brain Development
 
 **Website**:
 
