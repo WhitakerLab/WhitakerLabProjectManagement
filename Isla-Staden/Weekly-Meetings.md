@@ -47,7 +47,10 @@ I helped LL with some topology questions in his dissertation
 
 #### Who did you help this week?
 
-* I proofread Kirstie's newsletter
+* I proofread Kirstie's newsletter.
+  * KW: YAAAAY! Thank you! :sparkles: :balloon:
+  * KW: and you gave an awesome presentation! :star2:
+  * KW: AND you gave R a bunch of interesting resources (even if they aren't all that helpful)
 
 #### Who helped you this week?
 
@@ -57,8 +60,10 @@ I helped LL with some topology questions in his dissertation
 
 #### What did you achieve?
 
-* Report on the das project.
+* Report on the das project
+  * KW: which was great! Well done!
 * Comparing the das datasets + report
+  * KW: including a fun play around with topic modeling which looks fun!
 
 #### What did you struggle with?
 
@@ -66,22 +71,27 @@ I helped LL with some topology questions in his dissertation
 
 #### What would you like to work on next week?
 
-* Methods of clustering das, let's get something cooking before BM and IH change their minds
-	* Topic Modelling- interesting but not super useful
-	* minhash?
-	* blue scores/ngram distributions
-	* doc2vec ([has gensim implemenatation](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb))
-* I want to get all of the das work into shape, so that we can put it aside until the new data comes in. 
+* Methods of clustering das
+  * Topic Modelling- interesting but not super useful
+  * minhash?
+  * blue scores/ngram distributions
+  * doc2vec ([has gensim implemenatation](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb))
+    * KW: Take a look at this github repo if it's of any use! https://github.com/CDIPS-AI-2017/pensieve
+* I want to get all of the das work into shape, so that we can put it aside until the new data comes in.
+  * KW: YES - lets set 1st September as a day to move onto a new schedule of work. DAS won't be done, but you can deprioritise it.
 
 #### Where do you need help from Kirstie?
 
 * I would love to work with her on the data availability statements, but if she's busy I think I can move forward without her. There are a lot of people at the Turing with expertise in relevant areas who I could ask
 * I'm going to keep polishing the jupyter notebooks I've been using for analysis and I will probably ask her some time next week to give feedback
+  * KW: I'm in Toronto next week, but lets try for a collaborative doc that I can add comments to
 
 #### Any other topics
 
 * Maybe we should discuss when to move on from focusing on DAS to focusing on BNIP
+  * KW: Yes - sorry to rush out on you. High priorty conversation for when I'm back
 * How does Kirstie generate her markdown calendar? It's super usfeul.
+  * KW: check out [NewMonthForWhere.ipynb](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Kirstie-Whitaker/NewMonthForWhere.ipynb)
 
 - - -
 
