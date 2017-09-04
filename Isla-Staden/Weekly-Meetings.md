@@ -17,28 +17,33 @@
 
 #### Who did you help this week?
 
-I helped LL with some topology questions in his dissertation
+* I helped LL with some topology questions in his dissertation
+  * KW: NICE! :sparkles:
 
 #### Who helped you this week?
 
 * Kirstie and BM with that thing where you can tab everything at once- I had no idea. 
+  * KW: Aaaahahaha - awesome :raised_hands:
 
 #### What did you achieve?
 
-* Ive cleaned up a lot of the work I have done on the DAS project.
+* I've cleaned up a lot of the work I have done on the DAS project.
 
 #### What did you struggle with?
 
 * This week has been a heavyhanded lesson in "tidy up and explain while you go along" and "explaining what you've done takes longer than you expect it to"
+  * KW: Aaaaamen. Keep up the good work though. It's so valuable - thank you.
 
 #### What would you like to work on next week?
 
 * TBC
+  * KW: Scheduling work for new responsibilities as discussed in meeting.
 
 #### Where do you need help from Kirstie?
 
 * Planning ahead
-
+  * KW: As discussed in meeting.
+  
 #### Any other topics
 
 -----
