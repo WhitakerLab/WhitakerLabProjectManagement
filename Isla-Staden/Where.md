@@ -8,8 +8,8 @@ Date | Day   | City, Country                | Event
 4    | Mon   | :uk: London, UK              | Working at Turing Institute   
 5    | Tue   | :uk: London, UK              | Working at Turing Institute   
 6    | Wed   | :uk: London, UK              | Working at Turing Institute   
-7    | Thurs | :mortarboard: Cambridge, UK  | Neuroscience conference       
-8    | Fri   | :mortarboard: Cambridge, UK  | Neuroscience conference       
+7    | Thurs | :mortar_board: Cambridge, UK | Neuroscience conference       
+8    | Fri   | :mortar_board: Cambridge, UK | Neuroscience conference       
 9    | Sat   | :bear: Tbilisi, Georgia      | Holiday relaxing              
 10   | Sun   | :bear: Tbilisi, Georgia      | Holiday relaxing              
 11   | Mon   | :bear: Tbilisi, Georgia      | Holiday relaxing              
