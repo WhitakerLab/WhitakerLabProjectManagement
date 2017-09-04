@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [1st September 2017](#date-1st-september-2017)
 * [18th August 2017](#date-18th-august-2017)
 *  [3rd August 2017](#date-3rd-august-2017)
 * [17th July 2017](#date-17th-july-2017)
@@ -10,6 +11,42 @@
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+### Date: 1st September 2017
+
+#### Who did you help this week?
+
+* I helped LL with some topology questions in his dissertation
+  * KW: NICE! :sparkles:
+
+#### Who helped you this week?
+
+* Kirstie and BM with that thing where you can tab everything at once- I had no idea. 
+  * KW: Aaaahahaha - awesome :raised_hands:
+
+#### What did you achieve?
+
+* I've cleaned up a lot of the work I have done on the DAS project.
+
+#### What did you struggle with?
+
+* This week has been a heavyhanded lesson in "tidy up and explain while you go along" and "explaining what you've done takes longer than you expect it to"
+  * KW: Aaaaamen. Keep up the good work though. It's so valuable - thank you.
+
+#### What would you like to work on next week?
+
+* TBC
+  * KW: Scheduling work for new responsibilities as discussed in meeting.
+
+#### Where do you need help from Kirstie?
+
+* Planning ahead
+  * KW: As discussed in meeting.
+  
+#### Any other topics
+
+-----
 
 ### Date: 18th August 2017
 
@@ -476,6 +513,9 @@ Replace this text with a one/two sentence description of who helped you this wee
 
 * Replace this text with a bullet point list of what you achieved this week.
 * It's ok if your list is only one bullet point long!
+* What did you achieve with your CD time?
+* What did you achieve with your DAS time?
+
 
 #### What did you struggle with?
 
