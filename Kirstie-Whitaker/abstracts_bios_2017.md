@@ -229,8 +229,7 @@ I am interested in the effects of early childhood environments on the developmen
 
 ### GAY UK: Panel discussion on Alan Turing
 
-**Website**:
-
+**Website**: https://www.bl.uk/events/alan-turing-life-work-legacy
 
 **Date**: 24th July 2017
 
@@ -263,7 +262,7 @@ I am interested in the effects of early childhood environments on the developmen
 
 **Website**: http://2017.ecnp.eu
 
-**Date**: 9th September 2017
+**Date**: 5th September 2017
 
 **Title**: Intra-cortical myelination during adolescence: linking MRI networks with gene transcription profiles
 
@@ -272,6 +271,9 @@ I am interested in the effects of early childhood environments on the developmen
 [1] Whitaker, K.J., Vértes, P.E., Romero-Garcia, R., Váša, F., Moutoussis, M., Prabhu, G., Weiskopf, N., Callaghan, M.F., Wagstyl, K., Rittman, T., Tait, R., Ooi, C., Suckling, J., Inkster, B., Fonagy, P., Dolan, R.J., Jones, P.B., Goodyer, I.M., NSPN Consortium, Bullmore, E.T., 2016. Adolescence is associated with genomically patterned consolidation of the hubs of the human brain connectome. Proc. Natl. Acad. Sci. USA. 113, 9105–10. doi:10.1073/pnas.1601745113
 
 **Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
+
+**Slides**: https://doi.org/10.6084/m9.figshare.5373886.v1
+
 
 ### Open Science in Practice Summer School
 
@@ -306,7 +308,7 @@ I am interested in the effects of early childhood environments on the developmen
 
 ### International Conference on Human Brain Development
 
-**Website**:
+**Website**: http://ichbd2017.csp.escience.cn/dct/page/1
 
 **Date**: 10th-15th October 2017
 
