@@ -302,7 +302,7 @@ Date | Day   | City, Country                | Event
 26   | Tue   | :snowboarder: Lausanne, Switzerland | [Open Science In Practice summer school](https://osip2017.epfl.ch/)   
 27   | Wed   | :snowboarder: Lausanne, Switzerland | [Open Science In Practice summer school](https://osip2017.epfl.ch/)  
 28   | Thurs | :uk: London, UK              | Working at Turing Institute   
-29   | Fri   | :uk: London, UK              | Working at Turing Institute   
+29   | Fri   | :uk: London, UK              | Reproducibility training at Turing   
 30   | Sat   | :dog: Deeping, UK            | Weekend relaxing
 
 ### October 2017
