@@ -37,6 +37,7 @@ TH, thanks for mentoring!
 * video call technology
 * explaining the issues with the pubtype refinement of the das data
   * KW: As discussed in meeting, send email to A & J w numbers dropped by various criteria
+  	* After a second look at the API, although a large number of BMJ articles do only have this "journal article" tag I'm not convinced that many of them are what we would want to count anyway. I'm therefore going to stop worrying and let A go ahead and filter by "research article".
 
 #### What would you like to work on next week?
 
