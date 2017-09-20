@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [20th September 2017](#date-20th-september-2017)
 * [1st September 2017](#date-1st-september-2017)
 * [18th August 2017](#date-18th-august-2017)
 *  [3rd August 2017](#date-3rd-august-2017)
@@ -11,6 +12,47 @@
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+### Date: 20th September 2017
+
+#### Who did you help this week?
+
+DAS project to get full dataset :ok_hand:
+
+#### Who helped you this week?
+
+TH, thanks for mentoring!
+  * KW: :sparkles:
+
+#### What did you achieve?
+
+* We reached a decision on what to do with the das project.
+* Thinking very hard about BNIP
+* KW: Accepted to OpenCon! :tada:
+* KW: Accepted to MozFest! :sparkles:
+
+#### What did you struggle with?
+
+* video call technology
+* explaining the issues with the pubtype refinement of the das data
+  * KW: As discussed in meeting, send email to A & J w numbers dropped by various criteria
+
+#### What would you like to work on next week?
+
+* Give my love and attention to BNIP
+  * First off I'd like to set up some regression tests so that we can know if we're breaking things
+
+#### Where do you need help from Kirstie?
+
+* We should discuss how to manage BNIP
+  * KW: Made @Islast admin of [WhitakerLab/BrainNetworksInPython](https://github.com/WhitakerLab/BrainNetworksInPython)
+  * KW: Create issues 1) how to get contributors, 2) plans for MozFest
+  * KW: Check out https://github.com/uwescience/shablona
+
+#### Any other topics
+
+* Build budget for travel to OpenCon
 
 
 ### Date: 1st September 2017
