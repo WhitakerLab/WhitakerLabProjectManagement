@@ -301,7 +301,7 @@ Date | Day   | City, Country                | Event
 25   | Mon   | :uk: London, UK              | Working at Turing Institute   
 26   | Tue   | :snowboarder: Lausanne, Switzerland | [Open Science In Practice summer school](https://osip2017.epfl.ch/)   
 27   | Wed   | :snowboarder: Lausanne, Switzerland | [Open Science In Practice summer school](https://osip2017.epfl.ch/)  
-28   | Thurs | :uk: London, UK              | Working at Turing Institute   
+28   | Thurs | :mortar_board: London, UK              | Working in Cambridge   
 29   | Fri   | :uk: London, UK              | Reproducibility training at Turing   
 30   | Sat   | :dog: Deeping, UK            | Weekend relaxing
 
@@ -314,7 +314,7 @@ Date | Day   | City, Country                | Event
 3    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 4    | Wed   | :uk: London, UK              | Working at Turing Institute   
 5    | Thurs | :uk: London, UK              | Working at Turing Institute   
-6    | Fri   | :mortar_board: Cambridge, UK | Working in Cambridge   
+6    | Fri   | :uk: London, UK              | Working in Turing Institute   
 7    | Sat   | :cn: Nanning, China          | [ICHBD2017](http://ichbd2017.csp.escience.cn/dct/page/1)
 8    | Sun   | :cn: Nanning, China          | [ICHBD2017](http://ichbd2017.csp.escience.cn/dct/page/1)
 9    | Mon   | :cn: Nanning, China          | [ICHBD2017](http://ichbd2017.csp.escience.cn/dct/page/1)
@@ -338,14 +338,14 @@ Date | Day   | City, Country                | Event
 27   | Fri   | :uk: London, UK              | [MozFest](https://mozillafestival.org/)
 28   | Sat   | :uk: London, UK              | [MozFest](https://mozillafestival.org/)
 29   | Sun   | :uk: London, UK              | [MozFest](https://mozillafestival.org/)
-30   | Mon   | :uk: London, UK              | Working at Turing Institute   
+30   | Mon   | :uk: London, UK              | [MozFest satellite events](https://mozillafestival.org/)
 31   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 
 ### November 2017
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Wed   | :bullettrain_side: Peterborough, UK              | Outreach teaching   
+1    | Wed   | :bullettrain_side: Peterborough, UK  | Outreach teaching   
 2    | Thurs | :uk: London, UK              | Working at Turing Institute   
 3    | Fri   | :uk: London, UK              | Working at Turing Institute   
 4    | Sat   | :dog: Deeping, UK            | Weekend relaxing              
@@ -359,7 +359,7 @@ Date | Day   | City, Country                | Event
 12   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 13   | Mon   | :mortar_board: Cambridge, UK | Teaching PBS2 lab   
 14   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-15   | Wed   | :mortar_board: Cambridge, UK | Cambridge Data Champions conference   
+15   | Wed   | :mortar_board: Cambridge, UK | [Engaging Researchers in Good Data Management](http://www.data.cam.ac.uk/engaging-researchers-good-data-management) conference
 16   | Thurs | :mortar_board: Cambridge, UK | OpenConCam 2017
 17   | Fri   | :mortar_board: Cambridge, UK | OpenConCam 2017   
 18   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
@@ -368,8 +368,8 @@ Date | Day   | City, Country                | Event
 21   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 22   | Wed   | :mortar_board: Cambridge, UK | Interviewing Angela Saini
 23   | Thurs | :uk: London, UK              | Working at Turing Institute   
-24   | Fri   | 🏞️ Lake district, UK        | Holiday w american travelling  
-25   | Sat   | 🏞️ Lake district, UK        | Holiday w american travelling            
+24   | Fri   | 🏞️ Lake district, UK        | Holiday w american travelling friend
+25   | Sat   | 🏞️ Lake district, UK        | Holiday w american travelling friend          
 26   | Sun   | 🏞️ Lake district, UK        | Holiday w american travelling friend              
 27   | Mon   | :uk: London, UK              | Working at Turing Institute   
 28   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
@@ -393,7 +393,7 @@ Date | Day   | City, Country                | Event
 11   | Mon   | :uk: London, UK              | Working at Turing Institute   
 12   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 13   | Wed   | :uk: London, UK              | Working at Turing Institute   
-14   | Thurs | ☃️ Cambridge, UK | Psychiatry Christmas party   
+14   | Thurs | ☃️ Cambridge, UK             | Psychiatry Christmas party   
 15   | Fri   | :uk: London, UK              | Working at Turing Institute   
 16   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 17   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
