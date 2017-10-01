@@ -318,11 +318,9 @@ Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www
 
 Dr Whitaker uses magnetic resonance images to understand the changes in the brain's structure and function that underlie the emergence of schizophrenia and depression. Her work has shown that changes in myelin content in the brain's "grey matter" increase through adolescence and that association cortex - the area of the brain that underpins complex cognition such as reasoning - continues to develop into your 20s and beyond.
 
-Kirstie is particularly passionate about ensuring that work is reproducible and can be replicated in independent data sets. She is committed to supporting early career researchers ensure they can share their data and code while also following strict ethical guidelines.
+Kirstie is particularly passionate about ensuring that work is reproducible and can be replicated in independent data sets. She is committed to supporting early career researchers ensure they can share their data and code while also following strict ethical guidelines. As a researcher at the Turing Institute Dr Whitaker focuses on how data science techniques can improve neuroimaging analyses, including the application of machine learning techniques to big data sets such as UK Biobank.
 
-As a researcher at the Turing Institute Dr Whitaker focuses on how data science techniques can improve neuroimaging analyses, including the application of machine learning techniques to big data sets such as UK Biobank.
-
-She is a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). She will be the chair of the Organization for Human Brain Mapping's Open Science special interest group in 2019 and is currently serving as chair-elect. Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+Dr Whitaker is a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). She will be the chair of the Organization for Human Brain Mapping's Open Science special interest group in 2019 and is currently serving as chair-elect. Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 **Whether or not you would like to invite PhD and MPhil applications**
 
