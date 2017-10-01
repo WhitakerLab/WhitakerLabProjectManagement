@@ -332,7 +332,6 @@ Dr Whitaker is not permitted to directly supervise PhD or MPhil students in the 
 
 No
 
-Deadline: Friday Sept 8th
 
 ### International Conference on Human Brain Development
 
