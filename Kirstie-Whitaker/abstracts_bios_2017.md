@@ -35,6 +35,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
     * [European College of Neuropsychopharmacology (ENCP) Congress](#european-college-of-neuropsychopharmacology-ecnp-congress)
     * [Open Science in Practice Summer School](#open-science-in-practice-summer-school)
     * [Reproducibility at the Turing training for new PhD students](#reproducibility-at-the-turing-training-for-new-phd-students)
+    * [Cambridge Psychiatry Departmental Postgraduate Education Brochure](#cambridge-psychiatry-departmental-postgraduate-education-brochure)
 * October
     * [International Conference on Human Brain Development](#international-conference-on-human-brain-development)
     * [Better Science through Better Data](#better-science-through-better-data)
@@ -233,7 +234,7 @@ I am interested in the effects of early childhood environments on the developmen
 
 **Date**: 24th July 2017
 
-**Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) and senior research associate in the Department of Psychiatry at the University of Cambridge. She uses magnetic resonance imaging to study child and adolescent brain development. She is a Fulbright scholarship alumna, 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and founder of the [STEMM Role Models](http://stemmrolemodels.com/) project.
+****: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) and senior research associate in the Department of Psychiatry at the University of Cambridge. She uses magnetic resonance imaging to study child and adolescent brain development. She is a Fulbright scholarship alumna, 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and founder of the [STEMM Role Models](http://stemmrolemodels.com/) project.
 
 
 ### International Conference for Cognitive Neuroscience
@@ -308,6 +309,28 @@ I am interested in the effects of early childhood environments on the developmen
 
 **Equipment required**: Whiteboard, postit notes and pens.
 
+
+### Cambridge Psychiatry Departmental Postgraduate Education Brochure
+
+**300 word abstract about you and your research to date and future plans/interests**
+
+Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She joined the Department of Psychiatry in 2012 and conducted her postdoctoral research in the Brain Mapping Unit under the supervision of Professor Ed Bullmore.  She remains a member of the department as a senior research associate.
+
+Dr Whitaker uses magnetic resonance images to understand the changes in the brain's structure and function that underlie the emergence of schizophrenia and depression. Her work has shown that changes in myelin content in the brain's "grey matter" increase through adolescence and that association cortex - the area of the brain that underpins complex cognition such as reasoning - continues to develop into your 20s and beyond.
+
+Kirstie is particularly passionate about ensuring that work is reproducible and can be replicated in independent data sets. She is committed to supporting early career researchers ensure they can share their data and code while also following strict ethical guidelines.
+
+As a researcher at the Turing Institute Dr Whitaker focuses on how data science techniques can improve neuroimaging analyses, including the application of machine learning techniques to big data sets such as UK Biobank.
+
+She is a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). She will be the chair of the Organization for Human Brain Mapping's Open Science special interest group in 2019 and is currently serving as chair-elect. Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
+* Whether or not you would like to invite PhD and MPhil applications
+Not permitted
+
+* Confirm whether you have 3 or more years left on your employment contract from October 2018
+No
+
+Deadline: Friday Sept 8th
 
 ### International Conference on Human Brain Development
 
