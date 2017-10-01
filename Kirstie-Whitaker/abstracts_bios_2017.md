@@ -324,10 +324,12 @@ As a researcher at the Turing Institute Dr Whitaker focuses on how data science 
 
 She is a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). She will be the chair of the Organization for Human Brain Mapping's Open Science special interest group in 2019 and is currently serving as chair-elect. Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
-* Whether or not you would like to invite PhD and MPhil applications
-Not permitted
+**Whether or not you would like to invite PhD and MPhil applications**
 
-* Confirm whether you have 3 or more years left on your employment contract from October 2018
+Dr Whitaker is not permitted to directly supervise PhD or MPhil students in the Department of Psychiatry. Please investigate [studentship opportunities](https://www.turing.ac.uk/opportunities/studentships/) at the Alan Turing Institute.
+
+**Confirm whether you have 3 or more years left on your employment contract from October 2018**
+
 No
 
 Deadline: Friday Sept 8th
