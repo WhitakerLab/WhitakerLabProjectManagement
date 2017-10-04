@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [4th October 2017](#date-4th-october-2017)
 * [20th September 2017](#date-20th-september-2017)
 * [1st September 2017](#date-1st-september-2017)
 * [18th August 2017](#date-18th-august-2017)
@@ -12,6 +13,51 @@
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+### Date: 4th October 2017
+
+#### Who did you help this week?
+
+* helped SM fold recycling boxes - this isn't particularly charitable, it's in my top 20 favourite passtimes
+* fixed kirstie's chair again -  also top 20
+
+#### Who helped you this week?
+
+* Kirstie fixed the Travis CI pull request that was driving me mad! Thank you Kirstie :sparkles:
+* TH raised a lotta good points on mozfest
+
+#### What did you achieve?
+
+* Got Travis CI working for BNIP and pr-ed first tests
+* blog post for bnip package name
+* Overview of new das data
+* Progress in :
+	* redrafting bnip readme
+	* Msc research/ writing applications
+	* budget for opencon
+
+#### What did you struggle with?
+
+* Just feel like I'm wading through treacle sometimes
+
+#### What would you like to work on next week?
+
+* BNIP
+* budget for opencon!! (another half hour max)
+* DAS: wrangle subj info (a morning?)
+* CD: apply to NSPN job (no idea)
+* prepare for mozilla democall (this is something I can be thinking about when working on bnip readme etc. Will want to practice it on Kirstie a couple of times (~5 mins))
+* prepare for mozfest (a while)
+
+#### Where do you need help from Kirstie?
+
+* das subject wrangling: I need to get the subjects out of xml and into something easier to 
+	interact with in python. Once this is done, see Kirstie.
+* mozfest session + mozilla democall
+
+#### Any other topics
+
 
 
 ### Date: 20th September 2017
