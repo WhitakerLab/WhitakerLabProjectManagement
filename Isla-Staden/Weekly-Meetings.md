@@ -21,6 +21,7 @@
 
 * helped SM fold recycling boxes - this isn't particularly charitable, it's in my top 20 favourite passtimes
 * fixed kirstie's chair again -  also top 20
+  * YAAAAS - thank you :sparkles:
 
 #### Who helped you this week?
 
@@ -33,9 +34,9 @@
 * blog post for bnip package name
 * Overview of new das data
 * Progress in :
-	* redrafting bnip readme
-	* Msc research/ writing applications
-	* budget for opencon
+  * redrafting bnip readme
+  * Msc research/ writing applications
+  * budget for opencon
 
 #### What did you struggle with?
 
@@ -44,10 +45,14 @@
 #### What would you like to work on next week?
 
 * BNIP
+  * KW: This is getting so exciting! :grinning: :tada:
 * budget for opencon!! (another half hour max)
+  * KW: Great - send along & recommend staying at OpenCon hotel
 * DAS: wrangle subj info (a morning?)
+  * KW & IS: Write up algorithm for assigning subjects
 * CD: apply to NSPN job (no idea)
 * prepare for mozilla democall (this is something I can be thinking about when working on bnip readme etc. Will want to practice it on Kirstie a couple of times (~5 mins))
+  * KW: :sparkles: Ready to rock - practise scheduled for 3pm Friday :grimacing:
 * prepare for mozfest (a while)
 
 #### Where do you need help from Kirstie?
