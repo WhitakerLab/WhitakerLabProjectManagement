@@ -5,14 +5,20 @@
 ### Date: 18th October 2017
 
 #### Who did you help this week?
+* JP a researcher in the US who has just started working on the replication of the HCP NN (positive-negative mode) work. 
+Had a long call with him, talking him through all the problems I encounted in my replication and answered his quesiotns (felt being very helpful 😊).
 
 * Helped F with some datasets in Neuroscience
   * KW: :sparkles: that sounds great! Looking forwards to meeting F now I'm back :smile:
   
 #### Who helped you this week?
+* Kirstie, had an amzing meeting with her. I am so appreciated that she showed me her way of doing open science 
+(*super cool stuff*), and am really motivated of following a similar path (there am I).
 
 * NK showed me his cool way of managing project with very systemized approach, including what kind of text editor, github repo, terminal app etc.
+  * links: http://www.wiwi.uni-bonn.de/gaudecker/computing_resources.html#templates-for-reproducible-research-projects-in-economics http://www.wiwi.uni-bonn.de/gaudecker/teaching/prog_econ_slides.html#prog-econ-slides
   * KW: :raised_hands:
+  
 * IS told me her experience of working with Git/Github
 
 #### What did you achieve?
@@ -70,8 +76,7 @@ Had a long call with him, talking him through all the problems I encounted in my
 
 
 ### Who helped you this week?
-* Kirstie, had an amzing meeting with her. I am so appreciated that she showed me her way of doing open science 
-(*super cool stuff*), and am really motivated of following a similar path (there am I).
+
 
 
 ### What did you acheive?
