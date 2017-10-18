@@ -1,16 +1,48 @@
 # Weekly Meetings
 
-## 16/10/2017 (Week 3)
-### Who did you help this week?
-* Answered TP some statistical question
+* [18th October 2017](#date-18th-october-2017)
 
-### Who helped you this week?
-* AB helped me a lot on accessing data and fronting jupyter notebook on cluster. Very appreciated!
+### Date: 18th October 2017
+
+#### Who did you help this week?
+
+* Helped F with some datasets in Neuroscience
+  * KW: :sparkles: that sounds great! Looking forwards to meeting F now I'm back :smile:
+  
+#### Who helped you this week?
+
+* NK showed me his cool way of managing project with very systemized approach, including what kind of text editor, github repo, terminal app etc.
+  * KW: :raised_hands:
+* IS told me her experience of working with Git/Github
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Kirstie?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
 
 
-_________
-
-## 09/10/2017 (Week 2)
+### Date: 18th October 2017 (Week 2)
 ### Who did you help this week?
 Helped F with some datasets in Neuroscience
 
