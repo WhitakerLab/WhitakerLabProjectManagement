@@ -25,23 +25,23 @@ Had a long call with him, talking him through all the problems I encounted in my
 * Set my own Github repo of working routine! (😊)
 * Set up my new laptop! (yay!👏) 
 * Made some progress on my HCP work.
+  * KW: YEAAAAAH! All good stuff :taco:
 
 #### What did you struggle with?
 
 * Too much information to take in...
 * Get used to new working routine and environment.
 * Using Git
+  * KW: I hope the discussion we had in the meeting, but I'll try to find more useful resources going forwards.
 * Getting access to UK Biobank data
 
 #### What would you like to work on next week?
 
 * Write up HCP
-
+  * KW: GO GO GO :muscle:
+  * KW: Note to self: add writing resources to onboarding repo
+  
 #### Where do you need help from Kirstie?
 
 * I may need Kirstie help me interpret the results from my HCP work, especially on the brain side. But I need to get sets of final results first :)
-
-
-
-
-
+  * KW: Lets discuss these in our next meeting on 1st Nov
