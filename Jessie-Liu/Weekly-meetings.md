@@ -1,6 +1,43 @@
 # Weekly Meetings
 
 * [18th October 2017](#date-18th-october-2017)
+* [1st November 2017](#date-18th-october-2017)
+
+
+### Date: 1st November 2017
+
+#### Who did you help this week?
+* I think I wasnt being very helpful this week... Helped circulating the Turing doctral program.
+* Helped GWK with PhD application questions and XXY with some 'Complexity' questions.
+* And again a little help for F on some Neuroscience dataset.
+
+#### Who helped you this week?
+* AB helped me so much on cluster computing. Im really thankful for his time!
+* AB spent some time with me on figuring out some Matlab plot setting. Although it wasnt solved in the end, I still appreciate for his help.
+* Kirstie, thank you very much for giving me the chance to go the MozFest, really special experience for me! :sparkling_heart:
+* Went to an interesting workshop at MozFest called "An Introduction to Neurohacking". The facilitator of the session talked to me for a while explaining me how their product works, how EEG works, whats the potencial use of it.
+
+#### What did you achieve?
+* More analysis on HCP work.
+* A draft paper! :smiley:
+* If this counts, a PhD progress report as well (lots of writing anyway...)
+
+
+#### What did you struggle with?
+* Finish writing the paper... wasnt easy in time management (always wanted to do more analysis), the structure the writing (logic, order, what to put in) and so on.
+
+#### What would you like to work on next week?
+* Going to present a paper in Oxford next week. I need to prepare for it
+* Doing some draft paper modification
+* Start the new project! :raised_hands:
+
+#### Where do you need help from Kirstie?
+* Some feedback on my draft paper will be much appreciated :blush:
+* Some plan on what we are going to do :wave:
+
+
+
+_____________
 
 ### Date: 18th October 2017
 
