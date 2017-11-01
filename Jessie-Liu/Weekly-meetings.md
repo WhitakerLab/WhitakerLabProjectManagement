@@ -35,21 +35,19 @@
 * Some feedback on my draft paper will be much appreciated :blush:
 * Some plan on what we are going to do :wave:
 
-
-
 _____________
 
 ### Date: 18th October 2017
 
 #### Who did you help this week?
-* JP a researcher in the US who has just started working on the replication of the HCP NN (positive-negative mode) work. 
+* JP a researcher in the US who has just started working on the replication of the HCP NN (positive-negative mode) work.
 Had a long call with him, talking him through all the problems I encounted in my replication and answered his quesiotns (felt being very helpful 😊).
   * KW: Great stuff!! :tada:
 * Helped F with some datasets in Neuroscience
   * KW: :sparkles: that sounds great! Looking forwards to meeting F now I'm back :smile:
-  
+
 #### Who helped you this week?
-* Kirstie, had an amzing meeting with her. I am so appreciated that she showed me her way of doing open science 
+* Kirstie, had an amzing meeting with her. I am so appreciated that she showed me her way of doing open science
 (*super cool stuff*), and am really motivated of following a similar path (there am I).
   * KW: So kind! I'm so glad :blush:
 * NK showed me his cool way of managing project with very systemized approach, including what kind of text editor, github repo, terminal app etc.
