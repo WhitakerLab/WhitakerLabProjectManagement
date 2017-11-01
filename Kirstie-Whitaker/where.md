@@ -366,7 +366,7 @@ Date | Day   | City, Country                | Event
 19   | Sun   | :dog: Deeping, UK            | Talk for [Brainhack Warsaw](https://brainhackwarsaw.github.io/) (via skype)          
 20   | Mon   | :uk: London, UK              | Working at Turing Institute   
 21   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-22   | Wed   | :mortar_board: Cambridge, UK | Interviewing Angela Saini
+22   | Wed   | :mortar_board: Cambridge, UK | [Interviewing Angela Saini](https://www.eventbrite.co.uk/e/inferior-how-science-got-women-wrong-tickets-38763374296)
 23   | Thurs | :uk: London, UK              | Working at Turing Institute   
 24   | Fri   | 🏞️ Lake district, UK        | Holiday w american travelling friend
 25   | Sat   | 🏞️ Lake district, UK        | Holiday w american travelling friend          
