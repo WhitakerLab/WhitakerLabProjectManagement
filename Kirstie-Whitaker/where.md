@@ -325,7 +325,7 @@ Date | Day   | City, Country                | Event
 14   | Sat   | :cn: Nanning, China          | [ICHBD2017](http://ichbd2017.csp.escience.cn/dct/page/1)
 15   | Sun   | :cn: Nanning, China          | [ICHBD2017](http://ichbd2017.csp.escience.cn/dct/page/1)
 16   | Mon   | :cn: Nanning, China          | [ICHBD2017](http://ichbd2017.csp.escience.cn/dct/page/1)
-17   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
+17   | Tue   | :cn: Nanning, China          | [ICHBD2017](http://ichbd2017.csp.escience.cn/dct/page/1)
 18   | Wed   | :uk: London, UK              | Working at Turing Institute   
 19   | Thurs | :uk: London, UK              | Working at Turing Institute   
 20   | Fri   | :uk: London, UK              | Working at Turing Institute   

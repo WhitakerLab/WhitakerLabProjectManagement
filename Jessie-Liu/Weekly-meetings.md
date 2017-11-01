@@ -60,7 +60,7 @@ Had a long call with him, talking him through all the problems I encounted in my
 #### What did you achieve?
 
 * Set my own Github repo of working routine! (😊)
-* Set up my new laptop! (yay!👏) 
+* Set up my new laptop! (yay!👏)
 * Made some progress on my HCP work.
   * KW: YEAAAAAH! All good stuff :taco:
 
@@ -77,7 +77,7 @@ Had a long call with him, talking him through all the problems I encounted in my
 * Write up HCP
   * KW: GO GO GO :muscle:
   * KW: Note to self: add writing resources to onboarding repo
-  
+
 #### Where do you need help from Kirstie?
 
 * I may need Kirstie help me interpret the results from my HCP work, especially on the brain side. But I need to get sets of final results first :)
