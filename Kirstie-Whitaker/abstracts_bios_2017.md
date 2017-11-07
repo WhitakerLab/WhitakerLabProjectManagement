@@ -40,7 +40,9 @@ They're ordered by date of presentation so ideally they're a little easier to fi
     * [International Conference on Human Brain Development](#international-conference-on-human-brain-development)
     * [Better Science through Better Data](#better-science-through-better-data)
 * November
+    * [Engaging Researchers in Good Data Management](#engaging-researchers-in-good-data-management)
     * [Brainhack Warsaw](#brainhack-warsaw)
+    * [Open Research London](#open-research-london)
 
 ### OHBM Student Postdoc SIG
 
@@ -355,6 +357,15 @@ No
 **Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance images to understand the changes in the brain's structure and function that underlie the emergence of schizophrenia and depression. She is particularly passionate about ensuring that work is reproducible and can be replicated in independent data sets. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 
+### Engaging Researchers in Good Data Management
+
+**Website**: https://www.data.cam.ac.uk/engaging-researchers-good-data-management
+
+**Date**: 15th November 2017
+
+**Title**: Investing in the open leaders of tomorrow: How Mozilla is bringing an open source philosophy to academic research
+
+
 ### Brainhack Warsaw
 
 **Website**: https://brainhackwarsaw.github.io
@@ -364,6 +375,17 @@ No
 **Title**: Shooting for the stars: Moving from reproducible to open research
 
 **Abstract**: This talk will discuss the perceived and actual barriers experienced by researchers attempting to do reproducible research in neuroscience, and give practical guidance on how they can be overcome. It will include suggestions on how to make your code and data available and usable for others (including a strong suggestion to document both clearly so you don't have to reply to lots of email questions from future users). However, as this is a Brainhack event, Dr Whitaker will push you further: to consider working openly. Open research is an important step in changing an academic reward system from its current focus on individual contributions and "getting there first" to sharing work as it is being created and allowing collaborators to contribute from the start. All Brainhack Warsaw participants will leave knowing there is something they can do to step towards making their research reproducible, and hopefully a few will be inspired to make more radical changes.
+
+**Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
+
+### Open Resarech London
+
+**Date**: 27th November
+
+**Title**: Barriers to reproducible research (and how to overcome them)
+
+**Abstract**: This talk will discuss the perceived and actual barriers experienced by researchers attempting to do reproducible research in neuroscience, and give practical guidance on how they can be overcome. It will include suggestions on how to make your code and data available and usable for others (including a strong suggestion to document both clearly so you don't have to reply to lots of email questions from future users). It will include a brief guide to version control, collaboration and dissemination using GitHub as well as a discussion of tools to help you work reproducibly from the start. Exercises and resources will be persistently available after the talk and all audience members will leave knowing there is something they can do to step towards making their research reproducible.
 
 **Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
