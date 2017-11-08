@@ -9,13 +9,14 @@
 
 #### Who did you help this week?
 * Helped FB in applying for HCP data (and she finally got access! :clap:)
-* BA, covered his teaching 
+* BA, covered his teaching
+  * 
 * Circulating our next DSG! (looking forward to it :sparkles:) 
-
+  * YEAAAAAAH! Thank you :sparkles: 
 
 #### Who helped you this week?
 * Kirstie, presenting available neuroimaging datasets.
-* Kirsite and AB for the chats on DSG.
+* Kirstie and AB for the chats on DSG.
 * JS explained some statistic basics.
 * IP, YW, JR, MP for updating their works with me.
 
@@ -27,7 +28,9 @@
 * Attending a workshop in Oxford: Dell-sponsored NVidia CUDA and deep learning workshop. 
 * Getting feedback from Tom so I can do some further modification.
 * Writting a summary report (potentially a paper) on the work of HCP that wasnt included in the previous writing. 
+  * Exciting idea - write up & share software for CCA including examples of where covariates make a difference
 * Learn Git!
+* KW: AND go ahead and make some fun plots with the UK Biobank data! :sparkles
 
 #### Where do you need help from Kirstie?
 * Please keep me updated with the DSG.
