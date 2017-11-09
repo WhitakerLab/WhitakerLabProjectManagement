@@ -1,8 +1,42 @@
 # Weekly Meetings
 
+* [08th November 2017](#date-08th-november-2017)
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
 
+
+### Date: 08th November 2017
+
+#### Who did you help this week?
+* Helped FB in applying for HCP data (and she finally got access! :clap:)
+* BA, covered his teaching
+  * 
+* Circulating our next DSG! (looking forward to it :sparkles:) 
+  * YEAAAAAAH! Thank you :sparkles: 
+
+#### Who helped you this week?
+* Kirstie, presenting available neuroimaging datasets.
+* Kirstie and AB for the chats on DSG.
+* JS explained some statistic basics.
+* IP, YW, JR, MP for updating their works with me.
+
+#### What did you achieve?
+* Explored more on UK Biobank (prepare a presentation).
+* Paper reading (*Brain network dynamics are hierarchically organized in time* D. Vidaurrea et al; *Image Processing and Quality Control for the first 10,000 Brain Imaging Datasets from UK Biobank* F. Alfaro-Almagro et al)
+
+#### What would you like to work on next week?
+* Attending a workshop in Oxford: Dell-sponsored NVidia CUDA and deep learning workshop. 
+* Getting feedback from Tom so I can do some further modification.
+* Writting a summary report (potentially a paper) on the work of HCP that wasnt included in the previous writing. 
+  * Exciting idea - write up & share software for CCA including examples of where covariates make a difference
+* Learn Git!
+* KW: AND go ahead and make some fun plots with the UK Biobank data! :sparkles
+
+#### Where do you need help from Kirstie?
+* Please keep me updated with the DSG.
+* I will send you a copy of my writing once I get feedback from Tom :blush:.
+
+____
 
 ### Date: 1st November 2017
 
