@@ -25,7 +25,7 @@
 * Paper reading (*Brain network dynamics are hierarchically organized in time* D. Vidaurrea et al; *Image Processing and Quality Control for the first 10,000 Brain Imaging Datasets from UK Biobank* F. Alfaro-Almagro et al)
 
 #### What would you like to work on next week?
-* Attending a workshop in Oxford: Dell-sponsored NVidia CUDA and deep learning workshop. 
+* Attending a workshop in Oxford: Dell-sponsored NVidia CUDA and deep learning workshop. [Link to the workshop](https://www.eiseverywhere.com/ehome/292259/635924/) 
 * Getting feedback from Tom so I can do some further modification.
 * Writting a summary report (potentially a paper) on the work of HCP that wasnt included in the previous writing. 
   * Exciting idea - write up & share software for CCA including examples of where covariates make a difference
