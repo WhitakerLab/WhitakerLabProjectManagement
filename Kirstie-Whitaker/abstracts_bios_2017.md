@@ -293,6 +293,7 @@ I am interested in the effects of early childhood environments on the developmen
 **Slides** for summer school talk: https://doi.org/10.6084/m9.figshare.5440621
 **Slides** for library evening event: https://doi.org/10.6084/m9.figshare.5443201
 
+
 ### Reproducibility at the Turing training for new PhD students
 
 **Date**: 29th September 2017
