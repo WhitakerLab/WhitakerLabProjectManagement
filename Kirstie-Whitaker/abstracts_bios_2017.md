@@ -236,7 +236,9 @@ I am interested in the effects of early childhood environments on the developmen
 
 **Date**: 24th July 2017
 
-****: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) and senior research associate in the Department of Psychiatry at the University of Cambridge. She uses magnetic resonance imaging to study child and adolescent brain development. She is a Fulbright scholarship alumna, 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and founder of the [STEMM Role Models](http://stemmrolemodels.com/) project.
+**Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) and senior research associate in the Department of Psychiatry at the University of Cambridge. She uses magnetic resonance imaging to study child and adolescent brain development. She is a Fulbright scholarship alumna, 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and founder of the [STEMM Role Models](http://stemmrolemodels.com/) project.
+
+**Spoken intro**: Dr Whitaker is a Research Fellow at The Alan Turing Institute and a research associate in the Department of Psychiatry at the University of Cambridge. She uses magnetic resonance imaging to study child and adolescent brain development. Kirstie is a Fulbright scholarship alumna and 2016/17 Mozilla Fellow for Science. She has just returned from her 9th year of participating in the AIDS/Lifecycle bike ride - 545 miles from San Francisco to LA to raise money to fight HIV/AIDS and eliminate the stigma associated with the virus. Kirstie is a passionate advocate for diversity in academia and tech, including support for LGBTQ+ members of our community.
 
 
 ### International Conference for Cognitive Neuroscience
