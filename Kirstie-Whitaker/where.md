@@ -360,8 +360,8 @@ Date | Day   | City, Country                | Event
 13   | Mon   | :mortar_board: Cambridge, UK | Teaching PBS2 lab   
 14   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 15   | Wed   | :mortar_board: Cambridge, UK | [Engaging Researchers in Good Data Management](http://www.data.cam.ac.uk/engaging-researchers-good-data-management) conference
-16   | Thurs | :mortar_board: Cambridge, UK | OpenConCam 2017
-17   | Fri   | :mortar_board: Cambridge, UK | OpenConCam 2017   
+16   | Thurs | :mortar_board: Cambridge, UK | [OpenConCam 2017](http://www.opencon2017.org/opencon_2017_cambridge)
+17   | Fri   | :mortar_board: Cambridge, UK | [OpenConCam 2017](http://www.opencon2017.org/opencon_2017_cambridge)   
 18   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 19   | Sun   | :dog: Deeping, UK            | Talk for [Brainhack Warsaw](https://brainhackwarsaw.github.io/) (via skype)          
 20   | Mon   | :uk: London, UK              | Working at Turing Institute   
@@ -371,7 +371,7 @@ Date | Day   | City, Country                | Event
 24   | Fri   | :boat:️ Bristol, UK           | Holiday w american travelling friend
 25   | Sat   | :boat:️ Bristol, UK           | Holiday w american travelling friend          
 26   | Sun   | :boat:️ Bristol, UK           | Holiday w american travelling friend              
-27   | Mon   | :uk: London, UK              | Talk at Crick Institute   
+27   | Mon   | :uk: London, UK              | [Talk at Crick Institute](https://www.eventbrite.co.uk/e/open-research-data-challenges-and-prospects-tickets-39659252893)   
 28   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 29   | Wed   | :uk: London, UK              | [SciGraph Hackday](http://www.springernature.com/gp/researchers/campaigns/sn-hack-day)   
 30   | Thurs | :uk: London, UK              | Working at Turing Institute   
@@ -380,9 +380,9 @@ Date | Day   | City, Country                | Event
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Fri   | :fr: Paris, France           | MozWow
-2    | Sat   | :fr: Paris, France           | MozWow              
-3    | Sun   | :fr: Paris, France           | MozWow              
+1    | Fri   | :uk: London, UK              | Working at Turing Institute   
+2    | Sat   | :dog: Deeping, UK            | Weekend relaxing   
+3    | Sun   | :dog: Deeping, UK            | Weekend relaxing
 4    | Mon   | :uk: London, UK              | Working at Turing Institute   
 5    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 6    | Wed   | :uk: London, UK              | Working at Turing Institute   

@@ -384,6 +384,8 @@ No
 
 ### Open Research London
 
+**Website**: https://www.eventbrite.co.uk/e/open-research-data-challenges-and-prospects-tickets-39659252893
+
 **Date**: 27th November
 
 **Title**: Barriers to reproducible research (and how to overcome them)
