@@ -1,10 +1,50 @@
 # Weekly Meetings
 
+* [20th November 2017](#date-20th-november-2017)
 * [08th November 2017](#date-08th-november-2017)
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
 
+### Date: 20th November 2017
 
+#### Who did you help this week?
+* Added AL on wechat but haven't chatted 
+* Omg I am so unhelpful compared with how many ppl helped me... :persevere:
+
+#### Who helped you this week?
+* IS showed me how to use git and wrote me a cheatsheet of common commands she finds useful on git (very nice of her :heart:)
+* GR, AML, RE, the speaker and the orgnisors of the Nvidia workshop. Great orginisation and useful talks and labs. (I have to show gratitude to Dell and BDI of Oxford, also big thanks to AB and TMS for letting me staying in their house during the workshop)
+* TMS for sending me the list of UKB variable list
+* NA for the help on python.
+* JB for offering help in using Fslnet
+* TN and SS for the help and refs on UKBB.
+
+#### What did you achieve?
+* Modified the draft paper and waiting for Tom's feedback
+* Attended the woorkshop on NVidia CUDA and deep learning sponsored by Dell
+* Had a few of short meetings with Tom discussing about the next step UKBB
+* Explored the UKBB data
+
+#### What did you struggle with?
+* I was pretty frastrated with accessing and querying the UKB data ... :weary:
+* Using python to quary data.
+* Tiredness of travelling.
+* Procrastation and laziness :disappointed:
+* Toothache :mask:
+
+#### What would you like to work on next week?
+* Write the abstract for OHBM 2018 (ddl 30th Nov)
+* Keep exploring the UKBB data
+* Update the draft PhD thesis for phd progress meeting (ddl 4th Dec)
+* Help with DSG :)
+
+#### Where do you need help from Kirstie?
+* Brain visualisation (Fslnet?)
+
+#### Any other topics
+* Big data Big clean-up: all day meeting at Oxford on the 22nd of Jan.
+
+____
 ### Date: 08th November 2017
 
 #### Who did you help this week?
