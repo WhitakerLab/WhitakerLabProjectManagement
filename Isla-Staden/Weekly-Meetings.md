@@ -23,20 +23,28 @@
 #### Who did you help this week?
 
 * Helped J with git
-
+  * KW :sparkles: THANK YOU - please update the onboarding repository with any resources you think are useful!
+  * Really interesting that there's a need for sharing this knowledge.
+    * What about running a Cut, Copy, Paste session? A "school fair" day?! Can we get the doctoral students to show off their skills and share with each other?
+    * KW: I think this needs to be a student lead idea but I AM SO HAPPY to help out in anyway.
+    
 #### Who helped you this week?
 
 * TF, Kirstie, LL helped me with me with my msc application
+  * KW: FINGERS CROSSED
 * The delightful pull requester on bnip who helped with the Travis CI
+  * KW: YAAAAY :tada::balloon::tada: 
 
 #### What did you achieve?
 
 * Surviving OpenCon
+  * It was fun, but very overwhelming!
+  * KW: Interesting to compare maths research openness (on arXiv, no data) with open education for maths - how to learn is siloed etc, also the need for inclusivity and re-defining success (or who is good) in maths.
 * BNIP regression tests now save hashes instead of files
-* Applying to Oxford MSC
-* converted data to csv, included speeding up the script that does that
-
-
+* CD: Applying to Oxford MSC
+* DAS: Converted data to csv, included speeding up the script that does that
+  * KW: YEAAAAAH - thank you - super valuable
+  
 #### What did you struggle with?
 
 * Being too busy! I'm really grateful that I got to go to OpenCon, but man was I tired afterwards
@@ -44,13 +52,19 @@
 #### What would you like to work on next week?
 
 * Time to give some love to NSPN- particularly getting set up, getting in touch with the people I need to be in touch with etc.
+  * Great - see the notes on the board :smile: Let's build the ***Welcome to NSPN*** website/wiki
 * I have also decided to apply to the Turing phd programme so that will need some time
-
+  * Deadline: 30th November
+  * Meet/email potential supervisors
+  * Sort out referees
+  
 #### Where do you need help from Kirstie?
 
 * I think I will need a lot of help from Kirstie while I get set up with NSPN but mostly just to answer questions
 
 #### Any other topics
+
+
 ---
 ### Date: 3rd November 2017
 
