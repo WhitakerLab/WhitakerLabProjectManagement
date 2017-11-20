@@ -325,7 +325,7 @@ Date | Day   | City, Country                | Event
 14   | Sat   | :cn: Nanning, China          | [ICHBD2017](http://ichbd2017.csp.escience.cn/dct/page/1)
 15   | Sun   | :cn: Nanning, China          | [ICHBD2017](http://ichbd2017.csp.escience.cn/dct/page/1)
 16   | Mon   | :cn: Nanning, China          | [ICHBD2017](http://ichbd2017.csp.escience.cn/dct/page/1)
-17   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
+17   | Tue   | :cn: Nanning, China          | [ICHBD2017](http://ichbd2017.csp.escience.cn/dct/page/1)
 18   | Wed   | :uk: London, UK              | Working at Turing Institute   
 19   | Thurs | :uk: London, UK              | Working at Turing Institute   
 20   | Fri   | :uk: London, UK              | Working at Turing Institute   
@@ -360,29 +360,29 @@ Date | Day   | City, Country                | Event
 13   | Mon   | :mortar_board: Cambridge, UK | Teaching PBS2 lab   
 14   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 15   | Wed   | :mortar_board: Cambridge, UK | [Engaging Researchers in Good Data Management](http://www.data.cam.ac.uk/engaging-researchers-good-data-management) conference
-16   | Thurs | :mortar_board: Cambridge, UK | OpenConCam 2017
-17   | Fri   | :mortar_board: Cambridge, UK | OpenConCam 2017   
+16   | Thurs | :mortar_board: Cambridge, UK | [OpenConCam 2017](http://www.opencon2017.org/opencon_2017_cambridge)
+17   | Fri   | :mortar_board: Cambridge, UK | [OpenConCam 2017](http://www.opencon2017.org/opencon_2017_cambridge)   
 18   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 19   | Sun   | :dog: Deeping, UK            | Talk for [Brainhack Warsaw](https://brainhackwarsaw.github.io/) (via skype)          
 20   | Mon   | :uk: London, UK              | Working at Turing Institute   
 21   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-22   | Wed   | :mortar_board: Cambridge, UK | Interviewing Angela Saini
+22   | Wed   | :mortar_board: Cambridge, UK | [Interviewing Angela Saini](https://www.eventbrite.co.uk/e/inferior-how-science-got-women-wrong-tickets-38763374296)
 23   | Thurs | :uk: London, UK              | Working at Turing Institute   
-24   | Fri   | 🏞️ Lake district, UK        | Holiday w american travelling friend
-25   | Sat   | 🏞️ Lake district, UK        | Holiday w american travelling friend          
-26   | Sun   | 🏞️ Lake district, UK        | Holiday w american travelling friend              
-27   | Mon   | :uk: London, UK              | Working at Turing Institute   
+24   | Fri   | :boat:️ Bristol, UK           | Holiday w american travelling friend
+25   | Sat   | :boat:️ Bristol, UK           | Holiday w american travelling friend          
+26   | Sun   | :boat:️ Bristol, UK           | Holiday w american travelling friend              
+27   | Mon   | :uk: London, UK              | [Talk at Crick Institute](https://www.eventbrite.co.uk/e/open-research-data-challenges-and-prospects-tickets-39659252893)   
 28   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-29   | Wed   | :uk: London, UK              | SciGraph Hackday   
+29   | Wed   | :uk: London, UK              | [SciGraph Hackday](http://www.springernature.com/gp/researchers/campaigns/sn-hack-day)   
 30   | Thurs | :uk: London, UK              | Working at Turing Institute   
 
 ### December 2017
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Fri   | :fr: Paris, France           | MozWow
-2    | Sat   | :fr: Paris, France           | MozWow              
-3    | Sun   | :fr: Paris, France           | MozWow              
+1    | Fri   | :uk: London, UK              | Working at Turing Institute   
+2    | Sat   | :dog: Deeping, UK            | Weekend relaxing   
+3    | Sun   | :dog: Deeping, UK            | Weekend relaxing
 4    | Mon   | :uk: London, UK              | Working at Turing Institute   
 5    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 6    | Wed   | :uk: London, UK              | Working at Turing Institute   
@@ -390,11 +390,11 @@ Date | Day   | City, Country                | Event
 8    | Fri   | :uk: London, UK              | Working at Turing Institute   
 9    | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 10   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-11   | Mon   | :uk: London, UK              | Working at Turing Institute   
-12   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-13   | Wed   | :uk: London, UK              | Working at Turing Institute   
-14   | Thurs | ☃️ Cambridge, UK             | Psychiatry Christmas party   
-15   | Fri   | :uk: London, UK              | Working at Turing Institute   
+11   | Mon   | :uk: London, UK              | [Turing Data Study Group](https://www.turing.ac.uk/jobs/applications-open-turing-data-study-group-11-15-december-2017/)   
+12   | Tue   | :uk: London, UK              | [Turing Data Study Group](https://www.turing.ac.uk/jobs/applications-open-turing-data-study-group-11-15-december-2017/)
+13   | Wed   | :uk: London, UK              | [Turing Data Study Group](https://www.turing.ac.uk/jobs/applications-open-turing-data-study-group-11-15-december-2017/)
+14   | Thurs | :uk: London, UK              | [Turing Data Study Group](https://www.turing.ac.uk/jobs/applications-open-turing-data-study-group-11-15-december-2017/)
+15   | Fri   | :uk: London, UK              | [Turing Data Study Group](https://www.turing.ac.uk/jobs/applications-open-turing-data-study-group-11-15-december-2017/)
 16   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 17   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 18   | Mon   | :uk: London, UK              | Working at Turing Institute   
@@ -425,7 +425,7 @@ Date | Day   | City, Country                | Event
 7    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 8    | Mon   | :uk: London, UK              | Working at Turing Institute   
 9    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-10   | Wed   | :uk: London, UK              | Working at Turing Institute   
+10   | Wed   | :uk: London, UK              | Talk at Crick Institute   
 11   | Thurs | :uk: London, UK              | Working at Turing Institute   
 12   | Fri   | :uk: London, UK              | Working at Turing Institute   
 13   | Sat   | :dog: Deeping, UK            | Weekend relaxing              

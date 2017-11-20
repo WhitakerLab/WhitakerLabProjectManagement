@@ -1,10 +1,12 @@
 # Weekly Meetings
 
+* [20th November 2017](#date-20th-november-2017)
+* [3rd November 2017](#date-3rd-november-2017)
 * [4th October 2017](#date-4th-october-2017)
 * [20th September 2017](#date-20th-september-2017)
 * [1st September 2017](#date-1st-september-2017)
 * [18th August 2017](#date-18th-august-2017)
-*  [3rd August 2017](#date-3rd-august-2017)
+* [3rd August 2017](#date-3rd-august-2017)
 * [17th July 2017](#date-17th-july-2017)
 * [6th July 2017](#date-6th-july-2017)
 * [19th June 2017](#date-19th-june-2017)
@@ -15,48 +17,101 @@
 * [12th May 2017](#date-12th-may-2017)
 
 
-### Date: [INSERT DATE OF MEETING]
+---
+### Date: 20th November 2017
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
+* Helped J with git
 
 #### Who helped you this week?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+* TF, Kirstie, LL helped me with me with my msc application
+* The delightful pull requester on bnip who helped with the Travis CI
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
-* What did you achieve with your CD time?
-* What did you achieve with your DAS time?
-
-* document tests
-* In progress:
-	* [planning for mozfest](https://hackmd.io/GzAMEYCYBMGZILSXAMwCwLSgpgIwbmuAKwLAAcA7MaJbOGuZKEA=) 
-	 	* remember to prevent guest editing after Kirstie has at it
+* Surviving OpenCon
+* BNIP regression tests now save hashes instead of files
+* Applying to Oxford MSC
+* converted data to csv, included speeding up the script that does that
 
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* Being too busy! I'm really grateful that I got to go to OpenCon, but man was I tired afterwards
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Time to give some love to NSPN- particularly getting set up, getting in touch with the people I need to be in touch with etc.
+* I have also decided to apply to the Turing phd programme so that will need some time
 
 #### Where do you need help from Kirstie?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* I think I will need a lot of help from Kirstie while I get set up with NSPN but mostly just to answer questions
+
+#### Any other topics
+---
+### Date: 3rd November 2017
+
+#### Who did you help this week?
+
+* Helped Abby with putting up posters for the Mozilla Open Leadership zone, also helped out at the desk at MozFest!
+* KW: Deeply helped me out hosting Erin when she visited - so glad you clicked and got on well!
+
+#### Who helped you this week?
+
+* Loads of people helped me!
+  * Christos helped me get set up before my session!
+  * Natalia gave me a hug
+    * KW: Sparkles :sparkling_heart:
+
+#### What did you achieve?
+
+* MozFest session!! Really worried about it in advance but it was really fun. People learnt about the project.
+  * KW: YES! :100::100::100:
+  * KW: Particularly proud that this was so outside of your comfort zone.
+  * Also really great to meet the other open leadership cohort!
+* Career development: Got a job!
+  * KW: WOOOO Way to go! :sparkles: Super excited!
+* Significant progress in Brain Networks in Python!!
+  * Eg: Found out during MozFest that new version of NetworkX is incompatible with old version. So glad to have figured that out!
+    * KW: YEAAAAAH - blog post?
+  * Implemented regression tests
+  * Got a good roadmap for refactoring - meeting on Monday to discuss in detail!
+* Progress on DAS project management
+  * Sticking to 1 day per week & moving forwards
+  * KW: Great - and I'll take on some of the visualisations & descriptions :muscle:
+* Career development: drafted application for masters program - deadline soon...gonna be fine
+  * KW: AWESOME - let me know if you have any questions
+    * Make sure to focus on getting your letters of recommendation ready to rock!
+
+#### What did you struggle with?
+
+* Nerves :confused:
+* Anger :rage:
+  * Stupid computer isn't working & stupid advice from tech support isn't helping
+* Being poorly :mask:
+* Politics
+  * KW: Very true - hopefully we're moving in the right direction
+
+#### What would you like to work on next week?
+
+* Getting ready for OpenCon
+* Learning about the NSPN data!
+* Catching up w Kirstie on Brain Networks in Python
+  * Excited to set up a bunch of issues! :sparkles:
+
+#### Where do you need help from Kirstie?
+
+* Big meeting already planned to talk about the vision & roadmap for Brain Networks in Python
+* Onboarding for NSPN data management
+  * KW: arranged meeting on Thursday morning :smiley:
 
 #### Any other topics
 
+
+>>>>>>> c811f58aa50a0019677ee8a0af8778daadc85e4b
 ---
 
 ### Date: 4th October 2017
