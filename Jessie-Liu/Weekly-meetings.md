@@ -10,40 +10,50 @@
 #### Who did you help this week?
 * Added AL on wechat but haven't chatted 
 * Omg I am so unhelpful compared with how many ppl helped me... :persevere:
-
+  * KW: You've helped me with all your valuable discussion on the data study groups!! Thank you! :sparkles:
+  
 #### Who helped you this week?
 * IS showed me how to use git and wrote me a cheatsheet of common commands she finds useful on git (very nice of her :heart:)
 * GR, AML, RE, the speaker and the orgnisors of the Nvidia workshop. Great orginisation and useful talks and labs. (I have to show gratitude to Dell and BDI of Oxford, also big thanks to AB and TMS for letting me staying in their house during the workshop)
-* TMS for sending me the list of UKB variable list
-* NA for the help on python.
+  * KW: Yeaaaaah! Glad you had a good time and everyone was so helpful! :sparkling_heart:
+* TMS for sending me the list of UKBB variable list
+* NA for the help on python
 * JB for offering help in using Fslnet
-* TN and SS for the help and refs on UKBB.
+* TN and SS for the help and refs on UKBB
 
 #### What did you achieve?
 * Modified the draft paper and waiting for Tom's feedback
 * Attended the woorkshop on NVidia CUDA and deep learning sponsored by Dell
 * Had a few of short meetings with Tom discussing about the next step UKBB
 * Explored the UKBB data
+  * :grinning: LOADSA DATA! :confused:
 
 #### What did you struggle with?
-* I was pretty frastrated with accessing and querying the UKB data ... :weary:
-* Using python to quary data.
+* I was pretty frustrated with accessing and querying the UKB data ... :weary:
+* Using python to query data.
 * Tiredness of travelling.
 * Procrastation and laziness :disappointed:
 * Toothache :mask:
 
+KW: You've been doing SO MUCH work - take care of yourself and take time to rest when you need to!  :blush:
+
+Re: biobank data - WAY TO GO - keep chugging along :steam_locomotive::dash::dash::dash:
+
 #### What would you like to work on next week?
 * Write the abstract for OHBM 2018 (ddl 30th Nov)
+  * KW: Woof - thank you for the reminder!! :grimacing:
 * Keep exploring the UKBB data
 * Update the draft PhD thesis for phd progress meeting (ddl 4th Dec)
 * Help with DSG :)
 
 #### Where do you need help from Kirstie?
 * Brain visualisation (Fslnet?)
+  * KW: Ah - I don't use matlab which is a shame but let's meet on Thursday to discuss best visualisations!
 
 #### Any other topics
 * Big data Big clean-up: all day meeting at Oxford on the 22nd of Jan.
-
+  * Wooooo! :sparkles: :woman_technologist:
+  
 ____
 ### Date: 08th November 2017
 
