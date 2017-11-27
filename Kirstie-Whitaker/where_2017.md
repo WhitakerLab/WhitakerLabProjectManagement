@@ -18,9 +18,6 @@ This file is a big list of dates so you can track where Kirstie is as she zooms 
 * [November](#november-2017)
 * [December](#december-2017)
 
-**2018**
-
-* [January](#january-2018)
 
 ### February 2017
 
@@ -412,38 +409,3 @@ Date | Day   | City, Country                | Event
 30   | Sat   | 🏞️ Lake district, UK         | Home for Christmas
 31   | Sun   | 🏞️ Lake district, UK         | Home for Christmas      
 ​
-### January 2018
-
-Date | Day   | City, Country                | Event
----- | ----- | ---------------------------- | -----
-1    | Mon   | 🏞️ Lake district, UK         | Home for Christmas
-2    | Tue   | :uk: London, UK              | Working at Turing Institute        
-3    | Wed   | :uk: London, UK              | Working at Turing Institute   
-4    | Thurs | :uk: London, UK              | Working at Turing Institute   
-5    | Fri   | :uk: London, UK              | Working at Turing Institute   
-6    | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-7    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-8    | Mon   | :uk: London, UK              | Working at Turing Institute   
-9    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-10   | Wed   | :uk: London, UK              | Talk at Crick Institute   
-11   | Thurs | :uk: London, UK              | Working at Turing Institute   
-12   | Fri   | :uk: London, UK              | Working at Turing Institute   
-13   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-14   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-15   | Mon   | :uk: London, UK              | Working at Turing Institute   
-16   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-17   | Wed   | :uk: London, UK              | Working at Turing Institute   
-18   | Thurs | :uk: London, UK              | Working at Turing Institute   
-19   | Fri   | :uk: London, UK              | Working at Turing Institute   
-20   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-21   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-22   | Mon   | :uk: London, UK              | Working at Turing Institute   
-23   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-24   | Wed   | :uk: London, UK              | Working at Turing Institute   
-25   | Thurs | :uk: London, UK              | Working at Turing Institute   
-26   | Fri   | :uk: London, UK              | Working at Turing Institute   
-27   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-28   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-29   | Mon   | :uk: London, UK              | Working at Turing Institute   
-30   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-31   | Wed   | :uk: London, UK              | Working at Turing Institute
