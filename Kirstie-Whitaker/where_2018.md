@@ -61,8 +61,8 @@ Date | Day   | City, Country                | Event
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Thurs | :uk: London, UK              | Working at Turing Institute   
-2    | Fri   | :uk: London, UK              | Working at Turing Institute   
+1    | Thurs | :uk: London, UK              | [MQ Annual Meeting](https://www.mqmentalhealth.org/posts/mental-health-science-meeting-2019)
+2    | Fri   | :uk: London, UK              | [MQ Annual Meeting](https://www.mqmentalhealth.org/posts/mental-health-science-meeting-2019) 
 3    | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 4    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 5    | Mon   | :uk: London, UK              | Working at Turing Institute   
