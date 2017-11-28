@@ -439,7 +439,7 @@ Date | Day   | City, Country                | Event
 7    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 8    | Mon   | :uk: London, UK              | Working at Turing Institute   
 9    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-10   | Wed   | :uk: London, UK              | Talk at Crick Institute   
+10   | Wed   | :uk: London, UK              | [Science on Screen at the Crick (Imitation Game)](https://www.crick.ac.uk/whats-on/upcoming-events/2018/01/10/science-on-screen-the-imitation-game/)   
 11   | Thurs | :uk: London, UK              | Working at Turing Institute   
 12   | Fri   | :uk: London, UK              | Working at Turing Institute   
 13   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
