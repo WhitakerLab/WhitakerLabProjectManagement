@@ -473,7 +473,7 @@ Date | Day   | City, Country                | Event
 4    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 5    | Mon   | :uk: London, UK              | Working at Turing Institute   
 6    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-7    | Wed   | :uk: London, UK              | Working at Turing Institute   
+7    | Wed   | :uk: London, UK              | [How do we solve science’s problem with women? (Debate, network & drinks)](https://www.eventbrite.com/e/how-do-we-solve-sciences-problem-with-women-debate-network-drinks-tickets-39217270913)   
 8    | Thurs | :uk: London, UK              | Working at Turing Institute   
 9    | Fri   | :uk: London, UK              | Working at Turing Institute   
 10   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
