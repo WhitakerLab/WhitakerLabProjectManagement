@@ -1,9 +1,43 @@
 # Weekly Meetings
 
+* [07th December 2017](#date-07th-december-2017)
 * [20th November 2017](#date-20th-november-2017)
 * [08th November 2017](#date-08th-november-2017)
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
+
+### Date: 07th December 2017
+
+#### Who did you help this week?
+* Helped with reviewing the DSG applications
+
+
+#### Who helped you this week?
+* KW provided me her python code of drawing circular graphs.
+* IS helped me looking at the python code and got it work.
+
+
+#### What did you achieve?
+* Explored a little bit more on BioBank (this work kind of fell behind the list... :worried:)
+* Finished writing the abstract for OHBM (waiting for feedback from Tom)
+* Updated my draft thesis and submitted to Complexity for PhD reviewing meeting.
+* Got FSLnets working!!! Finally! :clap:
+
+
+#### What did you struggle with?
+* Travlling... so much between Warwick and London
+
+
+#### What would you like to work on next week?
+* Facilitating DSG :blush:
+* Finish modifying abstract for OHBM and submit
+* Hopefully I can get feedback from Tom on the draft paper... :persevere:
+* Keep exploring UKB
+
+#### Where do you need help from Kirstie?
+* Brain visualisation (finally I have some plots to look at :smiley:)
+
+__________
 
 ### Date: 20th November 2017
 
