@@ -10,26 +10,33 @@
 
 #### Who did you help this week?
 * Helped with reviewing the DSG applications
+  * KW: GREAT :book:
 * Had a look at MA's R code tried to solve the problem but unsuccessful. :confused:
-
+  * KW: Ha - nice to try though!! :sparkles:
 
 #### Who helped you this week?
 * KW helped me on brain visualisation and provided me her python code of drawing circular graphs. :sparkles:
 * IS helped me looking at the python code and got it work. :sparkling_heart:
 * AM introced me his work about variational auto encoder (sounds interesting and I am going to have a look).
-* TP and NA helped in the HPC workshop.
-* SY helped me by having a look at some statd in some matlab code.
-
+  * KW: oooooh - fun! :open_mouth:
+* TP and NA helped in the HPC workshop
+  * KW: GO GO TEAMWORK! :muscle:
+* SY & TN helped me by having a look at some stats in some matlab code
+  * KW: YEAAAAH for fixing bugs :bug:
 
 #### What did you achieve?
 * Explored a little bit more on BioBank (this work kind of fell behind the list... :worried:)
+  * KW: FUN! :tada:
 * Finished writing the abstract for OHBM (waiting for feedback from Tom)
-* Updated my draft thesis and submitted to Complexity for PhD reviewing meeting.
+  * KW: GREAT - well done :sparkles:
+* Updated my draft thesis and submitted to Complexity for PhD reviewing meeting
+  * KW: REALLY great! Well done :smile:
 * Got FSLnets working!!! Finally! :clap:
-
+  * KW: Ooooooh, pretty! :sparkling_heart:
+  * Open homework: send your "bug" fix to the FSL mailing list :smile:
 
 #### What did you struggle with?
-* Travlling... so much between Warwick and London
+* Travelling... so much between Warwick and London
 
 
 #### What would you like to work on next week?
@@ -39,7 +46,7 @@
 * Keep exploring UKB
 
 #### Where do you need help from Kirstie?
-* Brain visualisation (finally I have some plots to look at :smiley:)
+* Interpreting brain visualisation (finally I have some plots to look at :smiley:)
 
 __________
 
