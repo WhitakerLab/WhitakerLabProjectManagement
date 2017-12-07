@@ -10,11 +10,15 @@
 
 #### Who did you help this week?
 * Helped with reviewing the DSG applications
+* Had a look at MA's R code tried to solve the problem but unsuccessful. :confused:
 
 
 #### Who helped you this week?
-* KW provided me her python code of drawing circular graphs.
-* IS helped me looking at the python code and got it work.
+* KW helped me on brain visualisation and provided me her python code of drawing circular graphs. :sparkles:
+* IS helped me looking at the python code and got it work. :sparkling_heart:
+* AM introced me his work about variational auto encoder (sounds interesting and I am going to have a look).
+* TP and NA helped in the HPC workshop.
+* SY helped me by having a look at some statd in some matlab code.
 
 
 #### What did you achieve?
