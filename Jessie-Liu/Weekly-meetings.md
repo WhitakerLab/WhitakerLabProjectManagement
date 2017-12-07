@@ -46,10 +46,10 @@ __________
 ### Date: 20th November 2017
 
 #### Who did you help this week?
-* Added AL on wechat but haven't chatted 
+* Added AL on wechat but haven't chatted
 * Omg I am so unhelpful compared with how many ppl helped me... :persevere:
   * KW: You've helped me with all your valuable discussion on the data study groups!! Thank you! :sparkles:
-  
+
 #### Who helped you this week?
 * IS showed me how to use git and wrote me a cheatsheet of common commands she finds useful on git (very nice of her :heart:)
 * GR, AML, RE, the speaker and the orgnisors of the Nvidia workshop. Great orginisation and useful talks and labs. (I have to show gratitude to Dell and BDI of Oxford, also big thanks to AB and TMS for letting me staying in their house during the workshop)
@@ -91,16 +91,16 @@ Re: biobank data - WAY TO GO - keep chugging along :steam_locomotive::dash::dash
 #### Any other topics
 * Big data Big clean-up: all day meeting at Oxford on the 22nd of Jan.
   * Wooooo! :sparkles: :woman_technologist:
-  
+
 ____
 ### Date: 08th November 2017
 
 #### Who did you help this week?
 * Helped FB in applying for HCP data (and she finally got access! :clap:)
 * BA, covered his teaching
-  * 
-* Circulating our next DSG! (looking forward to it :sparkles:) 
-  * YEAAAAAAH! Thank you :sparkles: 
+  *
+* Circulating our next DSG! (looking forward to it :sparkles:)
+  * YEAAAAAAH! Thank you :sparkles:
 
 #### Who helped you this week?
 * Kirstie, presenting available neuroimaging datasets.
@@ -113,9 +113,9 @@ ____
 * Paper reading (*Brain network dynamics are hierarchically organized in time* D. Vidaurrea et al; *Image Processing and Quality Control for the first 10,000 Brain Imaging Datasets from UK Biobank* F. Alfaro-Almagro et al)
 
 #### What would you like to work on next week?
-* Attending a workshop in Oxford: Dell-sponsored NVidia CUDA and deep learning workshop. [Link to the workshop](https://www.eiseverywhere.com/ehome/292259/635924/) 
+* Attending a workshop in Oxford: Dell-sponsored NVidia CUDA and deep learning workshop. [Link to the workshop](https://www.eiseverywhere.com/ehome/292259/635924/)
 * Getting feedback from Tom so I can do some further modification.
-* Writting a summary report (potentially a paper) on the work of HCP that wasnt included in the previous writing. 
+* Writting a summary report (potentially a paper) on the work of HCP that wasnt included in the previous writing.
   * Exciting idea - write up & share software for CCA including examples of where covariates make a difference
 * Learn Git!
 * KW: AND go ahead and make some fun plots with the UK Biobank data! :sparkles

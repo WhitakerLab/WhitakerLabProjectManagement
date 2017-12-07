@@ -1,5 +1,7 @@
 # Weekly Meetings
 
+* [7 December 2017](#date-7th-december-2017)
+* [20th November 2017](#date-20th-november-2017)
 * [3rd November 2017](#date-3rd-november-2017)
 * [4th October 2017](#date-4th-october-2017)
 * [20th September 2017](#date-20th-september-2017)
@@ -16,6 +18,109 @@
 * [12th May 2017](#date-12th-may-2017)
 
 
+---
+
+### Date: 7th December 2017
+
+#### Who did you help this week?
+
+* tried to helped J with brain network visualisations
+  * KW: Why say "tried" - IS: because the code in matplotlib isn't as nice so actually the plots were made in matlab instead!
+  * KW: Still good to try!! :sparkles:
+* contributed to a hack day
+  * KW: I had *so much fun* and was really impressed with your [`get_papers`](https://github.com/ContentMine/getpapers) skillz :computer:
+  * Would be nice to write up a little blog post about this...but who has the time ??
+    * Maybe we could do a mini hack afternoon to pull the work together? (possibly including the team at ContentMine)
+
+#### Who helped you this week?
+
+* LV helped me with everything NSPN
+ * KW: Fantastic :dancer:
+
+#### What did you achieve?
+
+* Made some contributions to the NSPN repo and got myself set up on Redcap, hphi
+  * KW: GREAT! Another thank you to LV :hibiscus:
+* Got that [green build passing badge](https://travis-ci.org/WhitakerLab/BrainNetworksInPython) on bnip
+  * KW :tada:
+* Completed Mozilla Open Leadership Training
+  * KW: :sparkles: :sparkling_heart: WELL DONE
+* What did you achieve with your CD time?
+  * Not so much, but the last weekly meetings was all about this
+* What did you achieve with your DAS time?
+  * Labelling articles with their das mandate status
+    * KW: :muscle: GREAT!
+
+#### What did you struggle with?
+
+* Staying focused
+
+#### What would you like to work on next week?
+
+* Blog post about Mozilla Open Leadership & Mozilla Science Lab Mini Grants - your experience with Brain Networks in Python.
+* Continue with the same balance of BNIP/NSPN/CD & DAS as in November :white_check_mark:
+* Keep working on welcome pack for NSPN
+
+#### Where do you need help from Kirstie?
+
+* Better vision for NSPN
+  * KW: good point - lets find time next week to build an agenda for the NSPN DM meeting
+
+#### Any other topics
+
+* Holiday over Christmas
+  * KW: Good point - email Psychiatry HR to find out the rules!
+  
+---
+
+### Date: 20th November 2017
+
+#### Who did you help this week?
+
+* Helped J with git
+  * KW :sparkles: THANK YOU - please update the onboarding repository with any resources you think are useful!
+  * Really interesting that there's a need for sharing this knowledge.
+    * What about running a Cut, Copy, Paste session? A "school fair" day?! Can we get the doctoral students to show off their skills and share with each other?
+    * KW: I think this needs to be a student lead idea but I AM SO HAPPY to help out in anyway.
+    
+#### Who helped you this week?
+
+* TF, Kirstie, LL helped me with me with my msc application
+  * KW: FINGERS CROSSED
+* The delightful pull requester on bnip who helped with the Travis CI
+  * KW: YAAAAY :tada::balloon::tada: 
+
+#### What did you achieve?
+
+* Surviving OpenCon
+  * It was fun, but very overwhelming!
+  * KW: Interesting to compare maths research openness (on arXiv, no data) with open education for maths - how to learn is siloed etc, also the need for inclusivity and re-defining success (or who is good) in maths.
+* BNIP regression tests now save hashes instead of files
+* CD: Applying to Oxford MSC
+* DAS: Converted data to csv, included speeding up the script that does that
+  * KW: YEAAAAAH - thank you - super valuable
+  
+#### What did you struggle with?
+
+* Being too busy! I'm really grateful that I got to go to OpenCon, but man was I tired afterwards
+
+#### What would you like to work on next week?
+
+* Time to give some love to NSPN- particularly getting set up, getting in touch with the people I need to be in touch with etc.
+  * Great - see the notes on the board :smile: Let's build the ***Welcome to NSPN*** website/wiki
+* I have also decided to apply to the Turing phd programme so that will need some time
+  * Deadline: 30th November
+  * Meet/email potential supervisors
+  * Sort out referees
+  
+#### Where do you need help from Kirstie?
+
+* I think I will need a lot of help from Kirstie while I get set up with NSPN but mostly just to answer questions
+
+#### Any other topics
+
+
+---
 ### Date: 3rd November 2017
 
 #### Who did you help this week?
@@ -75,6 +180,7 @@
 #### Any other topics
 
 
+>>>>>>> c811f58aa50a0019677ee8a0af8778daadc85e4b
 ---
 
 ### Date: 4th October 2017
@@ -691,3 +797,5 @@ Replace this text with a one/two sentence description of who helped you this wee
 * Try to estimate how long each task will take.
 
 #### Any other topics
+
+---
