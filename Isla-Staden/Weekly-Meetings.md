@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [7 December 2017](#date-7th-december-2017)
 * [20th November 2017](#date-20th-november-2017)
 * [3rd November 2017](#date-3rd-november-2017)
 * [4th October 2017](#date-4th-october-2017)
@@ -16,6 +17,43 @@
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+
+---
+
+### Date: 7th December 2017
+
+#### Who did you help this week?
+
+* tried to helped J with brain network visualisations
+* contributed to a hack day
+
+#### Who helped you this week?
+
+* LV helped me with everything NSPN
+
+#### What did you achieve?
+
+* Made some contributions to the NSPN repo and got myself set up on Redcap, hphi
+* got that green build passing badge on bnip
+* What did you achieve with your CD time?
+	* Not so much, but the last weekly meetings was all about this 
+* What did you achieve with your DAS time?
+	* Labelling articles with their das mandate status
+
+
+#### What did you struggle with?
+
+* Staying focused
+
+#### What would you like to work on next week?
+
+* 
+
+#### Where do you need help from Kirstie?
+
+* 
+
+#### Any other topics
 
 ---
 ### Date: 20th November 2017
