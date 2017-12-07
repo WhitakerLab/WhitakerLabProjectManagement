@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [7 December 2017](#date-7th-december-2017)
 * [20th November 2017](#date-20th-november-2017)
 * [3rd November 2017](#date-3rd-november-2017)
 * [4th October 2017](#date-4th-october-2017)
@@ -18,6 +19,60 @@
 
 
 ---
+
+### Date: 7th December 2017
+
+#### Who did you help this week?
+
+* tried to helped J with brain network visualisations
+  * KW: Why say "tried" - IS: because the code in matplotlib isn't as nice so actually the plots were made in matlab instead!
+  * KW: Still good to try!! :sparkles:
+* contributed to a hack day
+  * KW: I had *so much fun* and was really impressed with your [`get_papers`](https://github.com/ContentMine/getpapers) skillz :computer:
+  * Would be nice to write up a little blog post about this...but who has the time ??
+    * Maybe we could do a mini hack afternoon to pull the work together? (possibly including the team at ContentMine)
+
+#### Who helped you this week?
+
+* LV helped me with everything NSPN
+ * KW: Fantastic :dancer:
+
+#### What did you achieve?
+
+* Made some contributions to the NSPN repo and got myself set up on Redcap, hphi
+  * KW: GREAT! Another thank you to LV :hibiscus:
+* Got that [green build passing badge](https://travis-ci.org/WhitakerLab/BrainNetworksInPython) on bnip
+  * KW :tada:
+* Completed Mozilla Open Leadership Training
+  * KW: :sparkles: :sparkling_heart: WELL DONE
+* What did you achieve with your CD time?
+  * Not so much, but the last weekly meetings was all about this
+* What did you achieve with your DAS time?
+  * Labelling articles with their das mandate status
+    * KW: :muscle: GREAT!
+
+#### What did you struggle with?
+
+* Staying focused
+
+#### What would you like to work on next week?
+
+* Blog post about Mozilla Open Leadership & Mozilla Science Lab Mini Grants - your experience with Brain Networks in Python.
+* Continue with the same balance of BNIP/NSPN/CD & DAS as in November :white_check_mark:
+* Keep working on welcome pack for NSPN
+
+#### Where do you need help from Kirstie?
+
+* Better vision for NSPN
+  * KW: good point - lets find time next week to build an agenda for the NSPN DM meeting
+
+#### Any other topics
+
+* Holiday over Christmas
+  * KW: Good point - email Psychiatry HR to find out the rules!
+  
+---
+
 ### Date: 20th November 2017
 
 #### Who did you help this week?
