@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [21 December 2017](#date-21th-december-2017)
 * [7 December 2017](#date-7th-december-2017)
 * [20th November 2017](#date-20th-november-2017)
 * [3rd November 2017](#date-3rd-november-2017)
@@ -17,6 +18,44 @@
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+
+---
+
+### Date: 21st December 2017
+
+#### Who did you help this week?
+
+* someone in the open leadership chat - directed them to open humanities resources
+
+#### Who helped you this week?
+
+* LV and KW as per usual, the former with practical help (and practical advice) and the latter by good feedback and making time for me despite the DSG
+* UT!
+
+#### What did you achieve?
+
+* Moz blog post
+* Data management welcome pack
+* couple of updates to brain networks in python
+  * KW: YEAH! Merged :sparkles: https://github.com/WhitakerLab/BrainNetworksInPython/pull/52
+* What did you achieve with your CD time?
+  * Met with UT
+* What did you achieve with your DAS time?
+  * not much
+
+#### What did you struggle with?
+
+* Figuring out the requirements of the NSPN welcome pack
+
+#### What would you like to work on next week?
+
+* Christmas :christmas_tree:
+
+#### Where do you need help from Kirstie?
+
+* Haha, hopefully I can do this without help
+
+#### Any other topics
 
 ---
 
