@@ -21,12 +21,11 @@
 
 ---
 
-
 ### Date: 21st December 2017
 
 #### Who did you help this week?
 
-* someone in the open leadership chat- directed them to open humanities resources
+* someone in the open leadership chat - directed them to open humanities resources
 
 #### Who helped you this week?
 
@@ -38,10 +37,12 @@
 * Moz blog post
 * Data management welcome pack
 * couple of updates to brain networks in python
+  * KW: YEAH! Merged :sparkles: https://github.com/WhitakerLab/BrainNetworksInPython/pull/52
 * What did you achieve with your CD time?
-* 	* Met with UT
+  * Met with UT
 * What did you achieve with your DAS time?
-	* not much
+  * not much
+
 
 #### What did you struggle with?
 
@@ -49,7 +50,7 @@
 
 #### What would you like to work on next week?
 
-* Christmas  :christmas_tree:
+* Christmas :christmas_tree:
 
 #### Where do you need help from Kirstie?
 
