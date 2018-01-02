@@ -219,8 +219,6 @@
 
 #### Any other topics
 
-
->>>>>>> c811f58aa50a0019677ee8a0af8778daadc85e4b
 ---
 
 ### Date: 4th October 2017
