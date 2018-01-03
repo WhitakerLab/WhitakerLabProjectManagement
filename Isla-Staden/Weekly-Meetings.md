@@ -43,6 +43,7 @@
 * What did you achieve with your DAS time?
   * not much
 
+
 #### What did you struggle with?
 
 * Figuring out the requirements of the NSPN welcome pack
@@ -218,8 +219,6 @@
 
 #### Any other topics
 
-
->>>>>>> c811f58aa50a0019677ee8a0af8778daadc85e4b
 ---
 
 ### Date: 4th October 2017
