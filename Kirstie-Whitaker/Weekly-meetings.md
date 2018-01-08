@@ -1,8 +1,52 @@
 # Weekly Meetings
 
+* [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+### Date: 10th January 2018
+
+#### Who did you help this week?
+
+Replace this text with a one/two sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+* PV got me motivated to do the data cleaning needed for NSPN analyses
+* JC doing a kickass job *actually* running the Turing EAG :smiley:
+
+#### What did you achieve?
+
+* Wrote a blog post: https://whitakerlab.github.io/blog/A-very-proud-start-to-the-new-year/
+* Updated about page on website
+* Reviewed 2 (3?) papers
+* Got a google summer of code plan sorted out
+* Recorded podcast for Figshare
+* Signed up as Chair of the Turing Ethics Advisory Group
+* Had a good planning meeting for DAS sprint
+
+#### What did you struggle with?
+
+* Blog posts always take longer than I think...but at least I got it done
+
+#### What would you like to work on next week?
+
+* Make figures for DAS paper - close out discussions & get the analyses completed :muscle:
+* Get Isla up and running with converting the NSPN data to BIDS format - 4 hours over 2 meetings for me
+* Continue cleaning the NSPN data - 3 big stints of 3 hours
+* Invite participants back to work on DSG reports - 4 hours
+
+#### Where do you need help?
+
+*
+*
+*
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
+---
 
 ### Date: 14th July 2017
 
