@@ -8,30 +8,34 @@
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
+Hmmmm, good question. I helped out Figshare by being on their podcast, and I'm doing an ok job getting the demo calls set up for OHBM Open Science SIG. I also reviewed 3 papers so that's being good to the scientific community at large!
 
 #### Who helped you this week?
 
 * PV got me motivated to do the data cleaning needed for NSPN analyses
 * JC doing a kickass job *actually* running the Turing EAG :smiley:
+* EdP really helpful wrt OHBM Open Science stuff :sparkles
 
 #### What did you achieve?
 
 * Wrote a blog post: https://whitakerlab.github.io/blog/A-very-proud-start-to-the-new-year/
 * Updated about page on website
-* Reviewed 2 (3?) papers
+* Reviewed 3 papers
 * Got a google summer of code plan sorted out
+* Advanced planning for demo calls for OHBM Open Science SIG
 * Recorded podcast for Figshare
 * Signed up as Chair of the Turing Ethics Advisory Group
 * Had a good planning meeting for DAS sprint
+* Had an important requirement gathering meeting for NSPN data management & sent minutes around from December
 
 #### What did you struggle with?
 
 * Blog posts always take longer than I think...but at least I got it done
+* Data on HPHI is in more of a mess than I'd hoped. Going to be awesome once I've figured out the tests though :muscle:
 
 #### What would you like to work on next week?
 
-* Make figures for DAS paper - close out discussions & get the analyses completed :muscle:
+* Make figures for DAS paper - close out discussions & get the analyses completed :muscle: - 3 mornings
 * Get Isla up and running with converting the NSPN data to BIDS format - 4 hours over 2 meetings for me
 * Continue cleaning the NSPN data - 3 big stints of 3 hours
 * Invite participants back to work on DSG reports - 4 hours
