@@ -1,10 +1,18 @@
 # Weekly Meetings
 
+* [10th January 2019](#date-10th-january-2018)
 * [07th December 2017](#date-07th-december-2017)
 * [20th November 2017](#date-20th-november-2017)
 * [08th November 2017](#date-08th-november-2017)
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
+
+
+### Date: 10th January 2018
+
+Questions: 1. build github group project (terms and conds)
+2. licence for indibidual project
+
 
 ### Date: 07th December 2017
 
