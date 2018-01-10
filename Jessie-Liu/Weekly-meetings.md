@@ -18,6 +18,7 @@
 * IH, who wants to apply MathSys and Turing and likes to chat with me (not happened yet).
 * FB, told her some female reseachers I know at Warwick (for speakers of the Women in Data Science conference).
 
+KW: Great helping! :raised_hands:
 
 #### Who helped you since last meeting?
 * DSG delegates and orginisers.
@@ -29,6 +30,8 @@
 * TP, AB, TR offered me info on applying for internships.
 * Turing, shot a enrichment testimonial video.
 
+KW: Wow! Loads of help!! Really lovely to see :sunflower:
+
 #### What did you achieve?
 * Modified and submitted OHBM abstract
 * Paper reading and UKB research exploring.
@@ -37,18 +40,26 @@
 * A little progress on UKB data.
 * My most satifying acheivement was that I migrated most of my previous projects to Github! 
 
+KW: Fun times!! :sparkles:
+
 #### What did you struggle with?
 * Feeling a bit aimless and guilty taking a long holiday although I enjoyed it very much :)
+
+KW: Totally deserved! :snowman:
 
 #### What would you like to work on next week?
 * First of all, my ski techniques :smiley:
 * After I get back, I need to make a serious start on the UBK project.
   * https://docs.google.com/document/d/1OusqQzlLZRqTRXpWpYynCaAWtYQ_BOHdxgI6p9jwU18/edit
 
+KW: This all looks great! Thank you for putting it together. Excited to go forwards :rocket:
+
 #### Where do you need help from Kirstie?
 1. build github group project (terms and conds)
-2. licence for indibidual project.
+2. licence for individual project
 3. publish a previous work
+
+KW: FUN license chat! https://choosealicense.com, https://creativecommons.org/licenses
 
 _______
 
