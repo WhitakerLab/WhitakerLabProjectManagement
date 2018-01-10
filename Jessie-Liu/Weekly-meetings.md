@@ -10,8 +10,44 @@
 
 ### Date: 10th January 2018
 
-Questions: 1. build github group project (terms and conds)
-2. licence for indibidual project
+#### Who did you help since last meeting?
+* DSG delegates
+* XXY for the CDT info.
+* WPJ, who wants to apply MathSys and gathered some info from me.
+* GWK on applying his PhD with Tom & at the Turing.
+* IH, who wants to apply MathSys and Turing and likes to chat with me (not happened yet).
+* FB, told her some female reseachers I know at Warwick (for speakers of the Women in Data Science conference).
+
+
+#### Who helped you since last meeting?
+* DSG delegates and orginisers.
+* AB, helped me with tech issues during the DSG, offered me his ideas on the project.
+* SS and TN, offered me feedbacks and comments on my OHBM abstact and TN helped with submission.
+* AB, helped during the abstract submission.
+* AB, helped me with Github.
+* NA, told me some good source of learning and practising python.
+* TP, AB, TR offered me info on applying for internships.
+* Turing, shot a enrichment testimonial video.
+
+#### What did you achieve?
+* Modified and submitted OHBM abstract
+* Paper reading and UKB research exploring.
+ * Interesting papers: one entitled 'Toward an intergration of deep learning and neuroscience'. One on predicting brain age using CNN.
+ * A few papers on biorxiv are about subcortical volumn and WM with depression using UKB data...
+* A little progress on UKB data.
+* My most satifying acheivement was that I migrated most of my previous projects to Github! 
+
+#### What did you struggle with?
+* Feeling a bit aimless and guilty taking a long holiday although I enjoyed it very much :)
+
+#### What would you like to work on next week?
+* First of all, my ski techniques :smiley:
+* After I get back, I need to make a serious start on the UBK project.
+
+#### Where do you need help from Kirstie?
+1. build github group project (terms and conds)
+2. licence for indibidual project.
+3. publish a previous work
 
 
 ### Date: 07th December 2017
