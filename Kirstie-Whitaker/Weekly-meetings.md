@@ -42,13 +42,13 @@ Hmmmm, good question. I helped out Figshare by being on their podcast, and I'm d
 
 #### Where do you need help?
 
-*
-*
-*
+* Moving NSPN analyses forwards - PV & SW
+* Documenting NSPN MRI data - IS
+* Staying on top of email :scream:
 
 #### Any other topics
 
-This space is yours to add to as needed.
+Feels good to actually write down what I've done! Lozandloz :heart:
 
 ---
 
