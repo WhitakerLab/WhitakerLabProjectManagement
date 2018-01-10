@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-* [10th January 2019](#date-10th-january-2018)
+* [10th January 2018](#date-10th-january-2018)
 * [07th December 2017](#date-07th-december-2017)
 * [20th November 2017](#date-20th-november-2017)
 * [08th November 2017](#date-08th-november-2017)
