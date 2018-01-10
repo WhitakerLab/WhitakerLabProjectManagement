@@ -43,6 +43,7 @@
 #### What would you like to work on next week?
 * First of all, my ski techniques :smiley:
 * After I get back, I need to make a serious start on the UBK project.
+  * https://docs.google.com/document/d/1OusqQzlLZRqTRXpWpYynCaAWtYQ_BOHdxgI6p9jwU18/edit
 
 #### Where do you need help from Kirstie?
 1. build github group project (terms and conds)
