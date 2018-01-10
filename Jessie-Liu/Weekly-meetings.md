@@ -49,6 +49,7 @@
 2. licence for indibidual project.
 3. publish a previous work
 
+_______
 
 ### Date: 07th December 2017
 
