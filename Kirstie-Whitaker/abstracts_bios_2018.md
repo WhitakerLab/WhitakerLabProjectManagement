@@ -14,6 +14,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Talk at Leeds Beckett](#talk-at-leeds-beckett)
 * March
   * [Talk at Sussex University](#talk-at-sussex-university)
+  * [Collaborations Workshop 2018](#collaborations-workshop-2018)
 * April
 * May
 * June
