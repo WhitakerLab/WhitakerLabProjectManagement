@@ -1,5 +1,11 @@
 # Weekly Meetings
 
+### 2018
+
+* [18 January 2018](#date-18th-january-2018)
+
+---
+### 2017
 * [21 December 2017](#date-21th-december-2017)
 * [7 December 2017](#date-7th-december-2017)
 * [20th November 2017](#date-20th-november-2017)
@@ -18,6 +24,42 @@
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+
+---
+## Template
+
+### Date: 18th January 2018
+
+#### Who did you help this week?
+
+* I am promptly going to help the Cambridge VPN service desk by detailing how I set up connection from a Ubuntu 17.04 machine
+
+#### Who helped you this week?
+
+* Whole DAS team + G
+* feedback from GP on datamanagement resource
+
+#### What did you achieve?
+
+* DAS sprint
+* meeting with GP
+* connecting to the HPHI from Cambridge and connecting to the Cambridge VPN from London
+
+#### What did you struggle with?
+
+* I do not know what I am doing
+
+#### What would you like to work on next week?
+
+* If technical skies clear we can get started with BIDS
+
+#### Where do you need help from Kirstie?
+
+* BIDS
+
+#### Any other topics
+
+* We should talk about my meeting with BM before Christmas
 
 ---
 
