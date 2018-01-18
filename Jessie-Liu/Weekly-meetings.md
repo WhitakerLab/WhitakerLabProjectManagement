@@ -1,10 +1,67 @@
 # Weekly Meetings
 
+* [10th January 2018](#date-10th-january-2018)
 * [07th December 2017](#date-07th-december-2017)
 * [20th November 2017](#date-20th-november-2017)
 * [08th November 2017](#date-08th-november-2017)
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
+
+
+### Date: 10th January 2018
+
+#### Who did you help since last meeting?
+* DSG delegates
+* XXY for the CDT info.
+* WPJ, who wants to apply MathSys and gathered some info from me.
+* GWK on applying his PhD with Tom & at the Turing.
+* IH, who wants to apply MathSys and Turing and likes to chat with me (not happened yet).
+* FB, told her some female reseachers I know at Warwick (for speakers of the Women in Data Science conference).
+
+KW: Great helping! :raised_hands:
+
+#### Who helped you since last meeting?
+* DSG delegates and orginisers.
+* AB, helped me with tech issues during the DSG, offered me his ideas on the project.
+* SS and TN, offered me feedbacks and comments on my OHBM abstact and TN helped with submission.
+* AB, helped during the abstract submission.
+* AB, helped me with Github.
+* NA, told me some good source of learning and practising python.
+* TP, AB, TR offered me info on applying for internships.
+* Turing, shot a enrichment testimonial video.
+
+KW: Wow! Loads of help!! Really lovely to see :sunflower:
+
+#### What did you achieve?
+* Modified and submitted OHBM abstract
+* Paper reading and UKB research exploring.
+ * Interesting papers: one entitled 'Toward an intergration of deep learning and neuroscience'. One on predicting brain age using CNN.
+ * A few papers on biorxiv are about subcortical volumn and WM with depression using UKB data...
+* A little progress on UKB data.
+* My most satifying acheivement was that I migrated most of my previous projects to Github! 
+
+KW: Fun times!! :sparkles:
+
+#### What did you struggle with?
+* Feeling a bit aimless and guilty taking a long holiday although I enjoyed it very much :)
+
+KW: Totally deserved! :snowman:
+
+#### What would you like to work on next week?
+* First of all, my ski techniques :smiley:
+* After I get back, I need to make a serious start on the UBK project.
+  * https://docs.google.com/document/d/1OusqQzlLZRqTRXpWpYynCaAWtYQ_BOHdxgI6p9jwU18/edit
+
+KW: This all looks great! Thank you for putting it together. Excited to go forwards :rocket:
+
+#### Where do you need help from Kirstie?
+1. build github group project (terms and conds)
+2. licence for individual project
+3. publish a previous work
+
+KW: FUN license chat! https://choosealicense.com, https://creativecommons.org/licenses
+
+_______
 
 ### Date: 07th December 2017
 
