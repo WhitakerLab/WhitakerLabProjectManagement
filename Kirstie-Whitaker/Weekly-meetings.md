@@ -1,8 +1,80 @@
 # Weekly Meetings
 
+* [17th January 2018](#date-17th-january-2018)
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+### Date: 17th January 2018
+
+#### Who did you help this week?
+
+* Gave NB a nice place to work :coffee:
+* Did a good job at the outreach event promoting the Turing - brownie points with comms 😉
+* Had good chats with GC & BK - hopefully supportive 🙌
+
+#### Who helped you this week?
+
+* Martin OR did a fantastic job with the reproducible research champions call 🎉
+* SW did all the coding for re-running the model selection algorithm 💻
+* PV held my hand as always 👭
+* IS has done such a great job on the DAS project ✨
+* EdP kept me on schedule - thank goodness ⏰
+* TB & CB were super supportive in helping me figure out an email response 💖
+
+#### What did you achieve?
+
+* Outreach event at the Crick
+* Arranged research fellows meeting
+* Got reproducible research lunches off the ground!! ✨
+  - [reproducible-research-dropin-ann.md](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/comms/reproducible-research-dropin-ann.md)
+  - also fixed the time 😬
+* Got the call for Turing Reproducible Research Champions out! 🏆
+  - [call-for-champions.md](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/call-for-champions.md)
+* Submitted Google Summer of Code project
+  - https://www.incf.org/collaborate/tool-development/google-summer-of-code/gsoc-2018-project-ideas
+* Got some aspects of DAS figured out
+* New github repo for the NSPN FP study - happy with the documentation
+* Edited emails to DSG participants & partners, contributed (meaningfully) to discussion
+* Got abstract & bio sent off to Sussex
+* Sent thank you email to EAG
+* Signed up to mentor for [MozOpenLeaders](https://mozilla.github.io/leadership-training/) again
+
+Also managed to track my time well and mostly did a good job focusing on the big things....
+
+#### What did you struggle with?
+
+* Didn't do the data cleaning I'd hoped for
+* Didn't get to the final results in DAS that I'd hoped for
+* Haven't nailed down the OHBM demo call guests
+* Had a difficult email exchange....but hopefully all ok....(thanks to my #mozfellows buddies ❤️)
+* Didn't get the blog post about the Crick event that I'd wanted to write done 😭
+
+Mostly just time, as usual 😞
+
+#### What would you like to work on next week?
+
+* Make figures for NSPN FP - 2 mornings, 1 afternoon
+* Teaching in Cambridge
+* Get Isla up and running with converting the NSPN data to BIDS format - 4 hours over 2 meetings for me
+* Continue cleaning the NSPN data - 3 big stints of 3 hours
+* Mentor DSG report edits - a bunch of emails
+* Apply for BioBank data - 2 hours
+* Create research plan with China visitors - 3 hours
+
+#### Where do you need help?
+
+* Moving NSPN analyses forwards - PV & SW
+* Documenting NSPN MRI data - IS
+* Promoting OHBM demo calls - twitter & OHBM team
+* Staying on top of email :scream: (second week in a row...)
+
+#### Any other topics
+
+
+---
+
 
 ### Date: 10th January 2018
 
