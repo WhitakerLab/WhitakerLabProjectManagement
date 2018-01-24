@@ -1,10 +1,67 @@
 # Weekly Meetings
 
+* [24th January 2018](#date-24th-january-2018)
 * [17th January 2018](#date-17th-january-2018)
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+
+### Date: 24th January 2018
+
+#### Who did you help this week?
+
+* I stood in at the last minute for some undergrad teaching in Cambridge - helped out course organisers a lot
+* Really enjoyed coming up with some suggestions during the reproducible research lunch for AB
+* Figured out an error in the brain networks in python code so SM could make her plots
+
+#### Who helped you this week?
+
+* The OHBM demo call speakers were really kind when I was having a bit of a rushed panic. JA was excellent in her comms!
+
+#### What did you achieve?
+
+* Got a blog post up! Wooo :tada:
+  * https://whitakerlab.github.io/blog/Imitation-game-at-the-Crick
+* Launched the OHBM demo calls :sparkles:
+  * https://github.com/ohbm/OpenScienceDemoCalls/
+* Selected 5 final report writers for Dec data study group
+* Taught a fun practical session on communicating science
+* Got a *lot* of NSPN analyses completed. GitHub repo looks really nice and clean, hopefully easier to navigate than the previous one.
+* Got IS some data to get into BIDS format - excited about that going forwards! 🌻
+* Reviewed grant
+* Had our first visitor to the reproducible research lunch drop in 😸
+
+#### What did you struggle with?
+
+* Oooph, this was a hard week, I was tired for much of it and let a lot of balls fall
+  * I shouldn't have said yes to the teaching. It was a nice thing for me to do but it really didn't respect my time well at all which was a big mistake
+* NSPN analyses as usual are a bit bonkers & always take longer than you think
+* Dropped the ball on getting feedback to an application and feel really bad about it
+* Double booked myself to speak and now have a bunch of extra work finding a replacement. Should probably not worry so much, but *still* 😭
+
+#### What would you like to work on next week?
+
+* DSG report editing - needs a good few hours (4)
+* NSPN figure making - as usual - 3 big sessions
+* Wellcome Trust grant for Open Research (4 hours to start...)
+* Details to AL & YH re application (3 hours)
+* Review applications for Moz Open Leaders
+* Guide for ohbm demo call speakers (not urgent, could be done the following week)
+* Continue cleaning NSPN data (but realistically I don't think I'll manage this)
+
+#### Where do you need help?
+
+* Keeping focused and not doing all the analyses -just the right ones (as usual)
+* Finding someone to take over the talk!!
+
+#### Any other topics
+
+I'm really enjoying monitoring my time, I think it really helps me to think carefully about what I'm focusing on.
+
+I'd like to work harder at keeping my project board up to date, including with PRs/issues from various other repos. Not sure how best to do that, but probably just setting aside time and searching through notifications/ones assigned to me?
+
+---
 
 ### Date: 17th January 2018
 
@@ -202,12 +259,11 @@ Really delighted to be working with Isla. Super fun 10 days and very much lookin
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
-
+* Replace this text with a one/two sentence description of who you helped this week and how.
 
 #### Who helped you this week?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+* Replace this text with a one/two sentence description of who helped you this week and how.
 
 #### What did you achieve?
 
