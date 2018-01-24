@@ -1,5 +1,11 @@
 # Weekly Meetings
 
+### 2018
+
+* [18 January 2018](#date-18th-january-2018)
+
+---
+### 2017
 * [21 December 2017](#date-21th-december-2017)
 * [7 December 2017](#date-7th-december-2017)
 * [20th November 2017](#date-20th-november-2017)
@@ -18,6 +24,53 @@
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+
+---
+### Date: 18th January 2018
+
+#### Who did you help this week?
+
+* I am promptly going to help the Cambridge VPN service desk by detailing how I set up connection from a Ubuntu 17.04 machine
+  * KW: Excellent :+1:
+* KW: Huge amout of work for the DAS project!!! :star2:
+
+#### Who helped you this week?
+
+* Whole DAS team + G
+* Feedback from GP on datamanagement resource
+
+#### What did you achieve?
+
+* DAS sprint
+* meeting with GP
+  * KW: REALLY valuable - well done :muscle:
+* connecting to the HPHI from Cambridge and connecting to the Cambridge VPN from London
+  * Works, but everything goes very slowly
+  * KW: Well done, look into connecting via BCNI
+
+#### What did you struggle with?
+
+* I do not know what I am doing
+  * KW: Mostly watching netflix waiting for your body to feel better!! Take care of yourself.
+  * For next meeting make Open Canvas plans for:
+    * NSPN Handbook presentation
+    * NSPN BIDS format MRI data
+    * Brain Networks in Python paper - JOSS
+
+#### What would you like to work on next week?
+
+* If technical skies clear we can get started with BIDS
+  * KW action: send travelling heads data
+
+#### Where do you need help from Kirstie?
+
+* BIDS
+  * KW: :+1:
+
+#### Any other topics
+
+* We should talk about my meeting with BM before Christmas
+  * KW: Great summary! Go forwards!
 
 ---
 
@@ -815,7 +868,9 @@ Replace this text with a one/two sentence description of who helped you this wee
 * It's ok if your list is only one bullet point long!
 * What did you achieve with your CD time?
 * What did you achieve with your DAS time?
-
+* Where's the data management presentation at?
+* Where's the sharing BIDS format MRI data paper at?
+* Where's the Brain Networks in Python paper at?
 
 #### What did you struggle with?
 
