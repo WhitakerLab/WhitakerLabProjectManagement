@@ -23,18 +23,22 @@
 * PM, LE helped me during the UKB hackthon.
 
 #### What did you achieve?
-* Made decent progress on the UKB data, wrote some python code to summerise Mental Helath variables. :muscle: :sparkles:
-* Very pleased that I pracited lots of python coding :sparkles:
+* Made decent progress on the UKB data, wrote some python code to summarise Mental Health variables. :muscle: :sparkles:
+* Very pleased that I practiced lots of python coding :sparkles:
+  * KW: YEAAAH! :snake: Way to go!
 
 #### What did you struggle with?
-* I really struggled with pandas data querym but I think I made considerable progress on that :blush:
+* I really struggled with pandas data query but I think I made considerable progress on that :blush:
+  * KW: I think you're not alone on this front! Keep going :grimacing:
 * Muscle and all kinds of body pains from skiing :ski: :cry: :stuck_out_tongue_closed_eyes:
 
 #### What would you like to work on next week?
 * Set a plan for the UKB project and start work on it! :fist:
+  * KW: This all looks great :sparkles: I'd love to see some descriptive figures (histograms etc) if you can output those along the way :smile:
 * Read about kernal method.
 
-_______
+---
+
 ### Date: 10th January 2018
 
 #### Who did you help since last meeting?
