@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [25th January 2018](#date-25th-january-2018)
 * [10th January 2018](#date-10th-january-2018)
 * [07th December 2017](#date-07th-december-2017)
 * [20th November 2017](#date-20th-november-2017)
@@ -7,6 +8,36 @@
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
 
+### Date: 25th January 2018
+
+#### Who did you help since last meeting?
+* Helped SS during the UKB one-day hackthon on UBK data queries.
+* Explained my work to AB.
+* Helped YZ on cluster computing.
+* ZW, on DCSP seminar teaching.
+
+#### Who helped you since last meeting?
+* AB, thanks to his great help on some python coding! very appreciated! :pray:
+* AB, offered me some great ideas on analyzing UBK data.
+* NA, helped me with some python coding :smiley:
+* PM, LE helped me during the UKB hackthon.
+
+#### What did you achieve?
+* Made decent progress on the UKB data, wrote some python code to summarise Mental Health variables. :muscle: :sparkles:
+* Very pleased that I practiced lots of python coding :sparkles:
+  * KW: YEAAAH! :snake: Way to go!
+
+#### What did you struggle with?
+* I really struggled with pandas data query but I think I made considerable progress on that :blush:
+  * KW: I think you're not alone on this front! Keep going :grimacing:
+* Muscle and all kinds of body pains from skiing :ski: :cry: :stuck_out_tongue_closed_eyes:
+
+#### What would you like to work on next week?
+* Set a plan for the UKB project and start work on it! :fist:
+  * KW: This all looks great :sparkles: I'd love to see some descriptive figures (histograms etc) if you can output those along the way :smile:
+* Read about kernal method.
+
+---
 
 ### Date: 10th January 2018
 

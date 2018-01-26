@@ -1,8 +1,137 @@
 # Weekly Meetings
 
+* [24th January 2018](#date-24th-january-2018)
+* [17th January 2018](#date-17th-january-2018)
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+### Date: 24th January 2018
+
+#### Who did you help this week?
+
+* I stood in at the last minute for some undergrad teaching in Cambridge - helped out course organisers a lot
+* Really enjoyed coming up with some suggestions during the reproducible research lunch for AB
+* Figured out an error in the brain networks in python code so SM could make her plots
+
+#### Who helped you this week?
+
+* The OHBM demo call speakers were really kind when I was having a bit of a rushed panic. JA was excellent in her comms!
+
+#### What did you achieve?
+
+* Got a blog post up! Wooo :tada:
+  * https://whitakerlab.github.io/blog/Imitation-game-at-the-Crick
+* Launched the OHBM demo calls :sparkles:
+  * https://github.com/ohbm/OpenScienceDemoCalls/
+* Selected 5 final report writers for Dec data study group
+* Taught a fun practical session on communicating science
+* Got a *lot* of NSPN analyses completed. GitHub repo looks really nice and clean, hopefully easier to navigate than the previous one.
+* Got IS some data to get into BIDS format - excited about that going forwards! 🌻
+* Reviewed grant
+* Had our first visitor to the reproducible research lunch drop in 😸
+
+#### What did you struggle with?
+
+* Oooph, this was a hard week, I was tired for much of it and let a lot of balls fall
+  * I shouldn't have said yes to the teaching. It was a nice thing for me to do but it really didn't respect my time well at all which was a big mistake
+* NSPN analyses as usual are a bit bonkers & always take longer than you think
+* Dropped the ball on getting feedback to an application and feel really bad about it
+* Double booked myself to speak and now have a bunch of extra work finding a replacement. Should probably not worry so much, but *still* 😭
+
+#### What would you like to work on next week?
+
+* DSG report editing - needs a good few hours (4)
+* NSPN figure making - as usual - 3 big sessions
+* Wellcome Trust grant for Open Research (4 hours to start...)
+* Details to AL & YH re application (3 hours)
+* Review applications for Moz Open Leaders
+* Guide for ohbm demo call speakers (not urgent, could be done the following week)
+* Continue cleaning NSPN data (but realistically I don't think I'll manage this)
+
+#### Where do you need help?
+
+* Keeping focused and not doing all the analyses -just the right ones (as usual)
+* Finding someone to take over the talk!!
+
+#### Any other topics
+
+I'm really enjoying monitoring my time, I think it really helps me to think carefully about what I'm focusing on.
+
+I'd like to work harder at keeping my project board up to date, including with PRs/issues from various other repos. Not sure how best to do that, but probably just setting aside time and searching through notifications/ones assigned to me?
+
+---
+
+### Date: 17th January 2018
+
+#### Who did you help this week?
+
+* Gave NB a nice place to work :coffee:
+* Did a good job at the outreach event promoting the Turing - brownie points with comms 😉
+* Had good chats with GC & BK - hopefully supportive 🙌
+
+#### Who helped you this week?
+
+* Martin OR did a fantastic job with the reproducible research champions call 🎉
+* SW did all the coding for re-running the model selection algorithm 💻
+* PV held my hand as always 👭
+* IS has done such a great job on the DAS project ✨
+* EdP kept me on schedule - thank goodness ⏰
+* TB & CB were super supportive in helping me figure out an email response 💖
+
+#### What did you achieve?
+
+* Outreach event at the Crick
+* Arranged research fellows meeting
+* Got reproducible research lunches off the ground!! ✨
+  - [reproducible-research-dropin-ann.md](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/comms/reproducible-research-dropin-ann.md)
+  - also fixed the time 😬
+* Got the call for Turing Reproducible Research Champions out! 🏆
+  - [call-for-champions.md](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/call-for-champions.md)
+* Submitted Google Summer of Code project
+  - https://www.incf.org/collaborate/tool-development/google-summer-of-code/gsoc-2018-project-ideas
+* Got some aspects of DAS figured out
+* New github repo for the NSPN FP study - happy with the documentation
+* Edited emails to DSG participants & partners, contributed (meaningfully) to discussion
+* Got abstract & bio sent off to Sussex
+* Sent thank you email to EAG
+* Signed up to mentor for [MozOpenLeaders](https://mozilla.github.io/leadership-training/) again
+
+Also managed to track my time well and mostly did a good job focusing on the big things....
+
+#### What did you struggle with?
+
+* Didn't do the data cleaning I'd hoped for
+* Didn't get to the final results in DAS that I'd hoped for
+* Haven't nailed down the OHBM demo call guests
+* Had a difficult email exchange....but hopefully all ok....(thanks to my #mozfellows buddies ❤️)
+* Didn't get the blog post about the Crick event that I'd wanted to write done 😭
+
+Mostly just time, as usual 😞
+
+#### What would you like to work on next week?
+
+* Make figures for NSPN FP - 2 mornings, 1 afternoon
+* Teaching in Cambridge
+* Get Isla up and running with converting the NSPN data to BIDS format - 4 hours over 2 meetings for me
+* Continue cleaning the NSPN data - 3 big stints of 3 hours
+* Mentor DSG report edits - a bunch of emails
+* Apply for BioBank data - 2 hours
+* Create research plan with China visitors - 3 hours
+
+#### Where do you need help?
+
+* Moving NSPN analyses forwards - PV & SW
+* Documenting NSPN MRI data - IS
+* Promoting OHBM demo calls - twitter & OHBM team
+* Staying on top of email :scream: (second week in a row...)
+
+#### Any other topics
+
+
+---
+
 
 ### Date: 10th January 2018
 
@@ -130,12 +259,11 @@ Really delighted to be working with Isla. Super fun 10 days and very much lookin
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
-
+* Replace this text with a one/two sentence description of who you helped this week and how.
 
 #### Who helped you this week?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+* Replace this text with a one/two sentence description of who helped you this week and how.
 
 #### What did you achieve?
 
