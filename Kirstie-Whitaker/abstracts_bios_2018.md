@@ -10,6 +10,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 * January
   * [Science on Screen: The Imitation Game](#science-on-screen-the-imitation-game)
+  * [Role in data study group](#role-in-data-study-group)
 * February
   * [Talk at Leeds Beckett](#talk-at-leeds-beckett)
 * March
@@ -33,6 +34,11 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 **Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) and senior research associate in the Department of Psychiatry at the University of Cambridge. She uses magnetic resonance imaging to study child and adolescent brain development. She is a Fulbright scholarship alumna, a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and in June will ride for the tenth time in the [AIDS/Lifecycle](http://www.tofighthiv.org/goto/kirstie) bike ride - 545 miles from San Francisco to LA to raise money to fight HIV/AIDS and eliminate the stigma associated with the virus. Kirstie is a passionate advocate for diversity in academia and tech, including support for LGBTQ+ members of our community.
 
+### Role in data study group
+
+**Role**: Dr Kirstie Whitaker focuses on participant engagement within the data study group. The whole team believes strongly in the power of collaborative working and Dr Whitaker is a particularly passionate advocate for increased diversity in data science. During the data study group week she acts as a meta-facilitator - a facilitator of the facilitators - and provides training and support for the PhD students who take on the task of project managing a team from a wide range of backgrounds and skills. She was a 2016 Mozilla Fellow for Science, one of just four awarded that year worldwide, and has spoken internationally on how to make science and technology development more equitable. A key contribution that Dr Whitaker brought to the DSG team was a clearly defined code of conduct that made explicit the data study group's focus on inclusivity and making sure there is space at the Alan Turing Institute for all participants to contribute their best work. She has supported the writing and delivery of high quality reports that clearly detail all the research conducted during the DSG week.
+
+**Links**: https://www.turing.ac.uk/research-fellows/#kirstie-whitaker or https://whitakerlab.github.io/about
 
 ### Talk at Leeds Beckett
 
