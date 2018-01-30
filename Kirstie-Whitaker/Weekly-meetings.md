@@ -1,11 +1,50 @@
 # Weekly Meetings
 
+* [31st January 2018](#date-31st-january-2018)
 * [24th January 2018](#date-24th-january-2018)
 * [17th January 2018](#date-17th-january-2018)
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+
+### Date: 31st January 2018
+
+#### Who did you help this week?
+
+* Replace this text with a one/two sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+* Replace this text with a one/two sentence description of who helped you this week and how.
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
+---
 
 ### Date: 24th January 2018
 
@@ -281,7 +320,7 @@ Really delighted to be working with Isla. Super fun 10 days and very much lookin
 * It's ok if your list is only one bullet point long!
 * Try to estimate how long each task will take.
 
-#### Where do you need help from Kirstie?
+#### Where do you need help?
 
 * Replace this text with a bullet point list of what you need help from Kirstie on.
 * It's ok if your list is only one bullet point long!
