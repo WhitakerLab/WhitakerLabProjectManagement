@@ -12,37 +12,52 @@
 
 #### Who did you help this week?
 
-* Replace this text with a one/two sentence description of who you helped this week and how.
+* Hopefully my teaching was helpful for the students! :school:
+* Hopefully my edits for the DSG reports were helpful! :pencil:
 
 #### Who helped you this week?
 
-* Replace this text with a one/two sentence description of who helped you this week and how.
+* EdP was excellent in supporting the Open Science demo calls
+* CF really helped me figure out money questions!
+* PJ made me feel really valued and motivated :raised_hands:
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* Got some plots for NSPN longitudinal analyses presented - at the last minute but at least they were done!
+* Reran old code and it freaking worked!! WHO'D HAVE THOUGHT?! #ReproducibleResearch FTW :sparkles::tada::balloon:
+* Had a great meeting with PJ about NSPN data management - excited for a busy summer!
+* Reviewed applications for Moz Open Leaders round 5 - FANTASTIC quality - better and better each time :heart:
+* Got letter of recommendation off to AL
+* Taught another practical class in Cambridge
+* Read the DSG reports twice (different occasions) and gave feedback 💪
+  * Had a few useful meetings about DSG IT and comms
+* Got a guide for guests written for the demo calls! And code of conduct coming soon (thanks to EdP!) :+1:
+  * https://github.com/ohbm/OpenScienceDemoCalls/blob/master/guides/GuideForGuests.md
+* Moved forwards with details for a few talks (Goodenough, about Turing) and collaborations (Sparkle & Dark)
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* A few interactions were difficult to manage from a mentorship point of view, but I think they turned out ok.
+* Didn't get as much NSPN analyses done as I'd hoped
+* Reproducible research lunches are not well attended. Not sure what to do about that!
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Send out DSG reports :sparkles:
+* Attend [MQ Annual Meeting])(https://www.mqmentalhealth.org/research/science-meeting-agenda-2018) & get a feel for what they're focusing on
+* Show new NSPN analyses in meeting (w PV)
+* Update Data Management repo, build on what Isla's worked on
+  * Get agenda sent out
+* Continue cleaning NSPN data
+* Update CV?! (Need a 1 pager 😫)
 
 #### Where do you need help?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Formatting DSG reports (JL on deck!)
+* Presenting analyses for NSPN (PV on deck!)
 
 #### Any other topics
 
-This space is yours to add to as needed.
 
 ---
 
