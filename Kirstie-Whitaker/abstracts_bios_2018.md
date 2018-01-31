@@ -15,6 +15,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Talk at Leeds Beckett](#talk-at-leeds-beckett)
 * March
   * [Talk at Sussex University](#talk-at-sussex-university)
+  * [Talk at Goodenough College](#talk-at-goodenough-college)
   * [Collaborations Workshop 2018](#collaborations-workshop-2018)
 * April
 * May
@@ -63,6 +64,21 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 **Title**: Barriers to reproducible research (and how to overcome them)
 
 **Abstract**: This talk will discuss the perceived and actual barriers experienced by researchers attempting to do reproducible research, and give practical guidance on how they can be overcome. It will include suggestions on how to make your code and data available and usable for others (including a strong suggestion to document both clearly so you don't have to reply to lots of email questions from future users). It will include a brief guide to version control, collaboration and dissemination using GitHub as well as a discussion of tools to help you work reproducibly from the start. Exercises and resources will be persistently available after the talk and all audience members will leave knowing there is something they can do to step towards making their research reproducible.
+
+**Bio**: Kirstie Whitaker is a research fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and she is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
+**Slides**:
+
+
+### Talk at Goodenough College
+
+**Website**:
+
+**Date**: 14th March 2018
+
+**Title**: Barriers to reproducible research (and how to overcome them)
+
+**Abstract**: After dinner Dr Whitaker define reproducible research as analyses can be recreated in full by an independent scientist. She will discuss the perceived and actual barriers experienced by researchers attempting to conduct reproducible research, and give practical guidance on how they can be overcome. The talk will include suggestions on how to make your code and data available and usable for others (including a strong suggestion to document both clearly so you don't have to reply to lots of email questions from future users). All audience members will leave knowing there is something they can do to step towards making their research reproducible.
 
 **Bio**: Kirstie Whitaker is a research fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and she is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
