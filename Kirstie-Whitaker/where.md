@@ -115,8 +115,8 @@ Date | Day   | City, Country                | Event
 16   | Fri   | :uk: London, UK              | Working at Turing Institute   
 17   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 18   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-19   | Mon   | :uk: London, UK              | Working at Turing Institute   
-20   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
+19   | Mon   | :mortar_board: Cambridge, UK | Talk at [Scientific Computation in the University of Cambridge](https://www.eventbrite.co.uk/e/scientific-computation-in-the-university-of-cambridge-tickets-42195122748)
+20   | Tue   | :uk: London, UK              | Working at Turing Institute     
 21   | Wed   | :uk: London, UK              | Working at Turing Institute   
 22   | Thurs | :uk: London, UK              | Working at Turing Institute   
 23   | Fri   | :uk: London, UK              | Working at Turing Institute   
@@ -126,16 +126,15 @@ Date | Day   | City, Country                | Event
 27   | Tue   | :dragon: Cardiff, UK         | [Collaborations Workshop](https://www.software.ac.uk/cw18/)   
 28   | Wed   | :dragon: Cardiff, UK         | [Collaborations Workshop](https://www.software.ac.uk/cw18/)   
 29   | Thurs | :uk: London, UK              | Working at Turing Institute   
-30   | Fri   | :uk: London, UK              | Working at Turing Institute   
-31   | Sat   | :dog: Deeping, UK            | Weekend relaxing
-
+30   | Fri   | 🏞️ Lake district, UK         | Lake District for Easter
+31   | Sat   | 🏞️ Lake district, UK         | Lake District for Easter
 
 ### April 2018
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-2    | Mon   | :uk: London, UK              | Working at Turing Institute   
+1    | Sun   | 🏞️ Lake district, UK         | Lake District for Easter
+2    | Mon   | 🏞️ Lake district, UK         | Lake District for Easter
 3    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 4    | Wed   | :uk: London, UK              | Working at Turing Institute   
 5    | Thurs | :uk: London, UK              | Working at Turing Institute   
@@ -148,57 +147,55 @@ Date | Day   | City, Country                | Event
 12   | Thurs | :uk: London, UK              | Working at Turing Institute   
 13   | Fri   | :uk: London, UK              | Working at Turing Institute   
 14   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-15   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-16   | Mon   | :uk: London, UK              | Working at Turing Institute   
-17   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-18   | Wed   | :uk: London, UK              | Working at Turing Institute   
-19   | Thurs | :uk: London, UK              | Working at Turing Institute   
-20   | Fri   | :uk: London, UK              | Working at Turing Institute   
+15   | Sun   | :uk: London, UK              | Data Study Group
+16   | Mon   | :uk: London, UK              | Data Study Group
+17   | Tue   | :uk: London, UK              | Data Study Group          
+18   | Wed   | :uk: London, UK              | Data Study Group   
+19   | Thurs | :uk: London, UK              | Data Study Group
+20   | Fri   | :uk: London, UK              | Data Study Group
 21   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 22   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 23   | Mon   | :uk: London, UK              | Working at Turing Institute   
 24   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 25   | Wed   | :uk: London, UK              | Working at Turing Institute   
 26   | Thurs | :uk: London, UK              | Working at Turing Institute   
-27   | Fri   | :uk: London, UK              | Working at Turing Institute   
-28   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-29   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-30   | Mon   | :uk: London, UK              | Working at Turing Institute   
-31   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-
+27   | Fri   | 🇩🇪 Hamburg, UK               | Holiday (& half marathon)
+28   | Sat   | 🇩🇪 Hamburg, UK               | Holiday (& half marathon)
+29   | Sun   | 🇩🇪 Hamburg, UK               | Holiday (& half marathon)
+30   | Mon   | 🇩🇪 Hamburg, UK               | Holiday (& half marathon)
 
 ### May 2018
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Wed   | :uk: London, UK              | Working at Turing Institute   
-2    | Thurs | :uk: London, UK              | Working at Turing Institute   
-3    | Fri   | :uk: London, UK              | Working at Turing Institute   
-4    | Sat   | 🇬🇧 London, UK                | LSE Social Science hackathon
-5    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-6    | Mon   | :uk: London, UK              | Working at Turing Institute   
-7    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-8    | Wed   | :uk: London, UK              | Working at Turing Institute   
-9    | Thurs | :uk: London, UK              | Working at Turing Institute   
-10   | Fri   | :uk: London, UK              | Working at Turing Institute   
-11   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-12   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-13   | Mon   | :uk: London, UK              | Working at Turing Institute   
-14   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-15   | Wed   | :uk: London, UK              | Working at Turing Institute   
-16   | Thurs | :uk: London, UK              | Working at Turing Institute   
-17   | Fri   | :uk: London, UK              | Working at Turing Institute   
-18   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-19   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-20   | Mon   | :uk: London, UK              | Working at Turing Institute   
-21   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-22   | Wed   | :uk: London, UK              | Working at Turing Institute   
-23   | Thurs | :uk: London, UK              | Working at Turing Institute   
-24   | Fri   | :uk: London, UK              | Working at Turing Institute   
-25   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-26   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-27   | Mon   | :uk: London, UK              | Working at Turing Institute   
-28   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-29   | Wed   | :uk: London, UK              | Working at Turing Institute   
-30   | Thurs | :uk: London, UK              | Working at Turing Institute   
-31   | Fri   | :uk: London, UK              | Working at Turing Institute  
+1   | Tue   | 🇩🇪 Hamburg, UK               | Holiday (& half marathon)
+2    | Wed   | :uk: London, UK              | Working at Turing Institute   
+3    | Thurs | :uk: London, UK              | Working at Turing Institute   
+4    | Fri   | :uk: London, UK              | Working at Turing Institute   
+5    | Sat   | :uk: London, UK                | [LSE hackathon on computational social science](https://www.cssatlse.com/)
+6    | Sun   | :dog: Deeping, UK            | Weekend relaxing             
+7    | Mon   | :dog: Deeping, UK            | Weekend relaxing  
+8    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
+9    | Wed   | :uk: London, UK              | Working at Turing Institute   
+10   | Thurs | :mortar_board: Cambridge, UK | [eLife Innovation Sprint](https://elifesciences.org/events/c40798c3/elife-innovation-sprint-2018)
+11   | Fri   | :mortar_board: Cambridge, UK | [eLife Innovation Sprint](https://elifesciences.org/events/c40798c3/elife-innovation-sprint-2018)
+12   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
+13   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
+14   | Mon   | :uk: London, UK              | Working at Turing Institute   
+15   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
+16   | Wed   | :uk: London, UK              | Working at Turing Institute   
+17   | Thurs | :uk: London, UK              | Working at Turing Institute   
+18   | Fri   | :uk: London, UK              | Working at Turing Institute   
+19   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
+20   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
+21   | Mon   | :uk: London, UK              | Working at Turing Institute   
+22   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
+23   | Wed   | :uk: London, UK              | Working at Turing Institute   
+24   | Thurs | :uk: London, UK              | Working at Turing Institute   
+25   | Fri   | :uk: London, UK              | Working at Turing Institute   
+26   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
+27   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
+28   | Mon   | :uk: London, UK              | Working at Turing Institute   
+29   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
+30   | Wed   | :uk: London, UK              | Working at Turing Institute   
+31   | Thurs | :uk: London, UK              | Working at Turing Institute   
