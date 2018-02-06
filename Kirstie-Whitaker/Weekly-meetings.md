@@ -1,11 +1,65 @@
 # Weekly Meetings
 
+* [31st January 2018](#date-31st-january-2018)
 * [24th January 2018](#date-24th-january-2018)
 * [17th January 2018](#date-17th-january-2018)
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+
+### Date: 31st January 2018
+
+#### Who did you help this week?
+
+* Hopefully my teaching was helpful for the students! :school:
+* Hopefully my edits for the DSG reports were helpful! :pencil:
+
+#### Who helped you this week?
+
+* EdP was excellent in supporting the Open Science demo calls
+* CF really helped me figure out money questions!
+* PJ made me feel really valued and motivated :raised_hands:
+
+#### What did you achieve?
+
+* Got some plots for NSPN longitudinal analyses presented - at the last minute but at least they were done!
+* Reran old code and it freaking worked!! WHO'D HAVE THOUGHT?! #ReproducibleResearch FTW :sparkles::tada::balloon:
+* Had a great meeting with PJ about NSPN data management - excited for a busy summer!
+* Reviewed applications for Moz Open Leaders round 5 - FANTASTIC quality - better and better each time :heart:
+* Got letter of recommendation off to AL
+* Taught another practical class in Cambridge
+* Read the DSG reports twice (different occasions) and gave feedback 💪
+  * Had a few useful meetings about DSG IT and comms
+* Got a guide for guests written for the demo calls! And code of conduct coming soon (thanks to EdP!) :+1:
+  * https://github.com/ohbm/OpenScienceDemoCalls/blob/master/guides/GuideForGuests.md
+* Moved forwards with details for a few talks (Goodenough, about Turing) and collaborations (Sparkle & Dark)
+
+#### What did you struggle with?
+
+* A few interactions were difficult to manage from a mentorship point of view, but I think they turned out ok.
+* Didn't get as much NSPN analyses done as I'd hoped
+* Reproducible research lunches are not well attended. Not sure what to do about that!
+
+#### What would you like to work on next week?
+
+* Send out DSG reports :sparkles:
+* Attend [MQ Annual Meeting])(https://www.mqmentalhealth.org/research/science-meeting-agenda-2018) & get a feel for what they're focusing on
+* Show new NSPN analyses in meeting (w PV)
+* Update Data Management repo, build on what Isla's worked on
+  * Get agenda sent out
+* Continue cleaning NSPN data
+* Update CV?! (Need a 1 pager 😫)
+
+#### Where do you need help?
+
+* Formatting DSG reports (JL on deck!)
+* Presenting analyses for NSPN (PV on deck!)
+
+#### Any other topics
+
+
+---
 
 ### Date: 24th January 2018
 
@@ -281,7 +335,7 @@ Really delighted to be working with Isla. Super fun 10 days and very much lookin
 * It's ok if your list is only one bullet point long!
 * Try to estimate how long each task will take.
 
-#### Where do you need help from Kirstie?
+#### Where do you need help?
 
 * Replace this text with a bullet point list of what you need help from Kirstie on.
 * It's ok if your list is only one bullet point long!
