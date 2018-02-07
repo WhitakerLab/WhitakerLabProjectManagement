@@ -110,7 +110,7 @@ Date | Day   | City, Country                | Event
 11   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 12   | Mon   | :uk: London, UK              | Working at Turing Institute   
 13   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-14   | Wed   | :uk: London, UK              | Working at Turing Institute   
+14   | Wed   | :uk: London, UK              | Talk at Goodenough college
 15   | Thurs | :uk: London, UK              | Working at Turing Institute   
 16   | Fri   | :uk: London, UK              | Working at Turing Institute   
 17   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
