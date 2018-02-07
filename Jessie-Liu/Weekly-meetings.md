@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [07th February 2018](#date-07th-february-2018)
 * [25th January 2018](#date-25th-january-2018)
 * [10th January 2018](#date-10th-january-2018)
 * [07th December 2017](#date-07th-december-2017)
@@ -7,6 +8,50 @@
 * [08th November 2017](#date-08th-november-2017)
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
+
+### Date: 07th February 2018
+
+#### Who did you help since last meeting?
+* Helped with formatting the DSG reports 
+* TP on interpreting some results in his paper reading (dont think I helped that many people... :/)
+
+#### Who helped you since last meeting?
+* AB helped me on installing python pkg on cluster and some python coding questions (he is always so helpful :sparkles:)
+* TR exchanged some ideas on missing data imputation
+* NA and AM helped with python coding :star2:
+* MG and a student/research (need to find out his name) tried to help me install that python pkg.
+* IS showed me some github tricks :heartpulse:
+* WW helped solved my keyboard hot key problem that has been bothering for a long time!
+
+* KW: These are all awesome! I'm so glad everyone's helping you out! :balloon::cake::balloon:
+
+#### What did you achieve?
+* Helped pointing out some of data issues in UKB and reflected back to SS and TN.
+  * KW: Documentation fixing is so HELPFUL
+* Did lots of reading on kernel methods, missing data imputation, sparse CCA and PLS: learnt many new methods (MICE; GLRM; KNN (4 types))
+* Did lots of python coding; rewrote some function of FSLnet in Python from matlab! :innocent:
+* Started analysis on UKB data: missing data imputation; ill-conditioned variable filtering. (finally not doing data cleaning) :v:
+* Created my first pull request to update a github python pkg, and was approved by one of the managers waiting to be merged in! :v: 
+  * KW: WELL DONE!! SUPER HELPFUL! I'm so proud :blush:
+  * https://github.com/cehorn/GLRM/pull/6
+  
+#### What did you struggle with?
+* have a feeling of being pulled apart by different methods I have been reading; Read too much but find hard to implement.
+* Still getting used to the way of coding in python (frustrated sometimes :tired_face:)
+
+#### What would you like to work on next week?
+* Have to prepare the talk for next monday in machine learning reading group at warwick.
+* Finish coding in missing data imputation and rewrite code of SDR in python.
+* Try to get some results out of UKB.
+  * KW: Fun times! Have a bash at summarising the input data (in words/bullet points and summary figures too) to help interpret those results. 
+* Visit Oxford, get some feedbacks on the manuscript from TN and do some edits!
+
+#### Where do you need help from Kirstie?
+* Sent TN an email about your kind offer in proofreading my draft.
+* Having problems in trying to publish my masters project...
+  * KW: super frustrating. Stay in it for the long haul! Good luck :muscle:
+
+----
 
 ### Date: 25th January 2018
 
