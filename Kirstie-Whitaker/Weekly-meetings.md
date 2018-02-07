@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [7th February 2018](#date-7th-february-2018)
 * [31st January 2018](#date-31st-january-2018)
 * [24th January 2018](#date-24th-january-2018)
 * [17th January 2018](#date-17th-january-2018)
@@ -7,6 +8,58 @@
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+### Date: 7th February 2018
+
+#### Who did you help this week?
+
+* I really hope the DSG partners like the reports! They look great and I think they're very readable ✨
+* Wrote a letter of recommendation for LB
+
+#### Who helped you this week?
+
+* AdlV was a fantastic guest on the OHBM demo call - they all were but A was particularly helpful on figuring out tech challenges!
+* EdP and PV as usual! 👊
+* Abby paired me up with two amazing Moz Open Leadership projects! 😍
+* AM for holding my hand while I realised that I'm getting old 👵😂😞
+
+#### What did you achieve?
+
+* Shipped the 5 data study group reports 💪💪💪
+* Launched the OHBM Demo Calls!! 😱🎉🎈
+  * https://youtu.be/Qo-bFqMUbLo
+* Got short CV pulled together & sent to AL
+* Reviewed applications for DSG science liaison role
+* Put a blog post up on lab website about PLOS article
+  * https://whitakerlab.github.io/blog/Open-Science-Blog-Post/
+* Submitted letter of recommendation for LB
+* Got some analyses done for NSPN
+* Attended 1st day of MQ science meeting
+* Presented reproducible research champions program to D&S meet up
+* Submitted registration to BioBank
+* Booked travel for Madrid, Cardiff & Leeds
+
+#### What did you struggle with?
+
+* The DSG reports were a lot of work that meant I had to skip a day of the MQ conference. We knew it was a quick turn around from the report finishers' deadline but this was harder due to a lack of expectation setting re: work on Thursday.
+* I had a few git bonkers things that slowed me down for NSPN. Need to think about whether I'm being too clever for my own good in some respects there!
+* Didn't get time to work on NSPN data management
+
+#### What would you like to work on next week?
+
+* Come up with a forward plan for NSPN data management
+* Need to put in some DAS time to prep for next meeting
+* Promote google summer of code project!
+  * https://www.trelliscience.com/#/discussions-about/25692/0
+* Scatter plots for NSPN analyses
+* Welcome ethics advisory group
+* Find time to go on a writing retreat! Get away from these meetings & focus on the big plan
+
+#### Where do you need help?
+
+* Keeping on track for NSPN analyses (as usual!) Ready to rock working with SW on Tuesday
+* Moving data management forwards - IS making great progress on BIDS front - need to protect time to think about that more.
+
+---
 
 ### Date: 31st January 2018
 
