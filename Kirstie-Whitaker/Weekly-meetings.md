@@ -14,6 +14,7 @@
 
 * I really hope the DSG partners like the reports! They look great and I think they're very readable ✨
 * Wrote a letter of recommendation for LB
+  * IS: Helped me too! Thank you :hibiscus:
 
 #### Who helped you this week?
 
