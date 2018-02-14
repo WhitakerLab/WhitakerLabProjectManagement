@@ -37,6 +37,8 @@
 * NSPN analyses moving forwards - good co-working with PV & SW
 * GSoC project was accepted (well INCF accepted as a mentor organisation)
   * https://www.trelliscience.com/#/discussions-about/25692/0/
+* Attended ["How do we solve science’s problem with women?"](https://www.eventbrite.com/e/how-do-we-solve-sciences-problem-with-women-debate-network-drinks-tickets-39217270913?utm_source=eb_email&utm_medium=email&utm_campaign=event_reminder&utm_term=eventname#) and was mega impressed with [Emma Chapman](https://dr-emma-chapman.com/about/) :muscle:🙆:raised_hands:
+  * Also met two twitter friends IRL :sparkles::sparkles::sparkles:
 * Took a morning off and played with my niece - needed that mental health break!
 
 #### What did you struggle with?
