@@ -13,6 +13,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Role in data study group](#role-in-data-study-group)
 * February
   * [Talk at Leeds Beckett](#talk-at-leeds-beckett)
+  * [Lunch and Learn: Turing](#lunch-and-learn-turing)
 * March
   * [Talk at Sussex University](#talk-at-sussex-university)
   * [Talk at Goodenough College](#talk-at-goodenough-college)
@@ -54,6 +55,16 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 **Bio**: Kirstie Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 **Slides**:
+
+### Lunch and Learn: Turing
+
+**Website**:
+
+**Date**: 28th February 2018
+
+**Title**: Alan Turing: then and now
+
+**Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) and senior research associate in the Department of Psychiatry at the University of Cambridge. She uses magnetic resonance imaging to study child and adolescent brain development and the emergence of mental health disorders. Kirstie is a passionate advocate for open science and the power of collaborative working in diverse groups. She is a Fulbright scholarship alumna and was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine. In June 2018 she will [ride from San Francisco to Los Angeles](http://www.tofighthiv.org/goto/kirstie) for the tenth time as part of AIDS/Lifecycle - a bike ride of 545 miles to raise money to fight HIV/AIDS and eliminate the stigma associated with the virus.
 
 ### Talk at Sussex University
 
