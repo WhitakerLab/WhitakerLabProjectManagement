@@ -2,6 +2,7 @@
 
 ### 2018
 
+* [21 February 2018](#dat-21st-january-2018)
 * [18 January 2018](#date-18th-january-2018)
 
 ---
@@ -24,6 +25,53 @@
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+
+---
+
+### Date: 21st February 2018
+
+#### Who did you help this week?
+
+Replace this text with a one/two sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+Replace this text with a one/two sentence description of who helped you this week and how.
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+* CD time:
+    * Progress on landscape of complex networks implementation and application drafts
+* DAS time?
+    * generated figures for methods section
+    * rounded up some BMC 2016 no-das examples for Iain to look at
+    * I just want to mention that I feel like last week's das meeting was really good.
+* Where's the data management presentation at?
+    * Slow start, but following last week's conversation with PJ I have a few screenshots
+* BIDS format MRI data paper at:
+    * I think we're doing okay
+* Where's the Brain Networks in Python paper at?
+    * [JOSS paper branch added -I should add this to the main repo](https://github.com/Islast/BrainNetworksInPython/tree/josspaper)
+
+#### What did you struggle with?
+
+* Getting things done. I feel deeply disorganised lately. Progress on NSPNhandbook is slow because I've sort of run out of ideas or at least easy things to do. Progress on CD is slow because I'm so daunted by going back to studying. We've been getting a lot of BNIP questions which has made me focus on that more than I intend to. I've also been switching between computers a bit :yuck:
+
+#### What would you like to work on next week?
+
+* Would love to find time to work with Kirstie on the data management presentation
+* Want to fully BIDsify the pilot data (an hour to a day, depending on hitches)
+* I would love to make better docs for BNIP, so that our users can reach beyond just using the tutorial. (/ maybe a better tutorial)
+* CD: I mean to get the landscapeofcomplexnetworks algorithm sorted out by the end of the week, only problem is that I'm not sure if there's a mistake in the paper.
+* More NSPN: I feel I should finish reading all the NSPN publications, in order to do my job better
+* Kirstie mentioned making a budget for the brain networks satellite of netsci. I should do that!
+
+#### Where do you need help from Kirstie?
+
+* Data management presentation
+* get BIDS data in the right places
 
 ---
 ### Date: 18th January 2018
