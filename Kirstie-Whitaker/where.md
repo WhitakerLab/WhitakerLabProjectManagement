@@ -104,7 +104,7 @@ Date | Day   | City, Country                | Event
 5    | Mon   | :uk: London, UK              | Working at Turing Institute   
 6    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 7    | Wed   | :uk: London, UK              | Working at Turing Institute   
-8    | Thurs | 🏖️ Brighton, UK              | Talk at Sussex University
+8    | Thurs | :coffee: Peterborough, UK   | Working remotely and then flying to Madrid :es:
 9    | Fri   | :es: Madrid, Spain           | Promoting Innovative Leadership conference
 10   | Sat   | :es: Madrid, Spain           | Promoting Innovative Leadership conference      
 11   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
@@ -125,7 +125,7 @@ Date | Day   | City, Country                | Event
 26   | Mon   | :dragon: Cardiff, UK         | [Collaborations Workshop](https://www.software.ac.uk/cw18/)   
 27   | Tue   | :dragon: Cardiff, UK         | [Collaborations Workshop](https://www.software.ac.uk/cw18/)   
 28   | Wed   | :dragon: Cardiff, UK         | [Collaborations Workshop](https://www.software.ac.uk/cw18/)   
-29   | Thurs | :uk: London, UK              | Working at Turing Institute   
+29   | Thurs | :dragon: Cardiff, UK         | Talk at CUBRIC
 30   | Fri   | 🏞️ Lake district, UK         | Lake District for Easter
 31   | Sat   | 🏞️ Lake district, UK         | Lake District for Easter
 
