@@ -104,9 +104,10 @@ Date | Day   | City, Country                | Event
 5    | Mon   | :uk: London, UK              | Working at Turing Institute   
 6    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 7    | Wed   | :uk: London, UK              | Working at Turing Institute   
-8    | Thurs | :uk: London, UK              | [Twitter Neuroscience Conference](https://brain.tc)  
+8    | Thurs | :coffee: Peterborough, UK   | Working remotely and then flying to Madrid :es: & [Twitter Neuroscience Conference](https://brain.tc)  
 9    | Fri   | :es: Madrid, Spain           | [HBP Conference on Gender and Diversity](https://flagship.kip.uni-heidelberg.de/jss/AttendMeeting?eMAt=114&showAgenda=x)
 10   | Sat   | :es: Madrid, Spain           | [HBP Conference on Gender and Diversity](https://flagship.kip.uni-heidelberg.de/jss/AttendMeeting?eMAt=114&showAgenda=x)
+8    | Thurs | :coffee: Peterborough, UK   | Working remotely and then flying to Madrid :es:    
 11   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 12   | Mon   | :mortar_board: Cambridge, UK | [CNS 2018 - Mental Plasticity & Development](http://www.neuroscience.cam.ac.uk/events/event.php?permalink=78f6baff00)
 13   | Tue   | :mortar_board: Cambridge, UK | [1st Cambridge Computational Psychiatry Workshop](http://www.neuroscience.cam.ac.uk/news/article.php?permalink=7be7ed7e50)   
