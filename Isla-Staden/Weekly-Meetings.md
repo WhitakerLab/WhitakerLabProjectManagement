@@ -59,7 +59,7 @@
 * 
 #### What would you like to work on next week?
 
-* Plan to meet with Gita next week
+* Plan to meet with GB next week
 * would like to finish bidsifying what can be bidsifyed
 
 #### Where do you need help from Kirstie?
