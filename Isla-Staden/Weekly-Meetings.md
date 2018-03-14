@@ -2,6 +2,7 @@
 
 ### 2018
 
+* [14 March 2018](#date-14th-march-2018)
 * [21 February 2018](#date-21st-february-2018)
 * [18 January 2018](#date-18th-january-2018)
 
@@ -24,6 +25,48 @@
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+---
+
+### Date: 14th March 2018
+
+#### Who did you help this week?
+
+* the NSPN data management comittee
+
+#### Who helped you this week?
+
+* JB gave me loads of important NSPN documentation
+* KW and PJ gave me a lot of help with the presentation
+
+#### What did you achieve?
+
+* NSPN meeting presentation
+* What did you achieve with your CD time?
+    * Sent draft of personal statement to reference writers
+    * did some work on implementing algorithm
+* What did you achieve with your DAS time?
+    * not much
+* Where's the data management presentation at?
+    * done! 
+* Where's the Brain Networks in Python paper at?
+    * in progress this week!
+
+#### What did you struggle with?
+
+* stage fright
+* 
+#### What would you like to work on next week?
+
+* Plan to meet with Gita next week
+* would like to finish bidsifying what can be bidsifyed
+
+#### Where do you need help from Kirstie?
+
+* Looking forward to having Kirstie back from strike
+
+#### Any other topics
 
 
 ---
