@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [14th March 2018](#date-07th-february-2018)
 * [07th February 2018](#date-07th-february-2018)
 * [25th January 2018](#date-25th-january-2018)
 * [10th January 2018](#date-10th-january-2018)
@@ -8,6 +9,49 @@
 * [08th November 2017](#date-08th-november-2017)
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
+
+
+### Date: 07th February 2018
+
+#### Who did you help since last meeting?
+* Helped SS on some UKB data query
+* Trying to help MG prove some theory but failed...
+* Offered HG some ideas on his factor analysis work
+* Passed my work abstract to SA who are very interested in my area and wants to starts something himself
+* Helped ZW with her tutorial teaching questions
+
+#### Who helped you since last meeting?
+* PM helped me with python coding on UKB data (I was so impressed by his computer skills :muscle:)
+* AB helped me with python and explained me some kernel knowledge
+* MA, CB and AB helped with cluster computing
+* Sofrware engineering team helped me solved my data processing problem on cluster
+* SS withe some UKB data query
+* MG helped me with algorithm coding
+* HK explained me about dual represenation and space
+* TP and BW gave me some interview tips
+* HG explained me his work on factor analysis
+
+#### What did you achieve?
+* Did more analysis on UKB data
+* Shared some python codes I used to analyse the data on github
+* Trying to implement the GLRM method in python using a pkg that is out of date and maintaining, spent lots of time getting it work but ended up fixing the pkg and didnt get it work in the end :persevere:
+* Tried various of ways loading the whole raw dataset of UKB on Buster, with the help of software engineer team, we worked out a way in the end. I can now load (reconstruct) the whole dataset in python on the cluster
+* Did lots of learning on coursera on algorithms and data structure, and practice in coding.
+* Did a little editing on my manuscript
+  
+#### What did you struggle with?
+* Processing large data on cluster with very limite RAM
+* Still having problems in setting up the VNC on cluster
+* My ctl+C still doesnt work!! :weary:
+
+#### What would you like to work on next week?
+* Prepare for the interview
+* Keep coding and anlysing UKB data
+
+#### Any other topics
+* I am offered an interview with FB so I spend considerable amount of time preparing it atm
+* I am offered couple of pos-doc positions in China as well :smile: 
+_________
 
 ### Date: 07th February 2018
 
