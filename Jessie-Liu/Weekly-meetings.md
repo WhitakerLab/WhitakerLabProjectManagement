@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-* [14th March 2018](#date-07th-february-2018)
+* [14th March 2018](#date-14th-march-2018)
 * [07th February 2018](#date-07th-february-2018)
 * [25th January 2018](#date-25th-january-2018)
 * [10th January 2018](#date-10th-january-2018)
@@ -11,7 +11,7 @@
 * [18th October 2017](#date-18th-october-2017)
 
 
-### Date: 07th February 2018
+### Date: 14th March 2018
 
 #### Who did you help since last meeting?
 * Helped SS on some UKB data query
