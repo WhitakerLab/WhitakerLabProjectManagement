@@ -2,6 +2,8 @@
 
 ### 2018
 
+* [14 March 2018](#date-14th-march-2018)
+* [21 February 2018](#date-21st-february-2018)
 * [18 January 2018](#date-18th-january-2018)
 
 ---
@@ -24,6 +26,101 @@
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+
+---
+
+### Date: 14th March 2018
+
+#### Who did you help this week?
+
+* the NSPN data management committee
+
+#### Who helped you this week?
+
+* JB gave me loads of important NSPN documentation
+* KW and PJ gave me a lot of help with the presentation
+
+#### What did you achieve?
+
+* NSPN meeting presentation
+* What did you achieve with your CD time?
+    * Sent draft of personal statement to reference writers
+    * did some work on implementing algorithm
+* What did you achieve with your DAS time?
+    * not much
+* Where's the data management presentation at?
+    * done! 
+    * KW: WOOO!! :sparkles:
+* Where's the Brain Networks in Python paper at?
+    * in progress this week!
+
+#### What did you struggle with?
+
+* stage fright
+  * KW: Way to go pushing though!! :muscle:
+
+#### What would you like to work on next week?
+
+* Plan to meet with GB next week
+* would like to finish bidsifying what can be bidsifyed
+
+#### Where do you need help from Kirstie?
+
+* Looking forward to having Kirstie back from strike
+  * KW: I'm BAAAAACK - finally!
+
+#### Any other topics
+
+
+---
+
+### Date: 21st February 2018
+
+#### Who did you help this week?
+
+Replace this text with a one/two sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+Replace this text with a one/two sentence description of who helped you this week and how.
+
+#### What did you achieve?
+
+* DAS time?
+    * generated figures for methods section
+    * rounded up some BMC 2016 no-das examples for Iain to look at
+    * I just want to mention that I feel like last week's das meeting was really good.
+        * KW: GREAT! I agree :sparkles:
+* Where's the data management presentation at?
+    * Slow start, but following last week's conversation with PJ I have a few screenshots
+* BIDS format MRI data paper:
+    * I think we're doing okay
+* Where's the Brain Networks in Python paper at?
+    * [JOSS paper branch added -I should add this to the main repo](https://github.com/Islast/BrainNetworksInPython/tree/josspaper)
+
+#### What did you struggle with?
+
+* Getting things done. I feel deeply disorganised lately. Progress on NSPNhandbook is slow because I've sort of run out of ideas or at least easy things to do. Progress on CD is slow because I'm so daunted by going back to studying. We've been getting a lot of BNIP questions which has made me focus on that more than I intend to. I've also been switching between computers a bit :yuck:
+
+#### What would you like to work on next week?
+
+* Would love to find time to work with Kirstie on the data management presentation
+  * KW: Tuesday 27th & Tuesday 6th :muscle:
+* Want to fully BIDsify the pilot data (an hour to a day, depending on hitches)
+  * KW: Thursday 22nd :punch:
+* I would love to make better docs for BNIP, so that our users can reach beyond just using the tutorial. (/ maybe a better tutorial)
+  * KW: Makes sense! Thursday 1st!! WOOOOOO :star2::star2::star2:
+* CD: I mean to get the landscapeofcomplexnetworks algorithm sorted out by the end of the week, only problem is that I'm not sure if there's a mistake in the paper.
+  * KW: As discussed, make the figures from the paper, check with BMh and then email the authors if you're still stuck!
+* More NSPN: I feel I should finish reading all the NSPN publications, in order to do my job better
+  * KW: Meh - only if you want to :confused:
+* Kirstie mentioned making a budget for the brain networks satellite of netsci. I should do that!
+  * KW: Yes please!
+
+#### Where do you need help from Kirstie?
+
+* Data management presentation
+* get BIDS data in the right places
 
 ---
 ### Date: 18th January 2018
