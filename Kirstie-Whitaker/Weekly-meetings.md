@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [14th February 2018](#date-14th-february-2018)
 * [7th February 2018](#date-7th-february-2018)
 * [31st January 2018](#date-31st-january-2018)
 * [24th January 2018](#date-24th-january-2018)
@@ -7,6 +8,64 @@
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+### Date: 14th February 2018
+
+#### Who did you help this week?
+
+* I had some good chats with EdP & EC that I hope were useful
+
+#### Who helped you this week?
+
+* JC & MOR were excellent, as usual
+* IS for working so independently on the NSPN welcome pack
+* WW fixed my laptop! 🎉
+
+#### What did you achieve?
+
+* Inaugural Turing Ethics Advisory Group meeting! Really inspirational 🙌
+* NSPN data management meeting - updates, pitched grant application and lead discussion of vision for data sharing
+* Reviewed 17 Turing events applications & discussed in meeting - lots of good stuff coming up!
+* Lots of people came to the reproducible research lunch!! YAAAAAY 🎈🎈🎈
+  * Came up with a list of people to target for champions call
+* Coordinated meeting with KAW & SAW - very cool future collaboration
+* Blog post out for Open Science demo calls:
+  *  https://www.ohbmbrainmappingblog.com/blog/introducing-the-ohbm-open-science-demo-calls
+* Bio sent for Turing PRIDE talk
+* Chaired research fellows meeting
+* NSPN analyses moving forwards - good co-working with PV & SW
+* GSoC project was accepted (well INCF accepted as a mentor organisation)
+  * https://www.trelliscience.com/#/discussions-about/25692/0/
+* Attended ["How do we solve science’s problem with women?"](https://www.eventbrite.com/e/how-do-we-solve-sciences-problem-with-women-debate-network-drinks-tickets-39217270913?utm_source=eb_email&utm_medium=email&utm_campaign=event_reminder&utm_term=eventname#) and was mega impressed with [Emma Chapman](https://dr-emma-chapman.com/about/) :muscle:🙆:raised_hands:
+  * Also met two twitter friends IRL :sparkles::sparkles::sparkles:
+* Took a morning off and played with my niece - needed that mental health break!
+
+#### What did you struggle with?
+
+* Had a couple of difficult conversations and a couple of unpleasant emails.
+* Update to the Cambridge cluster has stopped my visualisation code from working! GAAAAH :angry:
+  * Is this the time to move from pysurfer to a native python based visualisation?? I know Satra & Anisha have some code that works....
+
+#### What would you like to work on next week?
+
+* DSG recruitment - blog post & updated form
+  * Touch base with facilitators & get their feedback
+* Review 3 papers
+* Uis Vis analyses for NSPN
+* Distribute draft of grant proposal to GP, EB etc
+* Minutes from NSPN meeting & draft vision
+* Recruit GSoC student
+* DAS writing
+* Talk in Leeds
+* Read two books for book clubs!! 📚📚📚
+
+#### Where do you need help?
+
+* Not sure how to recruit a good GSoC student - looking for input from anyone who has strong recommendations on that front
+
+
+---
 
 ### Date: 7th February 2018
 

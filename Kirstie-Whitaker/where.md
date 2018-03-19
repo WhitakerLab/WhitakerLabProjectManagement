@@ -103,8 +103,8 @@ Date | Day   | City, Country                | Event
 4    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 5    | Mon   | :fist: Cambridge, UK         | USS Strike  
 6    | Tue   | :fist: Cambridge, UK         | USS Strike  
-7    | Wed   | :fist: Cambridge, UK         | USS Strike  
-8    | Thurs | :uk: London, UK              | [Twitter Neuroscience Conference](https://brain.tc)  
+7    | Wed   | :fist: Cambridge, UK         | USS Strike
+8    | Thurs | :coffee: Peterborough, UK   | Working remotely and then flying to Madrid :es: & [Twitter Neuroscience Conference](https://brain.tc)  
 9    | Fri   | :es: Madrid, Spain           | [HBP Conference on Gender and Diversity](https://flagship.kip.uni-heidelberg.de/jss/AttendMeeting?eMAt=114&showAgenda=x)
 10   | Sat   | :es: Madrid, Spain           | [HBP Conference on Gender and Diversity](https://flagship.kip.uni-heidelberg.de/jss/AttendMeeting?eMAt=114&showAgenda=x)
 11   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
