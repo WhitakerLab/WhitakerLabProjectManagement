@@ -101,18 +101,18 @@ Date | Day   | City, Country                | Event
 2    | Fri   | :uk: London, UK              | Working at Turing Institute   
 3    | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 4    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-5    | Mon   | :uk: London, UK              | Working at Turing Institute   
-6    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-7    | Wed   | :uk: London, UK              | Working at Turing Institute   
+5    | Mon   | :fist: Cambridge, UK         | USS Strike  
+6    | Tue   | :fist: Cambridge, UK         | USS Strike  
+7    | Wed   | :fist: Cambridge, UK         | USS Strike  
 8    | Thurs | :uk: London, UK              | [Twitter Neuroscience Conference](https://brain.tc)  
 9    | Fri   | :es: Madrid, Spain           | [HBP Conference on Gender and Diversity](https://flagship.kip.uni-heidelberg.de/jss/AttendMeeting?eMAt=114&showAgenda=x)
 10   | Sat   | :es: Madrid, Spain           | [HBP Conference on Gender and Diversity](https://flagship.kip.uni-heidelberg.de/jss/AttendMeeting?eMAt=114&showAgenda=x)
 11   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-12   | Mon   | :mortar_board: Cambridge, UK | [CNS 2018 - Mental Plasticity & Development](http://www.neuroscience.cam.ac.uk/events/event.php?permalink=78f6baff00)
-13   | Tue   | :mortar_board: Cambridge, UK | [1st Cambridge Computational Psychiatry Workshop](http://www.neuroscience.cam.ac.uk/news/article.php?permalink=7be7ed7e50)   
+12   | Mon   | :fist: Cambridge, UK         | USS Strike  
+13   | Tue   | :fist: Cambridge, UK         | USS Strike  
 14   | Wed   | :uk: London, UK              | Talk at Goodenough college
-15   | Thurs | :uk: London, UK              | Working at Turing Institute   
-16   | Fri   | :uk: London, UK              | Working at Turing Institute   
+15   | Thurs | :fist: Cambridge, UK         | USS Strike  
+16   | Fri   | :fist: Cambridge, UK         | USS Strike  
 17   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 18   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 19   | Mon   | :mortar_board: Cambridge, UK | Talk at [Scientific Computation in the University of Cambridge](https://www.eventbrite.co.uk/e/scientific-computation-in-the-university-of-cambridge-tickets-42195122748)
