@@ -31,6 +31,8 @@
 * TP and BW gave me some interview tips
 * HG explained me his work on factor analysis
 
+* KW: AMAZING - Great help in both directions!! :couple::two_women_holding_hands::two_men_holding_hands::dancers:
+
 #### What did you achieve?
 * Did more analysis on UKB data
 * Shared some python codes I used to analyse the data on github
@@ -43,6 +45,7 @@
 * Processing large data on cluster with very limite RAM
 * Still having problems in setting up the VNC on cluster
 * My ctl+C still doesnt work!! :weary:
+  * KW: Death by a thousand unnecessary keystrokes :tired_face:
 
 #### What would you like to work on next week?
 * Prepare for the interview
@@ -50,7 +53,9 @@
 
 #### Any other topics
 * I am offered an interview with FB so I spend considerable amount of time preparing it atm
+  * KW: EXCIIIITING! Fingers crossed for you :raised_hands::raised_hands::raised_hands:
 * I am offered couple of pos-doc positions in China as well :smile: 
+  * KW: Wooo! :sparkles:
 _________
 
 ### Date: 07th February 2018
