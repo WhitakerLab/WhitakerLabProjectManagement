@@ -17,7 +17,9 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * March
   * [HBP Conference on Gender and Diversity](#hbp-conference-on-gender-and-diversity)
   * [Talk at Sussex University](#talk-at-sussex-university)
+  * [Networking workshop at 1st HBP Conference on Gender and Diversity](#networking-workshop-at-1st-hbp-conference-on-gender-and-diversity)
   * [Talk at Goodenough College](#talk-at-goodenough-college)
+  * [Talk at Scientific Computation in the University of Cambridge day meeting](#talk-at-scientific-computation-in-the-university-of-cambridge-day-meeting)
   * [Collaborations Workshop 2018](#collaborations-workshop-2018)
 * April
 * May
@@ -103,10 +105,18 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 **Slides**:
 
+### Networking workshop at 1st HBP Conference on Gender and Diversity
+
+**Website**: https://flagship.kip.uni-heidelberg.de/jss/AttendMeeting?eMAt=114&showAgenda=x
+
+**Date**: 9th March 2018
+
+**Title**: Unleash your networking potential: dos and don'ts for careers in science
+
+**Bio**: Kirstie Whitaker is a Research Fellow at The [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
 
 ### Talk at Goodenough College
-
-**Website**:
 
 **Date**: 14th March 2018
 
@@ -116,7 +126,17 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 **Bio**: Kirstie Whitaker is a research fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and she is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
-**Slides**:
+**Slides**: Gave a shortened version of https://doi.org/10.6084/m9.figshare.5914444
+
+### Talk at Scientific Computation in the University of Cambridge day meeting
+
+**Website**: https://www.eventbrite.co.uk/e/scientific-computation-in-the-university-of-cambridge-tickets-42195122748
+
+**Date**: 19th March 2018
+
+**Title**: Incentivising Reproducible Research at an Institutional Level
+
+**Slides**: https://doi.org/10.6084/m9.figshare.5999186
 
 ### Collaborations Workshop 2018
 
