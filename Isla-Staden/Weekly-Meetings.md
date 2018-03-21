@@ -76,7 +76,7 @@ Dep. Psychiatry research assistants
 
 #### Who did you help this week?
 
-* the NSPN data management comittee
+* the NSPN data management committee
 
 #### Who helped you this week?
 
@@ -93,21 +93,24 @@ Dep. Psychiatry research assistants
     * not much
 * Where's the data management presentation at?
     * done! 
+    * KW: WOOO!! :sparkles:
 * Where's the Brain Networks in Python paper at?
     * in progress this week!
 
 #### What did you struggle with?
 
 * stage fright
-* 
+  * KW: Way to go pushing though!! :muscle:
+
 #### What would you like to work on next week?
 
-* Plan to meet with Gita next week
+* Plan to meet with GB next week
 * would like to finish bidsifying what can be bidsifyed
 
 #### Where do you need help from Kirstie?
 
 * Looking forward to having Kirstie back from strike
+  * KW: I'm BAAAAACK - finally!
 
 #### Any other topics
 
