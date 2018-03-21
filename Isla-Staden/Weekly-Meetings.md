@@ -28,6 +28,49 @@
 
 
 ---
+### Date: [21st March 2018]
+
+#### Who did you help this week?
+
+helped ll prepare for phd interview
+
+#### Who helped you this week?
+
+Dep. Psychiatry research assistants
+
+#### What did you achieve?
+
+* Bids program feeds commands to terminal
+* Much needed bnip updates:new readme,trying to autotest readme code vignettes
+* Attended research assistants meeting at douglas house, got to know some of the former NSPN research assistants
+* What did you achieve with your CD time?
+* What did you achieve with your DAS time?
+* Where's the sharing BIDS format MRI data paper at?
+    * Need to test the pilot data
+* Where's the Brain Networks in Python paper at?
+    * Progress on BNIP documentation is quite good
+    * need to understand why some modules are caught by autodoc
+
+#### What did you struggle with?
+
+* sad feelings :(
+
+#### What would you like to work on next week?
+
+* I have a meeting with GB and SN on Monday morning on behavioural data
+* I have some BIDs commands to run!
+    * write checks, run checks
+
+#### Where do you need help from Kirstie?
+
+* Would like to know what kirstie has in mind for behavioural data
+
+#### Any other topics
+
+* MELD
+
+---
+
 
 ### Date: 14th March 2018
 
@@ -962,7 +1005,6 @@ Replace this text with a one/two sentence description of who helped you this wee
 * It's ok if your list is only one bullet point long!
 * What did you achieve with your CD time?
 * What did you achieve with your DAS time?
-* Where's the data management presentation at?
 * Where's the sharing BIDS format MRI data paper at?
 * Where's the Brain Networks in Python paper at?
 
