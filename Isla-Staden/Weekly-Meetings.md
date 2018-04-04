@@ -32,16 +32,18 @@
 
 #### Who did you help this week?
 
-helped ll prepare for phd interview
+* helped ll prepare for phd interview
 
 #### Who helped you this week?
 
-Dep. Psychiatry research assistants
+* Dep. Psychiatry research assistants
 
 #### What did you achieve?
 
 * Bids program feeds commands to terminal
 * Much needed bnip updates:new readme,trying to autotest readme code vignettes
+  * YEAH! Is it in this [PR #62](https://github.com/WhitakerLab/BrainNetworksInPython/pull/62) or already merged?
+  * Let me know where I can help :sparkles:
 * Attended research assistants meeting at douglas house, got to know some of the former NSPN research assistants
 * What did you achieve with your CD time?
 * What did you achieve with your DAS time?
@@ -54,7 +56,8 @@ Dep. Psychiatry research assistants
 #### What did you struggle with?
 
 * sad feelings :(
-
+  * KW: :purple_heart:
+  
 #### What would you like to work on next week?
 
 * I have a meeting with GB and SN on Monday morning on behavioural data
@@ -64,11 +67,12 @@ Dep. Psychiatry research assistants
 #### Where do you need help from Kirstie?
 
 * Would like to know what kirstie has in mind for behavioural data
+  * KW: Good call, me too. I'll think about it before the data management meeting.
 
 #### Any other topics
 
 * MELD
-
+  * KW: YES - I'll update you on this when you're back from holiday :japan:
 ---
 
 
