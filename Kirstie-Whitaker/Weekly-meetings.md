@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [4th April 2018](#date-4th-april-2018)
 * [14th February 2018](#date-14th-february-2018)
 * [7th February 2018](#date-7th-february-2018)
 * [31st January 2018](#date-31st-january-2018)
@@ -9,6 +10,56 @@
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+### Date: 4th April 2018
+
+*Note that this update is covering rather a nebulous amount of time. Plan is to just try to update it with some stuff and then get back on track from today!* :confused:
+
+#### Who did you help this week?
+
+* I'm proud of my presentation to the PCS East of England union reps meeting explaining why I joined the UCU strike and building connections between them and UCU more generally
+* Sent some advice on Mozilla fellowships to a few different folks
+* Got a letter of recommendation sent off for IS! *fingers crossed* :hibiscus:
+
+#### Who helped you this week?
+
+* Really fantastic work from CL & AB on DSG ethics forms and participant selection for the April DSG ❤️❤️❤️
+* Great reviewing from DH & EdP for GSoC too :sparkles:
+
+#### What did you achieve?
+
+* Reviewed 130 DSG applications!
+* Selected the April cohort & got emails etc to Jules so responses can be sent out
+* Selected the facilitators and got those emails sent out
+* Reviewed our Google Summer of Code applications and selected our preferred student! :sparkles:
+* Had a great meeting with Nico re: transparency in DSG project & reproducible research
+* Joined PCS union meeting in Peterborough and built connection between them and Cambridge UCU (and UCU more widely)
+* Gave a culture change talk at Collaborations Workshop that I really enjoyed making and presenting.
+  * Also won a prize for best collaborative idea **and** a prize for 2nd best hackday project! All as part of two kickass teams of course!
+* Had a great day at CUBRIC & gave a well attended talk there 😃
+* Got funding through Mozilla for a Mini WOW at the OHBM Hackathon! :sparkling_heart:
+* Got the March OHBM Demo Call blog written and sent off (LATE, but still done)
+
+#### What did you struggle with?
+
+* I'm having stress dreams again so need to focus a little more on getting the work that is triggering those out of the way!
+* I'm not getting enough "actual" research done so I need to have a regroup and really try to get some of that done asap
+
+#### What would you like to work on next week?
+
+* Update slides for longitudinal NSPN
+* Review Turing reproducibility champions applications
+* Update facilitator training for DSG
+* Interview for open science podcast
+* Review ALL THE PAPERS that I've printed out!
+* Keep going with my tidy [to do list](https://github.com/WhitakerLab/WhitakerLabProjectManagement/projects/2)
+
+#### Where do you need help?
+
+* Hmmm - some forgiveness for being so far behind on things?
+
+More seriously, I'm feeling like I can get back to business after the strike for the first time. I just want the DSG to be successful and something I can potentially a) relax occasionally during and b) benefit from in shape of some of the reports that will come out.
+
+---
 
 ### Date: 14th February 2018
 

@@ -137,7 +137,7 @@ Date | Day   | City, Country                | Event
 2    | Mon   | 🏞️ Lake district, UK         | Lake District for Easter
 3    | Tue   | 🏞️ Lake district, UK         | Writing retreat         
 4    | Wed   | 🏞️ Lake district, UK         | Writing retreat
-5    | Thurs | 🏞️ Lake district, UK         | Writing retreat
+5    | Thurs | :uk: London, UK              | Working at Turing Institute   
 6    | Fri   | :uk: London, UK              | [Women In Data Science Conference](https://www.turing.ac.uk/events/women-data-science-conference/)
 7    | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 8    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
@@ -266,7 +266,7 @@ Date | Day   | City, Country                | Event
 25   | Wed   | :uk: London, UK              | Working at Turing Institute   
 26   | Thurs | :uk: London, UK              | Working at Turing Institute   
 27   | Fri   | :uk: London, UK              | Working at Turing Institute   
-28   | Sat   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)            
+28   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 29   | Sun   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)          
 30   | Mon   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)          
 31   | Tue   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)         

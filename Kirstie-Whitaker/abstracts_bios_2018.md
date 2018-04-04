@@ -144,9 +144,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 **Date**: 26th to 28th March 2018
 
-**Title**: ??
-
-**Abstract**: ??
+**Title**: How Far We'll Go
 
 **Bio**: We are very excited to announce that [Kirstie Whitaker](https://whitakerlab.github.io/about/) will be giving the keynote speech for our Collaborations Workshop 2018 (CW18).
 
@@ -155,6 +153,18 @@ Kirstie Whitaker is a Research Fellow at the [Alan Turing Institute](https://www
 At CW18, Kirstie will talk about culture change based on her long journey as an open science advocate. You may have met her in the past at events like [Better Science through Better Data 2017](https://www.eventbrite.co.uk/e/better-science-through-better-data-2017-scidata17-tickets-32719974324#) or at the annual [OpenCon satellite workshops in Cambridge](http://www.openconcam.org/) that she has organised from 2015. She is a passionate advocate for improving the representation of women and other under-represented groups in STEM fields, and won the runner up prize of the [Rosalind Franklin App Competition](https://www.i-sense.org.uk/events/all/rosalind-franklin-appathon-prize-and-tech-day-2016) in 2016 for the STEMM Role Models project ([www.stemmrolemodels.com](http://stemmrolemodels.com/)) that seeks to ensure conference organisers are able to invite the most exciting and diverse speakers to their event.
 
 The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th March 2018 at [The School of Mathematics, Cardiff University](http://www.cardiff.ac.uk/mathematics/about-us/our-location). Registration is open on the [CW18 Eventbrite page](https://www.eventbrite.co.uk/e/collaborations-workshop-2018-cw18-collabw18-tickets-38380767910?aff=20171201keynote1KirstieWhitaker).
+
+**Slides**: https://doi.org/10.6084/m9.figshare.6025652
+
+### Invited talk at CUBRIC
+
+**Date**: 29th March 2018
+
+**Title**: Structural brain development during adolescence and its relation to psychiatric disorders
+
+**Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. I will present my work within the Neuroscience in Psychiatry Network (NSPN; www.nspn.org.uk) on cortical myelination between the ages of 14 and 24. I will show, consistently in two cohorts, that age-related changes in adolescence are concentrated on the more densely connected hubs of the human structural connectome. I will demonstrate the power of integrating open data sets such as the Allen Brain Atlas with non-invasive imaging techniques: specifically by linking the expression of schizophrenia risk genes to adolescent brain development.
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 **Slides**: Figshare link to slides (if applicable)
 
