@@ -211,12 +211,12 @@ Date | Day   | City, Country                | Event
 5    | Tue   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 6    | Wed   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 7    | Thurs | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
-8    | Fri   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
+8    | Fri   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/mu)
 9    | Sat   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 10   | Sun   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
-11   | Mon   | :uk: London, UK              | Working at Turing Institute   
-12   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-13   | Wed   | :uk: London, UK              | Working at Turing Institute   
+11   | Mon   | :airplane: flying to London, UK  | Travel
+12   | Tue   | :airplane: flying to Singapore, UK | Travel          
+13   | Wed   | 🧠 Singapore                 | Travel
 14   | Thurs | 🧠 Singapore                 | [OHBM Hackathon](https://ohbm.github.io/hackathon2018/)
 15   | Fri   | 🧠 Singapore                 | [OHBM Hackathon](https://ohbm.github.io/hackathon2018/)
 16   | Sat   | 🧠 Singapore                 | [OHBM Hackathon](https://ohbm.github.io/hackathon2018/)
