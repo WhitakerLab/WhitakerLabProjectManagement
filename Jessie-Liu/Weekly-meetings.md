@@ -11,7 +11,7 @@
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
 
-### Date: 14th March 2018
+### Date: 11th April 2018
 
 #### Who did you help since last meeting?
 * Helped AB learn skiing :smile:
