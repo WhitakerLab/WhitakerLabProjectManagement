@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [11th April 2018](#date-11th-april-2018)
 * [14th March 2018](#date-14th-march-2018)
 * [07th February 2018](#date-07th-february-2018)
 * [25th January 2018](#date-25th-january-2018)
@@ -10,6 +11,31 @@
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
 
+### Date: 14th March 2018
+
+#### Who did you help since last meeting?
+* Helped AB learn skiing :smile:
+* Helped SS with some UKB data problems
+
+#### Who helped you since last meeting?
+* Thanks MG, BW, YK, TP, NA, MA, AB for their supports during the interview preparation :heart:
+* TMS helped me with a DP problem
+
+#### What did you achieve?
+* Learnt so much on data structures, algorithms and python coding! feeling a lot more confident in coding in python now :muscle: :sparkles:
+* Gave a talk in Oxford neurostats group (NISOx)
+* Did some more analysis on UKB
+ - Structural data analysis
+ - Coding CCA
+  
+#### What did you struggle with?
+* Interview prep was tough and stressful mentally and physically but I'm very glad I did it. Learnt so much and it was such a valueable experience. I really enjoyed it in the end :sparkling_heart:
+
+#### What would you like to work on next week?
+* Finally back to normal reasearch life! Gonna do lots more analysis on UKB! Try to get some initial results on CCA.
+* TN and I set the ddl for finishing the manuscript (end of April). Really hope we can stick to this ddl :pray: and gonna work hard to get this done! :fist:
+
+_________
 
 ### Date: 14th March 2018
 
