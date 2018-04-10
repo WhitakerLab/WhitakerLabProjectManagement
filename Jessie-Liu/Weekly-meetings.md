@@ -25,8 +25,8 @@
 * Learnt so much on data structures, algorithms and python coding! feeling a lot more confident in coding in python now :muscle: :sparkles:
 * Gave a talk in Oxford neurostats group (NISOx)
 * Did some more analysis on UKB
- - Structural data analysis
- - Coding CCA
+    - Structural data analysis
+    - Coding CCA
   
 #### What did you struggle with?
 * Interview prep was tough and stressful mentally and physically but I'm very glad I did it. Learnt so much and it was such a valueable experience. I really enjoyed it in the end :sparkling_heart:
