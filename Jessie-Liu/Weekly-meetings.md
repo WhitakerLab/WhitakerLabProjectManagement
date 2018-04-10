@@ -34,6 +34,7 @@
 #### What would you like to work on next week?
 * Finally back to normal reasearch life! Gonna do lots more analysis on UKB! Try to get some initial results on CCA.
 * TN and I set the ddl for finishing the manuscript (end of April). Really hope we can stick to this ddl :pray: and gonna work hard to get this done! :fist:
+* Help with DSG and hope it will be great! :fire:
 
 _________
 
