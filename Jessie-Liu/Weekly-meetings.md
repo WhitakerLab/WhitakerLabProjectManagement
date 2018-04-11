@@ -19,15 +19,18 @@
 
 #### Who helped you since last meeting?
 * Thanks MG, BW, YK, TP, NA, MA, AB for their supports during the interview preparation :heart:
+  * KW: So glad you got all this help!! Awesome :sparkles:
 * TMS helped me with a DP problem
 
 #### What did you achieve?
 * Learnt so much on data structures, algorithms and python coding! feeling a lot more confident in coding in python now :muscle: :sparkles:
 * Gave a talk in Oxford neurostats group (NISOx)
+  * KW: Comparision of CCA and PLS for large datasets - super interesting :white_check_mark:
 * Did some more analysis on UKB
     - Structural data analysis
     - Coding CCA
-  
+      * KW: Go go!! :muscle:
+
 #### What did you struggle with?
 * Interview prep was tough and stressful mentally and physically but I'm very glad I did it. Learnt so much and it was such a valueable experience. I really enjoyed it in the end :sparkling_heart:
 
