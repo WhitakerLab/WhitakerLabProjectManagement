@@ -137,7 +137,7 @@ Date | Day   | City, Country                | Event
 2    | Mon   | 🏞️ Lake district, UK         | Lake District for Easter
 3    | Tue   | 🏞️ Lake district, UK         | Writing retreat         
 4    | Wed   | 🏞️ Lake district, UK         | Writing retreat
-5    | Thurs | 🏞️ Lake district, UK         | Writing retreat
+5    | Thurs | :uk: London, UK              | Working at Turing Institute   
 6    | Fri   | :uk: London, UK              | [Women In Data Science Conference](https://www.turing.ac.uk/events/women-data-science-conference/)
 7    | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 8    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
@@ -211,12 +211,12 @@ Date | Day   | City, Country                | Event
 5    | Tue   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 6    | Wed   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 7    | Thurs | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
-8    | Fri   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
+8    | Fri   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/mu)
 9    | Sat   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 10   | Sun   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
-11   | Mon   | :uk: London, UK              | Working at Turing Institute   
-12   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-13   | Wed   | :uk: London, UK              | Working at Turing Institute   
+11   | Mon   | :airplane: flying to London, UK  | Travel
+12   | Tue   | :airplane: flying to Singapore, UK | Travel          
+13   | Wed   | 🧠 Singapore                 | Travel
 14   | Thurs | 🧠 Singapore                 | [OHBM Hackathon](https://ohbm.github.io/hackathon2018/)
 15   | Fri   | 🧠 Singapore                 | [OHBM Hackathon](https://ohbm.github.io/hackathon2018/)
 16   | Sat   | 🧠 Singapore                 | [OHBM Hackathon](https://ohbm.github.io/hackathon2018/)
@@ -266,7 +266,7 @@ Date | Day   | City, Country                | Event
 25   | Wed   | :uk: London, UK              | Working at Turing Institute   
 26   | Thurs | :uk: London, UK              | Working at Turing Institute   
 27   | Fri   | :uk: London, UK              | Working at Turing Institute   
-28   | Sat   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)            
+28   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 29   | Sun   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)          
 30   | Mon   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)          
 31   | Tue   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)         
