@@ -2,6 +2,7 @@
 
 ### 2018
 
+* [25 April 2018](#date-25th-april-2018)
 * [14 March 2018](#date-14th-march-2018)
 * [21 February 2018](#date-21st-february-2018)
 * [18 January 2018](#date-18th-january-2018)
@@ -28,6 +29,55 @@
 
 
 ---
+### Date: [25th April 2018]
+
+#### Who did you help this week?
+
+* Helped TC sort out doctor's appointment
+* Helped Kirstie with testing file existence
+
+#### Who helped you this week?
+
+* Kirstie being understanding about my jet lag!
+* JL for booking this room
+
+#### What did you achieve?
+
+* Wrote up sketch of [data sharing for NSPN](https://hackmd.io/rKn7wWvtTjqm7OYxhSZwvQ?edit)
+* Trying to get mindcontrol running on the HPHI. 
+    * We'll need a singularity container- it seems like someone on stack exchange has already done this part, if only i could get hold of them.
+    * We'll need some json files (considering writing a little script to autogenerate these from bids format data)
+    * more detail [here](https://github.com/WhitakerLab/BidsifyingMRI/issues/4)
+* CD time:
+    * Applied to Imperial
+    * QMUL requires references uploaded by me -_-
+* DAS time
+    * DAS meeting
+* Where's the sharing BIDS format MRI data paper at?
+    * pilot data missing ses-ucl for subjects N0604, N0605 and N0606
+    * need to run [brain extraction](https://github.com/WhitakerLab/BidsifyingMRI/issues/8)
+* Where's the Brain Networks in Python paper at?
+    * [Mozilla report](https://hackmd.io/Qp743LHJS7qrtRIFqhQ49A?view) is almost done
+
+#### What did you struggle with?
+
+* I've struggled to get stuff done on the hphi. The computer i'm working on has a wireless card with proprietary drivers and this coupled with the cambridge vpn make for a very slow connection.
+    * I have the (new) old computer back now so fingers crossed for clean sailing from now on.
+
+#### What would you like to work on next week?
+
+* I think that this may come from discussion of the direction for NSPN data sharing
+* I believe this week I'm supposed to launch NSPN data interviews
+
+#### Where do you need help from Kirstie?
+
+* Will discuss in meeting
+
+
+#### Any other topics
+
+---
+
 ### Date: [21st March 2018]
 
 #### Who did you help this week?
