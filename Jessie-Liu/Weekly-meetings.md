@@ -17,7 +17,7 @@
 #### Who did you help since last meeting?
 * DSG participants and was very glad I was helpful (hopefully) :smiley:
 * And, unusually I helped a blind person crossing the road and fell-over old lady to stand up in one day. Their thanks really made my day :heart:
-* TP on a minor question 
+* TP on a minor question
 
 #### Who helped you since last meeting?
 * All kinds of support from various of teams (Business, IT, orgnising committee) during the DSG
@@ -25,9 +25,12 @@
 * PM for helping me look at my python code and writing the UKB software
 
 #### What did you achieve?
-* Some more preps on python coding and Another interview!!!
+* Some more preps on python coding and another interview!!!
+  * :pray: fingers crossed!
 * UKB analysis
+  * Fun :sparkles:
 * some manuscript edit
+  * Action for KW: I'll take a look by 9 May
 
 #### What did you struggle with?
 * trying to accomplish many things at the same time. find really hard to concentrate on one :persevere:
@@ -35,10 +38,12 @@
 #### What would you like to work on next week?
 * Keep analysing UKB data
 * Going away for Complexity annual retreat, need to prepare a mini talk.
-* Edit manuscript.
+  * KW: Have fun!
+* Edit manuscript
 
 #### Where do you need help from Kirstie?
 * Proofread my manuscript if you have time :heartbeat:
+  * :+1: On it!
 _________
 
 
