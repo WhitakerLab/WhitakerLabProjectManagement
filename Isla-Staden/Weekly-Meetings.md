@@ -46,18 +46,27 @@
 * Wrote up sketch of [data sharing for NSPN](https://hackmd.io/rKn7wWvtTjqm7OYxhSZwvQ?edit)
 * Trying to get mindcontrol running on the HPHI. 
     * We'll need a singularity container- it seems like someone on stack exchange has already done this part, if only i could get hold of them.
+    	* KW: Send Anisha an email to ask about this - I think she'll know how to do it :smiley:
+	    * https://hub.docker.com/r/clowdcontrol/mindcontrol
+	* KW: Or, send an email to HPHI support - they should be able to help on this front
     * We'll need some json files (considering writing a little script to autogenerate these from bids format data)
+        * KW: comment on issue but then submit if you do this!!
     * more detail [here](https://github.com/WhitakerLab/BidsifyingMRI/issues/4)
 * CD time:
     * Applied to Imperial
-    * QMUL requires references uploaded by me -_-
+        * KW: **ACTION** Submit reference!
+    * QMUL requires references uploaded by me :neutral_face:
+        * KW: **ACTION** Send reference to IS
 * DAS time
     * DAS meeting
 * Where's the sharing BIDS format MRI data paper at?
-    * pilot data missing ses-ucl for subjects N0604, N0605 and N0606
+    * pilot data missing ses-ucl for subjects `N0604`, `N0605` and `N0606`
+        * KW: Go with device serial number instead of name & address :sob:
     * need to run [brain extraction](https://github.com/WhitakerLab/BidsifyingMRI/issues/8)
 * Where's the Brain Networks in Python paper at?
     * [Mozilla report](https://hackmd.io/Qp743LHJS7qrtRIFqhQ49A?view) is almost done
+         * KW: RIGHT - I'll work on finalising this on Wed 2 May :raised_hands:
+	 * Please add character limits so I don't go overboard :grimacing:
 
 #### What did you struggle with?
 
@@ -67,12 +76,15 @@
 #### What would you like to work on next week?
 
 * I think that this may come from discussion of the direction for NSPN data sharing
+  * ACTION FOR KW: **MPM in BIDS** - send email to NW ASAP
+      * [NSPN-Handbook/documents/MRI Protocol/Appendix 2 U-Change Sequence Parameters FINAL.pdf](https://github.com/TeamNSPN/NSPN-Handbook/blob/master/documents/MRI%20Protocol/Appendix%202%20U-Change%20Sequence%20Parameters%20FINAL.pdf)
 * I believe this week I'm supposed to launch NSPN data interviews
+  * https://github.com/TeamNSPN/NSPN-Handbook/issues/18
 
 #### Where do you need help from Kirstie?
 
 * Will discuss in meeting
-
+  * KW: :fire: BIDS & Singularity :fire:
 
 #### Any other topics
 
