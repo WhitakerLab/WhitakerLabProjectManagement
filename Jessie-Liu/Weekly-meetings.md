@@ -1,5 +1,7 @@
 # Weekly Meetings
 
+* [25th April 2018](#date-25th-april-2018)
+* [11th April 2018](#date-11th-april-2018)
 * [14th March 2018](#date-14th-march-2018)
 * [07th February 2018](#date-07th-february-2018)
 * [25th January 2018](#date-25th-january-2018)
@@ -10,6 +12,71 @@
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
 
+### Date: 25th April 2018
+
+#### Who did you help since last meeting?
+* DSG participants and was very glad I was helpful (hopefully) :smiley:
+* And, unusually I helped a blind person crossing the road and fell-over old lady to stand up in one day. Their thanks really made my day :heart:
+* TP on a minor question
+
+#### Who helped you since last meeting?
+* All kinds of support from various of teams (Business, IT, orgnising committee) during the DSG
+* TH and BM for talking me through the PLORAS project
+* PM for helping me look at my python code and writing the UKB software
+
+#### What did you achieve?
+* Some more preps on python coding and another interview!!!
+  * :pray: fingers crossed!
+* UKB analysis
+  * Fun :sparkles:
+* some manuscript edit
+  * Action for KW: I'll take a look by 9 May
+
+#### What did you struggle with?
+* trying to accomplish many things at the same time. find really hard to concentrate on one :persevere:
+
+#### What would you like to work on next week?
+* Keep analysing UKB data
+* Going away for Complexity annual retreat, need to prepare a mini talk.
+  * KW: Have fun!
+* Edit manuscript
+
+#### Where do you need help from Kirstie?
+* Proofread my manuscript if you have time :heartbeat:
+  * :+1: On it!
+_________
+
+
+
+### Date: 11th April 2018
+
+#### Who did you help since last meeting?
+* Helped AB learn skiing :smile:
+* Helped SS with some UKB data problems
+
+#### Who helped you since last meeting?
+* Thanks MG, BW, YK, TP, NA, MA, AB for their supports during the interview preparation :heart:
+  * KW: So glad you got all this help!! Awesome :sparkles:
+* TMS helped me with a DP problem
+
+#### What did you achieve?
+* Learnt so much on data structures, algorithms and python coding! feeling a lot more confident in coding in python now :muscle: :sparkles:
+* Gave a talk in Oxford neurostats group (NISOx)
+  * KW: Comparision of CCA and PLS for large datasets - super interesting :white_check_mark:
+* Did some more analysis on UKB
+    - Structural data analysis
+    - Coding CCA
+      * KW: Go go!! :muscle:
+
+#### What did you struggle with?
+* Interview prep was tough and stressful mentally and physically but I'm very glad I did it. Learnt so much and it was such a valueable experience. I really enjoyed it in the end :sparkling_heart:
+
+#### What would you like to work on next week?
+* Finally back to normal reasearch life! Gonna do lots more analysis on UKB! Try to get some initial results on CCA.
+* TN and I set the ddl for finishing the manuscript (end of April). Really hope we can stick to this ddl :pray: and gonna work hard to get this done! :fist:
+* Help with DSG and hope it will be great! :fire:
+
+_________
 
 ### Date: 14th March 2018
 
