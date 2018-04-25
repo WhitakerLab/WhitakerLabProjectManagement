@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [25th April 2018](#date-25th-april-2018)
 * [11th April 2018](#date-11th-april-2018)
 * [14th March 2018](#date-14th-march-2018)
 * [07th February 2018](#date-07th-february-2018)
@@ -10,6 +11,37 @@
 * [08th November 2017](#date-08th-november-2017)
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
+
+### Date: 25th April 2018
+
+#### Who did you help since last meeting?
+* DSG participants and was very glad I was helpful (hopefully) :smiley:
+* And, unusually I helped a blind person crossing the road and fell-over old lady to stand up in one day. Their thanks really made my day :heart:
+* TP on a minor question 
+
+#### Who helped you since last meeting?
+* All kinds of support from various of teams (Business, IT, orgnising committee) during the DSG
+* TH and BM for talking me through the PLORAS project
+* PM for helping me look at my python code and writing the UKB software
+
+#### What did you achieve?
+* Some more preps on python coding and Another interview!!!
+* UKB analysis
+* some manuscript edit
+
+#### What did you struggle with?
+* trying to accomplish many things at the same time. find really hard to concentrate on one :persevere:
+
+#### What would you like to work on next week?
+* Keep analysing UKB data
+* Going away for Complexity annual retreat, need to prepare a mini talk.
+* Edit manuscript.
+
+#### Where do you need help from Kirstie?
+* Proofread my manuscript if you have time :heartbeat:
+_________
+
+
 
 ### Date: 11th April 2018
 
