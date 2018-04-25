@@ -20,7 +20,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Talk at Goodenough College](#talk-at-goodenough-college)
   * [Talk at Scientific Computation in the University of Cambridge day meeting](#talk-at-scientific-computation-in-the-university-of-cambridge-day-meeting)
   * [Collaborations Workshop 2018](#collaborations-workshop-2018)
-  * [Invited talk at CUBRIC](invited-talk-at-CUBRIC)
+  * [Invited talk at CUBRIC](#invited-talk-at-CUBRIC)
 * April
 * May
 * June
