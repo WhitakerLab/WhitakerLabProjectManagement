@@ -2,6 +2,7 @@
 
 ### 2018
 
+* [8 May 2018](#date-8th-may-2018)
 * [25 April 2018](#date-25th-april-2018)
 * [14 March 2018](#date-14th-march-2018)
 * [21 February 2018](#date-21st-february-2018)
@@ -27,6 +28,48 @@
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+---
+
+### Date: [8th May 2018]
+
+#### Who did you help this week?
+
+* sent IH a list of journals
+* helped dut with new website
+
+#### Who helped you this week?
+
+* JB helped with data interview
+* hphi added dcm2niix
+
+#### What did you achieve?
+
+* first data interview
+* What did you achieve with your CD time?
+* What did you achieve with your DAS time?
+   * sent IH a list of journals
+* Where's the sharing BIDS format MRI data paper at?
+   * bids conversion of PilotN03 data (not completely accurate as multi-echo still presenting a problem)
+   * Mindcontrol work ongoing
+* Where's the Brain Networks in Python paper at?
+    * latest merge to main branch adds sphinx documentation
+    * mozilla report ongoing
+
+#### What did you struggle with?
+
+* Understanding Mindcontrol
+
+#### What would you like to work on next week?
+
+* Mindcontrol
+
+#### Where do you need help from Kirstie?
+
+* general neuroimaging expertise
+
+#### Any other topics
+
+What sort of presentation do you want for tomorrow?
 
 ---
 ### Date: [25th April 2018]
