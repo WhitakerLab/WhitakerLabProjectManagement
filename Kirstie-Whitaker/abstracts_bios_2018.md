@@ -27,6 +27,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * July
 * August
 * September
+  * [Talk at Bernstein PhD Symposium](#talk-at-bernstein-phd-symposium)
 * October
 * November
 * December
@@ -132,6 +133,20 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
+
+### Talk at Bernstein PhD Symposium
+
+**Website**:
+
+**Date**: 29th September 2018
+
+**Title**: Barriers to reproducible research (and how to overcome them)
+
+**Abstract**: This talk will discuss the perceived and actual barriers experienced by researchers attempting to do reproducible research, and give practical guidance on how they can be overcome. It will include suggestions on how to make your code and data available and usable for others (including a strong suggestion to document both clearly so you don’t have to reply to lots of email questions from future users). I will cover a brief guide to version control, collaboration and dissemination using GitHub as well as a discussion of tools to help you work reproducibly from the start. Exercises and resources will be persistently available after the talk and all audience members will leave knowing there is something they can do to step towards making their research reproducible.
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine. You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
+
+**Slides**: 
 
 ---
 
