@@ -17,17 +17,17 @@
 ### Date: 25th April 2018
 
 #### Who did you help since last meeting?
-* Helped orgnising JF's group visiting the Turing.
+* Helped organising JF's group visiting the Turing.
 
 #### Who helped you since last meeting?
 * MO helped me with a parellel computing problem
-* An from RSE team helped me with cluster computing problem
+* NB from RSE team helped me with cluster computing problem
 * AB and TR gave me some interview tips
 
 #### What did you achieve?
 * Another phone interview (and went pretty well :smiley:)
 * Got some results from UKB analysis!
-* Made many new frinds 👬👭👫
+* Made many new friends 👬👭👫
 
 #### What did you struggle with?
 * Illness 🤒
