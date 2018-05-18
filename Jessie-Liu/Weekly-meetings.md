@@ -27,6 +27,7 @@
 #### What did you achieve?
 * Another phone interview (and went pretty well :smiley:)
 * Got some results from UKB analysis!
+* Made many new frinds 👬👭👫
 
 #### What did you struggle with?
 * Illness 🤒
