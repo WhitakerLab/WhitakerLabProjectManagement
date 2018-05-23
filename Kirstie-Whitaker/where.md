@@ -193,9 +193,9 @@ Date | Day   | City, Country                | Event
 23   | Wed   | :uk: London, UK              | Working at Turing Institute   
 24   | Thurs | :uk: London, UK              | Ethics workshop at Turing Institute
 25   | Fri   | :uk: London, UK              | Working at Turing Institute   
-26   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-27   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-28   | Mon   | :dog: Deeping, UK            | Weekend relaxing
+26   | Sat   | :us: Berkeley, CA, USA       | California for AIDS/Lifecycle              
+27   | Sun   | :us: Berkeley, CA, USA       | California for AIDS/Lifecycle
+28   | Mon   | :us: Berkeley, CA, USA       | California for AIDS/Lifecycle
 29   | Tue   | :us: Berkeley, CA, USA       | California for AIDS/Lifecycle       
 30   | Wed   | :us: Berkeley, CA, USA       | California for AIDS/Lifecycle     
 31   | Thurs | :us: Berkeley, CA, USA       | California for AIDS/Lifecycle     
@@ -205,13 +205,13 @@ Date | Day   | City, Country                | Event
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
 1    | Fri   | :us: Berkeley, CA, USA       | California for AIDS/Lifecycle
-2    | Sat   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)              
+2    | Sat   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)     
 3    | Sun   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 4    | Mon   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 5    | Tue   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 6    | Wed   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 7    | Thurs | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
-8    | Fri   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/mu)
+8    | Fri   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 9    | Sat   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 10   | Sun   | :bike: California, USA       | [AIDS/Lifecycle](tofighthiv.org/goto/kirstie)
 11   | Mon   | :airplane: flying to London, UK  | Travel
@@ -330,7 +330,7 @@ Date | Day   | City, Country                | Event
 17   | Mon   | :uk: London, UK              | Working at Turing Institute   
 18   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 19   | Wed   | :uk: London, UK              | Working at Turing Institute   
-20   | Thurs | :uk: London, UK              | Working at Turing Institute   
+20   | Thurs | :uk: London, UK              | MQ Data Science Meeting   
 21   | Fri   | :uk: London, UK              | Working at Turing Institute   
 22   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 23   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
@@ -338,9 +338,9 @@ Date | Day   | City, Country                | Event
 25   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 26   | Wed   | :uk: London, UK              | Working at Turing Institute   
 27   | Thurs | :uk: London, UK              | Working at Turing Institute   
-28   | Fri   | :uk: London, UK              | Working at Turing Institute   
-29   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-30   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
+28   | Fri   | :airplane: London to Berlin  | Travel to conference   
+29   | Sat   | :de: Berlin, Germany         | Talk at Bernstein PhD Symposium         
+30   | Sun   | :de: Berlin, Germany         | Travel home         
 
 ## October 2018
 
@@ -352,9 +352,9 @@ Date | Day   | City, Country                | Event
 4    | Thurs | :uk: London, UK              | Working at Turing Institute   
 5    | Fri   | :uk: London, UK              | Working at Turing Institute   
 6    | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-7    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-8    | Mon   | :uk: London, UK              | Working at Turing Institute   
-9    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
+7    | Sun   | :honeybee: Manchester, UK    | Visiting family              
+8    | Mon   | :honeybee: Manchester, UK    | Speaking at WGS Founders Day   
+9    | Tue   | :honeybee: Manchester, UK    | Speaking at WGS Founders Day  
 10   | Wed   | :uk: London, UK              | Working at Turing Institute   
 11   | Thurs | :uk: London, UK              | Working at Turing Institute   
 12   | Fri   | :uk: London, UK              | Working at Turing Institute   
@@ -371,9 +371,9 @@ Date | Day   | City, Country                | Event
 23   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 24   | Wed   | :uk: London, UK              | Working at Turing Institute   
 25   | Thurs | :uk: London, UK              | Working at Turing Institute   
-26   | Fri   | :uk: London, UK              | Working at Turing Institute   
-27   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-28   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
+26   | Fri   | :uk: London, UK              | MozFest
+27   | Sat   | :uk: London, UK              | MozFest    
+28   | Sun   | :uk: London, UK              | MozFest
 29   | Mon   | :uk: London, UK              | Working at Turing Institute   
 30   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 31   | Wed   | :uk: London, UK              | Working at Turing Institute   
@@ -384,18 +384,18 @@ Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
 1    | Thurs | :uk: London, UK              | Working at Turing Institute   
 2    | Fri   | :uk: London, UK              | Working at Turing Institute   
-3    | Sat   | :dog: Deeping, UK            | Weekend relaxing              
-4    | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-5    | Mon   | :uk: London, UK              | Working at Turing Institute   
-6    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-7    | Wed   | :uk: London, UK              | Working at Turing Institute   
+3    | Sat   | :sunny: San Diego, California, USA | Society for Neuroscience Annual Meeting
+4    | Sun   | :sunny: San Diego, California, USA | Society for Neuroscience Annual Meeting
+5    | Mon   | :sunny: San Diego, California, USA | Society for Neuroscience Annual Meeting
+6    | Tue   | :sunny: San Diego, California, USA | Society for Neuroscience Annual Meeting
+7    | Wed   | :sunny: San Diego, California, USA | Society for Neuroscience Annual Meeting
 8    | Thurs | :uk: London, UK              | Working at Turing Institute   
 9    | Fri   | :uk: London, UK              | Working at Turing Institute   
 10   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 11   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
 12   | Mon   | :uk: London, UK              | Working at Turing Institute   
 13   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-14   | Wed   | :uk: London, UK              | Working at Turing Institute   
+14   | Wed   | :uk: London, UK              | SciData18 Conference
 15   | Thurs | :uk: London, UK              | Working at Turing Institute   
 16   | Fri   | :uk: London, UK              | Working at Turing Institute   
 17   | Sat   | :dog: Deeping, UK            | Weekend relaxing              

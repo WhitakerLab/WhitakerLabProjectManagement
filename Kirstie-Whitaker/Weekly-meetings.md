@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [11th April 2018](#date-11th-april-2018)
 * [4th April 2018](#date-4th-april-2018)
 * [14th February 2018](#date-14th-february-2018)
 * [7th February 2018](#date-7th-february-2018)
@@ -9,6 +10,63 @@
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+### Date: 11th April 2018
+
+#### Who did you help this week?
+
+* Helped AK & GK update the OHBM Hackathon Travel Award form to nudge people to submit more information so we can judge the applications better
+* Gave a bit of feedback to KAW & SAW on MELD, but really, they're kicking so much ass this should go in the next section :sparkles:
+* Said yes to two more talks - one in Cambridge (May) and one in Berlin (Sept)
+
+#### Who helped you this week?
+
+* JC being spectacular as usual - fantastic momentum for EAG
+* DSG team kicking ass across the board (in the face of adversity)
+  * Really appreciate the support for facilitator training :sparkling_heart:
+* HG added me to his paper as a coauthor! So kind - it's a delight to read :heart_eyes_cat:
+* Really loved the School of Batman podcast episode!
+  * https://soundcloud.com/schoolofbatman/the-case-of-the-tree-shade-of-the-future-kirstie-whitaker
+* EdP is so wonderful - as usual - with the OHBM Demo Calls
+
+#### What did you achieve?
+
+* Feedback to HG's lovely paper!
+* Updated facilitator training guide for DSG - :blush: happy with that - looking forward to the training on Friday
+* Recorded Open Science podcast!
+* Updated ethics advisory group on progress with DSGs & internships
+* Scheduled DAS meetings (:muscle: go doodle go)
+* Reviewed 2 papers (Biological Psychiatry, Nature Comms)
+* Reviewed 40 applications for Neurohackademy :boom:
+* Registered for OHBM & OHBM hackathon
+  * Need to submit reimbursement forms
+* Submitted receipts for Collaborations Workshop & HBP Gender Conference
+* Attended Women in Data Science event at Turing
+* Rode 100 miles!! :bike::dash::dash::dash:
+
+#### What did you struggle with?
+
+* Reorg of a specific monthly meeting is very unpleasant - not looking forward to where that goes
+* NSPN longitudinal always behind
+
+#### What would you like to work on next week?
+
+* DSG ethics clinic
+* DSG facilitator training
+* DSG!! :scream::scream::scream:
+* If I can get *any* NSPN analyses done that would be really great.
+
+#### Where do you need help?
+
+* IS may be able to help me out with the NSPN network analyses 
+* I think the DSG team and NSPN longitudinal teams are being really wonderful at the moment & helping me a lot
+* I need to start training more for the half marathon, so if I can make sure to go for a few runs next week I think that would be really helpful.
+
+#### Any other topics
+
+I'm enjoying the new [project management board](https://github.com/WhitakerLab/WhitakerLabProjectManagement/projects/2) :sparkles:
+
+---
 
 ### Date: 4th April 2018
 
