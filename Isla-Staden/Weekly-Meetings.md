@@ -2,6 +2,7 @@
 
 ### 2018
 
+* [23 May 2018](#date-23rd-may-2018)
 * [8 May 2018](#date-8th-may-2018)
 * [25 April 2018](#date-25th-april-2018)
 * [14 March 2018](#date-14th-march-2018)
@@ -30,7 +31,53 @@
 
 ---
 
-### Date: [8th May 2018]
+### Date: 23rd May 2018
+
+#### Who did you help this week?
+
+* Helped Kirstie and PV with cleaning SPQ data
+
+#### Who helped you this week?
+
+* AK helped a _lot_ with mindcontrol
+* SN helped with SPQ questionnaire
+
+#### What did you achieve?
+
+* Running mindcontrol on my machine (where it is possible to install meteor)
+* Running a singularity container of BIDS/Freesurfer
+* Cleaning up bnip install instructions for mybinder
+* Talked to PP
+* Worked on LightlyProcessed REDCap data
+* What did you achieve with your CD time?
+	* Applied to QMUL
+* What did you achieve with your DAS time?
+	* Nothing that I can think of
+* Where's the sharing BIDS format MRI data paper at?
+	* We are getting very close to having mindcontrol running, the main roadblock being the meteor install
+	* All of the pilot data is in BIDS format, up to uncertainty about correct MPM format
+	* Maybe time to start working on the U-CHANGE data.
+* Where's the Brain Networks in Python paper at?
+	* still filling out the unit testing
+	* documentation needs work
+	* some modules still need cleaning up
+	* needs linting
+
+#### What did you struggle with?
+
+* Rounding up NSPN interview responses
+
+#### What would you like to work on next week?
+
+* Up to Kirstie
+
+#### Where do you need help from Kirstie?
+
+#### Any other topics
+
+---
+
+### Date: 8th May 2018
 
 #### Who did you help this week?
 
@@ -72,7 +119,7 @@
 What sort of presentation do you want for tomorrow?
 
 ---
-### Date: [25th April 2018]
+### Date: 25th April 2018
 
 #### Who did you help this week?
 
@@ -133,7 +180,7 @@ What sort of presentation do you want for tomorrow?
 
 ---
 
-### Date: [21st March 2018]
+### Date: 21st March 2018
 
 #### Who did you help this week?
 
