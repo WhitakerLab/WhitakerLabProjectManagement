@@ -2,6 +2,9 @@
 
 ### 2018
 
+* [23 May 2018](#date-23rd-may-2018)
+* [8 May 2018](#date-8th-may-2018)
+* [25 April 2018](#date-25th-april-2018)
 * [14 March 2018](#date-14th-march-2018)
 * [21 February 2018](#date-21st-february-2018)
 * [18 January 2018](#date-18th-january-2018)
@@ -26,8 +29,217 @@
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+---
+
+### Date: 23rd May 2018
+
+#### Who did you help this week?
+
+* Helped Kirstie and PV with cleaning SPQ data
+  * KW: YES - thank you! :sparkles:
+
+#### Who helped you this week?
+
+* AK helped a _lot_ with mindcontrol
+  * KW: I'm so excited about this :heart_eyes:
+* SN helped with SPQ questionnaire
+
+#### What did you achieve?
+
+* Running mindcontrol on my machine (where it is possible to install meteor)
+* Running a singularity container of BIDS/Freesurfer
+  * KW: AWESOME
+* Cleaning up bnip install instructions for mybinder
+* Talked to PP
+  * KW: Great - thank you!
+* Worked on LightlyProcessed REDCap data
+* What did you achieve with your CD time?
+	* Applied to QMUL
+* What did you achieve with your DAS time?
+	* Nothing that I can think of
+* Where's the sharing BIDS format MRI data paper at?
+	* We are getting very close to having mindcontrol running, the main roadblock being the meteor install
+	* All of the pilot data is in BIDS format, up to uncertainty about correct MPM format
+	* Maybe time to start working on the U-CHANGE data.
+	  * KW: Agreed - lets get going on that while I'm away! :muscle:
+* Where's the Brain Networks in Python paper at?
+	* still filling out the unit testing
+	* documentation needs work
+	* some modules still need cleaning up
+	* needs linting
+
+#### What did you struggle with?
+
+* Rounding up NSPN interview responses
+
+#### What would you like to work on next week?
+
+* Up to Kirstie
+  * KW: You're rather on your own for the next 4 weeks but lets move to bringing all the NSPN data into BIDS format
+    * I'll send emails & follow up with MPM team
+    * For now see if we can jump into the freesurfer derivatives *without* needing the original data in BIDS format
+    * Get the validator working in the browser
+    * Run a few BIDS-Apps for fun (to show we can!!) `#goSingularity` :sparkling_heart:
+
+
+#### Where do you need help from Kirstie?
+
+#### Any other topics
+
+KW: I'm REALLY delighted that you've got so much running on the HPHI! THANK YOU!
 
 ---
+
+### Date: 8th May 2018
+
+#### Who did you help this week?
+
+* sent IH a list of journals
+* helped dut with new website
+
+#### Who helped you this week?
+
+* JB helped with data interview
+* hphi added dcm2niix
+
+#### What did you achieve?
+
+* first data interview
+* What did you achieve with your CD time?
+* What did you achieve with your DAS time?
+   * sent IH a list of journals
+* Where's the sharing BIDS format MRI data paper at?
+   * bids conversion of PilotN03 data (not completely accurate as multi-echo still presenting a problem)
+   * Mindcontrol work ongoing
+* Where's the Brain Networks in Python paper at?
+    * latest merge to main branch adds sphinx documentation
+    * mozilla report ongoing
+
+#### What did you struggle with?
+
+* Understanding Mindcontrol
+
+#### What would you like to work on next week?
+
+* Mindcontrol
+
+#### Where do you need help from Kirstie?
+
+* general neuroimaging expertise
+
+#### Any other topics
+
+What sort of presentation do you want for tomorrow?
+
+---
+### Date: 25th April 2018
+
+#### Who did you help this week?
+
+* Helped TC sort out doctor's appointment
+* Helped Kirstie with testing file existence
+
+#### Who helped you this week?
+
+* Kirstie being understanding about my jet lag!
+* JL for booking this room
+
+#### What did you achieve?
+
+* Wrote up sketch of [data sharing for NSPN](https://hackmd.io/rKn7wWvtTjqm7OYxhSZwvQ?edit)
+* Trying to get mindcontrol running on the HPHI. 
+    * We'll need a singularity container- it seems like someone on stack exchange has already done this part, if only i could get hold of them.
+    	* KW: Send Anisha an email to ask about this - I think she'll know how to do it :smiley:
+	    * https://hub.docker.com/r/clowdcontrol/mindcontrol
+	* KW: Or, send an email to HPHI support - they should be able to help on this front
+    * We'll need some json files (considering writing a little script to autogenerate these from bids format data)
+        * KW: comment on issue but then submit if you do this!!
+    * more detail [here](https://github.com/WhitakerLab/BidsifyingMRI/issues/4)
+* CD time:
+    * Applied to Imperial
+        * KW: **ACTION** Submit reference!
+    * QMUL requires references uploaded by me :neutral_face:
+        * KW: **ACTION** Send reference to IS
+* DAS time
+    * DAS meeting
+* Where's the sharing BIDS format MRI data paper at?
+    * pilot data missing ses-ucl for subjects `N0604`, `N0605` and `N0606`
+        * KW: Go with device serial number instead of name & address :sob:
+    * need to run [brain extraction](https://github.com/WhitakerLab/BidsifyingMRI/issues/8)
+* Where's the Brain Networks in Python paper at?
+    * [Mozilla report](https://hackmd.io/Qp743LHJS7qrtRIFqhQ49A?view) is almost done
+         * KW: RIGHT - I'll work on finalising this on Wed 2 May :raised_hands:
+	 * Please add character limits so I don't go overboard :grimacing:
+
+#### What did you struggle with?
+
+* I've struggled to get stuff done on the hphi. The computer i'm working on has a wireless card with proprietary drivers and this coupled with the cambridge vpn make for a very slow connection.
+    * I have the (new) old computer back now so fingers crossed for clean sailing from now on.
+
+#### What would you like to work on next week?
+
+* I think that this may come from discussion of the direction for NSPN data sharing
+  * ACTION FOR KW: **MPM in BIDS** - send email to NW ASAP
+      * [NSPN-Handbook/documents/MRI Protocol/Appendix 2 U-Change Sequence Parameters FINAL.pdf](https://github.com/TeamNSPN/NSPN-Handbook/blob/master/documents/MRI%20Protocol/Appendix%202%20U-Change%20Sequence%20Parameters%20FINAL.pdf)
+* I believe this week I'm supposed to launch NSPN data interviews
+  * https://github.com/TeamNSPN/NSPN-Handbook/issues/18
+
+#### Where do you need help from Kirstie?
+
+* Will discuss in meeting
+  * KW: :fire: BIDS & Singularity :fire:
+
+#### Any other topics
+
+---
+
+### Date: 21st March 2018
+
+#### Who did you help this week?
+
+* helped ll prepare for phd interview
+
+#### Who helped you this week?
+
+* Dep. Psychiatry research assistants
+
+#### What did you achieve?
+
+* Bids program feeds commands to terminal
+* Much needed bnip updates:new readme,trying to autotest readme code vignettes
+  * YEAH! Is it in this [PR #62](https://github.com/WhitakerLab/BrainNetworksInPython/pull/62) or already merged?
+  * Let me know where I can help :sparkles:
+* Attended research assistants meeting at douglas house, got to know some of the former NSPN research assistants
+* What did you achieve with your CD time?
+* What did you achieve with your DAS time?
+* Where's the sharing BIDS format MRI data paper at?
+    * Need to test the pilot data
+* Where's the Brain Networks in Python paper at?
+    * Progress on BNIP documentation is quite good
+    * need to understand why some modules are caught by autodoc
+
+#### What did you struggle with?
+
+* sad feelings :(
+  * KW: :purple_heart:
+  
+#### What would you like to work on next week?
+
+* I have a meeting with GB and SN on Monday morning on behavioural data
+* I have some BIDs commands to run!
+    * write checks, run checks
+
+#### Where do you need help from Kirstie?
+
+* Would like to know what kirstie has in mind for behavioural data
+  * KW: Good call, me too. I'll think about it before the data management meeting.
+
+#### Any other topics
+
+* MELD
+  * KW: YES - I'll update you on this when you're back from holiday :japan:
+---
+
 
 ### Date: 14th March 2018
 
@@ -965,7 +1177,6 @@ Replace this text with a one/two sentence description of who helped you this wee
 * It's ok if your list is only one bullet point long!
 * What did you achieve with your CD time?
 * What did you achieve with your DAS time?
-* Where's the data management presentation at?
 * Where's the sharing BIDS format MRI data paper at?
 * Where's the Brain Networks in Python paper at?
 
