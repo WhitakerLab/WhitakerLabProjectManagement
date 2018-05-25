@@ -36,18 +36,22 @@
 #### Who did you help this week?
 
 * Helped Kirstie and PV with cleaning SPQ data
+  * KW: YES - thank you! :sparkles:
 
 #### Who helped you this week?
 
 * AK helped a _lot_ with mindcontrol
+  * KW: I'm so excited about this :heart_eyes:
 * SN helped with SPQ questionnaire
 
 #### What did you achieve?
 
 * Running mindcontrol on my machine (where it is possible to install meteor)
 * Running a singularity container of BIDS/Freesurfer
+  * KW: AWESOME
 * Cleaning up bnip install instructions for mybinder
 * Talked to PP
+  * KW: Great - thank you!
 * Worked on LightlyProcessed REDCap data
 * What did you achieve with your CD time?
 	* Applied to QMUL
@@ -57,6 +61,7 @@
 	* We are getting very close to having mindcontrol running, the main roadblock being the meteor install
 	* All of the pilot data is in BIDS format, up to uncertainty about correct MPM format
 	* Maybe time to start working on the U-CHANGE data.
+	  * KW: Agreed - lets get going on that while I'm away! :muscle:
 * Where's the Brain Networks in Python paper at?
 	* still filling out the unit testing
 	* documentation needs work
@@ -70,10 +75,18 @@
 #### What would you like to work on next week?
 
 * Up to Kirstie
+  * KW: You're rather on your own for the next 4 weeks but lets move to bringing all the NSPN data into BIDS format
+    * I'll send emails & follow up with MPM team
+    * For now see if we can jump into the freesurfer derivatives *without* needing the original data in BIDS format
+    * Get the validator working in the browser
+    * Run a few BIDS-Apps for fun (to show we can!!) `#goSingularity` :sparkling_heart:
+
 
 #### Where do you need help from Kirstie?
 
 #### Any other topics
+
+KW: I'm REALLY delighted that you've got so much running on the HPHI! THANK YOU!
 
 ---
 
