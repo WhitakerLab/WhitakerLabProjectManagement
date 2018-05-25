@@ -26,6 +26,7 @@
 
 #### What did you achieve?
 * Another phone interview (and went pretty well :smiley:)
+  * KW: Fingers crossed 🤞
 * Got some results from UKB analysis!
 * Made many new friends 👬👭👫
 
@@ -35,12 +36,15 @@
 #### What would you like to work on next week?
 * Keep the analysis going!
 * Make poster for OHBM
+  * KW: Great - looking forward to seeing it :sparkles:
 * Get the Singapore visa sorted
 
 #### Where do you need help from Kirstie?
 * IDP grouping
+  * KW: Done! :white_check_mark:
 * Feedback on manuscript 
-
+  * KW: On the to do list!
+  
 _________
 ### Date: 25th April 2018
 
