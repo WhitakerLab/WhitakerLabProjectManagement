@@ -251,10 +251,10 @@ Date | Day   | City, Country                | Event
 10   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 11   | Wed   | :uk: London, UK              | Working at Turing Institute   
 12   | Thurs | :uk: London, UK              | Working at Turing Institute   
-13   | Fri   | :uk: London, UK              | Working at Turing Institute   
+13   | Fri   | :mortar_board: Cambridge, UK | Working in Cambridge   
 14   | Sat   | :dog: Deeping, UK            | Weekend relaxing              
 15   | Sun   | :dog: Deeping, UK            | Weekend relaxing              
-16   | Mon   | :uk: London, UK              | Working at Turing Institute   
+16   | Mon   | :mortar_board: Cambridge, UK | Working in Cambridge  
 17   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
 18   | Wed   | :uk: London, UK              | Working at Turing Institute   
 19   | Thurs | :uk: London, UK              | Working at Turing Institute   
