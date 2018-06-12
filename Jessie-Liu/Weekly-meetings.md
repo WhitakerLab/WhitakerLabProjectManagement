@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [18th May 2018](#date-18th-may-2018)
 * [25th April 2018](#date-25th-april-2018)
 * [11th April 2018](#date-11th-april-2018)
 * [14th March 2018](#date-14th-march-2018)
@@ -12,6 +13,39 @@
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
 
+
+### Date: 25th April 2018
+
+#### Who did you help since last meeting?
+* Helped organising JF's group visiting the Turing.
+
+#### Who helped you since last meeting?
+* MO helped me with a parellel computing problem
+* NB from RSE team helped me with cluster computing problem
+* AB and TR gave me some interview tips
+
+#### What did you achieve?
+* Another phone interview (and went pretty well :smiley:)
+  * KW: Fingers crossed 🤞
+* Got some results from UKB analysis!
+* Made many new friends 👬👭👫
+
+#### What did you struggle with?
+* Illness 🤒
+
+#### What would you like to work on next week?
+* Keep the analysis going!
+* Make poster for OHBM
+  * KW: Great - looking forward to seeing it :sparkles:
+* Get the Singapore visa sorted
+
+#### Where do you need help from Kirstie?
+* IDP grouping
+  * KW: Done! :white_check_mark:
+* Feedback on manuscript 
+  * KW: On the to do list!
+  
+_________
 ### Date: 25th April 2018
 
 #### Who did you help since last meeting?
