@@ -23,6 +23,8 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Invited talk at CUBRIC](#invited-talk-at-CUBRIC)
 * April
 * May
+  * [Teenage Cancer Trust TYA Study Day](#teenage-cancer-trust-tya-study-day)
+  * [Cambridge Computational Biology Institute Annual Symposium](#cambridge-computational-biology-institute-annual-symposium)
 * June
 * July
 * August
@@ -134,6 +136,30 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 
+### The Educated Brain Policy Event at Westminster
+
+**Website**: http://www.neuroscience.cam.ac.uk/educatedbrain
+
+**Title**: Building networks in the adolescent brain
+
+
+### Teenage Cancer Trust TYA Study Day
+
+**Title**: The (still) developing teenage brain
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
+
+### Cambridge Computational Biology Institute Annual Symposium
+
+**Website**: https://www.eventbrite.co.uk/e/cambridge-computational-biology-institute-annual-symposium-tickets-45228862746
+
+**Title**: Structural brain development during adolescence and its relation to psychiatric disorders
+
+**Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. I will present my work within the Neuroscience in Psychiatry Network (NSPN; www.nspn.org.uk) on cortical myelination between the ages of 14 and 24. I will show, consistently in two cohorts, that age-related changes in adolescence are concentrated on the more densely connected hubs of the human structural connectome. I will demonstrate the power of integrating open data sets such as the Allen Brain Atlas with non-invasive imaging techniques: specifically by linking the expression of schizophrenia risk genes to adolescent brain development.
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
 ### Talk at Bernstein PhD Symposium
 
 **Website**:
@@ -146,7 +172,7 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine. You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
-**Slides**: 
+**Slides**:
 
 ---
 

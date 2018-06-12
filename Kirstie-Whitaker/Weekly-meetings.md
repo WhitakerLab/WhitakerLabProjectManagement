@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [25th May 2018](#date-25th-may-2018)
 * [11th April 2018](#date-11th-april-2018)
 * [4th April 2018](#date-4th-april-2018)
 * [14th February 2018](#date-14th-february-2018)
@@ -10,6 +11,55 @@
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+### Date: 22nd May 2018
+
+#### Who did you help this month?(!)
+
+* Ran away day for DSG team
+* Chatted w PhD student about mentor challenges
+* Wrote a few letters of recommendation
+
+#### Who helped you this month?(!)
+
+* CL by being really kind
+* EC made me smile with her excellent talk
+* EdP has been kicking ass all over the place: [*tedana* is released](https://github.com/ME-ICA/tedana) 🎉
+* SAW & KAW submitted two great abstracts with me as an author
+
+#### What did you achieve?
+
+* Facilitated April data study group
+* Helped to design [Project Trackbook](https://github.com/dat-land/project-trackbook) at the eLife Innovation Sprint
+* Selected the Turing reproducible research champions!!
+* Talk on adolescent brain development for Teenage Cancer Trust study day
+* Talk at CCBI annual meeting
+* Helped to facilitate and sat on panel for [Ethics Workshop](https://www.turing.ac.uk/events/towards-smarter-research-ethics-data-science/) at Turing
+* Wrote letters of recommendation for IS, LB & KH
+* Ran OHBM open science demo call
+* Reviewed OHBM hackathon travel awards
+* Took part in ECR day at Wiley re: improving publishing
+* Got two events accepted at the Turing
+* Last author on software project *tedana*:tada:: https://doi.org/10.5281/zenodo.1250561
+
+#### What did you struggle with?
+
+* Updating this file?!!
+* More seriously I've been very burnt out this last month. It's required quite a serious reflection on what I prioritise and how I respect my effort and time. I don't have the answers but I'm hoping that July (when I'm back from AIDS/Lifecycle and OHBM) I'll be able to start up a more sustainable work process.
+
+#### What would you like to work on next week?
+
+* I'm off to California! I'm going to do a little bit of work but not all that much! :bike::dash::dash::dash:
+* Ethics forms for surveys - ideally for BIDS, OHBM Hackathon & DSG
+* Introducing the EAG write up
+
+#### Where do you need help?
+
+* I think my out of office will help me a whole bunch
+
+#### Any other topics
+
 
 ### Date: 11th April 2018
 
@@ -58,7 +108,7 @@
 
 #### Where do you need help?
 
-* IS may be able to help me out with the NSPN network analyses 
+* IS may be able to help me out with the NSPN network analyses
 * I think the DSG team and NSPN longitudinal teams are being really wonderful at the moment & helping me a lot
 * I need to start training more for the half marathon, so if I can make sure to go for a few runs next week I think that would be really helpful.
 
