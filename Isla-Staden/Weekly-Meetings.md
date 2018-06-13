@@ -2,6 +2,7 @@
 
 ### 2018
 
+* [13 June 2018](#date-13th-june-2018)
 * [23 May 2018](#date-23rd-may-2018)
 * [8 May 2018](#date-8th-may-2018)
 * [25 April 2018](#date-25th-april-2018)
@@ -28,6 +29,60 @@
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+---
+
+### Date: 13th June 2018
+
+#### Who did you help this week?
+
+* I suppose you could argue that I helped KH be submitting a bug fix pull request to mogutda, but its a very selfserving kind of help
+
+#### Who helped you this week?
+
+* KH did me a massive service by releasing [mogutda](https://github.com/stephenhky/MoguTDA) as a standalone python package
+* BM with lacn
+
+#### What did you achieve?
+
+* What did you achieve with your CD time?
+	* Massive leaps forward on lacn- all that remains is to write some unit tests and start trying it out on brain data (and maybe speed things up meanwhile)
+* What did you achieve with your DAS time?
+	* I have not been making any time for this lately
+* Where's the sharing BIDS format MRI data paper at?
+	* PilotN03 data:
+		* Bids formatting complete
+		* individual freesurfer derivatives complete
+		* mriqc for func images complete
+		* mriqc for anat images encountering problems
+	* PiloN06 data:
+		* Bids formatting complete (validation still fails because mpms are not recognised and also funcs may be mislabelled)
+		* Working on slurm script to generate freesurfer derivatives. In theory everything should work, but in practice slurm wants absolutely nothing to do with the tasks i send it :moyai:
+	* UCHANGE data:
+		* Currently have the scripts drafted. It feels like something that I should submit to slurm because there are so many scans. However bidsification is barely longer than running dcm2nii so it probably wouldn't take longer than a day.
+* Where's the Brain Networks in Python paper at?
+	* Inspired by `tedana`'s speedy progress, I have been trying to make a big push on bnip
+
+#### What did you struggle with?
+
+* Responses to my MSc applications have been slow coming in. It's left me with this distracting weight on my mind. I was in a bit of a slump for the first week Kirstie was away
+
+#### Where do you need help from Kirstie?
+
+* I'd like to check with Kirstie, about the pilotN06 func images which have been failing bids validation with error
+```
+2: Bold scans must be 4 dimensional. (code: 54 - BOLD_NOT_4D)
+```
+and 
+```
+	3: Nifti file's header is missing time dimension information. (code: 75 - NIFTI_PIXDIM4)
+```
+Kirstie, do you know how these scans should be labelled?
+* Kirstie knows how to use slurm, which I have been struggling with. What I'll probably do is upload my work to the bidsifyingmri repo and we can work on it together there.
+
+#### Any other topics
+* When you have a moment, I'd love to hear what happened at the last data management meeting. 
+
 
 ---
 
