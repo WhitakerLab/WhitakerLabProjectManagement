@@ -26,6 +26,8 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Teenage Cancer Trust TYA Study Day](#teenage-cancer-trust-tya-study-day)
   * [Cambridge Computational Biology Institute Annual Symposium](#cambridge-computational-biology-institute-annual-symposium)
 * June
+  * [Mozilla Mini-WOW presentation at OHBM Hackathon](#mozilla-mini-wow-presentation-at-ohbm-hackathon)
+  * [Reusing Public Neuroimaging Datasets (an OHBM Educational Course)](#reusing-public-neuroimaging-datasets-an-ohbm-educational-course)
 * July
 * August
 * September
@@ -138,12 +140,16 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 ### The Educated Brain Policy Event at Westminster
 
+**Date**: 24th April 2018
+
 **Website**: http://www.neuroscience.cam.ac.uk/educatedbrain
 
 **Title**: Building networks in the adolescent brain
 
 
 ### Teenage Cancer Trust TYA Study Day
+
+**Date**: 16th May 2018
 
 **Title**: The (still) developing teenage brain
 
@@ -152,6 +158,8 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 ### Cambridge Computational Biology Institute Annual Symposium
 
+**Date**: 16th May 2018
+
 **Website**: https://www.eventbrite.co.uk/e/cambridge-computational-biology-institute-annual-symposium-tickets-45228862746
 
 **Title**: Structural brain development during adolescence and its relation to psychiatric disorders
@@ -159,6 +167,29 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 **Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. I will present my work within the Neuroscience in Psychiatry Network (NSPN; www.nspn.org.uk) on cortical myelination between the ages of 14 and 24. I will show, consistently in two cohorts, that age-related changes in adolescence are concentrated on the more densely connected hubs of the human structural connectome. I will demonstrate the power of integrating open data sets such as the Allen Brain Atlas with non-invasive imaging techniques: specifically by linking the expression of schizophrenia risk genes to adolescent brain development.
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
+
+### Mozilla Mini-WOW presentation at OHBM Hackathon
+
+**Date**: 15th June 2018
+
+**Title**: Building Open Communities
+
+**Slides**: http://bit.ly/OHBM2018-OpenComms-Slides
+
+**Etherpad**: http://bit.ly/OHBM2018-OpenComms-Pad
+
+
+### Reusing Public Neuroimaging Datasets (an OHBM Educational Course)
+
+**Date**: 17th June 2018
+
+**Title**: The devil is in the details: accessing phenotypic data for brain-behaviour relationships
+
+**Abstract**: Open neuroimaging datasets are fantastic resources for the community to develop new methods and validate existing analysis pipelines. But when the brain images are accompanied by additional information about the individuals in the dataset, we enter the world of population neuroscience (Paus, 2010), of being able to link deep imaging phenotypes to individual measures of behaviour over time (Poldrack et al, 2015), or of linking in vivo brain measures to posthumous measures of gene expression (Whitaker et al, 2016; Vertes et al, 2016). This section of the course will focus on understanding the increased privacy and ethical requirements for sharing phenotypic data. Planning a study that uses “other people’s data” is often not a free lunch; in particular each individual study will store data in slightly different ways and there is high variability in how easy these information are to access and re-use. We’ll discuss the importance of finding metadata to accompany the data itself, and of maintaining a healthy skepticism of data you did not collect yourself. We will also brainstorm - using an interactive slido voting poll - ways in which users can feedback errors or the location of missing information to the owners of the dataset to ensure that bugs are caught and the documentation improved. The end will be a call for participatory collaborative research, encouraging users to become contributors to the excellent shared resources so that everyone in the field of neuroimaging benefits from their existence.
+
+**Slides**: https://goo.gl/xYxCFe  
+
 
 ### Talk at Bernstein PhD Symposium
 

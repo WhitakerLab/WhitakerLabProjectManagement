@@ -12,8 +12,50 @@
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+### Date: 26th June 2018
 
-### Date: 22nd May 2018
+#### Who did you help this month?
+
+* My amazing donors [raised $10,000](http://www.tofighthiv.org/goto/kirstie) for the SF AIDS Foundation and the LA LGBT Center!
+* Helped to organise a really spectacular BrainHack & TrainTrack🚂 in Singapore
+
+
+#### Who helped you this week?
+
+* Ramona as the best Cal Team Captain #GoBears 🐻
+* [#Granisha](https://twitter.com/hashtag/granisha) and Felix for coordinating amazing collaborative spaces at OHBM 💕
+* RP submitted the [call for papers](https://www.journals.elsevier.com/neuroimage/call-for-papers/reproducibility-in-neuroimaging) for the Neuroimage special edition on reproducibility - excited for these submissions!
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+* GSoC appraisal in on time! PP is rocking it ✨
+* May OHBM Demo Call ()
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
+
+### Date: 25nd May 2018
 
 #### Who did you help this month?(!)
 
