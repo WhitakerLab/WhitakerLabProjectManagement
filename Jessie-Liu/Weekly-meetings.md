@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [28th June 2018](#date-28th-june-2018)
 * [18th May 2018](#date-18th-may-2018)
 * [25th April 2018](#date-25th-april-2018)
 * [11th April 2018](#date-11th-april-2018)
@@ -14,7 +15,41 @@
 * [18th October 2017](#date-18th-october-2017)
 
 
-### Date: 25th April 2018
+### Date: 28th June 2018
+
+#### Who did you help since last meeting?
+* Volunteered at the SAB working group and poster session.
+* SS on confounds in UKB data.
+* Explained KZ how CCA works.
+
+
+#### Who helped you since last meeting?
+* People came to my poster during OHBM raised good quesitons and feedbacks
+* AW discussed the heritability project with me and going to show my how to use SOLAR
+* KZ helped me interpreting the structrual measures
+
+#### What did you achieve?
+* Made a poster on UKB project
+* Presented my work at SAB poster session.
+* Presented poster at OHBM
+* Edited the manuscrip.
+* Had a few interview with AWS.
+
+#### What did you struggle with?
+* Jet lag :sleepy:
+
+#### What would you like to work on next week?
+* Edit the manuscrip: revisit some analysis on HCP project
+* Keep the UKB project going
+
+#### Where do you need help from Kirstie?
+* Feedback on manuscript :smiley:
+  
+  
+_________
+
+
+### Date: 18th May 2018
 
 #### Who did you help since last meeting?
 * Helped organising JF's group visiting the Turing.
