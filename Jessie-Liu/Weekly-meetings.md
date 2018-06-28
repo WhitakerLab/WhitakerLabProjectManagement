@@ -22,29 +22,34 @@
 * SS on confounds in UKB data.
 * Explained KZ how CCA works.
 
+KW: Great stuff! :sparkles:
 
 #### Who helped you since last meeting?
 * People came to my poster during OHBM raised good quesitons and feedbacks
 * AW discussed the heritability project with me and going to show my how to use SOLAR
-* KZ helped me interpreting the structrual measures
+* KZ helped me interpreting the structual measures
+
+KW: Fun - that's super helpful! :muscle:
 
 #### What did you achieve?
 * Made a poster on UKB project
 * Presented my work at SAB poster session.
 * Presented poster at OHBM
-* Edited the manuscrip.
-* Had a few interview with AWS.
+* Edited the manuscript
+* Had a few interview with AWS
 
 #### What did you struggle with?
 * Jet lag :sleepy:
 
 #### What would you like to work on next week?
-* Edit the manuscrip: revisit some analysis on HCP project
+* Edit the manuscript: revisit some analysis on HCP project
 * Keep the UKB project going
+  * :+1: think about a toy example that showcases the power of the multi-view :star2:
 
 #### Where do you need help from Kirstie?
 * Feedback on manuscript :smiley:
-  
+  * KW: In the calendar for Fri 6 July :sparkles:
+
   
 _________
 
