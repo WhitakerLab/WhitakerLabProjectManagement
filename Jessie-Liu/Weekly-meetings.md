@@ -1,5 +1,5 @@
 # Weekly Meetings
-
+* [10th July 2018](#date-10th-july-2018)
 * [28th June 2018](#date-28th-june-2018)
 * [18th May 2018](#date-18th-may-2018)
 * [25th April 2018](#date-25th-april-2018)
@@ -14,6 +14,27 @@
 * [1st November 2017](#date-1st-november-2017)
 * [18th October 2017](#date-18th-october-2017)
 
+### Date: 28th June 2018
+#### Who did you help since last meeting?
+* I was academically quite unhelpful last week apart from giving TP minor suggestion on the poster
+
+#### Who helped you since last meeting?
+* the orgnisers of summer school and participants who exlained their work to me. 
+
+#### What did you achieve?
+* an online test
+* MS AI summer school
+* Redid some analysis in HCP project; replot figures and edited the manuscript
+
+#### What did you struggle with?
+* replication of analysis :weary:
+* PhD finishing fear :scream: 
+
+#### What would you like to work on next week?
+* keep editing!
+* continue the UKB project
+
+_________
 
 ### Date: 28th June 2018
 
