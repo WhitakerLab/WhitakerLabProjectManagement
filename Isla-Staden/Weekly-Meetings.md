@@ -2,6 +2,7 @@
 
 ### 2018
 
+* [25 July 2018](#date-25th-july-2018)
 * [13 June 2018](#date-13th-june-2018)
 * [23 May 2018](#date-23rd-may-2018)
 * [8 May 2018](#date-8th-may-2018)
@@ -29,6 +30,40 @@
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+---
+
+### Date: 25th July 2018
+
+#### Who did you help this week?
+
+* Added to pybids documentation
+
+#### Who helped you this week?
+
+* The AMAZING mindcontrol team
+
+#### What did you achieve?
+
+* Mindcontrol working on HPHI (with caveats)
+* Call on bep001 + work on creating mpm example
+* LightlyProcessedRedcapData CTQ & RCMAS
+* guide to pybids 
+
+#### What did you struggle with?
+
+* Focusing! I have quite a lot of different things to keep track of
+
+#### What would you like to work on next week?
+
+* BNIP!
+
+#### Where do you need help from Kirstie?
+
+* when it comes to fmaps, should I copy them over from the data_ready folder? And if so what should I do about the fact that they don't have jsons? And if not, how do we recreate them?
+* 
+
+#### Any other topics
 
 ---
 
@@ -1220,7 +1255,8 @@ What's going to happen in June? How should I spend my time while Kirstie's is tr
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
+* PV & SW with lprcd
+* 
 
 #### Who helped you this week?
 
