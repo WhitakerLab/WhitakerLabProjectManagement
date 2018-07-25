@@ -38,17 +38,26 @@
 #### Who did you help this week?
 
 * Added to pybids documentation
+  * https://github.com/INCF/pybids/pull/214
+  * https://github.com/Islast/pybids/blob/master/examples/pybids%20tutorial.ipynb
+  * KW: SO COOL! Well done. You also explained it all to me :sparkles::star2::rocket:
 
 #### Who helped you this week?
 
 * The AMAZING mindcontrol team
+  * KW: I have been SO SO SO impressed with all this work! :heart:
+  * Currently in https://github.com/Shotgunosine/mindcontrol
 
 #### What did you achieve?
 
 * Mindcontrol working on HPHI (with caveats)
+  * Currently not 100% sure if the edits are saved....working on it....
 * Call on bep001 + work on creating mpm example
+  * KW: Really appreciate all your help with this extension!!
 * LightlyProcessedRedcapData CTQ & RCMAS
-* guide to pybids 
+  * KW: MERGED! So sorry for being slow on this - and THANK YOU!
+* guide to pybids
+  * KW: :sparkling_heart:
 
 #### What did you struggle with?
 
@@ -60,8 +69,9 @@
 
 #### Where do you need help from Kirstie?
 
-* when it comes to fmaps, should I copy them over from the data_ready folder? And if so what should I do about the fact that they don't have jsons? And if not, how do we recreate them?
-* 
+* When it comes to quantitative maps from MPM, should I copy them over from the data_ready folder? And if so what should I do about the fact that they don't have jsons? And if not, how do we recreate them?
+  * KW: :scream_cat: Aaaaah! We have to enter BIDS derivatives land!!
+  * I'll do that in Seattle - for now please could you set up the directory structures as we sketched on the whiteboard and I'll play with the code to wrap around them :smiley:
 
 #### Any other topics
 
