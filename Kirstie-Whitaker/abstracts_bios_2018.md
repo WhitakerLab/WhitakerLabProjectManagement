@@ -27,8 +27,8 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Teenage Cancer Trust TYA Study Day](#teenage-cancer-trust-tya-study-day)
   * [Cambridge Computational Biology Institute Annual Symposium](#cambridge-computational-biology-institute-annual-symposium)
 * June
-  * []()
-  * []()
+  * [TrainTrack at OHBM Hackathon](#traintrack-at-ohbm-hackathon)
+  * ["Reusing Public Neuroimaging Datasets" OHBM educational symposium](#reusing-public-neuroimaging-datasets-ohbm-educational-symposium)
 * July
   * [Talk at Neurohackademy](#talk-at-neurohackademy)
 * August
