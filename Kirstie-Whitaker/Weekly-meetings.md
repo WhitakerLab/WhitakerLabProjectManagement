@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [13th August 2018](#date-13th-august-2018)
 * [25th May 2018](#date-25th-may-2018)
 * [11th April 2018](#date-11th-april-2018)
 * [4th April 2018](#date-4th-april-2018)
@@ -12,6 +13,54 @@
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+
+### Date: 13th August 2018
+
+#### Who did you help this *last three months* 🙀?
+
+Ok, so I'm not **really** going to note all the things I've done in the last few months.
+Let's instead go for a few bullet points from [Neurohackademy](http://neurohackademy.org):
+
+* I taught a bunch of people a git & github workflow which lead to [Dan submitting a PR to Nilearn](https://twitter.com/DanJGale/status/1027357249553879041) that same day!! :sparkling_heart::heart_eyes::raised_hands:
+* I gave a [talk on collaborative working](http://bit.ly/NH18-OpenForAll-Slides) and thinking about how science should be open to all which quite a few people said was interesting. Here's the etherpad notes: bit.ly/NH18-OpenForAll-Pad.
+
+#### Who helped you this week?
+
+* All the participants during the hacking part of Neurohackademy were CRAZY inspirational - I really felt like they were picking up what I was putting down :sparkles:
+* RM taught me a bunch of cool stuff - particularly wrt `setup.py` and how it relates to `pip install`
+* CG helped with brainstorming some ways forwards for BEP001
+* IS made killer progress on Brain Networks in Python
+* PP did amazing work on the BIDS Starter Kit (got shouted out in Russ Poldrack's talk at INCF!)
+* Really really appreciated AR's mentorship over coffee in Seattle
+* Fernando Perez gave me a hug and listened to me while I cried and I think that's going to be a huge moment for assessing what's important in my life. Such an inspiration.
+
+#### What did you achieve?
+
+* Talk at Neurohackademy: bit.ly/NH18-OpenForAll-Slides
+* Collaborative working at Neurohackademy - lots of great issues & pull requests happening within the groups which was *exactly why I went*!
+* Got AK to apply to Moz Open Leaders (she's going to change the world)
+* Gave some feedback to CGvP's grant application
+
+#### What did you struggle with?
+
+* Oooph, I am behind on so many things. I'm finding it hard to move forwards and not get kinda overwhelmed by the to do list 😭
+
+#### What would you like to work on next week?
+
+* I really want to get to a point where I feel like my to do list is at least documented (I don't think it will ever be undercontrol!) I have no idea how achievable that is...but I do know that my phone is not the place to coordinate everything.
+* NSPN longitudinal day on Tuesday
+* DSG reports Wednesday
+* STEM Gamechangers reviews on Wednesday
+
+#### Where do you need help?
+
+* I want to try to be more strategic about what I say yes to....which is NOT easy for me. I think trying to actively seek help is a good idea. I'm not sure how but maybe I can try to open those conversations a little more.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+Ariel made a great point that writing is useful **to me**. To help collect thoughts together and to keep them organised. I'm going to try to remember that as I try to put off writing blog posts or updating this form. It may feel slower but it's actually faster in the long run, especially if it helps me get out of this constant fire extinguisher phase!! 🔥🚒😫
 
 ### Date: 22nd May 2018
 
