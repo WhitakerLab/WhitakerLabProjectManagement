@@ -40,6 +40,7 @@ Let's instead go for a few bullet points from [Neurohackademy](http://neurohacka
 * Collaborative working at Neurohackademy - lots of great issues & pull requests happening within the groups which was *exactly why I went*!
 * Got AK to apply to Moz Open Leaders (she's going to change the world)
 * Gave some feedback to CGvP's grant application
+* Got a bunch of other parcellations run on NSPN longitudinal data
 
 #### What did you struggle with?
 
