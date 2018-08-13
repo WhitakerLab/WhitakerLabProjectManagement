@@ -148,6 +148,8 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 **Title**: Building networks in the adolescent brain
 
+**Slides**:  https://doi.org/10.6084/m9.figshare.6177302
+
 
 ### Teenage Cancer Trust TYA Study Day
 
