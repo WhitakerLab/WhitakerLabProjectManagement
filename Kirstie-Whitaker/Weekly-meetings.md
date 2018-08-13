@@ -57,8 +57,12 @@ Let's instead go for a few bullet points from [Neurohackademy](http://neurohacka
 #### Where do you need help?
 
 * I want to try to be more strategic about what I say yes to....which is NOT easy for me. I think trying to actively seek help is a good idea. I'm not sure how but maybe I can try to open those conversations a little more.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* BEP001
+* NSPN FP
+* DSG reports
+* DS4S event website
+
+(these will all take longer than I have in 3 days this week....but lets see where i get to! :grimacing:)
 
 #### Any other topics
 
