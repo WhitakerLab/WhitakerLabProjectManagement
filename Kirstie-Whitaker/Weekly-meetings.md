@@ -41,6 +41,7 @@ Let's instead go for a few bullet points from [Neurohackademy](http://neurohacka
 * Got AK to apply to Moz Open Leaders (she's going to change the world)
 * Gave some feedback to CGvP's grant application
 * Got a bunch of other parcellations run on NSPN longitudinal data
+* Edits to PP's [final report for GSoC](https://github.com/INCF/BIDS-Starter-Kit/blob/cded291fd8c4a108e02ca76e023f1b47b06b675f/reports/Google-2018-report.md)
 
 #### What did you struggle with?
 
