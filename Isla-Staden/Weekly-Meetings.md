@@ -2,6 +2,7 @@
 
 ### 2018
 
+* [15 August 2018](#date-15th-august-2018)
 * [25 July 2018](#date-25th-july-2018)
 * [13 June 2018](#date-13th-june-2018)
 * [23 May 2018](#date-23rd-may-2018)
@@ -30,6 +31,36 @@
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+---
+
+### Date: 15th August 2018
+
+#### Who did you help this week?
+
+* Honestly, I'm not sure I helped anyone this week. I've been mostly wrapped up in my own work. I did give a friend a few pointers on using git though
+
+#### Who helped you this week?
+
+* Kirstie has already provided some IMMENSELY helpful feedback on bnip.
+
+#### What did you achieve?
+
+* Refactoring and most of the testing of core bnip modules, along with about 50% documentation, one good tutorial and finetuning the python package setup
+
+#### What did you struggle with?
+
+* Sometimes struggling with burnout
+
+#### What would you like to work on next week?
+
+* That's up to Kirstie. I'd like to push a bit longer to get a proper release of bnip (specifically I really want to get sphinx autodoc set up and pushing to whitakerlab.github.io + filling in this documentation + finish writing test suites), but there are nspn duties that need to be done before I leave.
+
+#### Where do you need help from Kirstie?
+
+* Discuss in meeting
+
+#### Any other topics
 
 ---
 
