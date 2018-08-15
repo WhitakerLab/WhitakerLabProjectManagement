@@ -38,15 +38,18 @@
 
 #### Who did you help this week?
 
-* Honestly, I'm not sure I helped anyone this week. I've been mostly wrapped up in my own work. I did give a friend a few pointers on using git though
+* Honestly, I'm not sure I helped anyone this week. I've been mostly wrapped up in my own work. I did give a friend a few pointers on using git though.
+  * KW: That totally counts! And you've been busting your butt to build a kick ass tool that's going to be super helpful for a lot of people :sparkles:
 
 #### Who helped you this week?
 
 * Kirstie has already provided some IMMENSELY helpful feedback on bnip.
+  * KW: :sparkles:
 
 #### What did you achieve?
 
 * Refactoring and most of the testing of core bnip modules, along with about 50% documentation, one good tutorial and finetuning the python package setup
+  * KW: YEAAAAAH :tada::balloon::cake:
 
 #### What did you struggle with?
 
@@ -55,12 +58,21 @@
 #### What would you like to work on next week?
 
 * That's up to Kirstie. I'd like to push a bit longer to get a proper release of bnip (specifically I really want to get sphinx autodoc set up and pushing to whitakerlab.github.io + filling in this documentation + finish writing test suites), but there are nspn duties that need to be done before I leave.
+  * KW: This all sounds great. Here's a little list of what we've discussed in person:
+  * BNIP :white_check_mark: get released to pip, check documentation and see how far you can get with a JOSS submission
+  * NSPN: BIDSified UCHANGE dataset - I'll do a first pass re: BEP001, but hopefully you can level it up
+  * PyBIDS: Be able to apply the validator using a config file to check UCHANGE dataset https://github.com/INCF/pybids/pull/231 :sparkles:
+  * Mindcontrol: Hopefully this is very close and I'd really love this to be working on the HPHI
 
 #### Where do you need help from Kirstie?
 
 * Discuss in meeting
+  * KW: BEP001 for BIDS
+  * KW: BNIP testing and review of documentation, release checklist
 
 #### Any other topics
+
+KW: Great work while I've been away - I'm so excited for BNIP!!! :scream::heart_eyes::muscle:
 
 ---
 
