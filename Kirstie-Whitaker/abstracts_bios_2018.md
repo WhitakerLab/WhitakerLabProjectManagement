@@ -22,6 +22,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Collaborations Workshop 2018](#collaborations-workshop-2018)
   * [Invited talk at CUBRIC](#invited-talk-at-CUBRIC)
 * April
+  * [The Educated Brain Policy Event at Westminster](#the-educated-brain-policy-event-at-westminster)
 * May
   * [Teenage Cancer Trust TYA Study Day](#teenage-cancer-trust-tya-study-day)
   * [Cambridge Computational Biology Institute Annual Symposium](#cambridge-computational-biology-institute-annual-symposium)
@@ -29,6 +30,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Mozilla Mini-WOW presentation at OHBM Hackathon](#mozilla-mini-wow-presentation-at-ohbm-hackathon)
   * [Reusing Public Neuroimaging Datasets (an OHBM Educational Course)](#reusing-public-neuroimaging-datasets-an-ohbm-educational-course)
 * July
+  * [Talk at Neurohackademy](#talk-at-neurohackademy)
 * August
 * September
   * [Talk at Bernstein PhD Symposium](#talk-at-bernstein-phd-symposium)
@@ -140,16 +142,18 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 ### The Educated Brain Policy Event at Westminster
 
-**Date**: 24th April 2018
+**Date**: 24 April 2018
 
-**Website**: http://www.neuroscience.cam.ac.uk/educatedbrain
+**Website**: http://www.neuroscience.cam.ac.uk/educatedbrain; http://www.neuroscience.cam.ac.uk/educatedbrain/assets/docs/Programme_WestminsterPolicy.pdf
 
 **Title**: Building networks in the adolescent brain
+
+**Slides**:  https://doi.org/10.6084/m9.figshare.6177302
 
 
 ### Teenage Cancer Trust TYA Study Day
 
-**Date**: 16th May 2018
+**Date**: 16 May 2018
 
 **Title**: The (still) developing teenage brain
 
@@ -162,16 +166,19 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 **Website**: https://www.eventbrite.co.uk/e/cambridge-computational-biology-institute-annual-symposium-tickets-45228862746
 
+**Date**: 16 May 2018
+
 **Title**: Structural brain development during adolescence and its relation to psychiatric disorders
 
 **Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. I will present my work within the Neuroscience in Psychiatry Network (NSPN; www.nspn.org.uk) on cortical myelination between the ages of 14 and 24. I will show, consistently in two cohorts, that age-related changes in adolescence are concentrated on the more densely connected hubs of the human structural connectome. I will demonstrate the power of integrating open data sets such as the Allen Brain Atlas with non-invasive imaging techniques: specifically by linking the expression of schizophrenia risk genes to adolescent brain development.
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
+###  Mozilla Mini-WOW presentation at OHBM Hackathon
 
-### Mozilla Mini-WOW presentation at OHBM Hackathon
+**Website**: https://ohbm.github.io/hackathon2018
 
-**Date**: 15th June 2018
+**Date**: 15 June 2018
 
 **Title**: Building Open Communities
 
@@ -191,9 +198,22 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 **Slides**: https://goo.gl/xYxCFe  
 
 
+### Talk at Neurohackademy
+
+**Website**: http://neurohackademy.org/neurohack_year/2018
+
+**Date**: 30 July 2018
+
+**Title**: Science: Open For All
+
+**Slides**: http://bit.ly/NH18-OpenForAll-Slides
+
+**Collaborative notes**: http://bit.ly/NH18-OpenForAll-Pad
+
+
 ### Talk at Bernstein PhD Symposium
 
-**Website**:
+**Website**: http://www.bernstein-network.de/en/bernstein-conference/2018/phd-symposium
 
 **Date**: 29th September 2018
 

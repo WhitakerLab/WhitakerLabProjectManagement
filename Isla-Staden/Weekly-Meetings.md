@@ -2,6 +2,9 @@
 
 ### 2018
 
+* [15 August 2018](#date-15th-august-2018)
+* [25 July 2018](#date-25th-july-2018)
+* [13 June 2018](#date-13th-june-2018)
 * [23 May 2018](#date-23rd-may-2018)
 * [8 May 2018](#date-8th-may-2018)
 * [25 April 2018](#date-25th-april-2018)
@@ -28,6 +31,146 @@
 * [26th May 2017](#date-26th-may-2017)
 * [19th May 2017](#date-19th-may-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+---
+
+### Date: 15th August 2018
+
+#### Who did you help this week?
+
+* Honestly, I'm not sure I helped anyone this week. I've been mostly wrapped up in my own work. I did give a friend a few pointers on using git though.
+  * KW: That totally counts! And you've been busting your butt to build a kick ass tool that's going to be super helpful for a lot of people :sparkles:
+
+#### Who helped you this week?
+
+* Kirstie has already provided some IMMENSELY helpful feedback on bnip.
+  * KW: :sparkles:
+
+#### What did you achieve?
+
+* Refactoring and most of the testing of core bnip modules, along with about 50% documentation, one good tutorial and finetuning the python package setup
+  * KW: YEAAAAAH :tada::balloon::cake:
+
+#### What did you struggle with?
+
+* Sometimes struggling with burnout
+
+#### What would you like to work on next week?
+
+* That's up to Kirstie. I'd like to push a bit longer to get a proper release of bnip (specifically I really want to get sphinx autodoc set up and pushing to whitakerlab.github.io + filling in this documentation + finish writing test suites), but there are nspn duties that need to be done before I leave.
+  * KW: This all sounds great. Here's a little list of what we've discussed in person:
+  * BNIP :white_check_mark: get released to pip, check documentation and see how far you can get with a JOSS submission
+  * NSPN: BIDSified UCHANGE dataset - I'll do a first pass re: BEP001, but hopefully you can level it up
+  * PyBIDS: Be able to apply the validator using a config file to check UCHANGE dataset https://github.com/INCF/pybids/pull/231 :sparkles:
+  * Mindcontrol: Hopefully this is very close and I'd really love this to be working on the HPHI
+
+#### Where do you need help from Kirstie?
+
+* Discuss in meeting
+  * KW: BEP001 for BIDS
+  * KW: BNIP testing and review of documentation, release checklist
+
+#### Any other topics
+
+KW: Great work while I've been away - I'm so excited for BNIP!!! :scream::heart_eyes::muscle:
+
+---
+
+### Date: 25th July 2018
+
+#### Who did you help this week?
+
+* Added to pybids documentation
+  * https://github.com/INCF/pybids/pull/214
+  * https://github.com/Islast/pybids/blob/master/examples/pybids%20tutorial.ipynb
+  * KW: SO COOL! Well done. You also explained it all to me :sparkles::star2::rocket:
+
+#### Who helped you this week?
+
+* The AMAZING mindcontrol team
+  * KW: I have been SO SO SO impressed with all this work! :heart:
+  * Currently in https://github.com/Shotgunosine/mindcontrol
+
+#### What did you achieve?
+
+* Mindcontrol working on HPHI (with caveats)
+  * Currently not 100% sure if the edits are saved....working on it....
+* Call on bep001 + work on creating mpm example
+  * KW: Really appreciate all your help with this extension!!
+* LightlyProcessedRedcapData CTQ & RCMAS
+  * KW: MERGED! So sorry for being slow on this - and THANK YOU!
+* guide to pybids
+  * KW: :sparkling_heart:
+
+#### What did you struggle with?
+
+* Focusing! I have quite a lot of different things to keep track of
+
+#### What would you like to work on next week?
+
+* BNIP!
+
+#### Where do you need help from Kirstie?
+
+* When it comes to quantitative maps from MPM, should I copy them over from the data_ready folder? And if so what should I do about the fact that they don't have jsons? And if not, how do we recreate them?
+  * KW: :scream_cat: Aaaaah! We have to enter BIDS derivatives land!!
+  * I'll do that in Seattle - for now please could you set up the directory structures as we sketched on the whiteboard and I'll play with the code to wrap around them :smiley:
+
+#### Any other topics
+
+---
+
+### Date: 13th June 2018
+
+#### Who did you help this week?
+
+* I suppose you could argue that I helped KH be submitting a bug fix pull request to mogutda, but its a very selfserving kind of help
+
+#### Who helped you this week?
+
+* KH did me a massive service by releasing [mogutda](https://github.com/stephenhky/MoguTDA) as a standalone python package
+* BM with lacn
+
+#### What did you achieve?
+
+* What did you achieve with your CD time?
+	* Massive leaps forward on lacn- all that remains is to write some unit tests and start trying it out on brain data (and maybe speed things up meanwhile)
+* What did you achieve with your DAS time?
+	* I have not been making any time for this lately
+* Where's the sharing BIDS format MRI data paper at?
+	* PilotN03 data:
+		* Bids formatting complete
+		* individual freesurfer derivatives complete
+		* mriqc for func images complete
+		* mriqc for anat images encountering problems
+	* PiloN06 data:
+		* Bids formatting complete (validation still fails because mpms are not recognised and also funcs may be mislabelled)
+		* Working on slurm script to generate freesurfer derivatives. In theory everything should work, but in practice slurm wants absolutely nothing to do with the tasks i send it :moyai:
+	* UCHANGE data:
+		* Currently have the scripts drafted. It feels like something that I should submit to slurm because there are so many scans. However bidsification is barely longer than running dcm2nii so it probably wouldn't take longer than a day.
+* Where's the Brain Networks in Python paper at?
+	* Inspired by `tedana`'s speedy progress, I have been trying to make a big push on bnip
+
+#### What did you struggle with?
+
+* Responses to my MSc applications have been slow coming in. It's left me with this distracting weight on my mind. I was in a bit of a slump for the first week Kirstie was away
+
+#### Where do you need help from Kirstie?
+
+* I'd like to check with Kirstie, about the pilotN06 func images which have been failing bids validation with error
+```
+2: Bold scans must be 4 dimensional. (code: 54 - BOLD_NOT_4D)
+```
+and 
+```
+	3: Nifti file's header is missing time dimension information. (code: 75 - NIFTI_PIXDIM4)
+```
+Kirstie, do you know how these scans should be labelled?
+* Kirstie knows how to use slurm, which I have been struggling with. What I'll probably do is upload my work to the bidsifyingmri repo and we can work on it together there.
+
+#### Any other topics
+* When you have a moment, I'd love to hear what happened at the last data management meeting. 
+
 
 ---
 
@@ -1165,7 +1308,8 @@ What's going to happen in June? How should I spend my time while Kirstie's is tr
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
+* PV & SW with lprcd
+* 
 
 #### Who helped you this week?
 
