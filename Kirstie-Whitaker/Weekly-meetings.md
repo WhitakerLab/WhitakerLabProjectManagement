@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [21st August 2018](#date-21st-august-2018)
 * [13th August 2018](#date-13th-august-2018)
 * [26th June 2018](#date=26th-june-2018)
 * [25th May 2018](#date-25th-may-2018)
@@ -14,7 +15,7 @@
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
 
-### Date: [INSERT DATE OF MEETING]
+### Date: 21st August 2018
 
 #### Who did you help this week?
 
@@ -23,6 +24,7 @@
 #### Who helped you this week?
 
 * I made a really difficult decision and a bunch of people have been really really supportive which has felt amazing. THANK YOU 💕💖💞
+* Literally burst into tears in the middle of a meeting and my colleagues were awesome :sob::heartpulse::tired_face:
 
 #### What did you achieve?
 
