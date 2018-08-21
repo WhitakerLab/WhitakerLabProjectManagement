@@ -14,6 +14,45 @@
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
 
+### Date: [INSERT DATE OF MEETING]
+
+#### Who did you help this week?
+
+* I'm not convinced I helped anyone this week. I did reply to some emails that I had been sitting on....so that's a pretty low bar to clear for next week :grimacing:
+
+#### Who helped you this week?
+
+* I made a really difficult decision and a bunch of people have been really really supportive which has felt amazing. THANK YOU 💕💖💞
+
+#### What did you achieve?
+
+* Big achievement was to get the [raincloud plots tutorials up](https://github.com/RainCloudPlots/RainCloudPlots) and running on [binder](https://mybinder.org/v2/gh/RainCloudPlots/RainCloudPlots/master?filepath=tutorial_python%2Fraincloud_tutorial_python.ipynb)! Preprint submitted today :scream::sparkles::heart_eyes_cat:
+* It was also the end of the Google Summer of Code so [we got a final report archived](https://github.com/INCF/BIDS-Starter-Kit/blob/master/reports/Google-2018-report.md) showcasing Patrick's work :smiley::sparkles::raised_hands:
+  * This included getting a backup of the wiki into the repo (finally!)
+  * And a zenodo doi: https://doi.org/10.5281/zenodo.1342121
+* I [quit the "gym"](https://youtu.be/-_LM2ZlbmP8) which feels really stressful but also awesome.
+* Reviewed applications for Gamechangers in STEM
+* Posted blog post re: citing works in progress: https://whitakerlab.github.io/blog/Citing-WIPs
+* Sent bio to SFN and got excited about seeing old friends
+* Sent out email notification for Matt's talk (finally :disappointed:)
+
+#### What did you struggle with?
+
+* Switching off, and overpromising. The usual.
+
+#### What would you like to work on next week?
+
+* Need to do some NSPN data management
+* Want to take BEP001 forwards - call this evening 😺
+* DS4ED event website is close but not quite there - needs to launch by end of the week.
+* Bit of DAS
+* Review BNIP
+* Definitely regroup re: Champions project
+
+#### Where do you need help?
+
+* I can't think of anything at the moment - will try harder to think of ways for people to help me!
+
 
 ### Date: 13th August 2018
 
