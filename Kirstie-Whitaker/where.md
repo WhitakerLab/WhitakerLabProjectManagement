@@ -229,7 +229,7 @@ Date | Day   | City, Country                | Event
 23   | Sat   | 🏞️ Lake district, UK         | Lake District with family
 24   | Sun   | 🏞️ Lake district, UK         | Lake District with family
 25   | Mon   | 🏞️ Lake district, UK         | Lake District with family
-26   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
+26   | Tue   | :uk: London, UK              | Working at Turing Institute 
 27   | Wed   | :uk: London, UK              | Working at Turing Institute   
 28   | Thurs | :uk: London, UK              | Working at Turing Institute   
 29   | Fri   | :uk: London, UK              | Working at Turing Institute   

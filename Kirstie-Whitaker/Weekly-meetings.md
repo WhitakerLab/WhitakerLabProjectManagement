@@ -1,6 +1,8 @@
 # Weekly Meetings
 
+* [21st August 2018](#date-21st-august-2018)
 * [13th August 2018](#date-13th-august-2018)
+* [26th June 2018](#date=26th-june-2018)
 * [25th May 2018](#date-25th-may-2018)
 * [11th April 2018](#date-11th-april-2018)
 * [4th April 2018](#date-4th-april-2018)
@@ -12,6 +14,46 @@
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+### Date: 21st August 2018
+
+#### Who did you help this week?
+
+* I'm not convinced I helped anyone this week. I did reply to some emails that I had been sitting on....so that's a pretty low bar to clear for next week :grimacing:
+
+#### Who helped you this week?
+
+* I made a really difficult decision and a bunch of people have been really really supportive which has felt amazing. THANK YOU 💕💖💞
+* Literally burst into tears in the middle of a meeting and my colleagues were awesome :sob::heartpulse::tired_face:
+
+#### What did you achieve?
+
+* Big achievement was to get the [raincloud plots tutorials up](https://github.com/RainCloudPlots/RainCloudPlots) and running on [binder](https://mybinder.org/v2/gh/RainCloudPlots/RainCloudPlots/master?filepath=tutorial_python%2Fraincloud_tutorial_python.ipynb)! Preprint submitted today :scream::sparkles::heart_eyes_cat:
+* It was also the end of the Google Summer of Code so [we got a final report archived](https://github.com/INCF/BIDS-Starter-Kit/blob/master/reports/Google-2018-report.md) showcasing Patrick's work :smiley::sparkles::raised_hands:
+  * This included getting a backup of the wiki into the repo (finally!)
+  * And a zenodo doi: https://doi.org/10.5281/zenodo.1342121
+* I [quit the "gym"](https://youtu.be/-_LM2ZlbmP8) which feels really stressful but also awesome.
+* Reviewed applications for Gamechangers in STEM
+* Posted blog post re: citing works in progress: https://whitakerlab.github.io/blog/Citing-WIPs
+* Sent bio to SFN and got excited about seeing old friends
+* Sent out email notification for Matt's talk (finally :disappointed:)
+
+#### What did you struggle with?
+
+* Switching off, and overpromising. The usual.
+
+#### What would you like to work on next week?
+
+* Need to do some NSPN data management
+* Want to take BEP001 forwards - call this evening 😺
+* DS4ED event website is close but not quite there - needs to launch by end of the week.
+* Bit of DAS
+* Review BNIP
+* Definitely regroup re: Champions project
+
+#### Where do you need help?
+
+* I can't think of anything at the moment - will try harder to think of ways for people to help me!
 
 
 ### Date: 13th August 2018
@@ -67,6 +109,40 @@ Let's instead go for a few bullet points from [Neurohackademy](http://neurohacka
 #### Any other topics
 
 Ariel made a great point that writing is useful **to me**. To help collect thoughts together and to keep them organised. I'm going to try to remember that as I try to put off writing blog posts or updating this form. It may feel slower but it's actually faster in the long run, especially if it helps me get out of this constant fire extinguisher phase!! 🔥🚒😫
+
+### Date: 26th June 2018
+
+#### Who did you help this month?
+
+* My amazing donors [raised $10,000](http://www.tofighthiv.org/goto/kirstie) for the SF AIDS Foundation and the LA LGBT Center!
+* Helped to organise a really spectacular BrainHack & TrainTrack🚂 in Singapore (https://ohbm.github.io/hackathon2018)
+
+
+#### Who helped you this week?
+
+* Ramona as the best Cal Team Captain #GoBears 🐻
+* [#Granisha](https://twitter.com/hashtag/granisha) and Felix for coordinating amazing collaborative spaces at OHBM 💕
+* RP submitted the [call for papers](https://www.journals.elsevier.com/neuroimage/call-for-papers/reproducibility-in-neuroimaging) for the Neuroimage special edition on reproducibility - excited for these submissions!
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+* GSoC appraisal in on time! PP is rocking it ✨
+* May OHBM Demo Call (https://www.ohbmbrainmappingblog.com/blog/may-ohbm-open-science-demo-call)
+
+#### What did you struggle with?
+
+* (Ran out of time so this section is missing 😞)
+
+#### What would you like to work on next week?
+
+* (Ran out of time so this section is missing 😞)
+
+#### Where do you need help?
+
+* (Ran out of time so this section is missing 😞)
+
 
 ### Date: 22nd May 2018
 

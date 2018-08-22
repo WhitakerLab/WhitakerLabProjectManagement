@@ -27,14 +27,16 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Teenage Cancer Trust TYA Study Day](#teenage-cancer-trust-tya-study-day)
   * [Cambridge Computational Biology Institute Annual Symposium](#cambridge-computational-biology-institute-annual-symposium)
 * June
-  * [TrainTrack at OHBM Hackathon](#traintrack-at-ohbm-hackathon)
-  * ["Reusing Public Neuroimaging Datasets" OHBM educational symposium](#reusing-public-neuroimaging-datasets-ohbm-educational-symposium)
+  * [Mozilla Mini-WOW presentation at OHBM Hackathon](#mozilla-mini-wow-presentation-at-ohbm-hackathon)
+  * [Reusing Public Neuroimaging Datasets (an OHBM Educational Course)](#reusing-public-neuroimaging-datasets-an-ohbm-educational-course)
 * July
+  * [Turing Interns: git and GitHub training](#turing-interns-git-and-github-training)
   * [Talk at Neurohackademy](#talk-at-neurohackademy)
 * August
 * September
   * [Talk at Bernstein PhD Symposium](#talk-at-bernstein-phd-symposium)
 * October
+  * [Talk at Goodenough College (the sequel!)](#talk-at-goodenough-college-the-sequel)
 * November
 * December
 
@@ -162,6 +164,8 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 ### Cambridge Computational Biology Institute Annual Symposium
 
+**Date**: 16th May 2018
+
 **Website**: https://www.eventbrite.co.uk/e/cambridge-computational-biology-institute-annual-symposium-tickets-45228862746
 
 **Date**: 16 May 2018
@@ -172,7 +176,7 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
-### TrainTrack at OHBM Hackathon
+###  Mozilla Mini-WOW presentation at OHBM Hackathon
 
 **Website**: https://ohbm.github.io/hackathon2018
 
@@ -182,23 +186,34 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 **Slides**: http://bit.ly/OHBM2018-OpenComms-Slides
 
-**Collaborative notes**: http://bit.ly/OHBM2018-OpenComms-Pad
+**Etherpad**: http://bit.ly/OHBM2018-OpenComms-Pad
 
-### "Reusing Public Neuroimaging Datasets" OHBM educational symposium
 
-**Website**: https://www.humanbrainmapping.org/files/2018/ED/Reusing%20Public%20Neuroimaging%20Datasets.pdf
+### Reusing Public Neuroimaging Datasets (an OHBM Educational Course)
 
-**Date**: 17 June 2018
+**Date**: 17th June 2018
 
-**Title**: The devil is in the details: accessing phenotypic data for brain-
-behaviour relationships
+**Title**: The devil is in the details: accessing phenotypic data for brain-behaviour relationships
 
-**Abstract**:
-Open neuroimaging datasets are fantastic resources for the community to develop new methods and validate existing analysis pipelines. But when the brain images are accompanied by additional information about the individuals in the dataset, we enter the world of population neuroscience (Paus, 2010), of being able to link deep imaging phenotypes to individual measures of behaviour over time (Poldrack et al, 2015), or of linking in vivo brain measures to posthumous measures of gene expression (Whitaker et al, 2016; Vertes et al, 2016). This section of the course will focus on understanding the increased privacy and ethical requirements for sharing phenotypic data. Planning a study that uses “other people’s data” is often not a free lunch; in particular each individual study will store data in slightly different ways and there is high variability in how easy these information are to access and re-use. We’ll discuss the importance of finding metadata to accompany the data itself, and of maintaining a healthy skepticism of data you did not collect yourself. We will also brainstorm - using an interactive slido voting poll - ways in which users can feedback errors or the location of missing information to the owners of the dataset to ensure that bugs are caught and the documentation improved. The end will be a call for participatory collaborative research, encouraging users to become contributors to the excellent shared resources so that everyone in the field of neuroimaging benefits from their existence.
+**Abstract**: Open neuroimaging datasets are fantastic resources for the community to develop new methods and validate existing analysis pipelines. But when the brain images are accompanied by additional information about the individuals in the dataset, we enter the world of population neuroscience (Paus, 2010), of being able to link deep imaging phenotypes to individual measures of behaviour over time (Poldrack et al, 2015), or of linking in vivo brain measures to posthumous measures of gene expression (Whitaker et al, 2016; Vertes et al, 2016). This section of the course will focus on understanding the increased privacy and ethical requirements for sharing phenotypic data. Planning a study that uses “other people’s data” is often not a free lunch; in particular each individual study will store data in slightly different ways and there is high variability in how easy these information are to access and re-use. We’ll discuss the importance of finding metadata to accompany the data itself, and of maintaining a healthy skepticism of data you did not collect yourself. We will also brainstorm - using an interactive slido voting poll - ways in which users can feedback errors or the location of missing information to the owners of the dataset to ensure that bugs are caught and the documentation improved. The end will be a call for participatory collaborative research, encouraging users to become contributors to the excellent shared resources so that everyone in the field of neuroimaging benefits from their existence.
 
-**Slides**: [goo.gl/xYxCFe](https://goo.gl/xYxCFe)
+**Slides**: https://goo.gl/xYxCFe  
 
-**Collaborative notes**: [goo.gl/5uxjm2](https://goo.gl/5uxjm2)
+
+### Turing Interns: git and GitHub training
+
+**Website**: https://kirstiejane.github.io/friendly-github-intro
+
+**Date**: 6 July 2018
+
+**Title**: Collaborative Working with Git and GitHub
+
+**Abstract**: As part of your internship we have organised a session on reproducible research from 10:00am -12:00pm this Friday. It will take place on the second floor and will be run by Kirstie Whitaker, a Research Fellow here at the Turing. The session will discuss broadly why reproducible research is important, but also focus on GitHub, a free and open source platform that can help you build projects that are collaborative, well documented, and version-controlled. These are all attributes of a very successful Data Science summer enterprise!
+
+ Kirstie will introduce you to the GitHub ecosystem, explain the common (and somewhat jargon-y) terms, and outline a couple of basic GitHub workflows. Some of you will know this already, for others it will be very new. During the 2 hour workshop you will work together to learn from each other how to navigate the Alan Turing Institute organisation and submit and merge a pull request. We will discuss the importance of collaborative and reproducible working, and set you up for success during your internship. This is fantastic opportunity for you to discover a new way to manage research and, even for those of you already familiar with GitHub, is something that will benefit you moving forward in your careers.
+
+**Etherpad**: https://etherpad.net/p/2018-07-06-friendly-github-intro
+
 
 ### Talk at Neurohackademy
 
@@ -226,6 +241,17 @@ Open neuroimaging datasets are fantastic resources for the community to develop 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine. You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
 **Slides**:
+
+
+### Talk at Goodenough College (the sequel!)
+
+**Date**: 22 October 2018
+
+**Title**: Barriers to reproducible research (and how to overcome them)
+
+**Abstract**: After dinner Dr Whitaker will define reproducible research as analyses can be recreated in full by an independent scientist. She will discuss the perceived and actual barriers experienced by researchers attempting to conduct reproducible research, and give practical guidance on how they can be overcome. The talk will include suggestions on how to make your code and data available and usable for others while acknowledging the structural barriers put in place by the academic incentive system. All audience members will leave knowing there is something they can do to step towards making their research reproducible, and that "every little helps" towards building an academic culture that rewards such behaviour.
+
+**Bio**: Kirstie Whitaker is a research fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and she is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 ---
 
