@@ -40,35 +40,46 @@
 #### Who did you help this week?
 
 * :anguished: I don't know.
+  * KW: In person: you advocated for clear git commit usage! Not rewriting history :white_check_mark:
 
 #### Who helped you this week?
 
-* RM with his kind words about the bnip dev guide
+* RM with his [kind words](https://github.com/WhitakerLab/BrainNetworksInPython/pull/78#issuecomment-414415183) about the bnip dev guide
 
 #### What did you achieve?
 
 * docstrings for all bnip functions and classes
 * generation of sphinx documentation
 * developers guide for bnip
-* 
+
+KW: Spec-freaking-tacular!! I LOVE IT ALL!!
 
 #### What did you struggle with?
 
 * justifying the changeover from master to dev in bnip. A couple of things have changed and I just don't know why.
+  * KW: DETECTIVE WORK COMPLETE!! :mag:
+    * participation coefficient -- still to track down - currently writing out the right values in the wrong order!
+    * shortest path - typo in the code
+    * effiency - new function in networkx - use that one :)
 * looking back on this week all I can remember is a hectic blur
 
 #### What would you like to work on next week?
 
 * BIDS : let's crush it. :fist:
+  * KW: WOOOOOO - yes! Thank you for sketching this out with me! 
 * mindcontrol
+  * KW: Yes please :sparkles:
 
 #### Where do you need help from Kirstie?
 
 * Establishing a format for BIDS :moyai:
 * Collaborating on mindcontrol to find a way that two users can access it
 * reviewing bnip changes
+  * :white_check_mark: BOOM - these are looking awesome. I think we're ready to merge once we've made two back up versions!
 
 #### Any other topics
+
+Make sure to take the weekend off!! You've done SO MUCH in the last few weeks!!
 
 ---
 
