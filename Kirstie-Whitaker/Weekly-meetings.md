@@ -21,7 +21,7 @@
 #### Who did you help this week?
 
 * Wrote a letter of support for YH scholarship application - fingers crossed for her.
-* 
+* I think I made some good comments to the civil service visitors in our meeting :smiley:
 
 #### Who helped you this week?
 
@@ -55,24 +55,30 @@
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* I didn't get comments to AL as I had hoped.
+* I didn't get as much BIDS stuff done as I'd hoped.
+* I had a couple of really big emotional plunges in response to emails/slack messages that bummed me out. Felt better the morning after but stil :weary:
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* NSPN analyses w PV.
+* Comments to AL on his paper.
+* Comments to HG on his paper.
+* BEP001 fun times.
+* DAS figures.
+* Regroup re: Champions
+* Read safe haven wiki & give feedback.
+* EAG reviews.
 
 #### Where do you need help?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Maybe arrange mentorship chats with BM and JH about strategic career moves.
 
 #### Any other topics
 
-This space is yours to add to as needed.
+WOAH I did a lot this week! I didn't realise it until I'd written it all down. So note to self: keep track of these things because it definitely felt like I'd done nothing all week when actually I'd done LOADS!
+
+I do need to protect time for writing and strategy though. I've blocked off some time next week. Fingers crossed that works.
 
 ### Date: 21st August 2018
 
