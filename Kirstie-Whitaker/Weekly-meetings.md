@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [30th August 2018](#date-30th-august-2018)
 * [21st August 2018](#date-21st-august-2018)
 * [13th August 2018](#date-13th-august-2018)
 * [26th June 2018](#date=26th-june-2018)
@@ -14,6 +15,64 @@
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+### Date: 30th August 2018
+
+#### Who did you help this week?
+
+* Wrote a letter of support for YH scholarship application - fingers crossed for her.
+* 
+
+#### Who helped you this week?
+
+* James was a super hero packing all those boxes
+* I literally hugged GC at the end of our meeting - his data is so beautiful and useful!
+* PV as usual for being a super rockstar and a fantastic friend.
+* IS for building such a cool piece of software for BNIP!
+  * Particularly adore the developer guide: https://github.com/WhitakerLab/BrainNetworksInPython/blob/e4652355de806148a179bdf332c8386896890f14/CONTRIBUTING.md#development-guide
+
+#### What did you achieve?
+
+* Published the RainCloudPlots preprint!! https://peerj.com/preprints/27137
+  * Got the code on GitHub: https://github.com/RainCloudPlots/RainCloudPlots
+  * Crazy proud of the binder integrations for R and Python: https://github.com/RainCloudPlots/RainCloudPlots#interactive-tutorials-online
+  * Already got a couple of pull requests to make it better :sparkling_heart::sparkles::heart_eyes: https://github.com/RainCloudPlots/RainCloudPlots/pulls
+  * And we were retweeted more than 500 times and liked more than 1000 times!! https://twitter.com/neuroconscience/status/1032975850143195138
+* Hosted MB at the Turing for a talk - really fun (and crazy delicious lunch at Dishoom!)
+* Met with civil service representatives for a consultation (Chatham House rules so can't share but was really fascinating!)
+* Attended Data Trusts event at Turing - interesting but nothing all that new - made me care more about the data safe haven project :laughing:
+* Reviewed BNIP developer guide
+* Wrote contributing guidelines for safe haven project.
+* Hosted second BEP001 call: https://docs.google.com/document/d/19fDhBz3SGH4WF437e-HZy_JpFiM4lrJajoRQwRf5AnE/edit?usp=sharing
+* Letter of support for YH scholarship application.
+* Let the OHBM Open Science nominees know the outcome.
+* Edited blog transcript for OHBM interview w EMDP.
+* Reviewed applications for ethics RA position.
+* Completed 50 OpenCon reviews
+* Updated Data Science for Experimental Design website: https://datascienceforexperimentaldesign.github.io
+* Made some progress on figuring out problems with the MRI processing code.
+* Moved house!!!!  :package::package::package::house::city_sunrise::city_sunset:
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
 
 ### Date: 21st August 2018
 
