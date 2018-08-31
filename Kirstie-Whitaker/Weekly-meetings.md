@@ -45,6 +45,7 @@
 * Wrote contributing guidelines for safe haven project.
 * Hosted second BEP001 call: https://docs.google.com/document/d/19fDhBz3SGH4WF437e-HZy_JpFiM4lrJajoRQwRf5AnE/edit?usp=sharing
 * Letter of support for YH scholarship application.
+* Feedback to RM for Mozilla mini grant application.
 * Let the OHBM Open Science nominees know the outcome.
 * Edited blog transcript for OHBM interview w EMDP.
 * Reviewed applications for ethics RA position.
