@@ -35,6 +35,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * August
 * September
   * [Talk at Bernstein PhD Symposium](#talk-at-bernstein-phd-symposium)
+  * [Talk at Cambridge Psychiatry Departmental Seminar](#talk-at-cambridge-psychiatry-departmental-seminar)
 * October
   * [Talk at Goodenough College (the sequel!)](#talk-at-goodenough-college-the-sequel)
 * November
@@ -191,13 +192,17 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 ### Reusing Public Neuroimaging Datasets (an OHBM Educational Course)
 
-**Date**: 17th June 2018
+**Website**: https://www.humanbrainmapping.org/files/2018/ED/Reusing%20Public%20Neuroimaging%20Datasets.pdf
+
+**Date**: 17 June 2018
 
 **Title**: The devil is in the details: accessing phenotypic data for brain-behaviour relationships
 
 **Abstract**: Open neuroimaging datasets are fantastic resources for the community to develop new methods and validate existing analysis pipelines. But when the brain images are accompanied by additional information about the individuals in the dataset, we enter the world of population neuroscience (Paus, 2010), of being able to link deep imaging phenotypes to individual measures of behaviour over time (Poldrack et al, 2015), or of linking in vivo brain measures to posthumous measures of gene expression (Whitaker et al, 2016; Vertes et al, 2016). This section of the course will focus on understanding the increased privacy and ethical requirements for sharing phenotypic data. Planning a study that uses “other people’s data” is often not a free lunch; in particular each individual study will store data in slightly different ways and there is high variability in how easy these information are to access and re-use. We’ll discuss the importance of finding metadata to accompany the data itself, and of maintaining a healthy skepticism of data you did not collect yourself. We will also brainstorm - using an interactive slido voting poll - ways in which users can feedback errors or the location of missing information to the owners of the dataset to ensure that bugs are caught and the documentation improved. The end will be a call for participatory collaborative research, encouraging users to become contributors to the excellent shared resources so that everyone in the field of neuroimaging benefits from their existence.
 
-**Slides**: https://goo.gl/xYxCFe  
+**Slides**: [goo.gl/xYxCFe](https://goo.gl/xYxCFe)
+
+**Collaborative notes**: [goo.gl/5uxjm2](https://goo.gl/5uxjm2)
 
 
 ### Turing Interns: git and GitHub training
@@ -228,6 +233,19 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 **Collaborative notes**: http://bit.ly/NH18-OpenForAll-Pad
 
 
+### Talk at Cambridge Psychiatry Departmental Seminar
+
+**Date**: 27th September 2018
+
+**Title**: Barriers to reproducible research (and how to overcome them)
+
+**Abstract**: This talk will define reproducible research as analyses can be recreated in full by an independent scientist. Dr Whitaker will discuss the perceived and actual barriers experienced by researchers attempting to conduct reproducible research, and give practical guidance on how they can be overcome. The talk will include suggestions on how to make your code and data available and usable for others (including a strong suggestion to document both clearly so you don’t have to reply to lots of email questions from future users...or yourself when that revise and submit decision comes through!). Kirstie will cover a brief guide to version control, collaboration and dissemination using GitHub as well as a discussion of tools to help you work reproducibly from the start. Exercises and resources will be persistently available after the talk and all audience members will leave knowing there is something they can do to step towards making their research reproducible.
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine. You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io).
+
+**Slides**:
+
+
 ### Talk at Bernstein PhD Symposium
 
 **Website**: http://www.bernstein-network.de/en/bernstein-conference/2018/phd-symposium
@@ -243,7 +261,7 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 **Slides**:
 
 
-### Talk at Goodenough College (the sequel!)
+### Talk at Goodenough College (the sequel)
 
 **Date**: 22 October 2018
 
@@ -252,6 +270,8 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 **Abstract**: After dinner Dr Whitaker will define reproducible research as analyses can be recreated in full by an independent scientist. She will discuss the perceived and actual barriers experienced by researchers attempting to conduct reproducible research, and give practical guidance on how they can be overcome. The talk will include suggestions on how to make your code and data available and usable for others while acknowledging the structural barriers put in place by the academic incentive system. All audience members will leave knowing there is something they can do to step towards making their research reproducible, and that "every little helps" towards building an academic culture that rewards such behaviour.
 
 **Bio**: Kirstie Whitaker is a research fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and she is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
+**Slides**:
 
 ---
 
