@@ -38,7 +38,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Talk at Cambridge Psychiatry Departmental Seminar](#talk-at-cambridge-psychiatry-departmental-seminar)
 * October
   * [Withington Girls' School founders day](#withington-girls-school-founders-day)
-  * [Careers & Training in Health Data Science](#careers-training-in-health-data-science)
+  * [Careers & Training in Health Data Science](#careers--training-in-health-data-science)
   * [Talk at Goodenough College (the sequel!)](#talk-at-goodenough-college-the-sequel)
 * November
 * December
