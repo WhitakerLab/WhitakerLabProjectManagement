@@ -1,6 +1,44 @@
 # Weekly meetings 
 
+* [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+
+### Date: 19 October 2018
+
+#### Who did you help this week?
+* Ran an event - so helped ab out 40 people feel happy and more confident about data science in health 
+
+#### Who helped you this week?
+* AF helped me recover from my sister's wedding
+
+#### What did you achieve?
+
+* 2nd draft of my paper
+* Data Camp course
+* MSc projects (compare methods & Code of Conduct)
+* Reviewer for abstracts for King's Fund & Innovate UK
+* Ethics for consumer data (90% there)
+* Data cleaning for policy paper - hopefully dandy end of next week
+
+#### What did you struggle with?
+* GitHub
+* Having to clean all my policy data for the second time, but this time was a lot easier (woop)
+
+
+#### What would you like to work on next week?
+* Finish my policy re-writing & analysis
+
+
+#### Where do you need help from Kirstie?
+* GitHub
+* Comments on paper
+
+#### Any other topics
+
+
+
+
 
 ### Date: 1 October 2018
 
