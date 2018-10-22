@@ -36,6 +36,7 @@ Get this back on track to Monday morning activities... therefore not a lot to ad
 * Finish the analysis of my policy project and assimilate in a way that can be looked at, reach out to RA as busy with new baby
 * Start to draft a proposal for the AI in health supplement
 * Have a whack at doing my methods diagram 
+* Finish my ehtics (which I KEEP putting off)
 
 #### Where do you need help from Kirstie?
 
