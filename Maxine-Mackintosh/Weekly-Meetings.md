@@ -1,7 +1,48 @@
 # Weekly meetings 
 
+* [22 October 2018](#date-1-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+
+
+### Date: 22 October 2018
+
+Get this back on track to Monday morning activities... therefore not a lot to add since our last meeting on Friday
+
+#### Who did you help this week?
+
+* Not a lot of bonus helping happened between Friday and Monday morning....
+* I helped the OHT London Hub team in organising their next event by writing a full briefing for all the speakers
+* I helped a universtiy student who had written lots of introductions to big topics in healhtech by doing some serious editing on them all and making sure they made sense. It was a good attempt for a 2nd year politics student though! 
+
+#### Who helped you this week?
+
+* AF helped me be happy as he always does 
+* KW gave up lots of time to help me work through articulating and communicating EHR lingo and concepts
+
+#### What did you achieve?
+
+* Inbox = 0 (micdrop :microphone:)
+* Lots of naps
+
+#### What did you struggle with?
+
+* 10 hours of trains to and from Edinburgh
+* Christenings... funny things it turns out 
+
+#### What would you like to work on next week?
+
+* Finish the analysis of my policy project and assimilate in a way that can be looked at, reach out to RA as busy with new baby
+* Start to draft a proposal for the AI in health supplement
+* Have a whack at doing my methods diagram 
+
+#### Where do you need help from Kirstie?
+
+* Continuation of comments on the upgrade paper (next meeting in the diary)
+
+#### Any other topics
+
 
 
 ### Date: 19 October 2018
