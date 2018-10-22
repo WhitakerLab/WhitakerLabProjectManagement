@@ -1,6 +1,6 @@
 # Weekly meetings 
 
-* [22 October 2018](#date-1-october-2018) 
+* [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
 
