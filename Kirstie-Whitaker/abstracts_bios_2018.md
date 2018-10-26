@@ -34,8 +34,8 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Talk at Neurohackademy](#talk-at-neurohackademy)
 * August
 * September
-  * [Talk at Bernstein PhD Symposium](#talk-at-bernstein-phd-symposium)
   * [Talk at Cambridge Psychiatry Departmental Seminar](#talk-at-cambridge-psychiatry-departmental-seminar)
+  * [Talk at Bernstein PhD Symposium](#talk-at-bernstein-phd-symposium)
 * October
   * [Withington Girls' School founders day](#withington-girls-school-founders-day)
   * [Careers & Training in Health Data Science](#careers--training-in-health-data-science)
@@ -245,7 +245,7 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine. You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io).
 
-**Slides**:
+**Slides**: https://doi.org/10.6084/m9.figshare.7140050
 
 
 ### Talk at Bernstein PhD Symposium
@@ -260,7 +260,7 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine. You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
-**Slides**:
+**Slides**: https://doi.org/10.6084/m9.figshare.7140050
 
 
 ### Withington Girls' School founders day
@@ -302,7 +302,7 @@ Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker
 
 **Bio**: Kirstie Whitaker is a research fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and she is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
-**Slides**:
+**Slides**: Gave a shortened version of https://doi.org/10.6084/m9.figshare.5914444
 
 ---
 
