@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [26th October 2018](#date-26th-october-2018)
 * [30th August 2018](#date-30th-august-2018)
 * [21st August 2018](#date-21st-august-2018)
 * [13th August 2018](#date-13th-august-2018)
@@ -15,6 +16,92 @@
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+### Date: 26th October 2018
+
+This was written at Craft London outside Ravensbourne where MozFest is just getting started.
+I have super mega FOMO for the amazing facilitator training that's happening right now.
+It's really strange not wrangling again this year!
+
+Anyway, I'll fill this in to cover a smattering of what I've done over the last few weeks, and then hopefully have a clean slate going forward into November :grimacing:
+
+#### Who did you help over the last six weeks :scream_cat:?
+
+* I ran some really fun events - I think they went really well and I think we built up some great community there.
+* JH and I helped each other out (I hope) with some fun project ideas.
+
+#### Who helped you over the last six weeks :scream_cat:?
+
+* KP is so so fantastic with contracts and coordinating! I wouldn't have any idea what to do without her.
+* DE was a mega star with all the coordinating and writing for the data science for experimental design event!
+* GK & EdP with all their fantastic focus on the OHBM SIG - love love the executive summaries and the budget spreadsheet!
+* PV as usual :heart:
+* Gaaaaaah - so many people.....
+
+#### What did you achieve?
+
+* Co-ran Gamechangers for Diversity in STEM event: https://stemgamechangers.github.io
+* Co-ran Data Science for Experimental Design event: https://datascienceforexperimentaldesign.github.io
+  * Did some good writing for the paper... not done yet though :sob:
+* Gave talk at WGS founders day: https://whitakerlab.github.io/blog/Founders-Day-Speech
+* Interviewed for ethics RA position
+* Hosted the wonderful MN at the Turing
+* Had a fantastic discussion with TS at the Turing (and over lunch at Dishoom)
+* Said goodbye to IS and JL (but not reaaaally)
+* Had a great sprint on `scona`:cookie:
+   * https://github.com/WhitakerLab/scona
+* Got funding for Automating the Crowd event
+* Sat on events steering committee & scored applications
+* Made some (but not much) progress on DAS
+* Gave talk on legacy of Alan Turing and why we need diversity in data science for CBRE
+* Lead discussion on reproducible research, open science and ethics for Turing student induction
+* Gave talk at Department of Psychiatry in Cambridge
+* Gave talk at Bernstein PhD symposium: https://doi.org/10.6084/m9.figshare.7140050
+* Gave port talk at Goodenough College
+* Became a fellow of Goodenough College
+  * http://www.goodenough.ac.uk/about-us/about-us/patron-governors-fellows
+  * http://www.goodenough.ac.uk/about-us/news/1002-founders-day-2018
+* Presented BIDS & BEP001 on an ISMRM virtual meeting call
+  * Slides: https://doi.org/10.6084/m9.figshare.7166180
+  * Meeting (not open; ISMRM members only): https://ismrm.adobeconnect.com/_a1156337412/pnrld4ttcjdu
+* Brainstormed future work on EEG with SC
+* Wrote 3 project applications....likely have 1 selected!!
+* Coordinated Autistica contract! Very close!!
+* Done some good work on the Champions project
+  * Had a fun sprint
+  * Had a productive (if disappointing) call w broader network
+* Chaired One Health Tech event: https://onehealthtech.com/blog-post/careers-and-training-in-health-data-science-event-recap
+* Had a productive/cathartic phone call re: data management
+* Chaired two OHBM SIG meetings
+* Hosted Turing Town Hall :microphone:
+* Had productive (I think) first couple of meetings w MM
+
+#### What did you struggle with?
+
+* Abandoned EAG too much
+* Finding cohesion in SIG committee
+* Staying motivated on FP project
+* Personal strategy and involvement with BIDS (starter kit and beyond)
+* Fitting in all the things!
+* Feeling way too behind :sob:
+
+#### What would you like to work on next week?
+
+* I'd really like to clean up my inbox & github notifications. I don't know how likely that is to happen but it would really help my mental health. I feel like there are a lot of un-replied to emails that keep me awake at night :sob:
+* Work with Elizabeth on `tedana`:tada: and SIG planning.
+* Writing for DS4ED paper
+* Clean up some data & get it organised
+
+#### Where do you need help?
+
+* Urgh - I don't know! I never know how to answer this. Lets just go with JD taking care of me :hugs:
+
+#### Any other topics
+
+This has been a SUPER busy few weeks but I still feel really behind on everything.
+Writing this up makes me feel like I've done loads though.
+So this is just another mental note to fill this in! It feels really good (except for the fact that I still know I have too much to do!)
+
 
 ### Date: 30th August 2018
 
