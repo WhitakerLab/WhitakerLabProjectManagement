@@ -21,20 +21,29 @@
 
 * AV helped me be a better psuedo-boss/pseudo-cofunder/pseudo team player in OHT. I need to work on cultural awareness around jokes, consistent levels of feedback (ie not micromanaging one moment and relaxed the next), communicating with clarity, filtering the excessive number of thoughts in my head
 * KW and SF helped me with GitHub stuff (longest journey starts with smallest step)
+  * KW: THANK YOU!!! I really appreciate you figuring this out!
 * JH helped me get my head around Python in the RSE course
 * R(?) sat next to me in RSE and was very sweet in explaining Python <-> R translation. He does both and it was so much easier to understand Python by going at it through an R lens (for me personally)
+  * KW: YAAAAY Super super helpful :sparkles: 
 * SD, MR, AF helped me by giving back comments on my ethics 
 * AF and I drank loads of engagement champagne and he gave me a pep talk about academia and keeping me motivated. He's so wise and so great
 * Through OHT, we convened a big dinner with senior movers, shakers, sponsors to help us strategiically with our next steps. They were all very helpful in giving us ideas about viable business models and impact
 * Reading KW blog from when she went to speak to her previous school. So many warm fuzzies. So good I get to hang out with her ;-)
+  * KW: Awwwww :sparkling_heart:
 * KW totally taking over my Twitter feed at Mozfest, but helped me see a) How to run more inclusive events (should have sent AV for a wrecky) b) That the Mozilla lot seem like a really friendly community 
+  * KW: It was sooooo much fun! Reasonably overwhelming but always inspiring :heart_eyes:
+  * KW: Next round applications are open now: https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/apply/. I think the culture track would be perfect for OHT but a project might be easier to think concretely about.
 
 #### What did you achieve?
 
 * I finished my policy paper analysis (yay!). Chuffed because I changed a lot of the code to be more efficient/looped so when comments come back it, it should be WAY easier to make changes compared to the upgrade paper code
+  * KW: AAAAAAAH!!! YEAAAAAAAAAH :raised_hands: :raised_hands: :raised_hands: Fantastic :sparkles:
 * I wrote a piece summarising the government's new tech vision (https://www.forbes.com/sites/maxinemackintosh/2018/10/28/uk-announces-its-vision-for-nhs-technology-and-its-not-sexy/#1e8aa79d178b)
-* I completed my ethics, I was very very slow because I was so so bored, so I am pleased to have comments back already as what I produced by tripe. In hindsight I should have written up the content separately and THEN moulded it into all the 10s of ethics documents pages
+  * KW: Fab - added to the reading list!
+* I completed my ethics, I was very very slow because I was so so bored, so I am pleased to have comments back already as what I produced was tripe. In hindsight I should have written up the content separately and THEN moulded it into all the 10s of ethics documents pages
+  * KW: It was really good!! I have a few comments - I'll put them in the word doc :smiley:
 * I completed session 2 on the RSE course
+  * KW: :star2:
 
 #### What did you struggle with?
 
@@ -47,11 +56,12 @@
 #### What would you like to work on next week?
 
 * I didn't really manage to do my methods image for the upgrade paper other than some hand-drawings so would like to work on that, but also slightly apprehensive (in a good way) about all the other edits KW will send my way so probably best to do them all together so that I'm in the zooooone 
+  * KW: Sorry we didn't get to this - lets continue the conversation!!
 * RSE homework, will struggle with the Python if I don't sort that out
 * Need to write up a framework/proposal for the AI in health supplement I have been asked to edit (probably a 2 week project)
 * Meet with AGI to talk a) Multiple testing and b) Policy paper
 * Draft out the policy paper (bullet points) so it's easier to share, and be absolutely sure I understand the methods as I realised I had forgotten a fair amount from the spring when I first did the analyses
-
+  * KW: Excited for this! I think this is going to be super fun!
 
 #### Where do you need help from Kirstie?
 
@@ -61,7 +71,7 @@
 
 #### Any other topics
 
-
+KW: Thank you so much for writing up such lovely notes! I'm so delighted that we're working together :smiley_cat:
 
 
 
