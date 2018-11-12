@@ -347,13 +347,13 @@ Date | Day   | City, Country                | Event
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
 1    | Mon   | :uk: London, UK              | Working at Turing Institute
-2    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+2    | Tue   | :uk: London, UK              | Working at Turing Institute
 3    | Wed   | :uk: London, UK              | Working at Turing Institute
-4    | Thurs | :uk: London, UK              | Working at Turing Institute
+4    | Thurs | :mortar_board: Cambridge, UK | Goodenough College [founders day](http://www.goodenough.ac.uk/about-us/news/1002-founders-day-2018)
 5    | Fri   | :uk: London, UK              | Working at Turing Institute
 6    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 7    | Sun   | :honeybee: Manchester, UK    | Visiting family
-8    | Mon   | :honeybee: Manchester, UK    | Speaking at WGS Founders Day
+8    | Mon   | :honeybee: Manchester, UK    | Speaking at [WGS Founders Day](https://whitakerlab.github.io/blog/Founders-Day-Speech)
 9    | Tue   | :honeybee: Manchester, UK    | Speaking at WGS Founders Day
 10   | Wed   | :uk: London, UK              | Working at Turing Institute
 11   | Thurs | :uk: London, UK              | Working at Turing Institute
@@ -361,21 +361,21 @@ Date | Day   | City, Country                | Event
 13   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 14   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 15   | Mon   | :uk: London, UK              | Working at Turing Institute
-16   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+16   | Tue   | :uk: London, UK              | Working at Turing Institute
 17   | Wed   | :microscope: London, UK      | [Data Science for Experimental Design workshop](https://datascienceforexperimentaldesign.github.io)
 18   | Thurs | :uk: London, UK              | Working at Turing Institute
 19   | Fri   | :uk: London, UK              | Working at Turing Institute
 20   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 21   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-22   | Mon   | 🦊 London, UK               | [MozFest House](https://mozillafestival.org/house)
-23   | Tue   | 🦊 London, UK               | [MozFest House](https://mozillafestival.org/house)
+22   | Mon   | :uk: London, UK              | Working at Turing Institute
+23   | Tue   | :family: Deeping, UK         | Family funeral
 24   | Wed   | 🦊 London, UK               | [MozFest House](https://mozillafestival.org/house)
-25   | Thurs | 🦊 London, UK               | [MozFest House](https://mozillafestival.org/house)
+25   | Thurs | :uk: London, UK              | Working at Turing Institute
 26   | Fri   | 🦊 London, UK               | [MozFest](https://mozillafestival.org)
 27   | Sat   | 🦊 London, UK               | [MozFest](https://mozillafestival.org)
 28   | Sun   | 🦊 London, UK               | [MozFest](https://mozillafestival.org)
 29   | Mon   | :uk: London, UK              | Working at Turing Institute
-30   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+30   | Tue   | :uk: London, UK              | Working at Turing Institute
 31   | Wed   | :uk: London, UK              | Working at Turing Institute
 
 ## November 2018
@@ -383,32 +383,32 @@ Date | Day   | City, Country                | Event
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
 1    | Thurs | :uk: London, UK              | Working at Turing Institute
-2    | Fri   | :uk: London, UK              | Working at Turing Institute
+2    | Fri   | :airplane: Flying London to San Diego | Travel to SFN
 3    | Sat   | :sunny: San Diego, CA, USA   | [Society for Neuroscience Annual Meeting](https://www.sfn.org/Meetings/Neuroscience-2018)
 4    | Sun   | :sunny: San Diego, CA, USA   | [Society for Neuroscience Annual Meeting](https://www.sfn.org/Meetings/Neuroscience-2018)
 5    | Mon   | :sunny: San Diego, CA, USA   | [Society for Neuroscience Annual Meeting](https://www.sfn.org/Meetings/Neuroscience-2018)
 6    | Tue   | :sunny: San Diego, CA, USA   | [Society for Neuroscience Annual Meeting](https://www.sfn.org/Meetings/Neuroscience-2018)
 7    | Wed   | :sunny: San Diego, CA, USA   | [Society for Neuroscience Annual Meeting](https://www.sfn.org/Meetings/Neuroscience-2018)
-8    | Thurs | :sunglasses: Los Angeles, CA, USA | Brainhack LA
-9    | Fri   | :sunglasses: Los Angeles, CA, USA | Brainhack LA
-10   | Sat   | :sunglasses: Los Angeles, CA, USA | Brainhack LA
-11   | Sun   | :airplane: flying to London, UK  | Travel
+8    | Thurs | :airplane: Flying San Diego to London | Travel home from SFN
+9    | Fri   | :airplane: Flying San Diego to London | Travel home from SFN
+10   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+11   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 12   | Mon   | :uk: London, UK              | Working at Turing Institute
 13   | Tue   | :uk: Newcastle, UK           | [Sue Black Turing Lecture](https://www.turing.ac.uk/events/turing-lecture-if-i-can-do-it-so-can-you)
-14   | Wed   | :uk: London, UK              | SciData18 Conference
-15   | Thurs | :uk: London, UK              | Working at Turing Institute
+14   | Wed   | :uk: London, UK              | [SciData18 Conference](https://www.eventbrite.co.uk/e/better-science-through-better-data-2018-tickets-43617175145)
+15   | Thurs | :camera: London, UK          | Day off with family
 16   | Fri   | :uk: London, UK              | Working at Turing Institute
 17   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 18   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 19   | Mon   | :uk: London, UK              | Working at Turing Institute
-20   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+20   | Tue   | :uk: London, UK              | Working at Turing Institute
 21   | Wed   | :uk: London, UK              | Working at Turing Institute
 22   | Thurs | :uk: London, UK              | Working at Turing Institute
 23   | Fri   | :uk: London, UK              | Working at Turing Institute
 24   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 25   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 26   | Mon   | :uk: London, UK              | Working at Turing Institute
-27   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+27   | Tue   | :uk: London, UK              | Working at Turing Institute
 28   | Wed   | :uk: London, UK              | Working at Turing Institute
 29   | Thurs | :uk: London, UK              | Working at Turing Institute
 30   | Fri   | :uk: London, UK              | Working at Turing Institute
@@ -420,21 +420,21 @@ Date | Day   | City, Country                | Event
 1    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 2    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 3    | Mon   | :uk: London, UK              | Working at Turing Institute
-4    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+4    | Tue   | :mortar_board: Cambridge, UK | [CBU Methods day](http://imaging.mrc-cbu.cam.ac.uk/methods/MethodsDaySchedule)
 5    | Wed   | :uk: London, UK              | Working at Turing Institute
 6    | Thurs | :uk: London, UK              | Working at Turing Institute
 7    | Fri   | :uk: London, UK              | Working at Turing Institute
 8    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 9    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 10   | Mon   | :uk: London, UK              | Working at Turing Institute
-11   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+11   | Tue   | :uk: London, UK              | Working at Turing Institute
 12   | Wed   | :uk: London, UK              | Working at Turing Institute
 13   | Thurs | :uk: London, UK              | Working at Turing Institute
 14   | Fri   | :uk: London, UK              | Working at Turing Institute
 15   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 16   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 17   | Mon   | :uk: London, UK              | Working at Turing Institute
-18   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+18   | Tue   | :uk: London, UK              | Working at Turing Institute
 19   | Wed   | :uk: London, UK              | Working at Turing Institute
 20   | Thurs | :uk: London, UK              | Working at Turing Institute
 21   | Fri   | :uk: London, UK              | Working at Turing Institute
