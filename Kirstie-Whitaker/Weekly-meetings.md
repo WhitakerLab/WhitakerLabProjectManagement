@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [10th October 2018](#date-10th-october-2018)
 * [30th August 2018](#date-30th-august-2018)
 * [21st August 2018](#date-21st-august-2018)
 * [13th August 2018](#date-13th-august-2018)
@@ -15,6 +16,49 @@
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+
+### Date: 10th October 2018
+
+#### Who did you help this week (month?!)?
+
+* 
+
+#### Who helped you this week?
+
+* AM for a fantastic phone call to calm me down :heart:
+* JH for some really fantastic funding opportunities :moneybag:
+
+#### What did you achieve?
+
+* Became a fellow of Goodenough College: http://www.goodenough.ac.uk/about-us/news/1002-founders-day-2018
+* Gave founders day speech at WGS: https://whitakerlab.github.io/blog/Founders-Day-Speech
+* Gave barriers to reproducible research talk in Cambridge and in Berlin: https://doi.org/10.6084/m9.figshare.7140050.v2
+  * Fab twitter thread from MA: https://twitter.com/neuroconscience/status/1045286850758418433
+* Gave talk on diversity in data science & Alan Turing's legacy: https://doi.org/10.6084/m9.figshare.5932579.v2
+* 
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
 
 ### Date: 30th August 2018
 

@@ -39,6 +39,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * October
   * [Talk at Goodenough College (the sequel!)](#talk-at-goodenough-college-the-sequel)
 * November
+  * [Sue Black Turing Lecture](#sue-black-turing-lecture)
 * December
 
 ### Science on Screen: The Imitation Game
@@ -272,6 +273,16 @@ The Collaborations Workshop 2018 will run from Monday 26th to Wednesday 28th Mar
 **Bio**: Kirstie Whitaker is a research fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and she is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 **Slides**:
+
+
+### Sue Black Turing Lecture
+
+**Website**: https://www.turing.ac.uk/events/turing-lecture-if-i-can-do-it-so-can-you
+
+**Date**: 12 November 2018
+
+**Bio**: Bio
+
 
 ---
 
