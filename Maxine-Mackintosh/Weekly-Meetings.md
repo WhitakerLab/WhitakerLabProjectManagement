@@ -1,9 +1,52 @@
-# Weekly meetings 
+# Weekly meetings
 
+* [20 November 2018](#date-20-November-2018) 
 * [29 October 2018](#date-29-october-2018) 
 * [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+###  Date: 20 November 2018
+
+#### Who did you help this week?
+
+* Lots of prospective PhD students and prospective enrichment students
+* EH on comments and edits on a big report coming out soon
+
+#### Who helped you this week?
+
+* RA and I had a really helpful conversation around the dementia policy project and pointed me towards lots of useful methods/papers/resources
+* SD gave me feedback on my upgrade paper and helped enrich my policy paper narrative
+* JH gave me moral support in quite an unusual and icky week
+
+#### What did you achieve?
+
+* Niche skills in ggplot. Took a LONG time but was actually very satisying
+* Data protection (and the rest) ethics submission initiated 
+
+#### What did you struggle with?
+
+* Was a tough week, to be discussed in person, will require a hug
+* Motivation around the paper drafts, I want to get back to my pattern mining analysis. grrrrr. 
+* Following the testing class in the RSE course because of the Python rather than the testing bit
+
+
+#### What would you like to work on next week?
+
+* Finishing my supplementary material for the upgrade paper
+* Write my cover letter for the upgrade paper
+* Get the national figures for dementia in order to benchmark against validated figures
+* Get updated data extraction for the policy paper
+* Write the intro, background and methods of the policy paper 
+* Identify a conference to present/poster the policy project at
+
+#### Where do you need help from Kirstie?
+
+* Comments on the text of the upgrade paper
+* Help writing the cover letter (wtf do you even say?!)
+
+#### Any other topics
+
 
 
 ###  Date: 29 October 2018
