@@ -23,9 +23,11 @@
 
 #### What did you achieve?
 
-* Niche skills in ggplot. Took a LONG time but was actually very satisying
+* Niche skills in ggplot. Took a LONG time but was actually very satisfying
 * Data protection (and the rest) ethics submission initiated 
+* Submitted p1 of ethics
 * Ran an event at GOSH
+* Submitted supplement on AI
 * Learning around getting your fingers burnt 
 * Achieving a restful state
 
