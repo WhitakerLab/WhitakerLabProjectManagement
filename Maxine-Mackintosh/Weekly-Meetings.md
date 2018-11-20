@@ -11,6 +11,7 @@
 #### Who did you help this week?
 
 * Lots of prospective PhD students and prospective enrichment students
+  * KW: Oooph - good for you
 * EH on comments and edits on a big report coming out soon
 * NAH on transparency piece
 
@@ -20,23 +21,29 @@
 * SD gave me feedback on my upgrade paper and helped enrich my policy paper narrative
 * JH gave me moral support in quite an unusual and icky week
 * I helped me but having a proper think about next steps. ooooooh. 
+  * KW: HA! FAB! :rocket:
 
 #### What did you achieve?
 
 * Niche skills in ggplot. Took a LONG time but was actually very satisfying
+  * KW: YES - I love the new plots! :heart_eyes:
 * Data protection (and the rest) ethics submission initiated 
 * Submitted p1 of ethics
+  * KW: Nice! :white_check_mark:
 * Ran an event at GOSH
+  * KW: Aah - I'm so sorry I couldn't come. Glad it went well :smiley:
 * Submitted supplement on AI
-* Learning around getting your fingers burnt 
+  * KW: FUN! Fingers crossed.
+* Learning around getting your fingers burnt
 * Achieving a restful state
 
 #### What did you struggle with?
 
 * Christ alive last week was horrendus. Just generally horrendous.
-* Motivation around the paper drafts, I want to get back to my pattern mining analysis. grrrrr. 
+  * KW: Big hugs :sparkling_heart:
+* Motivation around the paper drafts, I want to get back to my pattern mining analysis. grrrrr.
+  * KW: I think you're doing a GREAT JOB! Heading towards some fun pattern mining times ahead.
 * Following the testing class in the RSE course because of the Python rather than the testing bit
-
 
 #### What would you like to work on next week?
 
@@ -56,7 +63,6 @@
 
 #### Any other topics
 * Hope you're feeling more grounded after what sounds like a hectic few weeks!
-
 
 
 ###  Date: 29 October 2018
