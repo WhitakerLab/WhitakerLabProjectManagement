@@ -1,9 +1,68 @@
-# Weekly meetings 
+# Weekly meetings
 
+* [20 November 2018](#date-20-November-2018) 
 * [29 October 2018](#date-29-october-2018) 
 * [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+###  Date: 20 November 2018
+
+#### Who did you help this week?
+
+* Lots of prospective PhD students and prospective enrichment students
+  * KW: Oooph - good for you
+* EH on comments and edits on a big report coming out soon
+* NAH on transparency piece
+
+#### Who helped you this week?
+
+* RA and I had a really helpful conversation around the dementia policy project and pointed me towards lots of useful methods/papers/resources
+* SD gave me feedback on my upgrade paper and helped enrich my policy paper narrative
+* JH gave me moral support in quite an unusual and icky week
+* I helped me but having a proper think about next steps. ooooooh. 
+  * KW: HA! FAB! :rocket:
+
+#### What did you achieve?
+
+* Niche skills in ggplot. Took a LONG time but was actually very satisfying
+  * KW: YES - I love the new plots! :heart_eyes:
+* Data protection (and the rest) ethics submission initiated 
+* Submitted p1 of ethics
+  * KW: Nice! :white_check_mark:
+* Ran an event at GOSH
+  * KW: Aah - I'm so sorry I couldn't come. Glad it went well :smiley:
+* Submitted supplement on AI
+  * KW: FUN! Fingers crossed.
+* Learning around getting your fingers burnt
+* Achieving a restful state
+
+#### What did you struggle with?
+
+* Christ alive last week was horrendus. Just generally horrendous.
+  * KW: Big hugs :sparkling_heart:
+* Motivation around the paper drafts, I want to get back to my pattern mining analysis. grrrrr.
+  * KW: I think you're doing a GREAT JOB! Heading towards some fun pattern mining times ahead.
+* Following the testing class in the RSE course because of the Python rather than the testing bit
+
+#### What would you like to work on next week?
+
+* Finishing my supplementary material for the upgrade paper
+* Write my cover letter for the upgrade paper
+* Get the national figures for dementia in order to benchmark against validated figures
+* Get updated data extraction for the policy paper
+* Write the intro, background and methods of the policy paper 
+* Identify a conference to present/poster the policy project at
+
+#### Where do you need help from Kirstie?
+
+* Comments on the text of the upgrade paper
+* Help writing the cover letter (wtf do you even say?!)
+* Q around transparency piece
+* Getting stuck in to Turing "stuff"
+
+#### Any other topics
+* Hope you're feeling more grounded after what sounds like a hectic few weeks!
 
 
 ###  Date: 29 October 2018
