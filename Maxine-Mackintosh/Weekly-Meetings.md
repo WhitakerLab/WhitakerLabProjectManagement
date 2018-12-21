@@ -1,10 +1,60 @@
 # Weekly meetings
 
+* [21 December 2018](#date-21-December-2018) 
 * [20 November 2018](#date-20-November-2018) 
 * [29 October 2018](#date-29-october-2018) 
 * [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+
+### Date: 21 December 2018
+
+#### Who did you help this month?
+* Msc students at IHI for summer project
+* Reform: Value of NHS Data reviewer https://reform.uk/research/making-nhs-data-work-everyone
+* GEM students for healthtech in Oxford
+* AM for Nesta grant
+* VD on study dissemination
+
+#### Who helped you this month?
+
+* TG was a MACHINE for my consumer data protocol
+* AN on clarifying some classifier questions
+
+#### What did you achieve?
+
+* Submitted & got rejected for my paper (can I get a woop woop & and boo?)
+* Submitted ethics
+* Set myself up to do all my analyses outside the Safe Haven
+* Decided not to pursue the OUP piece
+* Got involved in the DEG health subgroup
+* Women in Data (somewhat mixed as to whether it's an achievement...)
+
+#### What did you struggle with?
+
+* Time delays in returning sign offs --> therefore general time management
+* Time delays in getting data --> therefore general time management
+* Not doing any programming for a while, felt like I wasn't learning anything new
+* Getting involved in health stuff @ the ATI
+* OHT challenges - funding & team
+
+#### What would you like to work on in Jan?
+
+* Write up classifiers project to present to SD
+* Re-run policy analysis & write up
+* Conduct all consumer data interviews by end of Feb
+
+#### Where do you need help from Kirstie?
+
+* Review on outline of classifier project
+* Next steps on upgrade/ex Lancet Psych paper
+* Contributing to health stuff @ ATI
+* "What-will-I-do-next" thought bombs as mum and dad will DEFINITELY want to chat about this over Xmas, and they are clever sensible people so I'd like to walk in with some ammo on this one 
+
+#### Any other topics
+
+
 
 ###  Date: 20 November 2018
 
