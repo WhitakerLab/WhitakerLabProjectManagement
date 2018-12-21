@@ -1,33 +1,42 @@
 # Weekly meetings
 
-* [21 December 2018](#date-21-December-2018) 
-* [20 November 2018](#date-20-November-2018) 
+* [21 December 2018](#date-21-december-2018)
+* [20 November 2018](#date-20-november-2018) 
 * [29 October 2018](#date-29-october-2018) 
 * [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
-
 
 ### Date: 21 December 2018
 
 #### Who did you help this month?
 * Msc students at IHI for summer project
 * Reform: Value of NHS Data reviewer https://reform.uk/research/making-nhs-data-work-everyone
+  * KW: Awesome - looks amazing
 * GEM students for healthtech in Oxford
+  * KW: Fun!!
 * AM for Nesta grant
+  * KW: Fingers crossed :sparkles:
 * VD on study dissemination
+  * KW: AMAZING - WELL DONE!
 
 #### Who helped you this month?
 
 * TG was a MACHINE for my consumer data protocol
+  * KW: :muscle::raised_hands::sparkles:
 * AN on clarifying some classifier questions
+  * KW: So great
 
 #### What did you achieve?
 
 * Submitted & got rejected for my paper (can I get a woop woop & and boo?)
+  * KW: YAY and BOOOOO. Full steam for next round :muscle:
 * Submitted ethics
+  * KW: Amazing - well done.
 * Set myself up to do all my analyses outside the Safe Haven
+  * KW: :raised_hands::raised_hands::raised_hands::raised_hands::raised_hands:
 * Decided not to pursue the OUP piece
+  * KW: Sounds like a good plan
 * Got involved in the DEG health subgroup
 * Women in Data (somewhat mixed as to whether it's an achievement...)
 
@@ -35,8 +44,10 @@
 
 * Time delays in returning sign offs --> therefore general time management
 * Time delays in getting data --> therefore general time management
+  * KW: :sob::sob::sob:
 * Not doing any programming for a while, felt like I wasn't learning anything new
 * Getting involved in health stuff @ the ATI
+  * KW: FUN - exciting opportunities ahead :sparkles:
 * OHT challenges - funding & team
 
 #### What would you like to work on in Jan?
@@ -44,13 +55,17 @@
 * Write up classifiers project to present to SD
 * Re-run policy analysis & write up
 * Conduct all consumer data interviews by end of Feb
+  * KW: Love all these :heart:
 
 #### Where do you need help from Kirstie?
 
 * Review on outline of classifier project
+  * KW: Looks great! FUN!
 * Next steps on upgrade/ex Lancet Psych paper
+  * KW: Resubmit! Onwards and upwards :sparkling_heart:
 * Contributing to health stuff @ ATI
 * "What-will-I-do-next" thought bombs as mum and dad will DEFINITELY want to chat about this over Xmas, and they are clever sensible people so I'd like to walk in with some ammo on this one 
+  * KW: So many exciting options :christmas_tree::santa::gift:
 
 #### Any other topics
 
