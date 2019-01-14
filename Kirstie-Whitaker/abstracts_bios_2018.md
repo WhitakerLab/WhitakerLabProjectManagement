@@ -278,6 +278,7 @@ She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](h
 Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 Kirstie is a passionate advocate for diversity in academia and tech fields, including support for women, LGBTQ+, black and minority ethnic, and disabled members of the STEM communities.
 
+**Blog post**: https://whitakerlab.github.io/blog/Founders-Day-Speech
 
 ### Careers & Training in Health Data Science
 
@@ -312,7 +313,11 @@ Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker
 
 **Date**: 12 November 2018
 
-**Bio**: Bio
+**Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) and senior research associate in the Department of Psychiatry at the University of Cambridge.
+She uses magnetic resonance imaging to study child and adolescent brain development and is passionate about making science "open for all".
+She works to make data science more ethical and transparent, and in particular focuses on supporting people working collaboratively together.
+Kirstie was one of the organisers of the recent ["Gamechangers for Diversity in STEM"](https://stemgamechangers.github.io) workshop hosted at the Turing that brought together advocates for a better working environment in science and technology for members of traditionally underrepresented groups.
+As well as supporting women in STEM she has raised over $50,000 as a member of of AIDS/Lifecycle, a 545 miles bike ride from San Francisco to LA to raise money to fight HIV/AIDS and eliminate the stigma associated with the virus.
 
 
 ---
