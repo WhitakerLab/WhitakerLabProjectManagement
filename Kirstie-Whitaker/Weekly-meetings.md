@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [3rd November 2018](#date-3rd-november-2018)
 * [26th October 2018](#date-26th-october-2018)
 * [30th August 2018](#date-30th-august-2018)
 * [21st August 2018](#date-21st-august-2018)
@@ -16,6 +17,66 @@
 * [10th January 2018](#date-10th-january-2018)
 * [14th July 2017](#date-14th-july-2017)
 * [12th May 2017](#date-12th-may-2017)
+
+### Date: 3rd November 2018
+
+#### Who did you help this week?
+
+* I had two meetings w folks who were struggling in various ways in academia.
+  I'm not super sure how much I helped but maybe it's sometimes just nice to be heard.
+* I facilitated the first session that I went to at MozFest because the designated folks
+  didn't turn up!
+
+#### Who helped you this week?
+
+* GK & EdP w OHBM SIG stuff
+* EdP for all the amazing conversations about governance in a bunch of projects
+* All the MozFellows for being so wonderful :heart_eyes:
+
+#### What did you achieve?
+
+* Proud of the governance documentation and the roadmap for `tedana`:tada:
+  * Currently open for comments: https://github.com/ME-ICA/tedana/pull/151
+* Got things moving for the Turing Way project - email, github repo & call :sparkles:
+  * Got a lovely email from FP that made me smile :smiley_cat:
+* Had a good time at MozFest - enjoyed seeing all my friends, but generally
+felt pretty overwhelmed by all the problems :sob:
+  * I was particularly proud of MK's session and I really enjoyed meeting a
+  bunch of different people for coffee and a chat
+* Got the OHBM Open Science SIG request for annual funding sent off :raised_hands:
+* Had a useful *Automating The Crowd* event planning meeting
+* Was quoted in MZ's piece on open source in Cambodia
+  * https://thediplomat.com/2018/10/cambodias-coming-ai-revolution
+* Had a great call w GA planning new project
+
+#### What did you struggle with?
+
+* I generally felt pretty useless this week - partly just the same feeling of being
+  behind on everything all the time, and partly just really overwhelmed by the fact
+  that there are no easy solutions to make the world a better place.
+
+#### What would you like to work on next week?
+
+* I'm at SFN this week and I'd like to use the time to refind some joy and balance!
+  I'm looking forward to seeing a bunch of friends and hopefully getting some work done
+  with no meetings!! :grimacing:
+* In particular I need to push on NSPN data management tasks and get sorted out with emails
+* If I can get the EAG and OSSIG emails under control I think that would be a big weight
+  off my shoulders. 🤞
+
+#### Where do you need help?
+
+* I'd really love to have some more content on the lab website, I think if I can
+  get some of my projects wrangled then I might be in a good position to ask
+  people to write me some updates.
+* I'd also really love to have help in drawing out some schematic diagrams for
+  papers. If anyone knows folks who can do that (happy to pay) that would be
+  really cool :sparkles:
+
+#### Any other topics
+
+I know these updates have been sounding super morose for a while now, but it does
+really help to do them, even if they make me feel rather overwhelmed!
 
 ### Date: 26th October 2018
 
