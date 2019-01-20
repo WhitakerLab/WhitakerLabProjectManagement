@@ -9,7 +9,8 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 ### Table of Contents
 
 * January
-  * [Talk at RAPIDS meetup](#talk-at-rapids-meetup)
+  * [Talk at Advanced Methods for Reproducible Science workshop](#talk-at-advanced-methods-for-reproducible-science-workshop)
+  * [Talk at RAPIDS meetup-postponed](#talk-at-rapids-meetup-postponed)
 * February
 * March
 * April
@@ -22,7 +23,20 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * November
 * December
 
-### Talk at RAPIDS meetup
+### Talk at Advanced Methods for Reproducible Science workshop
+
+**Website**: https://osf.io/gupxv
+
+**Date**: 9 January 2019
+
+**Title**: Transforming Research with Collaborative Working
+
+**Slides**: https://doi.org/10.6084/m9.figshare.7564682
+
+**Etherpad**: https://etherpad.net/p/STARS19-TransformingResearch
+
+
+### Talk at RAPIDS meetup (postponed)
 
 **Website**: https://www.meetup.com/Reproducibility-and-Productivity-in-Data-Science/events/256033057/
 

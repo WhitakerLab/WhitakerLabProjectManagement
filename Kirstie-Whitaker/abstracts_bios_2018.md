@@ -41,6 +41,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Careers & Training in Health Data Science](#careers--training-in-health-data-science)
   * [Talk at Goodenough College (the sequel!)](#talk-at-goodenough-college-the-sequel)
 * November
+  * [Sue Black Turing Lecture](#sue-black-turing-lecture)
 * December
 
 ### Science on Screen: The Imitation Game
@@ -277,6 +278,7 @@ She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](h
 Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 Kirstie is a passionate advocate for diversity in academia and tech fields, including support for women, LGBTQ+, black and minority ethnic, and disabled members of the STEM communities.
 
+**Blog post**: https://whitakerlab.github.io/blog/Founders-Day-Speech
 
 ### Careers & Training in Health Data Science
 
@@ -303,6 +305,20 @@ Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker
 **Bio**: Kirstie Whitaker is a research fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and she is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 **Slides**: Gave a shortened version of https://doi.org/10.6084/m9.figshare.5914444
+
+
+### Sue Black Turing Lecture
+
+**Website**: https://www.turing.ac.uk/events/turing-lecture-if-i-can-do-it-so-can-you
+
+**Date**: 12 November 2018
+
+**Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) and senior research associate in the Department of Psychiatry at the University of Cambridge.
+She uses magnetic resonance imaging to study child and adolescent brain development and is passionate about making science "open for all".
+She works to make data science more ethical and transparent, and in particular focuses on supporting people working collaboratively together.
+Kirstie was one of the organisers of the recent ["Gamechangers for Diversity in STEM"](https://stemgamechangers.github.io) workshop hosted at the Turing that brought together advocates for a better working environment in science and technology for members of traditionally underrepresented groups.
+As well as supporting women in STEM she has raised over $50,000 as a member of of AIDS/Lifecycle, a 545 miles bike ride from San Francisco to LA to raise money to fight HIV/AIDS and eliminate the stigma associated with the virus.
+
 
 ---
 
