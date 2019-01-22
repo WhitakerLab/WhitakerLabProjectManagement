@@ -17,6 +17,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 * Had a great chat w MM about future plans.
 * Wrote a letter of recommendation for DE.
+* Wrote a letter of recommendation for LB.
 * Provided some online support for a friend who was having a tough time.
 * Gave feedback to JH that hopefully will be useful for future plans.
 
@@ -56,6 +57,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
   Didn't end up getting merged, but it was a super valuable personal exercise.
 * Sent bio to csv,conf,v4 team :smiley_cat:
   * Gave AM some feedback on his abstract.
+* Wrote two letters of recommendation (DE & LB)
 * Quit another gym :raised_hands:
 
 #### What did you struggle with?
