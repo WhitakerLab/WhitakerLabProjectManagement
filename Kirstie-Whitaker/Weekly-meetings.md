@@ -33,6 +33,8 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 * AK did some awesome work for BEP001 :raised_hands:
 * IS for all the awesome `scona`:cookie: updates
 * CH for helping w EAG reviews and feedback.
+* MELD team for including me on such an awesome project
+  * https://twitter.com/KonradWagstyl/status/1087660423665631232
 
 #### What did you achieve?
 
