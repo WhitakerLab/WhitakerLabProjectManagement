@@ -6,10 +6,48 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 **2019**
 
+* [10 February 2019](#date-10-february-2019)
 * [20 January 2019](#date-20-january-2019)
 * [14 January 2019](#date-14-january-2019)
 
 ---
+
+### Date: 10 February 2019
+
+#### Who did you help this week?
+
+* Replace this text with a one/two sentence description of who you helped this week and how.
+
+#### Who helped you this week?
+
+* Replace this text with a one/two sentence description of who helped you this week and how.
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
 
 ### Date: 20 January 2019
 
