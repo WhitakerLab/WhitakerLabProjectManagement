@@ -52,6 +52,20 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 **Slides**: *Figshare link to slides*
 
+### Talk at Nomura for LGBT History Month
+
+**Website**: Insert link
+
+**Date**: 13 February 2019
+
+**Title**: Alan Turing: Life and Legacy
+
+**Abstract**: Abstract
+
+**Bio**: Bio
+
+**Slides**: Figshare link to slides (if applicable)
+
 
 ### Talk at Nomura for LGBT History Month
 
@@ -100,6 +114,7 @@ Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
 **Slides**: *Figshare link to slides (if applicable)*
+
 
 
 ---

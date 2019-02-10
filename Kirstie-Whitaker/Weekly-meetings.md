@@ -7,6 +7,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 **2019**
 
 * [10 February 2019](#date-10-february-2019)
+* [27 January 2019](#date-27-january-2019)
 * [20 January 2019](#date-20-january-2019)
 * [14 January 2019](#date-14-january-2019)
 
@@ -48,6 +49,89 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 This space is yours to add to as needed.
 
+
+### Date: 27 January 2019
+
+#### Who did you help this week?
+
+* Validated a student's experiences & gave some suggestions for ways forward
+* I helped the automating the crowd folks to think about the next steps, hopefully kept us all focused.
+* I facilitated a BEP001 development call which I think was helpful
+  * Got some documentation done for the process too!
+  * https://github.com/bids-standard/bep001/blob/master/README.md#avoiding-great-big-pull-requests
+* Sent some useful comments to DR
+* Brainstormed some strategy w MM
+
+#### Who helped you this week?
+
+* Kate from Turing events team was A SUPER STAR :star2:
+  * Picked up a lot of not quite thought out steps in the prep. THANK YOU.
+* EDP & TS wrote a great `tedana`:tada: GSOC project proposal.
+* JS and NB for reviewing the Autistica job applications.
+* AK did some awesome work for BEP001 :raised_hands:
+* IS for all the awesome `scona`:cookie: updates
+* CH for helping w EAG reviews and feedback.
+* MELD team for including me on such an awesome project
+  * https://twitter.com/KonradWagstyl/status/1087660423665631232
+
+#### What did you achieve?
+
+* Ran Automating the Crowd and Real People Behind AI events
+  * Super happy with how they went.
+    Great people at both events.
+    Great questions.
+    Really inspiring :sparkling_heart:
+* Reviewed the Autistica job applications
+  * Sent invitations for interview
+* Completed GSOC proposals
+  * The `tedana`:tada: one was written by EDP and TS - really excited about testing!
+    * https://github.com/ME-ICA/tedana/issues/185
+  * IS and I built off that one to write the `scona`:cookie: one - excited for this project to keep building
+    * https://github.com/WhitakerLab/scona/issues/93
+* Did some decent NSPN analyses - or at least got started on "The Grid" :laughing:
+* Did a chunk of work for BEP001:
+  * README update
+  * PR to AK's PR: https://github.com/agahkarakuzu/bep001/pull/1
+  * Facilitated call
+* Launched the Binder workshops (mostly done by the rest of the team!) :rocket:
+  * https://www.eventbrite.co.uk/e/build-a-binderhub-registration-55336756729
+  * https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-london-registration-55337162944
+  * https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-manchester-registration-55331997494
+* Ran OHBM Open Science SIG call & agreed on venue for this year!
+* Had a really productive conversations w BW about comms
+* Pre-print from conversation w Wiley submitted: https://doi.org/10.31219/osf.io/uy8hn
+* Got 2 yeses for EAG membership!
+
+#### What did you struggle with?
+
+* Had some tough conversations about EAG stuff.
+  I think we made up.
+  Just difficult to know that I'm frustrating others.
+* Late nights every day this week 🤦
+* Behind on email as usual.
+
+#### What would you like to work on next week?
+
+* Really really need to get edits to DH and JC
+* Make my talk on the Turing Way for the Cambridge PI day
+* Try to have a mindcontrol day 🧠
+* Super excited for Autistica interviews
+* Need to do some more editing work
+
+#### Where do you need help?
+
+* Lab meetings - need some help decentralising some of the knowledge!
+  * Need to get the darned email out first :disappointed:
+
+#### Any other topics
+
+This week was busy, but it felt more manageable than previous weeks.
+I don't think I'm perfect but I think I'm starting to balance things a little better.
+At least I'm not sitting here on Sunday night feeling anxious about the tasks ahead.
+
+I'm looking forward to all of them.
+
+Also, I got a personal best at parkrun!! 🏃‍♀️🏃‍♀️🏃‍♀️
 
 ### Date: 20 January 2019
 
