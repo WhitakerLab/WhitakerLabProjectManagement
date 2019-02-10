@@ -11,6 +11,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * January
   * [Talk at Advanced Methods for Reproducible Science workshop](#talk-at-advanced-methods-for-reproducible-science-workshop)
   * [Talk at RAPIDS meetup-postponed](#talk-at-rapids-meetup-postponed)
+  * [Talk at Cambridge Psychiatry PI Day](#talk-at-cambridge-psychiatry-pi-day)
 * February
   * [Talk at Nomura for LGBT History Month](#talk-at-nomura-for-lgbt-history-month)
 * March
@@ -51,6 +52,16 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and a senior research associate in the Department of Psychiatry at the University of Cambridge. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Her postdoctoral work was conducted in the Brain Mapping Unit at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is a Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine. You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
 **Slides**: *Figshare link to slides*
+
+
+### Talk at Cambridge Psychiatry PI Day
+
+**Date**: 30 January 2019
+
+**Title**: The Turing Way: Building a culture of collaborative science
+
+**Slides**: https://doi.org/10.6084/m9.figshare.7649156
+
 
 ### Talk at Nomura for LGBT History Month
 
@@ -114,7 +125,6 @@ Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
 **Slides**: *Figshare link to slides (if applicable)*
-
 
 
 ---

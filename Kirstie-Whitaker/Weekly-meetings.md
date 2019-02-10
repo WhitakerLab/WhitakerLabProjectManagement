@@ -15,39 +15,76 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 ### Date: 10 February 2019
 
+*(Covers the last 2 weeks)*
+
 #### Who did you help this week?
 
-* Replace this text with a one/two sentence description of who you helped this week and how.
+* I finally attended a Collaborations Workshop 2019 planning meeting.
+  I think I was useful there.
+* AL when she was having a tough week
+* I'm KB's buddy at the Turing, so I guess I helped DB in saying yes to that meeting, and hopefully I gave KB some useful information :smiley_cat::wave:
+* Caught a mini data snafoo.
+  I think that was pretty useful :grimacing:
 
 #### Who helped you this week?
 
-* Replace this text with a one/two sentence description of who helped you this week and how.
+* JC & NB as panel members for the Autistica job interviews
+* Really happy with SG's presentation for the Turing Way.
+  Very excited to share such an interactive demo :sparkles:
+* RJ's "interview" about data wrangling for Turing Way
+* GA on Autistica ethics
+* FN for thinking of me and coordinating a great meeting
+* HD, MM and MJ for their wonderful shout outs and generous gifts: https://twitter.com/kirstie_j/status/1092757545696022528 :heart_eyes::heart_eyes::heart_eyes:
+* Loved the chat and walk around town w NP
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* (Eventually) Got the edits and response to reviewers done for DS4ED paper :grimacing:
+* Gave talk at Cambridge Psychiatry PI day on Turing Way project: https://doi.org/10.6084/m9.figshare.7649156
+* Gave SG some feedback on her Turing Way demo at UKRI cloud workshop: https://github.com/alan-turing-institute/the-turing-way/pull/149
+* Got figures done for DAS poster
+* Attended MQ Science Meeting - I know that isn't really an *achievement* but I had a great time and felt pretty excited about the Autistica project! :sparkles:
+  Goal is to be invited as a speaker on that project next year!
+  I really think they'll like it :muscle:
+* Gave talk on FAIR data at reproducible research lunch drop in
+* Chaired postdoc interviews
+* Really great meeting w JF, AS & FN at Crick
+  * And I remembered to send the follow up emails :tada:
+* Meeting w PV & LD
+* GSOC projects are up:
+  * [GSoC Project Idea 13: Improving unit testing and test coverage for the TE-Dependence ANAlysis (tedana) toolbox](https://neurostars.org/t/gsoc-project-idea-13-improving-unit-testing-and-test-coverage-for-the-te-dependence-analysis-tedana-toolbox/3372)
+  * [GSoC Project Idea 14: Producing publication-ready brain network analysis results and visualisations from the command line](https://neurostars.org/t/gsoc-project-idea-14-producing-publication-ready-brain-network-analysis-results-and-visualisations-from-the-command-line/3373)
+* Got emails sent for Automating The Crowd
+* Reviewed the Atlas Reader paper for submission to JOSS: https://github.com/miykael/atlasreader
+* Was on the radio talking about Turing!! https://www.bbc.co.uk/programmes/profiles/5jQ6817N7QWTz5bJJspyDNy/alan-turing
+* Got application to Health programme meeting in Manchester submitted
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* The talk in Cambridge was tough.
+  Not my best, it needs more demos etc, and it didn't feel like a great vibe... but at least I did it!
+* Selection criteria for postdoc interviews, could have been much clearer from the beginning.
+  * Send questions in advance
+  * Ask for letters when short listed
+  * Plan for 2 stage interview process
+* Emails, as per usual 🤦
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* NSPN DATAAAAAA :muscle::muscle::muscle:
+* Get Autistica ethics submitted
+* A few tidy up emails, but really hoping to close out those two items 🤞
+* If I have time, comments on the Carpentries code of conduct enforcement guidelines
 
 #### Where do you need help?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Still haven't sent my lab meeting email out...maybe early tomorrow?
 
 #### Any other topics
 
-This space is yours to add to as needed.
+I didn't do the work I wanted to this weekend, but I think I just need to adjust my expectations of what I can achieve on a weekend.
+I did do two 5K runs though, get some sleep, did some reading and had tonnes of fun with my family.
+So all in all, time well spent :hugs:
 
 
 ### Date: 27 January 2019
@@ -67,7 +104,7 @@ This space is yours to add to as needed.
 * Kate from Turing events team was A SUPER STAR :star2:
   * Picked up a lot of not quite thought out steps in the prep. THANK YOU.
 * EDP & TS wrote a great `tedana`:tada: GSOC project proposal.
-* JS and NB for reviewing the Autistica job applications.
+* JC and NB for reviewing the Autistica job applications.
 * AK did some awesome work for BEP001 :raised_hands:
 * IS for all the awesome `scona`:cookie: updates
 * CH for helping w EAG reviews and feedback.
