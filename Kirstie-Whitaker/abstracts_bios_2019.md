@@ -12,6 +12,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Talk at Advanced Methods for Reproducible Science workshop](#talk-at-advanced-methods-for-reproducible-science-workshop)
   * [Talk at RAPIDS meetup-postponed](#talk-at-rapids-meetup-postponed)
 * February
+  * [Talk at Nomura for LGBT History Month](#talk-at-nomura-for-lgbt-history-month)
 * March
 * April
 * May
@@ -51,6 +52,20 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 **Slides**: *Figshare link to slides*
 
+### Talk at Nomura for LGBT History Month
+
+**Website**: Insert link
+
+**Date**: 13 February 2019
+
+**Title**: Alan Turing: Life and Legacy
+
+**Abstract**: Abstract
+
+**Bio**: Bio
+
+**Slides**: Figshare link to slides (if applicable)
+
 
 ### Keynote at csv,conf,v4
 
@@ -72,6 +87,7 @@ Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
 **Slides**: *Figshare link to slides (if applicable)*
+
 
 
 ---
