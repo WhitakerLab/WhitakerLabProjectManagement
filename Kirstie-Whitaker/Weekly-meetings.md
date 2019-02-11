@@ -67,6 +67,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
   * Send questions in advance
   * Ask for letters when short listed
   * Plan for 2 stage interview process
+* Being overly picky...trying to balance giving feedback and being overbearing.
 * Emails, as per usual 🤦
 
 #### What would you like to work on next week?
