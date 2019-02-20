@@ -21,6 +21,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * May
   * [csv,conf,v4](csv-conf-v4)
 * June
+  * [Autistica Discover Conference](#autistica-discover-conference)
 * July
 * August
 * September
@@ -131,7 +132,7 @@ One aspect which is not yet fully understood is how these differences affect the
 In this talk, I will showcase the team's process of building a project that is participatory from the ground up.
 We ensure that all aspects of the project are designed and developed in collaboration with members of the autistic community.
 The platform will be developed under a free and open source license and we commit to making all software,design and process documents open from the beginning.
-I will share our progress in building an providing citizen scientists with a fine-grained consent model that supports individual contributor’s personal preferences on how their data is used on the platform.
+I will share our progress in building and providing citizen scientists with a fine-grained consent model that supports individual contributor’s personal preferences on how their data is used on the platform.
 Flipping the traditional scientific study on its head, our goal is to give a voice to the autistic citizen scientists and educate neurotypical people.
 We seek to empower everyone in supporting autistic people and their families in living long, healthy, happy lives.
 
@@ -179,6 +180,33 @@ She is the lead developer of ["The Turing Way"](https://github.com/alan-turing-i
 Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
 She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
 Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
+
+**Slides**: *Figshare link to slides (if applicable)*
+
+
+### Autistica Discover Conference
+
+**Website**: https://www.autistica.org.uk/get-involved/research-conference
+
+**Date**: 27 June 2019
+
+**Title**: Harnessing the power of participatory citizen science to share autistic people's experiences at scale
+
+**Abstract**: [Autistica](https://www.autistica.org.uk/) and the [Alan Turing Institute](https://www.turing.ac.uk/) are working together to build a participatory, citizen science platform to gather data on how sensory processing affects autistic people’s navigation of the world.
+Numerous studies have confirmed that autistic people experience sensory processing differences, and that this can significantly impact their lives.
+One aspect which is not yet fully understood is how these differences affect the ways in which autistic people navigate different environments.
+At Discover Conference 2019, I will showcase the team's process of building a project that is participatory from the ground up.
+We ensure that all aspects of the project are designed and developed in collaboration with members of the autistic community.
+The platform will be developed under a free and open source license and we commit to making all software, and design and process documents open from the beginning.
+I will share our progress in building and providing citizen scientists with a fine-grained consent model that supports individual contributor’s personal preferences on how their data is used on the platform.
+Flipping the traditional scientific study on its head, our goal is to give a voice to the autistic citizen scientists and educate neurotypical people.
+Audience members will leave knowing how they can join the team and contribute to the project that same day.
+We seek to empower everyone in supporting autistic people and their families in living long, healthy, happy lives.
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
+Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of people with mental health disorders.
+Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
 **Slides**: *Figshare link to slides (if applicable)*
