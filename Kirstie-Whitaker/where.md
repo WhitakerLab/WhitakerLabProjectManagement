@@ -125,7 +125,7 @@ Date | Day   | City, Country                | Event
 24   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 25   | Mon   | :uk: London, UK              | Working at Turing Institute
 26   | Tue   | :uk: London, UK              | Working at Turing Institute
-27   | Wed   | :mortar_board: Cambridge, UK | Lifebrain showcase
+27   | Wed   | :uk: London, UK              | [Delving into Digital conference](https://www.amrc.org.uk/event/delving-into-digital-2019)
 28   | Thurs | :uk: London, UK              | Working at Turing Institute
 29   | Fri   | :earth_africa: London, UK    | Mozilla Global Sprint
 30   | Sat   | :earth_africa: London, UK    | Mozilla Global Sprint
@@ -212,30 +212,30 @@ Date | Day   | City, Country                | Event
 1    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 2    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 3    | Mon   | :uk: London, UK              | Working at Turing Institute
-4    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
-5    | Wed   | :uk: London, UK              | Working at Turing Institute
-6    | Thurs | :uk: London, UK              | Working at Turing Institute
-7    | Fri   | :uk: London, UK              | Working at Turing Institute
-8    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-9    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-10   | Mon   | :uk: London, UK              | Working at Turing Institute
-11   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
-12   | Wed   | :uk: London, UK              | Working at Turing Institute
-13   | Thurs | :uk: London, UK              | Working at Turing Institute
-14   | Fri   | :uk: London, UK              | Working at Turing Institute
+4    | Tue   | :rose: Lancaster, UK         | Talk for ESRC workshop
+5    | Wed   | :pizza: Rome, Italy          | Travel to Rome for OHBM
+6    | Thurs | :pizza: Rome, Italy          | OHBM Hackathon
+7    | Fri   | :pizza: Rome, Italy          | OHBM Hackathon
+8    | Sat   | :pizza: Rome, Italy          | OHBM Hackathon
+9    | Sun   | :pizza: Rome, Italy          | [OHBM 2019](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3882&activateFull=true)
+10   | Mon   | :pizza: Rome, Italy          | [OHBM 2019](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3882&activateFull=true)
+11   | Tue   | :pizza: Rome, Italy          | [OHBM 2019](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3882&activateFull=true)
+12   | Wed   | :pizza: Rome, Italy          | [OHBM 2019](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3882&activateFull=true)
+13   | Thurs | :pizza: Rome, Italy          | [OHBM 2019](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3882&activateFull=true)
+14   | Fri   | :pizza: Rome, Italy          | Travel home from OHBM
 15   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 16   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 17   | Mon   | :uk: London, UK              | Working at Turing Institute
-18   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+18   | Tue   | :uk: London, UK              | Working at Turing Institute
 19   | Wed   | :uk: London, UK              | Working at Turing Institute
 20   | Thurs | :uk: London, UK              | Working at Turing Institute
 21   | Fri   | :uk: London, UK              | Working at Turing Institute
 22   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 23   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 24   | Mon   | :uk: London, UK              | Working at Turing Institute
-25   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+25   | Tue   | :uk: London, UK              | Working at Turing Institute
 26   | Wed   | :uk: London, UK              | Working at Turing Institute
-27   | Thurs | :uk: London, UK              | Working at Turing Institute
+27   | Thurs | :uk: London, UK              | [Autistica Discover Conference](https://www.autistica.org.uk/get-involved/research-conference)
 28   | Fri   | :uk: London, UK              | Working at Turing Institute
 29   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 30   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
