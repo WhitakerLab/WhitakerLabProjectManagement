@@ -76,21 +76,21 @@ Date | Day   | City, Country                | Event
 9    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 10   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 11   | Mon   | :uk: London, UK              | Working at Turing Institute
-12   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+12   | Tue   | :whale2: London, UK          | Working at Natural History Museum for inspiration
 13   | Wed   | :uk: London, UK              | Working at Turing Institute
 14   | Thurs | :uk: London, UK              | Working at Turing Institute
-15   | Fri   | :uk: London, UK              | Working at Turing Institute
+15   | Fri   | :mortar_board: Cambridge, UK | Working in Cambridge
 16   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 17   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 18   | Mon   | :uk: London, UK              | Working at Turing Institute
-19   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+19   | Tue   | :uk: London, UK              | Working at Turing Institute
 20   | Wed   | :uk: London, UK              | Working at Turing Institute
 21   | Thurs | :uk: London, UK              | Working at Turing Institute
 22   | Fri   | :uk: London, UK              | Working at Turing Institute
 23   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 24   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 25   | Mon   | :uk: London, UK              | Working at Turing Institute
-26   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+26   | Tue   | :uk: London, UK              | Working at Turing Institute
 27   | Wed   | :uk: London, UK              | Working at Turing Institute
 28   | Thurs | :uk: London, UK              | Working at Turing Institute
 
@@ -99,24 +99,24 @@ Date | Day   | City, Country                | Event
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Fri   | :uk: London, UK              | Working at Turing Institute
+1    | Fri   | :bee: Manchester, UK         | [Turing Way Binder workshop](https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-manchester-registration-55331997494)
 2    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 3    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 4    | Mon   | :uk: London, UK              | Working at Turing Institute
 5    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
 6    | Wed   | :uk: London, UK              | Working at Turing Institute
-7    | Thurs | :uk: London, UK              | Working at Turing Institute
-8    | Fri   | :uk: London, UK              | Working at Turing Institute
-9    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-10   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+7    | Thurs | :bee: Manchester, UK         | Turing Health Programme Workshop
+8    | Fri   | :bee: Manchester, UK         | Turing Health Programme Workshop
+9    | Sat   | 🏞️ Lake district, UK         | Visiting family
+10   | Sun   | 🏞️ Lake district, UK         | Visiting family
 11   | Mon   | :uk: London, UK              | Working at Turing Institute
-12   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+12   | Tue   | :uk: London, UK              | [Turing Way Binder workshop](https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-london-registration-55337162944)
 13   | Wed   | :uk: London, UK              | Working at Turing Institute
 14   | Thurs | :uk: London, UK              | Working at Turing Institute
 15   | Fri   | :uk: London, UK              | Working at Turing Institute
 16   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 17   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-18   | Mon   | :uk: London, UK              | Working at Turing Institute
+18   | Mon   | :nut_and_bolt: Sheffield, UK | [Turing Way BinderHub workshop](https://www.eventbrite.co.uk/e/build-a-binderhub-registration-55336756729)
 19   | Tue   | :uk: London, UK              | Working at Turing Institute
 20   | Wed   | :uk: London, UK              | Working at Turing Institute
 21   | Thurs | :mortar_board: Cambridge, UK | Turing T, S & P workshop
@@ -136,180 +136,179 @@ Date | Day   | City, Country                | Event
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Mon   | :uk: London, UK              | Working at Turing Institute   
-2    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-3    | Wed   | :uk: London, UK              | Working at Turing Institute   
-4    | Thurs | :uk: London, UK              | Working at Turing Institute   
-5    | Fri   | :uk: London, UK              | Working at Turing Institute   
-6    | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-7    | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-8    | Mon   | :uk: London, UK              | Working at Turing Institute   
-9    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-10   | Wed   | :uk: London, UK              | Working at Turing Institute   
-11   | Thurs | :uk: London, UK              | Working at Turing Institute   
-12   | Fri   | :uk: London, UK              | Working at Turing Institute   
-13   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-14   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-15   | Mon   | :uk: London, UK              | Working at Turing Institute   
-16   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-17   | Wed   | :uk: London, UK              | Working at Turing Institute   
-18   | Thurs | :uk: London, UK              | Working at Turing Institute   
-19   | Fri   | :uk: London, UK              | Working at Turing Institute   
-20   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-21   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-22   | Mon   | :uk: London, UK              | Working at Turing Institute   
-23   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-24   | Wed   | :uk: London, UK              | Working at Turing Institute   
-25   | Thurs | :uk: London, UK              | Working at Turing Institute   
-26   | Fri   | :uk: London, UK              | Working at Turing Institute   
-27   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-28   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-29   | Mon   | :uk: London, UK              | Working at Turing Institute   
-30   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
+1    | Mon   | 🤗 Loughborough, UK          | [Collaborations Workshop](https://www.software.ac.uk/cw19)
+2    | Tue   | 🤗 Loughborough, UK          | [Collaborations Workshop](https://www.software.ac.uk/cw19)
+3    | Wed   | 🤗 Loughborough, UK          | [Collaborations Workshop](https://www.software.ac.uk/cw19)
+4    | Thurs | :uk: London, UK              | Working at Turing Institute
+5    | Fri   | 🇳🇱 Rotterdam, UK              | Holiday
+6    | Sat   | 🇳🇱 Rotterdam, UK              | Holiday
+7    | Sun   | 🇳🇱 Rotterdam, UK              | Holiday
+8    | Mon   | 🇳🇱 Rotterdam, UK              | Holiday
+9    | Tue   | 🇳🇱 Rotterdam, UK              | Holiday
+10   | Wed   | 🇳🇱 Rotterdam, UK              | Holiday
+11   | Thurs | :chocolate_bar: Birmingham, UK | [Inaugural meeting of the UK Network of Open Science Working Groups](https://sites.google.com/view/ukoswg19)
+12   | Fri   | :uk: London, UK              | Working at Turing Institute
+13   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+14   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+15   | Mon   | :uk: London, UK              | Working at Turing Institute
+16   | Tue   | :uk: London, UK              | Working at Turing Institute
+17   | Wed   | :rabbit: London, UK          | Easter holiday
+18   | Thurs | :rabbit: London, UK          | Easter holiday
+19   | Fri   | :rabbit: London, UK          | Easter holiday
+20   | Sat   | :rabbit: London, UK          | Easter holiday
+21   | Sun   | :rabbit: London, UK          | Easter holiday
+22   | Mon   | :rabbit: London, UK          | Easter holiday
+23   | Tue   | :rabbit: London, UK          | Easter holiday
+24   | Wed   | :uk: London, UK              | Working at Turing Institute
+25   | Thurs | :uk: London, UK              | Working at Turing Institute
+26   | Fri   | :uk: London, UK              | Working at Turing Institute
+27   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+28   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+29   | Mon   | :uk: London, UK              | Working at Turing Institute
+30   | Tue   | :uk: London, UK              | Working at Turing Institute
 
 
 ### May 2019
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Wed   | :uk: London, UK              | Working at Turing Institute   
-2    | Thurs | :uk: London, UK              | Working at Turing Institute   
-3    | Fri   | :uk: London, UK              | Working at Turing Institute   
-4    | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-5    | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-6    | Mon   | :uk: London, UK              | Working at Turing Institute   
-7    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-8    | Wed   | :uk: London, UK              | Working at Turing Institute   
-9    | Thurs | :uk: London, UK              | Working at Turing Institute   
-10   | Fri   | :uk: London, UK              | Working at Turing Institute   
-11   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-12   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-13   | Mon   | :uk: London, UK              | Working at Turing Institute   
-14   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-15   | Wed   | :uk: London, UK              | Working at Turing Institute   
-16   | Thurs | :uk: London, UK              | Working at Turing Institute   
-17   | Fri   | :uk: London, UK              | Working at Turing Institute   
-18   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-19   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-20   | Mon   | :uk: London, UK              | Working at Turing Institute   
-21   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-22   | Wed   | :uk: London, UK              | Working at Turing Institute   
-23   | Thurs | :uk: London, UK              | Working at Turing Institute   
-24   | Fri   | :uk: London, UK              | Working at Turing Institute   
-25   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-26   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-27   | Mon   | :uk: London, UK              | Working at Turing Institute   
-28   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-29   | Wed   | :uk: London, UK              | Working at Turing Institute   
-30   | Thurs | :uk: London, UK              | Working at Turing Institute   
-31   | Fri   | :uk: London, UK              | Working at Turing Institute   
+1    | Wed   | :uk: London, UK              | Working at Turing Institute
+2    | Thurs | :uk: London, UK              | Working at Turing Institute
+3    | Fri   | :uk: London, UK              | Working at Turing Institute
+4    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+5    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+6    | Mon   | :uk: London, UK              | Working at Turing Institute
+7    | Tue   | :dromedary_camel: Portland, OR, USA | Travel to [csv,conf,v4](https://csvconf.com/)
+8    | Wed   | :dromedary_camel: Portland, OR, USA | [csv,conf,v4](https://csvconf.com/)
+9    | Thurs | :dromedary_camel: Portland, OR, USA | [csv,conf,v4](https://csvconf.com/)
+10   | Fri   | :dromedary_camel: Portland, OR, USA | Meetings post [csv,conf,v4](https://csvconf.com/)
+11   | Sat   | :dromedary_camel: Portland, OR, USA | Travel home from [csv,conf,v4](https://csvconf.com/)
+12   | Sun   | :dromedary_camel: Portland, OR, USA | Travel home from [csv,conf,v4](https://csvconf.com/)
+13   | Mon   | :uk: London, UK              | Working at Turing Institute
+14   | Tue   | :uk: London, UK              | Working at Turing Institute
+15   | Wed   | :uk: London, UK              | Working at Turing Institute
+16   | Thurs | :uk: London, UK              | Working at Turing Institute
+17   | Fri   | :uk: London, UK              | Working at Turing Institute
+18   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+19   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+20   | Mon   | :uk: London, UK              | Working at Turing Institute
+21   | Tue   | :uk: London, UK              | Working at Turing Institute
+22   | Wed   | :uk: London, UK              | Working at Turing Institute
+23   | Thurs | :uk: London, UK              | Working at Turing Institute
+24   | Fri   | :uk: London, UK              | Working at Turing Institute
+25   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+26   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+27   | Mon   | :uk: London, UK              | Working at Turing Institute
+28   | Tue   | :uk: London, UK              | Working at Turing Institute
+29   | Wed   | :uk: London, UK              | Working at Turing Institute
+30   | Thurs | :uk: London, UK              | Working at Turing Institute
+31   | Fri   | :uk: London, UK              | Working at Turing Institute
 
 
 ### June 2019
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-2    | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-3    | Mon   | :uk: London, UK              | Working at Turing Institute   
-4    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-5    | Wed   | :uk: London, UK              | Working at Turing Institute   
-6    | Thurs | :uk: London, UK              | Working at Turing Institute   
-7    | Fri   | :uk: London, UK              | Working at Turing Institute   
-8    | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-9    | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-10   | Mon   | :uk: London, UK              | Working at Turing Institute   
-11   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-12   | Wed   | :uk: London, UK              | Working at Turing Institute   
-13   | Thurs | :uk: London, UK              | Working at Turing Institute   
-14   | Fri   | :uk: London, UK              | Working at Turing Institute   
-15   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-16   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-17   | Mon   | :uk: London, UK              | Working at Turing Institute   
-18   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-19   | Wed   | :uk: London, UK              | Working at Turing Institute   
-20   | Thurs | :uk: London, UK              | Working at Turing Institute   
-21   | Fri   | :uk: London, UK              | Working at Turing Institute   
-22   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-23   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-24   | Mon   | :uk: London, UK              | Working at Turing Institute   
-25   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-26   | Wed   | :uk: London, UK              | Working at Turing Institute   
-27   | Thurs | :uk: London, UK              | Working at Turing Institute   
-28   | Fri   | :uk: London, UK              | Working at Turing Institute   
-29   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-30   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
+1    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+2    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+3    | Mon   | :uk: London, UK              | Working at Turing Institute
+4    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+5    | Wed   | :uk: London, UK              | Working at Turing Institute
+6    | Thurs | :uk: London, UK              | Working at Turing Institute
+7    | Fri   | :uk: London, UK              | Working at Turing Institute
+8    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+9    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+10   | Mon   | :uk: London, UK              | Working at Turing Institute
+11   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+12   | Wed   | :uk: London, UK              | Working at Turing Institute
+13   | Thurs | :uk: London, UK              | Working at Turing Institute
+14   | Fri   | :uk: London, UK              | Working at Turing Institute
+15   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+16   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+17   | Mon   | :uk: London, UK              | Working at Turing Institute
+18   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+19   | Wed   | :uk: London, UK              | Working at Turing Institute
+20   | Thurs | :uk: London, UK              | Working at Turing Institute
+21   | Fri   | :uk: London, UK              | Working at Turing Institute
+22   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+23   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+24   | Mon   | :uk: London, UK              | Working at Turing Institute
+25   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+26   | Wed   | :uk: London, UK              | Working at Turing Institute
+27   | Thurs | :uk: London, UK              | Working at Turing Institute
+28   | Fri   | :uk: London, UK              | Working at Turing Institute
+29   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+30   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 
 
 ### July 2019
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Mon   | :uk: London, UK              | Working at Turing Institute   
-2    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-3    | Wed   | :uk: London, UK              | Working at Turing Institute   
-4    | Thurs | :uk: London, UK              | Working at Turing Institute   
-5    | Fri   | :uk: London, UK              | Working at Turing Institute   
-6    | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-7    | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-8    | Mon   | :uk: London, UK              | Working at Turing Institute   
-9    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-10   | Wed   | :uk: London, UK              | Working at Turing Institute   
-11   | Thurs | :uk: London, UK              | Working at Turing Institute   
-12   | Fri   | :uk: London, UK              | Working at Turing Institute   
-13   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-14   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-15   | Mon   | :uk: London, UK              | Working at Turing Institute   
-16   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-17   | Wed   | :uk: London, UK              | Working at Turing Institute   
-18   | Thurs | :uk: London, UK              | Working at Turing Institute   
-19   | Fri   | :uk: London, UK              | Working at Turing Institute   
-20   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-21   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-22   | Mon   | :uk: London, UK              | Working at Turing Institute   
-23   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-24   | Wed   | :uk: London, UK              | Working at Turing Institute   
-25   | Thurs | :uk: London, UK              | Working at Turing Institute   
-26   | Fri   | :uk: London, UK              | Working at Turing Institute   
-27   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-28   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-29   | Mon   | :uk: London, UK              | Working at Turing Institute   
-30   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-31   | Wed   | :uk: London, UK              | Working at Turing Institute   
+1    | Mon   | :uk: London, UK              | Working at Turing Institute
+2    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+3    | Wed   | :uk: London, UK              | Working at Turing Institute
+4    | Thurs | :uk: London, UK              | RedHat workshop at Turing
+5    | Fri   | :uk: London, UK              | RedHat workshop at Turing
+6    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+7    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+8    | Mon   | :uk: London, UK              | Working at Turing Institute
+9    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+10   | Wed   | :uk: London, UK              | Working at Turing Institute
+11   | Thurs | :uk: London, UK              | Working at Turing Institute
+12   | Fri   | :uk: London, UK              | Working at Turing Institute
+13   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+14   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+15   | Mon   | :uk: London, UK              | Working at Turing Institute
+16   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+17   | Wed   | :uk: London, UK              | Working at Turing Institute
+18   | Thurs | :uk: London, UK              | Working at Turing Institute
+19   | Fri   | :uk: London, UK              | Working at Turing Institute
+20   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+21   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+22   | Mon   | :uk: London, UK              | Working at Turing Institute
+23   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+24   | Wed   | :uk: London, UK              | Working at Turing Institute
+25   | Thurs | :uk: London, UK              | Working at Turing Institute
+26   | Fri   | :uk: London, UK              | Working at Turing Institute
+27   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+28   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+29   | Mon   | :uk: London, UK              | Working at Turing Institute
+30   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+31   | Wed   | :uk: London, UK              | Working at Turing Institute
 
-​
 ### August 2019
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Thurs | :uk: London, UK              | Working at Turing Institute   
-2    | Fri   | :uk: London, UK              | Working at Turing Institute   
-3    | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-4    | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-5    | Mon   | :uk: London, UK              | Working at Turing Institute   
-6    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-7    | Wed   | :uk: London, UK              | Working at Turing Institute   
-8    | Thurs | :uk: London, UK              | Working at Turing Institute   
-9    | Fri   | :uk: London, UK              | Working at Turing Institute   
-10   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-11   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-12   | Mon   | :uk: London, UK              | Working at Turing Institute   
-13   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-14   | Wed   | :uk: London, UK              | Working at Turing Institute   
-15   | Thurs | :uk: London, UK              | Working at Turing Institute   
-16   | Fri   | :uk: London, UK              | Working at Turing Institute   
-17   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-18   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-19   | Mon   | :uk: London, UK              | Working at Turing Institute   
-20   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-21   | Wed   | :uk: London, UK              | Working at Turing Institute   
-22   | Thurs | :uk: London, UK              | Working at Turing Institute   
-23   | Fri   | :uk: London, UK              | Working at Turing Institute   
-24   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
-25   | Sun   | :dog: Greenwich, UK          | Weekend relaxing              
-26   | Mon   | :uk: London, UK              | Working at Turing Institute   
-27   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge          
-28   | Wed   | :uk: London, UK              | Working at Turing Institute   
-29   | Thurs | :uk: London, UK              | Working at Turing Institute   
-30   | Fri   | :uk: London, UK              | Working at Turing Institute   
-31   | Sat   | :dog: Greenwich, UK          | Weekend relaxing              
+1    | Thurs | :uk: London, UK              | Working at Turing Institute
+2    | Fri   | :uk: London, UK              | Working at Turing Institute
+3    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+4    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+5    | Mon   | :uk: London, UK              | Working at Turing Institute
+6    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+7    | Wed   | :uk: London, UK              | Working at Turing Institute
+8    | Thurs | :uk: London, UK              | Working at Turing Institute
+9    | Fri   | :uk: London, UK              | Working at Turing Institute
+10   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+11   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+12   | Mon   | :uk: London, UK              | Working at Turing Institute
+13   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+14   | Wed   | :uk: London, UK              | Working at Turing Institute
+15   | Thurs | :uk: London, UK              | Working at Turing Institute
+16   | Fri   | :uk: London, UK              | Working at Turing Institute
+17   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+18   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+19   | Mon   | :uk: London, UK              | Working at Turing Institute
+20   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+21   | Wed   | :uk: London, UK              | Working at Turing Institute
+22   | Thurs | :uk: London, UK              | Working at Turing Institute
+23   | Fri   | :uk: London, UK              | Working at Turing Institute
+24   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+25   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+26   | Mon   | :uk: London, UK              | Working at Turing Institute
+27   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+28   | Wed   | :uk: London, UK              | Working at Turing Institute
+29   | Thurs | :uk: London, UK              | Working at Turing Institute
+30   | Fri   | :uk: London, UK              | Working at Turing Institute
+31   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
