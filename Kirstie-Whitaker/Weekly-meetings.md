@@ -35,6 +35,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 * GA made some amaaaaazing flow charts explaining the data management flow for the Autistica project.
 * DE on being an absolute machine as usual :robot::raised_hands::rocket:
 * Amaaaazing late night phone call with DR to calm me down :pray:
+* My dinner companions at Goodenough were :100::fire::muscle:
 
 #### What did you achieve?
 
@@ -64,7 +65,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
   * Got TA's blog post submitted to the blog team (finally) :pensive:
 * Presented DAS poster w BMG
 * [Quit a gym](https://youtu.be/-_LM2ZlbmP8)
-
+* Fancy dinner at Goodenough :yum::wine_glass:
 
 #### What did you struggle with?
 
@@ -81,6 +82,8 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 * Make talk for the Binder workshop in Manchester
 * Submit ethics for Autistica
 * Get a process (blog post, list of projects) written for lab meeting.
+* Go for dinner with the speaker after this talk that I'm SUPER looking forward to!
+  * https://www.turing.ac.uk/events/turing-lecture-open-source-influences-technology-innovation
 
 #### Where do you need help?
 
