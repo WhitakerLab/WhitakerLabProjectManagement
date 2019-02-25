@@ -6,12 +6,68 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 **2019**
 
+* [25 February 2019](#date-25-february-2019)
 * [10 February 2019](#date-10-february-2019)
 * [27 January 2019](#date-27-january-2019)
 * [20 January 2019](#date-20-january-2019)
 * [14 January 2019](#date-14-january-2019)
 
 ---
+
+### Date: 25 February 2019
+
+*Covers the last 2 weeks*
+
+#### Who did you help this week?
+
+* Made some useful comments in the Binder community call I think
+* Gave CH some (hopefully) useful feedback on our 2 hour brainstorming call!
+  (This one is slightly cheating as I was benefiting from it too :laugh:)
+
+
+#### Who helped you this week?
+
+* All the fabulous folks who came to my first lab meeting made me feel really excited about doing interesting work!
+  It isn't easy figuring out how to run a meeting that's useful for everyone, but I think we made a really good start on trying!!
+* GA made some amaaaaazing flow charts explaining the data management flow for the Autistica project.
+* DE on being an absolute machine as usual :robot::raised_hands::rocket:
+
+#### What did you achieve?
+
+* NEW PUBLICATION!! :scream_cat::tada::cake::balloon::sparkling_heart:
+  * http://joss.theoj.org/papers/10.21105/joss.01257
+  * *AtlasReader: A Python package to generate coordinate tables, region labels, and informative figures from statistical MRI images*
+  * So incredibly proud of Michael for leading the team, and all the work that Dan, Peer, Ross and Marie-Laure put into taking this hackathon project across the line.
+  * Delighted to be included in the _alphabetical_ (after Michael) author list :heart_eyes:
+* Third Turing Way sprint.
+  * Made really good progress on the workshops. I've cleared my schedule so I can be at all of them. Really looking forward to capturing what the attendees need!
+    * https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops
+  * We've had some bumps with building a BinderHub but SG got one up and running on Friday! So freaking cool :sparkles:
+    * https://twitter.com/kirstie_j/status/1098907285307486209
+* Made some really good progress on the Autistica ethics application - so so close!
+* eLife Paper accepted! Got some little edits done and sent back :tada:
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
 
 ### Date: 10 February 2019
 
