@@ -11,7 +11,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * January
   * [Advanced Methods for Reproducible Science workshop](#advanced-methods-for-reproducible-science-workshop)
   * [RAPIDS meetup-postponed](#rapids-meetup-postponed)
-  * [Talk at Cambridge Psychiatry PI Day](#talk-at-cambridge-psychiatry-pi-day)
+  * [Cambridge Psychiatry PI Day](#talk-at-cambridge-psychiatry-pi-day)
 * February
   * [Nomura (for LGBT History Month)](#talk-at-nomura-for-lgbt-history-month)
   * [Application to join Tools, Systems and Practices for Data Science and AI Scoping Workshop](#application-to-join-tools-systems-and-practices-for-data-science-and-ai-scoping-workshop)
