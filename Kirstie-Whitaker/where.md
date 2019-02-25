@@ -103,7 +103,7 @@ Date | Day   | City, Country                | Event
 2    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 3    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 4    | Mon   | :uk: London, UK              | Working at Turing Institute
-5    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+5    | Tue   | :uk: London, UK              | Working at Turing Institute
 6    | Wed   | :uk: London, UK              | Working at Turing Institute
 7    | Thurs | :bee: Manchester, UK         | Turing Health Programme Workshop
 8    | Fri   | :bee: Manchester, UK         | Turing Health Programme Workshop
@@ -118,7 +118,7 @@ Date | Day   | City, Country                | Event
 17   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 18   | Mon   | :nut_and_bolt: Sheffield, UK | [Turing Way BinderHub workshop](https://www.eventbrite.co.uk/e/build-a-binderhub-registration-55336756729)
 19   | Tue   | :uk: London, UK              | Working at Turing Institute
-20   | Wed   | :uk: London, UK              | Working at Turing Institute
+20   | Wed   | :mortar_board: Cambridge, UK | Working in Cambridge
 21   | Thurs | :mortar_board: Cambridge, UK | Turing T, S & P workshop
 22   | Fri   | :mortar_board: Cambridge, UK | Turing T, S & P workshop
 23   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
