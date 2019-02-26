@@ -117,7 +117,7 @@ Date | Day   | City, Country                | Event
 16   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 17   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 18   | Mon   | :nut_and_bolt: Sheffield, UK | [Turing Way BinderHub workshop](https://www.eventbrite.co.uk/e/build-a-binderhub-registration-55336756729)
-19   | Tue   | :uk: London, UK              | Working at Turing Institute
+19   | Tue   | :nut_and_bolt: Sheffield, UK | Turing Way sprint
 20   | Wed   | :mortar_board: Cambridge, UK | Working in Cambridge
 21   | Thurs | :mortar_board: Cambridge, UK | Turing T, S & P workshop
 22   | Fri   | :mortar_board: Cambridge, UK | Turing T, S & P workshop
