@@ -6,12 +6,98 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 **2019**
 
+* [25 February 2019](#date-25-february-2019)
 * [10 February 2019](#date-10-february-2019)
 * [27 January 2019](#date-27-january-2019)
 * [20 January 2019](#date-20-january-2019)
 * [14 January 2019](#date-14-january-2019)
 
 ---
+
+### Date: 25 February 2019
+
+*Covers the last 2 weeks*
+
+#### Who did you help this week?
+
+* Made some useful comments in the Binder community call I think
+* Gave CH some (hopefully) useful feedback on our 2 hour brainstorming call!
+  (This one is slightly cheating as I was benefiting from it too :laugh:)
+* Gave feedback to SG and PH for their Turing Way talks.
+* Gave feedback on workshop design for a couple of folks - I'm excited about what we built!
+* Gave AR a quick run through of the history of The Turing Way project :grimacing:
+* A bit of moral support for JG in promoting UCU at Douglas House! :fist:
+
+#### Who helped you this week?
+
+* All the fabulous folks who came to my first lab meeting made me feel really excited about doing interesting work!
+  It isn't easy figuring out how to run a meeting that's useful for everyone, but I think we made a really good start on trying!!
+* GA made some amaaaaazing flow charts explaining the data management flow for the Autistica project.
+* DE on being an absolute machine as usual :robot::raised_hands::rocket:
+* Amaaaazing late night phone call with DR to calm me down :pray:
+* My dinner companions at Goodenough were :100::fire::muscle:
+
+#### What did you achieve?
+
+* NEW PUBLICATION!! :scream_cat::tada::cake::balloon::sparkling_heart:
+  * http://joss.theoj.org/papers/10.21105/joss.01257
+  * *AtlasReader: A Python package to generate coordinate tables, region labels, and informative figures from statistical MRI images*
+  * So incredibly proud of Michael for leading the team, and all the work that Dan, Peer, Ross and Marie-Laure put into taking this hackathon project across the line.
+  * Delighted to be included in the _alphabetical_ (after Michael) author list :heart_eyes:
+* Two external talks on the Turing Way
+  * PH in Birmingham
+  * SG at UKRI cloud workshop
+  * Details at https://github.com/alan-turing-institute/the-turing-way/tree/master/conferences
+* Third Turing Way sprint.
+  * Made really good progress on the workshops. I've cleared my schedule so I can be at all of them. Really looking forward to capturing what the attendees need!
+    * https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops
+  * We've had some bumps with building a BinderHub but SG got one up and running on Friday! So freaking cool :sparkles:
+    * https://twitter.com/kirstie_j/status/1098907285307486209
+* Arranged a talk in Cambridge about the Turing Way, and another in Lancaster :smiley:
+* Arrange a talk about the Autistica project for conference at end of March.
+* Made some really good progress on the Autistica ethics application - so so close!
+* Did a big read through of the Carpentries code of conduct enforcement process and left some (hopefully) useful comments.
+* `tedana`:tada: developer call
+* Applied to attend Tools, Practices and Systems scoping workshop
+* eLife Paper accepted! Got some little edits done and sent back :tada:
+* Gave talk at Nomura about Diversity in Data Science 🏳️‍🌈
+* Chaired OHBM OSSIG meeting.
+  * Got TA's blog post submitted to the blog team (finally) :pensive:
+* Presented DAS poster w BMG
+* [Quit a gym](https://youtu.be/-_LM2ZlbmP8)
+* Fancy dinner at Goodenough :yum::wine_glass:
+
+#### What did you struggle with?
+
+* Working through my anxiety in making a big decision. Felt horrid in the run up, but exactly right afterwards.
+* Setting explicit expectations. I really struggled over these last couple of weeks with me really wanting others to have intrinsic motivation for their tasks. It's an interesting pain point. I know that its toxic to expect people to work all the time and be hungry to get a job done....but its been interesting butting up against my personal biases of how I work and how others engage with a task.
+  * Related is a realisation of how much expertise I have. I've had this a couple of times recently but I really _do_ know quite a lot of stuff, and I'm not great at remembering how much effort it took the first x times around :laugh:🤦‍♀️
+  * Action for the future is to build a "how to work with Kirstie" kit following this example: https://blog.cultureamp.com/why-our-ceo-wrote-a-user-guide-to-himself
+  * (And also to check my privilege!)
+* I also need to allocate more time to relax when I'm working on code of conduct revisions or when facilitating. I only realise after the fact how much this work takes out of me.
+
+#### What would you like to work on next week?
+
+* AS ALWAYS I need to catch up on my emails
+* Make talk for the Binder workshop in Manchester
+* Submit ethics for Autistica
+* Get a process (blog post, list of projects) written for lab meeting.
+* Go for dinner with the speaker after this talk that I'm SUPER looking forward to!
+  * https://www.turing.ac.uk/events/turing-lecture-open-source-influences-technology-innovation
+
+#### Where do you need help?
+
+* I think this week I'm pretty cool! The Turing Way team are kicking butt coordinating loads of things for the workshop on Friday and we have two amazing volunteers to help us out. So, I guess I need help and I'm getting it! :heart::purple_heart::sparkling_heart:
+* Got a couple of meetings set up to help with recruiting for April & May
+
+#### Any other topics
+
+I got a PB at Parkrun on Saturday 🏅 and I'm pretty freaking proud of that.
+
+I was unbelievably sick on Sunday and that suuuuucked 🤮
+
+I also have had neck pain for 2 weeks now so I really have to get a doc appt in the diary.
+(Writing it here to see if I can actually force myself to do it :weary:)
 
 ### Date: 10 February 2019
 
