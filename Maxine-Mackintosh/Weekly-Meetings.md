@@ -1,11 +1,60 @@
 # Weekly meetings
 
+* [18 March 2019](#date-18-march-2019)
 * [21 December 2018](#date-21-december-2018)
 * [20 November 2018](#date-20-november-2018) 
 * [29 October 2018](#date-29-october-2018) 
 * [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+
+
+### Date: 18 March 2019
+
+#### Who did you help this week?
+
+* Had quite a few cold-emails asking for advice on PhDs, general chatting etc These can end up being very time-consuming but I hope my input has been helpful
+
+
+#### Who helped you this week?
+
+* KW and CL on grootgif-ing life
+* AF and JH on brainstorming on what I'm going to be when I grow up.... still not much clearer
+
+#### What did you achieve?
+
+* Recovered from IWD-week... whilst a celebratory week, I'm glad it only happens annually!
+* Went on holiday and had a good break
+* Used the half-a-week I had after the holiday to lots of the little bitty bits like Informatioon Governance training re-validation, follow-ing interviewees for the consumer data project, working on making some of my health policy paper graphics less ugly... I'm half way there 
+* Had a really positive conversation with OL, easy and potentially v aligned collaboration for a generalisability paper there which would be super exciting!
+
+#### What did you struggle with?
+
+* Acceptance that skiing holidays, when in a whiteout, are a total, and very painfully large, waste of money
+* Strengthening the narrative of this policy paper, I still find it a bit weak!
+
+#### What would you like to work on next week?
+
+* ACTUALLY send a draft of the policy paper round, which I've been avoiding for a while 
+* Identify a journal/conference that would be good to send it too
+* Run the first of the healthtech policy sessions successfully
+* Have an important emo day witth CH in Oxford
+* Go back to where I left off with the network analysis
+* Draft H2RaA with JF
+
+#### Where do you need help from Kirstie?
+
+* Comments on the policy paper, particularly a) Strenght of narrative and b) Viz... better than before but still not as good as it could be
+* See email I sent re WCMT Fellowship & BSA Fellowship in the Autumn
+
+#### Any other topics
+* Had a lovely evening meeting KW's happy crew. Nice to meet people not so deep in the healthtech bubble/cave that you have the same conversation on repeat
+* Turing Enrichmen video: Skip to 2.21, some KW luuuuurve https://www.youtube.com/watch?v=KvFDb1_nezM
+
+
+
+------
 
 ### Date: 21 December 2018
 
@@ -68,6 +117,8 @@
   * KW: So many exciting options :christmas_tree::santa::gift:
 
 #### Any other topics
+
+
 
 
 
