@@ -26,7 +26,7 @@
 
 * Recovered from IWD-week... whilst a celebratory week, I'm glad it only happens annually!
 * Went on holiday and had a good break
-* Used the half-a-week I had after the holiday to lots of the little bitty bits like Informatioon Governance training re-validation, follow-ing interviewees for the consumer data project, working on making some of my health policy paper graphics less ugly... I'm half way there 
+* Used the half-a-week I had after the holiday to lots of the little bitty bits like Informatioon Governance training re-validation, following interviewees for the consumer data project, working on making some of my health policy paper graphics less ugly... I'm half way there 
 * Had a really positive conversation with OL, easy and potentially v aligned collaboration for a generalisability paper there which would be super exciting!
 
 #### What did you struggle with?
@@ -37,15 +37,17 @@
 #### What would you like to work on next week?
 
 * ACTUALLY send a draft of the policy paper round, which I've been avoiding for a while 
-* Identify a journal/conference that would be good to send it too
-* Run the first of the healthtech policy sessions successfully
-* Have an important emo day witth CH in Oxford
-* Go back to where I left off with the network analysis
+* Identify a journal/conference that would be good to send it to
+* Run the first of the OHT healthtech policy sessions successfully
+* Have an important emo day with CH in Oxford
+* Go back to where I left off with the network analyses
 * Draft H2RaA with JF
+* Provide edits on MS's multiscale ethics paper
+* Draft a piece for Forbes/The Agenda/FT 
 
 #### Where do you need help from Kirstie?
 
-* Comments on the policy paper, particularly a) Strenght of narrative and b) Viz... better than before but still not as good as it could be
+* Comments on the policy paper, particularly a) Strength of narrative and b) Viz... better than before but still not as good as it could be
 * See email I sent re WCMT Fellowship & BSA Fellowship in the Autumn
 
 #### Any other topics
