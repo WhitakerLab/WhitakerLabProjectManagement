@@ -6,6 +6,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 **2019**
 
+* [17 March 2019](#date-17-march-2019)
 * [25 February 2019](#date-25-february-2019)
 * [10 February 2019](#date-10-february-2019)
 * [27 January 2019](#date-27-january-2019)
@@ -13,6 +14,124 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 * [14 January 2019](#date-14-january-2019)
 
 ---
+
+### Date: 17 March 2019
+
+*Covers the last 3 weeks*
+
+(Woah I did a lot!)
+
+#### Who did you help this week?
+
+* I'm super proud of the design work for the TPS scoping workshop and the health bazaar.
+* I think I was helpful in building up a selection criteria for next year's TPS projects.
+* I helped DG by running the Data Blitz.
+* I think I helped NP get out of a funk she was in :two_women_holding_hands:
+
+#### Who helped you this week?
+
+* NP, DR and JMA for really deeply inspiring me. As usual.
+* KC at DM made me feel all excited about building up a writing group :sparkling_heart:
+  * And I got a CHUNK of writing done! I'm so proud of myself!!
+* I don't know if he *helped* me exactly but I really enjoyed chatting with GH about community building.
+* PH for drafting some great Turing Way additions that were super easy for me to edit and complete :muscle:
+* JH listened to me on a whole bunch of things and it feels amazing 🤗
+* Turing [promoted me](https://twitter.com/turinginst/status/1103943645730881536) on International Womens Day. That was super nice :blush:
+  * All tweets are under [#TuringWomen](https://twitter.com/search?q=%23TuringWomen&src=typd)
+* Thank you to KC and VM for being so gracious through my improptu nosebleeds in our meeting!!
+
+#### What did you achieve?
+
+*(OMG SO FREAKING MUCH* :scream_cat::muscle::rocket:*)*
+
+* Welcomed Ang to the lab! :wave:
+* Moved YH's paperwork forwards
+* :rotating_light: New paper :rotating_light: Super excited to have the paper with Daphne out in eLife!!
+  * https://doi.org/10.7554/eLife.43979
+  * Need to promote! I've been too busy, but I want to write a blog post and get it tweeted about :sparkles:
+* Ran TWO Turing Way Binder workshops!!! YAAAAAAY!!
+  * Really great feedback: https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder/feedback
+  * Most importantly, we updated the session based on the Manchester workshop ([notes](https://github.com/alan-turing-institute/the-turing-way/issues/258)) and I think the London one went WAY smoother.
+  * I'm particularly proud of the [paired exercises](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/paired_examples.md).
+  I think they are really good for explaining why you need to capture your reproducible computational environment, but became MUCH clearer once we'd harmonised them a little!
+  * Got some binder stickers!! :heart_eyes::raised_hands::sparkles:
+* PM gave a great reproducible research lunch talk on provenance - Turing Way chapter needed!
+* Had a productive conversation (and so did LB) with champions about work needed to be done for Turing Way.
+* Submitted a [workshop proposal](https://github.com/alan-turing-institute/the-turing-way/blob/master/conferences/abstracts/CarpentryConnect_submission.md) to Carpentry Connect
+* Sorted out extension funding for Turing Way.
+  * WILDLY EXCITED that Rachael is going to be joining us! :heart::heart::heart:
+  * AND really looking forward to the [live scribe](http://www.scriberia.co.uk/projects/institute-of-physics)!!
+* Designed the *Turing Health Data Science Bazaar* for the Health Programme workshop in Manchester.
+  I was super proud of how it went.
+  * I think my talk was well received too :smiley_cat:
+  * https://doi.org/10.6084/m9.figshare.7819442
+* Gave feedback on the Tools, Practices and Systems selection criteria and co-designed workshop :green_heart:
+* 🏅 Submitted Autistica ethics!!! 🏅
+* Had a great Autistica design sprint!
+* Really great EAG meeting. Lovely new people and super supportive!
+  * Had a good writing meeting w JC.
+  * Great chat with PN at Cam Neuro. Good insider info.
+* Really fun chat at DM about the meaning of open and how it intersects with ethical data science :purple_heart:
+* Nice to be acknowledged in the blog post released for Carpentries Code of Conduct enforcement release
+  * https://carpentries.org/blog/2019/02/coc-documentation-release
+  * Was asked for my feedback on the UKRN code of conduct which builds off this one. Looks good!
+* Submitted response to Code for Science and Society survey on sustainability of open source research data tools
+  * https://blog.codeforscience.org/identifying-systemic-challenges-to-the-sustainability-of-data-driven-tooling/
+* Had another Whitaker lab meeting, and dinner out.
+  * Always super inspirational :blush:
+* Designed three fab figures for the DAS paper.
+* Went out for dinner with the Turing Lecture speaker Allison Randal who presented on [Open source influences on technology innovation](https://www.turing.ac.uk/events/turing-lecture-open-source-influences-technology-innovation).
+  * Surprisingly positive presentation! Interested to see how open source research can follow the successes of open stack web development.
+* Facilitated BEP001 call.
+  * Did a bit of refactoring for the repo, but it needs a chunk of sitting down and actually updating the text asap.
+* Got some of the details for the OHBM Hackathon sorted out.
+* Had a symposium, educational course AND software demo accepted to OHBM :rocket::star2:
+* Got Tibor's [blog post](https://www.ohbmbrainmappingblog.com/blog/surveying-open-science-practices-in-the-ohbm-community-an-interview-with-dr-tibor-auer) out (eventually!!):
+* Did some updates for the RainCloudPlots submission.
+  * [Open PR to update the README](https://github.com/RainCloudPlots/RainCloudPlots/pull/27)
+* Coordinated and hosted the Cambridge Neuroscience Seminar ECR Data Blitz!
+  * YAY to Kirstie of the past for writing such great instructions: https://github.com/WhitakerLab/DataBlitzResources
+* Did a LOT of reviews for the events steering committee! SO MANY applications :scream_cat:
+* Wrote a letter of support for HW.
+* Had a few wonderful conversations with Mozilla family members. :heart_eyes:
+  * See [this twitter thread](https://twitter.com/kirstie_j/status/1106656531372756992) for my silly busy week, and [this tweet specifically](https://twitter.com/kirstie_j/status/1106666119832719362) for how restorative and inspirational these conversations are
+* Had 2 chiropractor appts and booked a workplace assessment.
+* Ran 10K in the lake district 🏞️
+
+#### What did you struggle with?
+
+* Still in quite a lot of pain from my neck which makes working pretty hard.
+  * Currently using the high table at Greenwich Grind :coffee: as a standing desk :laughing:
+* These last 3 weeks have brought a pretty ridiculous about of mansplaining 🤦‍...so that wasn't great :unamused:
+  * At least a couple of them were witnessed so I had a buddy to have a little complain to afterwards!
+* I've *really* abandoned the GSOC projects and I Have to get back to those asap.
+* I forgot about the BEP001 call, and I haven't had time to concentrate on it :sob:
+* I *did* submit my research fish paperwork on time...just...but it wasn't complete. It only had papers. I need to find a LOT of time in the future to do that properly :weary:
+
+#### What would you like to work on next week?
+
+* Run the BinderHub workshop in Sheffield.
+* Sprint with the Turing Way team in Sheffield, ideally brainstorming what can be done by the Collaborations Workshop in a couple of weeks.
+* Give a talk in Cambridge on the Turing Way
+* Co-facilitate the Tools, Practices and Systems [scoping workshop](https://www.turing.ac.uk/events/tools-practices-and-systems-data-science-and-artificial-intelligence-scoping-workshop) in Cambridge.
+* Communicate with the GSOC folks!!!
+* Run another BEP001 call. HOPEFULLY see if I can get a few folks to add text to the `scr` while I'm zooming around these workshops?
+* Submit QueeReview ethics :crossed_fingers:
+* Make the DAS figures?? I don't know if that's possible, but maybe the first one could be done?
+* Sleep a whole bunch next weekend??? :sleeping: :zzz:
+
+#### Where do you need help?
+
+* I'm confident the Turing Way team are going to kick butt at the workshop and during the sprint. They'll help me, as they always do!
+* I need to liaise with GA about future plans and paper....not sure how that's going to go but I need some help there.
+* A couple of hugs for some not-so-nice interactions that are going to come up soon. *sigh*
+
+#### Any other topics
+
+WAAAAAH that was a busy three weeks.
+Unreal.
+
+I'm writing it here to make it so: I will put an out of office on my email when I'm in Rotterdam and I will NOT plan to work over those 5 days.
 
 ### Date: 25 February 2019
 

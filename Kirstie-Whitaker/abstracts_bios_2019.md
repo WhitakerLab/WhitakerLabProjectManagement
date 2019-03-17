@@ -27,6 +27,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * July
 * August
 * September
+  * [INCF Congress on Neuroinformatics](#incf-congress-on-neuroinformatics)
 * October
 * November
 * December
@@ -132,6 +133,11 @@ I hope to collaboratively build a programme of work that is equitable and ethica
 
 
 ### Turing Health Programme Workshop (Application for talk)
+
+> ***This talk was not selected***
+...but I did give a talk on "The Turing Way: Reproducible, Ethical and Collaborative Data Science" at the workshop.
+>
+> Slides for that talk at https://doi.org/10.6084/m9.figshare.7819442
 
 **Date**: 7 & 8 March 2019
 
@@ -251,6 +257,29 @@ You can find more information at her lab website: [whitakerlab.github.io](https:
 
 **Slides**: *Figshare link to slides (if applicable)*
 
+
+### INCF Congress on Neuroinformatics
+
+This is a keynote presentation in the *Building Open Science Communities: Social engineering aspects of Standards and Best Practices* session.
+
+**Website**: http://www.neuroinformatics2019.org
+
+**Date**: 1 & 2 September 2019
+
+**Title**: 10 Simple Rules for Running Open and Inclusive Projects (Online and IRL)
+
+**Abstract**:
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
+Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of people with mental health disorders.
+Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and participatory citizen science to educate non-autistic people about how they can better support autistic friends and colleagues.
+She is the lead developer of ["The Turing Way"](https://github.com/alan-turing-institute/the-turing-way), an openly developed educational resource to enable more reproducible data science.
+Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
+She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
+Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
+
+**Slides**: Figshare link to slides (if applicable)
 
 ---
 
