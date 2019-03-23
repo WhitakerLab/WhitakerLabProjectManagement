@@ -1,11 +1,74 @@
 # Weekly meetings
 
+* [18 March 2019](#date-18-march-2019)
 * [21 December 2018](#date-21-december-2018)
 * [20 November 2018](#date-20-november-2018) 
 * [29 October 2018](#date-29-october-2018) 
 * [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+
+
+### Date: 18 March 2019
+
+#### Who did you help this week?
+
+* Had quite a few cold-emails asking for advice on PhDs, general chatting etc These can end up being very time-consuming but I hope my input has been helpful
+  * KW: :sparkling_heart: Thank you for helping these folks out! It's so important to get feedback from current students when applying!
+
+#### Who helped you this week?
+
+* KW and CL on grootgif-ing life
+  * :heart: :muscle: 
+* AF and JH on brainstorming on what I'm going to be when I grow up.... still not much clearer
+  * KW: Whooooo knows. (Going to reply to your email today....)
+
+#### What did you achieve?
+
+* Recovered from IWD-week... whilst a celebratory week, I'm glad it only happens annually!
+* Went on holiday and had a good break
+* Used the half-a-week I had after the holiday to lots of the little bitty bits like Information Governance training re-validation, following interviewees for the consumer data project, working on making some of my health policy paper graphics less ugly... I'm half way there 
+  * KW: This all sounds amazing. Super fun!
+* Had a really positive conversation with OL, easy and potentially v aligned collaboration for a generalisability paper there which would be super exciting!
+  * KW: Awesome - tell me more when you next mett :sparkles:
+
+#### What did you struggle with?
+
+* Acceptance that skiing holidays, when in a whiteout, are a total, and very painfully large, waste of money
+  * KW: With delicious hot chocolate?
+* Strengthening the narrative of this policy paper, I still find it a bit weak!
+  * KW: Happy to help - I haven't had any time this week but I'll take a look next week :smiley_cat:
+  
+#### What would you like to work on next week?
+
+* ACTUALLY send a draft of the policy paper round, which I've been avoiding for a while 
+  * KW: :tada: On the reading list for next week.
+* Identify a journal/conference that would be good to send it to
+* Run the first of the OHT healthtech policy sessions successfully
+* Have an important emo day with CH in Oxford
+  * KW: :rocket::dizzy:
+* Go back to where I left off with the network analyses
+* Draft H2RaA with JF
+* Provide edits on MS's multiscale ethics paper
+* Draft a piece for Forbes/The Agenda/FT 
+
+KW: These all look incredible! Way to go :sparkles:
+
+#### Where do you need help from Kirstie?
+
+* Comments on the policy paper, particularly a) Strength of narrative and b) Viz... better than before but still not as good as it could be
+* See email I sent re WCMT Fellowship & BSA Fellowship in the Autumn
+
+KW: Can do - sorry I haven't been able to this week. Really excited to read the paper!
+
+#### Any other topics
+* Had a lovely evening meeting KW's happy crew. Nice to meet people not so deep in the healthtech bubble/cave that you have the same conversation on repeat
+* Turing Enrichmen video: Skip to 2.21, some KW luuuuurve https://www.youtube.com/watch?v=KvFDb1_nezM
+  * KW: AAAAAAAAAH! So lovely :heart_eyes::heart_eyes::heart_eyes:
+
+
+------
 
 ### Date: 21 December 2018
 
@@ -68,6 +131,8 @@
   * KW: So many exciting options :christmas_tree::santa::gift:
 
 #### Any other topics
+
+
 
 
 
