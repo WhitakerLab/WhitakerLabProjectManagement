@@ -1,5 +1,6 @@
 # Weekly meetings
 
+* [25 March 2019](#date-25-march-2019)
 * [18 March 2019](#date-18-march-2019)
 * [21 December 2018](#date-21-december-2018)
 * [20 November 2018](#date-20-november-2018) 
@@ -8,6 +9,65 @@
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
 
+### Date: 25 March 2019
+
+#### Who did you help this week?
+
+* CH have a think about the Health programme
+* Medical student who is trying to raise money to attend an MIT programme. Worked with her on writing a post to disseminate: https://onehealthtech.com/blog-post/from-medical-student-to-mit-harvard-health-innovation-bootcamper/
+
+KW: These are both AWESOME ways to help! Tweeted the OHT link.
+
+
+#### Who helped you this week?
+
+* AF on being resilient through some tough news at the start of the week
+  * KW: I don't think I know what this is (and I don't have to). But HUGS.
+* Audience in a presentation I did on my policy paper. No one cared about the changepoints, everyone was just interested in WHY dementia incidence had decreased. That was helpful insight.
+  * KW: Oooooh fascinating. Surprising...but super useful!
+* CL, DW, CE on final organisational bits for the OHT & ATI healthtech policy lunchtime session. Made it a breeze to run
+  * KW: YAY! I'm so sad I missed it! I hope it went well.
+* NG from ATI Partnerships who has been MIND-BLOWINGLY helpful in facilitating introductions for the consumer data piece of work. Really gone above and beyond to help find people from the Turing's partners and networks which is so kind
+  * KW: Aaaaaaah - this makes me so happy :heart_eyes:
+
+#### What did you achieve?
+
+* Submitted my policy paper for comments (finally!)
+* Presented my policy paper in UCL Institute of Health Informatics informal "Research Huddle"
+* Got a really good preliminary network analysis working out of the Safe Haven, though when I transferred it inside, my EHR data was too big and so now will need to re-code everything again. Boooo. V excited about this though. Feels nice to be doing new analyses.
+  * KW: GAH - stay strong. Ditto on the exciting analyses!!
+* Ran a successful OHT & ATI event on healthtech policy. People seemed to have a good time and DW was super friendly and fun with all the AV work
+* Ran an OHT in Oxford/Reading briefing session. Have identified an amazingly cool team to run the Hub there!
+* Had a good emo session with CH & wrote up the discussion and actions. In awe of their openness
+  * KW: :purple_heart:
+* Provided very thorough edits on a Reform think tank report at the moment on Data-driven technologies in Mental Health
+
+
+#### What did you struggle with?
+
+* You know what. There was a fair bit of crying. Enormous emotional exhaustion this week. AV resigned from OHT on Monday (for perfectly good reasons) but we are recruiting for a new commercial person anyway, so it's going to be very tough having 2 new people at the same time at the start of May, where I will have to do a lot of handover work... and keep finding money. Really dont want to be spending my time on important but complex things like this at the moment,  it feels very trapping. And all I want to do is PhD right now... also has brought up all sorts of negative feelings that I'm doing a really shit job with OHT, I manage badly, people think we are rubbish/I'm rubbish, we have grand plans but never deliver etc etc. My head is in the sand at the moment because I'd much rather be building my network analyses...
+  * KW: Ooooooph, lady. [Great big hugs](https://media.giphy.com/media/Lb3vIJjaSIQWA/giphy.gif). You're delivering all over the freaking shop, but I know the feeling of not being able to do as much as you'd hope.
+  * Shall we go for a Dishoom breakfast? Let me know if that would be helpful.
+
+#### What would you like to work on next week?
+
+* Not a lot of time as Monday is at a big NHS technology leadership conference I'm speaking at. Thursday I'm taking my Oxford students for a day out in London to visit cool healthtech organisations and Friday is this Royal Society AI in health event
+* Keep plodding away with my network analyses and the re-coding of that...
+  * KW: Always fun to do network stuff in your "spare time" :wink: I hope you get some!
+
+#### Where do you need help from Kirstie?
+
+* Arbitrary deadline of Friday EOD for the policy paper commments 
+  * KW: YEP - 2 hours in my calendar on Wednesday :muscle:
+* Probably a chat about priorities and time-/energy-management given OHT difficulties
+* Whopping email I sent last weekend has potentially solved itself (initiated by CH)... the BSA Fellowship website is very confusing and misleading though so would like your signature but I have to say, it's very unclear how/whether you can apply if your university isn't a "partner". I've emailed them for clarification
+   * KW: Got this sent :white_check_mark: Let me know if you need any more.
+
+#### Any other topics
+
+* Mortgage FINALLY got accepted after about 3 months. Phew/Jesus christ that was tough.
+
+-----------
 
 
 ### Date: 18 March 2019
