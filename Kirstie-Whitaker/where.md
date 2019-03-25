@@ -118,18 +118,18 @@ Date | Day   | City, Country                | Event
 17   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 18   | Mon   | :nut_and_bolt: Sheffield, UK | [Turing Way BinderHub workshop](https://www.eventbrite.co.uk/e/build-a-binderhub-registration-55336756729)
 19   | Tue   | :nut_and_bolt: Sheffield, UK | Turing Way sprint
-20   | Wed   | :mortar_board: Cambridge, UK | Working in Cambridge
-21   | Thurs | :mortar_board: Cambridge, UK | Turing T, S & P workshop
-22   | Fri   | :mortar_board: Cambridge, UK | Turing T, S & P workshop
+20   | Wed   | :mortar_board: Cambridge, UK | Talk at MRC-BSU
+21   | Thurs | :mortar_board: Cambridge, UK | [Turing TPS scoping workshop](https://www.turing.ac.uk/events/tools-practices-and-systems-data-science-and-artificial-intelligence-scoping-workshop)
+22   | Fri   | :mortar_board: Cambridge, UK | [Turing TPS scoping workshop](https://www.turing.ac.uk/events/tools-practices-and-systems-data-science-and-artificial-intelligence-scoping-workshop)
 23   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 24   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 25   | Mon   | :uk: London, UK              | Working at Turing Institute
 26   | Tue   | :uk: London, UK              | Working at Turing Institute
 27   | Wed   | :uk: London, UK              | [Delving into Digital conference](https://www.amrc.org.uk/event/delving-into-digital-2019)
 28   | Thurs | :uk: London, UK              | Working at Turing Institute
-29   | Fri   | :earth_africa: London, UK    | Mozilla Global Sprint
-30   | Sat   | :earth_africa: London, UK    | Mozilla Global Sprint
-31   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+29   | Fri   | :uk: London, UK              | Working at Turing Institute
+30   | Sat   | :family: Deeping, UK         | Vising family
+31   | Sun   | :family: Deeping, UK         | Vising family
 
 
 ### April 2019
@@ -145,7 +145,7 @@ Date | Day   | City, Country                | Event
 7    | Sun   | 🇳🇱 Rotterdam, UK              | Holiday
 8    | Mon   | 🇳🇱 Rotterdam, UK              | Holiday
 9    | Tue   | 🇳🇱 Rotterdam, UK              | Holiday
-10   | Wed   | 🇳🇱 Rotterdam, UK              | Holiday
+10   | Wed   | :uk: London, UK              | Working at Turing Institute
 11   | Thurs | :chocolate_bar: Birmingham, UK | [Inaugural meeting of the UK Network of Open Science Working Groups](https://sites.google.com/view/ukoswg19)
 12   | Fri   | :uk: London, UK              | Working at Turing Institute
 13   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
@@ -175,10 +175,10 @@ Date | Day   | City, Country                | Event
 1    | Wed   | :uk: London, UK              | Working at Turing Institute
 2    | Thurs | :uk: London, UK              | Working at Turing Institute
 3    | Fri   | :uk: London, UK              | Working at Turing Institute
-4    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-5    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-6    | Mon   | :uk: London, UK              | Working at Turing Institute
-7    | Tue   | :dromedary_camel: Portland, OR, USA | Travel to [csv,conf,v4](https://csvconf.com/)
+4    | Sat   | :dromedary_camel: Portland, OR, USA | Travel to [csv,conf,v4](https://csvconf.com/)
+5    | Sun   | :dromedary_camel: Portland, OR, USA | Having fun in Portland
+6    | Mon   | :dromedary_camel: Portland, OR, USA | Having fun in Portland
+7    | Tue   | :dromedary_camel: Portland, OR, USA | Having fun in Portland
 8    | Wed   | :dromedary_camel: Portland, OR, USA | [csv,conf,v4](https://csvconf.com/)
 9    | Thurs | :dromedary_camel: Portland, OR, USA | [csv,conf,v4](https://csvconf.com/)
 10   | Fri   | :dromedary_camel: Portland, OR, USA | Meetings post [csv,conf,v4](https://csvconf.com/)

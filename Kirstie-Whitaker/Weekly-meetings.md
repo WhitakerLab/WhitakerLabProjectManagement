@@ -6,6 +6,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 **2019**
 
+* [24 March 2019](#date-24-march-2019)
 * [17 March 2019](#date-17-march-2019)
 * [25 February 2019](#date-25-february-2019)
 * [10 February 2019](#date-10-february-2019)
@@ -14,6 +15,50 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 * [14 January 2019](#date-14-january-2019)
 
 ---
+
+### Date: 24 March 2019
+
+#### Who did you help this week?
+
+* I helped to run the Tools, Practices and Systems scoping workshop which I think went really well. So hopefully that helped JH and the participants!
+
+#### Who helped you this week?
+
+* The Turing Way team ran an amazing event up in Sheffield! :raised_hands:
+* Super appreciated the debrief afterwards and the sprint too.
+  * Lots of fun on the paternoster!
+* Thank you to MOR for the hug when I asked for it :purple_heart:
+
+#### What did you achieve?
+
+* First ever BinderHub workshop! It went really well, a few technical challenges but in generally it was fantastic. Great vibes and generally positive feedback.
+* Really productive Turing Way sprint. Made a freaking jupyter book YO!
+* Gave talk at MRC-BSU in Cambridge. Went pretty badly, but you can't win them all.
+* Co-facilitated Tools, Practices and Systems scoping workshop. The post-its and the posters (both printed and hand drawn) went SO MUCH FREAKING BETTER than I had imagined. It was fantastic!! :sparkling_heart:
+* Did some work on BEP001. Merged a few PRs and actually took notes at the meeting this time.
+* Got my annual appraisal form filled in.
+
+#### What did you struggle with?
+
+* I've really abandoned the GSOC students :sob: I've just been so freaking busy this month. I did manage to send a couple of emails, and hoping I can get a couple of PRs reviewed tomorrow morning :grimacing:
+* It's super hard building something in the open. Being told that "it doesn't seem to be ready yet" is a wicked hard comment to stomach.....but I need to hold my nerve and listen to the advice that I give to others. It will be ok. 🤗
+
+#### What would you like to work on next week?
+
+* DAS figures - I REALLY want to get these done.
+* Make some more progress on the 10 simple rules paper at writing club.
+* Survive my appraisal.
+* Reply to some emails :sob:
+* LAUNCH THE FREAKING TURING WAY :scream_cat:
+* Can I write a blog post for eLife paper?
+
+#### Where do you need help?
+
+* I can't think of anything specific....general support on the overwhelming number of emails I guess....but that's kind of a me thing.
+
+#### Any other topics
+
+I ran the most freaking difficult 10k today (Sunday) that I didn't realise was so hilly, so I'm now tired and dehydrated and pretty proud of myself. :sparkles:
 
 ### Date: 17 March 2019
 
