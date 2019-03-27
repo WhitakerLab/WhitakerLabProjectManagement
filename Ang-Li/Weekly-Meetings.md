@@ -1,4 +1,41 @@
 # Weekly Meetings
+* [28th March 2019](#date-28th-March-2019)
+
+### Date: 28th March 2019
+
+#### *Who did you help this week?*
+* I helped NN to make python learning plan  
+
+#### *Who helped you this week?*
+* KW & EA helped me onboard in Turing.
+* MM helped me to join some slack channels in Turing 
+
+#### *What did you achieve?*
+* A substantial work for the revision of my under reviewed paper
+* Have a basic understanding of Github
+* Know the logic & reason of  registered reports ([Registered Reports](https://cos.io/rr/))
+
+#### *What did you struggle with?*
+* in a world of one’s own (but I have to at this time)
+* My eyes are not fully recovered from the laser surgery, making it hard to work with my laptop for long time 
+* My spoken English seems terrible and block the in-depth communication with others
+
+#### *What would you like to work on next week?*
+* Take some time on revision 
+* Organize the thought to deal with IMAGEN data
+*  Know someone in Turing
+
+#### *Where do you need help from Kirstie?*
+* Finding a HPC: as it is important to organize & analyze IMAGEN data. 
+* Some suggestions for brain science salon or group meeting, as YN and I may need some regular environments to communicate with more people in this field. 
+* Some comments on revision if had time.
+
+_________
+
+
+
+
+# Weekly Meetings
 
 ### Date: [INSERT DATE OF MEETING]
 
