@@ -1,5 +1,6 @@
 # Weekly meetings
 
+* [1 April 2019](#date-1-april-2019)
 * [25 March 2019](#date-25-march-2019)
 * [18 March 2019](#date-18-march-2019)
 * [21 December 2018](#date-21-december-2018)
@@ -8,6 +9,59 @@
 * [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+
+
+### Date: 1 April 2019
+
+#### Who did you help this week?
+
+* Oxford Grad Medical students - Organised a big day out visiting interesting healthtech companies
+
+
+#### Who helped you this week?
+
+* AF... always...especially on OHT next plan of action
+* KW in being sympathetic and showing some love
+
+
+#### What did you achieve?
+
+* Presented at a big NHS-tech conference full of fancy people. Went really well!
+* Successfully transferred and re-coded most of my preliminary network analysis thus far into the Safe Haven! Alas the first results are not as jammy as I was hoping
+* Did my first consumer data interview, it went really well, lots of flow, but need to think about how to ask more awkward questions
+* I completed my information governance re-validation... wooop...
+* Got accepted to AAIC https://www.alz.org/aaic/overview.asp (poster and a presentation)! LA in July baby! (though, it clashes with writing up so not sure I'mm going to go)
+* Wrote a big proposal for BSA Media Fellowship/WCMT/OHT - Health ATI stuff for CH. Overall not very successful
+* Not really an "achievement" but I went to a Royal Society AI in Health workshop, and felt like I learnt and contributed well
+
+
+#### What did you struggle with?
+
+* Not much, was quite a hectic week with events, proposals, field trips etc. Just felt like I was on a bit of a treadmill, so no time to enjoy or struggle
+* I would say I struggled with the fact I didn't really feel like I did any meaningul PhD work, as the little I did was just re-coding. But that was always going to be the case, April is when everything gets a lot quieter because I have made it as such (yay to saying NO)
+* Not struggle per se but still prodding people for comments on my policy paper (the 2 most important people who do lots of work in this area haven't commented, so still plugging away)
+
+
+#### What would you like to work on next week?
+
+* Deeper dive into my network analyses - want to play around with different community dection, and impact models
+* Recruit a transcriber for my interviews. F*** no am I doing that
+* Present at an Optum Labs event 
+* ACTUALLY draft a blog for Forbes/The Agenda... I keep putting it to the bottom of the list
+* Friday is a day of interviews for the new OHT Commercial Director. Eeeeek, hope we have good people! It's looking v good
+* But mostly... just do a lot more head down analysis compared to last week
+
+#### Where do you need help from Kirstie?
+
+* Get comments on my policy paper in the Gdoc
+
+#### Any other topics
+
+
+
+-----------
+
 
 ### Date: 25 March 2019
 
