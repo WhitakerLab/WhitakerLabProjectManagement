@@ -1,5 +1,6 @@
 # Weekly meetings
 
+* [8 April 2019](#date-8-april-2019)
 * [1 April 2019](#date-1-april-2019)
 * [25 March 2019](#date-25-march-2019)
 * [18 March 2019](#date-18-march-2019)
@@ -10,6 +11,55 @@
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
 
+### Date: 8 April 2019
+
+#### Who did you help this week?
+
+* JP/Digital Health Oxford with a morale-boost on the pains of running communities
+* SD fromm the Health Foundation on NHS/analytics/open stuff (sent her to stalk KW)
+* WH on my thoughts on weird and fun stuff NHSX could be doing
+* YM get into a swanky event with Conde Nast
+* LS with OHT interviews
+
+
+#### Who helped you this week?
+
+* DF & PB on thinking through OHT commercial stuff
+* JM on dealing with toxic people/patronising people
+
+
+#### What did you achieve?
+
+* This week was a bit too event-heavy, but all were SO worth it which is rare.... 
+* Monday: Really interesting Women in Health dinner with Deloitte where we set the world straight
+* Tuesday morning: ICHP & Draper event on how data and the public system interface (#intersections)
+* Wednesday: Spoke at an Optum Labs event about my 3 basic things to watch when trying to translate "new analytical methods" (those things were feature engingeering, what outcome metric you're optimising/is it economically viable, and simple models often work better with NHS data)
+* Thursday: Saw Mariana Mazzucato speak about the "Value of everything" which was predictably impressive
+* Did a whole day of interviews for the 2 new OHT roles and have found PERFECT people! Fingers crossed they accept
+* I reviewed a draft paper from MS on ethics at different scales
+* Got all the commments back on my policy paper and have started assimilating 
+* Did all the followup and wrap up from my Oxford students day out, feedback coming in and was very positive!
+
+
+#### What did you struggle with?
+
+* I reeeally struggled with the quirks of working with network classes in R. I'm new to them and felt like I was stuck on a few lines of code for aaaaagees. Next week is basically empty so I'm really looking forward to getting more confident with tidygraph generally as the bits and bobs here and there mean I haven't got to grips with how the package works
+
+
+#### What would you like to work on next week?
+
+* Become more confident with tidygraph and try to get some sound analyses, as the first batch from this week were correct but didn't tell me much (doh!)
+* Re-draft (in quite a big way) my health policy paper
+
+#### Where do you need help from Kirstie?
+
+* Nothing :-)
+
+#### Any other topics
+
+
+
+-----------
 
 
 ### Date: 1 April 2019
