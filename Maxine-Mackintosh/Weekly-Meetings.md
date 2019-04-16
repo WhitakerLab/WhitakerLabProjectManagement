@@ -1,6 +1,6 @@
 # Weekly meetings
 
-* [8 April 2019](#date-8-april-2019)
+* [15 April 2019](#date-15-april-2019)
 * [1 April 2019](#date-1-april-2019)
 * [25 March 2019](#date-25-march-2019)
 * [18 March 2019](#date-18-march-2019)
@@ -10,6 +10,50 @@
 * [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+### Date: 15 April 2019
+
+#### Who did you help this week?
+
+* JM with a place to crash for free in Oxford
+* CH to brainstorm some ideas on new models for CRUK
+* AV on some indepth new website bug finding and tweaking
+* LS on doing OHT job descriptions, contracts etc
+
+
+#### Who helped you this week?
+
+* All the people who provided me with commments on my health policy paper
+* TY to signpost some good resources for my network analysis
+* SD for highlighting how good I am at starting projects, just not finishing...
+
+
+#### What did you achieve?
+
+* Breakthrough on wtf to do with this broken and all over the place health policy papaer. Yaaaaay.
+* Finished my preliminary network piece: Made a dementia/EHR version of this paper https://arxiv.org/pdf/1804.05584.pdf 
+
+
+#### What did you struggle with?
+
+* Spent aaaages working out igraph plotting quirks (like 8 hours...)
+* Saying goodbye to work I had done and written up because it simply didn't have its place in the paper (health policy paper)
+
+
+#### What would you like to work on next week?
+
+* Re-hashing thee approach of the health policy paper
+* Do some of the homework TY set for linking togeteher mmy network work and pattern mining work
+
+#### Where do you need help from Kirstie?
+
+* Nothing :-)
+
+#### Any other topics
+
+
+
+-----------
 
 ### Date: 8 April 2019
 
