@@ -1,6 +1,70 @@
 # Weekly Meetings
 
 * [28th March 2019](#date-28th-March-2019)
+* [17th Apirl 2019](#date-17th-April-2019)
+
+
+### Date: 17th April 2019
+
+#### Who did you help this week?
+
+* Help NN by supervising her Python learning.
+
+#### Who helped you this week?
+
+* KW gave me much sopport, such as helping me to apply for a Cambridge Raven account. 
+* GX helped me to build the FSA website. 
+* AZ and OH helped me improve my revision work. 
+
+#### What did you achieve?
+
+* Almost finish the revision! The new result gained recognition from some top Chinese psychiatrists and OH! 
+  OH is probably the most leading scientist in this specifc field, which means our biomarker has a plausible 
+  potential clincal practice. 
+
+* Move to a new house! The landlords are so nice and also the house. There are so many equipments including 
+  dish-washing machine and drying machinery. I believe the London life will be easier. There's a big TV and 
+  dining-table and a very gentle labrador. 
+
+* Having a great discussion with AC and having emails with MS. AC is skilled in machine learning and interested 
+  in psychiatry. Thanks KW for the introduing. MS's background is physics, imaging genetics et al and she had done 
+  some really fantastic work, which were published in some top journals. 
+  It will be great taht both AC and MS will attend our Turing group meeting. 
+
+* Writing the analysis plan of IMAGEN data.
+
+* Thinking deeply of what I can achieve in Turing. 
+
+
+#### What did you struggle with?
+
+* Cambridge server! I strangely lost my password and I had to go Cambridge to reset. Hope I can finish it 
+  in this week. I wasted too much on this. 
+
+* Having some different plans or opinions with KW, I'm afraid she will feel disappointment. I struggled but I
+  still hope to discuss with her evently. 
+
+* The applying of ABCD dataset as well as the download.
+
+* Haven't got Turing card. 
+ 
+
+#### What would you like to work on next week?
+
+* Improving revision basing on the comments from OH.
+
+* Getting Cambridge server account and get enough space to analysis IMAGEN data. I hope I can do it and 
+  run some code !!! If I can get enough space, I can download some dataset from OpenNeuro as KW suggested. 
+
+
+#### Where do you need help from Kirstie?
+
+* I hope she can help me to upload the IMAGEN data, as I have no fixed computer that can do this. I also hope she can 
+  closely support me to use the server successfully. 
+
+* Giving some suggestions on the coming Turing group meeting. (I guess many great ideas and collaboration will start from this meeting).
+
+_________
 
 ### Date: 28th March 2019
 
