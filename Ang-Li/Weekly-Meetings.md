@@ -1,7 +1,7 @@
 # Weekly Meetings
 
+* [17th April 2019](#date-17th-April-2019)
 * [28th March 2019](#date-28th-March-2019)
-* [17th Apirl 2019](#date-17th-April-2019)
 
 
 ### Date: 17th April 2019
@@ -12,57 +12,66 @@
 
 #### Who helped you this week?
 
-* KW gave me much sopport, such as helping me to apply for a Cambridge Raven account. 
-* GX helped me to build the FSA website. 
-* AZ and OH helped me improve my revision work. 
+* KW gave me much support, such as helping me to apply for a Cambridge Raven account.
+* GX helped me to build the FSA website.
+* AZ and OH helped me improve my revision work.
 
 #### What did you achieve?
 
 * Almost finish the revision! The new result gained recognition from some top Chinese psychiatrists and OH! 
-  OH is probably the most leading scientist in this specifc field, which means our biomarker has a plausible 
+  OH is probably the most leading scientist in this specific field, which means our biomarker has a plausible 
   potential clincal practice. 
-
+  * KW: Woooo! :sparkles: :rocket: :star2:
 * Move to a new house! The landlords are so nice and also the house. There are so many equipments including 
   dish-washing machine and drying machinery. I believe the London life will be easier. There's a big TV and 
-  dining-table and a very gentle labrador. 
-
+  dining-table and a very gentle labrador.
+  * KW: YAY! Fantastic! :house: :smiley:
 * Having a great discussion with AC and having emails with MS. AC is skilled in machine learning and interested 
   in psychiatry. Thanks KW for the introduing. MS's background is physics, imaging genetics et al and she had done 
   some really fantastic work, which were published in some top journals. 
-  It will be great taht both AC and MS will attend our Turing group meeting. 
-
+  It will be great that both AC and MS will attend our Turing group meeting. 
+  * KW: Fantastic! Looks awesome :sparkles:
 * Writing the analysis plan of IMAGEN data.
-
-* Thinking deeply of what I can achieve in Turing. 
-
-
+* Thinking deeply of what I can achieve in Turing.
+  * Checkout https://www.turing.ac.uk/research/interest-groups/data-science-mental-health
+  
 #### What did you struggle with?
 
 * Cambridge server! I strangely lost my password and I had to go Cambridge to reset. Hope I can finish it 
   in this week. I wasted too much on this. 
-
-* Having some different plans or opinions with KW, I'm afraid she will feel disappointment. I struggled but I
-  still hope to discuss with her evently. 
-
+  * KW: Aaaaah, so sad. But at least you can go and see Cambridge! Be careful that it is the Easter holidays soon so check the opening times before you go!
+* Having some different plans or opinions with KW, I'm afraid she will feel disappointment. I struggled but I still hope to discuss with her evently.
+  * KW: We'll figure it all out! Don't worry :hibiscus:
 * The applying of ABCD dataset as well as the download.
-
+  * KW: Email sent to ask about the download - but writing the registered report and submitting it for peer review is the most important next step. 
 * Haven't got Turing card. 
- 
+  * KW: :sob: cc me and I'll chase.
 
 #### What would you like to work on next week?
 
 * Improving revision basing on the comments from OH.
-
 * Getting Cambridge server account and get enough space to analysis IMAGEN data. I hope I can do it and 
-  run some code !!! If I can get enough space, I can download some dataset from OpenNeuro as KW suggested. 
-
-
+  run some code!!! If I can get enough space, I can download some dataset from OpenNeuro as KW suggested. 
+  * KW: Can you check on the HPHI access application? You'll need to just send them an email and ask how much space they can allocate.
+  * Did you talk with Alex about using the Turing resources? He uses the Azure machines because they're better for big computational processes than the HPHI. Worth chatting with him to see what's best.
+  
 #### Where do you need help from Kirstie?
 
 * I hope she can help me to upload the IMAGEN data, as I have no fixed computer that can do this. I also hope she can 
-  closely support me to use the server successfully. 
-
+  closely support me to use the server successfully.
+  * KW: Yes - happy to - once you've got access!
+  * Alex can also help you (probably better than me!) with this.
 * Giving some suggestions on the coming Turing group meeting. (I guess many great ideas and collaboration will start from this meeting).
+  * KW: Super happy to give some feedback. My biggest recommendation is just to put a regular meeting in the calendar (every 2 weeks, every month etc) and then write a little description so that its clear who can come along and what they'll expect.
+  * You'll have to figure out whether you'd like it to be a small invited group (more productive, but you might miss some interesting people) or a bigger seminar (which will bring lots of people together but it will be harder to develop a full collaboration.)
+
+#### Any other topics
+
+* KW: I really like your ideas for writing up a piece about transparent research within small research teams! Happy to work on that with you :smile:
+* If you'd like to join the GSCO students for their projects please join the gitter chat channels:
+  * https://gitter.im/WhitakerLab/scona
+  * https://gitter.im/ME-ICA/tedana
+  * and if you can get notifications on the github repositories that would be great too
 
 _________
 
