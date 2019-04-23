@@ -20,29 +20,31 @@
 * AV on some indepth new website bug finding and tweaking
 * LS on doing OHT job descriptions, contracts etc
 
+KW: All AWESOME! :sparkles:
 
 #### Who helped you this week?
 
 * All the people who provided me with commments on my health policy paper
 * TY to signpost some good resources for my network analysis
 * SD for highlighting how good I am at starting projects, just not finishing...
-
+  * KW: awwwww - burn :fire: Let me know if there's anything I can do to help!
 
 #### What did you achieve?
 
 * Breakthrough on wtf to do with this broken and all over the place health policy papaer. Yaaaaay.
+  * KW: YES! Well done!
 * Finished my preliminary network piece: Made a dementia/EHR version of this paper https://arxiv.org/pdf/1804.05584.pdf 
-
+  * KW: AAAAAH SO COOL!
 
 #### What did you struggle with?
 
 * Spent aaaages working out igraph plotting quirks (like 8 hours...)
 * Saying goodbye to work I had done and written up because it simply didn't have its place in the paper (health policy paper)
-
+  * KW: Ooooph. Hard to do, and necessary.
 
 #### What would you like to work on next week?
 
-* Re-hashing thee approach of the health policy paper
+* Re-hashing the approach of the health policy paper
 * Do some of the homework TY set for linking togeteher mmy network work and pattern mining work
 
 #### Where do you need help from Kirstie?
@@ -51,7 +53,7 @@
 
 #### Any other topics
 
-
+KW: You're absolutely rocking along. WAY TO GO.
 
 -----------
 
@@ -60,7 +62,9 @@
 #### Who did you help this week?
 
 * JP/Digital Health Oxford with a morale-boost on the pains of running communities
+  * KW :heart:
 * SD fromm the Health Foundation on NHS/analytics/open stuff (sent her to stalk KW)
+  * KW: Did I get this message and miss it?
 * WH on my thoughts on weird and fun stuff NHSX could be doing
 * YM get into a swanky event with Conde Nast
 * LS with OHT interviews
@@ -70,7 +74,7 @@
 
 * DF & PB on thinking through OHT commercial stuff
 * JM on dealing with toxic people/patronising people
-
+  * KW: Ooooph. Share those skills onwards :hugging:
 
 #### What did you achieve?
 
@@ -78,17 +82,19 @@
 * Monday: Really interesting Women in Health dinner with Deloitte where we set the world straight
 * Tuesday morning: ICHP & Draper event on how data and the public system interface (#intersections)
 * Wednesday: Spoke at an Optum Labs event about my 3 basic things to watch when trying to translate "new analytical methods" (those things were feature engingeering, what outcome metric you're optimising/is it economically viable, and simple models often work better with NHS data)
+  * KW: OH I LOVE IT!
 * Thursday: Saw Mariana Mazzucato speak about the "Value of everything" which was predictably impressive
 * Did a whole day of interviews for the 2 new OHT roles and have found PERFECT people! Fingers crossed they accept
+  * KW: AAAAAAH! 🥂
 * I reviewed a draft paper from MS on ethics at different scales
 * Got all the commments back on my policy paper and have started assimilating 
 * Did all the followup and wrap up from my Oxford students day out, feedback coming in and was very positive!
-
+  * KW: YAY!
 
 #### What did you struggle with?
 
 * I reeeally struggled with the quirks of working with network classes in R. I'm new to them and felt like I was stuck on a few lines of code for aaaaagees. Next week is basically empty so I'm really looking forward to getting more confident with tidygraph generally as the bits and bobs here and there mean I haven't got to grips with how the package works
-
+  * KW: :muscle:
 
 #### What would you like to work on next week?
 
@@ -101,7 +107,7 @@
 
 #### Any other topics
 
-
+KW: Still amazing 🤯
 
 -----------
 
