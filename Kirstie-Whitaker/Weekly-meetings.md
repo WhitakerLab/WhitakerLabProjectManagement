@@ -6,6 +6,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 **2019**
 
+* [23 April 2019](#date-23-april-2019)
 * [24 March 2019](#date-24-march-2019)
 * [17 March 2019](#date-17-march-2019)
 * [25 February 2019](#date-25-february-2019)
@@ -15,6 +16,80 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 * [14 January 2019](#date-14-january-2019)
 
 ---
+
+### Date: 23 April 2019
+
+*Covers a month - whoops*
+
+#### Who did you help this month?
+
+* I cheered James along on his marathon! :runner::dash::dash::dash:
+* Helped write some docs for the DSG/Data Safe Haven
+* AC .... but see below
+* Had a good chat w GMI about visualisation and TPS
+
+#### Who helped you this month?
+
+* EDP & GK for being everlastingly wonderful
+* NP for her hug at the Cambridge train station
+* SM for joining the Autistica project
+* The AMAZING folks who joined the Turing Way hackgroup at CollabW19
+* AC for welcoming AL and getting me all jazzed about ML in neuroimaing :sparkles:
+* KP made me feel really nice :hugging:
+* Lovely lunch w JC :smiley_cat:
+
+#### What did you achieve?
+
+* Collaborations Workshop!! Exhausting!
+  * Went great though, fantastic hack day on the Turing Way
+* Gave talk at inaugural meeting of the UK Network of Open Research Working Groups
+  * https://doi.org/10.6084/m9.figshare.7981670
+* The team at Autistica made this fun video of me talking about the citizen science project
+  * https://twitter.com/AutisticaUK/status/1113812167474675713
+* Finally hired someone for the Autistica/Turing project!! YAAAAAY :rocket::sparkles:
+* Gave talk at Sainsbury Wellcome Centre on Autistica project - didn't go great but was fine
+  * https://doi.org/10.5281/zenodo.2638050
+  * Met DK which was a freaking delight
+* Opened OHBM Hackathon applications, coded up the lottery, sent out selection emails
+  * Also had some productive discussions around elections for next year
+* Survived my appraisal
+* Had a fun catch up call w MK
+* Opened Book Dash applications for Turing Way
+* Made some progress on case studies for Turing Way
+* Sent off abstract for INCF talk - excited about that!
+  * https://twitter.com/kirstie_j/status/1118401811910746112
+* Wrote blog for Turing website about eLife paper
+  * https://www.turing.ac.uk/blog/beyond-algorithm-data-science-scientific-life-cycle
+* Joined mental health EDI working group
+* Met w PJ re: Turing Way
+* Developed TPS project idea w GP, HD & NG
+* GSOC student applications reviewed
+* Chaired tedana call
+* Had a couple of lab meetings
+* Sent email to PC for EAG
+
+#### What did you struggle with?
+
+* Had a tough time setting expectations & balancing appropriate investment of my time.
+* Didn't get the breaks I was hoping for in Rotterdam (poorly 🤒) and Easter (unexpected work needed) and so I still feel like I'm wildly behind everything.
+* Lab meetings need to be written down with clear expectations.
+
+#### What would you like to work on next week?
+
+* Update website, onboarding and lab meeting plan
+* Set expectations for GSOC students, and schedule
+* Apply to GSOD
+* Automating the crowd writing?
+* TPS project applications
+
+#### Where do you need help?
+
+* I think I'm ok on what needs to be done...just....you know....more time :sob:
+
+#### Any other topics
+
+I'm pretty sure I've forgotten a bunch of stuff.
+I'll try to be better at actually FILLING THIS IN! :grimacing:
 
 ### Date: 24 March 2019
 
