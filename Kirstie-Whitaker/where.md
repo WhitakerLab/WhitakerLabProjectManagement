@@ -184,22 +184,22 @@ Date | Day   | City, Country                | Event
 10   | Fri   | :dromedary_camel: Portland, OR, USA | Meetings post [csv,conf,v4](https://csvconf.com/)
 11   | Sat   | :dromedary_camel: Portland, OR, USA | Travel home from [csv,conf,v4](https://csvconf.com/)
 12   | Sun   | :dromedary_camel: Portland, OR, USA | Travel home from [csv,conf,v4](https://csvconf.com/)
-13   | Mon   | :uk: London, UK              | Working at Turing Institute
-14   | Tue   | :uk: London, UK              | Working at Turing Institute
+13   | Mon   | :uk: London, UK              | [Software Citation Workshop](https://www.eventbrite.co.uk/e/software-citation-workshop-tickets-59519083180)
+14   | Tue   | :uk: London, UK              | [Software Citation Workshop](https://www.eventbrite.co.uk/e/software-citation-workshop-tickets-59519083180)
 15   | Wed   | :uk: London, UK              | Working at Turing Institute
 16   | Thurs | :uk: London, UK              | Working at Turing Institute
-17   | Fri   | :uk: London, UK              | Working at Turing Institute
-18   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-19   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-20   | Mon   | :uk: London, UK              | Working at Turing Institute
-21   | Tue   | :uk: London, UK              | Working at Turing Institute
+17   | Fri   | :bee: Manchester, UK         | Turing Way Book Dash :books::dash:
+18   | Sat   | 🏔️ Vienna, Austria          | Seeing friends
+19   | Sun   | 🏔️ Vienna, Austria          | Seeing friends
+20   | Mon   | 🏔️ Saltzburg, Austria       | IMPRS-TP retreat
+21   | Tue   | :uk: London, UK              |[Pint of Science panel event](https://pintofscience.co.uk/event/empowering-autistic-people-through-citizen-science)
 22   | Wed   | :uk: London, UK              | Working at Turing Institute
 23   | Thurs | :uk: London, UK              | Working at Turing Institute
 24   | Fri   | :uk: London, UK              | Working at Turing Institute
 25   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 26   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-27   | Mon   | :uk: London, UK              | Working at Turing Institute
-28   | Tue   | :uk: London, UK              | Working at Turing Institute
+27   | Mon   | :uk: London, UK              | Turing Way book dash :books::dash:
+28   | Tue   | :uk: London, UK              | Turing Way book dash :books::dash:
 29   | Wed   | :uk: London, UK              | Working at Turing Institute
 30   | Thurs | :uk: London, UK              | Working at Turing Institute
 31   | Fri   | :uk: London, UK              | Working at Turing Institute
