@@ -8,43 +8,52 @@
 
 #### Who did you help this week?
 
+* KW: Helped friend with writing her paper
+
 #### Who helped you this week?
 
 * BW and OG helped with Azure 
 * KW helped me to chase Cambridge password reset
-
+  * KW: Cool - hopefully you can get it reset in person on Monday 🤞
+  
 #### What did you achieve?
 
 * Kind of figured out the workflow of analyzing ABCD data with Azure. (Take much time)
 * Improved the revision. 
 * Had some progress on IMAGEN data preprocessing. 
 * Got a idea for pre-registered study on ABCD data.
+  * KW: Great - work with YH on developing this idea :smiley:
 * Made a very brief timeline for pre-registered study on ABCD data.
-
+  * KW: Great - I'm skeptical that you'll get everything done in a few months, but GO FOR IT!
+ 
 #### What did you struggle with?
 
 * How to use Azure more graciously
-* Struggled a lot on revision. 
+* Struggled a lot on revision
 
 #### What would you like to work on next week?
 
-* Improving NM Revision basing on the suggestions from OH and AZ. 
+* Improving NM Revision basing on the suggestions from OH and AZ
 * Uploading IMAGEN data to the Azure
-* Set up computational environment on Azure. 
+* Set up computational environment on Azure
   
 #### Where do you need help from Kirstie?
 
-* I hope to know if it's possbile to lengthen the visiting?
+* I hope to know if it's possible to lengthen the visiting?
+  * KW: We can discuss in September
 * Can we apply for a project subscription on Azure for ABCD study?
+  * KW: Sure - once we have a justification and costings.
 * Some suggestions for me to apply for visa for OHBM (Schengen visa or conference visa)
+  * I think the info you need is at: https://www.schengenvisainfo.com/italy-visa/uk/
+    * https://www.schengenvisainfo.com/how-to-fill-visa-application-form
+    * https://www.schengenvisainfo.com/download-schengen-visa-application-form
+    * https://www.vfsglobal.com/Italy/UK/London/contact_us.html#1
+    * https://www.vfsglobal.com/Italy/UK/London/Schedule_an_Appointment1.html
+    * https://www.humanbrainmapping.org/files/2019/2019_Invitation2_Letter-OHBMFORM.pdf
 
 #### Any other topics
 
-* KW: I really like your ideas for writing up a piece about transparent research within small research teams! Happy to work on that with you :smile:
-* If you'd like to join the GSCO students for their projects please join the gitter chat channels:
-  * https://gitter.im/WhitakerLab/scona
-  * https://gitter.im/ME-ICA/tedana
-  * and if you can get notifications on the github repositories that would be great too
+KW: Good luck with the revision and with the IMAGEN analyses. Excited to look over the registered report plan as it develops :sparkles:
 
 _________
 
