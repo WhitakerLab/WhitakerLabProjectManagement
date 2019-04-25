@@ -1,8 +1,52 @@
 # Weekly Meetings
 
+* [25th April 2019](#date-25th-April-2019)
 * [17th April 2019](#date-17th-April-2019)
 * [28th March 2019](#date-28th-March-2019)
 
+### Date: 25th April 2019
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+* BW and OG helped with Azure 
+* KW helped me to chase Cambridge password reset
+
+#### What did you achieve?
+
+* Kind of figured out the workflow of analyzing ABCD data with Azure. (Take much time)
+* Improved the revision. 
+* Had some progress on IMAGEN data preprocessing. 
+* Got a idea for pre-registered study on ABCD data.
+* Made a very brief timeline for pre-registered study on ABCD data.
+
+#### What did you struggle with?
+
+* How to use Azure more graciously
+* Struggled a lot on revision. 
+
+#### What would you like to work on next week?
+
+* Improving NM Revision basing on the suggestions from OH and AZ. 
+* Uploading IMAGEN data to the Azure
+* Set up computational environment on Azure. 
+  
+#### Where do you need help from Kirstie?
+
+* I hope to know if it's possbile to lengthen the visiting?
+* Can we apply for a project subscription on Azure for ABCD study?
+* Some suggestions for me to apply for visa for OHBM (Schengen visa or conference visa)
+
+#### Any other topics
+
+* KW: I really like your ideas for writing up a piece about transparent research within small research teams! Happy to work on that with you :smile:
+* If you'd like to join the GSCO students for their projects please join the gitter chat channels:
+  * https://gitter.im/WhitakerLab/scona
+  * https://gitter.im/ME-ICA/tedana
+  * and if you can get notifications on the github repositories that would be great too
+
+_________
 
 ### Date: 17th April 2019
 
