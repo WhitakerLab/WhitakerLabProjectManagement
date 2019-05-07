@@ -1,5 +1,5 @@
 # Weekly meetings
-
+* [7 May 2019](#date-7-may-2019)
 * [15 April 2019](#date-15-april-2019)
 * [1 April 2019](#date-1-april-2019)
 * [25 March 2019](#date-25-march-2019)
@@ -10,6 +10,52 @@
 * [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+### Date: 7 May 2019
+
+#### Who did you help this week?
+
+* PhD student who got quite stressed about the Enrichment Scheme application who I helped (albeit a while back) got an offer! Yay!
+* OHT London Hub run 2 events
+* Lots of Hub volunteers! Feels quite nice to be interacting with everyone again
+
+
+#### Who helped you this week?
+
+* AO - Our new awesome developer for OHT in Nigeria
+* RA & AGI on doing a light touch review of my totally re-worked health policy paper. Luckily it's now not totally shit!
+* WCT & TH to sort out my huge being paid isssue - haven't been paid since December :-( (+ mum and dad for loaning me money)
+
+#### What did you achieve?
+
+* Honestly, I've had quite a distracted 10 days with OHT :-( But within that, I achieved A LOT!
+* I totally re-built the OHT website with a combo of Wix, crappy Javascript and a bit of professional help. Honeslty I am SO chuffed, and it also gave me a feeling I need to reflect on. I like BUILDING things, not so much ANALYSING things. The infinitely far goal-post is just a bit.... lame. Hoping to launch this week (with plenty of bugs I'm sure but I'm still chuffed and it looks well sexy.
+* Re-did ALL the Hub Handbooks to reflect new ways of working 
+* Started reviewing my 22 UKRI assessments (£££!)
+* Had some brain space and clearly articulated my last network analysis project - that has 3 parts. All of which I have done about 50% of I realis which makes me further ahead than I thought
+* Sorted out an organised A LOT of unclaimed expenses (woops), but least it will feel like I'm getting paid
+* Did another 3 interviews for my consumer data project
+* Ran another successful event at the ATI: https://www.youtube.com/watch?v=9MRmljdyDkY
+
+#### What did you struggle with?
+
+* My upgrade paper finally got rejected, with really helpful comments like "EHR is not a useful term"...
+* Frustration that I was getting so PhD distracted but also aware if I don't do this now it will be really terrible over the summer
+
+#### What would you like to work on next week?
+
+* Now that I've had the go ahead from RA & AGI on the health policy paper to start compiling my new paper
+* Meet with SD to discuss what to do with my rejected paper
+* This week I want to finish Part 1 of my networks project (which is my sequence pattern mining bit)
+
+#### Where do you need help from Kirstie?
+
+* OHT damage control - breakfast invite sent!
+
+#### Any other topics
+
+
+---
 
 ### Date: 15 April 2019
 
