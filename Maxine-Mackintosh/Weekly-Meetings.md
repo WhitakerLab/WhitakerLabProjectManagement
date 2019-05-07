@@ -1,5 +1,7 @@
 # Weekly meetings
-
+* [7 May 2019](#date-7-may-2019)
+* [15 April 2019](#date-15-april-2019)
+* [1 April 2019](#date-1-april-2019)
 * [25 March 2019](#date-25-march-2019)
 * [18 March 2019](#date-18-march-2019)
 * [21 December 2018](#date-21-december-2018)
@@ -8,6 +10,204 @@
 * [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+### Date: 7 May 2019
+
+#### Who did you help this week?
+
+* PhD student who got quite stressed about the Enrichment Scheme application who I helped (albeit a while back) got an offer! Yay!
+* OHT London Hub run 2 events
+* Lots of Hub volunteers! Feels quite nice to be interacting with everyone again
+
+
+#### Who helped you this week?
+
+* AO - Our new awesome developer for OHT in Nigeria
+* RA & AGI on doing a light touch review of my totally re-worked health policy paper. Luckily it's now not totally shit!
+* WCT & TH to sort out my huge being paid isssue - haven't been paid since December :-( (+ mum and dad for loaning me money)
+
+#### What did you achieve?
+
+* Honestly, I've had quite a distracted 10 days with OHT :-( But within that, I achieved A LOT!
+* I totally re-built the OHT website with a combo of Wix, crappy Javascript and a bit of professional help. Honeslty I am SO chuffed, and it also gave me a feeling I need to reflect on. I like BUILDING things, not so much ANALYSING things. The infinitely far goal-post is just a bit.... lame. Hoping to launch this week (with plenty of bugs I'm sure but I'm still chuffed and it looks well sexy.
+* Re-did ALL the Hub Handbooks to reflect new ways of working 
+* Started reviewing my 22 UKRI assessments (£££!)
+* Had some brain space and clearly articulated my last network analysis project - that has 3 parts. All of which I have done about 50% of I realis which makes me further ahead than I thought
+* Sorted out an organised A LOT of unclaimed expenses (woops), but least it will feel like I'm getting paid
+* Did another 3 interviews for my consumer data project
+* Ran another successful event at the ATI: https://www.youtube.com/watch?v=9MRmljdyDkY
+
+#### What did you struggle with?
+
+* My upgrade paper finally got rejected, with really helpful comments like "EHR is not a useful term"...
+* Frustration that I was getting so PhD distracted but also aware if I don't do this now it will be really terrible over the summer
+
+#### What would you like to work on next week?
+
+* Now that I've had the go ahead from RA & AGI on the health policy paper to start compiling my new paper
+* Meet with SD to discuss what to do with my rejected paper
+* This week I want to finish Part 1 of my networks project (which is my sequence pattern mining bit)
+
+#### Where do you need help from Kirstie?
+
+* OHT damage control - breakfast invite sent!
+
+#### Any other topics
+
+
+---
+
+### Date: 15 April 2019
+
+#### Who did you help this week?
+
+* JM with a place to crash for free in Oxford
+* CH to brainstorm some ideas on new models for CRUK
+* AV on some indepth new website bug finding and tweaking
+* LS on doing OHT job descriptions, contracts etc
+
+KW: All AWESOME! :sparkles:
+
+#### Who helped you this week?
+
+* All the people who provided me with commments on my health policy paper
+* TY to signpost some good resources for my network analysis
+* SD for highlighting how good I am at starting projects, just not finishing...
+  * KW: awwwww - burn :fire: Let me know if there's anything I can do to help!
+
+#### What did you achieve?
+
+* Breakthrough on wtf to do with this broken and all over the place health policy papaer. Yaaaaay.
+  * KW: YES! Well done!
+* Finished my preliminary network piece: Made a dementia/EHR version of this paper https://arxiv.org/pdf/1804.05584.pdf 
+  * KW: AAAAAH SO COOL!
+
+#### What did you struggle with?
+
+* Spent aaaages working out igraph plotting quirks (like 8 hours...)
+* Saying goodbye to work I had done and written up because it simply didn't have its place in the paper (health policy paper)
+  * KW: Ooooph. Hard to do, and necessary.
+
+#### What would you like to work on next week?
+
+* Re-hashing the approach of the health policy paper
+* Do some of the homework TY set for linking togeteher mmy network work and pattern mining work
+
+#### Where do you need help from Kirstie?
+
+* Nothing :-)
+
+#### Any other topics
+
+KW: You're absolutely rocking along. WAY TO GO.
+
+-----------
+
+### Date: 8 April 2019
+
+#### Who did you help this week?
+
+* JP/Digital Health Oxford with a morale-boost on the pains of running communities
+  * KW :heart:
+* SD fromm the Health Foundation on NHS/analytics/open stuff (sent her to stalk KW)
+  * KW: Did I get this message and miss it?
+* WH on my thoughts on weird and fun stuff NHSX could be doing
+* YM get into a swanky event with Conde Nast
+* LS with OHT interviews
+
+
+#### Who helped you this week?
+
+* DF & PB on thinking through OHT commercial stuff
+* JM on dealing with toxic people/patronising people
+  * KW: Ooooph. Share those skills onwards :hugging:
+
+#### What did you achieve?
+
+* This week was a bit too event-heavy, but all were SO worth it which is rare.... 
+* Monday: Really interesting Women in Health dinner with Deloitte where we set the world straight
+* Tuesday morning: ICHP & Draper event on how data and the public system interface (#intersections)
+* Wednesday: Spoke at an Optum Labs event about my 3 basic things to watch when trying to translate "new analytical methods" (those things were feature engingeering, what outcome metric you're optimising/is it economically viable, and simple models often work better with NHS data)
+  * KW: OH I LOVE IT!
+* Thursday: Saw Mariana Mazzucato speak about the "Value of everything" which was predictably impressive
+* Did a whole day of interviews for the 2 new OHT roles and have found PERFECT people! Fingers crossed they accept
+  * KW: AAAAAAH! 🥂
+* I reviewed a draft paper from MS on ethics at different scales
+* Got all the commments back on my policy paper and have started assimilating 
+* Did all the followup and wrap up from my Oxford students day out, feedback coming in and was very positive!
+  * KW: YAY!
+
+#### What did you struggle with?
+
+* I reeeally struggled with the quirks of working with network classes in R. I'm new to them and felt like I was stuck on a few lines of code for aaaaagees. Next week is basically empty so I'm really looking forward to getting more confident with tidygraph generally as the bits and bobs here and there mean I haven't got to grips with how the package works
+  * KW: :muscle:
+
+#### What would you like to work on next week?
+
+* Become more confident with tidygraph and try to get some sound analyses, as the first batch from this week were correct but didn't tell me much (doh!)
+* Re-draft (in quite a big way) my health policy paper
+
+#### Where do you need help from Kirstie?
+
+* Nothing :-)
+
+#### Any other topics
+
+KW: Still amazing 🤯
+
+-----------
+
+
+### Date: 1 April 2019
+
+#### Who did you help this week?
+
+* Oxford Grad Medical students - Organised a big day out visiting interesting healthtech companies
+
+
+#### Who helped you this week?
+
+* AF... always...especially on OHT next plan of action
+* KW in being sympathetic and showing some love
+
+
+#### What did you achieve?
+
+* Presented at a big NHS-tech conference full of fancy people. Went really well!
+* Successfully transferred and re-coded most of my preliminary network analysis thus far into the Safe Haven! Alas the first results are not as jammy as I was hoping
+* Did my first consumer data interview, it went really well, lots of flow, but need to think about how to ask more awkward questions
+* I completed my information governance re-validation... wooop...
+* Got accepted to AAIC https://www.alz.org/aaic/overview.asp (poster and a presentation)! LA in July baby! (though, it clashes with writing up so not sure I'mm going to go)
+* Wrote a big proposal for BSA Media Fellowship/WCMT/OHT - Health ATI stuff for CH. Overall not very successful
+* Not really an "achievement" but I went to a Royal Society AI in Health workshop, and felt like I learnt and contributed well
+
+
+#### What did you struggle with?
+
+* Not much, was quite a hectic week with events, proposals, field trips etc. Just felt like I was on a bit of a treadmill, so no time to enjoy or struggle
+* I would say I struggled with the fact I didn't really feel like I did any meaningul PhD work, as the little I did was just re-coding. But that was always going to be the case, April is when everything gets a lot quieter because I have made it as such (yay to saying NO)
+* Not struggle per se but still prodding people for comments on my policy paper (the 2 most important people who do lots of work in this area haven't commented, so still plugging away)
+
+
+#### What would you like to work on next week?
+
+* Deeper dive into my network analyses - want to play around with different community dection, and impact models
+* Recruit a transcriber for my interviews. F*** no am I doing that
+* Present at an Optum Labs event 
+* ACTUALLY draft a blog for Forbes/The Agenda... I keep putting it to the bottom of the list
+* Friday is a day of interviews for the new OHT Commercial Director. Eeeeek, hope we have good people! It's looking v good
+* But mostly... just do a lot more head down analysis compared to last week
+
+#### Where do you need help from Kirstie?
+
+* Get comments on my policy paper in the Gdoc
+
+#### Any other topics
+
+
+
+-----------
+
 
 ### Date: 25 March 2019
 
