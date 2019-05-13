@@ -1,4 +1,5 @@
 # Weekly meetings
+* [13 May 2019](#date-13-may-2019)
 * [7 May 2019](#date-7-may-2019)
 * [15 April 2019](#date-15-april-2019)
 * [1 April 2019](#date-1-april-2019)
@@ -10,6 +11,45 @@
 * [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+
+### Date: 13 May 2019
+
+#### Who did you help this week?
+
+* A really nice doctor who was asking about PhDs at the Turing 
+* Someone getting bullied to hell at work so much they've quit, so just helping some with some of the HR issues when the startup is so small it doesnt have HR
+
+#### Who helped you this week?
+
+* IA-Z on forcing me to do wholesome track sessions at the Regent's Park track
+
+
+#### What did you achieve?
+
+* Ended up taking most of the week off to work for additional £££ - Still haven't been paid but this was 1.5 months stipend for a week's work so I kinda had to take it 
+
+#### What did you struggle with?
+
+* PhD guilt for not really working this week on PhD OR last weeek
+
+#### What would you like to work on next week?
+
+* Same as my aim for last week -
+* Now that I've had the go ahead from RA & AGI on the health policy paper to start compiling my new paper
+* Meet with SD to discuss what to do with my rejected paper
+* This week I want to finish Part 1 of my networks project (which is my sequence pattern mining bit)
+
+* Also, I have the PhDRUK event which should be nice
+
+#### Where do you need help from Kirstie?
+
+* We've got breakfast in the diary re OHT
+* I guess have a bit of your take on "writing up". I dont think I fully understand what it means because I have so much "stuff" written up but lots not - a realistic timeline thrashing out would be good for writing goal-setting :)
+
+#### Any other topics
+
+---------------------
 
 ### Date: 7 May 2019
 
