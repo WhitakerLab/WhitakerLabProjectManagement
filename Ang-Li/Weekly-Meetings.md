@@ -19,15 +19,20 @@
 * AZ edited a lot for the revision, which cost him very much time. 
 * OH also gave some suggestions for the revision. 
 * GX helped me with the website of the revision.
+  * KW: YAY! This is so cool! 
   
 #### What did you achieve?
 
 * Got a better finding (even than schizophrenia biomarker).
-* Finally, got my CB server password and login the server successfully. 
+  * :sparkles::sparkles::sparkles: WOOOOO! Got to love new findings!
+* Finally, got my CB server password and login the server successfully.
+  * KW: Yay!
 * Found 3 new people in UCL to attend our meeting!
-* Make final decision for PRR and made a presentation.
+  * KW: Exciting. Plan a timeline after OHBM.
+* Make final decision for RR and made a presentation.
+  * KW: This all sounds fantastic :smiley_cat:
 * Prepared the documents for visa (eg paid airplane for OHBM) and made an appointment. 
- 
+  
 #### What did you struggle with?
 
 * Nothing, just feeling hopeful. 
@@ -35,11 +40,12 @@
 #### What would you like to work on next week?
 
 * Finish the submission of the revision
-* Prepare the PRR. 
+* Prepare the RR.
   
 #### Where do you need help from Kirstie?
 
-* Maybe we can first prepare some necessary materials for ABCD proposal. 
+* Maybe we can first prepare some necessary materials for ABCD proposal.
+  * KW: Yep - important to do at the same time to write the registered report.
 
 _________
 
