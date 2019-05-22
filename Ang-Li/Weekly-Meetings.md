@@ -1,44 +1,45 @@
 # Weekly Meetings
 
-* [2nd May 2019](#date-2nd-May-2019)
+* [22th May 2019](#date-2nd-May-2019)
 * [25th April 2019](#date-25th-April-2019)
 * [17th April 2019](#date-17th-April-2019)
 * [28th March 2019](#date-28th-March-2019)
 
-### Date: 25th April 2019
+### Date: 22th May 2019
 
 #### Who did you help this week?
 
 * Helped AC with UCLA data.  
+* Helped Yini for visa etc. 
 
 #### Who helped you this week?
 
 * KW gave me the strategy of travelling to Cambridge. 
 * A and S helped me with bank account and visa. 
 * AZ edited a lot for the revision, which cost him very much time. 
-* OH also gave some suggestions for the revision (Reviewer3 and Reviewer4).
+* OH also gave some suggestions for the revision. 
 * GX helped me with the website of the revision.
   
 #### What did you achieve?
 
+* Got a better finding (even than schizophrenia biomarker).
 * Finally, got my CB server password and login the server successfully. 
 * Found 3 new people in UCL to attend our meeting!
-* Had a unique & dangerous idea to save PRR and made a presentation. (Take very much time)!!!
+* Make final decision for PRR and made a presentation.
 * Prepared the documents for visa (eg paid airplane for OHBM) and made an appointment. 
  
 #### What did you struggle with?
 
-* Will KW and BL approve the idea?
+* Nothing, just feeling hopeful. 
 
 #### What would you like to work on next week?
 
-* Improving NM Revision basing on the suggestions from OH and AZ, 
-  as both AZ and BL told me that I still have much work to do. 
+* Finish the submission of the revision
+* Prepare the PRR. 
   
 #### Where do you need help from Kirstie?
 
-* If the idea was approved, I hope KW can figure out a optimal way to achieve it. (not hurting people or ourselves)
-* Gave me a 'vacation' for my revision and we can next meet with YN at Turing, where we can decided the final style of PRR. 
+* Maybe we can first prepare some necessary materials for ABCD proposal. 
 
 _________
 
