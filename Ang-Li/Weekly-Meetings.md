@@ -1,8 +1,106 @@
 # Weekly Meetings
 
+* [22th May 2019](#date-2nd-May-2019)
+* [25th April 2019](#date-25th-April-2019)
 * [17th April 2019](#date-17th-April-2019)
 * [28th March 2019](#date-28th-March-2019)
 
+### Date: 22th May 2019
+
+#### Who did you help this week?
+
+* Helped AC with UCLA data.  
+* Helped Yini for visa etc. 
+
+#### Who helped you this week?
+
+* KW gave me the strategy of travelling to Cambridge. 
+* A and S helped me with bank account and visa. 
+* AZ edited a lot for the revision, which cost him very much time. 
+* OH also gave some suggestions for the revision. 
+* GX helped me with the website of the revision.
+  * KW: YAY! This is so cool! 
+  
+#### What did you achieve?
+
+* Got a better finding (even than schizophrenia biomarker).
+  * :sparkles::sparkles::sparkles: WOOOOO! Got to love new findings!
+* Finally, got my CB server password and login the server successfully.
+  * KW: Yay!
+* Found 3 new people in UCL to attend our meeting!
+  * KW: Exciting. Plan a timeline after OHBM.
+* Make final decision for RR and made a presentation.
+  * KW: This all sounds fantastic :smiley_cat:
+* Prepared the documents for visa (eg paid airplane for OHBM) and made an appointment. 
+  
+#### What did you struggle with?
+
+* Nothing, just feeling hopeful. 
+
+#### What would you like to work on next week?
+
+* Finish the submission of the revision
+* Prepare the RR.
+  
+#### Where do you need help from Kirstie?
+
+* Maybe we can first prepare some necessary materials for ABCD proposal.
+  * KW: Yep - important to do at the same time to write the registered report.
+
+_________
+
+### Date: 25th April 2019
+
+#### Who did you help this week?
+
+* KW: Helped friend with writing her paper
+
+#### Who helped you this week?
+
+* BW and OG helped with Azure 
+* KW helped me to chase Cambridge password reset
+  * KW: Cool - hopefully you can get it reset in person on Monday 🤞
+  
+#### What did you achieve?
+
+* Kind of figured out the workflow of analyzing ABCD data with Azure. (Take much time)
+* Improved the revision. 
+* Had some progress on IMAGEN data preprocessing. 
+* Got a idea for pre-registered study on ABCD data.
+  * KW: Great - work with YH on developing this idea :smiley:
+* Made a very brief timeline for pre-registered study on ABCD data.
+  * KW: Great - I'm skeptical that you'll get everything done in a few months, but GO FOR IT!
+ 
+#### What did you struggle with?
+
+* How to use Azure more graciously
+* Struggled a lot on revision
+
+#### What would you like to work on next week?
+
+* Improving NM Revision basing on the suggestions from OH and AZ
+* Uploading IMAGEN data to the Azure
+* Set up computational environment on Azure
+  
+#### Where do you need help from Kirstie?
+
+* I hope to know if it's possible to lengthen the visiting?
+  * KW: We can discuss in September
+* Can we apply for a project subscription on Azure for ABCD study?
+  * KW: Sure - once we have a justification and costings.
+* Some suggestions for me to apply for visa for OHBM (Schengen visa or conference visa)
+  * I think the info you need is at: https://www.schengenvisainfo.com/italy-visa/uk/
+    * https://www.schengenvisainfo.com/how-to-fill-visa-application-form
+    * https://www.schengenvisainfo.com/download-schengen-visa-application-form
+    * https://www.vfsglobal.com/Italy/UK/London/contact_us.html#1
+    * https://www.vfsglobal.com/Italy/UK/London/Schedule_an_Appointment1.html
+    * https://www.humanbrainmapping.org/files/2019/2019_Invitation2_Letter-OHBMFORM.pdf
+
+#### Any other topics
+
+KW: Good luck with the revision and with the IMAGEN analyses. Excited to look over the registered report plan as it develops :sparkles:
+
+_________
 
 ### Date: 17th April 2019
 
