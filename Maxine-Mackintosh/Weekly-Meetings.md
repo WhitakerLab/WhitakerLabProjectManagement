@@ -27,7 +27,7 @@
 
 #### What did you achieve?
 
-** I got my health policy project to a point where it makes a lot more sense now. I think on the whole it's a lot weaker than I was hoping (and awkwardly, I found a paper that got published last year which had a VERY similar approach which I hadn't pick up before. Doh!)
+* I got my health policy project to a point where it makes a lot more sense now. I think on the whole it's a lot weaker than I was hoping (and awkwardly, I found a paper that got published last year which had a VERY similar approach which I hadn't pick up before. Doh!)
 * I almost finished my community detection project which is kiiiiinda neat I guess, but is just another way of trying to describe A LOT of data, over a LONG period of time more clearly
 * I started to hide in Oxford libraries/a bit more in Oxford and I am getting SO much more work done there. Life is just quieter. Definitely going to bunk here a lot more during writing up
 * I rebuilt the whole OHT website, massively cleaned the database and just feel much happier with the backend infrastructure now. It's been really fun thinking (in the smallest of ways) about the platform and processes to make OHT work the best. Also a direct Kirstie influence, we've published all our templates,  handbooks and resources online https://www.onehealthtech.com/resources
