@@ -18,6 +18,7 @@
 #### Who did you help this week?
 
 * I'm struggling to remember any human interactions ever....my mind is blank.
+* I had a welcome chat to KR and we brainstormed about the health programme. She's lovely. 
 
 #### Who helped you this week?
 
