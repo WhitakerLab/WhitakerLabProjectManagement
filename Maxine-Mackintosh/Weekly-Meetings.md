@@ -1,4 +1,5 @@
 # Weekly meetings
+* [03 June 2019](#date-03-june-2019)
 * [13 May 2019](#date-13-may-2019)
 * [7 May 2019](#date-7-may-2019)
 * [15 April 2019](#date-15-april-2019)
@@ -12,7 +13,48 @@
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
 
+### Date: 03 June 2019
 
+#### Who did you help this week?
+
+* I'm struggling to remember any human interactions ever....my mind is blank.
+
+#### Who helped you this week?
+
+* CH gave me a lot of his time to chat and mull over next steps
+* Other than that, again, I have an empty brain (oh dear....)
+
+
+#### What did you achieve?
+
+** I got my health policy project to a point where it makes a lot more sense now. I think on the whole it's a lot weaker than I was hoping (and awkwardly, I found a paper that got published last year which had a VERY similar approach which I hadn't pick up before. Doh!)
+* I almost finished my community detection project which is kiiiiinda neat I guess, but is just another way of trying to describe A LOT of data, over a LONG period of time more clearly
+* I started to hide in Oxford libraries/a bit more in Oxford and I am getting SO much more work done there. Life is just quieter. Definitely going to bunk here a lot more during writing up
+* I rebuilt the whole OHT website, massively cleaned the database and just feel much happier with the backend infrastructure now. It's been really fun thinking (in the smallest of ways) about the platform and processes to make OHT work the best. Also a direct Kirstie influence, we've published all our templates,  handbooks and resources online https://www.onehealthtech.com/resources
+* I wrote a piecee in Forbes which is really not where I should be spending my writing time but I really enjoyed boshing it out https://www.forbes.com/sites/maxinemackintosh/2019/06/01/23andme-and-airbnbis-cultural-identity-a-market-to-explore-for-consumer-genetic-testing-companies/#7624202e448f
+
+
+
+#### What did you struggle with?
+
+* Still got some £££ work to tie up which is hanging over my head but I needed to do it in the short term (lol...) and it means that no matter what happens I can chill out about money until January
+* I struggled with the fact that at my institute everyone just applies methods, understanding the logic underpinning the methods, but not the underlying statistics say. Being at the ATI, that feels like a cardinal sin. But actually, I've never known any different and I'm not good enough at stats to do lot's of the stuff others around me are doing. So I'm finding that quite stressful, as I guess what is profound to one community will be basic for another
+* Usual overwhelming balance of PhD, OHT, Maxine-other stuff
+
+#### What would you like to work on next week?
+
+* Next week is London Tech Week... which is HECTIC and in hindsight I shouldn't be doing so much
+I'm being conservative in my ambitions and would like to have merely run my ML classifiers on REAL data....everything is crossed for them to simply WORK.
+
+#### Where do you need help from Kirstie?
+
+* I think some tips on how to structure my time in the write-up months would be useful
+
+#### Any other topics
+* I'm pretty sure I want to do a post-doc.... there... I said it!
+* I own a house! (ish... Alexander does..). WE own a house. Got keys and all. Woooo. 
+
+---------------------
 ### Date: 13 May 2019
 
 #### Who did you help this week?
