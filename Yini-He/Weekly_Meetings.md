@@ -4,11 +4,11 @@
 
 ### Date: 17th June 2019
 
-#### Who did you help this two week?
+#### Who did you help this week?(two weeks)
 
 * Helped Ang for his Cambridge ID card and find the information about his police office registration.  
 
-#### Who helped you this week?
+#### Who helped you this week?(two weeks)
 
 * Kirstie and Emma helped me for my Turing registration. 
 * Kirstie give a great introduction of The Turing Insitute and WhitakerLab . 
