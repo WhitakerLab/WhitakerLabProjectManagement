@@ -19,12 +19,12 @@
 
 * I'm struggling to remember any human interactions ever....my mind is blank.
 * I had a welcome chat to KR and we brainstormed about the health programme. She's lovely. 
+  * KW: AWESOME :sparkles:
 
 #### Who helped you this week?
 
 * CH gave me a lot of his time to chat and mull over next steps
 * Other than that, again, I have an empty brain (oh dear....)
-
 
 #### What did you achieve?
 
@@ -32,28 +32,35 @@
 * I almost finished my community detection project which is kiiiiinda neat I guess, but is just another way of trying to describe A LOT of data, over a LONG period of time more clearly
 * I started to hide in Oxford libraries/a bit more in Oxford and I am getting SO much more work done there. Life is just quieter. Definitely going to bunk here a lot more during writing up
 * I rebuilt the whole OHT website, massively cleaned the database and just feel much happier with the backend infrastructure now. It's been really fun thinking (in the smallest of ways) about the platform and processes to make OHT work the best. Also a direct Kirstie influence, we've published all our templates,  handbooks and resources online https://www.onehealthtech.com/resources
+  * KW: :heart_eyes::heart_eyes::heart_eyes::heart_eyes:
 * I wrote a piecee in Forbes which is really not where I should be spending my writing time but I really enjoyed boshing it out https://www.forbes.com/sites/maxinemackintosh/2019/06/01/23andme-and-airbnbis-cultural-identity-a-market-to-explore-for-consumer-genetic-testing-companies/#7624202e448f
-
+  * KW: SO FAB! Any chance we could add it to the Whitaker lab website? Just as a couple of sentences and link?
 
 
 #### What did you struggle with?
 
 * Still got some £££ work to tie up which is hanging over my head but I needed to do it in the short term (lol...) and it means that no matter what happens I can chill out about money until January
 * I struggled with the fact that at my institute everyone just applies methods, understanding the logic underpinning the methods, but not the underlying statistics say. Being at the ATI, that feels like a cardinal sin. But actually, I've never known any different and I'm not good enough at stats to do lot's of the stuff others around me are doing. So I'm finding that quite stressful, as I guess what is profound to one community will be basic for another
+  * KW: Uuuuurgh - this is a super interesting problem. As you will be unsurprised to know - I think it stems from a lack of incentives to collaborate. It doesn't make sense for everyone to know everything, but in the current academic climate, it also doesn't make much sense for statisticians to spend their time educating and explaining :weary:
 * Usual overwhelming balance of PhD, OHT, Maxine-other stuff
 
 #### What would you like to work on next week?
 
-* Next week is London Tech Week... which is HECTIC and in hindsight I shouldn't be doing so much
-I'm being conservative in my ambitions and would like to have merely run my ML classifiers on REAL data....everything is crossed for them to simply WORK.
+* Next week is London Tech Week... which is HECTIC and in hindsight I shouldn't be doing so much.
+* I'm being conservative in my ambitions and would like to have merely run my ML classifiers on REAL data....everything is crossed for them to simply WORK.
+
+KW: GOOD LUUUUUUUCK!! 🤞
 
 #### Where do you need help from Kirstie?
 
 * I think some tips on how to structure my time in the write-up months would be useful
+  * KW: Lets put a meeting in the calendar and brainstorm how I can help 💜
 
 #### Any other topics
 * I'm pretty sure I want to do a post-doc.... there... I said it!
+  * KW: WOOOOOO! Exciting!
 * I own a house! (ish... Alexander does..). WE own a house. Got keys and all. Woooo. 
+  * KW: WOOOOOOOOOOOO! Even MORE exciting!!
 
 ---------------------
 ### Date: 13 May 2019
@@ -62,15 +69,17 @@ I'm being conservative in my ambitions and would like to have merely run my ML c
 
 * A really nice doctor who was asking about PhDs at the Turing 
 * Someone getting bullied to hell at work so much they've quit, so just helping some with some of the HR issues when the startup is so small it doesnt have HR
+  * KW: URGH - thank you for doing that :disappointed:
 
 #### Who helped you this week?
 
 * IA-Z on forcing me to do wholesome track sessions at the Regent's Park track
-
+  * KW: NICE! :muscle:
 
 #### What did you achieve?
 
 * Ended up taking most of the week off to work for additional £££ - Still haven't been paid but this was 1.5 months stipend for a week's work so I kinda had to take it 
+  * KW: Do what you gotta do.
 
 #### What did you struggle with?
 
@@ -82,8 +91,9 @@ I'm being conservative in my ambitions and would like to have merely run my ML c
 * Now that I've had the go ahead from RA & AGI on the health policy paper to start compiling my new paper
 * Meet with SD to discuss what to do with my rejected paper
 * This week I want to finish Part 1 of my networks project (which is my sequence pattern mining bit)
-
 * Also, I have the PhDRUK event which should be nice
+
+KW: These all look awesome. Good luck, keep swimming.
 
 #### Where do you need help from Kirstie?
 
