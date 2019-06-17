@@ -19,6 +19,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Turing Health Programme Workshop (Application for talk)](#turing-health-programme-workshop-application-for-talk)
 * April
   * [Inaugural Meeting of the UK Network of Open Science Working Groups](#inaugural-meeting-of-the-uk-network-of-open-science-working-groups)
+  * [Sainsbury Wellcome Centre Tea Hour](#sainsbury-wellcome-centre-tea-hour)
 * May
   * [csv,conf,v4](csv-conf-v4)
 * June
@@ -177,6 +178,29 @@ You can find more information at her lab website: [whitakerlab.github.io](https:
 
 **Bio**: *Bio*
 
+**Slides**: https://doi.org/10.6084/m9.figshare.7981670
+
+
+### Sainsbury Wellcome Centre Tea Hour
+
+**Website**:
+
+**Date**: 12 April 2019
+
+**Title**: Harnessing the power of participatory citizen science to share autistic people's experiences at scale
+
+**Abstract**: [Autistica](https://www.autistica.org.uk/) and the [Alan Turing Institute](https://www.turing.ac.uk/) are working together to build a participatory, citizen science platform to gather data on how sensory processing affects autistic people’s navigation of the world.
+Numerous studies have confirmed that autistic people experience sensory processing differences, and that this can significantly impact their lives.
+One aspect which is not yet fully understood is how these differences affect the ways in which autistic people navigate different environments.
+At this week's SWC Tea Hour, Dr Sarah Markham (KCL) and I will describe the process and the values that we have defined to build a project that is participatory from the ground up.
+Flipping the traditional scientific study on its head, our goal is to give a voice to the autistic citizen scientists and educate neurotypical people.
+We seek to empower everyone in supporting autistic people and their families in living long, healthy, happy lives.
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
+Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of people with mental health disorders.
+Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
+You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
+
 **Slides**: *Figshare link to slides (if applicable)*
 
 
@@ -266,9 +290,18 @@ This is a keynote presentation in the *Building Open Science Communities: Social
 
 **Date**: 1 & 2 September 2019
 
-**Title**: 10 Simple Rules for Running Open and Inclusive Projects (Online and IRL)
+**Title**: 10 simple rules for running an open and inclusive projects online
 
-**Abstract**:
+**Abstract:** There are many reasons why open source projects have difficulty attracting contributors.
+Current academic incentive structures are some of the strongest.
+Wanting to maintain a competitive advantage, too great a focus on novelty when publishing papers, and too little credit given to writing documentation and tutorials, all encourage researchers to reinvent the wheel in a closed team.
+Although I will discuss these barriers, my talk will focus on some challenges that are much easier to overcome.
+Not knowing where to start.
+"Imposter syndrome" and the various intersecting biases that accompany (and often underpin) it.
+Being unsure as to whether a project even wants any contributions.
+These can all be addressed with 10 simple rules.
+From laying out your welcome mat, through setting explicit expectations, to the graceful death of your project, these steps will will help you build and run an open and inclusive community-driven project online.
+(Breaking down capitalism may have to wait for another day.)
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
 Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of people with mental health disorders.
