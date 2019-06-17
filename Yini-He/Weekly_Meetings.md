@@ -21,8 +21,8 @@
 #### What did you achieve?
 
 * wrote a draft introduction of our register report.
-* wrote a self introduction
 * Made a PPT for my research experience 
+* wrote a self introduction draft
 * learn more about London and The Turing Insitite
 * Finished the Turing registration,Cambrige registration,police office registration and get my BRP
   
