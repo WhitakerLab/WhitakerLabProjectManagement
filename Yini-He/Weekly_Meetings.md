@@ -7,7 +7,6 @@
 #### Who did you help this two week?
 
 * Helped Ang for his Cambridge ID card and find the information about his police office registration.  
-* 
 
 #### Who helped you this week?
 
@@ -15,8 +14,7 @@
 * Kirstie give a great introduction of The Turing Insitute and WhitakerLab . 
 * Ang teached me some Github information,helped me to connect with the UK internet and gave me hand in my daily life.
 * Stephanie and Adisa helped me for my Cambridge Student registration. 
-* Stephanie and Adisa helped me for my bank account and visa. 
-  
+* Stephanie and Adisa helped me for my bank account and visa.  
   
 #### What did you achieve?
 
