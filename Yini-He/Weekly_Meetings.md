@@ -1,28 +1,35 @@
 # Weekly Meetings
 
-* [17th June 2019](#date-17th-June-2019)
+* [17 June 2019](#date-17-June-2019)
 
-### Date: 17th June 2019
+### Date: 17 June 2019
 
 #### Who did you help this week?(two weeks)
 
-* Helped Ang for his Cambridge ID card and find the information about his police office registration.  
+* Helped AL for his Cambridge ID card and find the information about his police office registration.
+  * KW: Thank you!
 
 #### Who helped you this week?(two weeks)
 
-* Kirstie and Emma helped me for my Turing registration. 
+* Kirstie and EA helped me for my Turing registration. 
 * Kirstie give a great introduction of The Turing Insitute and WhitakerLab . 
-* Ang teached me some Github information,helped me to connect with the UK internet and gave me hand in my daily life.
-* Stephanie and Adisa helped me for my Cambridge Student registration. 
-* Stephanie and Adisa helped me for my bank account and visa.  
+* AL teached me some Github information,helped me to connect with the UK internet and gave me hand in my daily life.
+* ST and AB helped me for my Cambridge Student registration. 
+* ST and AB helped me for my bank account and visa.  
   
+KW: This is great! Well done on getting everything up and running!!
+
 #### What did you achieve?
 
-* wrote a draft introduction of our register report.
-* Made a PPT for my research experience 
+* Made a PPT for my research experience
+  * KW: Thank you for sharing your work!
+* Wrote a draft introduction of our registered report.
+  * KW: Excited to see this on Wednesday :smiley_cat:
 * wrote a self introduction draft
-* learn more about London and The Turing Insitite
-* Finished the Turing registration,Cambrige registration,police office registration and get my BRP
+  * KW: Looking forward to reading it!
+* learn more about London and The Turing Institute 
+* Finished the Turing registration, Cambridge registration, police office registration and get my BRP
+  * KW: WOO! Well done!
   
 #### What did you struggle with?
 
@@ -30,12 +37,14 @@
 
 #### What would you like to work on next week?
 
-* prepare the register report
-* continue my experiment.
-  
+* Prepare the registered report
+* Continue ongoing work from home lab
+
 #### Where do you need help from Kirstie?
 
-* make the next research plan together
+* Make the next research plan together
+  * KW: You're doing great. Lets keep moving on the registered report! Looking forward to giving feedback on Wednesday :smiley:
+
 _________
 
 
