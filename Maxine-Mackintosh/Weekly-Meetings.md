@@ -1,4 +1,5 @@
 # Weekly meetings
+* [17 June 2019](#date-03-june-2019)
 * [03 June 2019](#date-03-june-2019)
 * [13 May 2019](#date-13-may-2019)
 * [7 May 2019](#date-7-may-2019)
@@ -12,6 +13,49 @@
 * [22 October 2018](#date-22-october-2018) 
 * [19 October 2018](#date-19-october-2018)
 * [1 October 2018](#date-1-october-2018)
+
+### Date: 17 June 2019
+
+#### Who did you help this week?
+
+* A LOT of peopl during London Tech Week, mostly with introductions
+* I helped JM (who also helped me on this too!) survive the most extroverted week, which is tough for anyone, let alone an introvert
+
+
+#### Who helped you this week?
+
+* CW & DK in potential internships between handing in and viva-ing, some sound advice on applying for technical roles
+* CH who was just generally lovely and carved out 45 mins to basically just say he wants to help me with my next steps in any way he can which is just very kind of him
+* AF made me sleep all weekend after London Tech Week. For the first time in a while I felt a lot more present with him which is nice (and also naughty of me)
+
+#### What did you achieve?
+
+* I submitted not one but TWO abstracts to the Lancet public health conference (with 2 more submissions to go too)
+* I completed all my IUK work for ££ which has been an enormous suck on my time and energy but I've now got pennies in the bank (which will soon become BONUS when the UCL payment comes in)
+* Conducted ALMOST the final interviews for my consumer data qualitative piece but if I did no more I still think it would be fine
+* I submitted a proposal to the Wellcome's Hub Award... In the end with all the stuff going on I didnt give it enough thought so overall it's quite a week application but all good experience
+* I applied for a bunch of autumn internships
+* I applied for a post doc, not because I'm sure I'd want to do it, but enough that it's definitely worth it and good practice
+* I SURVIVED LONDON TECH WEEK
+
+
+#### What did you struggle with?
+
+* Last week was definitely one of those exhaustion breaking points weeks... the culmination off weeks of ££ work, stress about not PhD-ing as much as I'd lik, London Tech Week etc meant I was pretty loopy by Friday. Haven't quite felt like that before. Slept for about 48 hours so now I'm bouncing off the walls again, but it wasn't ace...
+* My ML classifier script isn't running, or at least only some of the models are... I'm so stuck as I'm limited by the Safe Haven... eeek!
+
+#### What would you like to work on next week?
+
+* This week I am going to face the hard stuff and start writing up my least mature bit of my PhD (well... 2nd most immature bit). Community-Networks bit (not quite chapter material tbd...) here we go!
+
+#### Where do you need help from Kirstie?
+
+* Getting a meeting in the diary about planning these next 2.5 months (F*** 2.5 MONTHS!!)
+
+#### Any other topics
+* I won an award at CogX. That was nice. The clique and the forced acceptance speech wasn't. But the award was. 
+
+---------------------
 
 ### Date: 03 June 2019
 
