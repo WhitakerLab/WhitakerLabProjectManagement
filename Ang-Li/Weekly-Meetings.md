@@ -1,9 +1,46 @@
 # Weekly Meetings
 
+* [19th June 2019](#date-19th-June-2019)
 * [22th May 2019](#date-2nd-May-2019)
 * [25th April 2019](#date-25th-April-2019)
 * [17th April 2019](#date-17th-April-2019)
 * [28th March 2019](#date-28th-March-2019)
+
+### Date: 19th June 2019
+
+#### Who did you help this week?
+
+* Helped Yini with Github. 
+
+#### Who helped you this week?
+
+* KW helped me to confirm ABCD genome data (four times) and chase the script.
+* CL helped me with accommodation in Rome. 
+* BL helped me to provide new data in HC project. 
+* HW helped to finish the preprocessing of IMAGEN data. 
+  
+#### What did you achieve?
+
+* Have a great time in Rome & knew some new friends.
+* Finish most coding work for ABCD registered report.
+* Made impressive progress in HC project.
+  
+#### What did you struggle with?
+
+* Nothing
+
+#### What would you like to work on next week?
+
+* Work on ABCD registered report. 
+* Prepare the report in Turing Mental Health Interest group. 
+* Write some code for IMAGEN project & HC project
+  
+#### Where do you need help from Kirstie?
+
+* Maybe KW can help to ask for the scripts of imputation from the ABCD team.
+
+_________
+
 
 ### Date: 22th May 2019
 
