@@ -23,6 +23,7 @@
 
 * Have a great time in Rome & knew some new friends.
 * Finish most coding work for ABCD registered report.
+  * KW: Looks great! Really fun!
 * Made impressive progress in HC project.
   
 #### What did you struggle with?
@@ -32,12 +33,14 @@
 #### What would you like to work on next week?
 
 * Work on ABCD registered report. 
-* Prepare the report in Turing Mental Health Interest group. 
+  * KW: Great! Excited for a methods figure and keeping going with the code & writing up the methods section in the registered report. 
+* Prepare the report in Turing Mental Health Interest group.
 * Write some code for IMAGEN project & HC project
   
 #### Where do you need help from Kirstie?
 
 * Maybe KW can help to ask for the scripts of imputation from the ABCD team.
+  * KW: Email sent.....I'll keep an eye on it :smiley_cat:
 
 _________
 
