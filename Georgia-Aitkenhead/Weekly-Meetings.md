@@ -2,6 +2,49 @@
 
 Georgia's weekly meeting notes.
 
+* [24 June 2019](#date-24-june-2019)
+
+### Date: 17 June 2019
+
+#### Who did you help this week?
+
+* Helped JS with job application
+* Helped with logistics of various meetings
+
+#### Who helped you this week?
+
+* JH helped introduce me to Jupyter notebooks and using it to interrogate data
+* KW introduced me to policy team :) & helped me sort out travel/accommodation for conference
+* TA volunteered time to help on CS project
+* JK and MR agreed to give me coding lessons!
+
+#### What did you achieve?
+
+* Presented CS project at Turing Inst meeting 
+* Updated values and outputs statement
+* Useful meeting with collaborator 
+* "Introducing" blog post committed to GitHub 🤞
+* Productuve stakeholder discussions
+
+#### What did you struggle with?
+
+* Images on GitHub 
+* Finding time/focus to work on position paper 
+
+#### What would you like to work on next week?
+
+* A project updates
+* Discover Conference
+* Creating plan for impoving tech skills 
+
+#### Where do you need help from Kirstie?
+
+* Looking over A project updates/values updates
+* More strategy
+* Tech skills advice
+  
+#### Any other topics
+
 * [17 June 2019](#date-17-june-2019)
 
 ### Date: 17 June 2019
