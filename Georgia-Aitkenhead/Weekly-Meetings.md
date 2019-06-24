@@ -3,49 +3,65 @@
 Georgia's weekly meeting notes.
 
 * [24 June 2019](#date-24-june-2019)
+* [17 June 2019](#date-17-june-2019)
 
-### Date: 17 June 2019
+### Date: 24 June 2019
 
 #### Who did you help this week?
 
 * Helped JS with job application
+  * KW: Fab! Fingers crossed for them!
 * Helped with logistics of various meetings
-
+  * KW: THANK YOU
+  
 #### Who helped you this week?
 
 * JH helped introduce me to Jupyter notebooks and using it to interrogate data
+  * KW: Soooo good - glad it was useful
 * KW introduced me to policy team :) & helped me sort out travel/accommodation for conference
+  * KW: Excited for Thursday :sparkles:
 * TA volunteered time to help on CS project
+  * KW: YAY
 * JK and MR agreed to give me coding lessons!
+  * KW: Fun times :computer:
 
 #### What did you achieve?
 
-* Presented CS project at Turing Inst meeting 
+* Presented CS project at Turing Inst meeting
+  * KW: Went really well - well done!
 * Updated values and outputs statement
-* Useful meeting with collaborator 
+  * KW: Love these :rocket:
+* Useful meeting with collaborator
 * "Introducing" blog post committed to GitHub 🤞
-* Productuve stakeholder discussions
+  * KW: Exciting!! I'll review :mag:
+* Productive stakeholder discussions
+  * KW: Thank you! :sparkling_heart:
 
 #### What did you struggle with?
 
-* Images on GitHub 
-* Finding time/focus to work on position paper 
+* Images on GitHub
+  * Yep - super confusing :sob:
+* Finding time/focus to work on position paper
 
 #### What would you like to work on next week?
 
-* A project updates
+* A project updates (research fish)
 * Discover Conference
-* Creating plan for impoving tech skills 
+* Creating plan for impoving tech skills
+
+KW: These are great! Enjoy the conference, it's going to be super fun.
 
 #### Where do you need help from Kirstie?
 
 * Looking over A project updates/values updates
+  * :white_check_mark:
 * More strategy
+  * DONE!
 * Tech skills advice
-  
+ 
 #### Any other topics
 
-* [17 June 2019](#date-17-june-2019)
+---
 
 ### Date: 17 June 2019
 
