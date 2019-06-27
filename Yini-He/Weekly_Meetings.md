@@ -1,6 +1,42 @@
 # Weekly Meetings
 
 * [17 June 2019](#date-17-June-2019)
+* [28 June 2019](#date-28-June-2019)
+
+### Date: 17 June 2019
+
+#### Who did you help this week?(two weeks)
+
+* Helped AL for downloading some open data
+
+#### Who helped you this week?(two weeks)
+
+* AL teached me some Github,recommanded some PGRS researches for me 
+* ST helped me for my Raven login. 
+
+#### What did you achieve?
+
+* Wrote a draft method of our registered report.
+* uploading my self-introduction
+  
+#### What did you struggle with?
+
+* I am trying to study how to culculate the PGRS,and try to write down the method
+
+#### What would you like to work on next week?
+
+* major modify the introduction and method of our registered report
+* read more researches about the relationship between gene,brain and behaviour
+* learn for anaysising the correlation between PGRS and brain data using python
+* learn for python and try to program mediation model using python or R
+
+#### Where do you need help from Kirstie?
+
+* give some revision suggestions for our RR writting.
+
+
+_________
+
 
 ### Date: 17 June 2019
 
