@@ -2,6 +2,40 @@
 
 * [17 June 2019](#date-17-June-2019)
 * [28 June 2019](#date-28-June-2019)
+* [07 July 2019](#date-07-July-2019)
+
+### Date: 07 July 2019
+
+#### Who did you help this week?
+
+* Helped a friend of mine did a ppt about Neuromodulation
+
+#### Who helped you this week?
+
+* Ang helped me to modified some detail about RR method
+
+#### What did you achieve?
+
+* modified the RRS introduction and method
+* took python courses in the internet
+* organizing the Imagen face-task information 
+  
+#### What did you struggle with?
+
+* learn deeply and detaily of PGRS 
+
+#### What would you like to work on next week?
+
+* continue to modify RR writting
+* learn for RICOPILI imputation Wiki and rewrite the PRGS method
+* analyze Imagen face-task imaging
+* learn for culculating task-fMRI using python 
+
+#### Where do you need help from Kirstie?
+
+* modify the RR writting.
+
+_________
 
 ### Date: 17 June 2019
 
