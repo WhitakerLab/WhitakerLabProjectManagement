@@ -1,29 +1,30 @@
 # Weekly Meetings
 
-* [17 June 2019](#date-17-June-2019)
-* [28 June 2019](#date-28-June-2019)
 * [07 July 2019](#date-07-July-2019)
+* [28 June 2019](#date-28-June-2019)
+* [17 June 2019](#date-17-June-2019)
 
 ### Date: 07 July 2019
 
 #### Who did you help this week?
 
-* Helped a friend of mine(LD) do a PPT about Neuromodulation
+* Helped a friend of mine (LD) do a PPT about Neuromodulation
 
 #### Who helped you this week?
 
 * AL introduce some knowledge about imputation for me 
-* a friend of mine(HYW) sent some Imagen information for me
+* a friend of mine (HYW) sent some Imagen information for me
 
 #### What did you achieve?
 
 * modified the RRS introduction and method
-* took python courses in the internet
-* organizing the Imagen face-task information 
+* took face-to-face python courses in the internet
+  * KW: I'll introduce you to Georgia - might be fun to have a person to work along with
+* organizing the Imagen face-task information
   
 #### What did you struggle with?
 
-* learn deeply and detaily of PGRS 
+* learn deeply the details of PGRS
 
 #### What would you like to work on next week?
 
@@ -35,6 +36,8 @@
 #### Where do you need help from Kirstie?
 
 * modify the RR writting.
+
+KW: I'm super excited about the registered report - thank you for writing up so much of it so far!
 
 _________
 
@@ -52,18 +55,22 @@ _________
 #### What did you achieve?
 
 * Wrote a draft method of our registered report.
+  * KW: Looks great! Thank you!
 * uploading my self-introduction
-  
+  * KW: I'm so sorry I'm so slow on getting this merged :sob:
+ 
 #### What did you struggle with?
 
-* I am trying to study how to culculate the PGRS,and try to write down the method
+* I am trying to study how to culculate the PGRS, and try to write down the method
 
 #### What would you like to work on next week?
 
 * major modify the introduction and method of our registered report
-* read more researches about the relationship between gene,brain and behaviour
-* learn for anaysising the correlation between PGRS and brain data using python
+* read more researches about the relationship between gene, brain and behaviour
+* learn for analysising the correlation between PGRS and brain data using python
 * learn for python and try to program mediation model using python or R
+
+KW: These all sound great!
 
 #### Where do you need help from Kirstie?
 
