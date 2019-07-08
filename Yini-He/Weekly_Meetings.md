@@ -8,11 +8,12 @@
 
 #### Who did you help this week?
 
-* Helped a friend of mine did a ppt about Neuromodulation
+* Helped a friend of mine(LD) do a PPT about Neuromodulation
 
 #### Who helped you this week?
 
-* Ang helped me to modified some detail about RR method
+* AL introduce some knowledge about imputation for me 
+* a friend of mine(HYW) sent some Imagen information for me
 
 #### What did you achieve?
 
