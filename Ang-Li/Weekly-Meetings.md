@@ -21,14 +21,16 @@
 #### What did you achieve?
 
 * Establised the software of imputation in Azure. (seems work, but not sure how to use with ABCD data)
-* Drawed a Figure for ABCD registered report and finish most of the code and visualization.
-* Made a milestone finding in HC project.  
-* Finsihed part of the PPT for the Turing Mental Health group. 
+* Drew a figure for ABCD registered report and finish most of the code and visualization.
+* Made a milestone finding in HC project
+* Finished part of the PPT for the Turing Mental Health group.
+  * KW: Really excited about the talk!
   
 #### What did you struggle with?
 
-* Waiting for the feedback of previous revision.
-* A little worry about the imputation 
+* Waiting for the feedback of previous revision
+  * KW: Eeeeee 🤞🤞🤞
+* A little worry about the imputation
 
 #### What would you like to work on next week?
 
@@ -38,6 +40,9 @@
 #### Where do you need help from Kirstie?
 
 * Nothing specific. 
+
+Great job!
+Really interesting work.
 
 _________
 
