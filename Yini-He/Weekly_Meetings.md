@@ -1,7 +1,86 @@
 # Weekly Meetings
-
-* [17 June 2019](#date-17-June-2019)
+* [19 July 2019](#date-19-July-2019)
+* [07 July 2019](#date-07-July-2019)
 * [28 June 2019](#date-28-June-2019)
+* [17 June 2019](#date-17-June-2019)
+
+### Date: 19 July 2019
+
+#### Who did you help this week?
+
+* Helped a friend of mine (GZH) to find DABWA questionare user manual and make sure the way to scoring.
+
+#### Who helped you this week?
+
+* AL helped to modify RR introduction, taught me the Azure manual and gene imputation for me.
+* GA introduced her learning experience of python and send a book for me.
+  * KW: This is so great - it would be lovely for you to work together :sparkling_heart:
+* BGT give some advices for our RR imputation.
+  * KW: Fantastic.
+
+#### What did you achieve?
+
+* modified the RR introduction
+* organizing the Imagen questionaires
+* organizing the Imagen face-task 
+
+#### What did you struggle with?
+
+* RR imputation
+
+#### What would you like to work on next week?
+
+* learn for Ang about RR imputation
+* =rewrite the PRGS method
+  * KW: Check out this tutorial for Overleaf & latex: https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+* analyze Imagen face-task imaging
+* learn for python with GA
+
+KW: Please also do the second blogging exercise: https://github.com/WhitakerLab/Onboarding/blob/master/BLOGGING_EXERCISES/01-MeetThreePeople.md
+
+#### Where do you need help from Kirstie?
+
+* the reference tool
+  * KW: Zotero: https://www.zotero.org
+
+_________
+
+### Date: 07 July 2019
+
+#### Who did you help this week?
+
+* Helped a friend of mine (LD) do a PPT about Neuromodulation
+
+#### Who helped you this week?
+
+* AL introduce some knowledge about imputation for me 
+* a friend of mine (HYW) sent some Imagen information for me
+
+#### What did you achieve?
+
+* modified the RRS introduction and method
+* took face-to-face python courses in the internet
+  * KW: I'll introduce you to Georgia - might be fun to have a person to work along with
+* organizing the Imagen face-task information
+  
+#### What did you struggle with?
+
+* learn deeply the details of PGRS
+
+#### What would you like to work on next week?
+
+* continue to modify RR writting
+* learn for RICOPILI imputation Wiki and rewrite the PRGS method
+* analyze Imagen face-task imaging
+* learn for culculating task-fMRI using python 
+
+#### Where do you need help from Kirstie?
+
+* modify the RR writting.
+
+KW: I'm super excited about the registered report - thank you for writing up so much of it so far!
+
+_________
 
 ### Date: 17 June 2019
 
@@ -17,18 +96,22 @@
 #### What did you achieve?
 
 * Wrote a draft method of our registered report.
+  * KW: Looks great! Thank you!
 * uploading my self-introduction
-  
+  * KW: I'm so sorry I'm so slow on getting this merged :sob:
+ 
 #### What did you struggle with?
 
-* I am trying to study how to culculate the PGRS,and try to write down the method
+* I am trying to study how to culculate the PGRS, and try to write down the method
 
 #### What would you like to work on next week?
 
 * major modify the introduction and method of our registered report
-* read more researches about the relationship between gene,brain and behaviour
-* learn for anaysising the correlation between PGRS and brain data using python
+* read more researches about the relationship between gene, brain and behaviour
+* learn for analysising the correlation between PGRS and brain data using python
 * learn for python and try to program mediation model using python or R
+
+KW: These all sound great!
 
 #### Where do you need help from Kirstie?
 
