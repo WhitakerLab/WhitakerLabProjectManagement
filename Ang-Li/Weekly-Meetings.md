@@ -16,24 +16,33 @@
 
 #### Who helped you this week?
 
-* KW helped to introduce BT and BT helped with imputation. 
-* KW and Bo helped with preparing the talk. 
+* KW helped to introduce BT and BT helped with imputation.
+  * KW: Great!
+* KW and Bo helped with preparing the talk.
+  * KW: Fab! That's great :rocket:
   
 #### What did you achieve?
 
-* Giving my first English speech and knowing a new friend AJ. 
-* Working on imputation pipeline and fixed some bug. 
+* Giving my first English speech and knowing a new friend AJ.
+  * KW: WELL DONE! :trophy:
+* Working on imputation pipeline and fixed some bug.
+  * KW: Fab! :bug:
 * Writing my first appeal letter. 
+  * KW: :sob::sob::sob: Good luck!!
   
 #### What did you struggle with?
 
 * My previous submission. 
-* Waiting for the installtion of imputation. 
+* Waiting for the installation of imputation. 
 
 #### What would you like to work on next week?
 
 * Hopefully finish the installation for imputation, and wrote the instruction and code. 
 * Waiting for the feedback from ABCD team.
+
+KW: Also check out this tutorial for Overleaf & latex: https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+
+KW: Please also do the second blogging exercise: https://github.com/WhitakerLab/Onboarding/blob/master/BLOGGING_EXERCISES/01-MeetThreePeople.md
   
 #### Where do you need help from Kirstie?
 
