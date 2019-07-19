@@ -8,20 +8,22 @@
 
 #### Who did you help this week?
 
-* Helped a friend of mine(GZH) to find DABWA questionare user manual and make sure the way to scoring
+* Helped a friend of mine (GZH) to find DABWA questionare user manual and make sure the way to scoring.
 
 #### Who helped you this week?
 
-* AL helped to modify RR introduction,taught me the Azure manual and gene imputation for me 
-* GA  introduced her learning experienceof python and send a book for me 
-* BGT give some advices for our RRS imputation
+* AL helped to modify RR introduction, taught me the Azure manual and gene imputation for me.
+* GA introduced her learning experience of python and send a book for me.
+  * KW: This is so great - it would be lovely for you to work together :sparkling_heart:
+* BGT give some advices for our RR imputation.
+  * KW: Fantastic.
 
 #### What did you achieve?
 
-* modified the RRS introduction 
+* modified the RR introduction
 * organizing the Imagen questionaires
 * organizing the Imagen face-task 
-  
+
 #### What did you struggle with?
 
 * RR imputation
@@ -30,13 +32,16 @@
 
 * learn for Ang about RR imputation
 * =rewrite the PRGS method
+  * KW: Check out this tutorial for Overleaf & latex: https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
 * analyze Imagen face-task imaging
 * learn for python with GA
+
+KW: Please also do the second blogging exercise: https://github.com/WhitakerLab/Onboarding/blob/master/BLOGGING_EXERCISES/01-MeetThreePeople.md
 
 #### Where do you need help from Kirstie?
 
 * the reference tool
-
+  * KW: Zotero: https://www.zotero.org
 
 _________
 
