@@ -1,8 +1,44 @@
 # Weekly Meetings
-
+* [19 July 2019](#date-19-July-2019)
 * [07 July 2019](#date-07-July-2019)
 * [28 June 2019](#date-28-June-2019)
 * [17 June 2019](#date-17-June-2019)
+
+### Date: 19 July 2019
+
+#### Who did you help this week?
+
+* Helped a friend of mine(GZH) to find DABWA questionare user manual and make sure the way to scoring
+
+#### Who helped you this week?
+
+* AL helped to modify RR introduction,taught me the Azure manual and gene imputation for me 
+* GA  introduced her learning experienceof python and send a book for me 
+* BGT give some advices for our RRS imputation
+
+#### What did you achieve?
+
+* modified the RRS introduction 
+* organizing the Imagen questionaires
+* organizing the Imagen face-task 
+  
+#### What did you struggle with?
+
+* RR imputation
+
+#### What would you like to work on next week?
+
+* learn for Ang about RR imputation
+* =rewrite the PRGS method
+* analyze Imagen face-task imaging
+* learn for python with GA
+
+#### Where do you need help from Kirstie?
+
+* the reference tool
+
+
+_________
 
 ### Date: 07 July 2019
 
