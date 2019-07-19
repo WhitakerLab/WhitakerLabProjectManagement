@@ -1,10 +1,51 @@
 # Weekly Meetings
 
+* [8th July 2019](#date-19th-June-2019)
 * [19th June 2019](#date-19th-June-2019)
 * [22th May 2019](#date-2nd-May-2019)
 * [25th April 2019](#date-25th-April-2019)
 * [17th April 2019](#date-17th-April-2019)
 * [28th March 2019](#date-28th-March-2019)
+
+### Date: 8th July 2019
+
+#### Who did you help this week?
+
+* Helped ZY with the method of a literature. (also get an idea to link FC and GE data)
+
+#### Who helped you this week?
+
+* KW helped to ask the pipeline of imputation from the ABCD team. 
+* YN helped with downloading data.
+  
+#### What did you achieve?
+
+* Establised the software of imputation in Azure. (seems work, but not sure how to use with ABCD data)
+* Drew a figure for ABCD registered report and finish most of the code and visualization.
+* Made a milestone finding in HC project
+* Finished part of the PPT for the Turing Mental Health group.
+  * KW: Really excited about the talk!
+  
+#### What did you struggle with?
+
+* Waiting for the feedback of previous revision
+  * KW: Eeeeee 🤞🤞🤞
+* A little worry about the imputation
+
+#### What would you like to work on next week?
+
+* Finish the PPT for the Turing Mental Health group. 
+* Working on imputation of ABCD genomen data based on Kirstie's feedback.
+  
+#### Where do you need help from Kirstie?
+
+* Nothing specific. 
+
+Great job!
+Really interesting work.
+
+_________
+
 
 ### Date: 19th June 2019
 
