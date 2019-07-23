@@ -2,9 +2,47 @@
 
 Georgia's weekly meeting notes.
 
+* [24 July 2019](#date-24-july-2019)
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 24 July 2019
+
+#### Who did you help this week?
+
+* Helped YH by sharing some Python learning resources
+
+#### Who helped you this week?
+
+* AF showed me how to create classes to run tests in Python
+* BT was amazing! Created a demo back end for the CSP
+
+#### What did you achieve?
+
+* Most of this week was understanding OH back end - mapped out information flow, worked out areas which need most community investigation (such as moderation protocols and profile creation), and learned how to run demo from terminal
+* More Python - created a basic quiz and a chat function mostly to experiment with different features
+* Wrote a script for cartoon
+* Met lots of interesting Turing people
+
+#### What did you struggle with?
+
+* Retrurning variables outside functions - solved with help from BT
+
+#### What would you like to work on next week?
+
+* Bringing together aspects of CSP build
+* Comms (discuss with TA and OS) 
+
+#### Where do you need help from Kirstie?
+
+* Researcher interest & options
+* Create Webpage?
+* V training options
+
+#### Any other topics
+
+---
 
 ### Date: 08 July 2019
 
