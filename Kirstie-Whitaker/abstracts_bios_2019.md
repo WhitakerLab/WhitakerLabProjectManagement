@@ -275,7 +275,7 @@ Audience members will leave knowing how they can join the team and contribute to
 We seek to empower everyone in supporting autistic people and their families in living long, healthy, happy lives.
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
-Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of people with mental health disorders.
+Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of neurodivergent people and people with mental health conditions.
 Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
@@ -304,7 +304,7 @@ From laying out your welcome mat, through setting explicit expectations, to the 
 (Breaking down capitalism may have to wait for another day.)
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
-Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of people with mental health disorders.
+Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of neurodivergent people and people with mental health conditions.
 Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and participatory citizen science to educate non-autistic people about how they can better support autistic friends and colleagues.
 She is the lead developer of ["The Turing Way"](https://github.com/alan-turing-institute/the-turing-way), an openly developed educational resource to enable more reproducible data science.
 Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
