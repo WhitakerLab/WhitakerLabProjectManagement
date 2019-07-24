@@ -12,35 +12,55 @@ Georgia's weekly meeting notes.
 #### Who did you help this week?
 
 * Helped YH by sharing some Python learning resources
+  * KW: Thank you!
 
 #### Who helped you this week?
 
 * AF showed me how to create classes to run tests in Python
-* BT was amazing! Created a demo back end for the CSP
+  * KW: Woooo - I need to know that - can you share the resouces somewhere?
+  * KW: Would be amazing to have AF know about Open Humans and see where she might contribute :sparkling_heart:
+* BGT was amazing! Created a demo back end for the CSP
+  * KW: SO COOL :heart_eyes:
 
 #### What did you achieve?
 
 * Most of this week was understanding OH back end - mapped out information flow, worked out areas which need most community investigation (such as moderation protocols and profile creation), and learned how to run demo from terminal
+  * KW: Brilliant
 * More Python - created a basic quiz and a chat function mostly to experiment with different features
+  * KW: FUN!!
 * Wrote a script for cartoon
+  * KW: AMAAAAAAZING (clearly I'm enjoying all the stuff you're working on!)
 * Met lots of interesting Turing people
+  * KW: I'm so glad :smiley_cat:
 
 #### What did you struggle with?
 
-* Retrurning variables outside functions - solved with help from BT
+* Returning variables outside functions - solved with help from BT
+  * KW: :rocket:
 
 #### What would you like to work on next week?
 
 * Bringing together aspects of CSP build
 * Comms (discuss with TA and OS) 
+  * KW: :+1: Sounds great
 
 #### Where do you need help from Kirstie?
 
 * Researcher interest & options
-* Create Webpage?
+  * KW: Member of the community, but specific ideas out of scope.
+* Create webpage
+  * https://pages.github.com
+  * You can make a project site
 * V training options
+  * KW: FUN! Sounds like a plan :microphone:
 
 #### Any other topics
+
+KW: It would be great if you could work with PH to update the "Contributing on GitHub/GitLab" chapter in the Turing Way: https://the-turing-way.netlify.com/collaborating_github/collaborating_github.html
+
+KW: Please could you also do the "Meet 3 people at the Turing" blogging exercise? https://github.com/WhitakerLab/Onboarding/blob/master/BLOGGING_EXERCISES/01-MeetThreePeople.md
+
+KW: And thank you so much for running lab meetings without me! I so appreciate it :sparkling_heart:
 
 ---
 
@@ -77,6 +97,8 @@ Georgia's weekly meeting notes.
 * Communications strategies
  
 #### Any other topics
+
+KW: I'm sorry I missed this - you're doing a great job - keep it up! :sparkles:
 
 ---
 
