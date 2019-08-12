@@ -2,10 +2,54 @@
 
 Georgia's weekly meeting notes.
 
+* [13 August 2019](#date-13-august-2019)
 * [24 July 2019](#date-24-july-2019)
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 13 August 2019
+
+#### Who did you help this week?
+
+* Helped YH with GitHub, and gave interview for blog post
+
+#### Who helped you this week?
+
+* BGT helped me (again!) with an enquiry from Fujitsu about the OH demo
+* JK helped me to learn about classes and methods in Python
+
+#### What did you achieve?
+
+* (Soft) launched citizen science project
+* Ran two lab meetings
+* Wrote two blogs - "Introducing 3 people" and a lab meeting blog post
+* Finished draft position paper 
+* Updated repo docs for CSP
+* Began voice training classes
+* Started working on comms with TA
+
+#### What did you struggle with?
+
+* Focus/flow! Getting into the writing zone. 
+
+#### What would you like to work on next week?
+
+* Another blog to write and a couple more to put onto GitHub after comments
+* Next stage of CSP strategy - esp. engagement
+* Working with Fujitsu to manage build
+
+#### Where do you need help from Kirstie?
+
+* Next stages of CSP - build and comms plan
+* Position paper review
+* Also preparing for/advice on eLife hack (in early September)
+
+#### Any other topics
+
+* Would love to hear more about Neurohackademy if there's time 
+
+---
 
 ### Date: 24 July 2019
 
