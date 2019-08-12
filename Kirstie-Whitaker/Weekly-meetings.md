@@ -6,6 +6,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 **2019**
 
+* [12 August 2019](#date-12-august-2019)
 * [23 April 2019](#date-23-april-2019)
 * [24 March 2019](#date-24-march-2019)
 * [17 March 2019](#date-17-march-2019)
@@ -16,6 +17,71 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 * [14 January 2019](#date-14-january-2019)
 
 ---
+
+### Date: 12 August 2019
+
+*This update covers the 2 weeks at Neurohackademy*
+
+#### Who did you help this week?
+
+* I had lots of interesting conversations at Neurohackademy with folks who are thinking about social justice and culture change.
+* I got the new title ["git whisperer"](https://twitter.com/sarenseeley/status/1159661712368259073?s=20) for helping folks with merge conflicts etc which made me smile!
+
+#### Who helped you this week?
+
+* I loved hanging out in Portland with the [Code for Science and Society](https://codeforscience.org/) crew.
+  Wonderfully refreshing and inspiring as usual.
+* AH and LH helped me think through some of the bumps in the "new PI" road :sparkling_heart:
+* GA ran lab meeting for me while I was away which is so so lovely :pray:
+* The Neurohackademy participants brought joy to my heart, both because of the projects they worked on *and* their commitment to collaborating and improving working environment for everyone.
+* CH and LB invited me to collaborate on awesome future projects which made me super happy :sparkling_heart:
+* How amazing is [this card](https://twitter.com/kirstie_j/status/1160811335304790017?s=20) from EDP?? I LOVE IT!
+
+#### What did you achieve?
+
+* Two weeks at Neurohackademy generally answering questions and chatting about social justice and culture change.
+* Gave visualisation tutorial which folks said they liked a lot
+  * https://github.com/KirstieJane/NH19-Visualization
+* I ran a breakout session on _The Turing Way_ for Neurohackademy participants so hopefully they'll come along and help build that community.
+* I ran a breakout session on equity and inclusion which went really well.
+  Very cool use of 5 minute timer to keep us from getting stuck on one point over others.
+* GSOC meeting
+* Call w DC, planning for panel discussion next week
+* Call w CH re future collaboration
+* Remotely collaborated w LB on funding application
+* Pythonised [grant Gantt chart](https://github.com/KirstieJane/gantt-chart)
+* Had a great chat w AL re: BEP001
+* Blog posts for lab meetings in June are live!!
+  * https://whitakerlab.github.io/blog/2019-07-18-lab-meeting
+  * https://whitakerlab.github.io/blog/2019-07-25-lab-meeting
+
+#### What did you struggle with?
+
+* I didn't get as much done for the `scona`:cookie: PRs as I would have liked :weary:
+* I'm stil not confident on how to get folks in the lab collaborating with each other, but at least I have a few good ideas 🤞
+* I have approximately 1 million emails in my inbox :scream_cat:
+
+#### What would you like to work on next week?
+
+* I have lots of project catch up meetings which is really awesome - looking forward to those.
+* Cleaning up my inbox, I really need to get this under control otherwise everything else feels chaotic
+* EAG writing - something for CA & JC to review on Thursday
+* Automating the Crowd writing - mostly sketching out the content!
+* Get RY's PRs merged
+* Updated guidelines for lab meeting, updated lab website
+* BEP001 hack
+* Turing Way contributing zoom!! Exciting!
+
+#### Where do you need help?
+
+* I'm hoping to crack down on github issues for project management - it would be awesome if folks helped me along that path
+* Otherwise just the regular looking for extra hours in the day :wink:
+
+#### Any other topics
+
+I haven't been good at keeping these up to date this year.
+I'm declaring bankruptcy and starting again :weary: :determined_face: :wink:
+
 
 ### Date: 23 April 2019
 
