@@ -24,7 +24,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 #### Who did you help this week?
 
-* I had lots of interesting conversations at Neurohackademy with folks who are thinking about social justice and culture change.
+* I had lots of interesting conversations at [Neurohackademy](https://neurohackademy.org) with folks who are thinking about social justice and culture change.
 * I got the new title ["git whisperer"](https://twitter.com/sarenseeley/status/1159661712368259073?s=20) for helping folks with merge conflicts etc which made me smile!
 
 #### Who helped you this week?
