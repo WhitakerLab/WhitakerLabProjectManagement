@@ -13,25 +13,33 @@ Georgia's weekly meeting notes.
 #### Who did you help this week?
 
 * Helped YH with GitHub, and gave interview for blog post
+  * KW: This is great - thank you for helping her!
+
+KW: Also you chaired lab meeting twice - thank you so much for helping me!
 
 #### Who helped you this week?
 
 * BGT helped me (again!) with an enquiry from Fujitsu about the OH demo
+  * KW: :heart_eyes:
 * JK helped me to learn about classes and methods in Python
+  * KW: :snake::rocket::star2:
 
 #### What did you achieve?
 
 * (Soft) launched citizen science project
 * Ran two lab meetings
 * Wrote two blogs - "Introducing 3 people" and a lab meeting blog post
+  * KW: Awesome! Excited to read them.
 * Finished draft position paper 
+  * KW: So exciting! Looking forward to reading it! :sparkling_heart:
 * Updated repo docs for CSP
 * Began voice training classes
 * Started working on comms with TA
 
 #### What did you struggle with?
 
-* Focus/flow! Getting into the writing zone. 
+* Focus/flow! Getting into the writing zone.
+  * KW: As always!! :grimacing: I'm so delighted that you've got me the draft - well done!!!
 
 #### What would you like to work on next week?
 
@@ -47,7 +55,10 @@ Georgia's weekly meeting notes.
 
 #### Any other topics
 
-* Would love to hear more about Neurohackademy if there's time 
+* Would love to hear more about Neurohackademy if there's time
+
+KW: These are all fantastic updates Georgia!
+Well done!! Thank you :sparkles:
 
 ---
 
