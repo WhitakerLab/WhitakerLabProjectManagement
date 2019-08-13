@@ -1,8 +1,8 @@
 # Weekly Meetings
 
-* [13th Aug 2019](#date-13th-Aug-2019)
-* [19th July 2019](#date-19th-July-2019)
-* [8th July 2019](#date-8th-July-2019)
+* [13th Aug 2019](#date-13th-aug-2019)
+* [19th July 2019](#date-19th-july-2019)
+* [8th July 2019](#date-8th-july-2019)
 * [19th June 2019](#date-19th-june-2019)
 * [22th May 2019](#date-22th-may-2019)
 * [25th April 2019](#date-25th-april-2019)
@@ -12,23 +12,25 @@
 ### Date: 13th Aug 2019
 #### Who did you help this week?
 
-* Helped AJ asking a cooperation with China. 
+* Helped AJ asking a cooperation with China.
+  * KW: Great!
 
 #### Who helped you this week?
 
-* KW helped to ask ABCD team if we could upload data to MIS. 
+* KW helped to ask ABCD team if we could upload data to MIS.
 * GX helped me to login server in my Chinese lab. 
+  * KW: SUPER HELPFUL! Phew! :relieved:
   
 #### What did you achieve?
 
-* Finished the pipeline of imputation based on MIS and wrote some instructions. 
-* Updated the jupyter notebook of ABCD RR and draft. 
-* Wrote a blog introducing three people in Turing. 
-* Made some progress on IMAGEN data and HC. 
+* Finished the pipeline of imputation based on MIS and wrote some instructions.
+* Updated the jupyter notebook of ABCD RR and draft.
+* Wrote a blog introducing three people in Turing.
+* Made some progress on IMAGEN data and HC.
   
 #### What did you struggle with?
 
-* Waiting for the decision of previous NM submission. 
+* Waiting for the decision of previous NM submission.
 
 #### What would you like to work on next week?
 
@@ -39,6 +41,7 @@
 
 * Nothing specific. 
 
+KW: Great stuff - I'm really excited about the imputation guidelines and the jupyter notebook code!
 _________
 
 
