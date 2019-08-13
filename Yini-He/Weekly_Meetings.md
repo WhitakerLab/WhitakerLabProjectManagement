@@ -3,7 +3,42 @@
 * [07 July 2019](#date-07-July-2019)
 * [28 June 2019](#date-28-June-2019)
 * [17 June 2019](#date-17-June-2019)
+* [13 June 2019](#date-13-Augest-2019)
 
+_________
+### Date: 19 July 2019
+
+#### Who did you help this week?
+
+* A lot of friends helped me recently but I did few.I hope to make more contribution for the others.
+
+#### Who helped you this week?
+
+* GA gave me hand with my blog,github and Python.She's very well!
+* Ang taught me the imputation and helped to modify the RR method.He is working hard for fixing many kinds of bugs about imputation!
+
+#### What did you achieve?
+
+* On the way to study Python and I start to get some confidence.
+* rewrite the RR
+* made new friends in Turing and interviewed some of them.I like the creative people here.
+
+#### What did you struggle with?
+
+* RR imputation(It is really hard to understand all the details)
+* Github(I am so sorry to make mistakes on it.I will spend some time to learn it this week at least avoid making trouble.)
+
+#### What would you like to work on next week?
+
+* Work on RR
+* learn for Python and Github
+
+#### Where do you need help from Kirstie?
+
+* Straighten out the logic of the article together
+* I will try to solve my problem of Githubfirst. If there is something I could not solve, I hope I could ask you then
+
+_________
 ### Date: 19 July 2019
 
 #### Who did you help this week?
