@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [13th Aug 2019](#date-19th-June-2019)
 * [19th July 2019](#date-19th-June-2019)
 * [8th July 2019](#date-19th-June-2019)
 * [19th June 2019](#date-19th-June-2019)
@@ -7,6 +8,39 @@
 * [25th April 2019](#date-25th-April-2019)
 * [17th April 2019](#date-17th-April-2019)
 * [28th March 2019](#date-28th-March-2019)
+
+### Date: 13th Aug 2019
+#### Who did you help this week?
+
+* Helped AJ asking a cooperation with China. 
+
+#### Who helped you this week?
+
+* KW helped to ask ABCD team if we could upload data to MIS. 
+* GX helped me to login server in my Chinese lab. 
+  
+#### What did you achieve?
+
+* Finished the pipeline of imputation based on MIS and wrote some instructions. 
+* Updated the jupyter notebook of ABCD RR and draft. 
+* Wrote a blog introducing three people in Turing. 
+* Made some progress on IMAGEN data and HC. 
+  
+#### What did you struggle with?
+
+* Waiting for the decision of previous NM submission. 
+
+#### What would you like to work on next week?
+
+* Improve the draft & code related to RR.
+* Have some results in IMAGEN data.
+  
+#### Where do you need help from Kirstie?
+
+* Nothing specific. 
+
+_________
+
 
 ### Date: 19th July 2019
 
