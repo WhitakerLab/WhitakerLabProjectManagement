@@ -10,23 +10,32 @@ _________
 
 #### Who did you help this week?
 
-* A lot of friends helped me recently but I did few.I hope to make more contribution for the others.
+* A lot of friends helped me recently but I did few.
+  I hope to make more contribution for the others.
+  * KW: I bet you did help more people than you think! You helped GA by answering her questions :raised_hands:
 
 #### Who helped you this week?
 
-* GA gave me hand with my blog,github and Python.She's very well!
-* Ang taught me the imputation and helped to modify the RR method.He is working hard for fixing many kinds of bugs about imputation!
+* GA gave me hand with my blog, github and Python.
+  She's very kind!
+* Ang taught me the imputation and helped to modify the RR method.
+  He is working hard for fixing many kinds of bugs about imputation!
+
+KW: Awesome! Great stuff :sparkles:
 
 #### What did you achieve?
 
 * On the way to study Python and I start to get some confidence.
-* rewrite the RR
-* made new friends in Turing and interviewed some of them.I like the creative people here.
+* Rewrite the RR
+  * KW: I hope you didn't "re-write" everything - your work was really great! It's just part of the process :heart:
+* Made new friends in Turing and interviewed some of them.
+  I like the creative people here.
 
 #### What did you struggle with?
 
-* RR imputation(It is really hard to understand all the details)
-* Github(I am so sorry to make mistakes on it.I will spend some time to learn it this week at least avoid making trouble.)
+* RR imputation (It is really hard to understand all the details)
+* GitHub (I am so sorry to make mistakes on it.
+  I will spend some time to learn it this week at least avoid making trouble.)
 
 #### What would you like to work on next week?
 
@@ -36,7 +45,13 @@ _________
 #### Where do you need help from Kirstie?
 
 * Straighten out the logic of the article together
-* I will try to solve my problem of Githubfirst. If there is something I could not solve, I hope I could ask you then
+* I will try to solve my problem of Github first.
+  If there is something I could not solve, I hope I could ask you then
+  * KW: I think it makes more sense for me to show you what I'm expecting rather than have you struggle on your own!!
+  Ping me a meeting time and we can work together.
+
+KW: Great stuff - Let's find a time to chat GitHub. Well done on all the writing for the registered report.
+
 
 _________
 ### Date: 19 July 2019
