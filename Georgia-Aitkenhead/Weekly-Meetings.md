@@ -2,6 +2,165 @@
 
 Georgia's weekly meeting notes.
 
+* [24 July 2019](#date-24-july-2019)
+* [08 July 2019](#date-08-july-2019)
+* [24 June 2019](#date-24-june-2019)
+* [17 June 2019](#date-17-june-2019)
+
+### Date: 24 July 2019
+
+#### Who did you help this week?
+
+* Helped YH by sharing some Python learning resources
+  * KW: Thank you!
+
+#### Who helped you this week?
+
+* AF showed me how to create classes to run tests in Python
+  * KW: Woooo - I need to know that - can you share the resouces somewhere?
+  * KW: Would be amazing to have AF know about Open Humans and see where she might contribute :sparkling_heart:
+* BGT was amazing! Created a demo back end for the CSP
+  * KW: SO COOL :heart_eyes:
+
+#### What did you achieve?
+
+* Most of this week was understanding OH back end - mapped out information flow, worked out areas which need most community investigation (such as moderation protocols and profile creation), and learned how to run demo from terminal
+  * KW: Brilliant
+* More Python - created a basic quiz and a chat function mostly to experiment with different features
+  * KW: FUN!!
+* Wrote a script for cartoon
+  * KW: AMAAAAAAZING (clearly I'm enjoying all the stuff you're working on!)
+* Met lots of interesting Turing people
+  * KW: I'm so glad :smiley_cat:
+
+#### What did you struggle with?
+
+* Returning variables outside functions - solved with help from BT
+  * KW: :rocket:
+
+#### What would you like to work on next week?
+
+* Bringing together aspects of CSP build
+* Comms (discuss with TA and OS) 
+  * KW: :+1: Sounds great
+
+#### Where do you need help from Kirstie?
+
+* Researcher interest & options
+  * KW: Member of the community, but specific ideas out of scope.
+* Create webpage
+  * https://pages.github.com
+  * You can make a project site
+* V training options
+  * KW: FUN! Sounds like a plan :microphone:
+
+#### Any other topics
+
+KW: It would be great if you could work with PH to update the "Contributing on GitHub/GitLab" chapter in the Turing Way: https://the-turing-way.netlify.com/collaborating_github/collaborating_github.html
+
+KW: Please could you also do the "Meet 3 people at the Turing" blogging exercise? https://github.com/WhitakerLab/Onboarding/blob/master/BLOGGING_EXERCISES/01-MeetThreePeople.md
+
+KW: And thank you so much for running lab meetings without me! I so appreciate it :sparkling_heart:
+
+---
+
+### Date: 08 July 2019
+
+#### Who did you help this week?
+
+* Helped CL by submitting project updates
+  
+#### Who helped you this week?
+
+* TA helped plan some communications strategies
+* BH and DM gave me useful advice about engagement
+
+#### What did you achieve?
+
+* Created Python programme
+* Created roadmaps for CS project
+* Successful application for Sprint
+* Turing website now up
+* Helped deliver breakfast session with KW
+
+#### What did you struggle with?
+
+* LOUDNESS
+
+#### What would you like to work on next week?
+
+* Position paper redraft
+* Creating cartoon tutorials
+
+#### Where do you need help from Kirstie?
+
+* Communications strategies
+ 
+#### Any other topics
+
+KW: I'm sorry I missed this - you're doing a great job - keep it up! :sparkles:
+
+---
+
+
+### Date: 24 June 2019
+
+#### Who did you help this week?
+
+* Helped JS with job application
+  * KW: Fab! Fingers crossed for them!
+* Helped with logistics of various meetings
+  * KW: THANK YOU
+  
+#### Who helped you this week?
+
+* JH helped introduce me to Jupyter notebooks and using it to interrogate data
+  * KW: Soooo good - glad it was useful
+* KW introduced me to policy team :) & helped me sort out travel/accommodation for conference
+  * KW: Excited for Thursday :sparkles:
+* TA volunteered time to help on CS project
+  * KW: YAY
+* JK and MR agreed to give me coding lessons!
+  * KW: Fun times :computer:
+
+#### What did you achieve?
+
+* Presented CS project at Turing Inst meeting
+  * KW: Went really well - well done!
+* Updated values and outputs statement
+  * KW: Love these :rocket:
+* Useful meeting with collaborator
+* "Introducing" blog post committed to GitHub 🤞
+  * KW: Exciting!! I'll review :mag:
+* Productive stakeholder discussions
+  * KW: Thank you! :sparkling_heart:
+
+#### What did you struggle with?
+
+* Images on GitHub
+  * Yep - super confusing :sob:
+* Finding time/focus to work on position paper
+
+#### What would you like to work on next week?
+
+* A project updates (research fish)
+* Discover Conference
+* Creating plan for impoving tech skills
+
+KW: These are great! Enjoy the conference, it's going to be super fun.
+
+#### Where do you need help from Kirstie?
+
+* Looking over A project updates/values updates
+  * :white_check_mark:
+* More strategy
+  * DONE!
+* Tech skills advice
+ 
+#### Any other topics
+
+---
+
 * [17 June 2019](#date-17-june-2019)
 
 ### Date: 17 June 2019
