@@ -4,7 +4,7 @@ This is a file of abstracts and applications for events I attend in 2019.
 
 ### Cambridge Networks Day
 
-**Website**: https://www.neuroscience.cam.ac.uk/events/ABC2019/
+**Website**: https://www.cnn.group.cam.ac.uk/cambridge-networks-day
 
 **Date**: 12th-13th September
 
