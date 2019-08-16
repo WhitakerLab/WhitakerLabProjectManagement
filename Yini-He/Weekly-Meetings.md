@@ -1,12 +1,13 @@
 # Weekly Meetings
-* [19 July 2019](#date-19-July-2019)
-* [07 July 2019](#date-07-July-2019)
-* [28 June 2019](#date-28-June-2019)
-* [17 June 2019](#date-17-June-2019)
-* [13 June 2019](#date-13-Augest-2019)
+
+* [13 August 2019](#date-13-august-2019)
+* [19 July 2019](#date-19-july-2019)
+* [07 July 2019](#date-07-july-2019)
+* [28 June 2019](#date-28-june-2019)
+* [17 June 2019](#date-17-june-2019)
 
 _________
-### Date: 19 July 2019
+### Date: 13 August 2019
 
 #### Who did you help this week?
 
