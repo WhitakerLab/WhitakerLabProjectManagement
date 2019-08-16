@@ -8,7 +8,7 @@ This is a file of abstracts and applications for events I attend in 2019.
 
 **Date**: 12th-13th September
 
-**Application**: Networks are ubiquitous, and our brain is the most complex networks in the world.
+**Application**: Networks are ubiquitous, and our brain is the most complex network in the world.
 I hope to attend the Cambridge network day because there will be filled with interdisciplinary content.
 I believe I could hear some advanced network method and learn some ideas and experience with analysis and applications of big data. 
 I believe this knowledge will help to conduct research on the organization and activities of human brain networks and then explore the secrets of the major diseases of the brain.
