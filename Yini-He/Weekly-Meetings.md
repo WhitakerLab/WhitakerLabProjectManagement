@@ -1,9 +1,60 @@
 # Weekly Meetings
-* [19 July 2019](#date-19-July-2019)
-* [07 July 2019](#date-07-July-2019)
-* [28 June 2019](#date-28-June-2019)
-* [17 June 2019](#date-17-June-2019)
 
+* [13 August 2019](#date-13-august-2019)
+* [19 July 2019](#date-19-july-2019)
+* [07 July 2019](#date-07-july-2019)
+* [28 June 2019](#date-28-june-2019)
+* [17 June 2019](#date-17-june-2019)
+
+_________
+### Date: 13 August 2019
+
+#### Who did you help this week?
+
+* A lot of friends helped me recently but I did few.
+  I hope to make more contribution for the others.
+  * KW: I bet you did help more people than you think! You helped GA by answering her questions :raised_hands:
+
+#### Who helped you this week?
+
+* GA gave me hand with my blog, github and Python.
+  She's very kind!
+* Ang taught me the imputation and helped to modify the RR method.
+  He is working hard for fixing many kinds of bugs about imputation!
+
+KW: Awesome! Great stuff :sparkles:
+
+#### What did you achieve?
+
+* On the way to study Python and I start to get some confidence.
+* Rewrite the RR
+  * KW: I hope you didn't "re-write" everything - your work was really great! It's just part of the process :heart:
+* Made new friends in Turing and interviewed some of them.
+  I like the creative people here.
+
+#### What did you struggle with?
+
+* RR imputation (It is really hard to understand all the details)
+* GitHub (I am so sorry to make mistakes on it.
+  I will spend some time to learn it this week at least avoid making trouble.)
+
+#### What would you like to work on next week?
+
+* Work on RR
+* learn for Python and Github
+
+#### Where do you need help from Kirstie?
+
+* Straighten out the logic of the article together
+* I will try to solve my problem of Github first.
+  If there is something I could not solve, I hope I could ask you then
+  * KW: I think it makes more sense for me to show you what I'm expecting rather than have you struggle on your own!!
+  Ping me a meeting time and we can work together.
+
+KW: Great stuff - Let's find a time to chat GitHub. Well done on all the writing for the registered report.
+
+
+_________
 ### Date: 19 July 2019
 
 #### Who did you help this week?
