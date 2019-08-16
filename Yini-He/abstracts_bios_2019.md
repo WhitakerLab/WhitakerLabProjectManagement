@@ -6,7 +6,7 @@ This is a file of abstracts and applications for events I attend in 2019.
 
 **Website**: https://www.cnn.group.cam.ac.uk/cambridge-networks-day
 
-**Date**: 12th-13th September
+**Date**: 29 August 2019
 
 **Application**: Networks are ubiquitous, and our brain is the most complex network in the world.
 I hope to attend the Cambridge network day because there will be filled with interdisciplinary content.
