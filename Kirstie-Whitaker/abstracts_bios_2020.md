@@ -11,6 +11,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * January
 * February
 * March
+  * [Manchester Literary and Philosophical Society](#manchester-literary-and-philosophical-society)
 * April
 * May
 * June
