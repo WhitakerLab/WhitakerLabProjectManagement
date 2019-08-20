@@ -2,11 +2,38 @@
 
 Georgia's weekly meeting notes.
 
+* [21 August 2019](#date-21-august-2019)
 * [13 August 2019](#date-13-august-2019)
 * [24 July 2019](#date-24-july-2019)
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 21 August 2019
+
+#### Who did you help this week?
+
+* Helped AL by reviewing a pull request
+
+#### Who helped you this week?
+
+* SG helped me with GitHub reviewing tips
+
+#### What did you achieve?
+
+* Redid lab meeting blog posts to improve style
+* Created pull requests with updated docs for CSP repo
+* Put eLife application into markdown
+* Created a stakeholder map for CSP
+* Uploaded cartoon script onto GitHub
+
+#### What did you struggle with?
+
+* Struggled with energy levels
+
+#### Where do you need help from Kirstie?
+
+* Volunteers for CSP 
 
 ### Date: 13 August 2019
 
