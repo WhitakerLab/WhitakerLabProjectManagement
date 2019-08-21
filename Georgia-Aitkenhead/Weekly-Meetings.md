@@ -19,13 +19,20 @@ Georgia's weekly meeting notes.
 
 * SG helped me with GitHub reviewing tips
 
+So great - these skills are super hard to get and I really appreciate you working with AL and SG to learn them :sparkling_heart:
+
 #### What did you achieve?
 
 * Redid lab meeting blog posts to improve style
+  * KW: THANK YOU SO MUCH! They're merged now - amazing :heart_eyes:
+    * https://whitakerlab.github.io/blog/2019-08-01-lab-meeting
+    * https://whitakerlab.github.io/blog/2019-08-08-lab-meeting
 * Created pull requests with updated docs for CSP repo
+  * KW: Updates to ethics are all looking awesome
 * Put eLife application into markdown
 * Created a stakeholder map for CSP
 * Uploaded cartoon script onto GitHub
+  * KW: So excited about the video :movie_camera:
 
 #### What did you struggle with?
 
@@ -34,6 +41,9 @@ Georgia's weekly meeting notes.
 #### Where do you need help from Kirstie?
 
 * Volunteers for CSP 
+
+KW: This is all going super well Georgia! Well done on all the great work.
+Sorry I didn't read your paper by today - I'll take it with me on holiday!
 
 ### Date: 13 August 2019
 
