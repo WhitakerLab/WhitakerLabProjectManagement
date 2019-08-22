@@ -20,13 +20,14 @@
   
 #### What did you achieve?
 
-* made a little progress in Python,Now I am trying to analyze CSV with Pandas
+* made a little progress in Python, now I am trying to analyze CSV with Pandas
 * After kirstie's Github class, I listened online Github course again, hoping that I could really get fun with it in the future.
 * Look deep into Ang's comment in RR and got deeper understanding of schizophrenia
 
 #### What did you struggle with?
 
-* New promblem in imputation(ABCD did not give us permission to use the Michigan Imputation Server)
+* New promblem in imputation (ABCD did not give us permission to use the Michigan Imputation Server)
+  * KW: Booo - but we can do that locally :smiley:
 
 #### What would you like to work on next week?
 
@@ -36,6 +37,7 @@
 #### Where do you need help from Kirstie?
 
 * Could you help me to solve "This branch has conflicts that must be resolved" in git?
+  * KW: We did it! :rocket::star2:
 
 
 _________
