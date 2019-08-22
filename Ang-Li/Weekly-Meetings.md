@@ -11,6 +11,7 @@
 * [28th March 2019](#date-28th-march-2019)
 
 ### Date: 22th Aug 2019
+
 #### Who did you help this week?
 
 * Helped YH with Python.
@@ -19,12 +20,13 @@
 #### Who helped you this week?
 
 * Two top doctors in China helped with labeling of the sleep data. 
-* AZ provided some suggestions for the revision 
+* AZ provided some suggestions for the revision
+  * KW: COOL - good luck!
   
 #### What did you achieve?
 
 * Finished my first review in Github, ready to do more. 
-* Wrote a new version of introduction and learned how to use overleaf. 
+* Wrote a new version of introduction and learned how to use overleaf.
 * Improve the code related to RR and provide example data. 
 * Hopefully, got closer to my first publication.
 * Made a detailed plan with the new revision. 
@@ -41,7 +43,10 @@
   
 #### Where do you need help from Kirstie?
 
-* Some suggestions of which platform to put example data? 
+* Some suggestions of which platform to put example data?
+  * https://osf.io
+  * https://zenodo.org
+  * KW: Check out the section on data management in the Turing Way in case its useful: https://the-turing-way.netlify.com/rdm/rdm.html#sharing-and-archiving-data
 
 _________
 
