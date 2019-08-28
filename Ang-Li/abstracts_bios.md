@@ -10,9 +10,8 @@ This is a file of abstracts and applications for events I attend in 2019.
 
 **Application**: 
 I hope to attend the Cambridge network day, as I'm super interested at network science.
-As a Ph.D. student focusing on neuroimaging and data science, I already have some background knowledge of network and its application 
-in neuroimaging. Our brain, just like the other complex systems in the real world, is a small world network, and the topological structure 
-of brain is abnormal in many brain disorders. 
+As a Ph.D. student focusing on neuroimaging and data science, I already have some background knowledge of network and its application in neuroimaging. 
+Our brain, just like the other complex systems in the real world, is a small world network, and the topological structure of brain is abnormal in many brain disorders. 
 Although we have deeper understanding of our brain using the framework of network/graph theory, we have 
 very limited applications to help the real world in neuroimaging. 
 Thus, it's a great opportunity for me to know more network applications in diverse fields, and to learn novel methods from the 
