@@ -11,7 +11,7 @@
 * [17th April 2019](#date-17th-april-2019)
 * [28th March 2019](#date-28th-march-2019)
 
-### Date: 22th Aug 2019
+### Date: 30th Aug 2019
 
 #### Who did you help this week?
 
