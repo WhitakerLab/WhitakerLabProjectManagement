@@ -2,8 +2,198 @@
 
 Georgia's weekly meeting notes.
 
+* [21 August 2019](#date-21-august-2019)
+* [13 August 2019](#date-13-august-2019)
+* [24 July 2019](#date-24-july-2019)
+* [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 21 August 2019
+
+#### Who did you help this week?
+
+* Helped AL by reviewing a pull request
+
+#### Who helped you this week?
+
+* SG helped me with GitHub reviewing tips
+
+So great - these skills are super hard to get and I really appreciate you working with AL and SG to learn them :sparkling_heart:
+
+#### What did you achieve?
+
+* Redid lab meeting blog posts to improve style
+  * KW: THANK YOU SO MUCH! They're merged now - amazing :heart_eyes:
+    * https://whitakerlab.github.io/blog/2019-08-01-lab-meeting
+    * https://whitakerlab.github.io/blog/2019-08-08-lab-meeting
+* Created pull requests with updated docs for CSP repo
+  * KW: Updates to ethics are all looking awesome
+* Put eLife application into markdown
+* Created a stakeholder map for CSP
+* Uploaded cartoon script onto GitHub
+  * KW: So excited about the video :movie_camera:
+
+#### What did you struggle with?
+
+* Struggled with energy levels
+
+#### Where do you need help from Kirstie?
+
+* Volunteers for CSP 
+
+KW: This is all going super well Georgia! Well done on all the great work.
+Sorry I didn't read your paper by today - I'll take it with me on holiday!
+
+### Date: 13 August 2019
+
+#### Who did you help this week?
+
+* Helped YH with GitHub, and gave interview for blog post
+  * KW: This is great - thank you for helping her!
+
+KW: Also you chaired lab meeting twice - thank you so much for helping me!
+
+#### Who helped you this week?
+
+* BGT helped me (again!) with an enquiry from Fujitsu about the OH demo
+  * KW: :heart_eyes:
+* JK helped me to learn about classes and methods in Python
+  * KW: :snake::rocket::star2:
+
+#### What did you achieve?
+
+* (Soft) launched citizen science project
+* Ran two lab meetings
+* Wrote two blogs - "Introducing 3 people" and a lab meeting blog post
+  * KW: Awesome! Excited to read them.
+* Finished draft position paper 
+  * KW: So exciting! Looking forward to reading it! :sparkling_heart:
+* Updated repo docs for CSP
+* Began voice training classes
+* Started working on comms with TA
+
+#### What did you struggle with?
+
+* Focus/flow! Getting into the writing zone.
+  * KW: As always!! :grimacing: I'm so delighted that you've got me the draft - well done!!!
+
+#### What would you like to work on next week?
+
+* Another blog to write and a couple more to put onto GitHub after comments
+* Next stage of CSP strategy - esp. engagement
+* Working with Fujitsu to manage build
+
+#### Where do you need help from Kirstie?
+
+* Next stages of CSP - build and comms plan
+* Position paper review
+* Also preparing for/advice on eLife hack (in early September)
+
+#### Any other topics
+
+* Would love to hear more about Neurohackademy if there's time
+
+KW: These are all fantastic updates Georgia!
+Well done!! Thank you :sparkles:
+
+---
+
+### Date: 24 July 2019
+
+#### Who did you help this week?
+
+* Helped YH by sharing some Python learning resources
+  * KW: Thank you!
+
+#### Who helped you this week?
+
+* AF showed me how to create classes to run tests in Python
+  * KW: Woooo - I need to know that - can you share the resouces somewhere?
+  * KW: Would be amazing to have AF know about Open Humans and see where she might contribute :sparkling_heart:
+* BGT was amazing! Created a demo back end for the CSP
+  * KW: SO COOL :heart_eyes:
+
+#### What did you achieve?
+
+* Most of this week was understanding OH back end - mapped out information flow, worked out areas which need most community investigation (such as moderation protocols and profile creation), and learned how to run demo from terminal
+  * KW: Brilliant
+* More Python - created a basic quiz and a chat function mostly to experiment with different features
+  * KW: FUN!!
+* Wrote a script for cartoon
+  * KW: AMAAAAAAZING (clearly I'm enjoying all the stuff you're working on!)
+* Met lots of interesting Turing people
+  * KW: I'm so glad :smiley_cat:
+
+#### What did you struggle with?
+
+* Returning variables outside functions - solved with help from BT
+  * KW: :rocket:
+
+#### What would you like to work on next week?
+
+* Bringing together aspects of CSP build
+* Comms (discuss with TA and OS) 
+  * KW: :+1: Sounds great
+
+#### Where do you need help from Kirstie?
+
+* Researcher interest & options
+  * KW: Member of the community, but specific ideas out of scope.
+* Create webpage
+  * https://pages.github.com
+  * You can make a project site
+* V training options
+  * KW: FUN! Sounds like a plan :microphone:
+
+#### Any other topics
+
+KW: It would be great if you could work with PH to update the "Contributing on GitHub/GitLab" chapter in the Turing Way: https://the-turing-way.netlify.com/collaborating_github/collaborating_github.html
+
+KW: Please could you also do the "Meet 3 people at the Turing" blogging exercise? https://github.com/WhitakerLab/Onboarding/blob/master/BLOGGING_EXERCISES/01-MeetThreePeople.md
+
+KW: And thank you so much for running lab meetings without me! I so appreciate it :sparkling_heart:
+
+---
+
+### Date: 08 July 2019
+
+#### Who did you help this week?
+
+* Helped CL by submitting project updates
+  
+#### Who helped you this week?
+
+* TA helped plan some communications strategies
+* BH and DM gave me useful advice about engagement
+
+#### What did you achieve?
+
+* Created Python programme
+* Created roadmaps for CS project
+* Successful application for Sprint
+* Turing website now up
+* Helped deliver breakfast session with KW
+
+#### What did you struggle with?
+
+* LOUDNESS
+
+#### What would you like to work on next week?
+
+* Position paper redraft
+* Creating cartoon tutorials
+
+#### Where do you need help from Kirstie?
+
+* Communications strategies
+ 
+#### Any other topics
+
+KW: I'm sorry I missed this - you're doing a great job - keep it up! :sparkles:
+
+---
+
 
 ### Date: 24 June 2019
 

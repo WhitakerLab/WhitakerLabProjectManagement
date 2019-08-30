@@ -1,9 +1,170 @@
 # Weekly Meetings
 
-* [22th May 2019](#date-2nd-May-2019)
-* [25th April 2019](#date-25th-April-2019)
-* [17th April 2019](#date-17th-April-2019)
-* [28th March 2019](#date-28th-March-2019)
+* [13th Aug 2019](#date-13th-aug-2019)
+* [19th July 2019](#date-19th-july-2019)
+* [8th July 2019](#date-8th-july-2019)
+* [19th June 2019](#date-19th-june-2019)
+* [22th May 2019](#date-22th-may-2019)
+* [25th April 2019](#date-25th-april-2019)
+* [17th April 2019](#date-17th-april-2019)
+* [28th March 2019](#date-28th-march-2019)
+
+### Date: 13th Aug 2019
+#### Who did you help this week?
+
+* Helped AJ asking a cooperation with China.
+  * KW: Great!
+
+#### Who helped you this week?
+
+* KW helped to ask ABCD team if we could upload data to MIS.
+* GX helped me to login server in my Chinese lab. 
+  * KW: SUPER HELPFUL! Phew! :relieved:
+  
+#### What did you achieve?
+
+* Finished the pipeline of imputation based on MIS and wrote some instructions.
+* Updated the jupyter notebook of ABCD RR and draft.
+* Wrote a blog introducing three people in Turing.
+* Made some progress on IMAGEN data and HC.
+  
+#### What did you struggle with?
+
+* Waiting for the decision of previous NM submission.
+
+#### What would you like to work on next week?
+
+* Improve the draft & code related to RR.
+* Have some results in IMAGEN data.
+  
+#### Where do you need help from Kirstie?
+
+* Nothing specific. 
+
+KW: Great stuff - I'm really excited about the imputation guidelines and the jupyter notebook code!
+_________
+
+
+### Date: 19th July 2019
+
+#### Who did you help this week?
+
+* Helped YN with introduction of registered report and Azure. 
+
+#### Who helped you this week?
+
+* KW helped to introduce BT and BT helped with imputation.
+  * KW: Great!
+* KW and Bo helped with preparing the talk.
+  * KW: Fab! That's great :rocket:
+  
+#### What did you achieve?
+
+* Giving my first English speech and knowing a new friend AJ.
+  * KW: WELL DONE! :trophy:
+* Working on imputation pipeline and fixed some bug.
+  * KW: Fab! :bug:
+* Writing my first appeal letter. 
+  * KW: :sob::sob::sob: Good luck!!
+  
+#### What did you struggle with?
+
+* My previous submission. 
+* Waiting for the installation of imputation. 
+
+#### What would you like to work on next week?
+
+* Hopefully finish the installation for imputation, and wrote the instruction and code. 
+* Waiting for the feedback from ABCD team.
+
+KW: Also check out this tutorial for Overleaf & latex: https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+
+KW: Please also do the second blogging exercise: https://github.com/WhitakerLab/Onboarding/blob/master/BLOGGING_EXERCISES/01-MeetThreePeople.md
+  
+#### Where do you need help from Kirstie?
+
+* Nothing specific. 
+
+_________
+
+### Date: 8th July 2019
+
+#### Who did you help this week?
+
+* Helped ZY with the method of a literature. (also get an idea to link FC and GE data)
+
+#### Who helped you this week?
+
+* KW helped to ask the pipeline of imputation from the ABCD team. 
+* YN helped with downloading data.
+  
+#### What did you achieve?
+
+* Establised the software of imputation in Azure. (seems work, but not sure how to use with ABCD data)
+* Drew a figure for ABCD registered report and finish most of the code and visualization.
+* Made a milestone finding in HC project
+* Finished part of the PPT for the Turing Mental Health group.
+  * KW: Really excited about the talk!
+  
+#### What did you struggle with?
+
+* Waiting for the feedback of previous revision
+  * KW: Eeeeee 🤞🤞🤞
+* A little worry about the imputation
+
+#### What would you like to work on next week?
+
+* Finish the PPT for the Turing Mental Health group. 
+* Working on imputation of ABCD genomen data based on Kirstie's feedback.
+  
+#### Where do you need help from Kirstie?
+
+* Nothing specific. 
+
+Great job!
+Really interesting work.
+
+_________
+
+
+### Date: 19th June 2019
+
+#### Who did you help this week?
+
+* Helped Yini with Github. 
+
+#### Who helped you this week?
+
+* KW helped me to confirm ABCD genome data (four times) and chase the script.
+* CL helped me with accommodation in Rome. 
+* BL helped me to provide new data in HC project. 
+* HW helped to finish the preprocessing of IMAGEN data. 
+  
+#### What did you achieve?
+
+* Have a great time in Rome & knew some new friends.
+* Finish most coding work for ABCD registered report.
+  * KW: Looks great! Really fun!
+* Made impressive progress in HC project.
+  
+#### What did you struggle with?
+
+* Nothing
+
+#### What would you like to work on next week?
+
+* Work on ABCD registered report. 
+  * KW: Great! Excited for a methods figure and keeping going with the code & writing up the methods section in the registered report. 
+* Prepare the report in Turing Mental Health Interest group.
+* Write some code for IMAGEN project & HC project
+  
+#### Where do you need help from Kirstie?
+
+* Maybe KW can help to ask for the scripts of imputation from the ABCD team.
+  * KW: Email sent.....I'll keep an eye on it :smiley_cat:
+
+_________
+
 
 ### Date: 22th May 2019
 
