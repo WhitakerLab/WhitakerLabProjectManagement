@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [30th Aug 2019](#date-30th-aug-2019)
 * [22th Aug 2019](#date-22th-aug-2019)
 * [13th Aug 2019](#date-13th-aug-2019)
 * [19th July 2019](#date-19th-july-2019)
@@ -9,6 +10,38 @@
 * [25th April 2019](#date-25th-april-2019)
 * [17th April 2019](#date-17th-april-2019)
 * [28th March 2019](#date-28th-march-2019)
+
+### Date: 22th Aug 2019
+
+#### Who did you help this week?
+
+* Find difficult to come up with a help this week:(
+
+#### Who helped you this week?
+
+* IP gave some suggestions on my work.
+* KW helped me to better use Github.
+  
+#### What did you achieve?
+
+* Improved the introduction and method section, as suggested by KW. 
+* Attended Cambridge Network Day and had a good time!
+* Learned more about how to use Github. 
+* Had some progress on revision. 
+  
+#### What did you struggle with?
+
+* Paper revision. 
+
+#### What would you like to work on next week?
+
+* Maybe move forward to the applying for the ABCD data.
+  
+#### Where do you need help from Kirstie?
+
+* Hope Kirstie can help to imporve and perfect RR. 
+
+_________
 
 ### Date: 22th Aug 2019
 
