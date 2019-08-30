@@ -4,8 +4,6 @@
 
 This repository contains issues related to the management of all Whitaker Lab projects along with weekly progress records for all lab members and collaborators.
 
-Check out the [roadmap](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/1) for more information.
-
 ## Working open
 
 At the Whitaker lab we are dedicated to working as openly as possible. We believe that our endeavors will be more successful through clear communication and collaboration than by keeping secrets. This repository is designed to showcase our "work in progress". You're welcome to help out along the way!
@@ -15,6 +13,19 @@ We may have private repositories if our collaborators are more comfortable with 
 ## Onboarding
 
 If you're new to the lab, check out the [Onboarding repository](https://github.com/WhitakerLab/Onboarding) which will talk you through the different exercises and actions for your first few weeks in the lab.
+
+## Weekly updates
+
+Lab members are asked to prepare for their regular meetings with Kirstie by completing their "Weekly-meetings" file and open a pull request to update the repository in advance of the meeting.
+You can find the public records of these meetings in the [weekly-updates](weekly-updates) folder.
+
+## Lab meetings
+
+Lab meetings are held every week on Thursdays at 3pm.
+Remote attendance is always supported.
+Participation (even if you can't attend the meeting itself) is required from all lab members.
+
+You can see the schedule in the [lab-meetings](lab-meetings) folder.
 
 ## License and code of conduct
 
