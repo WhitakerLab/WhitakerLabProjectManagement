@@ -253,8 +253,6 @@ KW: These are great! Enjoy the conference, it's going to be super fun.
 
 ---
 
-* [17 June 2019](#date-17-june-2019)
-
 ### Date: 17 June 2019
 
 #### Who did you help this week?
