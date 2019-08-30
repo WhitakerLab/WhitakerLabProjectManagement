@@ -15,31 +15,39 @@
 
 #### Who did you help this week?
 
-* Find difficult to come up with a help this week:(
+* Find difficult to come up with a help this week :(
 
 #### Who helped you this week?
 
 * IP gave some suggestions on my work.
+  * KW: Fantastic! I'm so glad :smiley_cat:
 * KW helped me to better use Github.
   
 #### What did you achieve?
 
 * Improved the introduction and method section, as suggested by KW. 
 * Attended Cambridge Network Day and had a good time!
+  * KW: Glad you enjoyed it.
 * Learned more about how to use Github. 
 * Had some progress on revision. 
   
 #### What did you struggle with?
 
-* Paper revision. 
+* Paper revision.
 
 #### What would you like to work on next week?
 
 * Maybe move forward to the applying for the ABCD data.
+
+KW: Reviews PRs:
+  * https://github.com/WhitakerLab/Onboarding/pull/15
+  * https://github.com/WhitakerLab/whitakerlab.github.io/pull/83
+  * https://github.com/WhitakerLab/whitakerlab.github.io/pull/84
+  * https://github.com/WhitakerLab/whitakerlab.github.io/pull/67
   
 #### Where do you need help from Kirstie?
 
-* Hope Kirstie can help to imporve and perfect RR. 
+* Hope Kirstie can help to improve and perfect RR.
 
 _________
 
