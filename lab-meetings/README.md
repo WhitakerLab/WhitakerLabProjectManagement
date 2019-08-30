@@ -38,6 +38,6 @@ This table covers lab meetings from September to November 2019.
 | 25 July | Kirstie | All group update | [2019-07-25-lab-meeting](https://whitakerlab.github.io/blog/2019-07-25-lab-meeting) |
 | 1 August | Georgia | Open agenda | [2019-08-01-lab-meeting](https://whitakerlab.github.io/blog/2019-08-01-lab-meeting) |
 | 8 August | Georgia | Open agenda | [2019-08-08-lab-meeting](https://whitakerlab.github.io/blog/2019-08-08-lab-meeting) |
-| 15 August | Kirstie | Revamping and setting expectations for lab meetings | |
-| 22 August | Kirstie | [`scona`🍪](https://github.com/WhitakerLab/scona) | |
+| 15 August | Kirstie | Revamping and setting expectations for lab meetings | [PR #83](https://github.com/WhitakerLab/whitakerlab.github.io/pull/83) |
+| 22 August | Kirstie | [`scona`🍪](https://github.com/WhitakerLab/scona) | [PR #83](https://github.com/WhitakerLab/whitakerlab.github.io/pull/84) |
 | 29 August | No lab meeting | [Cambridge Networks Day](https://www.cnn.group.cam.ac.uk/cambridge-networks-day) | |
