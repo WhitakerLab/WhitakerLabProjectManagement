@@ -21,7 +21,12 @@
 #### What did you achieve?
 
 * reviewed and modified the RR introduction and thank Ang made some changes.
-* I am really enjoyed the Cambridge network day!!!Thank Kirstie gave me this chance!I especially love Prof.Bassett's research! Of course, the other speakers are also great! I got lots of motivation and inspiration from this meeting.
+* I am really enjoyed the Cambridge network day!!!
+  Thank Kirstie gave me this chance!
+  I especially love Prof.Bassett's research!
+  Of course, the other speakers are also great!
+  I got lots of motivation and inspiration from this meeting.
+  * KW: So glad you had a great time!
 
 #### What did you struggle with?
 
@@ -32,11 +37,17 @@
 * Work on RR
 * learn for Python and try to analyze the relationship between questionnaire scores and the neuroimaging using Pandas DataFrame.
 
+KW: Reviews PRs:
+  * https://github.com/WhitakerLab/Onboarding/pull/15
+  * https://github.com/WhitakerLab/whitakerlab.github.io/pull/83
+  * https://github.com/WhitakerLab/whitakerlab.github.io/pull/84
+  * https://github.com/WhitakerLab/whitakerlab.github.io/pull/68
+
 #### Where do you need help from Kirstie?
 
 * hope Kirstie to modify RR
-* discuss about the next step of RR.Maybe we could make a schedule,including when to submit the RR and when to apply for ABCD data
-
+* discuss about the next step of RR.
+  Maybe we could make a schedule, including when to submit the RR and when to apply for ABCD data
 
 _________
 ### Date: 22 August 2019
