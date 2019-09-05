@@ -20,7 +20,7 @@ This table covers lab meetings from September to November 2019.
 | 12 September | No lab meeting | [Cambridge Neuroscience #ABC2019](https://www.neuroscience.cam.ac.uk/events/ABC2019/) | |
 | 19 September | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 | 26 September | Ang & Yini | ABCD registered report | |
-| 3 October | Kirstie | [Turing Way](https://github.com/alan-turing-institute/the-turing-way) | |
+| 3 October | No lab meeting | Turing Town Hall | |
 | 10 October | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 | 17 October | Georgia | [Autistica/Turing Citizen Science platform](https://github.com/alan-turing-institute/AutisticaCitizenScience) | |
 | 24 October | No lab meeting | (hopefully) Turing Way co-working at [MozFest House](https://www.mozillafestival.org/en/house/) | |
