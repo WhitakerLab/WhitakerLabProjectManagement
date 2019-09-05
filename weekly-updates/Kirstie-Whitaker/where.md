@@ -326,7 +326,7 @@ Date | Day   | City, Country                | Event
 7    | Sat   | 🏰 Edinburgh, UK            | Visiting friends
 8    | Sun   | 🏰 Edinburgh, UK            | Visiting friends
 9    | Mon   | 🏰 Edinburgh, UK            | [MQ Data Science](https://www.epay.ed.ac.uk/conferences-and-events/college-of-medicine-and-veterinary-medicine/school-of-molecular-and-clinical-medicine/division-of-psychiatry/mq-mental-health-data-science-meeting-2019) Meeting
-10   | Tue   | :uk: London, UK              | Working at Turing Institute
+10   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
 11   | Wed   | :mortar_board: Cambridge, UK | [Cambridge Neuroscience Symposium](https://www.neuroscience.cam.ac.uk/events/ABC2019/)
 12   | Thurs | :mortar_board: Cambridge, UK | [Cambridge Neuroscience Symposium](https://www.neuroscience.cam.ac.uk/events/ABC2019/)
 13   | Fri   | :mortar_board: Cambridge, UK |[Cambridge Neuroscience Symposium](https://www.neuroscience.cam.ac.uk/events/ABC2019/)
@@ -337,8 +337,8 @@ Date | Day   | City, Country                | Event
 18   | Wed   | :uk: London, UK              | Working at Turing Institute
 19   | Thurs | :uk: London, UK              | Working at Turing Institute
 20   | Fri   | :uk: London, UK              | Working at Turing Institute
-21   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-22   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+21   | Sat   | :uk: Newcastle, UK            | Seeing family in Newcastle
+22   | Sun   | :uk: Newcastle, UK            | Seeing family in Newcastle
 23   | Mon   | :uk: London, UK              | Working at Turing Institute
 24   | Tue   | :uk: London, UK              | Working at Turing Institute
 25   | Wed   | :uk: London, UK              | Working at Turing Institute
