@@ -18,6 +18,61 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 ---
 
+### Date: 19 August 2019
+
+#### Who did you help this week?
+
+* Went over GitHub pull requests w YH
+* Ran PhD student office hours which I think are helpful - someone even came :laughing:
+
+#### Who helped you this week?
+
+* SDC made some awesome explaining GitHub slides from our conversation which are so freaking useful.
+  * http://doi.org/10.5281/zenodo.3369466
+* PV talked through science with me which was both helpful *and* inspiring!
+* AR with paperwork stuff as usual
+
+#### What did you achieve?
+
+* Wrote up some [guidance for lab meetings](https://github.com/WhitakerLab/Onboarding/pull/15)
+* Sent off abstract & bio for talks in September and January
+* Suggested demographic information to collect to improve moinitoring of applications for winter school
+* Interview w journalist re: Binder :sparkling_heart:
+* Released updated version for Raincloud plots!
+  Whoops that that took so long :grimacing:
+  https://github.com/RainCloudPlots/RainCloudPlots
+* Re-synced BEP001 with the main specification, ran mini-hack call
+* Chaired GSOC meeting & reviewed great final reports, excited for them to appear on the blog this week!
+* Chaired tedana monthly meeting
+* Great blog posts in the process of being reviewed by the lab members!!
+
+#### What did you struggle with?
+
+* I had two days blocked out for writing and they both disappeared :sob:.
+  I need to keep those goals focused.
+* What are manageable and interesting questions in natural stimuli fMRI analyses!?!
+
+#### What would you like to work on next week?
+
+* Day off on Monday - looking forward to hanging out with friends
+* Day off on Friday - off on holiday
+* Excited for MS's visit to Turing & getting *The Turing Way* ramped back up!
+* Get another of RY's PRs merged, and maybe one more??
+* Keep email inbox under control?
+* Review updated manuscript for RR
+* I worked late every night this week - need to do more exercise :muscle:
+
+#### Where do you need help?
+
+* I feel kinda ok - need more time in the week obviously, but not feeling outrageously overwhelmed...
+* Always helpful to see folks working across projects without me :smile:
+
+#### Any other topics
+
+Wildly delighted at all the updates to the blog.
+Next to update the content! 😬
+
+
 ### Date: 12 August 2019
 
 *This update covers the 2 weeks at Neurohackademy*
