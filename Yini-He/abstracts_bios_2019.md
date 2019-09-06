@@ -7,7 +7,7 @@ This is a file of abstracts and applications for events I attend in 2019.
 
 **Date**: 30 August 2019
 
-**Application**: I believe ABC2019  comprises very interesting sessions including ‘Reinforcement Learning’, ‘Vision’ ‘Mental Health’ and ‘Neuroethics of AI’.
+**Application**: I believe ABC2019 comprises very interesting sessions including ‘Reinforcement Learning’, ‘Vision’ ‘Mental Health’ and ‘Neuroethics of AI’.
 All of them are the cutting-edge and interdisciplinary topic.
 I have some reasons why I want to attend in this conference.
 Firstly, I am interested in 'Dopamine and reward systems'.
