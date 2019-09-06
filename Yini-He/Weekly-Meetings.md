@@ -16,7 +16,7 @@
 
 #### Who helped you this week?
 
-* Ang helped me to make a weekend Python Study plan 
+* Ang helped me to make a weekend Python Study plan.
   
 #### What did you achieve?
 
