@@ -9,6 +9,7 @@ Previous quarters are in subheadings below.
 The lab also has a [google calendar](https://calendar.google.com/calendar/embed?src=7nar31c6ni4esif8fn1881kgds%40group.calendar.google.com) to help track the meetings.
 
 The hackmd links for each meeting are not publicly available as they contain some conversations that lab members would prefer to keep private.
+As a reminder, please **complete the HackMD in advance of the meeting** in order to facilitate conversations before and during the 1 hour time slot.
 
 ### Autumn 2019
 
