@@ -5,7 +5,7 @@ This is a file of abstracts and applications for events I attend in 2019.
 
 **Website**: https://www.neuroscience.cam.ac.uk/events/ABC2019/pages/about-abc.html
 
-**Date**: 30 August 2019
+**Date**: 12 & 13 September 2019
 
 **Application**: I believe ABC2019 comprises very interesting sessions including ‘Reinforcement Learning’, ‘Vision’ ‘Mental Health’ and ‘Neuroethics of AI’.
 All of them are the cutting-edge and interdisciplinary topic.
