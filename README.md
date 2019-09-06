@@ -24,8 +24,11 @@ You can find the public records of these meetings in the [weekly-updates](weekly
 Lab meetings are held every week on Thursdays at 3pm.
 Remote attendance is always supported.
 Participation (even if you can't attend the meeting itself) is required from all lab members.
+That means completing the three sections of the HackMD (attendance/apologies, something to share, a question to ask) in advance of the meeting, and ideally adding your comments to others' updates.
 
-You can see the schedule in the [lab-meetings](lab-meetings) folder.
+For a more detailed overview of the motivation and expectations for lab meetings see the [lab onboarding repository](https://github.com/WhitakerLab/Onboarding/blob/master/Lab-meetings.md).
+
+You can see the schedule in the [lab-meetings](lab-meetings) folder of this repository.
 
 ## License and code of conduct
 
