@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-* [18 September 2019](#date-18-September-2019)
+* [18 September 2019](#date-18-september-2019)
 * [30 August 2019](#date-30-august-2019)
 * [22 August 2019](#date-22-august-2019)
 * [13 August 2019](#date-13-august-2019)
@@ -9,30 +9,34 @@
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
 
-### Date: 18 Semtember 2019
+### Date: 18 September 2019
 
 #### Who did you help this week?
 
 * helped AL to organize some paperworks and open data
-* introduce some open data to LW(an attendee in ABC2019) 
+* introduce some open data to LW (an attendee in ABC2019) 
+  * KW: Very cool :sparkles:
 
 #### Who helped you this week?
 
 * AL helped me to study python
-* I listened lots of great researches from atendee of ABC2019.
-The PhD and postdoc from Cambridge showed me around Cambridge.
-They told me some terrific stories and history about Cambridge for me.
-  
+* I listened lots of great researches from attendee of ABC2019.
+  The PhD and postdoc from Cambridge showed me around Cambridge.
+  They told me some terrific stories and history about Cambridge for me.
+  * KW: That's so cool - I'm so glad you got to see some of the cool parts of Cambridge :smiley_cat:
+
 #### What did you achieve?
 * I love ABC2019!I learned a lot of Robotic and animal model that I barely know before!
   * I made many new friends during the conference.
-Thank Kirstie and everyone I met there.
+  * Thank Kirstie and everyone I met there.
 * AL gave me some Python assignments.
-He is a creative and challenging Python teacher for me.
+  He is a creative and challenging Python teacher for me.
 * reviewed the RR and made a discussion with AL.
-Thank Kirstie for your serious-minded modification.
+  Thank Kirstie for your serious-minded modification.
 * played open science game with lab menbers.
-It is really fun and I got deep understanding for open science from this game.
+  It is really fun and I got deep understanding for open science from this game.
+
+KW: A busy couple of weeks! Well done :sparkles:
 
 #### What did you struggle with?
 
@@ -41,7 +45,7 @@ It is really fun and I got deep understanding for open science from this game.
 #### What would you like to work on next week?
 
 * Work on RR
-* learn for Python.
+* learn for Python
 * analyze Imagen Data
 
 #### Where do you need help from Kirstie?
