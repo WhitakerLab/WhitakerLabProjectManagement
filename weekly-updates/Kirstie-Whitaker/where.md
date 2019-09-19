@@ -211,12 +211,12 @@ Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
 1    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 2    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-3    | Mon   | :uk: London, UK              | Working at Turing Institute
-4    | Tue   | :rose: Lancaster, UK         | Talk for ESRC workshop
+3    | Mon   | :rose: Lancaster, UK         | Working in Lancaster
+4    | Tue   | :rose: Lancaster, UK         | [Future-proofing your research workshop](https://www.eventbrite.co.uk/e/future-proofing-your-research-moving-towards-open-reproducible-research-tickets-60575376582#)
 5    | Wed   | :pizza: Rome, Italy          | Travel to Rome for OHBM
-6    | Thurs | :pizza: Rome, Italy          | OHBM Hackathon
-7    | Fri   | :pizza: Rome, Italy          | OHBM Hackathon
-8    | Sat   | :pizza: Rome, Italy          | OHBM Hackathon
+6    | Thurs | :pizza: Rome, Italy          | [OHBM Hackathon](https://ohbm.github.io/hackathon2019/)
+7    | Fri   | :pizza: Rome, Italy          | [OHBM Hackathon](https://ohbm.github.io/hackathon2019/)
+8    | Sat   | :pizza: Rome, Italy          | [OHBM Hackathon](https://ohbm.github.io/hackathon2019/)
 9    | Sun   | :pizza: Rome, Italy          | [OHBM 2019](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3882&activateFull=true)
 10   | Mon   | :pizza: Rome, Italy          | [OHBM 2019](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3882&activateFull=true)
 11   | Tue   | :pizza: Rome, Italy          | [OHBM 2019](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3882&activateFull=true)
@@ -233,82 +233,224 @@ Date | Day   | City, Country                | Event
 22   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 23   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 24   | Mon   | :uk: London, UK              | Working at Turing Institute
-25   | Tue   | :uk: London, UK              | Working at Turing Institute
-26   | Wed   | :uk: London, UK              | Working at Turing Institute
+25   | Tue   | :bee: Manchester, UK         | [Carpentry Connect](https://software.ac.uk/ccmcr19)
+26   | Wed   | :bee: Manchester, UK         | [Carpentry Connect](https://software.ac.uk/ccmcr19)
 27   | Thurs | :uk: London, UK              | [Autistica Discover Conference](https://www.autistica.org.uk/get-involved/research-conference)
-28   | Fri   | :uk: London, UK              | Working at Turing Institute
-29   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-30   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+28   | Fri   | :uk: London, UK              | Talk for [Data Science for Social Good](https://www.turing.ac.uk/collaborate-turing/data-science-social-good)
+29   | Sat   | 🏖️ South coast, UK          | Mini-holiday
+30   | Sun   | 🏖️ South coast, UK          | Mini-holiday
 
 
 ### July 2019
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Mon   | :uk: London, UK              | Working at Turing Institute
-2    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+1    | Mon   | 🏖️ South coast, UK          | Mini-holiday
+2    | Tue   | :uk: London, UK              | Working at Turing Institute
 3    | Wed   | :uk: London, UK              | Working at Turing Institute
 4    | Thurs | :uk: London, UK              | RedHat workshop at Turing
 5    | Fri   | :uk: London, UK              | RedHat workshop at Turing
 6    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 7    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 8    | Mon   | :uk: London, UK              | Working at Turing Institute
-9    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+9    | Tue   | :uk: London, UK              | Working at Turing Institute
 10   | Wed   | :uk: London, UK              | Working at Turing Institute
 11   | Thurs | :uk: London, UK              | Working at Turing Institute
 12   | Fri   | :uk: London, UK              | Working at Turing Institute
-13   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-14   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+13   | Sat   | :uk: London, UK              | [PyData London](https://pydata.org/london2019/)
+14   | Sun   | :uk: London, UK              | [PyData London](https://pydata.org/london2019/)
 15   | Mon   | :uk: London, UK              | Working at Turing Institute
-16   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
-17   | Wed   | :uk: London, UK              | Working at Turing Institute
+16   | Tue   | :mortar_board: Cambridge, UK | [Automating the Crowd 2](http://www.crassh.cam.ac.uk/events/28618)
+17   | Wed   | :mortar_board: Cambridge, UK | Automating the Crowd writing day
 18   | Thurs | :uk: London, UK              | Working at Turing Institute
 19   | Fri   | :uk: London, UK              | Working at Turing Institute
 20   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 21   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 22   | Mon   | :uk: London, UK              | Working at Turing Institute
-23   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+23   | Tue   | :uk: London, UK              | Working at Turing Institute
 24   | Wed   | :uk: London, UK              | Working at Turing Institute
 25   | Thurs | :uk: London, UK              | Working at Turing Institute
-26   | Fri   | :uk: London, UK              | Working at Turing Institute
+26   | Fri   | :dog: Greenwich, UK          | Weekend relaxing
 27   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-28   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-29   | Mon   | :uk: London, UK              | Working at Turing Institute
-30   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
-31   | Wed   | :uk: London, UK              | Working at Turing Institute
+28   | Sun   | :coffee: Seattle, WA, USA    | Travel to [NeuroHackademy](https://neurohackademy.github.io/)
+29   | Mon   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)
+30   | Tue   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)
+31   | Wed   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)
 
 ### August 2019
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Thurs | :uk: London, UK              | Working at Turing Institute
-2    | Fri   | :uk: London, UK              | Working at Turing Institute
-3    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-4    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-5    | Mon   | :uk: London, UK              | Working at Turing Institute
-6    | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
-7    | Wed   | :uk: London, UK              | Working at Turing Institute
-8    | Thurs | :uk: London, UK              | Working at Turing Institute
-9    | Fri   | :uk: London, UK              | Working at Turing Institute
-10   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-11   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+1    | Thurs | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)
+2    | Fri   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)
+3    | Sat   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)
+4    | Sun   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)
+5    | Mon   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)
+6    | Tue   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)
+7    | Wed   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)
+8    | Thurs | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)
+9    | Fri   | :coffee: Seattle, WA, USA    | [NeuroHackademy](https://neurohackademy.github.io/)
+10   | Sat   | :coffee: Seattle, WA, USA    | Travel home from [NeuroHackademy](https://neurohackademy.github.io/)
+11   | Sun   | :coffee: Seattle, WA, USA    | Travel home from [NeuroHackademy](https://neurohackademy.github.io/)
 12   | Mon   | :uk: London, UK              | Working at Turing Institute
-13   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+13   | Tue   | :uk: London, UK              | Working at Turing Institute
 14   | Wed   | :uk: London, UK              | Working at Turing Institute
 15   | Thurs | :uk: London, UK              | Working at Turing Institute
 16   | Fri   | :uk: London, UK              | Working at Turing Institute
 17   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 18   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 19   | Mon   | :uk: London, UK              | Working at Turing Institute
-20   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+20   | Tue   | :uk: London, UK              | Presenting at (redacted) leadership offsite
 21   | Wed   | :uk: London, UK              | Working at Turing Institute
 22   | Thurs | :uk: London, UK              | Working at Turing Institute
-23   | Fri   | :uk: London, UK              | Working at Turing Institute
-24   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-25   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-26   | Mon   | :uk: London, UK              | Working at Turing Institute
-27   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+23   | Fri   | 🏖️ Unknown location, UK     | Mini-holiday
+24   | Sat   | 🏖️ Unknown location, UK     | Mini-holiday
+25   | Sun   | 🏖️ Unknown location, UK     | Mini-holiday
+26   | Mon   | 🏖️ Unknown location, UK     | Mini-holiday
+27   | Tue   | 🏖️ Unknown location, UK     | Mini-holiday
 28   | Wed   | :uk: London, UK              | Working at Turing Institute
-29   | Thurs | :uk: London, UK              | Working at Turing Institute
+29   | Thurs | :mortar_board: Cambridge, UK | [Cambridge Networks Day](https://www.cnn.group.cam.ac.uk/cambridge-networks-day)
 30   | Fri   | :uk: London, UK              | Working at Turing Institute
-31   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+31   | Sat   | 🥟 Warsaw, Poland           | Fly to [Neuroinformatics 2019](https://www.neuroinformatics2019.org/)
+
+### September 2019
+
+Date | Day   | City, Country                | Event
+---- | ----- | ---------------------------- | -----
+1    | Sun   | 🥟 Warsaw, Poland           | [Neuroinformatics 2019](https://www.neuroinformatics2019.org/)
+2    | Mon   | 🥟 Warsaw, Poland           | [Neuroinformatics 2019](https://www.neuroinformatics2019.org/)
+3    | Tue   | 🥟 Warsaw, Poland           | Home from [Neuroinformatics 2019](https://www.neuroinformatics2019.org/)
+4    | Wed   | :uk: London, UK              | Working at Turing Institute
+5    | Thurs | :uk: London, UK              | Working at Turing Institute
+6    | Fri   | :uk: London, UK              | Working at Turing Institute
+7    | Sat   | 🏰 Edinburgh, UK            | Visiting friends
+8    | Sun   | 🏰 Edinburgh, UK            | Visiting friends
+9    | Mon   | 🏰 Edinburgh, UK            | [MQ Data Science](https://www.epay.ed.ac.uk/conferences-and-events/college-of-medicine-and-veterinary-medicine/school-of-molecular-and-clinical-medicine/division-of-psychiatry/mq-mental-health-data-science-meeting-2019) Meeting
+10   | Tue   | :mortar_board: Cambridge, UK | Working in Cambridge
+11   | Wed   | :mortar_board: Cambridge, UK | [Cambridge Neuroscience Symposium](https://www.neuroscience.cam.ac.uk/events/ABC2019/)
+12   | Thurs | :mortar_board: Cambridge, UK | [Cambridge Neuroscience Symposium](https://www.neuroscience.cam.ac.uk/events/ABC2019/)
+13   | Fri   | :mortar_board: Cambridge, UK |[Cambridge Neuroscience Symposium](https://www.neuroscience.cam.ac.uk/events/ABC2019/)
+14   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+15   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+16   | Mon   | :uk: London, UK              | Working at Turing Institute
+17   | Tue   | :uk: London, UK              | Working at Turing Institute
+18   | Wed   | :uk: London, UK              | Working at Turing Institute
+19   | Thurs | :uk: London, UK              | Working at Turing Institute
+20   | Fri   | :uk: London, UK              | Working at Turing Institute
+21   | Sat   | :uk: Newcastle, UK            | Seeing family in Newcastle
+22   | Sun   | :uk: Newcastle, UK            | Seeing family in Newcastle
+23   | Mon   | :uk: London, UK              | Working at Turing Institute
+24   | Tue   | :uk: London, UK              | Working at Turing Institute
+25   | Wed   | :uk: London, UK              | Working at Turing Institute
+26   | Thurs | :uk: London, UK              | Working at Turing Institute
+27   | Fri   | :uk: London, UK              | Working at Turing Institute
+28   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+29   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+30   | Mon   | :uk: London, UK              | Working at Turing Institute
+
+### October 2019
+
+Date | Day   | City, Country                | Event
+---- | ----- | ---------------------------- | -----
+1    | Tue   | :uk: London, UK              | Working at Turing Institute
+2    | Wed   | :uk: London, UK              | Working at Turing Institute
+3    | Thurs | :uk: London, UK              | Working at Turing Institute
+4    | Fri   | :uk: London, UK              | Working at Turing Institute
+5    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+6    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+7    | Mon   | :uk: London, UK              | Working at Turing Institute
+8    | Tue   | :uk: London, UK              | Working at Turing Institute
+9    | Wed   | :uk: London, UK              | Working at Turing Institute
+10   | Thurs | :uk: London, UK              | Working at Turing Institute
+11   | Fri   | :uk: London, UK              | Working at Turing Institute
+12   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+13   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+14   | Mon   | :uk: London, UK              | Autistica AI Summit
+15   | Tue   | :uk: London, UK              | Autistica AI Summit
+16   | Wed   | :uk: London, UK              | Working at Turing Institute
+17   | Thurs | :uk: London, UK              | Working at Turing Institute
+18   | Fri   | :uk: London, UK              | Working at Turing Institute
+19   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+20   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+21   | Mon   | 🦊 London, UK               | [MozFest](https://mozillafestival.org)
+22   | Tue   | :uk: London, UK              | Talk at Nesta hackathon
+23   | Wed   | 🦊 London, UK               | [MozFest](https://mozillafestival.org)
+24   | Thurs | 🦊 London, UK               | [MozFest](https://mozillafestival.org)
+25   | Fri   | 🦊 London, UK               | [MozFest](https://mozillafestival.org)
+26   | Sat   | 🦊 London, UK               | [MozFest](https://mozillafestival.org)
+27   | Sun   | 🦊 London, UK               | [MozFest](https://mozillafestival.org)
+28   | Mon   | :dog: Greenwich, UK          | Day off, self care
+29   | Tue   | :uk: London, UK              | Port talk at Goodenough College
+30   | Wed   | :uk: London, UK              | Working at Turing Institute
+31   | Thurs | :uk: London, UK              | Working at Turing Institute
+
+### November 2019
+
+Date | Day   | City, Country                | Event
+---- | ----- | ---------------------------- | -----
+1    | Fri   | :uk: London, UK              | Working at Turing Institute
+2    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+3    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+4    | Mon   | :uk: London, UK              | Working at Turing Institute
+5    | Tue   | :uk: London, UK              | Working at Turing Institute
+6    | Wed   | :uk: London, UK              | Better Science through Better Data
+7    | Thurs | :uk: London, UK              | Working at Turing Institute
+8    | Fri   | :uk: London, UK              | Working at Turing Institute
+9    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+10   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+11   | Mon   | :uk: London, UK              | Working at Turing Institute
+12   | Tue   | :uk: London, UK              | Working at Turing Institute
+13   | Wed   | :uk: London, UK              | Working at Turing Institute
+14   | Thurs | :uk: London, UK              | Working at Turing Institute
+15   | Fri   | :uk: London, UK              | Working at Turing Institute
+16   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+17   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+18   | Mon   | :uk: London, UK              | Working at Turing Institute
+19   | Tue   | :uk: London, UK              | Working at Turing Institute
+20   | Wed   | :uk: London, UK              | Working at Turing Institute
+21   | Thurs | :uk: London, UK              | Working at Turing Institute
+22   | Fri   | :uk: London, UK              | Working at Turing Institute
+23   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+24   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+25   | Mon   | :uk: London, UK              | Working at Turing Institute
+26   | Tue   | :uk: London, UK              | Working at Turing Institute
+27   | Wed   | :uk: London, UK              | Working at Turing Institute
+28   | Thurs | :uk: London, UK              | Working at Turing Institute
+29   | Fri   | :uk: London, UK              | Working at Turing Institute
+30   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+
+### December 2019
+
+Date | Day   | City, Country                | Event
+---- | ----- | ---------------------------- | -----
+1    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+2    | Mon   | :uk: London, UK              | Working at Turing Institute
+3    | Tue   | :uk: London, UK              | Working at Turing Institute
+4    | Wed   | :uk: London, UK              | Working at Turing Institute
+5    | Thurs | :uk: London, UK              | Working at Turing Institute
+6    | Fri   | :uk: London, UK              | Working at Turing Institute
+7    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+8    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+9    | Mon   | :uk: London, UK              | Working at Turing Institute
+10   | Tue   | :uk: London, UK              | Working at Turing Institute
+11   | Wed   | :uk: London, UK              | Working at Turing Institute
+12   | Thurs | :uk: London, UK              | Working at Turing Institute
+13   | Fri   | :uk: London, UK              | Working at Turing Institute
+14   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
+15   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+16   | Mon   | :uk: London, UK              | Working at Turing Institute
+17   | Tue   | :uk: London, UK              | Working at Turing Institute
+18   | Wed   | :uk: London, UK              | Working at Turing Institute
+19   | Thurs | :uk: London, UK              | Working at Turing Institute
+20   | Fri   | 🏞️ Lake district, UK         | Home for Christmas
+21   | Sat   | 🏞️ Lake district, UK         | Home for Christmas
+22   | Sun   | 🏞️ Lake district, UK         | Home for Christmas
+23   | Mon   | 🏞️ Lake district, UK         | Home for Christmas
+24   | Tue   | 🏞️ Lake district, UK         | Home for Christmas
+25   | Wed   | 🏞️ Lake district, UK         | Home for Christmas
+26   | Thurs | 🏞️ Lake district, UK         | Home for Christmas
+27   | Fri   | 🏞️ Lake district, UK         | Home for Christmas
+28   | Sat   | 🏞️ Lake district, UK         | Home for Christmas
+29   | Sun   | 🏞️ Lake district, UK         | Home for Christmas
+30   | Mon   | 🏞️ Lake district, UK         | Home for Christmas
+31   | Tue   | 🏞️ Lake district, UK         | Home for Christmas

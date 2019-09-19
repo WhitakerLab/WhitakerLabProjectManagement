@@ -24,11 +24,15 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [csv,conf,v4](csv-conf-v4)
 * June
   * [ESRC workshop on open science in Lancaster](#esrc-workshop-on-open-science-in-lancaster)
+  * [Talk in OHBM Open Science symposium](#talk-in-ohbm-open-science-symposium)
   * [Autistica Discover Conference](#autistica-discover-conference)
+  * [Talk for Data Science for Social Good fellows](#talk-for-data-science-for-social-good-fellows)
 * July
+  * [Keynote at PyData London](#keynote-at-pydata-london)
 * August
 * September
   * [INCF Congress on Neuroinformatics](#incf-congress-on-neuroinformatics)
+  * [MQ Data Science Meeting](#mq-data-science-meeting)
 * October
 * November
 * December
@@ -210,9 +214,7 @@ You can find more information at her lab website: [whitakerlab.github.io](https:
 
 **Date**: 8 & 9 May 2019
 
-**Title**: *Talk title*
-
-**Abstract**: *Abstract*
+**Title**: The Turing Way: Sharing the responsibility of reproducibility
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
 Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of people with mental health disorders.
@@ -223,10 +225,14 @@ She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright sc
 Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
-**Slides**: *Figshare link to slides (if applicable)*
+**Slides**: https://doi.org/10.5281/zenodo.2669548
+
+**Recording**: https://youtu.be/wZeoZaIV0VE
 
 
 ### ESRC workshop on open science in Lancaster
+
+**Website**: https://www.eventbrite.co.uk/e/future-proofing-your-research-moving-towards-open-reproducible-research-tickets-60575376582
 
 **Date**: 4 June 2019
 
@@ -252,7 +258,20 @@ She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright sc
 Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
-**Slides**: *Figshare link to slides (if applicable)*
+**Slides**: https://doi.org/10.5281/zenodo.3238189
+
+
+### Talk in OHBM Open Science symposium
+
+**Date**: 11 June 2019
+
+**Title**: Diversity and inclusion as core values of open science
+
+**Abstract**: The first three speakers will all cover the fact that open science is strongest and most effective when built by and for the research community.
+In this talk, current chair of the OHBM open science special interest group, Kirstie Whitaker, will "make the implicit, explicit" and detail how science benefits from becoming more open to everyone.
+She will cover the challenges of working in large and diverse groups and some tips and tricks for building resilience into distributed collaborations.
+
+**Slides**: https://doi.org/10.5281/zenodo.3243217
 
 
 ### Autistica Discover Conference
@@ -279,7 +298,80 @@ Her work covers a broad range of interests and methods, but the driving principl
 Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
-**Slides**: *Figshare link to slides (if applicable)*
+**Slides**: https://doi.org/10.5281/zenodo.3257771
+
+
+### Talk for Data Science for Social Good fellows
+
+**Website**: https://www.turing.ac.uk/collaborate-turing/data-science-social-good
+
+**Date**: 28 June 2019
+
+**Title**: The Turing Way: Reproducible, Ethical, Collaborative Data Science
+
+**Slides**: https://doi.org/10.5281/zenodo.3260130
+
+
+### Talk at IHI Code Club
+
+**Website**: No website, but best tweet and image *ever*: https://twitter.com/AH_AlbertHenry/status/1147521427794518016?s=20
+
+**Date**: 10 July 2019
+
+**Title**: The Turing Way: A how to guide for reproducible research
+
+**Abstract**: Reproducible research is necessary to ensure that scientific work can be trusted.
+Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
+The goal is to ensure that all results can be independently verified and built upon in future work.
+This is sometimes easier said than done! Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers.
+*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible research is "too easy not to do".
+It includes training material on version control, analysis testing, and open and transparent communication with future users, and includes case studies and common "gotchas" for researchers to avoid.
+This project is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way.
+In this talk, Kirstie Whitaker, lead developer of *The Turing Way*, will take you on a whirlwind tour of the chapters that already exist, the interactive demonstrations you can use and re-use for your own research, and the directions in which we're continuing to develop.
+All participants will leave the talk knowing that "Every Little Helps" when making their work reproducible, where to ask for help as they start or continue their open research journey, and how they can contribute to improve *The Turing Way* for future readers.
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
+Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of neurodivergent people and people with mental health conditions.
+Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and participatory citizen science to educate non-autistic people about how they can better support autistic friends and colleagues.
+She is the lead developer of [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way), an openly developed educational resource to enable more reproducible data science.
+Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
+She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
+Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
+
+**Slides**: 
+
+### Keynote at PyData London
+
+**Website**: https://pydata.org/london2019; Talk details: https://pydata.org/london2019/schedule/presentation/56/the-turing-way-a-how-to-guide-for-reproducible-research
+
+**Date**: 13 July 2019
+
+**Title**: The Turing Way: A how to guide for reproducible research
+
+**Brief summary**: Kirstie Whitaker will present The Turing Way: a lightly opinionated guide to reproducible data science. Openly developed and community-led, this online book curates resources, case studies and checklists to make reproducible research "Too easy not to do".
+
+**Abstract**: Reproducible research is necessary to ensure that scientific work can be trusted.
+Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
+The goal is to ensure that all results can be independently verified and built upon in future work.
+This is sometimes easier said than done!
+Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers.
+*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible research is "too easy not to do".
+It includes training material on version control, analysis testing, and open and transparent communication with future users, and includes case studies and common "gotchas" for researchers to avoid.
+This project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way).
+In this talk, Kirstie Whitaker, lead developer of *The Turing Way*, will take you on a whirlwind tour of the chapters that already exist, the interactive demonstrations you can use and re-use for your own research, and the directions in which we're continuing to develop.
+All participants will leave the talk knowing that "Every Little Helps" when making their work reproducible, where to ask for help as they start or continue their open research journey, and how they can contribute to improve *The Turing Way* for future readers.
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
+Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of neurodivergent people and people with mental health conditions.
+Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and participatory citizen science to educate non-autistic people about how they can better support autistic friends and colleagues.
+She is the lead developer of [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way), an openly developed educational resource to enable more reproducible data science.
+Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
+She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
+Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
+
+**Slides**: Figshare link to slides (if applicable)
 
 
 ### INCF Congress on Neuroinformatics
@@ -304,7 +396,7 @@ From laying out your welcome mat, through setting explicit expectations, to the 
 (Breaking down capitalism may have to wait for another day.)
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
-Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of people with mental health disorders.
+Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of neurodivergent people and people with mental health conditions.
 Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and participatory citizen science to educate non-autistic people about how they can better support autistic friends and colleagues.
 She is the lead developer of ["The Turing Way"](https://github.com/alan-turing-institute/the-turing-way), an openly developed educational resource to enable more reproducible data science.
 Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
@@ -313,6 +405,37 @@ Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
 **Slides**: Figshare link to slides (if applicable)
+
+### MQ Data Science Meeting
+
+**Website**: https://www.epay.ed.ac.uk/conferences-and-events/college-of-medicine-and-veterinary-medicine/school-of-molecular-and-clinical-medicine/division-of-psychiatry/mq-mental-health-data-science-meeting-2019
+
+**Date**: 9 September 2019
+
+**Title**: The Turing Way: A handbook for reproducible research
+
+**Abstract**: Reproducible research is necessary to ensure that scientific work can be trusted.
+Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
+The goal is to ensure that all results can be independently verified and built upon in future work.
+This is sometimes easier said than done!
+Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers.
+*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible research is "too easy not to do".
+It includes training material on version control, analysis testing, and open and transparent communication with future users, and includes case studies and common "gotchas" for researchers to avoid.
+This project is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way.
+In this talk, Kirstie Whitaker, lead developer of *The Turing Way*, will take you on a whirlwind tour of the chapters that already exist, the interactive demonstrations you can use and re-use for your own research, and the directions in which we're continuing to develop.
+All participants will leave the talk knowing that "Every Little Helps" when making their work reproducible, even in situations where data can not be made publicly available, where to ask for help as they start or continue their open research journey, and how they can contribute to improve *The Turing Way* for future readers.
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
+Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of neurodivergent people and people with mental health conditions.
+Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and participatory citizen science to educate non-autistic people about how they can better support autistic friends and colleagues.
+She is the lead developer of [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way), an openly developed educational resource to enable more reproducible data science.
+Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
+She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
+Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
+
+**Slides**: Figshare link to slides (if applicable)
+
 
 ---
 
