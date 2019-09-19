@@ -13,8 +13,8 @@
 
 #### Who did you help this week?
 
-* Play GA's game,it is really fun
-* helped AL to prepare and organized some paperworks and open data
+* helped AL to organize some paperworks and open data
+* introduce some open data to LW(an attendee in ABC2019) 
 
 #### Who helped you this week?
 
@@ -31,6 +31,8 @@ Thank Kirstie and everyone I met there.
 He is a creative and challenging Python teacher for me.
 * reviewed the RR and made a discussion with AL.
 Thank Kirstie for your serious-minded modification.
+* played open science game with lab menbers.
+It is really fun and I got deep understanding for open science from this game.
 
 #### What did you struggle with?
 
