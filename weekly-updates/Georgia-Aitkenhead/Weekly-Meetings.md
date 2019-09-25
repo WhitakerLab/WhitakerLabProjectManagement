@@ -35,6 +35,16 @@ Georgia's weekly meeting notes.
 
 * Helped AL by reviewing a pull request
 
+#### What did you struggle with?
+
+* Some aspects of facilitation
+* Multiple things at once
+
+#### Where do you need help from Kirstie?
+
+* Focus groups
+* Redraft of essay
+
 #### Who helped you this week?
 
 * SG helped me with GitHub reviewing tips
