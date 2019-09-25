@@ -2,12 +2,32 @@
 
 Georgia's weekly meeting notes.
 
+* [25 September 2019 (#date-25-september-2019)
 * [21 August 2019](#date-21-august-2019)
 * [13 August 2019](#date-13-august-2019)
 * [24 July 2019](#date-24-july-2019)
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 25 September 2019
+
+#### Who did you help this week?
+
+* Helped SQ by making contribution diagram
+
+#### Who helped you this week?
+
+* KW taught me Zotoro :) 
+* TA volunteered to help me run the Diversity and Inclusion stall at the BL
+
+#### What did you achieve?
+
+* Ran two focus groups for citizen science project
+* Tested Open science learning game
+* Bio for Lightening talk 
+* Designed/ordered promotional posters
+* CSP pull requests 
 
 ### Date: 21 August 2019
 
