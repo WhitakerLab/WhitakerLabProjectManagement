@@ -29,12 +29,6 @@ Georgia's weekly meeting notes.
 * Designed/ordered promotional posters
 * CSP pull requests 
 
-### Date: 21 August 2019
-
-#### Who did you help this week?
-
-* Helped AL by reviewing a pull request
-
 #### What did you struggle with?
 
 * Some aspects of facilitation
@@ -44,6 +38,12 @@ Georgia's weekly meeting notes.
 
 * Focus groups
 * Redraft of essay
+
+### Date: 21 August 2019
+
+#### Who did you help this week?
+
+* Helped AL by reviewing a pull request
 
 #### Who helped you this week?
 
