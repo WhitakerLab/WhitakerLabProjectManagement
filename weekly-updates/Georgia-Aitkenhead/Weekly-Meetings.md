@@ -2,7 +2,7 @@
 
 Georgia's weekly meeting notes.
 
-* [25 September 2019 (#date-25-september-2019)
+* [25 September 2019](#date-25-september-2019)
 * [21 August 2019](#date-21-august-2019)
 * [13 August 2019](#date-13-august-2019)
 * [24 July 2019](#date-24-july-2019)
