@@ -9,6 +9,7 @@ Previous quarters are in subheadings below.
 The lab also has a [google calendar](https://calendar.google.com/calendar/embed?src=7nar31c6ni4esif8fn1881kgds%40group.calendar.google.com) to help track the meetings.
 
 The hackmd links for each meeting are not publicly available as they contain some conversations that lab members would prefer to keep private.
+As a reminder, please **complete the HackMD in advance of the meeting** in order to facilitate conversations before and during the 1 hour time slot.
 
 ### Autumn 2019
 
@@ -20,7 +21,7 @@ This table covers lab meetings from September to November 2019.
 | 12 September | No lab meeting | [Cambridge Neuroscience #ABC2019](https://www.neuroscience.cam.ac.uk/events/ABC2019/) | |
 | 19 September | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 | 26 September | Ang & Yini | ABCD registered report | |
-| 3 October | Kirstie | [Turing Way](https://github.com/alan-turing-institute/the-turing-way) | |
+| 3 October | No lab meeting | Turing Town Hall | |
 | 10 October | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 | 17 October | Georgia | [Autistica/Turing Citizen Science platform](https://github.com/alan-turing-institute/AutisticaCitizenScience) | |
 | 24 October | No lab meeting | (hopefully) Turing Way co-working at [MozFest House](https://www.mozillafestival.org/en/house/) | |
@@ -39,5 +40,5 @@ This table covers lab meetings from September to November 2019.
 | 1 August | Georgia | Open agenda | [2019-08-01-lab-meeting](https://whitakerlab.github.io/blog/2019-08-01-lab-meeting) |
 | 8 August | Georgia | Open agenda | [2019-08-08-lab-meeting](https://whitakerlab.github.io/blog/2019-08-08-lab-meeting) |
 | 15 August | Kirstie | Revamping and setting expectations for lab meetings | [PR #83](https://github.com/WhitakerLab/whitakerlab.github.io/pull/83) |
-| 22 August | Kirstie | [`scona`🍪](https://github.com/WhitakerLab/scona) | [PR #83](https://github.com/WhitakerLab/whitakerlab.github.io/pull/84) |
-| 29 August | No lab meeting | [Cambridge Networks Day](https://www.cnn.group.cam.ac.uk/cambridge-networks-day) | |
+| 22 August | Kirstie | [`scona`🍪](https://github.com/WhitakerLab/scona) | [PR #84](https://github.com/WhitakerLab/whitakerlab.github.io/pull/84) |
+| 29 August | No lab meeting | [Cambridge Networks Day](https://www.cnn.group.cam.ac.uk/cambridge-networks-day) | [PR #85](https://github.com/WhitakerLab/whitakerlab.github.io/pull/85) |

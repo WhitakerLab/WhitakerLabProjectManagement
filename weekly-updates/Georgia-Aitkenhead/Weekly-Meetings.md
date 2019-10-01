@@ -2,12 +2,55 @@
 
 Georgia's weekly meeting notes.
 
+* [25 September 2019](#date-25-september-2019)
 * [21 August 2019](#date-21-august-2019)
 * [13 August 2019](#date-13-august-2019)
 * [24 July 2019](#date-24-july-2019)
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 25 September 2019
+
+#### Who did you help this week?
+
+* Helped SQ by making contribution diagram
+  * KW: Fantastic! It's going to be really useful more generally too :smiley_cat:
+
+#### Who helped you this week?
+
+* KW taught me Zotoro :) 
+* TA volunteered to help me run the Diversity and Inclusion stall at the BL
+  * KW: I'm so glad you're doing this! Thank you so so much :sparkles:
+
+#### What did you achieve?
+
+* Ran two focus groups for citizen science project
+* Tested Open science learning game
+* Bio for #SciData19 Lightning talk 
+* Designed/ordered promotional posters
+  * KW: Beautiful! Well done!
+  * Please submit an expense claim through Gray Dawes :money_with_wings:
+* CSP pull requests
+  * KW: Let's go through these next week on Tuesday to tidy up the issues & PRs :muscle:
+
+#### What did you struggle with?
+
+* Some aspects of facilitation
+  * KW: The conversations we've had here in person is really valuable.
+    Thank you so much for thinking through all these dynamics, I so appreciate you looking out for all the people in the community, in all these different ways.    
+* Multiple things at once
+  * KW: I believe you!!
+    You're doing so many things.
+    Take care of yourself :sparkles:
+
+#### Where do you need help from Kirstie?
+
+* Focus groups
+  * KW: Great conversation today.
+    Thank you again :sparkling_heart:
+* Redraft of essay
+  * KW: Excited for this! Send to SM first and then ping me once you've got her comments :smiley:
 
 ### Date: 21 August 2019
 
