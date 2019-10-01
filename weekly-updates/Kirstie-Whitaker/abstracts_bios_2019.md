@@ -32,7 +32,9 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * August
 * September
   * [INCF Congress on Neuroinformatics](#incf-congress-on-neuroinformatics)
+  * [The Turing Way for the Living with Machines team](#the-turing-way-for-the-living-with-machines-team)
   * [MQ Data Science Meeting](#mq-data-science-meeting)
+  * [The Turing Way for incoming doctoral and enrichment students](#the-turing-way-for-incoming-doctoral-and-enrichment-students)
 * October
 * November
 * December
@@ -406,6 +408,15 @@ You can find more information at her lab website: [whitakerlab.github.io](https:
 
 **Slides**: Figshare link to slides (if applicable)
 
+### The Turing Way for the Living with Machines team
+
+**Date**: 5 September 2019
+
+**Title**: The Turing Way: Reproducible, Ethical, Collaborative Data Science
+
+**Slides**: https://doi.org/10.5281/zenodo.3387044
+
+
 ### MQ Data Science Meeting
 
 **Website**: https://www.epay.ed.ac.uk/conferences-and-events/college-of-medicine-and-veterinary-medicine/school-of-molecular-and-clinical-medicine/division-of-psychiatry/mq-mental-health-data-science-meeting-2019
@@ -434,8 +445,18 @@ She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright sc
 Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
-**Slides**: Figshare link to slides (if applicable)
+**Slides**: https://doi.org/10.5281/zenodo.3402510
 
+
+### The Turing Way for incoming doctoral and enrichment students
+
+**Date**: 25 September 2019
+
+**Title**: The Turing Way: Reproducible, Ethical, Collaborative Data Science
+
+**Slides**: https://doi.org/10.5281/zenodo.3460330
+
+*Note that not all slides are publicly available, and there is a collaborative hackmd document that is also not publicly available as it contains personal information.*
 
 ---
 
