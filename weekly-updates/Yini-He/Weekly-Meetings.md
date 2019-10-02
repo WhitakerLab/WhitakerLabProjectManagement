@@ -1,5 +1,7 @@
 # Weekly Meetings
 
+
+* [02 October 2019](#date-02-October-2019)
 * [18 September 2019](#date-18-september-2019)
 * [30 August 2019](#date-30-august-2019)
 * [22 August 2019](#date-22-august-2019)
@@ -8,6 +10,43 @@
 * [07 July 2019](#date-07-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 02 October 2019
+
+#### Who did you help this week?
+
+* helped MMY（a Master student in the University of York）for her Master's study plan
+* helped YY（a Phd in Chinese Academy of Sciences）design a task fMRI experiment and modified his Eprime procedure
+
+KW: Very cool!
+
+#### Who helped you this week?
+
+* YY helped me to debug when I tryied to analyze data using python
+  * KW: Fun times - good luck!
+
+#### What did you achieve?
+
+* finished a whole online course for Numpy and Pandas
+* Analyze a previous data using Python completely（This is my first attempt)
+* made a brief presentation for our RR in lab meeting (Super thanks for all the questions and suggestions in lab meeting)
+* Continuous work for RR
+
+#### What did you struggle with?
+
+*  Analyze neuroimaging and clinic data using Python!
+
+#### What would you like to work on next week?
+
+* Work on RR
+* Improving my Python
+
+#### Where do you need help from Kirstie?
+
+* the coverletter of RR and make sure the checklist together
+  * KW: Yep - checklist please - I think there's quite a bit of work to do on that
+  
+_________
 
 ### Date: 18 September 2019
 
