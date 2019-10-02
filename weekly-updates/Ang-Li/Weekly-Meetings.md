@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [2th October 2019](#date-2-october-2019)
 * [18th September 2019](#date-18-september-2019)
 * [13th Aug 2019](#date-13th-aug-2019)
 * [19th July 2019](#date-19th-july-2019)
@@ -9,6 +10,40 @@
 * [25th April 2019](#date-25th-april-2019)
 * [17th April 2019](#date-17th-april-2019)
 * [28th March 2019](#date-28th-march-2019)
+
+### Date: 2 October 2019
+
+#### Who did you help this week?
+
+* helped YH learn Python and skills of Mac
+* helped KX with her PhD project
+* helped GX with his job seeking
+
+#### Who helped you this week?
+
+* AZ and BL gave substantial suggestions on the NM revision
+* HY helped with her new dataset
+* AJ helped to introduce a interesting talk in Cambridge
+ 
+#### What did you achieve?
+
+* Had really fun with Datalad & Openneuro, and downloaded some really good datasets
+* Had a novel idea for effectively training deep neural network and plan to test it with my best firend in China (who is also a PhD student whose major is machine learning)
+* Improved the ABCD jupyter notebook and presented them on the lab meeting
+* Did really huge work on the revision and made some progress
+
+#### What did you struggle with?
+
+* Large pressure on the revision (sleep less than 5-6 hours recently)
+
+#### What would you like to work on next week?
+
+* Wrote a cover letter for ABCD RR
+
+#### Where do you need help from Kirstie?
+
+* Have a look of ABCD cover letter when is ready
+_________
 
 ### Date: 18 September 2019
 
