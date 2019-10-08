@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [09 October 2019](#date-09-october-2019)
 * [25 September 2019](#date-25-september-2019)
 * [21 August 2019](#date-21-august-2019)
 * [13 August 2019](#date-13-august-2019)
@@ -9,6 +10,32 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 09 October 2019
+
+#### Who did you help this week?
+
+* Helped KM by putting doc from markdown into pdf format
+
+#### Who helped you this week?
+
+* SM gave me super prompt and helpful comments on my position paper - thanks!
+
+#### What did you achieve?
+
+* Ran third focus group at Fujitsu and gave presentation
+* Ran diversity and inclusion stall at BL
+* Sent referenced/improved draft to SM
+
+#### What did you struggle with?
+
+* Typo on CSP posters I ordered as I was in a rush :( 
+
+#### Where do you need help from Kirstie?
+
+* At some point when sent - looking through essay redraft
+* GDPR - EH
+* BB presentation
 
 ### Date: 25 September 2019
 
