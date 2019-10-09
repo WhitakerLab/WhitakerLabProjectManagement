@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [09 October 2019](#date-09-october-2019)
 * [25 September 2019](#date-25-september-2019)
 * [21 August 2019](#date-21-august-2019)
 * [13 August 2019](#date-13-august-2019)
@@ -9,6 +10,49 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 09 October 2019
+
+#### Who did you help this week?
+
+* Helped KM by putting doc from markdown into pdf format
+  * KW: FAB :rocket: Glad we also fixed (in the meeting) the root cause!
+
+#### Who helped you this week?
+
+* SM gave me super prompt and helpful comments on my position paper - thanks!
+  * KW: THANK YOU SM! 
+
+#### What did you achieve?
+
+* Ran third focus group at Fujitsu and gave presentation
+* Ran diversity and inclusion stall at BL
+* Sent referenced/improved draft to SM
+
+Fantastic! Really great work!
+
+#### What did you struggle with?
+
+* Typo on CSP postcards I ordered as I was in a rush :( 
+  * KW: :sob: These things happen. Let's make some more :sparkles:
+    I made an issue: https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/55
+
+#### Where do you need help from Kirstie?
+
+* At some point when sent - looking through essay redraft
+  * KW: Brilliant - so excited to read it!
+    If you can get it to by by 16 Oct that would be great
+* GDPR - EH
+  * KW: Really cool to have these outlines.
+    Action to get in touch to ask to upload to Google Doc and how to best credit EH for the contribution :rocket:
+* BB presentation
+  * KW: Made an issue for this too: https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/56
+    Thank you so much!
+
+#### Any other topics
+
+* KW: If you have any time, I'd love a blog post on the eLife innovation sprint
+* KW: Also, please can you upload your paragraphs about attending ODI and MozFest to an abstracts & bios file in your weekly update folder?
 
 ### Date: 25 September 2019
 
