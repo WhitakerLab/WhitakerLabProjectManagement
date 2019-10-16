@@ -1,5 +1,7 @@
 # Weekly Meetings
 
+* [2nd October 2019](#date-2-october-2019)
+* [18th September 2019](#date-18-september-2019)
 * [13th Aug 2019](#date-13th-aug-2019)
 * [19th July 2019](#date-19th-july-2019)
 * [8th July 2019](#date-8th-july-2019)
@@ -8,6 +10,82 @@
 * [25th April 2019](#date-25th-april-2019)
 * [17th April 2019](#date-17th-april-2019)
 * [28th March 2019](#date-28th-march-2019)
+
+### Date: 2 October 2019
+
+#### Who did you help this week?
+
+* helped YH learn Python and skills of Mac
+* helped KX with her PhD project
+* helped GX with his job seeking
+
+KW: Great!
+
+#### Who helped you this week?
+
+* AZ and BL gave substantial suggestions on the NM revision
+* HY helped with her new dataset
+  * KW: That's great! :sparkles:
+* AJ helped to introduce a interesting talk in Cambridge
+
+#### What did you achieve?
+
+* Had really fun with Datalad & Openneuro, and downloaded some really good datasets
+  * KW: So glad you enjoyed working with these tools!
+* Had a novel idea for effectively training deep neural network and plan to test it with my best friend in China (who is also a PhD student whose major is machine learning)
+* Improved the ABCD jupyter notebook and presented them on the lab meeting
+* Did really huge work on the revision and made some progress
+
+#### What did you struggle with?
+
+* Large pressure on the revision (sleep less than 5-6 hours recently)
+
+#### What would you like to work on next week?
+
+* Wrote a cover letter for ABCD RR
+
+#### Where do you need help from Kirstie?
+
+* Have a look of ABCD cover letter when is ready
+  * KW: We need to add in a lot more detail to the paper and the checklist first, but happy for you to start on drafting the cover letter if it is motivating!
+  
+_________
+
+### Date: 18 September 2019
+
+#### Who did you help this week?
+
+* helped YH study Python (Pandas and Seaborn)
+* helped HYZ to modify his doctoral thesis
+
+#### Who helped you this week?
+
+* YH helped me prepare paperwork for my deadline and download open data
+  * KW: Fab
+ 
+#### What did you achieve?
+* I get close to finish the final modification of my SZ paper
+* modified the RR method
+* got fun with GA's game
+
+KW: Keep pushing! :muscle: :weary:
+
+#### What did you struggle with?
+
+* get a little cold because of the bad weather
+  * KW: 🥶🥶🥶 Oh no! And it's going to get worse :scream:
+    Make sure you go outside in the winter because it gets super dark super early!
+
+#### What would you like to work on next week?
+
+* make effort to papers (RR and my SZ paper)
+
+#### Where do you need help from Kirstie?
+
+* Nothing specific
+
+_________
+
 
 ### Date: 13th Aug 2019
 #### Who did you help this week?
