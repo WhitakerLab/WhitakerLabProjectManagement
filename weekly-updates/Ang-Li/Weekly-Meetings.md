@@ -1,8 +1,6 @@
 # Weekly Meetings
 
-
-
-* [17nd October 2019](#date-17-october-2019)
+* [17th October 2019](#date-17-october-2019)
 * [2nd October 2019](#date-2-october-2019)
 * [18th September 2019](#date-18-september-2019)
 * [30th Aug 2019](#date-30th-aug-2019)
@@ -28,29 +26,31 @@
 
 #### Who helped you this week?
 
-* AZ helped mee with editing revision
+* AZ helped me with editing revision
 * HY helped me with a new dataset
 * AJ helped to show around Cambridge
 
 #### What did you achieve?
 
 * Learned some new knowledge about the Power analysis and added a section in RR
-* Had a great fun with AJ in Cambridge, discused research, visited serveal colleges and tasted some indian food 
+* Had a great fun with AJ in Cambridge, discused research, visited several colleges and tasted some indian food
 * Working with YH with cover letter, checklist and reframing some jupyter notebooks for RR
-* Explored some open & interesting dataset in neuroimaging 
+* Explored some open & interesting dataset in neuroimaging
 * Almost finished new revision and send to AZ for further improvement
 
 #### What did you struggle with?
 
-* Nothing specific. 
+* Nothing specific
 
 #### What would you like to work on next week?
 
-* Summarize some details of RR (intracranial volume; imputation pipeline; multiple regression; races) and improved cover letter. 
+* Summarize some details of RR (intracranial volume; imputation pipeline; multiple regression; races) and improved cover letter.
+  * KW: Sounds good :rocket:
 
 #### Where do you need help from Kirstie?
 
-* Maybe Kirstie can take some time to confrim the permission of uploading data to the imputation server. 
+* Maybe Kirstie can take some time to confirm the permission of uploading data to the imputation server
+  * KW: Yep! Will do.
 
 _________
 
