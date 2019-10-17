@@ -6,7 +6,8 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 **2019**
 
-* [1 October 2019](#date-16-october-2019)
+* [16 October 2019](#date-16-october-2019)
+* [1 October 2019](#date-1-october-2019)
 * [4 September 2019](#date-4-september-2019)
 * [19 August 2019](#date-19-august-2019)
 * [12 August 2019](#date-12-august-2019)
@@ -20,6 +21,60 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 * [14 January 2019](#date-14-january-2019)
 
 ---
+
+### Date: 16 October 2019
+
+#### Who did you help this week?
+
+* Gave SG some feedback on her talk
+* Gave some (hopefully useful) comments on an ethics approval application
+
+#### Who helped you this week?
+
+* GA represented the Autistica project when an MP visited the Turing!
+* MS took spectacular notes during the TW sprint!
+* All the folks who came to the TW sprint - so so so amazing to have so much engagement
+* Awesome comments on paper from co-authors
+* JH for believing in me
+* LB ran reproducible research lunch time drop in!
+
+#### What did you achieve?
+
+* Turing Way expansion sprint!! AAAAAH so amazing....and so much work to do.
+* Autistica AI for early intervention summit was spectacular.
+  So much work, but really interesting to have all the different people in the room.
+  * Now to write a grant application 🙀
+* Kick off day for collaborative project (under-wraps until February)
+* Ran 3rd focus group for citizen science project
+* Turing Way collaboration cafe again!
+  And co-working planned for MozFest House.
+* Turing Way [newsletter](https://tinyletter.com/TuringWay/letters/welcome-malvika-co-work-with-us-at-mozfest-house-and-check-out-our-new-turingway-impact-story) sent
+* Great write up by SON for the [Turing Way impact story](https://www.turing.ac.uk/research/impact-stories/transforming-culture-data-science)
+* Contributed to training steering group meeting
+* Gave zoom talk for Open Science Community Nijmegen on Turing Way
+* Hosted BEP001 call
+* (Today) I got a bunch of abstracts written for upcoming talks!
+* Sent letter of support for ABCD training grant
+* Ran a half marathon at the weekend 🏃‍♀ 💨 🙌
+
+#### What did you struggle with?
+
+* Wildly behind on emails which sucks
+* Generally ok though, managing to take care of myself ok even if I'm going slower than I would have hoped
+
+#### What would you like to work on next week?
+
+* Its MozFest Week!! So I'd like to see my friends, get inspired and hopefully make a few connections between the different research projects!
+  * I don't know if its possible to make progress on the Automating the Crowd chapter but I'd like to try
+  * Might even get a draft of the paper for The Psychologist sent off
+* Excited to do some co-working at MozFest House and I'd like to keep my inbox reasonably clean and tidy
+* We're also going to Bletchley Park so that's going to be amazing 💻
+* Need to get a letter of intent written for the extended citizen science project!
+
+#### Where do you need help?
+
+* I think I'm doing ok.
+  MozFest is coming at just the right time to help me plan for the future.
 
 ### Date: 1 October 2019
 
@@ -39,7 +94,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 * BM gave me some helpful advice
 * JH has been an incredible mentor
 * PV and RM have done some amazing work on analysing allen brain data
-* SR was really kind in moving my desk - and now I have a standing desk! 
+* SR was really kind in moving my desk - and now I have a standing desk!
   SUCK IT back pain!
 * AK for kicking a lot of BEP001 butt
 * JC for a really helpful political chat
@@ -74,7 +129,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
   * I think it went quite well!
   * Even managed to get some PRs into to _The Turing Way_!!
 * Attended the Cambridge Neuroscience Symposium and the Marr 50 preceeding conference.
-  * Ran the data blitz and really loved it! 
+  * Ran the data blitz and really loved it!
     Updated the process this time to include twitter handles and a figshare link!
   * https://github.com/WhitakerLab/DataBlitzResources
 * Was Co-I on a submitted grant!
