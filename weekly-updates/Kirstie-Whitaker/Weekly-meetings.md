@@ -6,6 +6,9 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 **2019**
 
+* [1 October 2019](#date-16-october-2019)
+* [4 September 2019](#date-4-september-2019)
+* [19 August 2019](#date-19-august-2019)
 * [12 August 2019](#date-12-august-2019)
 * [23 April 2019](#date-23-april-2019)
 * [24 March 2019](#date-24-march-2019)
@@ -17,6 +20,261 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 * [14 January 2019](#date-14-january-2019)
 
 ---
+
+### Date: 1 October 2019
+
+*Whoops, this update covers the last 4 weeks because I got way overwhelmed and far too busy!*
+
+#### Who did you help this month?
+
+* Ran the ECR data blitz and did some live tweeting for Cambridge Neuroscience so helped DG out a bit 💖
+* A bit of feedback to PM...way late.
+  This barely counts.
+
+#### Who helped you this month?
+
+* TA helped get some writing done for Automating the Crowd
+* SFW gave me spectacular mentorship and helpful feedback
+* GA ran 2 really fantastic focus groups **and** represented the project at the British Library neurodiversity day booth
+* BM gave me some helpful advice
+* JH has been an incredible mentor
+* PV and RM have done some amazing work on analysing allen brain data
+* SR was really kind in moving my desk - and now I have a standing desk! 
+  SUCK IT back pain!
+* AK for kicking a lot of BEP001 butt
+* JC for a really helpful political chat
+
+#### What did you achieve?
+
+* Submitted 2 years of work as a report for Turing!
+  * Form was really quite painful to fill in, but it was awesome seeing how much I've done over the 2 years!
+* Very cool that Tech Mums are featured on the Turing Blog.
+  Need to capture this for impact somewhere!!
+  * https://www.turing.ac.uk/blog/connecting-mums-tech
+* Gave talk about _The Turing Way_ to Living With Machines team
+* Gave talk at MQ Data Science Meeting - had an amazing time in Edinburgh
+* Got halfway through a draft article that had been stressing me out - while James ran 50 miles!
+  * https://twitter.com/kirstie_j/status/1172793708741373953?s=20
+* Wrote 1 page description of AI for the Autistica AI summit!
+* Reviewed applications for AI summit w LK - great selection ✨
+* Ran first _Turing Way_ Collaboration Cafes!
+  So delighted with them!
+  * Even ran an extra one because I messed up on the dates and times.
+* Stood for election for the BIDS Steering Committee!
+  * Details: https://github.com/bids-standard/bids-specification/issues/342
+  * Voting closes 18 October): https://docs.google.com/forms/d/e/1FAIpQLSfG76N3dnazONsfCsWAXccgrizmb1gm233pJSow3TmTUi3_Fw/viewform
+* Two focus groups for Autistica/Turing Citizen Science project
+  * Video of Pint of science panel discussion now available
+    * https://www.turing.ac.uk/events/pint-science
+    * https://youtu.be/DNisoU9uXqk
+* Fun BEP001-ing with AK and in the group call
+* OHBM Open Science SIG call
+* Fun lab meetings from KW & HS and AL & YH!
+* Locked the new doctoral students in a room for 5 hours and talked _Turing Way_ at them 😆
+  * I think it went quite well!
+  * Even managed to get some PRs into to _The Turing Way_!!
+* Attended the Cambridge Neuroscience Symposium and the Marr 50 preceeding conference.
+  * Ran the data blitz and really loved it! 
+    Updated the process this time to include twitter handles and a figshare link!
+  * https://github.com/WhitakerLab/DataBlitzResources
+* Was Co-I on a submitted grant!
+  Fingers crossed 🤞 😬 🤞
+* Revisions for DAS paper sent to GC
+* Gave _Turing Way_ talk at publisher....didn't go great 😬
+* Joined PyOpenSci community call - gave some hopefully useful feedback about community building
+* _Turing Way_ joined Binder Federation!!
+  * https://github.com/jupyterhub/mybinder.org-deploy/issues/1124
+* EDoN paper already!
+  * "Harnessing the Potential of Digital Technologies for the Early Detection of Neurodegenerative Diseases"
+  * https://osf.io/u49z5
+  * Super excited about this project!
+* Spoke on panel about tech ethics for LEF Study Group
+  * https://twitter.com/lefep/status/1177140098514804739?s=20
+* Said goodbye to MM after a fantastic year working together!
+  Onwards to incredible things!
+  * https://twitter.com/Maxi_Macki/status/1177536474373337089?s=20
+* Reproducible research lunches are back!
+  And so is Hacktoberfest!
+  * T-shirts for everyone 😉
+* Did some editing 😩
+* Welcomed MS to the lab!!
+  We're very lucky to have her 💖
+* Reviewed a bunch of grants
+
+#### What did you struggle with?
+
+* So much writing on the to do list 😩
+* Holy macaroni I had a lot of big girl conversations in the last few weeks.
+  They're exhausting and I need to remember the advice I give others about not overdoing it.
+* Made an extremely positive decision at the last minute for one of the things that was really stressing me out.
+  * 🏆 Well done Kirstie
+
+#### What would you like to work on next week?
+
+* Need to catch up on lab meeting blogs
+* Share draft of difficult to write article
+* Feedback for Automating the Crowd submissions
+* Circulate agenda for Turing Way sprint
+* Autistica focus group
+* Turing Way online Collaboration Cafe
+* EDoN project day
+
+#### Where do you need help?
+
+* I need help getting the lab website tidied up
+* I owe CH so much work for the EAG 😭
+  That's my last really terrifying late thing.
+  It would be great to have it off my list by the end of this week.
+
+#### Any other topics
+
+Holy moly this was a lot.
+Lets try to go a little more chill for the next few weeks shall we? 😒
+
+### Date: 4 September 2019
+
+*This update covers the last 2 and a bit weeks, because I went on holiday for 5 days in the middle!*
+
+#### Who did you help this week?
+
+* I bounced ideas around with NP before her talk in Warsaw
+* Promoted AW to give BIDS talk
+* Gave SM some feedback on her paper, and sent introducing emails.
+  (But this doesn't really count because it's lovely that I'm on the paper, and I should have sent those emails a month ago 😬)
+
+#### Who helped you this week?
+
+* JD by taking me on a wonderful holiday
+* NP by having so much fun with me in Warsaw AND giving me great feedback on my talk
+* MS with her really inspiring brainstorming on Turing Way
+* SG by applying for BinderHub Azure funding (& TH & CH) AND by inviting me to the Guilty Feminist cross over podcast recordings 💪
+* JH for including me on the safe haven paper and making me feel mega valued at work
+* HR (not a person 😆) and AR for helping with recruitment
+
+#### What did you achieve?
+
+* Safe Haven paper up on arXiv!
+  Yaaaaay!
+  * "Design choices for productive, secure, data-intensive research at scale in the cloud": https://arxiv.org/abs/1908.08737
+* Gave keynote talk at INCF Assembly!
+  New topic: 10 simple rules to run an open and inclusive project online.
+  SO EXCITED to share them.
+  * Slides: https://doi.org/10.5281/zenodo.3383062
+  * Tweet thread: https://twitter.com/kirstie_j/status/1168138654650372097?s=20
+* Designed and ran Turing Way online Collaboration Cafe ☕ !
+  I'm so wildly delighted with how it went.
+  * Guidelines: https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md
+  * YouTube video: https://www.youtube.com/watch?v=I0z7OEbBzes
+* Sent Turing Way newsletter
+  * https://tinyletter.com/TuringWay/letters/the-turing-way-introducing-online-collaboration-cafes
+* Had a couple of calls focusing on BEP001 and moved that project forwards.
+* Was nominated for BIDS Steering Group.
+* Ran automating the crowd monthly call.
+* Gave talk at tech company leadership day.
+* Gave comments back to GA for her draft paper.
+  Mostly saying "I LOVE THIS" 😍
+* Attended & live tweeted Cambridge Networks Day.
+  Really enjoyed the talks - particularly the first one on thresholding.
+* Gave SG some feedback for her workshop on BinderHub.
+* Managed Data Bliz emails for ABC2019
+* Finished GSOC!
+  Approved RY & MY reports.
+* Applied for $10,000 Azure credits to join BinderHub federation.
+* Wrote some blogs for lab meeting.
+* Gave feedback on MM abstracts.
+* Coordinated comments from OSSIG committe and sent to OHBM about the Open Science prize.
+* Did some journal editing.
+* Chatted w KR about Health seminar series
+* Really enjoyed Open As In Book club
+* Had an AMAZING RELAXING HOLIDAY!
+  * Trip to Mr B's: https://twitter.com/kirstie_j/status/1166306254479876096?s=20
+  * Read Alone in Berlin (amazing)
+  * Ran across the Severn Bridge (parkrun)!
+
+#### What did you struggle with?
+
+* My talk wasn't well timed, and I'm super mad that I haven't written the rules up as a paper yet.
+  To be fair to me some grants etc have got in the way, but it's still frustrating that I didn't get them done in time.
+* I also didn't get my writing done for Automating the Crowd 😭
+  Another project I'm super excited to work on and keep losing time for.
+
+#### What would you like to work on next week?
+
+* Get EAG guidance approved - URGENTLY.
+* Giving a talk for LwM which I'm super excited about.
+* Catch up with KAW and the MELD team.
+* Give talk at MQ Data Science meeting.
+* Run Data Blitz at ABC2019.
+* Brainstorm Automating the Crowd chapter w TA
+* Lunch w LW
+* Chat w SFW
+
+#### Where do you need help?
+
+* Piece for Psychologist is really urgent - much more so than I'd realised.
+  * Need to find time to do that & get feedback quickly.
+* Lab website needs tidying up, it would be great to have everyone's names and updates on there.
+
+#### Any other topics
+
+Phew!
+That's a lot of update 🙀
+There are two secret celebrations too!
+
+### Date: 19 August 2019
+
+#### Who did you help this week?
+
+* Went over GitHub pull requests w YH
+* Ran PhD student office hours which I think are helpful - someone even came :laughing:
+
+#### Who helped you this week?
+
+* SDC made some awesome explaining GitHub slides from our conversation which are so freaking useful.
+  * http://doi.org/10.5281/zenodo.3369466
+* PV talked through science with me which was both helpful *and* inspiring!
+* AR with paperwork stuff as usual
+
+#### What did you achieve?
+
+* Wrote up some [guidance for lab meetings](https://github.com/WhitakerLab/Onboarding/pull/15)
+* Sent off abstract & bio for talks in September and January
+* Suggested demographic information to collect to improve moinitoring of applications for winter school
+* Interview w journalist re: Binder :sparkling_heart:
+* Released updated version for Raincloud plots!
+  Whoops that that took so long :grimacing:
+  https://github.com/RainCloudPlots/RainCloudPlots
+* Re-synced BEP001 with the main specification, ran mini-hack call
+* Chaired GSOC meeting & reviewed great final reports, excited for them to appear on the blog this week!
+* Chaired tedana monthly meeting
+* Great blog posts in the process of being reviewed by the lab members!!
+
+#### What did you struggle with?
+
+* I had two days blocked out for writing and they both disappeared :sob:.
+  I need to keep those goals focused.
+* What are manageable and interesting questions in natural stimuli fMRI analyses!?!
+
+#### What would you like to work on next week?
+
+* Day off on Monday - looking forward to hanging out with friends
+* Day off on Friday - off on holiday
+* Excited for MS's visit to Turing & getting *The Turing Way* ramped back up!
+* Get another of RY's PRs merged, and maybe one more??
+* Keep email inbox under control?
+* Review updated manuscript for RR
+* I worked late every night this week - need to do more exercise :muscle:
+
+#### Where do you need help?
+
+* I feel kinda ok - need more time in the week obviously, but not feeling outrageously overwhelmed...
+* Always helpful to see folks working across projects without me :smile:
+
+#### Any other topics
+
+Wildly delighted at all the updates to the blog.
+Next to update the content! 😬
+
 
 ### Date: 12 August 2019
 
