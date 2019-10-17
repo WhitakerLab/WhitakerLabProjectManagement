@@ -15,35 +15,38 @@
 
 #### Who did you help this week?
 
-* write a Vaccinesa strategy in UK and share it with my friends
+* write a vaccine strategy in UK and share it with my friends
+  * KW: Fantastic - super important
 
 #### Who helped you this week?
 
 * ST and Kate helped me for the Michaelmas Term monitoring
 * AP and ST helped me to my address proof
-* Anujan introduced his work and showed me around Cambridge
+* AJ introduced his work and showed me around Cambridge
 
 #### What did you achieve?
 
 * finished a demo of checklist and coverletter for our RR
 * start to do some exercise (such as yoga and jogging)
-* practice writing functions using python（ I'm not very good at this.）
-* made a Vaccines plan for myself 
+  * KW: Checkout https://www.parkrun.org.uk - lots of places to run 5k together (always at 9am on Saturday mornings)
+* practice writing functions using python（I'm not very good at this）
+* made a vaccination plan for myself 
 
 #### What did you struggle with?
 
-*  debug in pythpon
+*  debug in python
 
 #### What would you like to work on next week?
 
 * Work on RR
-* realize an practical ideal using Python
+* analyse a real dataset using Python
+  * KW: Good luck!
 
 #### Where do you need help from Kirstie?
 
 * modify my checklist and coverletter demo and refueling together for our RR 
+  * KW: Ping me in a GitHub issue (and maybe send me a message in slack) when you're ready for me to review
 
-  
 _________
 ### Date: 02 October 2019
 
