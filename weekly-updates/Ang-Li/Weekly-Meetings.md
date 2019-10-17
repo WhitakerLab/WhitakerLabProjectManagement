@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-<<<<<<< HEAD:Ang-Li/Weekly-Meetings.md
+
 
 * [17nd October 2019](#date-17-october-2019)
 * [2nd October 2019](#date-2-october-2019)
