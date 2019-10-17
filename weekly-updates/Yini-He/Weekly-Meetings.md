@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-
+* [17 October 2019](#date-17-October-2019)
 * [02 October 2019](#date-02-October-2019)
 * [18 September 2019](#date-18-september-2019)
 * [30 August 2019](#date-30-august-2019)
@@ -11,6 +11,43 @@
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
 
+### Date: 17 October 2019
+
+#### Who did you help this week?
+
+* write a vaccine strategy in UK and share it with my friends
+  * KW: Fantastic - super important
+
+#### Who helped you this week?
+
+* ST and Kate helped me for the Michaelmas Term monitoring
+* AP and ST helped me to my address proof
+* AJ introduced his work and showed me around Cambridge
+
+#### What did you achieve?
+
+* finished a demo of checklist and coverletter for our RR
+* start to do some exercise (such as yoga and jogging)
+  * KW: Checkout https://www.parkrun.org.uk - lots of places to run 5k together (always at 9am on Saturday mornings)
+* practice writing functions using python（I'm not very good at this）
+* made a vaccination plan for myself 
+
+#### What did you struggle with?
+
+*  debug in python
+
+#### What would you like to work on next week?
+
+* Work on RR
+* analyse a real dataset using Python
+  * KW: Good luck!
+
+#### Where do you need help from Kirstie?
+
+* modify my checklist and coverletter demo and refueling together for our RR 
+  * KW: Ping me in a GitHub issue (and maybe send me a message in slack) when you're ready for me to review
+
+_________
 ### Date: 02 October 2019
 
 #### Who did you help this week?
