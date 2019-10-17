@@ -1,12 +1,7 @@
 # Weekly Meetings
 
-<<<<<<< HEAD:Ang-Li/Weekly-Meetings.md
-* [30th Aug 2019](#date-30th-aug-2019)
-* [22th Aug 2019](#date-22th-aug-2019)
-=======
 * [2nd October 2019](#date-2-october-2019)
 * [18th September 2019](#date-18-september-2019)
->>>>>>> master:weekly-updates/Ang-Li/Weekly-Meetings.md
 * [13th Aug 2019](#date-13th-aug-2019)
 * [19th July 2019](#date-19th-july-2019)
 * [8th July 2019](#date-8th-july-2019)
@@ -16,88 +11,6 @@
 * [17th April 2019](#date-17th-april-2019)
 * [28th March 2019](#date-28th-march-2019)
 
-<<<<<<< HEAD:Ang-Li/Weekly-Meetings.md
-### Date: 30th Aug 2019
-
-#### Who did you help this week?
-
-* Find difficult to come up with a help this week :(
-
-#### Who helped you this week?
-
-* IP gave some suggestions on my work.
-  * KW: Fantastic! I'm so glad :smiley_cat:
-* KW helped me to better use Github.
-  
-#### What did you achieve?
-
-* Improved the introduction and method section, as suggested by KW. 
-* Attended Cambridge Network Day and had a good time!
-  * KW: Glad you enjoyed it.
-* Learned more about how to use Github. 
-* Had some progress on revision. 
-  
-#### What did you struggle with?
-
-* Paper revision.
-
-#### What would you like to work on next week?
-
-* Maybe move forward to the applying for the ABCD data.
-
-KW: Reviews PRs:
-  * https://github.com/WhitakerLab/Onboarding/pull/15
-  * https://github.com/WhitakerLab/whitakerlab.github.io/pull/83
-  * https://github.com/WhitakerLab/whitakerlab.github.io/pull/84
-  * https://github.com/WhitakerLab/whitakerlab.github.io/pull/67
-  
-#### Where do you need help from Kirstie?
-
-* Hope Kirstie can help to improve and perfect RR.
-
-_________
-
-### Date: 22th Aug 2019
-
-#### Who did you help this week?
-
-* Helped YH with Python.
-* Helped BL with some paper review.
-
-#### Who helped you this week?
-
-* Two top doctors in China helped with labeling of the sleep data. 
-* AZ provided some suggestions for the revision
-  * KW: COOL - good luck!
-  
-#### What did you achieve?
-
-* Finished my first review in Github, ready to do more. 
-* Wrote a new version of introduction and learned how to use overleaf.
-* Improve the code related to RR and provide example data. 
-* Hopefully, got closer to my first publication.
-* Made a detailed plan with the new revision. 
-  
-#### What did you struggle with?
-
-* Nothing specific. 
-
-#### What would you like to work on next week?
-
-* Continue to improve the RR and (maybe start to a cover letter?).
-* Establish imputation pipeline using Azure. 
-* Working on the revision. 
-  
-#### Where do you need help from Kirstie?
-
-* Some suggestions of which platform to put example data?
-  * https://osf.io
-  * https://zenodo.org
-  * KW: Check out the section on data management in the Turing Way in case its useful: https://the-turing-way.netlify.com/rdm/rdm.html#sharing-and-archiving-data
-
-_________
-
-=======
 ### Date: 2 October 2019
 
 #### Who did you help this week?
@@ -174,7 +87,6 @@ KW: Keep pushing! :muscle: :weary:
 _________
 
 
->>>>>>> master:weekly-updates/Ang-Li/Weekly-Meetings.md
 ### Date: 13th Aug 2019
 #### Who did you help this week?
 
