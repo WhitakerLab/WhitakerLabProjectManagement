@@ -38,7 +38,7 @@ This table covers lab meetings from December 2019 to February 2020.
 | Date | Chair | Topic | Link to blog |
 | ---- | ----- | ----- | ------------ |
 | 5 December | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
-| 12 December | TBD | TBD | |
+| 12 December | TBD | TBD | *Data Study Group so all remote meeting* (no rooms available) |
 | 19 December | Kirstie | Reflections on the year  | |
 | 26 December | No lab meeting | Happy holidays 🎄☃️🎁 | *No blog* |
 | 2 January | No lab meeting | Happy new year 🎆🥂🎇 | *No blog* |
