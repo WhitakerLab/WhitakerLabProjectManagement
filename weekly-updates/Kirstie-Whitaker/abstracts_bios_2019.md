@@ -40,7 +40,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
   * [Talk at Nesta Hackathon](#talk-at-nesta-hackathon)
   * [Port Talk at Goodenough College](#port-talk-at-goodenough-college)
 * November
-  * [Springer Nature/British Library: Can opening up research help drive innovation and tackle global challenges?](#springer-naturebritish-library-citizen-science-event-can-opening-up-research-help-drive-innovation-and-tackle-global-challenges)
+  * [Springer Nature/British Library: Can opening up research help drive innovation and tackle global challenges?](#springer-naturebritish-library-can-opening-up-research-help-drive-innovation-and-tackle-global-challenges)
   * [Inspirational Seminars talk at EMBL](#inspirational-seminars-talk-at-embl)
   * [Talk at Center for Research and Interdisiplinarity](#talk-at-center-for-research-and-interdisiplinarity)
   * [Keynote at PyData Cambridge](#keynote-at-pydata-cambridge)
