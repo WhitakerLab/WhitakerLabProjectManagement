@@ -17,38 +17,49 @@
 
 #### Who did you help this week?
 
-* helped YY to make a plan about Brain gut axis project and gave him some suggestions to make sure a private data from hospital
+* helped YY to make a plan about brain gut axis project and gave him some suggestions to check data quality from private data from hospital
+
+KW: Very helpful!
 
 #### Who helped you this week?	
 
 * lots of friends gave hands in my daily life this two weeks, such as
-  * I lost my glasses and a stranger (WJM) told me she would like to help me take one from China
+  * I lost my glasses and a stranger (WJM) told me she would like to help me buy some from China
   * MJ recommend me to link the Railcard to my Oysters cards
   * AL helped me to solve problems for Jupyter notebook
+
+KW: So great to have so many people help out!
 
 #### What did you achieve?
 
 * updated our RR
 * try to instist some exercise (experience in 5k run)
-* learn how to ananysis DTI using FSL based on Python
+  * KW: YEAH Parkrun!  
+* learn how to analysis DTI using FSL based on Python
 * Invited friends to home and made some dishes together
-* went to the MozFest(Super interesting!)
+* went to the MozFest (Super interesting!)
 * made new friends from Cambridge and visited two museums
 * watched a Chinese movie in London（I am so surprised that several films from China is hitting the cinemas in London now.）
 
+KW: Fun times!
+
 #### What did you struggle with?
 
-*  There is some confusion for me to python version because FSL is based on Python 2 and I used to use python3.
-
+* There is some confusion for me to python version because FSL is based on Python 2 and I used to use python3.
+  * KW: Oh nooooo :scream_cat:
+  
 #### What would you like to work on next week?
 
 * Work on RR
-* analysis Imagen DTI using FSL based on python
+* Analysis Imagen DTI using FSL based on python
 
 #### Where do you need help from Kirstie?
 
-* please recommend some DTI preprocessing tools based on python:)
+* Please recommend some DTI preprocessing tools based on python:)
+  * https://dipy.org
+  * https://nipy.org/packages/nipype/index.html
 
+KW: I hope they're helpful!
 _________
 ### Date: 17 October 2019
 
