@@ -1,5 +1,7 @@
 # Weekly Meetings
 
+
+* [31 October 2019](#date-31-October-2019)
 * [17 October 2019](#date-17-October-2019)
 * [02 October 2019](#date-02-October-2019)
 * [18 September 2019](#date-18-september-2019)
@@ -11,6 +13,43 @@
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
 
+### Date: 31 October 2019
+
+#### Who did you help this week?
+
+* helped YY to make a plan about Brain gut axis project and gave him some suggestions to make sure a private data from hospital
+
+#### Who helped you this week?	
+
+* lots of friends gave hands in my daily life this two weeks, such as
+  * I lost my glasses and a stranger (WJM) told me she would like to help me take one from China
+  * MJ recommend me to link the Railcard to my Oysters cards
+  * AL helped me to solve problems for Jupyter notebook
+
+#### What did you achieve?
+
+* updated our RR
+* try to instist some exercise (experience in 5k run)
+* learn how to ananysis DTI using FSL based on Python
+* Invited friends to home and made some dishes together
+* went to the MozFest(Super interesting!)
+* made new friends from Cambridge and visited two museums
+* watched a Chinese movie in London（I am so surprised that several films from China is hitting the cinemas in London now.）
+
+#### What did you struggle with?
+
+*  There is some confusion for me to python version because FSL is based on Python 2 and I used to use python3.
+
+#### What would you like to work on next week?
+
+* Work on RR
+* analysis Imagen DTI using FSL based on python
+
+#### Where do you need help from Kirstie?
+
+* please recommend some DTI preprocessing tools based on python:)
+
+_________
 ### Date: 17 October 2019
 
 #### Who did you help this week?
