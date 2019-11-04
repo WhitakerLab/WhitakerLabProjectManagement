@@ -395,10 +395,10 @@ Date | Day   | City, Country                | Event
 5    | Tue   | :uk: London, UK              | Working at Turing Institute
 6    | Wed   | :uk: London, UK              | [Better Science through Better Data](https://www.springernature.com/gp/campaign/scidata-pre-registration-form)
 7    | Thurs | :uk: London, UK              | Working at Turing Institute
-8    | Fri   | 🇩🇪 Heidelberg, Germang          | Talk at EMBL
-9    | Sat   | 🇩🇪 Heidelberg, Germang          | Exploring Heidelberg
-10   | Sun   | 🇫🇷 Paris, Franc                 | Exploring Paris
-11   | Mon   | 🇫🇷 Paris, Franc                 | Talk at CRI
+8    | Fri   | 🇩🇪 Heidelberg, Germany          | Talk at EMBL
+9    | Sat   | 🇩🇪 Heidelberg, Germany          | Exploring Heidelberg
+10   | Sun   | :airplane: London, UK        | Travel home
+11   | Mon   | :uk: London, UK              | Working at Turing Institute
 12   | Tue   | :uk: London, UK              | Working at Turing Institute
 13   | Wed   | :uk: London, UK              | Working at Turing Institute
 14   | Thurs | :uk: London, UK              | Working at Turing Institute
