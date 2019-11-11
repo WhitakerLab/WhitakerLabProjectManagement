@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [31st October 2019](#date-31-october-2019)
 * [17th October 2019](#date-17-october-2019)
 * [2nd October 2019](#date-2-october-2019)
 * [18th September 2019](#date-18-september-2019)
@@ -16,6 +17,42 @@
 
 
 =======
+
+## Date: 31 October 2019
+
+#### Who did you help this week?
+
+* helped HY & KX with their PHD projects 
+* helped YH with the checklist
+
+#### Who helped you this week?
+
+* AZ helped me with editing revision
+* GX & HY helped me with downloading and preprocessing a new validation dataset
+
+#### What did you achieve?
+
+* Made some important progress on the project based on the IMAGEN
+* Improved RR and fixed some details mentioned at the last meeting 
+* Had fun in the MozFest, which is fresh new to me
+
+KW: Glad you enjoyed MozFest
+
+#### What did you struggle with?
+
+* London is getting colder
+
+KW: OH NO - and it's going to get worse!
+
+#### What would you like to work on next week?
+
+* Validate the results in IMAGEN project
+
+#### Where do you need help from Kirstie?
+
+* Kirstie can check the permission of imputation server for ABCD data
+
+_________
 
 ## Date: 17 October 2019
 
