@@ -2,7 +2,7 @@
 
 Georgia's weekly meeting notes.
 
-* [09 November 2019](#date-09-november-2019)
+* [14 November 2019](#date-14-november-2019)
 * [09 October 2019](#date-09-october-2019)
 * [25 September 2019](#date-25-september-2019)
 * [21 August 2019](#date-21-august-2019)
@@ -27,21 +27,27 @@ Georgia's weekly meeting notes.
 
 #### What did you achieve?
 
-* Gave lightening talk on CSP
+* Gave lightening talk on CSP: https://doi.org/10.5281/zenodo.3527695
+  * KW: Really great job!
 * Ran lab group 
+  * KW: Thank you!
 * More transcription analysis! 
+  * KW: GO GO GO!
 
 #### What did you struggle with?
 
 * Nerves!
+  * KW: Ha - that makes sense - but great job on giving the talk a go!ze
 
 #### Where do you need help from Kirstie?
 
 * Preparing for tech session
+  * KW: Fun meeting!
 
 #### Any other topics
 
 * CSP road map - next priority? 
+  * KW: Yes - I think so :muscle:
 
 ### Date: 09 October 2019
 
