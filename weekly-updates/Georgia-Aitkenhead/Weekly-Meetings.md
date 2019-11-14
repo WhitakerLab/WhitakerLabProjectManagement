@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [09 November 2019](#date-09-november-2019)
 * [09 October 2019](#date-09-october-2019)
 * [25 September 2019](#date-25-september-2019)
 * [21 August 2019](#date-21-august-2019)
@@ -10,6 +11,37 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 14 November 2019
+
+#### Who did you help this week?
+
+* Connected YH and AL to "Brains" groups
+* Helped organise tech session 
+
+#### Who helped you this week?
+
+* LB suggested useful NLP reading group to make contacts
+* KW gave me feedback on presentation for SN talk
+* KW got me ODI conference tickets
+
+#### What did you achieve?
+
+* Gave lightening talk on CSP
+* Ran lab group 
+* More transcription analysis! 
+
+#### What did you struggle with?
+
+* Nerves!
+
+#### Where do you need help from Kirstie?
+
+* Preparing for tech session
+
+#### Any other topics
+
+* CSP road map - next priority? 
 
 ### Date: 09 October 2019
 
