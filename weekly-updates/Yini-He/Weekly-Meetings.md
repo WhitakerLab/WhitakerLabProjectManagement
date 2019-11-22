@@ -18,17 +18,17 @@
 
 #### Who did you help this week?
 
-* KW(Oxford) helped to get the Luminous 
-* MK and KH interduced their work detailly and recommanded some courses to go along with them
+* KW (Oxford) helped to get the Luminous
+* MK and CH introduced their work clearly and recommended some courses to go along with them
 * AJ introduced his new project and discussed for cooperation
-* GA connect us to her friends and we  build a 'brains' study group
+* GA connect us to her friends and we build a 'brains' study group
 * LB and HYW would like to give hand for us to check ABCD project
 * AL helped me to make a solution in using Chinese server and linux
 
 #### Who helped you this week?	
 
 * Give some suggestions and discuss possible cooperation with BW about wellbeing project 
-* introduce application and disadvantage of 'facial recognition' and ‘Credit system’ in China with MK，KH and KL
+* introduce application and disadvantage of 'facial recognition' and 'credit system' in China with MK，CH and CL
 
 #### What did you achieve?
 
@@ -37,21 +37,26 @@
 * shared and discussed on knowledge and latest information of brain in the ‘brains’ group frequently
 * attended in Oxford Luminous conference
 * made a in-depth conversations with MK and JM（expert in Emothon and consciousness）
-* Considered more deeply about peer‘s projects and try to give some suggestions and possible help
-* reviewed and wrote a note about ‘the precious human relics of 10,000 years ago which now in the British Museum’
-* visited the British Museum，the design meseum and the Francis Crick Institute
+* Considered more deeply about peer's projects and try to give some suggestions and possible help
+* reviewed and wrote a note about 'the precious human relics of 10,000 years ago which now in the British Museum'
+* visited the British Museum，the Design Museum and the Francis Crick Institute
+
+KW: These all sound really fun!
 
 #### What did you struggle with?
 
-* Need to improve my English! I often have a lot of ideas, but find it difficult to express them detailly in English. But I'm on the way. Cheer me up！
-* End of year anxiety!There are a lot of plans not finished this year.
+* Need to improve my English! I often have a lot of ideas, but find it difficult to express them clearly in English. But I'm on the way. Cheer me up!
+  * KW: You're doing REALLY WELL! Don't be down on yourself.
+* End of year anxiety! There are a lot of plans not finished this year.
   
 #### What would you like to work on next week?
-Start from writing a detailed list of the unfinished thing in this year, and then refueling！
 
+* Start from writing a detailed list of the unfinished thing in this year, and then refueling！
 
 #### Where do you need help from Kirstie?
+
 None because of the strike ：）
+
 
 _________
 
