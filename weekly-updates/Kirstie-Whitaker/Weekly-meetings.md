@@ -6,6 +6,7 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 **2019**
 
+* [4 November 2019](#date-4-november-2019)
 * [16 October 2019](#date-16-october-2019)
 * [1 October 2019](#date-1-october-2019)
 * [4 September 2019](#date-4-september-2019)
@@ -21,6 +22,94 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 * [14 January 2019](#date-14-january-2019)
 
 ---
+
+### Date: 4 November 2019
+
+*This update covers the last 3-ish weeks*
+
+#### Who did you help this week?
+
+* I gave JL a good conversation starter question when folks come and talk with her 😆
+* I helped NP think through her workload & was generally supportive (I hope!)
+* Gave feedback to GA on her talk
+
+#### Who helped you this week?
+
+* So wonderful to have DR, NP and my fellow MozFellows in town.
+  They always make me feel so inspired to keep pushing (and also focus on self care).
+  * Quote of the weekend: "We can't build equity on the backs of free labour" ✊
+* MS & YY came along to the Turing Way co-working day and that made me feel amazing ✨
+* The [Simply Secure](https://simplysecure.org/) speed advice session was spectacular and exactly what I needed 🙏
+* Amazing call w OG - so so so helpful!
+* CH as always in EAG tasks
+* KP for help with Autistica LOI
+
+#### What did you achieve?
+
+* [MozFest](https://www.mozillafestival.org/)!
+  BUSY BUSY BUSY as per usual
+* Turing Way co-working day - someone from twitter came!
+  AMAAAAZING ✨
+* Two Turing Way collaboration cafes - one just by myself 😭 and one with a bunch of awesome folks!
+* Grant was officially rejected (surprising exactly no-one)
+* Day trip to Bletchley Park! 🔐
+* Had a visitor to lab meeting & recorded a podcast 🎤
+* Wrote a million lab meeting blogs (back behind again though now 😬)
+* Hosted first Health Programme seminar!
+* Gave talk at NESTA Hackathon
+* Gave Port Talk at Goodenough college (great dinner conversation!)
+* Gave talk at Citizen Science event at BL
+  * Best part was inviting AM!
+    Really glad I found out more about what she is working on
+* Brainstormed funding application with BM for Turing Way curriculum
+* Drafted LOI for Autistica call
+* Recruited new member to EAG
+* Wrote my part of an OHBM educational session abstract
+* Edited AK's ISMRM abstract
+* Attended first BIDS Steering Group meeting
+* Great call w RM re: Allen Brain analyses
+* Started discussions for a Turing data management plan
+* Led a reproducible research lunch on how to write a good issue
+* Events & engagement taskforce meeting
+  * Super fun!
+* Did some lobbying for the EAG
+* Coordinated Automating the Crowd call
+* 
+* Voted in the UCU ballot: https://twitter.com/kirstie_j/status/1188724933960052736?s=20
+* Attended People's Vote march
+
+#### What did you struggle with?
+
+* I was exhausted after MozFest - its a lot of big BIG discussions and late nights.
+  Huge thank you to NP & JD for checking in on me last week
+* I need a rubric for deciding what talks are worth my time - too many recently that have not been well organised and therefore not well attended.
+* Wanted to do more writing at MozFest House and that didn't work.
+  Probably should have been more realistic about what that would look like.
+
+#### What would you like to work on next week?
+
+* Close out editorial work for NI
+* Review GA's paper
+* Attend Better Science through Better Data
+* EAG meeting
+* Submit Autistica LOI
+* Turing Way newsletter
+* Autistica Citizen Science newsletter
+* Talk at EMBL
+* Writing for Automating the Crowd
+
+#### Where do you need help?
+
+* Newsletters - MS & GA on them already I think
+* EAG job description - CH 
+* BEP001 - just need tiiiiiiiime??
+* Writing - feedback & motivation
+
+#### Any other topics
+
+I've been having some super interesting conversations about code of conduct violations and how to manage them in the last few weeks.
+I think transparency reports are the way to go - need to start adding them into the projects' ways of working....
+
 
 ### Date: 16 October 2019
 
