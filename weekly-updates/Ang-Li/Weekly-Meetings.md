@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [22nd November 2019](#date-22-november-2019)
 * [31st October 2019](#date-31-october-2019)
 * [17th October 2019](#date-17-october-2019)
 * [2nd October 2019](#date-2-october-2019)
@@ -17,6 +18,49 @@
 
 
 =======
+
+## Date: 22nd November 2019
+
+#### Who did you help this week?
+
+* BW helped to visit the Oxford
+* KW helped to email the ABCD team for checking permission
+* HY helped with examining the RR
+* AZ, XQW helped with my revision and manuscript
+* DYH helped with some new datasets for revision
+* AJ helped introducing QL
+
+KW: Fun times! Thank you for helping so many people
+
+#### Who helped you this week?
+
+* Helped AJ with building a model
+* Help GA to introduce BW (an expert in NLP)
+
+#### What did you achieve?
+
+* Improved the Github and manuscript for RR
+* Attended a conference meeting in Oxford and learn more about human consciousness. 
+* Had really interesting discussion with BW about well-being 
+* Improved the revision 
+
+#### What did you struggle with?
+
+* Nothing specific 
+
+#### What would you like to work on next week?
+
+* Send back revision and improved RR and the model for AJ. 
+* Prepare the group meeting of the visualization. 
+
+#### Where do you need help from Kirstie?
+
+* Kirstie can help to check / improve the language for the RR and Github
+  * KW: I'll keep rocking in the paper - you work on the step by step instructions!
+  
+
+_________
+
 
 ## Date: 31 October 2019
 
