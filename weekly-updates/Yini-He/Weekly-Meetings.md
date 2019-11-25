@@ -1,6 +1,7 @@
 # Weekly Meetings
 
 
+* [22 November 2019](#date-31-October-2019)
 * [31 October 2019](#date-31-October-2019)
 * [17 October 2019](#date-17-October-2019)
 * [02 October 2019](#date-02-October-2019)
@@ -12,6 +13,52 @@
 * [07 July 2019](#date-07-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 22 November 2019
+
+#### Who did you help this week?
+
+* KW (Oxford) helped to get the Luminous
+* MK and CH introduced their work clearly and recommended some courses to go along with them
+* AJ introduced his new project and discussed for cooperation
+* GA connect us to her friends and we build a 'brains' study group
+* LB and HYW would like to give hand for us to check ABCD project
+* AL helped me to make a solution in using Chinese server and linux
+
+#### Who helped you this week?	
+
+* Give some suggestions and discuss possible cooperation with BW about wellbeing project 
+* introduce application and disadvantage of 'facial recognition' and 'credit system' in China with MK，CH and CL
+
+#### What did you achieve?
+
+* worked for ABCD project
+* new idea and continued to my p-factor research
+* shared and discussed on knowledge and latest information of brain in the ‘brains’ group frequently
+* attended in Oxford Luminous conference
+* made a in-depth conversations with MK and JM（expert in Emothon and consciousness）
+* Considered more deeply about peer's projects and try to give some suggestions and possible help
+* reviewed and wrote a note about 'the precious human relics of 10,000 years ago which now in the British Museum'
+* visited the British Museum，the Design Museum and the Francis Crick Institute
+
+KW: These all sound really fun!
+
+#### What did you struggle with?
+
+* Need to improve my English! I often have a lot of ideas, but find it difficult to express them clearly in English. But I'm on the way. Cheer me up!
+  * KW: You're doing REALLY WELL! Don't be down on yourself.
+* End of year anxiety! There are a lot of plans not finished this year.
+  
+#### What would you like to work on next week?
+
+* Start from writing a detailed list of the unfinished thing in this year, and then refueling！
+
+#### Where do you need help from Kirstie?
+
+None because of the strike ：）
+
+
+_________
 
 ### Date: 31 October 2019
 
