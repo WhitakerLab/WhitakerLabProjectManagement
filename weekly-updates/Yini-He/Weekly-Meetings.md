@@ -45,7 +45,7 @@
 
 #### Where do you need help from Kirstie?
 
-* Thank Kirstie for everthing you did for me，please gave me more suggestions.Let's make happy and meaningful memories in Turing together.
+* Thank Kirstie for everthing you did for me.Please gave me more suggestions and let's make happy and meaningful memories in Turing together.
 
 
 _________
