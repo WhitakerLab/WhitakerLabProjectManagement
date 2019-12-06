@@ -19,33 +19,41 @@
 #### Who did you help this week?
 
 * Give some suggestions and discuss possible cooperation with YY about mental health and the bowel problem 
-* atteneded to  AJ's talk and gave him some advice on his research
+* Attended AJ's talk and gave him some advice on his research
 
 #### Who helped you this week?	
 
 * AJ introduced his supervisor and friends in Cambridge to us
 * HY helped us to check ABCD github
-* CH gave me hand on some python problems 
+* CH gave me hand on some python problems
+
+KW: That's awesome!
 
 #### What did you achieve?
 
 * worked for ABCD project
-* disposal p-factor data 
-* shared interesting papers in the ‘brains’ group frequently
+* organise p-factor data
+* shared interesting papers in the 'brains' group frequently
 * attended in Cambridge psychiatry talk
 * made a in-depth conversations with friends in Cambridge
 * wrote two notebooks about 'the British Museum'
 
+KW: So fascinating! Very cool to hear about your learnings from the British Museum
+
 #### What did you struggle with?
 
 * deep thinking about every problems，improving presentation skills with logical thinking
-  
+  * KW: Super happy to give you feedback and suggestions on this!
+  * Lets find some opportunities for you to give a talk and practice!
+
 #### What would you like to work on next week?
+
 * year-end summary and new year planing！
 
 #### Where do you need help from Kirstie?
 
-* Thank Kirstie for everthing you did for me.Please gave me more suggestions and let's make happy and meaningful memories in Turing together.
+* Thank Kirstie for everthing you did for me.
+  Please gave me more suggestions and let's make happy and meaningful memories in Turing together.
 
 
 _________
