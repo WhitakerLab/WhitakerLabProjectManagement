@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-* [6th December 2019](#date-6-december-2019)
+* [6th December 2019](#date-6th-december-2019)
 * [22nd November 2019](#date-22-november-2019)
 * [31st October 2019](#date-31-october-2019)
 * [17th October 2019](#date-17-october-2019)
@@ -30,32 +30,40 @@
 
 #### Who helped you this week?
 
-* HW helped with the code in the registered report when she was busy
+* HW helped with the code in the registered report even though she was busy
 * AJ helped to introduce some of his peers in Cambridge
-* WD helped with labeling PSG data, taking plenty of time. 
+* WD helped with labeling PSG data, taking plenty of time
+
+KW: Fantastic - super valuable!
 
 #### What did you achieve?
 
-* Improved the imputation pipeline and some other details in PR.
+* Improved the imputation pipeline and some other details in RR.
 * Had a discussion with AJ and will start a collaboration hopefully.
-* Found an amazing online book (http://statsthinking21.org) and will start to learn it.  
-* Finished the mid-term oral examination in my PhD program! 
+* Found an amazing online book (http://statsthinking21.org) and will start to learn it.
+* Finished the mid-term oral examination in my PhD program!
 * Improved the revision (introducing new meta-analysis for BP) and sent it back
+
+KW: AAAAAAH Congratulations on passing your exam! :rocket: :star2:
 
 #### What did you struggle with?
 
-* Cough. 
+* Cough.
+
+KW: Uuuurgh - I'm so sorry :mask:
 
 #### What would you like to work on next week?
 
-* Prepare for the next-week group meeting in visualization. 
-* Prepare to write a briefy scientific report for Science. 
+* Prepare for the next-week group meeting in visualization.
+  * Have a look at this repository and see if you find it useful: https://github.com/KirstieJane/NH19-Visualization
+  * This page has lots of bad plots if you want to show those too! https://etherpad.net/p/PBS2-StudyDesign-Jan22
+* Prepare to write a brief scientific report for Science.
 
 #### Where do you need help from Kirstie?
 
-* Some suggestions on how to contribute to the Turing Way.
-* Maybe Kirstie can add the code related to gene expression into the RR Github. 
-  
+* Some suggestions on how to contribute to the _Turing Way_.
+* Maybe Kirstie can add the code related to gene expression into the RR Github.
+
   
 _________
 
