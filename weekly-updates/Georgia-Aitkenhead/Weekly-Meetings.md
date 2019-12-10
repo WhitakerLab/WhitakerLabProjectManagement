@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [10 December 2019](#date-10-december-2019)
 * [14 November 2019](#date-14-november-2019)
 * [09 October 2019](#date-09-october-2019)
 * [25 September 2019](#date-25-september-2019)
@@ -11,6 +12,46 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 10 December 2019
+
+#### Who did you help this week?
+
+* Arranged tech session to go through backlog with Fujitsu
+
+#### Who helped you this week?
+
+* KW invited me to Goodenough dinner :) - very interesting conversations! 
+* TA shared info from BBC disability event
+* OS gave feedback and agreed to be interviewed for December newsletter
+  * KW: This is SO COOL
+
+#### What did you achieve?
+
+* Complete collated analyses of focus groups and transcriptions + added OS labels
+  * KW: :rocket::rocket::rocket: AMAAAAAAAZING!
+
+#### What did you struggle with?
+
+* Some complexities in categorisation of analyses
+
+#### What would you like to work on next week?
+
+* Get transcript summaries sent to focus group participants
+* Send out December newsletter
+* Publish entries to google forms on GitHub
+* Build agenda for Fujitsu/Turing meeting
+* Revise position paper (maybe after Christmas)
+
+KW: This is a lot!
+If we can do it in the next week, that's great, but everything will be just as fabulous in January so don't get too overwhelmed :sparkling_heart:
+
+#### Where do you need help from Kirstie?
+
+* Review before sending out the transcripts
+  * KW: Booked for tomorrow!
+* Next stages of planning - for end of December onwards
+
 
 ### Date: 14 November 2019
 
