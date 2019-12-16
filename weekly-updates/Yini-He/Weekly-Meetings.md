@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [16 December 2019](#date-06-December-2019)
 * [06 December 2019](#date-06-December-2019)
 * [22 November 2019](#date-22-November-2019)
 * [31 October 2019](#date-31-October-2019)
@@ -13,6 +14,44 @@
 * [07 July 2019](#date-07-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 16 December 2019
+
+#### Who did you help this week?
+
+* I have written a tips for Chinese students who want to travel to France recently
+  * KW: I love this! So helpful!
+
+#### Who helped you this week?	
+
+* AL helped me to use Github with terminal
+* YJH guided me in Lyon and gave me a wonderful trip.
+  * YJH intoduced me some friends who studied in Lyon.
+
+#### What did you achieve?
+
+* lab Christmas dinner is a beautiful memory in my life
+  * KW: I'm so glad!
+* Start to use github with terminal and pull request to a project on GitHub (although they are only tiny suggestions)
+  * KW: Great! [#774](https://github.com/alan-turing-institute/the-turing-way/pull/774)
+* A first abroad journey for me since I came to London.
+  There are a lot of uncontrollable events on the journey which made me cope more easily with sudden challenges and changing circumstances.
+  * KW: That sounds like a very positive outlook on a tough trip!!
+    I'm sorry it was so difficult, and well done dealing with everything.
+
+#### What did you struggle with?
+
+* Improving coping capacity
+
+#### What would you like to work on next week?
+
+* Year-end summary
+
+#### Where do you need help from Kirstie?
+
+* Update RR study and make new year plan together
+
+KW: Great - see you on Thursday to chat about the new year plan :tada:
 
 ### Date: 06 December 2019
 
