@@ -38,7 +38,7 @@ This table covers lab meetings from March 2020 to May 2020.
 | Date | Chair | Topic | Link to blog |
 | ---- | ----- | ----- | ------------ |
 | 5 March | TBD | Self care | |
-| 12 March | TBD | Time management & project management | |
+| 12 March | Patricia | Time management & project management | |
 | 19 March | No lab meeting | (Probably) [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 | 26 March | TBD | General update (share 1 slide) | |
 | 2 April | No lab meeting | [SSI Collaborations Workshop](https://www.software.ac.uk/cw20) | |
