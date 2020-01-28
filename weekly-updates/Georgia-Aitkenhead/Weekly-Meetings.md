@@ -19,35 +19,50 @@ Georgia's weekly meeting notes.
 #### Who did you help this week?
 
 * Helped KW by writing updates for Health Programme 
+  * KW: YEAAAAAASSSS - thank you
 * Introduced JS to GitHub
+  * KW: Awesome! Absolutely fantastic :sparkling_heart:
 
 #### Who helped you this week?
 
 * JS helped by providing feedback on how to make guidelines for CSP clearer
 * TA helped by volunteering to take part in backlog session 
 
+KW: We have such a lovely community :heart_eyes: Wonderful.
+
 #### What did you achieve?
 
 * Created suggested workflow for agile/open source collaboration
+  * KW: Really valuable
 * Introduced new team members to project
-* Wrote guidelines for summaries 
+* Wrote guidelines for summaries [PR #79](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/79)
+  * KW: These are looking so great - well done!
 * Created user stories from Google Docs/summaries 
 
 #### What did you struggle with?
 
 * Establishing workflow process
+  * KW: It's a wicked problem: https://www.wickedproblems.com/1_wicked_problems.php
 
 #### What would you like to work on next week?
 
-* Presentation for Health Programme
+* Presentation for Data Science for Mental Health special interest group
+  * KW: Excited about this! https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/80
 * Send out position paper redraft
+  * KW: That would be great!
 * Send out summaries to focus group participants
 * Co-working sessions with Fujitsu team 
+  * KW: Fun!! This is really great.
 
 #### Where do you need help from Kirstie?
 
-* Review guidelines/summary
+* Review guidelines/summary [PR #79](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/79)
+  * KW: Added some comments!
 * Review and refine workflow process 
+* Added by KW: review and submit the health programme report
+* Added by KW: send the newsletter!!!! :sob:
+
+This is great work Georgia! Well done :tada:
 
 ### Date: 10 December 2019
 
