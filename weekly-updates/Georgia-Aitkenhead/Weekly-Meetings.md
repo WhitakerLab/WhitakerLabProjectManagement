@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [28 January 2020](#date-28-january-2020)
 * [10 December 2019](#date-10-december-2019)
 * [14 November 2019](#date-14-november-2019)
 * [09 October 2019](#date-09-october-2019)
@@ -12,6 +13,41 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 28 January 2020
+
+#### Who did you help this week?
+
+* Helped KW by writing updates for Health Programme 
+* Introduced JS to GitHub
+
+#### Who helped you this week?
+
+* JS helped by providing feedback on how to make guidelines for CSP clearer
+* TA helped by volunteering to take part in backlog session 
+
+#### What did you achieve?
+
+* Created suggested workflow for agile/open source collaboration
+* Introduced new team members to project
+* Wrote guidelines for summaries 
+* Created user stories from Google Docs/summaries 
+
+#### What did you struggle with?
+
+* Establishing workflow process
+
+#### What would you like to work on next week?
+
+* Presentation for Health Programme
+* Send out position paper redraft
+* Send out summaries to focus group participants
+* Co-working sessions with Fujitsu team 
+
+#### Where do you need help from Kirstie?
+
+* Review guidelines/summary
+* Review and refine workflow process 
 
 ### Date: 10 December 2019
 
