@@ -25,7 +25,7 @@ This table covers lab meetings from December 2019 to February 2020.
 | 9 January | Louise | New years resolutions | |
 | 16 January | Kirstie | Guest: František Váša | |
 | 23 January | Kirstie | Open agenda | |
-| 30 January | Ang & Yini | lunch: Chinese New Year :rat and Georgia speaking at [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
+| 30 January | Ang & Yini | lunch: Chinese New Year :rat: and Georgia speaking at [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 | 6 February | Kirstie | Guest: Ed Palmer | |
 | 13 February | Anastasia & Georgia | Including policy / communication experts in open source projects  | |
 | 20 February | No lab meeting | Turing Way Book Dash :books::dash: | |
