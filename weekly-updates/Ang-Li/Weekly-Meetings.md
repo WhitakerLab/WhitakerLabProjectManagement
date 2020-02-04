@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [16th December 2019](#date-16th-december-2019)
 * [6th December 2019](#date-6th-december-2019)
 * [22nd November 2019](#date-22-november-2019)
 * [31st October 2019](#date-31-october-2019)
@@ -19,6 +20,50 @@
 
 
 =======
+
+## Date: 16th December 2019
+
+#### Who did you help this week?
+
+* Helped YH with her Github skills. 
+* Helped YH with her first pull request for the Turing Way: [#774](https://github.com/alan-turing-institute/the-turing-way/pull/774)
+  * KW: Fab!
+
+#### Who helped you this week?
+
+* BW introduced a wearable devices to support meditation.
+
+#### What did you achieve?
+
+* Made a challenging presentation in visualization at the lab meeting. 
+* Improved the Github repository of RR.
+* Got my first Christmas card in my life. 
+  * KW: :heart_eyes:
+* Read through the Turing Way again. 
+* Opened an issue for the Turing Way for a new chapter of the power analysis: [#775](https://github.com/alan-turing-institute/the-turing-way/issues/775)
+  * KW: This is great!
+* Knowed that there is a weekly meeting in UCL and will be glad to attend.
+  * KW: I'm glad you got to ask Konrad about that! Here's the link https://www.fil.ion.ucl.ac.uk/Meetings
+  * Maybe get in touch with him before you go to the first meeting and he can show you around :smiley_cat:
+
+#### What did you struggle with?
+
+* Nothing specific.
+
+#### What would you like to work on next week?
+
+* Improving the consciousness project and IMAGEN developement project. 
+* Helped AJ with his project when he is ready.
+
+
+#### Where do you need help from Kirstie?
+
+* Kirstie can help to add the code related to gene expression into the RR Github.
+
+KW: Should be able to do that over the holidays or in January.
+  
+_________
+
 
 ## Date: 6th December 2019
 
