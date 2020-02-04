@@ -32,6 +32,7 @@
 * Helped RW with her project proposal with some suggestions. 
 * Helped HY with her project proposal with some suggestions.
 * Helepd XY to introduce some basic conception of neuroimaging and some guideline article. 
+* Helped BL review a paper. 
 
 #### Who helped you this week?
 
@@ -48,7 +49,7 @@
 
 #### What did you struggle with?
 
-* Nothing specific.
+* Explored and learned some HCP pipeline (and its data structure), which is kind of difficult.  
 
 #### What would you like to work on next week?
 
