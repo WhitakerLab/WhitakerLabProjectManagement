@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [4th February 2020](#date-4th-february-2020)
 * [16th December 2019](#date-16th-december-2019)
 * [6th December 2019](#date-6th-december-2019)
 * [22nd November 2019](#date-22-november-2019)
@@ -20,6 +21,47 @@
 
 
 =======
+
+## Date: 4th February 2020
+
+#### Who did you help this week?
+
+* Helped AJ with his project and introduce some neuroimaging packages in Python. 
+* Donote and stand with Wuhan. 
+* Helped the TTW to translate some chapters.
+* Helped RW with her project proposal with some suggestions. 
+* Helped HY with her project proposal with some suggestions.
+* Helepd XY to introduce some basic conception of neuroimaging and some guideline article. 
+
+#### Who helped you this week?
+
+* CR helepd to share a monkey fMRI dataset. 
+
+#### What did you achieve?
+
+* Had a great Spring Festival in London and attended an amazing gala in Cambridge.
+* Introduced Spring Festival and prepared some Chinese food for lab members. 
+* Worked with Yini to translate some Chapters in TTW and made some further plans to popularize them in China. 
+* Visiting AJ at his house and tasted some indian food from him. 
+* Got a positive feedback from the editor for my previous work. 
+
+
+#### What did you struggle with?
+
+* Nothing specific.
+
+#### What would you like to work on next week?
+
+* Learning the pipeline of translation and deployed it on my laptop. 
+* Made some broadcast for the TTW in China with YN.  
+* Finish some editoral requirements of my previous work.
+
+#### Where do you need help from Kirstie?
+
+* KW can help to add the code related to gene expression into the RR Github. (I also pulled a request to address some previous suggestions from KW).
+  
+_________
+
 
 ## Date: 16th December 2019
 
