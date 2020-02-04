@@ -21,8 +21,9 @@
 #### Who did you help this week?
 
 * Donation for The Wuhan coronavirus
+  * KW: I'm so sorry for how damaging and disruptive this virus outbreak is for the people of Wuhan.
 * discussion with AJ's project
-* I hepled YJL to follow her research about the effects of Chinese acupuncture and I helped her to check her image quality of fMRI and DTI
+* I helped YJL to follow her research about the effects of Chinese acupuncture and I helped her to check her image quality of fMRI and DTI
 * I summarized some fMRI analysis videos and my reading notes to YYL
 
 #### Who helped you this week?	
@@ -31,22 +32,32 @@
 * AL shared HCP data and helped me to make a plan for reproducing my previous work
 * MK and CH recommended some Chinese food which UK people love for me
 
+KW: These are great - the food was delicious!!
+
 #### What did you achieve?
 
 * lab Spring Festival lunch is an amazing memory in my life
-* read the captar 1-4 of the turing way carefully
-* translation the turing way into Chinses with AL
+* read the chapters 1-4 of the turing way carefully
+* translation the turing way into Chinsese with AL
 * brainstorm with Ang about the turing way
 * analyzed some data, reorganized previous work which had been rejected by HBM 、
 
 #### What did you struggle with?
 
 * little worried about my family
-
+  * KW: I'll be thinking of them. I hope they're safe.
+ 
 #### What would you like to work on next week?
 
 * the Turing way
 * continue to do RR
+
+KW: Really fantastic work! Enjoy chatting with TY next week and I look forward to thinking about sharing the Turing Way through WeChat etc!!
+
+Checkout:
+* The weirdest people in the world? https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf
+* https://www.theatlantic.com/daily-dish/archive/2010/10/western-educated-industrialized-rich-and-democratic/181667
+* https://undark.org/2020/01/20/psychology-bias-western
 
 #### Where do you need help from Kirstie?
 
