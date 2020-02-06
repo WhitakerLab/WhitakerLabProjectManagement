@@ -29,7 +29,7 @@ This table covers lab meetings from December 2019 to February 2020.
 | 6 February | Kirstie | Guest: Ed Palmer | |
 | 13 February | Anastasia & Georgia | Including policy / communication experts in open source projects  | |
 | 20 February | No lab meeting | Turing Way Book Dash :books::dash: | |
-| 27 February | TBD | General update (share 1 slide) | |
+| 27 February | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 
 ### Spring 2020
 
@@ -39,16 +39,16 @@ This table covers lab meetings from March 2020 to May 2020.
 | ---- | ----- | ----- | ------------ |
 | 5 March | TBD | Self care | |
 | 12 March | Patricia | Time management & project management | |
-| 19 March | No lab meeting | (Probably) [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
+| 19 March | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 | 26 March | TBD | General update (share 1 slide) | |
 | 2 April | No lab meeting | [SSI Collaborations Workshop](https://www.software.ac.uk/cw20) | |
 | 9 April | No lab meeting | Happy Easter 🐇🥚🍫 | *No blog* |
-| 16 April | Sarah | How to cross stitch | |
+| 16 April | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 | 23 April | Malvika | Community building | |
-| 30 April | TBD | (Probably) [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
+| 30 April | Sarah | How to cross stitch | |
 | 7 May | TBD | Natural language processing | |
 | 14 May | TBD | General update (share 1 slide) | |
-| 21 May | TBD | TBD | |
+| 21 May | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 | 28 May | TBD | TBD | |
 
 
