@@ -23,32 +23,42 @@ Georgia's weekly meeting notes.
 * Gave JS tour of Turing and background to data ethics
 * Updated LC on project
 
+KW: These are all great! Thank you Gerogia, and thank you to the new team members :sparkles:
+
 #### Who helped you this week?
 
 * ED helped design the workflow 
 * JS helped organise the repo 
 * KW and RP invited me to a Turing Citizen Science workshop
 
+KW: I hope you have tonnes of fun at the workshop! I'm sorry I can't go!
+
 #### What did you achieve?
 
 * Gave talk to Health and Data Science special interest group
+  * KW: It was great!
 * Wrote hundreds of user stories for backlog
+  * KW: 😅
 * Co-working sessions with Fujitsu team (ED, ED, and TS)
+  * KW: FAB!
 * Moved house!
+  * KW: Wooooo! 🏡
 
 #### What did you struggle with?
 
-* Refining workflow process still tricky 
+* Refining workflow process still tricky
+  * KW: Because it's a wildly hard process! I'll take a look on Sunday morning :muscle:
 
 #### What would you like to work on next week?
 
 * Organising sprint cycles
 * Chairing lab meeting :)
-* Designing participatory science session with Bo
+* Designing participatory science session with BW
 
 #### Where do you need help from Kirstie?
 
 * Prep for backlog refinement meeting on Monday 
+  * KW: Great meeting today - thank you for brainstorming all of this
 
 ### Date: 28 January 2020
 
