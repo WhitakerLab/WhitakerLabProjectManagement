@@ -40,6 +40,12 @@ Georgia's weekly meeting notes.
 
 * Refining workflow process still tricky 
 
+#### What would you like to work on next week?
+
+* Organising sprint cycles
+* Chairing lab meeting :)
+* Designing participatory science session with Bo
+
 #### Where do you need help from Kirstie?
 
 * Prep for backlog refinement meeting on Monday 
