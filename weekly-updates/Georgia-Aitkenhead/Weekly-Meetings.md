@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [07 February 2020](#date-07-february-2020)
 * [28 January 2020](#date-28-january-2020)
 * [10 December 2019](#date-10-december-2019)
 * [14 November 2019](#date-14-november-2019)
@@ -13,6 +14,35 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 07 February 2020
+
+#### Who did you help this week?
+
+* Introduced ED to project and to GitHub - first issues and pull requests
+* Gave JS tour of Turing and background to data ethics
+* Updated LC on project
+
+#### Who helped you this week?
+
+* ED helped design the workflow 
+* JS helped organise the repo 
+* KW and RP invited me to a Turing Citizen Science workshop
+
+#### What did you achieve?
+
+* Gave talk to Health and Data Science special interest group
+* Wrote hundreds of user stories for backlog
+* Co-working sessions with Fujitsu team (ED, ED, and TS)
+* Moved house!
+
+#### What did you struggle with?
+
+* Refining workflow process still tricky 
+
+#### Where do you need help from Kirstie?
+
+* Prep for backlog refinement meeting on Monday 
 
 ### Date: 28 January 2020
 
