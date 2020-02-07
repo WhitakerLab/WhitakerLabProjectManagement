@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [28 January 2020](#date-28-january-2020)
 * [10 December 2019](#date-10-december-2019)
 * [14 November 2019](#date-14-november-2019)
 * [09 October 2019](#date-09-october-2019)
@@ -12,6 +13,56 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 28 January 2020
+
+#### Who did you help this week?
+
+* Helped KW by writing updates for Health Programme 
+  * KW: YEAAAAAASSSS - thank you
+* Introduced JS to GitHub
+  * KW: Awesome! Absolutely fantastic :sparkling_heart:
+
+#### Who helped you this week?
+
+* JS helped by providing feedback on how to make guidelines for CSP clearer
+* TA helped by volunteering to take part in backlog session 
+
+KW: We have such a lovely community :heart_eyes: Wonderful.
+
+#### What did you achieve?
+
+* Created suggested workflow for agile/open source collaboration
+  * KW: Really valuable
+* Introduced new team members to project
+* Wrote guidelines for summaries [PR #79](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/79)
+  * KW: These are looking so great - well done!
+* Created user stories from Google Docs/summaries 
+
+#### What did you struggle with?
+
+* Establishing workflow process
+  * KW: It's a wicked problem: https://www.wickedproblems.com/1_wicked_problems.php
+
+#### What would you like to work on next week?
+
+* Presentation for Data Science for Mental Health special interest group
+  * KW: Excited about this! https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/80
+* Send out position paper redraft
+  * KW: That would be great!
+* Send out summaries to focus group participants
+* Co-working sessions with Fujitsu team 
+  * KW: Fun!! This is really great.
+
+#### Where do you need help from Kirstie?
+
+* Review guidelines/summary [PR #79](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/79)
+  * KW: Added some comments!
+* Review and refine workflow process 
+* Added by KW: review and submit the health programme report
+* Added by KW: send the newsletter!!!! :sob:
+
+This is great work Georgia! Well done :tada:
 
 ### Date: 10 December 2019
 
