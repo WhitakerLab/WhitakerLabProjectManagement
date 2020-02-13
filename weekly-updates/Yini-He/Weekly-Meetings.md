@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [13 February 2020(#date-13-February-2020)
 * [04 February 2020(#date-04-February-2020)
 * [16 December 2019](#date-06-December-2019)
 * [06 December 2019](#date-06-December-2019)
@@ -15,6 +16,40 @@
 * [07 July 2019](#date-07-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 13 February 2020
+
+#### Who did you help this week?
+
+* helped SM to make a WeChat individual and public account
+
+#### Who helped you this week?	
+
+* TY helped us to set up an automation toolchains
+* MNX helped me to know how to use WeChat public account！ 
+
+#### What did you achieve?
+
+* Review and organize the translation problems for the turing way
+* Try to use WeChat public platform to publish articles
+* Participate in second language activities in Turing and make a lot of new friends
+
+#### What did you struggle with?
+
+* A very energetic week
+ 
+#### What would you like to work on next week?
+
+* the Turing way
+* continue to do RR
+* think more deeply in write a blog or paper about what Kirstie‘s recommended last week
+
+#### Where do you need help from Kirstie?
+
+* make plans to update RR study 
+
+__________________
+
 
 ### Date: 04 February 2020
 
