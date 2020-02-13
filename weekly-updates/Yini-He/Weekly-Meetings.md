@@ -1,7 +1,7 @@
 # Weekly Meetings
 
-* [13 February 2020(#date-13-February-2020)
-* [04 February 2020(#date-04-February-2020)
+* [13 February 2020](#date-13-February-2020)
+* [04 February 2020](#date-04-February-2020)
 * [16 December 2019](#date-06-December-2019)
 * [06 December 2019](#date-06-December-2019)
 * [22 November 2019](#date-22-November-2019)
