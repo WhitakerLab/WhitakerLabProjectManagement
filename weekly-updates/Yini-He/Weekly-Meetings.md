@@ -22,11 +22,13 @@
 #### Who did you help this week?
 
 * helped SM to make a WeChat individual and public account
+  * KW: Super helpful
 
 #### Who helped you this week?	
 
 * TY helped us to set up an automation toolchains
-* MNX helped me to know how to use WeChat public account！ 
+* MNX helped me to know how to use WeChat public account！
+  * KW: Great!
 
 #### What did you achieve?
 
@@ -40,13 +42,13 @@
  
 #### What would you like to work on next week?
 
-* the Turing way
-* continue to do RR
-* think more deeply in write a blog or paper about what Kirstie‘s recommended last week
+* The Turing Way
+* Continue to do RR
+* Think more deeply in write a blog or paper about what Kirstie's recommended last week
 
 #### Where do you need help from Kirstie?
 
-* make plans to update RR study 
+* Make plans to update RR study 
 
 __________________
 
