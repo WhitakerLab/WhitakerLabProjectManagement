@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [13rd February 2020](#date-13rd-february-2020)
 * [4th February 2020](#date-4th-february-2020)
 * [16th December 2019](#date-16th-december-2019)
 * [6th December 2019](#date-6th-december-2019)
@@ -21,6 +22,36 @@
 
 
 =======
+
+## Date: 13rd February 2020
+
+#### Who did you help this week?
+
+* BL helped with job information.  
+* TY helped with a really cool translation pipeline! 
+* AZ, R&Ed helped with language improvement in the new revision.
+
+#### Who helped you this week?
+
+* Helped MW with his first manuscript. 
+
+#### What did you achieve?
+
+* Attended a workshop in Liunx, Python & Git programing in Turing!
+* Run the demo of PCA in RR.
+
+#### What did you struggle with?
+
+* Nothing specific. 
+
+#### What would you like to work on next week?
+
+* Translate the Turing Way in the Transfixed! 
+* Prepare a graduation paper for my PhD. 
+
+#### Where do you need help from Kirstie?
+
+* KW can help to add the code related to gene expression into the RR Github. 
 
 ## Date: 4th February 2020
 
