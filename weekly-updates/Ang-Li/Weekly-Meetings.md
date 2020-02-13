@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-* [13rd February 2020](#date-13rd-february-2020)
+* [13th February 2020](#date-13th-february-2020)
 * [4th February 2020](#date-4th-february-2020)
 * [16th December 2019](#date-16th-december-2019)
 * [6th December 2019](#date-6th-december-2019)
@@ -23,13 +23,14 @@
 
 =======
 
-## Date: 13rd February 2020
+## Date: 13th February 2020
 
 #### Who did you help this week?
 
-* BL helped with job information.  
+* BL helped with job information
 * TY helped with a really cool translation pipeline! 
-* AZ, R&Ed helped with language improvement in the new revision.
+* AZ, R & Ed helped with language improvement in the new revision
+  * KW: CONGRATULATIONS! :rocket: :tada:
 
 #### Who helped you this week?
 
@@ -47,6 +48,7 @@
 #### What would you like to work on next week?
 
 * Translate the Turing Way in the Transfixed! 
+  * KW: Very cool demo - thanks for sharing :earth_asia:
 * Prepare a graduation paper for my PhD. 
 
 #### Where do you need help from Kirstie?
