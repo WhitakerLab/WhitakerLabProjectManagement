@@ -38,7 +38,7 @@
 
 #### Where do you need help from Kirstie?
 
-- Finalising TW Newsletter.
+- Finalising TW Newsletter: https://github.com/alan-turing-institute/the-turing-way/pull/830
 - Running the book-dash.
 - Finalishing Qs for asking a few Turing members.
 - [PR merge request](https://github.com/alan-turing-institute/the-turing-way/pull/801) for Collab Cafe time table for next months.
