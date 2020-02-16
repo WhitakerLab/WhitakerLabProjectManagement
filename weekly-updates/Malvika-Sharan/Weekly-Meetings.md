@@ -41,6 +41,7 @@
 - Finalising TW Newsletter.
 - Running the book-dash.
 - Finalishing Qs for asking a few Turing members.
+- [PR merge request](https://github.com/alan-turing-institute/the-turing-way/pull/801) for Collab Cafe time table for next months.
 
 ### Date: 07 February 2020
 
