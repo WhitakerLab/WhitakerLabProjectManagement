@@ -1,6 +1,6 @@
 # Malvika's weekly meeting notes.
 
-* [15 February 2020](#date-28-february-2020)
+* [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-DD Month-YYYY)
 
