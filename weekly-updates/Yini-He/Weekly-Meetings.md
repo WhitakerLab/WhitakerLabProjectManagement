@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [18 February 2020](#date-18-February-2020)
 * [13 February 2020](#date-13-February-2020)
 * [04 February 2020](#date-04-February-2020)
 * [16 December 2019](#date-06-December-2019)
@@ -16,6 +17,37 @@
 * [07 July 2019](#date-07-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 18 February 2020
+
+#### Who did you help this week?
+
+* introduced my close friend to HY(she will study her phd in Max Planck Institute) 
+
+#### Who helped you this week?	
+
+* HNC introduced lots of details in a job position which I prepare to send my CV
+* MK and CH gave me lots of  suggestions about finding a job
+* AL helped me to analysis HCP data
+
+#### What did you achieve?
+
+* made a plan for graduation and finding a job
+
+#### What did you struggle with?
+
+* Both graduation and finding a job are full of challenges
+ 
+#### What would you like to work on next week?
+
+* reproduce my previous work in some other data
+* try to make a communication with CNU which release a job position
+
+#### Where do you need help from Kirstie?
+
+* give suggestions for me to face all the challenges
+
+__________________
 
 ### Date: 13 February 2020
 
