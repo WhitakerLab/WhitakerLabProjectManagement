@@ -22,12 +22,12 @@
 
 #### Who did you help this week?
 
-* introduced my close friend to HY(she will study her phd in Max Planck Institute) 
+* introduced my close friend to HY (she will study her phd in Max Planck Institute) 
 
 #### Who helped you this week?	
 
 * HNC introduced lots of details in a job position which I prepare to send my CV
-* MK and CH gave me lots of  suggestions about finding a job
+* MK and CH gave me lots of suggestions about finding a job
 * AL helped me to analysis HCP data
 
 #### What did you achieve?
@@ -46,6 +46,9 @@
 #### Where do you need help from Kirstie?
 
 * give suggestions for me to face all the challenges
+
+KW: These are all great Yini - thank you for sharing!
+See you on 17 March to discuss the harm avoidance paper!
 
 __________________
 
