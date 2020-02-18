@@ -26,11 +26,9 @@
 
 ## Date: 18th February 2020
 
-
 I'm afraid that this might be my last weekly update due to the time limit of my visiting plan at ATI. 
-I appreciate all the valuable help from Kirstie and other people at ATI. 
-I learned a lot from all of you and this is a really precious experience during my whole life!  
-
+I appreciate all the valuable help from Kirstie and other people at ATI.
+I learned a lot from all of you and this is a really precious experience during my whole life!
 
 #### Who did you help this week?
 
@@ -61,6 +59,10 @@ I learned a lot from all of you and this is a really precious experience during 
 #### Where do you need help from Kirstie?
 
 * Nothing specific. 
+
+KW: The end of an era!! Thank you for all your work!
+
+Looking forward to celebrating your time in the lab on 19 March :sparkles:
 
 
 ## Date: 13th February 2020
