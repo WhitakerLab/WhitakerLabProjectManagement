@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [18th February 2020](#date-18th-february-2020)
 * [13th February 2020](#date-13th-february-2020)
 * [4th February 2020](#date-4th-february-2020)
 * [16th December 2019](#date-16th-december-2019)
@@ -22,6 +23,40 @@
 
 
 =======
+
+## Date: 18th February 2020
+
+#### Who did you help this week?
+
+* Helped CL with her revision (a deadline!)
+* Helped KX with her work and data
+* Helped YX with her work 
+* Helped NNT with her work 
+* Helped YH with her fund application
+* Helped MW with his manuscript
+
+#### Who helped you this week?
+
+* YX and YZ helped me to preprocess data
+
+#### What did you achieve?
+
+* Have a delightful dinner with ZS and discuss some research in pain and anesthesia. 
+
+#### What did you struggle with?
+
+* Nothing specific. 
+
+#### What would you like to work on next week?
+
+* Working on graduation thesis. 
+
+#### Where do you need help from Kirstie?
+
+* Nothing specific. 
+
+I'm afraid that this is my last weekly update due to the time limit of the visiting plan. I appreciate all the valuable help from Kirstie and other peers in the ATI. This is a really precious experience during my whole life!  
+
 
 ## Date: 13th February 2020
 
