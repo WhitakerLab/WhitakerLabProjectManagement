@@ -1,8 +1,41 @@
 # Malvika's weekly meeting notes.
 
+* [29 February 2020](#date-29-February-2020)
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Date: 29 February 2020
+
+#### Who did you help this week?
+
+- A couple of book dash participants
+
+#### Who helped you this week?
+
+- KW, SG, LB in book dash planning+organising
+- KW in the catch up meeting and planning the Newcastle workshop
+- MY in sharing insights from the RSE group and how they can be involved 
+
+#### What did you achieve?
+
+- Finalising the Newcastle workshop with th eorganiser
+- Book Dash and book dash report
+- Got to know the ATI members interested in contributing an Ethics case study
+
+#### What did you struggle with?
+
+- Not totally understanding my place in the project - but that is going to get better with time
+
+#### What would you like to work on next week?
+
+- Creating a few documents for the TW project management: book dash, collaboration cafe etc.
+- Understanding the potential ways to improve TW visibility
+
+#### Where do you need help from Kirstie?
+
+- A few hours to sit down and discuss notes from the expansion sprint, and plan next book dash
 
 ### Date: 15 February 2020
 
