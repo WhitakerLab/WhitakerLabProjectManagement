@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-* [17 March 2020](#date-18-March-2020)
+* [17 March 2020](#date-18-March-2020
 * [18 February 2020](#date-18-February-2020)
 * [13 February 2020](#date-13-February-2020)
 * [04 February 2020](#date-04-February-2020)
@@ -138,7 +138,7 @@ __________________
 
 #### Who helped you this week?	
 
-* YJL and JX sent me some private fMRI data
+* YJL and JX sent me some private fMRI data.
 * AL shared HCP data and helped me to make a plan for reproducing my previous work
 * MK and CH recommended some Chinese food which UK people love for me
 
