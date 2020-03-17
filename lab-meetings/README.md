@@ -37,7 +37,7 @@ This table covers lab meetings from March 2020 to May 2020.
 
 | Date | Chair | Topic | Link to blog |
 | ---- | ----- | ----- | ------------ |
-| 5 March | TBD | Self care | |
+| 5 March | Malvika | Self care for team and community | [optional reading](https://socialwork.buffalo.edu/content/dam/socialwork/home/self-care-kit/self-care-assessment.pdf) |
 | 12 March | Patricia | Time management & project management | |
 | 19 March | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 | 26 March | TBD | General update (share 1 slide) | |
