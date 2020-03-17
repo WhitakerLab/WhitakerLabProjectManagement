@@ -1,5 +1,7 @@
 # Weekly Meetings
 
+* [17 March 2020](#date-18-March-2020)
+* [18 February 2020](#date-18-February-2020)
 * [13 February 2020](#date-13-February-2020)
 * [04 February 2020](#date-04-February-2020)
 * [16 December 2019](#date-06-December-2019)
@@ -16,6 +18,77 @@
 * [07 July 2019](#date-07-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 17 February 2020
+
+#### Who did you help this week?
+
+* helped AL to design his candidate cover figure for NM
+* helped JM and XHW to cope with the anxiety and depression caused by the COVID19 
+
+#### Who helped you this week?	
+
+* JX and NHC helped to prepare my CV
+* MK and CH gave me lots of suggestions about writting a CV
+* XL helped me to make sure a new result using HCP data
+
+#### What did you achieve?
+
+* completed a job application
+* modifying previous harm avoidance paper 
+* a preliminary new result using HCP data
+* updating the translation online（unfinished）
+
+#### What did you struggle with?
+
+* modify previous paper about hostility
+* organize and try to explain new results
+ 
+#### What would you like to work on next week?
+
+* modify harm avoidance paper based on Kirstie's suggestions
+* updating the translation online
+* continue to analyze and organize HCP data
+
+#### Where do you need help from Kirstie?
+
+* give suggestions for my harm avoidance paper
+
+__________________
+
+### Date: 18 February 2020
+
+#### Who did you help this week?
+
+* introduced my close friend to HY (she will study her phd in Max Planck Institute) 
+
+#### Who helped you this week?	
+
+* HNC introduced lots of details in a job position which I prepare to send my CV
+* MK and CH gave me lots of suggestions about finding a job
+* AL helped me to analysis HCP data
+
+#### What did you achieve?
+
+* made a plan for graduation and finding a job
+
+#### What did you struggle with?
+
+* Both graduation and finding a job are full of challenges
+ 
+#### What would you like to work on next week?
+
+* reproduce my previous work in some other data
+* try to make a communication with CNU which release a job position
+
+#### Where do you need help from Kirstie?
+
+* give suggestions for me to face all the challenges
+
+KW: These are all great Yini - thank you for sharing!
+See you on 17 March to discuss the harm avoidance paper!
+
+__________________
 
 ### Date: 13 February 2020
 
