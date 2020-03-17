@@ -1,10 +1,44 @@
 # Malvika's weekly meeting notes.
 
+* [17 March 2020](#date-17-March-2020)
 * [29 February 2020](#date-29-February-2020)
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
 
+### Date: 17 March 2020
+
+#### Who did you help this week?
+- HS and BV with their PRs
+- Newcastle workshop
+- SG cross-stitch carpentry
+- Gates project: open science
+
+#### Who helped you this week?
+- KW in discussing and structuring 100 min relay
+
+#### What did you achieve?
+- Humanities and data science notes
+- Joining EDI team
+- Chairing a lab meeting and putting self-care materials 
+- 
+
+#### What did you struggle with?
+- Prioritizing TW PRs and Issues
+- Structuring large chapters
+
+#### What would you like to work on next week?
+- Project management stuff - captured but unwritten 
+- Work with eScience Amsterdam team to sort their PRs
+- Distributed collaboration document
+- Newsletter
+
+#### Where do you need help from Kirstie?
+- Governance of Turing Way
+- Differentiating roles
+- Structuring book to create space for the new topics
+- COVID response in newsletter
+- Turing + Turing Way
 
 ### Date: 29 February 2020
 
