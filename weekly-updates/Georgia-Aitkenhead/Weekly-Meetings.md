@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [19 March 2020](#date-19-march-2020)
 * [28 January 2020](#date-28-january-2020)
 * [10 December 2019](#date-10-december-2019)
 * [14 November 2019](#date-14-november-2019)
@@ -13,6 +14,44 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 19 March 2020
+
+#### Who did you help this week?
+
+* Introduced ZL to the project and GitHub repo
+* Linked up ED and LP together and put them in touch with Autistica
+
+#### Who helped you this week?
+
+* RP and MAC gave me insights into natural language processing for the project
+* JS have me extremely useful feedback on my paper
+* CL began work on wireframes
+* TA agreed to be involved in user testing and priority setting
+
+#### What did you achieve?
+
+* Had first backlog refinement and sprint planning sessions with the Fujitsu team
+* Collaborated with EH on GDPR compliance 
+* Adapted position paper redraft based on JS comments
+* (Virtually) met new potential collaborator and introduced them to GitHub repo
+
+#### What did you struggle with?
+
+* Encouraging open working
+* Participatory backlog prioritisation 
+
+#### What would you like to work on next week?
+
+* Prepare for wireframing workshop (online!)
+* Preparing for next sprint
+* Planning for WAAD (2nd April)
+
+#### Where do you need help from Kirstie?
+
+* Designing methods of online participation - e.g. for upcoming workshop
+* Reviewing position paper redraft 
+* Integrating agile sprint cycle
 
 ### Date: 28 January 2020
 
