@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-* [17 March 2020](#date-18-March-2020)
+* [17 March 2020](#date-17-march-2020)
 * [18 February 2020](#date-18-February-2020)
 * [13 February 2020](#date-13-February-2020)
 * [04 February 2020](#date-04-February-2020)
@@ -19,12 +19,14 @@
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
 
-### Date: 17 February 2020
+### Date: 17 March 2020
 
 #### Who did you help this week?
 
 * helped AL to design his candidate cover figure for NM
+  * KW: Fingers crossed it gets chosen!!
 * helped JM and XHW to cope with the anxiety and depression caused by the COVID19 
+  * KW: I'm so glad you can help folks out when they're so far from home :hibiscus:
 
 #### Who helped you this week?	
 
@@ -35,6 +37,7 @@
 #### What did you achieve?
 
 * completed a job application
+  * KW: Fingers crossed!!
 * modifying previous harm avoidance paper 
 * a preliminary new result using HCP data
 * updating the translation online（unfinished）
@@ -53,6 +56,7 @@
 #### Where do you need help from Kirstie?
 
 * give suggestions for my harm avoidance paper
+  * KW: It's looking great - can you try making a version of the figure that doesn't have the skeleton and send me a paper to read abou temperment? I'll have a play around with the data and see what visualisations we can make to show the different measures correlating with each other :smile:
 
 __________________
 
@@ -138,7 +142,7 @@ __________________
 
 #### Who helped you this week?	
 
-* YJL and JX sent me some private fMRI data
+* YJL and JX sent me some private fMRI data.
 * AL shared HCP data and helped me to make a plan for reproducing my previous work
 * MK and CH recommended some Chinese food which UK people love for me
 
