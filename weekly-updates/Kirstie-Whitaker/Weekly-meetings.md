@@ -42,12 +42,12 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 >
 > #### BIDS
 >
-> * Steering group call -- **Monday 23 March**
-> * BEP001 co-working -- **Wednesday 25 March**
+> * Steering group call
+> * BEP001 co-working
 >
 > #### Community engagement / service
 >
-> * Give talk for OpenLifeSci -- **Wednesday > 1pm**
+> * Give talk for OpenLifeSci
 > * Call w CH re Turing Health project
 >
 > #### Ethics Advisory Group
