@@ -380,8 +380,9 @@ She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright sc
 Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
-**Slides**: Figshare link to slides (if applicable)
+**Slides**: https://doi.org/10.5281/zenodo.3333759
 
+**Recording**: https://youtu.be/IG3PcZ6EhiU
 
 ### INCF Congress on Neuroinformatics
 
@@ -585,8 +586,6 @@ You can find more information at her lab website: [whitakerlab.github.io](https:
 
 ### Inspirational Seminars talk at EMBL
 
-**Website**: *insert link*
-
 **Date**: 8 November 2019
 
 **Title**: I have no idea what I'm doing: open and transparent leadership in academia
@@ -608,9 +607,11 @@ She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright sc
 Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
-**Slides**: Figshare link to slides (if applicable)
+**Slides**: https://doi.org/10.5281/zenodo.3532649
 
 ### Talk at Center for Research and Interdisiplinarity
+
+***Postponed due to public holiday in France***
 
 **Website**: https://events.cri-paris.org/e/649/cri-research-seminar-kirstie-whitaker-participatory-citizen-science-to-improve-autistic-peoples-lives
 
@@ -669,7 +670,7 @@ She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright sc
 Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
-**Slides**: Figshare link to slides (if applicable)
+**Slides**: https://doi.org/10.5281/zenodo.3543478
 
 
 ---
