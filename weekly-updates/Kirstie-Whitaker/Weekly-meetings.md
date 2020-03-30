@@ -125,70 +125,70 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 ### What did you achieve
 
-#### ABCD Registered Report
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
-
-#### Autistica citizen science
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
-
-#### BIDS
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
-
-#### Community engagement / service
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
-
-#### Ethics Advisory Group
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
-
-#### JupyterCon
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
-
-#### Open and inclusive writing
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
-
-#### tedana 🎉
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
-
-#### Tools, Practices & Systems
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
-
-#### Turing Training Steering Group
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
-
-#### Turing Way
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
-
-#### Whitaker lab
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
-
-#### Yini temperament paper
-
-- [ ] *lorem ipsum*
-- [ ] *lorem ipsum*
+> #### ABCD Registered Report
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
+>
+> #### Autistica citizen science
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
+>
+> #### BIDS
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
+>
+> #### Community engagement / service
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
+>
+> #### Ethics Advisory Group
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
+>
+> #### JupyterCon
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
+>
+> #### Open and inclusive writing
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
+>
+> #### tedana 🎉
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
+>
+> #### Tools, Practices & Systems
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
+>
+> #### Turing Training Steering Group
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
+>
+> #### Turing Way
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
+>
+> #### Whitaker lab
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
+>
+> #### Yini temperament paper
+>
+> - [ ] *lorem ipsum*
+> - [ ] *lorem ipsum*
 
 ### What did you struggle with?
 
