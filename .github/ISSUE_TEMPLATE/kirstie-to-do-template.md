@@ -29,37 +29,37 @@ assignees: KirstieJane
 
 ### What did you achieve
 
-#### ABCD Registered Report
+#### ABCD Registered Report 🧬
 
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
 
-#### Autistica citizen science
+#### Autistica citizen science 👫
 
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
 
-#### BIDS
+#### BIDS 🧠
 
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
 
-#### Community engagement / service
+#### Community engagement / service 💁🏼
 
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
 
-#### Ethics Advisory Group
+#### Ethics Advisory Group ⚖️
 
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
 
-#### JupyterCon
+#### JupyterCon 🌌
 
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
 
-#### Open and inclusive writing
+#### Open and inclusive writing 🌈
 
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
@@ -69,27 +69,27 @@ assignees: KirstieJane
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
 
-#### Tools, Practices & Systems
+#### Tools, Practices & Systems 🛠️
 
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
 
-#### Turing Training Steering Group
+#### Turing Training Steering Group 👩‍🏫
 
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
 
-#### Turing Way
+#### Turing Way 🛣️
 
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
 
-#### Whitaker lab
+#### Whitaker lab 👩‍🔬
 
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
 
-#### Yini temperament paper
+#### Yini temperament paper 😇
 
 - [ ] *lorem ipsum*
 - [ ] *lorem ipsum*
