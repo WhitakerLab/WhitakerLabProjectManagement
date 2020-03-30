@@ -22,6 +22,73 @@ Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings-2018
 
 ---
 
+### Date: 24 November 2019
+
+*Another big gap! DOH! This update covers 17 Oct to 14 Nov.*
+
+#### Who did you help this month?
+
+* I gave JS a good question to continue conversations when folks who know her but who she doesn't know come and chat after talks 😆
+* I had a call with a different JS about research engineering and careers in academia
+* Hosted Health programme seminar
+
+#### Who helped you this month?
+
+* KP & CL for supporting the Autistica citizen science application
+* Co-investigators for amazing work on the Autistica grant application
+* So many new contributors to the Turing Way at the collaboration cafe ☕️ on 20 Nov!
+  Made my day!
+* The MozFellows AS EXPECTED gave me new life.
+* The Simply Safe speed advising was incredible - exactly what I needed.
+* Great mentorship as usual from JH
+* CH for being EXCEPTIONAL for the EAG
+
+#### What did you achieve?
+
+**ABCD registered report**
+* Had a great chat with RM about AHBA analyses.
+* Did some work on the introduction (more to do 😬)
+
+**Autistica**
+* Submitted grant application for Autistica AI for early intervention call! 🚀✨👾
+* Sent GA's position paper out for collegiate review.
+  SO excited to share this.
+* Gave talk at Springer Nature & British Library citizen science event
+  * Best part of this was getting to know more about what AM is doing at Turing!
+
+**EAG**
+* Recruited CH to the EAG
+* Meeting with whole committee
+*
+
+**OHBM & BIDS**
+* Contributed an abstract to an educational seminar proposal for OHBM 2020.
+
+**Turing Way**
+* Designed and submitted a funding plan for a very cool 2 day _Turing Way_ onboarding curriculum for Sept 2020 👩‍🏫
+* Met with MN to discuss a curriculum on reproducibility for 2020
+* Hosted co-working at MozFest House (someone new came! WOOOO!)
+* Gave talk at NESTA hackathon
+
+**Community**
+* Had visitor to lab (KS) and recorded a podcast with her
+* Wrote quite a few blog posts for lab meetings
+* Met with prospective visiting student
+* Call on what research software engineering is for PhD student in US
+
+#### What did you struggle with?
+
+Blargh - ran out of time and left this PR for months
+
+#### What would you like to work on next week?
+
+Blargh - ran out of time and left this PR for months
+
+#### Where do you need help?
+
+Blargh - ran out of time and left this PR for months
+
+
 ### Date: 16 October 2019
 
 #### Who did you help this week?
