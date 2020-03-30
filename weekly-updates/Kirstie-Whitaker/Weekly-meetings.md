@@ -31,35 +31,35 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 ### What did you achieve
 
-> #### ABCD Registered Report
+> #### ABCD Registered Report 🧬
 >
 > No progress
 >
-> #### Autistica citizen science
+> #### Autistica citizen science 👫
 >
 > * Planned and ran wireframing workshop
 > * Tried to arrange meetings -- https://github.> com/alan-turing-institute/> AutisticaCitizenScience/pull/123
 >
-> #### BIDS
+> #### BIDS 🧠
 >
 > * Steering group call
 > * BEP001 co-working
 >
-> #### Community engagement / service
+> #### Community engagement / service 💁🏼
 >
 > * Give talk for OpenLifeSci
 > * Call w CH re Turing Health project
 >
-> #### Ethics Advisory Group
+> #### Ethics Advisory Group ⚖️
 >
 > * Call w potential RA
 > * Call re: project needing to fill in the form
 >
-> #### JupyterCon
+> #### JupyterCon 🌌
 >
 > - Attended call
 >
-> #### Open and inclusive writing
+> #### Open and inclusive writing 🌈
 >
 > * Wrote bio and created template for others
 > * Coordinated all author call
@@ -68,17 +68,17 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 >
 > No progress
 >
-> #### Tools, Practices and Systems
+> #### Tools, Practices and Systems 🛠️
 >
 > * Call planning ESRC grant
 > * Submitted letter of interest for ESRC grant > - https://github.com/alan-turing-institute/> tps-project-management/blob/master/> funding-applications/2020/> esrc-methods-grants-2020/intention-to-submit.md
 > * Chat with RP re mentoring his grant
 >
-> #### Turing Training Steering Group
+> #### Turing Training Steering Group 👩‍🏫
 >
 > * Planned selection algorithm w Amy
 >
-> #### Turing Way
+> #### Turing Way 🛣️
 >
 > * Whole day working w Malvika - got PR open with re-structure: https://github.com/alan-turing-institute/the-turing-way/pull/977 🚀 🌟
 > * Call w DSSG team
@@ -86,13 +86,13 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 > * Bit of a rant email to SD
 > * Call w MM re link to health programme
 >
-> #### Whitaker lab
+> #### Whitaker lab 👩‍🔬
 >
 > * Appraisal forms MS & GA
 > * Probation forms MS & GA
 > * Lab meeting & regular coffees
 >
-> #### Yini temperament paper
+> #### Yini temperament paper 😇
 >
 > No progress
 
