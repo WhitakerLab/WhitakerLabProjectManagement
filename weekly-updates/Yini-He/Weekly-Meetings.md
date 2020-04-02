@@ -25,29 +25,45 @@
 
 * help my previous landlord buy masks 
 
+KW: That definitely counts as helpful!
+
 #### Who helped you this week?	
 
 * Stay alone
 
+KW: :laughing: True, fair enough!
+
 #### What did you achieve?
 
 * moved to a new home
+  * KW: Congratulations! I'm sure that was pretty wildly stressful!
 * Analyze HCP data and summarize neuroticism results
+  * KW: This looks great! Keep going.
+    * We talked about making sure that the specific factor correlations aren't "contaminated" by the general factor, so running a multiple regression to covary the general factor rather than just pairwise correlations with the specific factor.
+    * We also talked about covarying for age, gender and scanner location/ID in the brain correlations
+    * Please move these correlations into a jupyter notebook so they are programatically run rather than done using a graphic user interface.
+    * The bifactor model can stay in MPlus - that analysis is much harder to do in Python :sweat_smile:
 * Analyze MD using hostility data
+  * KW: We ran out of time for this - can you show me next time we meet?
 
 #### What did you struggle with?
 
-* know more knowdledge about structural equation model and Mplus
-* When I moved to the new house, I cann't access the server in China. I'm tryting to fix it.
+* know more knowledge about structural equation model and Mplus
+* When I moved to the new house, I cann't access the server in China. I'm trying to fix it.
+  * KW: Booooo - Good luck fixing that connection!
  
 #### What would you like to work on next week?
 
 * modify harm avoidance paper 
 * try to have deep understanding of my neuroticism result
 * making a version of the figure that doesn't have the skeleton and make a table to list MD for hostility data
+  * KW: This sounds great - please ask the lab for feedback when you've made one!
 
 #### Where do you need help from Kirstie?
+
 * help me to modify my harm avoidance paper
+  * KW: Blargh - I'm so sorry that I'm super busy at the moment. I'll try to have a look when I can :sob:
+
 __________________
 
 ### Date: 17 March 2020
