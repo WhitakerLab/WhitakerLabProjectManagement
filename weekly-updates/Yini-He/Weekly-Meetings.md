@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-* [17 March 2020](#date-18-March-2020)
+* [02 April 2020](#date-02-April-2020)
 * [18 February 2020](#date-18-February-2020)
 * [13 February 2020](#date-13-February-2020)
 * [04 February 2020](#date-04-February-2020)
@@ -19,12 +19,45 @@
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
 
-### Date: 17 February 2020
+### Date: 2 April 2020
+
+#### Who did you help this week?
+
+* help my previous landlord buy masks 
+
+#### Who helped you this week?	
+
+* Stay alone
+
+#### What did you achieve?
+
+* moved to a new home
+* Analyze HCP data and summarize neuroticism results
+* Analyze MD using hostility data
+
+#### What did you struggle with?
+
+* know more knowdledge about structural equation model and Mplus
+* When I moved to the new house, I cann't access the server in China. I'm tryting to fix it.
+ 
+#### What would you like to work on next week?
+
+* modify harm avoidance paper 
+* try to have deep understanding of my neuroticism result
+* making a version of the figure that doesn't have the skeleton and make a table to list MD for hostility data
+
+#### Where do you need help from Kirstie?
+* help me to modify my harm avoidance paper
+__________________
+
+### Date: 17 March 2020
 
 #### Who did you help this week?
 
 * helped AL to design his candidate cover figure for NM
+  * KW: Fingers crossed it gets chosen!!
 * helped JM and XHW to cope with the anxiety and depression caused by the COVID19 
+  * KW: I'm so glad you can help folks out when they're so far from home :hibiscus:
 
 #### Who helped you this week?	
 
@@ -35,6 +68,7 @@
 #### What did you achieve?
 
 * completed a job application
+  * KW: Fingers crossed!!
 * modifying previous harm avoidance paper 
 * a preliminary new result using HCP data
 * updating the translation online（unfinished）
@@ -53,6 +87,7 @@
 #### Where do you need help from Kirstie?
 
 * give suggestions for my harm avoidance paper
+  * KW: It's looking great - can you try making a version of the figure that doesn't have the skeleton and send me a paper to read abou temperment? I'll have a play around with the data and see what visualisations we can make to show the different measures correlating with each other :smile:
 
 __________________
 
