@@ -1,10 +1,51 @@
 # Malvika's weekly meeting notes.
 
+* [06 April 2020](#date-06-April-2020)
 * [17 March 2020](#date-17-March-2020)
 * [29 February 2020](#date-29-February-2020)
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 06 April 2020
+
+#### Who did you help this week?
+
+- DSSG team in sharing resources on online communities and events
+- GA and KW on sharing some tips on Zoom event online for their project wireframing
+- CW20 event team in helping with some sessions at CW20
+- Co-working with eScience members and getting their contents in the Turing Way
+- A talk at the eLife innovation leaders on Mountain of engagement
+
+#### Who helped you this week?
+
+- KW with the CW20 talk 
+- SG, PH, YY with gathering interests in Turing Way and developing content at CW20
+- KW in probation/appraisal
+- SG in creating cross stitch carpentry
+
+#### What did you achieve?
+
+- Co-working with Kirstie and restructuring The Turing Way book
+- A perspective talk on a culture of collaboration at CW20
+- A collaboration cafe with more Turing members in gathering content on remote collaboration
+- Content development and visibility at CW20
+- Chapters on Remote collaboration
+- Meeting with KD on aligning our roles at TPS and Turing Way
+
+#### What did you struggle with?
+
+- Time management while working from home
+- Getting project management related work done for The Turing Way
+
+#### What would you like to work on next week?
+
+- Work on project management related tasks
+
+#### Where do you need help from Kirstie?
+
+- Getting some of the PRs on Turing Way approved (will ping on GitHub)
+- Discussion on the probation/appraisal document
 
 ### Date: 17 March 2020
 
