@@ -21,32 +21,46 @@ Georgia's weekly meeting notes.
 #### Who did you help this week?
 
 * Helped ED, CL, and ED with GitHub
+  * KW: So fun!
 
 #### Who helped you this week?
 
 * OS helped me with newsletter
+  * KW: Awesome :sparkling_heart:
 
 #### What did you achieve?
 
-* Oraganised and presented at workshop on wireframing
+* Organised and presented at workshop on wireframing
+  * KW: Report can come as a pull request
 * Organised GitHub repo with ED
 * Co-wrote blog for Autism Awareness Day
+  * https://www.turing.ac.uk/blog/world-autism-awareness-day-celebration-and-citizen-science
+  * KW: don't forget to add this to the newsletter!
 
 #### What did you struggle with?
 
 * Process stuff 
+  * KW: As discussed in the meeting - please send me high risk pull requests and issues.
+    I'm not able to stay on top of all the conversations on GitHub so please send me links one at a time - prioritising ones that are related to process and ways of working, or interactions with the community.
+    I totally get that this is a massive pain in the butt - but it's going to be the most effective way of keeping the project going without putting it on pause.
 
 #### What would you like to work on next week?
 
 * Prepping lab stuff with MS
 * Applying for CogX
+  * New deadline 22 April - Phew!
 * Continuing to work through repo
 
 #### Where do you need help from Kirstie?
 
 * Reviewing/approving pull requests
-* Thinking through processes 
+* Thinking through processes
+* Position paper -- GA to send the most up to date version :sparkles:
 
+KW: The reviewing is just going to have to be slower - which sucks but is also entirely driven by a global pandemic so anyone suggesting that you (we) maintain the same levels of productivity is completely wrong.
+Very happy to think through processes - try to brainstorm them with folks before you get them to me so the questions are as targetted as possible - but please don't avoid sending me things - I'm on slack all day long and very reachable - I just need qs to come in bite-ish sized chunks :sparkles:
+
+You're doing an amazing job - thank you so so much!
 
 ### Date: 19 March 2020
 
