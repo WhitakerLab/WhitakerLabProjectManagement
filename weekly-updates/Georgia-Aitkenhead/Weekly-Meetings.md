@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [8 April 2020](#date-08-april-2020)
 * [19 March 2020](#date-19-march-2020)
 * [28 January 2020](#date-28-january-2020)
 * [10 December 2019](#date-10-december-2019)
@@ -14,6 +15,38 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 08 April 2020
+
+#### Who did you help this week?
+
+* Helped ED, CL, and ED with GitHub
+
+#### Who helped you this week?
+
+* OS helped me with newsletter
+
+#### What did you achieve?
+
+* Oraganised and presented at workshop on wireframing
+* Organised GitHub repo with ED
+* Co-wrote blog for Autism Awareness Day
+
+#### What did you struggle with?
+
+* Process stuff 
+
+#### What would you like to work on next week?
+
+* Prepping lab stuff with MS
+* Applying for CogX
+* Continuing to work through repo
+
+#### Where do you need help from Kirstie?
+
+* Reviewing/approving pull requests
+* Thinking through processes 
+
 
 ### Date: 19 March 2020
 
