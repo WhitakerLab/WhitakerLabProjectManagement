@@ -7,6 +7,8 @@
 
 ## Talk Title
 
+Sharing Reproducible Analyses via the Cloud with Binder
+
 ## Talk Description
 
 _Please give a brief description of your talk (max 500 words)._
