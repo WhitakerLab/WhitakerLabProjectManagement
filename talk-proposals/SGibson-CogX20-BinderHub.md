@@ -7,7 +7,7 @@
 
 ## Talk Title
 
-Sharing Reproducible Analyses via the Cloud with Binder
+Sharing Reproducible Analyses with Binder
 
 ## Talk Description
 
@@ -82,6 +82,19 @@ _Please select which methodological problem areas apply to your research and tal
 
 _Please explain the relevance of your talk to the CogX audience, and the global impact of your research._
 _500 words max._
+
+In order to "get the next 10 years right", the research community needs to undergo a cultural and practical shift in how we share and communicate scientific progress, towards embracing openness and collaboration more than ever before.
+One part of this shift is embedding reproducibility into our scientific workflows.
+If code and data are not available for interrogation and results can't be reproduced, it becomes much more difficult to build on top of them and advance the domain.
+
+Binder has provided a technological pathway to lowering the barrier to producing and sharing reproducible research, making it accessible to a broad range of analysts on a global scale.
+
+During the Covid-19 pandemic, mybinder.org has seen a significant increase in usage correlating with the beginning of lockdown and many researchers began working and collaborating remotely.
+It is quickly becoming the "go to" tool for sharing results and facilitating remote teaching in this new landscape of research culture.
+
+| ![mybinder.org Usage Statistics](https://www.dropbox.com/s/lnemjlsov0mkog5/image.png?raw=1) |
+| :---: |
+| mybinder.org usage statistics showing an increase in running sessions correlating with the beginning of lockdowns in Europe. |
 
 ## Additional Information
 
