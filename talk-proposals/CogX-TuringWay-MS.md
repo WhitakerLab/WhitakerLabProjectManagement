@@ -6,7 +6,7 @@
 
 ## Talk Title
 
-Building communities on a culture of collaboration
+Building a culture of collaboration in The Turing Way
 
 ## Talk Description
 
