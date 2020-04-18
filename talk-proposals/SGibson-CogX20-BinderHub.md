@@ -20,13 +20,13 @@ _The evaluation criteria of proposals will be:_
 
 _Please select all descriptors that best apply to your talk._
 
-- [ ] Technical/specialist
-- [ ] Big picture
-- [ ] Detailed
+- [ ] Technical / specialist
+- [x] Big picture
+- [x] Detailed
 - [ ] Humorous
 - [ ] Serious
 - [ ] Retrospective
-- [ ] Prospective
+- [x] Prospective
 - [ ] General / accessible
 
 ## Domain Application
@@ -35,9 +35,9 @@ _Please select up to two domains that best apply to your research and talk propo
 
 - [ ] Natural world
 - [ ] Security
-- [ ] Engineering
+- [x] Engineering
 - [ ] Health
-- [ ] Society & Culture
+- [x] Society & Culture
 - [ ] Economics
 
 ## Methodological Application
@@ -47,9 +47,9 @@ _Please select which methodological problem areas apply to your research and tal
 - [ ] Finding ways to automate the lengthy process spent preparing data for analysis
 - [ ] Preventing misuse of data-driven technologies and artificial intelligence
 - [ ] Using and analysing data in order to confidently infer causal relationships
-- [ ] Empowering citizens to access, understand and explot the world's data
+- [x] Empowering citizens to access, understand and exploit the world's data
 - [ ] Improving the ways in which we collect and analyse data
-- [ ] Effectively and efficiently convey information to varying audiences
+- [x] Effectively and efficiently convey information to varying audiences
 - [ ] Merging multiple sources of data
 - [ ] Using data while protecting privacy
 - [ ] Merging human knowledge with data-driven machine learning and AI systems
