@@ -25,7 +25,7 @@ This is a very empowering time for individuals who want to participate in and le
 It is, unfortunately, also a time when more people will face barriers to open research communities such as isolation, and exclusion, if not done correctly. 
 
 In this talk, I discuss the importance of designing our communities to be welcoming and accessible.
-I also shed light on how community’s culture, when not intentionally developed by the community organizers and leaders, can create massive barriers in Open Research. 
+I also shed light on how the community’s culture, when not intentionally developed by the community organizers and leaders, can create massive barriers in Open Research. 
 Such communities become inaccessible to new and often diverse members. 
 I introduce The Turing Way as an example of a community-led project that is built upon a culture of collaboration and designed to be open and inclusive. 
 The Turing Way is an open source book project that involves and supports a diverse research community in ensuring that reproducible and ethical data science is “too easy not to do”.
