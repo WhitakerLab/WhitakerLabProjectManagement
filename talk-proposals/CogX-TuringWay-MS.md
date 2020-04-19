@@ -28,12 +28,15 @@ In this talk, I discuss the importance of designing our communities to be welcom
 I also shed light on how the community’s culture, when not intentionally developed by the community organizers and leaders, can create massive barriers in Open Research. 
 Such communities become inaccessible to new and often diverse members. 
 I introduce The Turing Way as an example of a community-led project that is built upon a culture of collaboration and designed to be open and inclusive. 
+
 The Turing Way is an open source book project that involves and supports a diverse research community in ensuring that reproducible and ethical data science is “too easy not to do”.
 One of the main aims of this project is to lower the barrier for participation in an Open Research project by defining community’s participation guidelines and creating various pathways for contribution. 
 The Turing Way is openly developed and all contributions, questions, comments, and recommendations are facilitated via our GitHub repository: https://github.com/alan-turing-institute/the-turing-way.
+
 In the last year about 80 researchers contributed to the book by co-authoring chapters that has helped a wider researchers community learn and promote reproducible research.
 As the project has grown from a small team of 10 researchers to a larger community of 120 collaborators, the scope of The Turing Way book has also expanded to include different aspects of reproducibility, project design, collaboration, communication, and ethics. 
 In the last 2 months, about 40 new researchers have contributed to the book by developing new chapters specifically to help others implement best practices for working from home and collaborating remotely (with virtual teams and events) during the COVID-19 pandemic.
+
 We continue to support our members by facilitating their interaction with the project and our community via online co-working spaces and mentored contributions.
 We further invite CogX participants to make use of The Turing Way chapters and participate in its community by contributing and enhancing its resources and culture with their perspectives.
 
