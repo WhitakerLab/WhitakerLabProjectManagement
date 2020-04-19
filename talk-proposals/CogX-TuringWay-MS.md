@@ -30,10 +30,10 @@ Such communities become inaccessible to new and often diverse members.
 I introduce The Turing Way as an example of a community-led project that is built upon a culture of collaboration and designed to be open and inclusive. 
 
 The Turing Way is an open source book project that involves and supports a diverse research community in ensuring that reproducible and ethical data science is “too easy not to do”.
-One of the main aims of this project is to lower the barrier for participation in an Open Research project by defining community’s participation guidelines and creating various pathways for contribution. 
+One of the main aims of this project is to lower the barrier for participation in this Open Research project by defining community’s participation guidelines and creating various pathways for contribution. 
 The Turing Way is openly developed and all contributions, questions, comments, and recommendations are facilitated via our GitHub repository: https://github.com/alan-turing-institute/the-turing-way.
 
-In the last year about 80 researchers contributed to the book by co-authoring chapters that has helped a wider researchers community learn and promote reproducible research.
+In the last year, about 80 researchers contributed to the book by co-authoring chapters that has helped a wider researchers community learn and promote reproducible research.
 As the project has grown from a small team of 10 researchers to a larger community of 120 collaborators, the scope of The Turing Way book has also expanded to include different aspects of reproducibility, project design, collaboration, communication, and ethics. 
 In the last 2 months, about 40 new researchers have contributed to the book by developing new chapters specifically to help others implement best practices for working from home and collaborating remotely (with virtual teams and events) during the COVID-19 pandemic.
 
@@ -87,6 +87,11 @@ _Please explain the relevance of your talk to the CogX audience, and the global 
 _500 words max._
 
 <TBA>
+- reproducibility and AI
+- need to educate people how to build community collaboratively
+- available for reuse by the attendees  
+- people's expertise invited
+- project needs more perspectives  
 
 ## Additional Information
 
