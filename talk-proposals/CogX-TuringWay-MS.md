@@ -20,12 +20,12 @@ _The evaluation criteria of proposals will be:_
 Online behaviour over the last months during the COVID-19 pandemic has shifted significantly. 
 With buzzwords like “flatten the curve” and trending hashtags on Twitter like “#StayHomeSaveLives”, we have become more inclined to stay informed about what exactly is going on in our communities. 
 In March this year, already 100s of online projects have been launched to promote the development of software and technologies that can take on challenges related to coronavirus pandemic. 
-There has never been a better time for individuals from different fields to come together and design cross cutting applications for a common social cause.
+There has never been a better time for individuals from different fields to come together and design cross-cutting applications for a common social cause.
 This is particularly an empowering time for individuals who want to lead and involve others in data-driven projects that identify innovative applications of artificial intelligence and machine learning.
 In the face of this global crisis, digital technologies and data-driven approaches have played vital roles in creating opportunities for us to take meaningful actions as leaders, researchers, innvovators and community members.
 
 In this talk, I will focus on the importance of documenting best practices and recommendations from researchers and community leaders as they test and identify them in their respective fields.
-Such knowledgebases, when collaboratively developed by various stakeholders, can have a wider impact on our peers and future generations of researchers in making best decisions in their data research.
+Such knowledgebases, when collaboratively developed by various stakeholders, can have a wider impact on our peers and future generations of researchers in making best decisions in science and society.
 I introduce The Turing Way as an example of a community-led project that is built upon a culture of collaboration and designed to be open, accessible and inclusive to its members from diverse background and expertise. 
 
 The Turing Way is a community-driven book project that involves and supports a diverse research community in ensuring that reproducible and ethical data science is “too easy not to do”.
