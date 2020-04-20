@@ -19,7 +19,7 @@ _The evaluation criteria of proposals will be:_
 
 Online behaviour over the last months during the COVID-19 pandemic has shifted significantly. 
 With buzzwords like “flatten the curve” and trending hashtags on Twitter like “#StayHomeSaveLives”, we have become more inclined to stay informed about what exactly is going on in our communities. 
-Between end of February and March this year, already 100s of online projects have been launched to promote the development of software and technologies that can take on challenges related to coronavirus pandemic. 
+In March this year, already 100s of online projects have been launched to promote the development of software and technologies that can take on challenges related to coronavirus pandemic. 
 There has never been a better time for individuals from different fields to come together and design cross cutting applications for a common social cause.
 This is particularly an empowering time for individuals who want to lead and involve others in data-driven projects that identify innovative applications of artificial intelligence and machine learning.
 In the face of this global crisis, digital technologies and data-driven approaches have played vital roles in creating opportunities for us to take meaningful actions as leaders, researchers, innvovators and community members.
