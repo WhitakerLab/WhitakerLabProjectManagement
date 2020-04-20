@@ -19,26 +19,25 @@ _The evaluation criteria of proposals will be:_
 
 Online behaviour over the last months during the COVID-19 pandemic has shifted significantly. 
 With buzzwords like “flatten the curve” and trending hashtags on Twitter like “#StayHomeSaveLives”, we have become more inclined to stay informed about what exactly is going on in our communities. 
-In the last month alone (in March 2020), 100s of online hackathon events have been launched to promote the development of software that can take on challenges related to coronavirus pandemic. 
-There has been no better time for online platforms and communities to thrive and test innovative ideas for a common social cause. 
-This is a very empowering time for individuals who want to participate in and lead data-driven projects, and a particularly favourable time for Open Research communities to grow. 
-It is, unfortunately, also a time when more people will face barriers to open research communities such as isolation, and exclusion, if not done correctly. 
+Between end of February and March this year, already 100s of online projects have been launched to promote the development of software and technologies that can take on challenges related to coronavirus pandemic. 
+There has never been a better time for individuals from different fields to come together and design cross cutting applications for a common social cause.
+This is particularly an empowering time for individuals who want to lead and involve others in data-driven projects that identify innovative applications of artificial intelligence and machine learning.
+In the face of this global crisis, digital technologies and data-driven approaches have played vital roles in creating opportunities for us to take meaningful actions as leaders, researchers, innvovators and community members.
 
-In this talk, I discuss the importance of designing our communities to be welcoming and accessible.
-I also shed light on how the community’s culture, when not intentionally developed by the community organizers and leaders, can create massive barriers in Open Research. 
-Such communities become inaccessible to new and often diverse members. 
-I introduce The Turing Way as an example of a community-led project that is built upon a culture of collaboration and designed to be open and inclusive. 
+In this talk, I will focus on the importance of documenting best practices and recommendations from researchers and community leaders as they test and identify them in their respective fields.
+Such knowledgebases, when collaboratively developed by various stakeholders, can have a wider impact on our peers and future generations of researchers in making best decisions in their data research.
+I introduce The Turing Way as an example of a community-led project that is built upon a culture of collaboration and designed to be open, accessible and inclusive to its members from diverse background and expertise. 
 
-The Turing Way is an open source book project that involves and supports a diverse research community in ensuring that reproducible and ethical data science is “too easy not to do”.
-One of the main aims of this project is to lower the barrier for participation in this Open Research project by defining community’s participation guidelines and creating various pathways for contribution. 
+The Turing Way is a community-driven book project that involves and supports a diverse research community in ensuring that reproducible and ethical data science is “too easy not to do”.
 The Turing Way is openly developed and all contributions, questions, comments, and recommendations are facilitated via our GitHub repository: https://github.com/alan-turing-institute/the-turing-way.
-
-In the last year, about 80 researchers contributed to the book by co-authoring chapters that has helped a wider researchers community learn and promote reproducible research.
+In the last year, about 80 researchers contributed to the book by co-authoring chapters that has helped a wider researchers community learn and promote reproducible methods in data science and artificial intelligence.
 As the project has grown from a small team of 10 researchers to a larger community of 120 collaborators, the scope of The Turing Way book has also expanded to include different aspects of reproducibility, project design, collaboration, communication, and ethics. 
-In the last 2 months, about 40 new researchers have contributed to the book by developing new chapters specifically to help others implement best practices for working from home and collaborating remotely (with virtual teams and events) during the COVID-19 pandemic.
 
+```Adapt
+In the last 2 months, about 40 new researchers have contributed to the book by developing new chapters specifically to help others implement best practices for working from home and collaborating remotely (with virtual teams and events) during the COVID-19 pandemic.
 We continue to support our members by facilitating their interaction with the project and our community via online co-working spaces and mentored contributions.
 We further invite CogX participants to make use of The Turing Way chapters and participate in its community by contributing and enhancing its resources and culture with their perspectives.
+```
 
 ## Descriptors
 
