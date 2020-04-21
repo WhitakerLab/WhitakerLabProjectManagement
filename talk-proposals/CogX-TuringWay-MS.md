@@ -33,7 +33,7 @@ Using this project as a model, I will discuss the importance of documenting and 
 Built upon a culture of collaboration, The Turing Way is designed to be welcoming, inclusive and accessible to its members from diverse backgrounds and expertise. 
 It is an open source project, that facilitates all contributions, questions, comments, and discussions via an online repository: https://github.com/alan-turing-institute/the-turing-way.
 Since last year, ~125 researchers have contributed to this project. 
-They have co-authored chapters and developed resources that has been used by the scientific community worldwide in learning and promoting reproducible methods in AI and computational research.
+They have co-authored chapters and developed resources that have been used by the scientific communities worldwide in learning and promoting reproducible methods in AI and computational research.
 The project has grown from a small team of 10 researchers to a large community of 125 collaborators.
 The scope of The Turing Way book has also expanded to include the different aspects of reproducibility, project design, collaboration, communication, and ethics in data research. 
 
