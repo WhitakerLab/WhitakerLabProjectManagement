@@ -31,11 +31,13 @@ Scientists work with multiple tools, pipelines and collaborators to produce resu
 Project Binder integrates Notebooks and Docker for generating reproducible computational analyses and combines them with a web-based interface and cloud orchestration engines.
 This means that analysts do not have to worry about all the moving parts so long as they have followed basic software best practices: their code is version controlled and they've captured the dependencies the analysis needs to run.
 Binder then hosts the compute in the cloud and makes it easily shareable by providing a unique URL to the code repository, without imposing additional overheads on the analyst.
-Binder, as a platform provides, easy access to the research for stakeholders.
+Binder, as a platform, provides easy access to the research for stakeholders.
 
 mybinder.org is both a public service and a proof of concept of Project Binder's technologies.
 This site serves over 140,000 sessions per week and combines resources from four entities in the US and Europe, including The Alan Turing Institute.
 We support a range of programming languages and analysts from a range of research domains, and even facilitate a number of remote workshops and tutorials.
+The flexibility of mybinder.org in allowing users to configure their environments provides scope to support a broad range of domains.
+See the Natural Language Processing course powered by mybinder.org (https://spacy.io/) and a Machine Learning course for explainable AI (https://github.com/GitiHubi/courseML).
 
 During the Covid-19 pandemic, mybinder.org has seen a significant increase in usage correlating with the beginning of lockdown and many researchers began working and collaborating remotely.
 It is quickly becoming the "go to" tool for sharing results and facilitating remote teaching in this new landscape of research culture.
