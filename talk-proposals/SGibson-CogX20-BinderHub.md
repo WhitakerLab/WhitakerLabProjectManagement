@@ -43,7 +43,7 @@ During the Covid-19 pandemic, mybinder.org has seen a significant increase in us
 It is quickly becoming the "go to" tool for sharing results and facilitating remote teaching in this new landscape of research culture.
 
 Dr Sarah Gibson is a member of the mybinder.org operating team and is personally responsible for maintaining the Binder infrastructure deployed at the Turing.
-During this talk, She will introduce Binder (the service), BinderHub (the technological infrastructure) and mybinder.org (a public instance of a Binder service, free for anyone to use) and demonstrate how it can be utilised to share reproducible computational environments and analyses.
+During this talk, she will introduce Binder (the service), BinderHub (the technological infrastructure) and mybinder.org (a public instance of a Binder service, free for anyone to use) and demonstrate how it can be utilised to share reproducible computational environments and analyses.
 
 ## Descriptors
 
