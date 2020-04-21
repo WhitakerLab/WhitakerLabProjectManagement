@@ -1,5 +1,7 @@
 # Weekly Meetings
 
+
+* [02 April 2020](#date-02-April-2020)
 * [17 March 2020](#date-17-march-2020)
 * [18 February 2020](#date-18-February-2020)
 * [13 February 2020](#date-13-February-2020)
@@ -18,6 +20,51 @@
 * [07 July 2019](#date-07-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+
+### Date: 2 April 2020
+
+#### Who did you help this week?
+
+* help my previous landlord buy masks 
+
+KW: That definitely counts as helpful!
+
+#### Who helped you this week?	
+
+* Stay alone
+
+KW: :laughing: True, fair enough!
+
+#### What did you achieve?
+
+* moved to a new home
+  * KW: Congratulations! I'm sure that was pretty wildly stressful!
+* Analyze HCP data and summarize neuroticism results
+  * KW: This looks great! Keep going.
+* Analyze MD using hostility data
+  * KW: We ran out of time for this - can you show me next time we meet?
+
+#### What did you struggle with?
+
+* know more knowledge about structural equation model and Mplus
+* When I moved to the new house, I cann't access the server in China. I'm trying to fix it.
+  * KW: Booooo - Good luck fixing that connection!
+ 
+#### What would you like to work on next week?
+
+* modify harm avoidance paper 
+* try to have deep understanding of my neuroticism result
+* making a version of the figure that doesn't have the skeleton and make a table to list MD for hostility data
+  * KW: This sounds great - please ask the lab for feedback when you've made one!
+
+#### Where do you need help from Kirstie?
+
+* help me to modify my harm avoidance paper
+  * KW: Blargh - I'm so sorry that I'm super busy at the moment. I'll try to have a look when I can :sob:
+
+__________________
+
 
 ### Date: 17 March 2020
 
