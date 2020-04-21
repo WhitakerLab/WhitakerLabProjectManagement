@@ -2,12 +2,290 @@
 
 Georgia's weekly meeting notes.
 
+* [19 March 2020](#date-19-march-2020)
+* [28 January 2020](#date-28-january-2020)
+* [10 December 2019](#date-10-december-2019)
+* [14 November 2019](#date-14-november-2019)
+* [09 October 2019](#date-09-october-2019)
+* [25 September 2019](#date-25-september-2019)
 * [21 August 2019](#date-21-august-2019)
 * [13 August 2019](#date-13-august-2019)
 * [24 July 2019](#date-24-july-2019)
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 19 March 2020
+
+#### Who did you help this week?
+
+* Introduced ZL to the project and GitHub repo
+  * KW: Very freaking cool!!
+* Linked up ED and LP together and put them in touch with Autistica
+  * KW: Delighted to have them working together :rocket:
+
+#### Who helped you this week?
+
+* RP and MAC gave me insights into natural language processing for the project
+  * KW: This is great - see the link below for capturing your notes from this meeting
+* JS gave me extremely useful feedback on my paper
+  * KW: I'll send him a thank you email - I'm so delighted that he was part of the team :sparkling_heart:
+* CL began work on wireframes
+  * Kw: Great!
+* TA agreed to be involved in user testing and priority setting
+  * KW: FUN! Very cool.
+
+#### What did you achieve?
+
+* Had first backlog refinement and sprint planning sessions with the Fujitsu team
+  * KW: So exciting! And sprint one finishing this week - looking forward to the meetings next week :sparkles:
+* Collaborated with EH on GDPR compliance
+  * KW: AWESOME - so so cool! See the link below about capturing lessons in the GitHub repo
+* Adapted position paper redraft based on JS comments
+  * KW: GREAT JOB - excited to read it :raised_hands:
+* (Virtually) met new potential collaborator and introduced them to GitHub repo
+  * KW: :heart_eyes:
+
+#### What did you struggle with?
+
+* Encouraging open working
+  * KW: This is a really tough aspect of the project - I'm so sorry that I've been gone for so long.
+* Participatory backlog prioritisation
+  * KW: I feel you on this - feels like the next big piece of process documentation to write
+
+#### What would you like to work on next week?
+
+* Prepare for wireframing workshop (online!)
+  * KW: Today! Lets do it
+* Preparing for next sprint
+  * KW: :muscle:
+* Planning for WAAD (2nd April)
+  * KW: Fab - lets plan this! (Needs an issue :wink:)
+
+KW: Added a few points from meeting:
+
+* Start to capture notes from in person meetings at: https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/community-recommendations
+* Spend a bit of time updating the collaborators list: https://github.com/alan-turing-institute/AutisticaCitizenScience
+
+#### Where do you need help from Kirstie?
+
+* Designing methods of online participation - e.g. for upcoming workshop
+* Reviewing position paper redraft
+* Integrating agile sprint cycle
+
+KW: Georgia - you've done such a wonderful job. Thank you so so much :sunflower: :hibiscus:
+
+### Date: 28 January 2020
+
+#### Who did you help this week?
+
+* Helped KW by writing updates for Health Programme 
+  * KW: YEAAAAAASSSS - thank you
+* Introduced JS to GitHub
+  * KW: Awesome! Absolutely fantastic :sparkling_heart:
+
+#### Who helped you this week?
+
+* JS helped by providing feedback on how to make guidelines for CSP clearer
+* TA helped by volunteering to take part in backlog session 
+
+KW: We have such a lovely community :heart_eyes: Wonderful.
+
+#### What did you achieve?
+
+* Created suggested workflow for agile/open source collaboration
+  * KW: Really valuable
+* Introduced new team members to project
+* Wrote guidelines for summaries [PR #79](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/79)
+  * KW: These are looking so great - well done!
+* Created user stories from Google Docs/summaries 
+
+#### What did you struggle with?
+
+* Establishing workflow process
+  * KW: It's a wicked problem: https://www.wickedproblems.com/1_wicked_problems.php
+
+#### What would you like to work on next week?
+
+* Presentation for Data Science for Mental Health special interest group
+  * KW: Excited about this! https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/80
+* Send out position paper redraft
+  * KW: That would be great!
+* Send out summaries to focus group participants
+* Co-working sessions with Fujitsu team 
+  * KW: Fun!! This is really great.
+
+#### Where do you need help from Kirstie?
+
+* Review guidelines/summary [PR #79](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/79)
+  * KW: Added some comments!
+* Review and refine workflow process 
+* Added by KW: review and submit the health programme report
+* Added by KW: send the newsletter!!!! :sob:
+
+This is great work Georgia! Well done :tada:
+
+### Date: 10 December 2019
+
+#### Who did you help this week?
+
+* Arranged tech session to go through backlog with Fujitsu
+
+#### Who helped you this week?
+
+* KW invited me to Goodenough dinner :) - very interesting conversations! 
+* TA shared info from BBC disability event
+* OS gave feedback and agreed to be interviewed for December newsletter
+  * KW: This is SO COOL
+
+#### What did you achieve?
+
+* Complete collated analyses of focus groups and transcriptions + added OS labels
+  * KW: :rocket::rocket::rocket: AMAAAAAAAZING!
+
+#### What did you struggle with?
+
+* Some complexities in categorisation of analyses
+
+#### What would you like to work on next week?
+
+* Get transcript summaries sent to focus group participants
+* Send out December newsletter
+* Publish entries to google forms on GitHub
+* Build agenda for Fujitsu/Turing meeting
+* Revise position paper (maybe after Christmas)
+
+KW: This is a lot!
+If we can do it in the next week, that's great, but everything will be just as fabulous in January so don't get too overwhelmed :sparkling_heart:
+
+#### Where do you need help from Kirstie?
+
+* Review before sending out the transcripts
+  * KW: Booked for tomorrow!
+* Next stages of planning - for end of December onwards
+
+
+### Date: 14 November 2019
+
+#### Who did you help this week?
+
+* Connected YH and AL to "Brains" groups
+* Helped organise tech session 
+
+#### Who helped you this week?
+
+* LB suggested useful NLP reading group to make contacts
+* KW gave me feedback on presentation for SN talk
+* KW got me ODI conference tickets
+
+#### What did you achieve?
+
+* Gave lightening talk on CSP: https://doi.org/10.5281/zenodo.3527695
+  * KW: Really great job!
+* Ran lab group 
+  * KW: Thank you!
+* More transcription analysis! 
+  * KW: GO GO GO!
+
+#### What did you struggle with?
+
+* Nerves!
+  * KW: Ha - that makes sense - but great job on giving the talk a go!ze
+
+#### Where do you need help from Kirstie?
+
+* Preparing for tech session
+  * KW: Fun meeting!
+
+#### Any other topics
+
+* CSP road map - next priority? 
+  * KW: Yes - I think so :muscle:
+
+### Date: 09 October 2019
+
+#### Who did you help this week?
+
+* Helped KM by putting doc from markdown into pdf format
+  * KW: FAB :rocket: Glad we also fixed (in the meeting) the root cause!
+
+#### Who helped you this week?
+
+* SM gave me super prompt and helpful comments on my position paper - thanks!
+  * KW: THANK YOU SM! 
+
+#### What did you achieve?
+
+* Ran third focus group at Fujitsu and gave presentation
+* Ran diversity and inclusion stall at BL
+* Sent referenced/improved draft to SM
+
+Fantastic! Really great work!
+
+#### What did you struggle with?
+
+* Typo on CSP postcards I ordered as I was in a rush :( 
+  * KW: :sob: These things happen. Let's make some more :sparkles:
+    I made an issue: https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/55
+
+#### Where do you need help from Kirstie?
+
+* At some point when sent - looking through essay redraft
+  * KW: Brilliant - so excited to read it!
+    If you can get it to by by 16 Oct that would be great
+* GDPR - EH
+  * KW: Really cool to have these outlines.
+    Action to get in touch to ask to upload to Google Doc and how to best credit EH for the contribution :rocket:
+* BB presentation
+  * KW: Made an issue for this too: https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/56
+    Thank you so much!
+
+#### Any other topics
+
+* KW: If you have any time, I'd love a blog post on the eLife innovation sprint
+* KW: Also, please can you upload your paragraphs about attending ODI and MozFest to an abstracts & bios file in your weekly update folder?
+
+### Date: 25 September 2019
+
+#### Who did you help this week?
+
+* Helped SQ by making contribution diagram
+  * KW: Fantastic! It's going to be really useful more generally too :smiley_cat:
+
+#### Who helped you this week?
+
+* KW taught me Zotoro :) 
+* TA volunteered to help me run the Diversity and Inclusion stall at the BL
+  * KW: I'm so glad you're doing this! Thank you so so much :sparkles:
+
+#### What did you achieve?
+
+* Ran two focus groups for citizen science project
+* Tested Open science learning game
+* Bio for #SciData19 Lightning talk 
+* Designed/ordered promotional posters
+  * KW: Beautiful! Well done!
+  * Please submit an expense claim through Gray Dawes :money_with_wings:
+* CSP pull requests
+  * KW: Let's go through these next week on Tuesday to tidy up the issues & PRs :muscle:
+
+#### What did you struggle with?
+
+* Some aspects of facilitation
+  * KW: The conversations we've had here in person is really valuable.
+    Thank you so much for thinking through all these dynamics, I so appreciate you looking out for all the people in the community, in all these different ways.    
+* Multiple things at once
+  * KW: I believe you!!
+    You're doing so many things.
+    Take care of yourself :sparkles:
+
+#### Where do you need help from Kirstie?
+
+* Focus groups
+  * KW: Great conversation today.
+    Thank you again :sparkling_heart:
+* Redraft of essay
+  * KW: Excited for this! Send to SM first and then ping me once you've got her comments :smiley:
 
 ### Date: 21 August 2019
 

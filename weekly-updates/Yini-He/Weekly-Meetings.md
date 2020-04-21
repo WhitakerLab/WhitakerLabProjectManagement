@@ -1,6 +1,8 @@
 # Weekly Meetings
 
+
 * [02 April 2020](#date-02-April-2020)
+* [17 March 2020](#date-17-march-2020)
 * [18 February 2020](#date-18-February-2020)
 * [13 February 2020](#date-13-February-2020)
 * [04 February 2020](#date-04-February-2020)
@@ -18,6 +20,7 @@
 * [07 July 2019](#date-07-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
 
 ### Date: 2 April 2020
 
@@ -39,10 +42,6 @@ KW: :laughing: True, fair enough!
   * KW: Congratulations! I'm sure that was pretty wildly stressful!
 * Analyze HCP data and summarize neuroticism results
   * KW: This looks great! Keep going.
-    * We talked about making sure that the specific factor correlations aren't "contaminated" by the general factor, so running a multiple regression to covary the general factor rather than just pairwise correlations with the specific factor.
-    * We also talked about covarying for age, gender and scanner location/ID in the brain correlations
-    * Please move these correlations into a jupyter notebook so they are programatically run rather than done using a graphic user interface.
-    * The bifactor model can stay in MPlus - that analysis is much harder to do in Python :sweat_smile:
 * Analyze MD using hostility data
   * KW: We ran out of time for this - can you show me next time we meet?
 
@@ -65,6 +64,7 @@ KW: :laughing: True, fair enough!
   * KW: Blargh - I'm so sorry that I'm super busy at the moment. I'll try to have a look when I can :sob:
 
 __________________
+
 
 ### Date: 17 March 2020
 
@@ -189,7 +189,7 @@ __________________
 
 #### Who helped you this week?	
 
-* YJL and JX sent me some private fMRI data
+* YJL and JX sent me some private fMRI data.
 * AL shared HCP data and helped me to make a plan for reproducing my previous work
 * MK and CH recommended some Chinese food which UK people love for me
 

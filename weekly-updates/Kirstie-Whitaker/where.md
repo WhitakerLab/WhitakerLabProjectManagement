@@ -342,7 +342,7 @@ Date | Day   | City, Country                | Event
 23   | Mon   | :uk: London, UK              | Working at Turing Institute
 24   | Tue   | :uk: London, UK              | Working at Turing Institute
 25   | Wed   | :uk: London, UK              | Working at Turing Institute
-26   | Thurs | :uk: London, UK              | Working at Turing Institute
+26   | Thurs | :uk: London, UK              | [LEF Study Tour panel discussion](https://leadingedgeforum.com/events/2019-fall-study-tour-ethical-digital/)
 27   | Fri   | :uk: London, UK              | Working at Turing Institute
 28   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 29   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
@@ -361,12 +361,12 @@ Date | Day   | City, Country                | Event
 7    | Mon   | :uk: London, UK              | Working at Turing Institute
 8    | Tue   | :uk: London, UK              | Working at Turing Institute
 9    | Wed   | :uk: London, UK              | Working at Turing Institute
-10   | Thurs | :uk: London, UK              | Working at Turing Institute
-11   | Fri   | :uk: London, UK              | Working at Turing Institute
+10   | Thurs | :uk: London, UK              | Turing Way expansion sprint
+11   | Fri   | :uk: London, UK              | Turing Way expansion sprint
 12   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 13   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-14   | Mon   | :uk: London, UK              | Autistica AI Summit
-15   | Tue   | :uk: London, UK              | Autistica AI Summit
+14   | Mon   | :uk: London, UK              | [Autistica AI & Early Intervention Summit](https://www.autistica.org.uk/get-involved/events/ai-summit)
+15   | Tue   | :uk: London, UK              | [Autistica AI & Early Intervention Summit](https://www.autistica.org.uk/get-involved/events/ai-summit)
 16   | Wed   | :uk: London, UK              | Working at Turing Institute
 17   | Thurs | :uk: London, UK              | Working at Turing Institute
 18   | Fri   | :uk: London, UK              | Working at Turing Institute
@@ -388,23 +388,23 @@ Date | Day   | City, Country                | Event
 
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
-1    | Fri   | :uk: London, UK              | Working at Turing Institute
+1    | Fri   | :uk: London, UK              | [Springer Nature/British Library: Can opening up research help drive innovation and tackle global challenges?](https://www.eventbrite.co.uk/e/can-opening-up-research-help-drive-innovation-and-tackle-global-challenges-tickets-73238449173)
 2    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 3    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
 4    | Mon   | :uk: London, UK              | Working at Turing Institute
 5    | Tue   | :uk: London, UK              | Working at Turing Institute
-6    | Wed   | :uk: London, UK              | Better Science through Better Data
+6    | Wed   | :uk: London, UK              | [Better Science through Better Data](https://www.springernature.com/gp/campaign/scidata-pre-registration-form)
 7    | Thurs | :uk: London, UK              | Working at Turing Institute
-8    | Fri   | :uk: London, UK              | Working at Turing Institute
-9    | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-10   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+8    | Fri   | 🇩🇪 Heidelberg, Germang          | Talk at EMBL
+9    | Sat   | 🇩🇪 Heidelberg, Germang          | Exploring Heidelberg
+10   | Sun   | 🇩🇪 Heidelberg, Germang          | Exploring Heidelberg
 11   | Mon   | :uk: London, UK              | Working at Turing Institute
 12   | Tue   | :uk: London, UK              | Working at Turing Institute
 13   | Wed   | :uk: London, UK              | Working at Turing Institute
 14   | Thurs | :uk: London, UK              | Working at Turing Institute
-15   | Fri   | :uk: London, UK              | Working at Turing Institute
-16   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
-17   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
+15   | Fri   | :mortar_board: Cambridge, UK | Day off
+16   | Sat   | :mortar_board: Cambridge, UK | [PyData Cambridge](https://cambridgespark.com/pydata-cambridge-2019/)
+17   | Sun   | :mortar_board: Cambridge, UK | [PyData Cambridge](https://cambridgespark.com/pydata-cambridge-2019/)
 18   | Mon   | :uk: London, UK              | Working at Turing Institute
 19   | Tue   | :uk: London, UK              | Working at Turing Institute
 20   | Wed   | :uk: London, UK              | Working at Turing Institute
@@ -412,11 +412,11 @@ Date | Day   | City, Country                | Event
 22   | Fri   | :uk: London, UK              | Working at Turing Institute
 23   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 24   | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-25   | Mon   | :uk: London, UK              | Working at Turing Institute
-26   | Tue   | :uk: London, UK              | Working at Turing Institute
-27   | Wed   | :uk: London, UK              | Working at Turing Institute
-28   | Thurs | :uk: London, UK              | Working at Turing Institute
-29   | Fri   | :uk: London, UK              | Working at Turing Institute
+25   | Mon   | :fist: Cambridge, UK         | UCU Strike
+26   | Tue   | :fist: Cambridge, UK         | UCU Strike
+27   | Wed   | :fist: Cambridge, UK         | UCU Strike
+28   | Thurs | :fist: Cambridge, UK         | UCU Strike
+29   | Fri   | :fist: Cambridge, UK         | UCU Strike
 30   | Sat   | :dog: Greenwich, UK          | Weekend relaxing
 
 ### December 2019
@@ -424,9 +424,9 @@ Date | Day   | City, Country                | Event
 Date | Day   | City, Country                | Event
 ---- | ----- | ---------------------------- | -----
 1    | Sun   | :dog: Greenwich, UK          | Weekend relaxing
-2    | Mon   | :uk: London, UK              | Working at Turing Institute
-3    | Tue   | :uk: London, UK              | Working at Turing Institute
-4    | Wed   | :uk: London, UK              | Working at Turing Institute
+2    | Mon   | :fist: Cambridge, UK         | UCU Strike
+3    | Tue   | :fist: Cambridge, UK         | UCU Strike
+4    | Wed   | :fist: Cambridge, UK         | UCU Strike
 5    | Thurs | :uk: London, UK              | Working at Turing Institute
 6    | Fri   | :uk: London, UK              | Working at Turing Institute
 7    | Sat   | :dog: Greenwich, UK          | Weekend relaxing

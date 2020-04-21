@@ -1,5 +1,16 @@
 # Weekly Meetings
 
+* [13th February 2020](#date-13th-february-2020)
+* [4th February 2020](#date-4th-february-2020)
+* [16th December 2019](#date-16th-december-2019)
+* [6th December 2019](#date-6th-december-2019)
+* [22nd November 2019](#date-22-november-2019)
+* [31st October 2019](#date-31-october-2019)
+* [17th October 2019](#date-17-october-2019)
+* [2nd October 2019](#date-2-october-2019)
+* [18th September 2019](#date-18-september-2019)
+* [30th Aug 2019](#date-30th-aug-2019)
+* [22th Aug 2019](#date-22th-aug-2019)
 * [13th Aug 2019](#date-13th-aug-2019)
 * [19th July 2019](#date-19th-july-2019)
 * [8th July 2019](#date-8th-july-2019)
@@ -8,6 +19,459 @@
 * [25th April 2019](#date-25th-april-2019)
 * [17th April 2019](#date-17th-april-2019)
 * [28th March 2019](#date-28th-march-2019)
+
+
+=======
+
+## Date: 13th February 2020
+
+#### Who did you help this week?
+
+* BL helped with job information
+* TY helped with a really cool translation pipeline! 
+* AZ, R & Ed helped with language improvement in the new revision
+  * KW: CONGRATULATIONS! :rocket: :tada:
+
+#### Who helped you this week?
+
+* Helped MW with his first manuscript. 
+
+#### What did you achieve?
+
+* Attended a workshop in Liunx, Python & Git programing in Turing!
+* Run the demo of PCA in RR.
+
+#### What did you struggle with?
+
+* Nothing specific. 
+
+#### What would you like to work on next week?
+
+* Translate the Turing Way in the Transfixed! 
+  * KW: Very cool demo - thanks for sharing :earth_asia:
+* Prepare a graduation paper for my PhD. 
+
+#### Where do you need help from Kirstie?
+
+* KW can help to add the code related to gene expression into the RR Github. 
+
+## Date: 4th February 2020
+
+#### Who did you help this week?
+
+* Helped AJ with his project and introduce some neuroimaging packages in Python. 
+* Donote and stand with Wuhan.
+  * KW: I'm so sorry for how damaging and disruptive this virus outbreak is for the people of Wuhan.
+* Helped the TTW to translate some chapters.
+* Helped RW with her project proposal with some suggestions. 
+* Helped HY with her project proposal with some suggestions.
+* Helepd XY to introduce some basic conception of neuroimaging and some guideline article. 
+* Helped BL review a paper. 
+
+KW: Really exciting future plans!
+
+#### Who helped you this week?
+
+* CR helped to share a monkey fMRI dataset. 
+
+#### What did you achieve?
+
+* Had a great Spring Festival in London and attended an amazing gala in Cambridge.
+  * KW: SO COOL!
+* Introduced Spring Festival and prepared some Chinese food for lab members.
+  * KW: The presentation and the food was just wonderful.
+* Worked with Yini to translate some Chapters in TTW and made some further plans to popularize them in China. 
+* Visiting AJ at his house and tasted some indian food from him.
+* Got a positive feedback from the editor for my previous work. 
+  * KW: CONGRATULATIONS :tada: :confetti: :tada:
+
+#### What did you struggle with?
+
+* Explored and learned some HCP pipeline (and its data structure), which is kind of difficult.  
+
+#### What would you like to work on next week?
+
+* Learning the pipeline of translation and deployed it on my laptop. 
+* Made some broadcast for the TTW in China with YN.  
+* Finish some editoral requirements of my previous work.
+
+KW: Really fantastic work! Enjoy chatting with TY next week and I look forward to thinking about sharing the Turing Way through WeChat etc!!
+
+Checkout:
+* The weirdest people in the world? https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf
+* https://www.theatlantic.com/daily-dish/archive/2010/10/western-educated-industrialized-rich-and-democratic/181667
+* https://undark.org/2020/01/20/psychology-bias-western
+
+
+#### Where do you need help from Kirstie?
+
+* KW can help to add the code related to gene expression into the RR Github. (I also pulled a request to address some previous suggestions from KW).
+  
+_________
+
+
+## Date: 16th December 2019
+
+#### Who did you help this week?
+
+* Helped YH with her Github skills. 
+* Helped YH with her first pull request for the Turing Way: [#774](https://github.com/alan-turing-institute/the-turing-way/pull/774)
+  * KW: Fab!
+
+#### Who helped you this week?
+
+* BW introduced a wearable devices to support meditation.
+
+#### What did you achieve?
+
+* Made a challenging presentation in visualization at the lab meeting. 
+* Improved the Github repository of RR.
+* Got my first Christmas card in my life. 
+  * KW: :heart_eyes:
+* Read through the Turing Way again. 
+* Opened an issue for the Turing Way for a new chapter of the power analysis: [#775](https://github.com/alan-turing-institute/the-turing-way/issues/775)
+  * KW: This is great!
+* Knowed that there is a weekly meeting in UCL and will be glad to attend.
+  * KW: I'm glad you got to ask Konrad about that! Here's the link https://www.fil.ion.ucl.ac.uk/Meetings
+  * Maybe get in touch with him before you go to the first meeting and he can show you around :smiley_cat:
+
+#### What did you struggle with?
+
+* Nothing specific.
+
+#### What would you like to work on next week?
+
+* Improving the consciousness project and IMAGEN developement project. 
+* Helped AJ with his project when he is ready.
+
+
+#### Where do you need help from Kirstie?
+
+* Kirstie can help to add the code related to gene expression into the RR Github.
+
+KW: Should be able to do that over the holidays or in January.
+  
+_________
+
+
+## Date: 6th December 2019
+
+#### Who did you help this week?
+
+* Helped AJ with his tumor project. 
+* Helped S with some brain knowledge.
+* Helped YQ with some brain atlases and parcellations. 
+
+#### Who helped you this week?
+
+* HW helped with the code in the registered report even though she was busy
+* AJ helped to introduce some of his peers in Cambridge
+* WD helped with labeling PSG data, taking plenty of time
+
+KW: Fantastic - super valuable!
+
+#### What did you achieve?
+
+* Improved the imputation pipeline and some other details in RR.
+* Had a discussion with AJ and will start a collaboration hopefully.
+* Found an amazing online book (http://statsthinking21.org) and will start to learn it.
+* Finished the mid-term oral examination in my PhD program!
+* Improved the revision (introducing new meta-analysis for BP) and sent it back
+
+KW: AAAAAAH Congratulations on passing your exam! :rocket: :star2:
+
+#### What did you struggle with?
+
+* Cough.
+
+KW: Uuuurgh - I'm so sorry :mask:
+
+#### What would you like to work on next week?
+
+* Prepare for the next-week group meeting in visualization.
+  * Have a look at this repository and see if you find it useful: https://github.com/KirstieJane/NH19-Visualization
+  * This page has lots of bad plots if you want to show those too! https://etherpad.net/p/PBS2-StudyDesign-Jan22
+* Prepare to write a brief scientific report for Science.
+
+#### Where do you need help from Kirstie?
+
+* Some suggestions on how to contribute to the _Turing Way_.
+* Maybe Kirstie can add the code related to gene expression into the RR Github.
+
+  
+_________
+
+
+## Date: 22nd November 2019
+
+#### Who did you help this week?
+
+* BW helped to visit the Oxford
+* KW helped to email the ABCD team for checking permission
+* HY helped with examining the RR
+* AZ, XQW helped with my revision and manuscript
+* DYH helped with some new datasets for revision
+* AJ helped introducing QL
+
+KW: Fun times! Thank you for helping so many people
+
+#### Who helped you this week?
+
+* Helped AJ with building a model
+* Help GA to introduce BW (an expert in NLP)
+
+#### What did you achieve?
+
+* Improved the Github and manuscript for RR
+* Attended a conference meeting in Oxford and learn more about human consciousness. 
+* Had really interesting discussion with BW about well-being 
+* Improved the revision 
+
+#### What did you struggle with?
+
+* Nothing specific 
+
+#### What would you like to work on next week?
+
+* Send back revision and improved RR and the model for AJ. 
+* Prepare the group meeting of the visualization. 
+
+#### Where do you need help from Kirstie?
+
+* Kirstie can help to check / improve the language for the RR and Github
+  * KW: I'll keep rocking in the paper - you work on the step by step instructions!
+  
+
+_________
+
+
+## Date: 31 October 2019
+
+#### Who did you help this week?
+
+* helped HY & KX with their PHD projects 
+* helped YH with the checklist
+
+#### Who helped you this week?
+
+* AZ helped me with editing revision
+* GX & HY helped me with downloading and preprocessing a new validation dataset
+
+#### What did you achieve?
+
+* Made some important progress on the project based on the IMAGEN
+* Improved RR and fixed some details mentioned at the last meeting 
+* Had fun in the MozFest, which is fresh new to me
+
+KW: Glad you enjoyed MozFest
+
+#### What did you struggle with?
+
+* London is getting colder
+
+KW: OH NO - and it's going to get worse!
+
+#### What would you like to work on next week?
+
+* Validate the results in IMAGEN project
+
+#### Where do you need help from Kirstie?
+
+* Kirstie can check the permission of imputation server for ABCD data
+
+_________
+
+## Date: 17 October 2019
+
+#### Who did you help this week?
+
+* helped GX to edit his maunscript and gave suggestions for his super cool project
+* helped GX with some lifespan datasets
+
+#### Who helped you this week?
+
+* AZ helped me with editing revision
+* HY helped me with a new dataset
+* AJ helped to show around Cambridge
+
+#### What did you achieve?
+
+* Learned some new knowledge about the Power analysis and added a section in RR
+* Had a great fun with AJ in Cambridge, discused research, visited several colleges and tasted some indian food
+* Working with YH with cover letter, checklist and reframing some jupyter notebooks for RR
+* Explored some open & interesting dataset in neuroimaging
+* Almost finished new revision and send to AZ for further improvement
+
+#### What did you struggle with?
+
+* Nothing specific
+
+#### What would you like to work on next week?
+
+* Summarize some details of RR (intracranial volume; imputation pipeline; multiple regression; races) and improved cover letter.
+  * KW: Sounds good :rocket:
+
+#### Where do you need help from Kirstie?
+
+* Maybe Kirstie can take some time to confirm the permission of uploading data to the imputation server
+  * KW: Yep! Will do.
+
+_________
+
+### Date: 2 October 2019
+
+#### Who did you help this week?
+
+* helped YH learn Python and skills of Mac
+* helped KX with her PhD project
+* helped GX with his job seeking
+
+KW: Great!
+
+#### Who helped you this week?
+
+* AZ and BL gave substantial suggestions on the NM revision
+* HY helped with her new dataset
+  * KW: That's great! :sparkles:
+* AJ helped to introduce a interesting talk in Cambridge
+
+#### What did you achieve?
+
+* Had really fun with Datalad & Openneuro, and downloaded some really good datasets
+  * KW: So glad you enjoyed working with these tools!
+* Had a novel idea for effectively training deep neural network and plan to test it with my best friend in China (who is also a PhD student whose major is machine learning)
+* Improved the ABCD jupyter notebook and presented them on the lab meeting
+* Did really huge work on the revision and made some progress
+
+#### What did you struggle with?
+
+* Large pressure on the revision (sleep less than 5-6 hours recently)
+
+#### What would you like to work on next week?
+
+* Wrote a cover letter for ABCD RR
+
+#### Where do you need help from Kirstie?
+
+* Have a look of ABCD cover letter when is ready
+  * KW: We need to add in a lot more detail to the paper and the checklist first, but happy for you to start on drafting the cover letter if it is motivating!
+  
+_________
+
+### Date: 18 September 2019
+
+#### Who did you help this week?
+
+* helped YH study Python (Pandas and Seaborn)
+* helped HYZ to modify his doctoral thesis
+
+#### Who helped you this week?
+
+* YH helped me prepare paperwork for my deadline and download open data
+  * KW: Fab
+ 
+#### What did you achieve?
+* I get close to finish the final modification of my SZ paper
+* modified the RR method
+* got fun with GA's game
+
+KW: Keep pushing! :muscle: :weary:
+
+#### What did you struggle with?
+
+* get a little cold because of the bad weather
+  * KW: 🥶🥶🥶 Oh no! And it's going to get worse :scream:
+    Make sure you go outside in the winter because it gets super dark super early!
+
+#### What would you like to work on next week?
+
+* make effort to papers (RR and my SZ paper)
+
+#### Where do you need help from Kirstie?
+
+* Nothing specific
+
+_________
+
+### Date: 30th Aug 2019
+
+#### Who did you help this week?
+
+* Find difficult to come up with a help this week :(
+
+#### Who helped you this week?
+
+* IP gave some suggestions on my work.
+  * KW: Fantastic! I'm so glad :smiley_cat:
+* KW helped me to better use Github.
+  
+#### What did you achieve?
+
+* Improved the introduction and method section, as suggested by KW. 
+* Attended Cambridge Network Day and had a good time!
+  * KW: Glad you enjoyed it.
+* Learned more about how to use Github. 
+* Had some progress on revision. 
+  
+#### What did you struggle with?
+
+* Paper revision.
+
+#### What would you like to work on next week?
+
+* Maybe move forward to the applying for the ABCD data.
+
+KW: Reviews PRs:
+  * https://github.com/WhitakerLab/Onboarding/pull/15
+  * https://github.com/WhitakerLab/whitakerlab.github.io/pull/83
+  * https://github.com/WhitakerLab/whitakerlab.github.io/pull/84
+  * https://github.com/WhitakerLab/whitakerlab.github.io/pull/67
+  
+#### Where do you need help from Kirstie?
+
+* Hope Kirstie can help to improve and perfect RR.
+
+_________
+
+### Date: 22th Aug 2019
+
+#### Who did you help this week?
+
+* Helped YH with Python.
+* Helped BL with some paper review.
+
+#### Who helped you this week?
+
+* Two top doctors in China helped with labeling of the sleep data. 
+* AZ provided some suggestions for the revision
+  * KW: COOL - good luck!
+  
+#### What did you achieve?
+
+* Finished my first review in Github, ready to do more. 
+* Wrote a new version of introduction and learned how to use overleaf.
+* Improve the code related to RR and provide example data. 
+* Hopefully, got closer to my first publication.
+* Made a detailed plan with the new revision. 
+  
+#### What did you struggle with?
+
+* Nothing specific. 
+
+#### What would you like to work on next week?
+
+* Continue to improve the RR and (maybe start to a cover letter?).
+* Establish imputation pipeline using Azure. 
+* Working on the revision. 
+  
+#### Where do you need help from Kirstie?
+
+* Some suggestions of which platform to put example data?
+  * https://osf.io
+  * https://zenodo.org
+  * KW: Check out the section on data management in the Turing Way in case its useful: https://the-turing-way.netlify.com/rdm/rdm.html#sharing-and-archiving-data
+
+_________
 
 ### Date: 13th Aug 2019
 #### Who did you help this week?
