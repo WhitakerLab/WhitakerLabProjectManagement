@@ -42,10 +42,8 @@ See the Natural Language Processing course powered by mybinder.org (https://spac
 During the Covid-19 pandemic, mybinder.org has seen a significant increase in usage correlating with the beginning of lockdown and many researchers began working and collaborating remotely.
 It is quickly becoming the "go to" tool for sharing results and facilitating remote teaching in this new landscape of research culture.
 
-Dr Sarah Gibson is a Research Software Engineer, member of the mybinder.org operating team, and is personally responsible for maintaining the Binder infrastructure deployed at the Turing.
-Sarah also holds a Software Sustainability Institute Fellowship. She uses this platform to advocate for the reproducibility, openness and sustainability of research software and encourage community growth and engagement within open source projects.
-
-During this talk, Sarah will introduce Binder (the service), BinderHub (the technological infrastructure) and mybinder.org (a public instance of a Binder service, free for anyone to use) and demonstrate how it can be utilised to share reproducible computational environments and analyses.
+Dr Sarah Gibson is a member of the mybinder.org operating team and is personally responsible for maintaining the Binder infrastructure deployed at the Turing.
+During this talk, She will introduce Binder (the service), BinderHub (the technological infrastructure) and mybinder.org (a public instance of a Binder service, free for anyone to use) and demonstrate how it can be utilised to share reproducible computational environments and analyses.
 
 ## Descriptors
 
