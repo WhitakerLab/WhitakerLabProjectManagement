@@ -24,7 +24,7 @@ Already 100s of online projects have been launched to promote data-driven soluti
 Individuals, who want to lead and participate in such projects, are collaborating to identify interdisciplinary applications of artificial intelligence and machine learning.
 
 There has never been a better time for online platforms and communities to thrive and test innovative ideas for a common social cause.
-However, participation in such projects also requires an understanding of project design, data management, software development, leadership and collaboration techniques: skills that are not widely taught to academic leaders and data scientists.
+However, participation in such projects will also demand an understanding of project design, data management, software development, leadership and collaboration techniques: skills that are not widely taught to academic leaders and data scientists.
 
 In this talk, I will introduce The Turing Way project that aims to bridge the gap between innovative data research techniques and best practices that make them accessible and comprehensible for everyone.
 The Turing Way is a community-driven book project that involves and supports a diverse research community in ensuring that reproducible and ethical data research is “too easy not to do”.
