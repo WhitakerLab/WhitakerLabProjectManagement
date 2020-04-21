@@ -94,8 +94,10 @@ _500 words max._
 In order to "get the next 10 years right", the research community needs to undergo a cultural and practical shift in how we share and communicate scientific progress, towards embracing openness and collaboration more than ever before.
 One part of this shift is embedding reproducibility into our scientific workflows.
 If code and data are not available for interrogation and results can't be reproduced, it becomes much more difficult to build on top of them and advance the domain.
+It is also unethical to do work that is closed and cannot be built upon quickly.
 
 Binder has provided a technological pathway to lowering the barrier to producing and sharing reproducible research, making it accessible to a broad range of analysts on a global scale.
+The literate programming style of Jupyter Notebooks combined with the hosted compute so that users don't have to worry about installing and running the code also opens up the results to a wider range of stakeholders who may not be familiar with the computational analytical aspect of research, such as corporate, government and third sector parties.
 
 During the Covid-19 pandemic, mybinder.org has seen a significant increase in usage correlating with the beginning of lockdown and many researchers began working and collaborating remotely.
 It is quickly becoming the "go to" tool for sharing results and facilitating remote teaching in this new landscape of research culture.
