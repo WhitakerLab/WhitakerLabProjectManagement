@@ -103,7 +103,7 @@ The Turing Way aims to fill this gap in skills for members interested in data sc
 The Turing Way is a community-led book project that offers open-source learning and teaching resources that help researchers enhance their skills.
 As a live book, it also provides a platform that brings different stakeholders together to read, write, edit, and update its chapters in real-time and collaborate over the internet.
 Contributors are encouraged to bring their perspective into the project, enhance the existing resources or create new ones, and get fairly acknowledged for their work.
-The Turing Way welcomes ideas, case studies, impact stories, educational resources, or any sort of participation that individuals can benefit from or advance their knowledge in data research.
+The Turing Way welcomes ideas, case studies, impact stories, educational resources, or any sort of participation that individuals can benefit from or use to advance their knowledge in data research.
 
 Intending to create a rewarding opportunity for academics, engineers, industrial research partners, and policymakers, we invite the CogX attendees to share their skills and resources with a wider research community.
 
