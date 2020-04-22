@@ -37,7 +37,7 @@ mybinder.org is both a public service and a proof of concept of Project Binder's
 This site serves over 140,000 sessions per week and combines resources from four entities in the US and Europe, including The Alan Turing Institute.
 We support a range of programming languages and analysts from a range of research domains, and even facilitate a number of remote workshops and tutorials.
 The flexibility of mybinder.org in allowing users to configure their environments provides scope to support a broad range of domains.
-See the Natural Language Processing course powered by mybinder.org (https://course.spacy.io/) and a Machine Learning course for explainable AI (https://github.com/GitiHubi/courseML).
+For example, the Natural Language Processing course powered by mybinder.org (https://course.spacy.io/) has over 5000 users, and the Institute of Computer Science at the University of St. Gallen uses our infrastructure for their university-wide Machine Learning course for explainable AI (https://ics.unisg.ch).
 
 During the Covid-19 pandemic, mybinder.org has seen a significant increase in usage correlating with the beginning of lockdown and many researchers began working and collaborating remotely.
 It is quickly becoming the "go to" tool for sharing results and facilitating remote teaching in this new landscape of research culture.
