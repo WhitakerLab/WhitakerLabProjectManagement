@@ -4,7 +4,7 @@
 - **Conference** https://cogx.co/
 - **Date:** 8th - 10th June 2020
 
-## Research to empower: co-creating a acitizen-science platform
+## Research to empower: co-creating a citizen-science platform
 
 
 _Please give a brief description of your talk (max 500 words)._
