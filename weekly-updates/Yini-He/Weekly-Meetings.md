@@ -30,7 +30,7 @@
 
 #### Who helped you this week?	
 
-* AL helped me to conduct further brain analysis for bi-factor Neuroticism 
+* AL helped me to draw a new figure for harmavoidance paper and conduct further brain analysis for bi-factor Neuroticism 
 * AG answered some questions about bi-factor model
 * JX give me suggestions to discuss the result of bi-factor Neuroticism 
 
