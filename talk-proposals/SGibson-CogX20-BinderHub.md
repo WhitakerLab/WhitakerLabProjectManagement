@@ -95,11 +95,12 @@ _Please select which methodological problem areas apply to your research and tal
 _Please explain the relevance of your talk to the CogX audience, and the global impact of your research._
 _500 words max._
 
-CogX 2019 convened 20,000 visitors from government, third sector organisations, and businesses of all sizes.
-They represented expertise in technology, finance, advertising, media, and energy and aerospace engineering.
-All these audience members use open source tools and systems to leverage insights from data.
 Project Binder represents one pathway that technology can be utilised to lower the barrier to producing and sharing reproducible scientific insights with all stakeholders across domains and organisational structure, such as management teams.
 Binder is also an open source tool in and of itself and can therefore be deployed and modified within an organisation to suit their specific needs and be more opinionated regarding who has access than the free implementation at mybinder.org.
+CogX 2019 convened 20,000 visitors from government, third sector organisations, and businesses of all sizes.
+They represented expertise in technology, finance, advertising, media, and energy and aerospace engineering.
+Many of these audience members use open source tools and systems to leverage insights from data.
+It is because of these demographics that a talk on Project Binder would be of interest and relevant to the CogX audience.
 
 This talk will be relevant to attendees interested in the next generation of infrastructure and cloud computing and educational tech revolution tracks.
 I will explain how cloud computing resources can be utilised with no overheads imposed on the users.
