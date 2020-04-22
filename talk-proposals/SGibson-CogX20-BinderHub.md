@@ -18,25 +18,23 @@ _The evaluation criteria of proposals will be:_
 - _Academic standard and global impact_
 - _Breadth of domain application_
 
-The crisis of reproducibility in scientific research is well known.
+The reproducibility crisis in scientific research is well known (https://www.nature.com/collections/prbfkwmwvz).
 The combination of 'publish or perish' incentives, secrecy around data and the drive for novelty at all costs can result in fragile advances and lots of wasted time and money.
 Even in data science, when a paper is published there is generally no way for an outsider to verify its results, because the data from which the findings were derived are not available for scrutiny.
 Such science cannot be built upon very easily: siloed science is slow science.
 
-As reproducibility gains traction in the data science and research communities, the need to package code, data and the computational environment is growing.
-There are many tools that address different aspects of this type of packaging, such as Jupyter Notebooks for literate programming, Docker for containerising and porting computational environments, and so on.
+As reproducibility gains traction in the data science and research communities, the need to package code, data and computational environments is growing.
+There are many tools that address different aspects of this type of packaging, such as Jupyter Notebooks (https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) for literate programming, Docker (https://docs.docker.com/engine/docker-overview/) for containerising and porting computational environments, and so on.
 But they represent barriers to reproducibility as each one requires time and effort to learn.
 
-Scientists work with multiple tools, pipelines and collaborators to produce results.
-Project Binder integrates Notebooks and Docker for generating reproducible computational analyses and combines them with a web-based interface and cloud orchestration engines.
+Scientists work with multiple tools, pipelines and collaborators to produce insights.
+Project Binder (https://jupyter.org/binder) integrates Notebooks and Docker for generating reproducible computational analyses and combines them with a web-based interface and cloud orchestration engines.
 This means that analysts do not have to worry about all the moving parts so long as they have followed basic software best practices: their code is version controlled and they've captured the dependencies the analysis needs to run.
-Binder then hosts the compute in the cloud and makes it easily shareable by providing a unique URL to the code repository, without imposing additional overheads on the analyst.
-Binder, as a platform, provides easy access to the research for stakeholders.
+Binder, as a platform, provides easy access to the research for stakeholders by hosting the compute in the cloud and providing a unique URL to make it easily shareable, without imposing additional overheads on the analyst.
 
-mybinder.org is both a public service and a proof of concept of Project Binder's technologies.
+mybinder.org (https://mybinder.org) is both a public service and a proof of concept of Binder's technologies.
 This site serves over 140,000 sessions per week and combines resources from four entities in the US and Europe, including The Alan Turing Institute.
-We support a range of programming languages and analysts from a range of research domains, and even facilitate a number of remote workshops and tutorials.
-The flexibility of mybinder.org in allowing users to configure their environments provides scope to support a broad range of domains.
+We support many programming languages and analysts from a range of research domains, and even facilitate a number of remote workshops and tutorials.
 For example, the Natural Language Processing course powered by mybinder.org (https://course.spacy.io/) has over 5000 users, and the Institute of Computer Science at the University of St. Gallen uses our infrastructure for their university-wide Machine Learning course for explainable AI (https://ics.unisg.ch).
 
 During the Covid-19 pandemic, mybinder.org has seen a significant increase in usage correlating with the beginning of lockdown and many researchers began working and collaborating remotely.
