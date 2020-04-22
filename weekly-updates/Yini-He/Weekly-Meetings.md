@@ -26,7 +26,9 @@
 #### Who did you help this week?
 
 * As a volunteer, I distributed epidemic prevention materials from the Chinese embassy to the overseas students
+  * KW: This is awesome!
 * I spent almost a whole week helping AL with his graduation thesis
+  * KW: Really helpful!
 
 #### Who helped you this week?	
 
@@ -34,11 +36,14 @@
 * AG answered some questions about bi-factor model
 * JX give me suggestions to discuss the result of bi-factor Neuroticism 
 
+KW: All really cool! Very helpful to have input on interpreting the bi-factor model :smiley_cat:
+
 #### What did you achieve?
 
 * reanalysis of harmavoidance using Python 
 * Analyze mean diffusivity of harm avoidance paper and redraw the figure
 * I felt I had experience for my graduation thesis after revising Ang's thesis.
+  * KW: hahahaha - well prepared!
 * Read papers of neuroticism and discuss it with experienced people
 
 #### What did you struggle with?
@@ -52,6 +57,8 @@
 #### Where do you need help from Kirstie?
 
 * give me suggestions for my harm avoidace paper and bi-factor neuroticism result
+  * KW: Thank you for writing out the code in a notebook Yini - it's really helpful.
+
 __________________
 ### Date: 2 April 2020
 
