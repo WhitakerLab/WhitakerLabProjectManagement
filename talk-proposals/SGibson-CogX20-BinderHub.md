@@ -35,7 +35,7 @@ Binder, as a platform, provides easy access to the research for stakeholders by 
 mybinder.org (https://mybinder.org) is both a public service and a proof of concept of Binder's technologies.
 This site serves over 140,000 sessions per week and combines resources from four entities in the US and Europe, including The Alan Turing Institute.
 We support many programming languages and analysts from a range of research domains, and even facilitate a number of remote workshops and tutorials.
-For example, the Natural Language Processing course powered by mybinder.org (https://course.spacy.io/) has over 5000 users, and the Institute of Computer Science at the University of St. Gallen uses our infrastructure for their university-wide Machine Learning course for explainable AI (https://ics.unisg.ch).
+For example, the Natural Language Processing course powered by mybinder.org (https://course.spacy.io) has over 5000 users, and the Institute of Computer Science at the University of St. Gallen uses our infrastructure for their university-wide Machine Learning course for explainable AI (https://ics.unisg.ch).
 
 During the Covid-19 pandemic, mybinder.org has seen a significant increase in usage correlating with the beginning of lockdown and many researchers began working and collaborating remotely.
 It is quickly becoming the "go to" tool for sharing results and facilitating remote teaching in this new landscape of research culture.
@@ -101,7 +101,7 @@ Many of these audience members use open source tools and systems to leverage ins
 It is because of these demographics that a talk on Project Binder would be of interest and relevant to the CogX audience.
 
 This talk will be relevant to attendees interested in the next generation of infrastructure and cloud computing and educational tech revolution tracks.
-I will explain how cloud computing resources can be utilised with no overheads imposed on the users.
+I will explain how cloud computing resources can be accessed with no overheads imposed on the users.
 I will also give examples on how mybinder.org is being utilised for remote workshops and teaching in such a way that the students don't have to worry about setting up their environments correctly.
 
 The talk will be accessible for all audiences, there will be no assumed knowledge or technological expertise required.
