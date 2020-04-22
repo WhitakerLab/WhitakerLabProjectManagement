@@ -71,4 +71,7 @@ This project is open to all.
 Our datasets, platform design, and process documentation are publicly available at our GitHub repository. 
 They can be used and adapted by anyone for any purpose, as long as they credit the community. CogX sttendees from all backgrounds will be invited to explore our work and to collaborate with us.  
 
+## _Please let us know any other information you would like to share to support your application_
+
+This creation and delivery of this talk will itself model the participatory methods it proposes. The talk will be co-designed, edited, and reviewed by autistic collaborators as well as members of the core research team. It will also be published openly and circulated to the community.
 
