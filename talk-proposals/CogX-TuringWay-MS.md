@@ -6,7 +6,7 @@
 
 ## Talk Title
 
-Building a culture of collaboration in The Turing Way
+Building a culture of collaboration in our research communities
 
 ## Talk Description
 
@@ -89,13 +89,32 @@ _Please select which methodological problem areas apply to your research and tal
 _Please explain the relevance of your talk to the CogX audience, and the global impact of your research._
 _500 words max._
 
-<TBA>
-- reproducibility and AI
-- need to educate people how to build community collaboratively
-- available for reuse by the attendees  
-- people's expertise invited
-- project needs more perspectives  
+When discussing how to get the next 10 years right, the topic of creating a positive culture of collaboration is undeniably among the top of the list.
+CogX is an excellent example of how facilitating collaborations among innovators and change-makers can lead to transformative ideas and bring about positive change in our society.
+Aligned with values of CogX, The Turing Way promotes the inclusion of diverse stakeholders by creating an open community-led platform that invites them to collaborate and work with each other.
+
+With the help of The Turing Way, I would like to discuss the importance of creating a culture that promotes collaboration to ensure the long-term sustainability of our communities.
+In data science projects, it is required to establish common standards for software, research methods, and dataset for all the collaborators.
+However, it is equally important that the leaders invest their resources in designing projects that are truly inclusive and supportive of their members.
+This means that everyone involved in a project or research is given a fair opportunity to 1) develop a common technical understanding of the project, 2) state their expectations from the collaboration, 3) access the resources required in the project, and 4) advance their skills to contribute equitably.
+It is a very challenging process, especially because these skills are not formally taught to everyone in academia and data research.
+The Turing Way aims to fill this gap in skills for members interested in data science and leaders who want to create projects that accessible for their community and team members.
+
+The Turing Way is a community-led book project that offers open-source learning and teaching resources that help researchers enhance their skills.
+As a live book, it also provides a platform that brings different stakeholders together to read, write, edit, and update its chapters in real-time and collaborate over the internet.
+Contributors are encouraged to bring their perspective into the project, enhance the existing resources or create new ones, and get fairly acknowledged for their work.
+The Turing Way welcomes ideas, case studies, impact stories, educational resources, or any sort of participation that individuals can benefit from or advance their knowledge in data research.
+
+Intending to create a rewarding opportunity for academics, engineers, industrial research partners, and policymakers, we invite the CogX attendees to share their skills and resources with a wider research community.
+
 
 ## Additional Information
 
 _Please let us know any other information you would like to share to support your application._
+
+1) I am the community manager of The Turing Way.
+2) Here are the supporting links for the reviewer:
+- Project website: https://github.com/alan-turing-institute/the-turing-way
+- Social media: https://twitter.com/turingway
+- New book format in development: https://deploy-preview-977--the-turing-way.netlify.app/welcome
+- Impact story: https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science
