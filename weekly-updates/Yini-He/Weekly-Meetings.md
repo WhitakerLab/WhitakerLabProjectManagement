@@ -53,6 +53,8 @@ KW: All really cool! Very helpful to have input on interpreting the bi-factor mo
 #### What would you like to work on next week?
 
 * work for my harm avoidace paper and bi-factor neuroticism result
+  * KW: Fab - don't forget to spend some time updating the references too - just try to add in a few more recent papers
+  * Check that the python results are the same as the SPSS results :smiley:
 
 #### Where do you need help from Kirstie?
 
