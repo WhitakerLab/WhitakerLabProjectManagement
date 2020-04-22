@@ -98,7 +98,7 @@ In data science projects, it is required to establish common standards for softw
 However, it is equally important that the leaders invest their resources in designing projects that are truly inclusive and supportive of their members.
 This means that everyone involved in a project or research is given a fair opportunity to 1) develop a common technical understanding of the project, 2) state their expectations from the collaboration, 3) access the resources required in the project, and 4) advance their skills to contribute equitably.
 It is a very challenging process, especially because these skills are not formally taught to everyone in academia and data research.
-The Turing Way aims to fill this gap in skills for members interested in data science and leaders who want to create projects that accessible for their community and team members.
+The Turing Way aims to fill this gap in skills for members interested in data science and leaders who want to create projects that are accessible for their community and team members.
 
 The Turing Way is a community-led book project that offers open-source learning and teaching resources that help researchers enhance their skills.
 As a live book, it also provides a platform that brings different stakeholders together to read, write, edit, and update its chapters in real-time and collaborate over the internet.
