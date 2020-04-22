@@ -18,7 +18,7 @@ _The evaluation criteria of proposals will be:_
 - _Breadth of domain application_
 
 Online behaviour over the last months during the COVID-19 pandemic has shifted significantly. 
-With buzzwords like “flatten the curve” and trending hashtags on Twitter like “#StayHomeSaveLives”, we have become more inclined to keep abreast of what exactly is going on in our communities. 
+With buzzwords like "flatten the curve" and trending hashtags on Twitter like "#StayHomeSaveLives", we have become more inclined to keep abreast of what exactly is going on in our communities. 
 Digital technologies and approaches are playing vital roles in creating opportunities for us to take meaningful actions as leaders, researchers, innovators and community members.
 Already 100s of online projects have been launched to promote data-driven solutions that can take on medical and social challenges related to coronavirus pandemic. 
 Individuals, who want to lead and participate in such projects, are collaborating to identify interdisciplinary applications of artificial intelligence and machine learning.
@@ -27,17 +27,17 @@ There has never been a better time for online platforms and communities to thriv
 However, this is also a time that demands a common understanding of project design, data management, software development, leadership and collaboration techniques: skills that are not widely taught to academic leaders and data scientists.
 
 In this talk, I will introduce The Turing Way project that aims to bridge the gap between innovative data research techniques and best practices that make them accessible and comprehensible for everyone.
-The Turing Way is a community-driven book project that involves and supports a diverse research community in ensuring that reproducible and ethical data research is “too easy not to do”.
+The Turing Way is a community-driven book project that involves and supports a diverse research community in ensuring that reproducible and ethical data research is "too easy not to do".
 Using this project as a model, I will discuss the importance of documenting and sharing recommendations in data science that can be adopted by various stakeholder in the current crisis, and beyond.
 
 Built upon a culture of collaboration, The Turing Way is designed to be welcoming, inclusive and accessible to its members from diverse backgrounds and expertise. 
 It is an open source project, that facilitates all contributions, questions, comments, and discussions via an online repository: https://github.com/alan-turing-institute/the-turing-way.
-Since last year, ~125 researchers have contributed to this project. 
+Since last year, more than 125 researchers have contributed to this project. 
 They have co-authored chapters and developed resources that have been used by the scientific communities worldwide in learning and promoting reproducible methods in AI and computational research.
-The project has grown from a small team of 10 researchers to a large community of 125 collaborators.
+The project has grown from a small team of 10 researchers to a community of collaborators from around the world.
 The scope of The Turing Way book has also expanded to include the different aspects of reproducibility, project design, collaboration, communication, and ethics in data research. 
 
-In the last 2 months, ~40 members have contributed to new chapters on effective collaboration (through virtual teams and events) and working from home during the COVID-19 pandemic. 
+Since February 2020, over 40 members have contributed to new chapters on effective collaboration (through virtual teams and events) and working from home during the COVID-19 pandemic. 
 We continue to support our members in learning new skills and facilitate their interaction with the project via online co-working spaces and mentored contributions.
 
 We believe that projects like The Turing Way, that promote a culture of collaboration, can have a significant impact on improving access to information and the equitable decision-making process by our peers and future generations.
