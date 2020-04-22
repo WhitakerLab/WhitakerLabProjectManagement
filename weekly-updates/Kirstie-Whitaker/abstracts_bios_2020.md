@@ -148,6 +148,45 @@ We look to empower a decentralised network of the people who connect data with d
 Together we can break AI research out of domain specific siloes and democratise access to knowledge.
 We will purposefully and thoughtfully embed our values into everthing we do.
 
+_Please select all descriptors that best apply to your talk._
+
+- [ ] Technical / specialist
+- [x] Big picture
+- [ ] Detailed
+- [ ] Humorous
+- [ ] Serious
+- [ ] Retrospective
+- [x] Prospective
+- [x] General / accessible
+
+## Domain Application
+
+_Please select up to two domains that best apply to your research and talk proposal._
+
+- [ ] Natural world
+- [x] Security
+- [ ] Engineering
+- [x] Health
+- [ ] Society & Culture
+- [ ] Economics
+
+## Methodological Application
+
+_Please select which methodological problem areas apply to your research and talk._
+
+- [ ] Finding ways to automate the lengthy process spent preparing data for analysis
+- [x] Preventing misuse of data-driven technologies and artificial intelligence
+- [ ] Using and analysing data in order to confidently infer causal relationships
+- [x] Empowering citizens to access, understand and exploit the world's data
+- [x] Improving the ways in which we collect and analyse data
+- [x] Effectively and efficiently convey information to varying audiences
+- [ ] Merging multiple sources of data
+- [x] Using data while protecting privacy
+- [ ] Merging human knowledge with data-driven machine learning and AI systems
+- [ ] Eradicating failures within interacting systems
+- [ ] Optimising algorithmic and system performance for bigger and more complex datasets
+- [x] Building on the most effective methods across data science to produce the next gen of techniques
+
 _Please explain the relevance of your talk to the CogX audience, and the global impact of your research._
 _500 words max._
 
@@ -171,7 +210,7 @@ _Please let us know any other information you would like to share to support you
 Tools, Practices and Systems is a new programme at the Turing Institute and I'm very keen to let the CogX community know about it.
 I'm happy to adapt the talk proposal if there is a direction that would contribute to a more cohesive programme.
 
-**Bio**: Bio
+**Bio**: https://www.turing.ac.uk/people/researchers/kirstie-whitaker
 
 **Slides**: Figshare link to slides (if applicable)
 
