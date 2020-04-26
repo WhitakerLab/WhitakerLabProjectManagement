@@ -11,6 +11,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * January
   * [OpenMR Benelux 2020](#open-mr-benelux-2020)
 * February
+  * [Turing Urban Analytics meeting](#turing-urban-analytics-meeting)
 * March
   * [Manchester Literary and Philosophical Society](#manchester-literary-and-philosophical-society)
 * April
@@ -40,6 +41,36 @@ It includes training material on version control, analysis testing, collaboratin
 *The Turing Way* is openly developed and any and all questions, comments and recommendations are welcome at our github repository: https://github.com/alan-turing-institute/the-turing-way.
 In this talk, Kirstie Whitaker, lead developer of *The Turing Way*, will take you on a whirlwind tour of the chapters that already exist, the interactive demonstrations you can use and re-use for your own research, and the directions in which we're continuing to develop.
 All participants will leave the talk knowing that "Every Little Helps" when making their work reproducible, where to ask for help as they start or continue their open research journey, and how they can contribute to improve *The Turing Way* for future readers.
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
+Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of neurodivergent people and people with mental health conditions.
+Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and participatory citizen science to educate non-autistic people about how they can better support autistic friends and colleagues.
+She is the lead developer of [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way), an openly developed educational resource to enable more reproducible data science.
+Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
+She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
+Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
+
+**Slides**: Figshare link to slides (if applicable)
+
+### Turing Urban Analytics meeting
+
+**Website**: Insert link
+
+**Date**: 11 February 2020
+
+**Title**: Participatory citizen science to improve autistic people's lives
+
+**Abstract**: [Autistica](https://www.autistica.org.uk/) and the [Alan Turing Institute](https://www.turing.ac.uk/) are working together to build a participatory, citizen science platform to gather data on how sensory processing affects autistic people’s navigation of the world.
+Numerous studies have confirmed that autistic people experience sensory processing differences, and that this can significantly impact their lives.
+One aspect which is not yet fully understood is how these differences affect the ways in which autistic people navigate different environments.
+In this talk, I will showcase the team's process of building a project that is participatory from the ground up.
+We ensure that all aspects of the project are designed and developed in collaboration with members of the autistic community.
+In close collaborations with the [Open Humans](https://www.openhumans.org/about/) community, we are developing a platform for which the software, design, process and governance documentation are all open source.
+I will share our progress in building and providing citizen scientists with a fine-grained consent model that supports individual contributor's personal preferences on how their data is used on the platform.
+Flipping the traditional scientific study on its head, our goal is to give a voice to the autistic citizen scientists and educate neurotypical people.
+We seek to crowd source expertise at scale to inform policy and design decisions for public spaces such as libraries, hospitals and schools.
+Members of the Turing's Urban Analytics community will leave knowing how they can join the team and contribute their expertise to the project that same day, starting from information at [our website](https://alan-turing-institute.github.io/AutisticaCitizenScience) and [GitHub repository](https://github.com/alan-turing-institute/AutisticaCitizenScience).
 
 **Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
 Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of neurodivergent people and people with mental health conditions.
