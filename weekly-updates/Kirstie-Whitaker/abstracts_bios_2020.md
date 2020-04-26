@@ -9,6 +9,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 ### Table of Contents
 
 * January
+  * [Advanced Methods for Reproducible Science](#advanced-methods-for-reproducible-science-workshop)
   * [OpenMR Benelux 2020](#open-mr-benelux-2020)
 * February
   * [Turing Urban Analytics meeting](#turing-urban-analytics-meeting)
@@ -24,9 +25,31 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * November
 * December
 
+### Advanced Methods for Reproducible Science
+
+**Website**: https://osf.io/gupxv
+
+**Date**: 5 - 10 January 2020
+
+**Title**: The Turing Way: Transforming Research with Collaborative Working
+
+**Abstract**:
+
+**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
+Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of neurodivergent people and people with mental health conditions.
+Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and participatory citizen science to educate non-autistic people about how they can better support autistic friends and colleagues.
+She is the lead developer of [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way), an openly developed educational resource to enable more reproducible data science.
+Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
+She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
+Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
+
+**Slides**: Figshare link to slides (if applicable)
+
+
 ### OpenMR Benelux 2020
 
-**Website**: Insert link
+**Website**: https://openmrbenelux.github.io/page-openmrb-2020
 
 **Date**: 21 January 2019
 
@@ -51,7 +74,7 @@ She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright sc
 Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
-**Slides**: Figshare link to slides (if applicable)
+**Slides**: https://doi.org/10.5281/zenodo.3615258
 
 ### Turing Urban Analytics meeting
 

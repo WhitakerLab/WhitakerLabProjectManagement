@@ -1,5 +1,11 @@
 # Weekly Meetings
 
+
+* [02 April 2020](#date-02-April-2020)
+* [17 March 2020](#date-17-march-2020)
+* [18 February 2020](#date-18-February-2020)
+* [13 February 2020](#date-13-February-2020)
+* [04 February 2020](#date-04-February-2020)
 * [16 December 2019](#date-06-December-2019)
 * [06 December 2019](#date-06-December-2019)
 * [22 November 2019](#date-22-November-2019)
@@ -14,6 +20,211 @@
 * [07 July 2019](#date-07-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+
+### Date: 2 April 2020
+
+#### Who did you help this week?
+
+* help my previous landlord buy masks 
+
+KW: That definitely counts as helpful!
+
+#### Who helped you this week?	
+
+* Stay alone
+
+KW: :laughing: True, fair enough!
+
+#### What did you achieve?
+
+* moved to a new home
+  * KW: Congratulations! I'm sure that was pretty wildly stressful!
+* Analyze HCP data and summarize neuroticism results
+  * KW: This looks great! Keep going.
+* Analyze MD using hostility data
+  * KW: We ran out of time for this - can you show me next time we meet?
+
+#### What did you struggle with?
+
+* know more knowledge about structural equation model and Mplus
+* When I moved to the new house, I cann't access the server in China. I'm trying to fix it.
+  * KW: Booooo - Good luck fixing that connection!
+ 
+#### What would you like to work on next week?
+
+* modify harm avoidance paper 
+* try to have deep understanding of my neuroticism result
+* making a version of the figure that doesn't have the skeleton and make a table to list MD for hostility data
+  * KW: This sounds great - please ask the lab for feedback when you've made one!
+
+#### Where do you need help from Kirstie?
+
+* help me to modify my harm avoidance paper
+  * KW: Blargh - I'm so sorry that I'm super busy at the moment. I'll try to have a look when I can :sob:
+
+__________________
+
+
+### Date: 17 March 2020
+
+#### Who did you help this week?
+
+* helped AL to design his candidate cover figure for NM
+  * KW: Fingers crossed it gets chosen!!
+* helped JM and XHW to cope with the anxiety and depression caused by the COVID19 
+  * KW: I'm so glad you can help folks out when they're so far from home :hibiscus:
+
+#### Who helped you this week?	
+
+* JX and NHC helped to prepare my CV
+* MK and CH gave me lots of suggestions about writting a CV
+* XL helped me to make sure a new result using HCP data
+
+#### What did you achieve?
+
+* completed a job application
+  * KW: Fingers crossed!!
+* modifying previous harm avoidance paper 
+* a preliminary new result using HCP data
+* updating the translation online（unfinished）
+
+#### What did you struggle with?
+
+* modify previous paper about hostility
+* organize and try to explain new results
+ 
+#### What would you like to work on next week?
+
+* modify harm avoidance paper based on Kirstie's suggestions
+* updating the translation online
+* continue to analyze and organize HCP data
+
+#### Where do you need help from Kirstie?
+
+* give suggestions for my harm avoidance paper
+  * KW: It's looking great - can you try making a version of the figure that doesn't have the skeleton and send me a paper to read abou temperment? I'll have a play around with the data and see what visualisations we can make to show the different measures correlating with each other :smile:
+
+__________________
+
+### Date: 18 February 2020
+
+#### Who did you help this week?
+
+* introduced my close friend to HY (she will study her phd in Max Planck Institute) 
+
+#### Who helped you this week?	
+
+* HNC introduced lots of details in a job position which I prepare to send my CV
+* MK and CH gave me lots of suggestions about finding a job
+* AL helped me to analysis HCP data
+
+#### What did you achieve?
+
+* made a plan for graduation and finding a job
+
+#### What did you struggle with?
+
+* Both graduation and finding a job are full of challenges
+ 
+#### What would you like to work on next week?
+
+* reproduce my previous work in some other data
+* try to make a communication with CNU which release a job position
+
+#### Where do you need help from Kirstie?
+
+* give suggestions for me to face all the challenges
+
+KW: These are all great Yini - thank you for sharing!
+See you on 17 March to discuss the harm avoidance paper!
+
+__________________
+
+### Date: 13 February 2020
+
+#### Who did you help this week?
+
+* helped SM to make a WeChat individual and public account
+  * KW: Super helpful
+
+#### Who helped you this week?	
+
+* TY helped us to set up an automation toolchains
+* MNX helped me to know how to use WeChat public account！
+  * KW: Great!
+
+#### What did you achieve?
+
+* Review and organize the translation problems for the turing way
+* Try to use WeChat public platform to publish articles
+* Participate in second language activities in Turing and make a lot of new friends
+
+#### What did you struggle with?
+
+* A very energetic week
+ 
+#### What would you like to work on next week?
+
+* The Turing Way
+* Continue to do RR
+* Think more deeply in write a blog or paper about what Kirstie's recommended last week
+
+#### Where do you need help from Kirstie?
+
+* Make plans to update RR study 
+
+__________________
+
+
+### Date: 04 February 2020
+
+#### Who did you help this week?
+
+* Donation for The Wuhan coronavirus
+  * KW: I'm so sorry for how damaging and disruptive this virus outbreak is for the people of Wuhan.
+* discussion with AJ's project
+* I helped YJL to follow her research about the effects of Chinese acupuncture and I helped her to check her image quality of fMRI and DTI
+* I summarized some fMRI analysis videos and my reading notes to YYL
+
+#### Who helped you this week?	
+
+* YJL and JX sent me some private fMRI data.
+* AL shared HCP data and helped me to make a plan for reproducing my previous work
+* MK and CH recommended some Chinese food which UK people love for me
+
+KW: These are great - the food was delicious!!
+
+#### What did you achieve?
+
+* lab Spring Festival lunch is an amazing memory in my life
+* read the chapters 1-4 of the turing way carefully
+* translation the turing way into Chinsese with AL
+* brainstorm with Ang about the turing way
+* analyzed some data, reorganized previous work which had been rejected by HBM 、
+
+#### What did you struggle with?
+
+* little worried about my family
+  * KW: I'll be thinking of them. I hope they're safe.
+ 
+#### What would you like to work on next week?
+
+* the Turing way
+* continue to do RR
+
+KW: Really fantastic work! Enjoy chatting with TY next week and I look forward to thinking about sharing the Turing Way through WeChat etc!!
+
+Checkout:
+* The weirdest people in the world? https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf
+* https://www.theatlantic.com/daily-dish/archive/2010/10/western-educated-industrialized-rich-and-democratic/181667
+* https://undark.org/2020/01/20/psychology-bias-western
+
+#### Where do you need help from Kirstie?
+
+* give suggestions for our brainstorm about the turing way and update RR study 
+
+__________________
 
 ### Date: 16 December 2019
 

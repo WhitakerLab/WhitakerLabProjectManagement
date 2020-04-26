@@ -1,5 +1,8 @@
 # Weekly Meetings
 
+* [13th February 2020](#date-13th-february-2020)
+* [4th February 2020](#date-4th-february-2020)
+* [16th December 2019](#date-16th-december-2019)
 * [6th December 2019](#date-6th-december-2019)
 * [22nd November 2019](#date-22-november-2019)
 * [31st October 2019](#date-31-october-2019)
@@ -19,6 +22,137 @@
 
 
 =======
+
+## Date: 13th February 2020
+
+#### Who did you help this week?
+
+* BL helped with job information
+* TY helped with a really cool translation pipeline! 
+* AZ, R & Ed helped with language improvement in the new revision
+  * KW: CONGRATULATIONS! :rocket: :tada:
+
+#### Who helped you this week?
+
+* Helped MW with his first manuscript. 
+
+#### What did you achieve?
+
+* Attended a workshop in Liunx, Python & Git programing in Turing!
+* Run the demo of PCA in RR.
+
+#### What did you struggle with?
+
+* Nothing specific. 
+
+#### What would you like to work on next week?
+
+* Translate the Turing Way in the Transfixed! 
+  * KW: Very cool demo - thanks for sharing :earth_asia:
+* Prepare a graduation paper for my PhD. 
+
+#### Where do you need help from Kirstie?
+
+* KW can help to add the code related to gene expression into the RR Github. 
+
+## Date: 4th February 2020
+
+#### Who did you help this week?
+
+* Helped AJ with his project and introduce some neuroimaging packages in Python. 
+* Donote and stand with Wuhan.
+  * KW: I'm so sorry for how damaging and disruptive this virus outbreak is for the people of Wuhan.
+* Helped the TTW to translate some chapters.
+* Helped RW with her project proposal with some suggestions. 
+* Helped HY with her project proposal with some suggestions.
+* Helepd XY to introduce some basic conception of neuroimaging and some guideline article. 
+* Helped BL review a paper. 
+
+KW: Really exciting future plans!
+
+#### Who helped you this week?
+
+* CR helped to share a monkey fMRI dataset. 
+
+#### What did you achieve?
+
+* Had a great Spring Festival in London and attended an amazing gala in Cambridge.
+  * KW: SO COOL!
+* Introduced Spring Festival and prepared some Chinese food for lab members.
+  * KW: The presentation and the food was just wonderful.
+* Worked with Yini to translate some Chapters in TTW and made some further plans to popularize them in China. 
+* Visiting AJ at his house and tasted some indian food from him.
+* Got a positive feedback from the editor for my previous work. 
+  * KW: CONGRATULATIONS :tada: :confetti: :tada:
+
+#### What did you struggle with?
+
+* Explored and learned some HCP pipeline (and its data structure), which is kind of difficult.  
+
+#### What would you like to work on next week?
+
+* Learning the pipeline of translation and deployed it on my laptop. 
+* Made some broadcast for the TTW in China with YN.  
+* Finish some editoral requirements of my previous work.
+
+KW: Really fantastic work! Enjoy chatting with TY next week and I look forward to thinking about sharing the Turing Way through WeChat etc!!
+
+Checkout:
+* The weirdest people in the world? https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf
+* https://www.theatlantic.com/daily-dish/archive/2010/10/western-educated-industrialized-rich-and-democratic/181667
+* https://undark.org/2020/01/20/psychology-bias-western
+
+
+#### Where do you need help from Kirstie?
+
+* KW can help to add the code related to gene expression into the RR Github. (I also pulled a request to address some previous suggestions from KW).
+  
+_________
+
+
+## Date: 16th December 2019
+
+#### Who did you help this week?
+
+* Helped YH with her Github skills. 
+* Helped YH with her first pull request for the Turing Way: [#774](https://github.com/alan-turing-institute/the-turing-way/pull/774)
+  * KW: Fab!
+
+#### Who helped you this week?
+
+* BW introduced a wearable devices to support meditation.
+
+#### What did you achieve?
+
+* Made a challenging presentation in visualization at the lab meeting. 
+* Improved the Github repository of RR.
+* Got my first Christmas card in my life. 
+  * KW: :heart_eyes:
+* Read through the Turing Way again. 
+* Opened an issue for the Turing Way for a new chapter of the power analysis: [#775](https://github.com/alan-turing-institute/the-turing-way/issues/775)
+  * KW: This is great!
+* Knowed that there is a weekly meeting in UCL and will be glad to attend.
+  * KW: I'm glad you got to ask Konrad about that! Here's the link https://www.fil.ion.ucl.ac.uk/Meetings
+  * Maybe get in touch with him before you go to the first meeting and he can show you around :smiley_cat:
+
+#### What did you struggle with?
+
+* Nothing specific.
+
+#### What would you like to work on next week?
+
+* Improving the consciousness project and IMAGEN developement project. 
+* Helped AJ with his project when he is ready.
+
+
+#### Where do you need help from Kirstie?
+
+* Kirstie can help to add the code related to gene expression into the RR Github.
+
+KW: Should be able to do that over the holidays or in January.
+  
+_________
+
 
 ## Date: 6th December 2019
 
