@@ -42,7 +42,6 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 * November
   * [Springer Nature/British Library: Can opening up research help drive innovation and tackle global challenges?](#springer-naturebritish-library-can-opening-up-research-help-drive-innovation-and-tackle-global-challenges)
   * [Inspirational Seminars talk at EMBL](#inspirational-seminars-talk-at-embl)
-  * [Talk at Center for Research and Interdisiplinarity](#talk-at-center-for-research-and-interdisiplinarity)
   * [Keynote at PyData Cambridge](#keynote-at-pydata-cambridge)
 * December
 
@@ -608,39 +607,6 @@ Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker
 You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
 
 **Slides**: https://doi.org/10.5281/zenodo.3532649
-
-### Talk at Center for Research and Interdisiplinarity
-
-***Postponed due to public holiday in France***
-
-**Website**: https://events.cri-paris.org/e/649/cri-research-seminar-kirstie-whitaker-participatory-citizen-science-to-improve-autistic-peoples-lives
-
-**Date**: 11 November 2019
-
-**Title**: Participatory citizen science to improve autistic people's lives
-
-**Abstract**: [Autistica](https://www.autistica.org.uk/) and the [Alan Turing Institute](https://www.turing.ac.uk/) are working together to build a participatory, citizen science platform to gather data on how sensory processing affects autistic people’s navigation of the world.
-Numerous studies have confirmed that autistic people experience sensory processing differences, and that this can significantly impact their lives.
-One aspect which is not yet fully understood is how these differences affect the ways in which autistic people navigate different environments.
-In this talk, I will showcase the team's process of building a project that is participatory from the ground up.
-We ensure that all aspects of the project are designed and developed in collaboration with members of the autistic community through focus groups and user testing in the design phase.
-In close collaborations with the [Open Humans](https://www.openhumans.org/about/) community, we are developing a platform for which the software, design, process and governance documentation are all open source.
-We give the individual contributors control over how their data is used on the platform.
-Flipping the traditional scientific study on its head, our goal is to give a voice to autistic citizen scientists and educate neurotypical people.
-We seek to empower everyone in supporting autistic people and their families in living long, healthy, happy lives.
-Combining open science, participatory design, transparent governance, inclusive community management, and collaborations across academia, industry and the third sector requires a diverse, interdisciplinary community of contributors.
-CRI audience members will leave knowing how they can join the team and contribute to the project that same day, starting from information at [our website](https://alan-turing-institute.github.io/AutisticaCitizenScience) and [GitHub repository](https://github.com/alan-turing-institute/AutisticaCitizenScience), or reuse the processes we've developed for their own citizen science research.
-
-**Bio**: Kirstie Whitaker is a research fellow at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK) and senior research associate in the Department of Psychiatry at the University of Cambridge.
-Her work covers a broad range of interests and methods, but the driving principle is to improve the lives of neurodivergent people and people with mental health conditions.
-Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and participatory citizen science to educate non-autistic people about how they can better support autistic friends and colleagues.
-She is the lead developer of [*The Turing Way*](https://github.com/alan-turing-institute/the-turing-way), an openly developed educational resource to enable more reproducible data science.
-Kirstie is a passionate advocate for making science "open for all" by promoting equity and inclusion for people from diverse backgrounds, and by changing the academic incentive structure to reward collaborative working.
-She is the chair of the Turing Institute's Ethics Advisory Group, a Fulbright scholarship alumna and was a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
-Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
-You can find more information at her lab website: [whitakerlab.github.io](https://whitakerlab.github.io/).
-
-**Slides**: Figshare link to slides (if applicable)
 
 ### Keynote at PyData Cambridge
 
