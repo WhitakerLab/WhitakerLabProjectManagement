@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [27 April 2020](#date-27-april-2020)
 * [19 March 2020](#date-19-march-2020)
 * [28 January 2020](#date-28-january-2020)
 * [10 December 2019](#date-10-december-2019)
@@ -14,6 +15,42 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 27 April 2020
+
+#### Who did you help this week? 
+
+* Helped EC with process and protocol of project 
+* Helped YD by sending project updates
+* Helped ED with some GitHub edits
+
+#### Who helped you this week?
+
+* MS helped me by reviewing pull requests and giving some advice on community building - thanks M :-D
+* SG helped me by reviewing a (pretty big) PR
+* KW taught me how to use the all-contributors bot on GitHub
+
+#### What did you achieve?
+
+* Submitted an application for CogX
+* Finished an April newsletter for the project
+* CSP Repo tidying + merged some PRs and closed some issues
+* Helped JS review work on GitHub 
+
+#### What did you struggle with?
+
+* Found the CogX application tricky to put succinctly, so it took me a while to edit down - happy it's submitted!
+
+#### What would you like to work on next week?
+
+* More GitHub stuff to do - & continuing to work with Fujitsu team
+* Creating some comms plans for distributing work to wider community 
+* Identify more topics/collaborators for research papers
+
+#### Where do you need help from Kirstie?
+
+* Ideas for growing community 
+* Reviewing CSP position paper
 
 ### Date: 19 March 2020
 
