@@ -1,11 +1,53 @@
 # Malvika's weekly meeting notes.
 
+* [24 April 2020](#date-24-April-2020)
 * [06 April 2020](#date-06-April-2020)
 * [17 March 2020](#date-17-March-2020)
 * [29 February 2020](#date-29-February-2020)
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 24 April 2020
+
+#### Who did you help this week?
+
+- Exchanging feedback with Scriberia with the help of KW
+- Sharing community ideas and newsletter structure with GA
+- Sponsoring YY's ally skill training through my SSI fellowship
+- Helping finalising The Carpentries instructor training with a few instructors in Europe
+- Helping finalising OBF trabel fellowship candidate for this round
+
+#### Who helped you this week?
+
+- KW in writing the contributor's acknowledgement draft for the TW
+- GA in creating a co-working hour plan for the lab
+- SG in making the Turing Way co-working call productive with other members
+- YY for providing tips and reviewing GSoD draft
+
+#### What did you achieve?
+
+- Co-creating a co-working plan with GA for the Whitaker lab
+- Co-working with community members in a scheduled hour every day
+- Submitting the CogX abstract
+- Planning the Binder workshop in May along with SG and KW
+- Helping offer ideas for the Reproducibilitea online meeting with their orgnaisers
+- Finishing Ally skill train the trainer workshop
+- Creating a GSoD application draft
+- Submitting a sprint idea about TW in SciPy (a slot was offered as a chair of bioinformatics)
+
+#### What did you struggle with?
+
+-  Same as the last times, I haven't yet had a chance to work in community documents
+
+#### What would you like to work on next week?
+
+- Community documents
+
+#### Where do you need help from Kirstie?
+
+- Approving GSoD draft
+- Approving a AW's PR on version control
 
 ### Date: 06 April 2020
 
