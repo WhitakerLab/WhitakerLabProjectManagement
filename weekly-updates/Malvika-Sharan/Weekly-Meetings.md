@@ -16,13 +16,13 @@
 - Sharing community ideas and newsletter structure with GA
 - Sponsoring YY's ally skill training through my SSI fellowship
 - Helping finalising The Carpentries instructor training with a few instructors in Europe
-- Helping finalising OBF trabel fellowship candidate for this round
+- Helping finalising OBF travel fellowship candidate for this round
 
 #### Who helped you this week?
 
 - KW in writing the contributor's acknowledgement draft for the TW
 - GA in creating a co-working hour plan for the lab
-- SG in making the Turing Way co-working call productive with other members
+- SG, AW and MG in making the Turing Way co-working call productive with other members
 - YY for providing tips and reviewing GSoD draft
 
 #### What did you achieve?
