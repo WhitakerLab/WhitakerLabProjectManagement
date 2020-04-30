@@ -1,8 +1,40 @@
 # Weekly Meetings
 
+* [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
 
 ---
+
+### Date: 05 May 2020
+
+#### Who did you help this week?
+
+Hmmmm... I think I helped a friend by reviewing his paper! Just around grammar and so on, nothing too difficult!
+
+#### Who helped you this week?
+
+CH helped me find Slack channels and spoke of DMP developments within EAG, MS helped me out with Slack and PH gave me an overview of data management plans - I am learning about such varied things!
+
+#### What did you achieve?
+
+* I started using the public EAG Slack channel to get people engaged with ethics - I am playing the long game with this one and hope it helps!
+* I reviewed PH's DMP form and come up with some questions
+
+#### What did you struggle with?
+
+* The blurring line between life and work, haha (not really a struggle! Yet!)
+
+#### What would you like to work on next week?
+
+* EAG/DMP forms
+
+#### Where do you need help from Kirstie?
+
+* Please have a look at the webpage ideas! I have a feeling it will need to be quite succinct for now
+
+#### Any other topics
+
+Not at the moment!
 
 ### Date 28 April 2020
 
