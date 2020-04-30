@@ -30,7 +30,7 @@ CH helped me find Slack channels and spoke of DMP developments within EAG, MS he
 
 #### Where do you need help from Kirstie?
 
-* Please have a look at the webpage ideas! I have a feeling it will need to be quite succinct for now
+* DMP/EAG application integration brainstorming
 
 #### Any other topics
 
