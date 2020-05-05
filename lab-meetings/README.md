@@ -46,10 +46,10 @@ This table covers lab meetings from March 2020 to May 2020.
 | 16 April | - |  No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 | 22 April | 09:00 |  Welcome new members | Katherine & Ismael | |
 | 30 April | 09:00 |  Malvika & Yo | Ally Skills Short workshop | |
-| 7 May | 15:00 |  Patricia | Time management & project management | |
-| 14 May | 09:00 | Yini | Paper update from Yini and General updates from lab members | |
+| 7 May | 15:00 |  Sarah | Cross-stitch and morale booster | |
+| 14 May | 09:00 | Patricia | Time management & project management | |
 | 21 May | - |  No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
-| 28 May | TBD | TBD | |
+| 28 May | 09:00 | Yini | Paper update from Yini and General updates from lab member| |
 
 Other topics proposed:
 - Cross stitch by Sarah
