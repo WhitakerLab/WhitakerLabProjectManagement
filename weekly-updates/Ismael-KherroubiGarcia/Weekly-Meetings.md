@@ -9,28 +9,37 @@
 
 #### Who did you help this week?
 
-Hmmmm... I think I helped a friend by reviewing his paper! Just around grammar and so on, nothing too difficult!
-
+* Hmmmm... I think I helped a friend by reviewing his paper!
+  Just around grammar and so on, nothing too difficult!
+  * KW: TOTALLY counts!
+  
 #### Who helped you this week?
 
-CH helped me find Slack channels and spoke of DMP developments within EAG, MS helped me out with Slack and PH gave me an overview of data management plans - I am learning about such varied things!
+* CH helped me find Slack channels and spoke of DMP developments within EAG, MS helped me out with Slack and PH gave me an overview of data management plans - I am learning about such varied things!
+  * KW: :heart_eyes: Really great!
 
 #### What did you achieve?
 
 * I started using the public EAG Slack channel to get people engaged with ethics - I am playing the long game with this one and hope it helps!
+  * KW: I'm so excited about this!! Thank you :sparkles:
 * I reviewed PH's DMP form and come up with some questions
+* Drafted text for EAG website
+  * KW: This looks great to me! Thank you :rocket:
 
 #### What did you struggle with?
 
 * The blurring line between life and work, haha (not really a struggle! Yet!)
+  * KW: Welcome to research :scream_cat::scream_cat::scream_cat: - more seriously, keep an eye on those boundaries - they blur really quickly! 
 
 #### What would you like to work on next week?
 
-* EAG/DMP forms
+* EAG/DMP forms & links to data safe haven webapp (not the secure research environment itself)
+* CH flexigrant fun times
 
 #### Where do you need help from Kirstie?
 
 * DMP/EAG application integration brainstorming
+  * KW: That was a fun meeting, please can you try to capture these points in a doc - I'd like to have a plan to present to the EAG for their review.
 
 #### Any other topics
 
