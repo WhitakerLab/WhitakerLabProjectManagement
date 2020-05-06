@@ -11,6 +11,28 @@ The lab also has a [google calendar](https://calendar.google.com/calendar/embed?
 The hackmd links for each meeting are not publicly available as they contain some conversations that lab members would prefer to keep private.
 As a reminder, please **complete the HackMD in advance of the meeting** in order to facilitate conversations before and during the 1 hour time slot.
 
+### Spring 2020
+
+This table covers lab meetings from March 2020 to May 2020.
+
+| Date | Time | Chair | Topic | Link to blog |
+| ---- | ----- | ----- | ----- | ------------ |
+| 5 March | 15:00 | Malvika | Self care for team and community | [optional reading](https://socialwork.buffalo.edu/content/dam/socialwork/home/self-care-kit/self-care-assessment.pdf) |
+| 12 March | 15:00 |  Patricia | Time management & project management | |
+| 19 March | - |  No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
+| 26 March | 15:00 |  TBD | General update (share 1 slide) | |
+| 2 April | - |  No lab meeting | [SSI Collaborations Workshop](https://www.software.ac.uk/cw20) | |
+| 9 April | - |  No lab meeting | Happy Easter 🐇🥚🍫 | *No blog* |
+| 16 April | - |  No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
+| 22 April | 09:00 | Welcome new members | Katherine & Ismael | |
+| 30 April | 09:00 | Malvika & Yo | Ally Skills Short workshop | |
+| 7 May | 15:00 | Sarah | Cross-stitch and morale booster | |
+| 14 May | 09:00 | Patricia | Time management & project management | |
+| 21 May | - | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
+| 28 May | 09:00 | Yini | Presentation on Yini's paper | |
+
+---
+
 ### Winter 2019/2020
 
 This table covers lab meetings from December 2019 to February 2020.
@@ -30,31 +52,6 @@ This table covers lab meetings from December 2019 to February 2020.
 | 13 February | Anastasia & Georgia | Including policy / communication experts in open source projects  | |
 | 20 February | No lab meeting | Turing Way Book Dash :books::dash: | |
 | 27 February | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
-
-### Spring 2020
-
-This table covers lab meetings from March 2020 to May 2020.
-
-| Date | Time | Chair | Topic | Link to blog |
-| ---- | ----- | ----- | ----- | ------------ |
-| 5 March | 15:00 | Malvika | Self care for team and community | [optional reading](https://socialwork.buffalo.edu/content/dam/socialwork/home/self-care-kit/self-care-assessment.pdf) |
-| 12 March | 15:00 |  Patricia | Time management & project management | |
-| 19 March | - |  No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
-| 26 March | 15:00 |  TBD | General update (share 1 slide) | |
-| 2 April | - |  No lab meeting | [SSI Collaborations Workshop](https://www.software.ac.uk/cw20) | |
-| 9 April | - |  No lab meeting | Happy Easter 🐇🥚🍫 | *No blog* |
-| 16 April | - |  No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
-| 22 April | 09:00 |  Welcome new members | Katherine & Ismael | |
-| 30 April | 09:00 |  Malvika & Yo | Ally Skills Short workshop | |
-| 7 May | 15:00 |  Sarah | Cross-stitch and morale booster | |
-| 14 May | 09:00 | Patricia | Time management & project management | |
-| 21 May | - |  No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
-| 28 May | 09:00 | Yini | Paper update from Yini and General updates from lab member| |
-
-Other topics proposed:
-- Cross stitch by Sarah
-- Natural language processing (invite Fede)
----
 
 ### Autumn 2019
 
