@@ -14,7 +14,7 @@ _The evaluation criteria of proposals will be:_
 - _Breadth of domain application_
 
 Open source development, citizen-science, and participatory science are three fields of rapidly expanding growth, opportunity, and debate. 
-This talk will present recent findings from a research project occupying a unique point at their intersection. 
+This talk will present recent findings from Austistica, a research project that occupies a unique point at their intersection. 
 
 This project is currently developing a citizen-science platform which will be used to collect data on sensory processing and autism. 
 Experiencing sensory processing differences compared to the wider population is a diagnostic criterium of autism – and its prevalence is supported by numerous lab-based studies. 
@@ -75,4 +75,3 @@ CogX attendees from all backgrounds will be invited to explore our work and to c
 This creation and delivery of this talk will itself model the participatory methods it proposes.
 The talk will be co-designed, edited, and reviewed by autistic collaborators as well as members of the core research team.
 It will also be published openly and circulated to the community.
-
