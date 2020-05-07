@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-
+* [22 April 2020](#date-22-April-2020)
 * [02 April 2020](#date-02-April-2020)
 * [17 March 2020](#date-17-march-2020)
 * [18 February 2020](#date-18-February-2020)
@@ -21,7 +21,47 @@
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
 
+### Date: 22 April 2020
 
+#### Who did you help this week?
+
+* As a volunteer, I distributed epidemic prevention materials from the Chinese embassy to the overseas students
+  * KW: This is awesome!
+* I spent almost a whole week helping AL with his graduation thesis
+  * KW: Really helpful!
+
+#### Who helped you this week?	
+
+* AL helped me to draw a new figure for harmavoidance paper and conduct further brain analysis for bi-factor Neuroticism 
+* AG answered some questions about bi-factor model
+* JX give me suggestions to discuss the result of bi-factor Neuroticism 
+
+KW: All really cool! Very helpful to have input on interpreting the bi-factor model :smiley_cat:
+
+#### What did you achieve?
+
+* reanalysis of harmavoidance using Python 
+* Analyze mean diffusivity of harm avoidance paper and redraw the figure
+* I felt I had experience for my graduation thesis after revising Ang's thesis.
+  * KW: hahahaha - well prepared!
+* Read papers of neuroticism and discuss it with experienced people
+
+#### What did you struggle with?
+
+* I still have a lack of understanding in the basic theory of neuroticism
+ 
+#### What would you like to work on next week?
+
+* work for my harm avoidace paper and bi-factor neuroticism result
+  * KW: Fab - don't forget to spend some time updating the references too - just try to add in a few more recent papers
+  * Check that the python results are the same as the SPSS results :smiley:
+
+#### Where do you need help from Kirstie?
+
+* give me suggestions for my harm avoidace paper and bi-factor neuroticism result
+  * KW: Thank you for writing out the code in a notebook Yini - it's really helpful.
+
+__________________
 ### Date: 2 April 2020
 
 #### Who did you help this week?
@@ -42,6 +82,11 @@ KW: :laughing: True, fair enough!
   * KW: Congratulations! I'm sure that was pretty wildly stressful!
 * Analyze HCP data and summarize neuroticism results
   * KW: This looks great! Keep going.
+  * We talked about making sure that the specific factor correlations aren't "contaminated" by the general factor, so running a multiple regression to covary the general factor rather than just pairwise correlations with the specific factor.
+  * We also talked about covarying for age, gender and scanner location/ID in the brain correlations
+  * Please move these correlations into a jupyter notebook so they are programatically run rather than done using a graphic user interface.
+  * The bifactor model can stay in MPlus - that analysis is much harder to do in Python :sweat_smile:
+
 * Analyze MD using hostility data
   * KW: We ran out of time for this - can you show me next time we meet?
 
