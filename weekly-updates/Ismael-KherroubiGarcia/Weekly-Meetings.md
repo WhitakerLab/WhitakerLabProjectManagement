@@ -1,7 +1,41 @@
 # Weekly Meetings
 
+* [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 05 May 2020
+
+#### Who did you help this week?
+
+* This is the hardest question! I like to think I helped people on the ethics-advisory-group channel think just a little bit more =)
+  
+#### Who helped you this week?
+
+* AR helped understand with Flexi-Grant, DP helped see how the Safe Haven web app works, KW helped get the EAG Slack channel talking!
+
+#### What did you achieve?
+
+* EAG website sent to HT to publish! Hooray!
+
+#### What did you struggle with?
+
+* I think I am slightly struggling with expectations
+
+#### What would you like to work on next week?
+
+* I will speak with CH and we will think about how the whole process works
+* I will try to get as far as I can integrating the EAG form with DCC's
+
+#### Where do you need help from Kirstie?
+
+* The training wheels are coming off and I think I just need general reassurance =)
+
+#### Any other topics
+
+My dissertation topic (it had to come up explicitly eventually, haha): how do cultural shifts happen in scientific communities. Is this the question you had in mind? (nb: 10,000 words limit!)
 
 ---
 
@@ -44,6 +78,8 @@
 #### Any other topics
 
 Not at the moment!
+
+---
 
 ### Date 28 April 2020
 
