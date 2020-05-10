@@ -7,11 +7,120 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2020**
 
+* [10 May 2020](#date-10-may-2020)
 * [30 March 2020](#date-30-march-2020)
 
 ---
 
-## Date: 30 March 2020
+## Date: 10 May 2020
+
+*This update covers 30 March to 10 May, the To Do list is in [#351](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/351). but was not kept properly up to date* 😬
+
+### Who did you help this month?
+
+* I think I've done good work helping MM & CL with processes
+* I had a good chat with a PhD student who was struggling
+
+### Who helped you this month?
+
+* EVERYONE in the lab has absolutely stepped up as I got so busy, its been truly beautiful to see everyone helping each other 
+* Lab meetings and coffee chats have been absolutely wonderful - the ally workshop and introducing new members were definite highlights.
+* IS & then Turing REG turned a great idea into an actual tool which I ADORE
+
+### What did you achieve
+
+> #### ABCD Registered Report 🧬
+>
+> No progress.
+>
+> #### Autistica citizen science 👫
+>
+> * Gave presentation to donor, went really well! Spectacular job from Georgia & Otis too
+> * Gave talk at CRI over Zoom - really fun
+>   * YouTube: https://youtu.be/Ftsf21Cr4Jk
+>   * Slides: https://doi.org/10.5281/zenodo.3766922
+>   * Write up: https://www.cri-paris.org/en/newspage?id=2VYiKxic
+> * April newsletter: http://tinyletter.com/AutisticaTuringCitizenScience/letters/autistica-turing-citizen-science-newsletter-april-2020
+> * Sprint reports & videos released
+>
+> #### BIDS 🧠
+>
+> * No progress on BEP001 and I should try to carve out some time in the next couple of weeks
+> * Good couple of steering group committee meetings - progress on authorship & defining maintainers
+> * Submitted GSOD proposal for BIDS Apps
+>
+> #### Community engagement / service 💁🏼
+>
+> * 
+>
+> #### Ethics Advisory Group ⚖️
+>
+> * New team member!!! YAAAAAY!
+> * New website - YAAAAAY!
+> * A bunch of good work wrt a couple of major Turing projects
+>
+> #### Jupyter 🌌
+>
+> * Stood down from JupyterCon committee (not enough capacity)
+> * Attended Binder meeting
+>
+> #### Open and inclusive writing 🌈
+>
+> No progress
+>
+> #### tedana 🎉
+>
+> * Attended meeting, but generally haven't done what I was supposed to do :sob:
+>
+> #### Tools, Practices & Systems 🛠️
+>
+> * Officially got the job!! 🎉 🎊 🥂
+> * Sent out first newsletter
+> * Submitted 3 strategic direction proposals, on top of 2 with AI for Science, 1 with Health and 1 with Criminal Justice
+> * Presented at External Advisory Group meeting
+> * Presented at April Management board meeting 
+>
+> #### Turing Training Steering Group 👩‍🏫
+>
+> * Sat on selection committee for Enrichment scheme
+>
+> #### Turing Way 🛣️
+>
+> * A couple of collaboration cafes that were really fun
+> * Case study for Turing annual report
+> * GSOD application submitted
+>
+> #### Whitaker lab 👩‍🔬
+>
+> * Welcomed new lab members IKG & KD
+>
+> #### Yini temperament paper 😇
+>
+> * Meeting & code in GitHub
+
+### What did you struggle with?
+
+* Lolz, clearly keeping on top of my to do list.
+* My temper occasionally.
+* Binder blog post out through Turing
+
+### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+### Where do you need help?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+### Any other topics
+
+This space is yours to add to as needed.
+
+## Date: 30 April 2020
 
 *This update covers 23 to 29 March, the To Do list is in [#342](https://github.com/WhitakerLab/WhitakerLabProjectManagement/issues/342).*
 
@@ -108,6 +217,7 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 * I would love for lab folks to work more closely with each other
 * TPS keeping its head above water
+
 
 ---
 
