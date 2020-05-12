@@ -11,10 +11,12 @@
 #### Who did you help this week?
 
 * This is the hardest question! I like to think I helped people on the ethics-advisory-group channel think just a little bit more =)
+  * KW: And me! You helped me with the EAG website YAAAY!
   
 #### Who helped you this week?
 
 * AR helped understand with Flexi-Grant, DP helped see how the Safe Haven web app works, KW helped get the EAG Slack channel talking!
+  * KW: Cool! :hibiscus:
 
 #### What did you achieve?
 
@@ -23,19 +25,24 @@
 #### What did you struggle with?
 
 * I think I am slightly struggling with expectations
+  * KW: GENERAL REASSURANCE DELIVERED - You're doing great! :confetti_ball: :tada: :balloon:
 
 #### What would you like to work on next week?
 
 * I will speak with CH and we will think about how the whole process works
 * I will try to get as far as I can integrating the EAG form with DCC's
+  * KW: Fun. And remember to collect together guidance as you go - I think some of these questions are going to be a little tough for folk
 
 #### Where do you need help from Kirstie?
 
 * The training wheels are coming off and I think I just need general reassurance =)
+  * KW: AS ABOVE. GREAT WORK.
 
 #### Any other topics
 
 My dissertation topic (it had to come up explicitly eventually, haha): how do cultural shifts happen in scientific communities. Is this the question you had in mind? (nb: 10,000 words limit!)
+
+KW: Discussed in the meeting - really fun ideas and very supportive of loads of ideas!
 
 ---
 
