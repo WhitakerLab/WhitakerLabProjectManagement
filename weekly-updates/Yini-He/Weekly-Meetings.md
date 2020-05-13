@@ -37,18 +37,23 @@
 #### What did you achieve?
 
 * finished a job interview and exam
-* Further analyzed of harm avoidance result，including mean diffusivity and gender diffenrence
+  * KW: Fingers crossed!
+* Further analyzed of harm avoidance result，including mean diffusivity and gender difference
 * Analyzed mean diffusivity of harm avoidance paper and redraw the figure
 * modified manuscript of harm avoidance
 * Check that the python harm avoidance results are the same as the SPSS results 
+  * KW: Great - phew! :sweat_smile:
 * Collected information about ways China is using to fight coronavirus.
-I have interviewed some of my friends，classmates and relatives.
-I think it can present voices from Chinese citizens.
-I also collect informations about bias toward China and try to find some related reasons.
+  * I have interviewed some of my friends，classmates and relatives.
+  * I think it can present voices from Chinese citizens.
+  * I also collect informations about bias toward China and try to find some related reasons.
+
+KW: I'm looking forward to hearing more about your and your friends' experiences!
 
 #### What did you struggle with?
 
 * improving harm avoidance paper
+  * KW: Thank you for running the models - I hope the conversation on the point of the analyses was helpful!
  
 #### What would you like to work on next week?
 
