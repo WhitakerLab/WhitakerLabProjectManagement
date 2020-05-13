@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [13 May 2020](#date-13-May-2020)
 * [22 April 2020](#date-22-April-2020)
 * [02 April 2020](#date-02-April-2020)
 * [17 March 2020](#date-17-march-2020)
@@ -20,6 +21,44 @@
 * [07 July 2019](#date-07-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 13 May 2020
+
+#### Who did you help this week?
+
+* help AL to futher modify his graduation thesis 
+
+#### Who helped you this week?	
+
+* JX&AL helped me to prepare my job interview
+* NHC sent me some review notes about online exam
+* I received a lot of masks from my university, Chinese embassy and Chinese education bureau
+
+#### What did you achieve?
+
+* finished a job interview and exam
+* Further analyzed of harm avoidance result，including mean diffusivity and gender diffenrence
+* Analyzed mean diffusivity of harm avoidance paper and redraw the figure
+* modified manuscript of harm avoidance
+* Check that the python harm avoidance results are the same as the SPSS results 
+* Collected information about ways China is using to fight coronavirus.
+I have interviewed some of my friends，classmates and relatives.
+I think it can present voices from Chinese citizens.
+I also collect informations about bias toward China and try to find some related reasons.
+
+#### What did you struggle with?
+
+* improving harm avoidance paper
+ 
+#### What would you like to work on next week?
+
+* work for my harm avoidace paper and bi-factor neuroticism result
+
+#### Where do you need help from Kirstie?
+
+* give me suggestions for my harm avoidace paper 
+
+__________________
 
 ### Date: 22 April 2020
 
