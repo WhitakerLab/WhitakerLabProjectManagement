@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [15 May 2020](#date-15-May-2020)
 * [24 April 2020](#date-24-April-2020)
 * [06 April 2020](#date-06-April-2020)
 * [17 March 2020](#date-17-March-2020)
@@ -7,6 +8,49 @@
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Date: 15 May 2020
+
+#### Who did you help this week?
+
+* KS in onboarding in the project
+* SG in coworking on some PR and issues
+* GA in community and GitHub related discussions
+* IGK in sharing some group related aspects and GitHub tutorials
+* GSoD participants
+
+#### Who helped you this week?
+
+* YY and CR in helping out with GSoD information
+* SG and GA in coworking and uplifiting
+* KW in several discussions and guidance
+* 
+
+#### What did you achieve?
+
+* Ally skill workshop for the lab with YY
+* TW Coworking hours and a collaboration cafe
+* WiDs IBM Code Bristol talk and new connections
+* csv,conf and new connections
+* OS mentoring consulting for Dutch team
+* OLS wrap up
+* New half written documents
+* Creative writing social call with SG and GA
+
+#### What did you struggle with?
+
+* Sticking with the daily todos
+
+#### What would you like to work on next week?
+
+* Newsletters
+* Finish gov doc and GitHub collab
+* KPI development
+
+#### Where do you need help from Kirstie?
+
+* At the moment, some asynchronous touch bases helps
 
 ### Date: 24 April 2020
 
