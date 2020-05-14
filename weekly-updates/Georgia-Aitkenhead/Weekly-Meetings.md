@@ -2,7 +2,7 @@
 
 Georgia's weekly meeting notes.
 
-* [12 May 2020](#date-11-may-2020)
+* [12 May 2020](#date-12-may-2020)
 * [27 April 2020](#date-27-april-2020)
 * [19 March 2020](#date-19-march-2020)
 * [28 January 2020](#date-28-january-2020)
@@ -29,14 +29,20 @@ Georgia's weekly meeting notes.
 * Helped JS use Hackmd
 * Helped PC use GitHub for the first time :)
 
+KW: Absolutely spectacular - incredibly helpful and look how much you know now!!! :heart_eyes:
+
 #### Who helped you this week?
 
 * IK, MS, SG and YH all helped with some testing
+  * KW: Is this the welcome bot team! Holy moly :joy: :facepalm: Good luck.
 * MS helped design general template for GitHub issues
 * OS helped me review presentation and gave insights for donor meeting - thanks Otis!! :star: 
+  * KW: This went so well - Great job to both of you!
 * MS helped me with community strategy ideas and onboarding ideas 
 * KW helped me with presentation 
 * LB advised how to make database searcheable
+
+KW: I'm so delighted that you're engaging with so many people - really great to build those connections!
 
 #### What did you achieve?
 
@@ -62,7 +68,12 @@ Georgia's weekly meeting notes.
 #### Where do you need help from Kirstie?
 
 * Welcome bot?
-* Helping review CL's wireframe 
+  * KW: I wildly can't help with this! :joy: Good luck :muscle:
+* Helping review CL's wireframe
+
+KW: Great stuff - I'm going to wait for the wireframe PR but ping me when that's open and I'll take a look.
+
+Really great meeting - thank you so much for all your great work with the Autistica/Turing Citizen Science project and mentoring our wonderful community.
 
 ### Date: 27 April 2020
 
