@@ -1,12 +1,43 @@
 # Weekly Meetings
 
+* [19 May 2020](#date-19-may-2020)
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
 
 ---
-
 ### Date: 05 May 2020
+
+#### Who did you help this week?
+
+* I helped MS by creating a screenshot for their contribution-hackMD (not much to it, haha). Also went step by step thanks to GA to test out a new bot, which unfortunately didn't work :anguished:
+  
+#### Who helped you this week?
+
+* JR and JM got me on the developer site of the safe haven! And CH helped build a roadmap for the new EAG form. Oh, and AR helped once again with Flexi-Grant!
+
+#### What did you achieve?
+
+* To be honest, I want to say I got the EAG chat going really nicely (although your news to LC probably got her excited too, which helped immensely!)
+* Flexi-Grant finally does the job right! SO MANY OPTIONS TO TOGGLE.
+
+#### What did you struggle with?
+
+* A bit with understanding how the safe haven will fit with the EAG process -- I feel the integration, whatever it looks like, will be more long-term
+
+#### What would you like to work on next week?
+
+* Finalise new EAG form; maybe content for EAG video?
+
+#### Where do you need help from Kirstie?
+
+* Data Safe Haven! (In general terms)
+
+#### Any other topics
+
+* Not this week!
+
+### Date: 12 May 2020
 
 #### Who did you help this week?
 
