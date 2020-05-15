@@ -15,17 +15,21 @@
 #### Who did you help this week?
 
 * KS in onboarding in the project
+  * KW: SO GREAT!
 * SG in coworking on some PR and issues
 * GA in community and GitHub related discussions
 * IGK in sharing some group related aspects and GitHub tutorials
 * GSoD participants
 
+KW: So wonderful - I'm so glad folks are benefitting from your expertise.
+
 #### Who helped you this week?
 
 * YY and CR in helping out with GSoD information
+  * KW: So appreciate their input!
 * SG and GA in coworking and uplifiting
 * KW in several discussions and guidance
-* 
+  * KW: Good.... although I can't imagine I've done much at all - you've been kicking ass without me for ages now!
 
 #### What did you achieve?
 
@@ -33,20 +37,32 @@
 * TW Coworking hours and a collaboration cafe
 * WiDs IBM Code Bristol talk and new connections
 * csv,conf and new connections
+  * KW: I could not be more jealous - I'm so glad you could attend :heart_eyes:
 * OS mentoring consulting for Dutch team
 * OLS wrap up
 * New half written documents
+  * KW: We should set aside some time to get these done together - I know you're killing it!!
 * Creative writing social call with SG and GA
+
+KW: Really spectaular - well done!! :space_invader:
 
 #### What did you struggle with?
 
 * Sticking with the daily todos
 
+KW: Totally feel you on this. I think you need to be really strict on how much time you spend on "small" tasks.
+
+* Reserve PRs for others to review
+* Only reply to issues once per day :sparkling_heart:
+* Take whole days / a week off to focus on the deep work
+
 #### What would you like to work on next week?
 
 * Newsletters
 * Finish gov doc and GitHub collab
-* KPI development
+* KPI development / quarterly report
+
+KW: So appreciate all this work
 
 #### Where do you need help from Kirstie?
 
