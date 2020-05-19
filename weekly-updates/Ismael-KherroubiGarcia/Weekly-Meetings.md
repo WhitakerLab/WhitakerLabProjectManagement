@@ -13,16 +13,25 @@
 
 #### Who did you help this week?
 
-* I helped MS by creating a screenshot for their contribution-hackMD (not much to it, haha). Also went step by step thanks to GA to test out a new bot, which unfortunately didn't work :anguished:
+* I helped MS by creating a screenshot for their contribution-hackMD (not much to it, haha).
+* Also went step by step thanks to GA to test out a new bot, which unfortunately didn't work :anguished:
+  * KW: THANK YOU! And it's now fixed!! GO GO ROBOT :robot:
   
 #### Who helped you this week?
 
-* JR and JM got me on the developer site of the safe haven! And CH helped build a roadmap for the new EAG form. Oh, and AR helped once again with Flexi-Grant! (Update: GA helped me edit this on GitHub after I commited with a typo!)
+* JR and JM got me on the developer site of the safe haven!
+* CH helped build a roadmap for the new EAG form.
+* Oh, and AR helped once again with Flexi-Grant!
+* (Update: GA helped me edit this on GitHub after I commited with a typo!)
+
+KW: YAAAAY - so helpful - everyone's the best! :heart_eyes:
 
 #### What did you achieve?
 
 * To be honest, I want to say I got the EAG chat going really nicely (although your news to LC probably got her excited too, which helped immensely!)
 * Flexi-Grant finally does the job right! SO MANY OPTIONS TO TOGGLE.
+
+KW: These are fantastic achievements! Great work!
 
 #### What did you struggle with?
 
@@ -31,10 +40,15 @@
 #### What would you like to work on next week?
 
 * Finalise new EAG form; maybe content for EAG video?
+* KW: Start thinking about guidance? To go with the form & to be featured in the video :joy: 
+* KW: Connect with safe haven folks about building either a public form separated from the data, or translating the classification questions into flexigrant
+
+KW: Generally I think this is a good week to probably consolidate some of the information that you've been gathering over the last month. All going in a great direction though!
 
 #### Where do you need help from Kirstie?
 
 * Data Safe Haven! (In general terms)
+  * KW: Thank you so much for demoing this!!
 
 #### Any other topics
 
