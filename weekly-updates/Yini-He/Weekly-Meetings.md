@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [22 May 2020](#date-22-May-2020)
 * [13 May 2020](#date-13-May-2020)
 * [22 April 2020](#date-22-April-2020)
 * [02 April 2020](#date-02-April-2020)
@@ -21,6 +22,38 @@
 * [07 July 2019](#date-07-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+
+### Date: 13 May 2020
+
+#### Who did you help this week?
+
+* help GA test her github welcome function
+
+#### Who helped you this week?	
+
+* GA Help me with some English problems when I modify harm avoidance paper
+
+#### What did you achieve?
+
+* made a video tointroduced how China fight against COVID-19 and some bias of China during this period. 
+* finished the preliminary modification of harm acoidance paper
+
+#### What did you struggle with?
+
+* I'm a little nervous about time management because of some of the delays I've had.
+ 
+#### What would you like to work on next week?
+
+* Start sorting and writing the bi-factor paper
+
+#### Where do you need help from Kirstie?
+
+* Could Kirstie please help me modify my harm avoidance paper（I almost rewrote it） ：）
+
+
+
+__________________
 
 ### Date: 13 May 2020
 
