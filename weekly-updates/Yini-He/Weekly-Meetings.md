@@ -1,5 +1,7 @@
 # Weekly Meetings
 
+* [22 May 2020](#date-22-May-2020)
+* [13 May 2020](#date-13-May-2020)
 * [22 April 2020](#date-22-April-2020)
 * [02 April 2020](#date-02-April-2020)
 * [17 March 2020](#date-17-march-2020)
@@ -20,6 +22,81 @@
 * [07 July 2019](#date-07-july-2019)
 * [28 June 2019](#date-28-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+
+### Date: 13 May 2020
+
+#### Who did you help this week?
+
+* help GA test her github welcome function
+
+#### Who helped you this week?	
+
+* GA Help me with some English problems when I modify harm avoidance paper
+
+#### What did you achieve?
+
+* made a video tointroduced how China fight against COVID-19 and some bias of China during this period. 
+* finished the preliminary modification of harm acoidance paper
+
+#### What did you struggle with?
+
+* I'm a little nervous about time management because of some of the delays I've had.
+ 
+#### What would you like to work on next week?
+
+* Start sorting and writing the bi-factor paper
+
+#### Where do you need help from Kirstie?
+
+* Could Kirstie please help me modify my harm avoidance paper（I almost rewrote it） ：）
+
+
+
+__________________
+
+### Date: 13 May 2020
+
+#### Who did you help this week?
+
+* help AL to futher modify his graduation thesis 
+
+#### Who helped you this week?	
+
+* JX&AL helped me to prepare my job interview
+* NHC sent me some review notes about online exam
+* I received a lot of masks from my university, Chinese embassy and Chinese education bureau
+
+#### What did you achieve?
+
+* finished a job interview and exam
+  * KW: Fingers crossed!
+* Further analyzed of harm avoidance result，including mean diffusivity and gender difference
+* Analyzed mean diffusivity of harm avoidance paper and redraw the figure
+* modified manuscript of harm avoidance
+* Check that the python harm avoidance results are the same as the SPSS results 
+  * KW: Great - phew! :sweat_smile:
+* Collected information about ways China is using to fight coronavirus.
+  * I have interviewed some of my friends，classmates and relatives.
+  * I think it can present voices from Chinese citizens.
+  * I also collect informations about bias toward China and try to find some related reasons.
+
+KW: I'm looking forward to hearing more about your and your friends' experiences!
+
+#### What did you struggle with?
+
+* improving harm avoidance paper
+  * KW: Thank you for running the models - I hope the conversation on the point of the analyses was helpful!
+ 
+#### What would you like to work on next week?
+
+* work for my harm avoidace paper and bi-factor neuroticism result
+
+#### Where do you need help from Kirstie?
+
+* give me suggestions for my harm avoidace paper 
+
+__________________
 
 ### Date: 22 April 2020
 
