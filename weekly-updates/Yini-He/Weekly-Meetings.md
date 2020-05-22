@@ -24,34 +24,37 @@
 * [17 June 2019](#date-17-june-2019)
 
 
-### Date: 13 May 2020
+### Date: 22 May 2020
 
 #### Who did you help this week?
 
 * help GA test her github welcome function
+  * KW: Great stuff! :wave: :robot:
 
 #### Who helped you this week?	
 
 * GA Help me with some English problems when I modify harm avoidance paper
+  * KW: Fantastic - that's really helpful 
 
 #### What did you achieve?
 
-* made a video tointroduced how China fight against COVID-19 and some bias of China during this period. 
+* made a video to introduce how China fight against COVID-19 and some bias of China during this period. 
 * finished the preliminary modification of harm acoidance paper
 
 #### What did you struggle with?
 
 * I'm a little nervous about time management because of some of the delays I've had.
+  * KW: This was great work - I don't think you need to worry about the "thinking" being a "delay" :hibiscus:
  
 #### What would you like to work on next week?
 
 * Start sorting and writing the bi-factor paper
+  * KW: Looks great! It is difficult for me to help with the code until I have access to the data, so please let me know how I can get access too :)
 
 #### Where do you need help from Kirstie?
 
 * Could Kirstie please help me modify my harm avoidance paper（I almost rewrote it） ：）
-
-
+  * KW: Great stuff - I'll try to find time next week.
 
 __________________
 
