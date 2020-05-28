@@ -2,10 +2,43 @@
 
 # Weekly Meetings
 
+* [02 June 2020](#date-02-june-2020)
 * [19 May 2020](#date-19-may-2020)
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+### Date: 19 May 2020
+
+#### Who did you help this week?
+
+* I helped DSG with that one research project where the ethics form had been stalled for a couple of months (CH helped too, of course!)
+  
+#### Who helped you this week?
+
+* MS helped me create a template for the Turing Way
+* CH gave lots of feedback on the ethics form
+
+#### What did you achieve?
+
+* I got the ethics form to a place where I was willing to share with you! Also created a new template for "editors" on The Turing Way! (https://github.com/Ismael-KG/the-turing-way/blob/patch-1/.github/ISSUE_TEMPLATE/EDITOR_ISSUE_TEMPLATE.md)
+
+#### What did you struggle with?
+
+* Reviewing the ethics form seemed to be taking forever!
+
+#### What would you like to work on next week?
+
+* Prepare agenda for EAG meeting on 10-June, start reviweing form's guidelines document (one chunk relies on having the form on Flexi-Grant first for screenshots)
+
+#### Where do you need help from Kirstie?
+
+* Guidance on new ethics approval form
+
+#### Any other topics
+
+* Working times? Maybe I can do an four days?
 
 ---
 
