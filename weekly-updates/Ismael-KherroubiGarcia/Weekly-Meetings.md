@@ -9,7 +9,7 @@
 * [28 April 2020](#date-28-april-2020)
 
 ---
-### Date: 19 May 2020
+### Date: 02 June 2020
 
 #### Who did you help this week?
 
