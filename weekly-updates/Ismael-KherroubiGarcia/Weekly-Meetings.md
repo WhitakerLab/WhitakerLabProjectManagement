@@ -2,10 +2,54 @@
 
 # Weekly Meetings
 
+* [02 June 2020](#date-02-june-2020)
 * [19 May 2020](#date-19-may-2020)
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+### Date: 02 June 2020
+
+#### Who did you help this week?
+
+* I helped DSG with that one research project where the ethics form had been stalled for a couple of months (CH helped too, of course!)
+  * KW: Great stuff!
+
+#### Who helped you this week?
+
+* MS helped me create a template for the Turing Way
+  * KW: Ah - this also counts as helping the Turing Way! Glad MS could help too :sparkles:
+* CH gave lots of feedback on the ethics form
+  * KW: Fab
+
+#### What did you achieve?
+
+* I got the ethics form to a place where I was willing to share with you!
+  * KW: :heart_eyes::heart_eyes::heart_eyes:
+* Also created a new template for "editors" on The Turing Way! https://github.com/Ismael-KG/the-turing-way/blob/patch-1/.github/ISSUE_TEMPLATE/EDITOR_ISSUE_TEMPLATE.md
+  * KW: SO COOL!
+
+#### What did you struggle with?
+
+* Reviewing the ethics form seemed to be taking forever!
+
+#### What would you like to work on next week?
+
+* Prepare agenda for EAG meeting on 10-June, start reviweing form's guidelines document (one chunk relies on having the form on Flexi-Grant first for screenshots)
+
+#### Where do you need help from Kirstie?
+
+* Guidance on new ethics approval form
+  * KW: Thank you so much for putting so much thought into this form! Love it!
+
+#### Any other topics
+
+* Working times? Maybe I can do an four days?
+  * KW: Decided in the meeting for you to take a little time off post exams and then to let me know what you'd like to do.
+  * I'm very keen for you to work more - you're great and there's lots to do! :laughing: 
+
+Really great work - I'm delighted with the form - one more pass and then I think we're ready to socialise! Thank you !
 
 ---
 
