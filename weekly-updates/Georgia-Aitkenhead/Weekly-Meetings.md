@@ -2,6 +2,8 @@
 
 Georgia's weekly meeting notes.
 
+* [12 May 2020](#date-12-may-2020)
+* [27 April 2020](#date-27-april-2020)
 * [19 March 2020](#date-19-march-2020)
 * [28 January 2020](#date-28-january-2020)
 * [10 December 2019](#date-10-december-2019)
@@ -14,6 +16,100 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 12 May 2020
+
+#### Who did you help this week? 
+
+* Helped CL plan out how to get user feedback on video 
+* Helped IK with GitHub
+* Helped MS schedule lab meetings and co-working
+* Helped review YH's PR 
+* Discussed different consent models and flexibility/ethics protocols with IK
+* Helped JS use Hackmd
+* Helped PC use GitHub for the first time :)
+
+KW: Absolutely spectacular - incredibly helpful and look how much you know now!!! :heart_eyes:
+
+#### Who helped you this week?
+
+* IK, MS, SG and YH all helped with some testing
+  * KW: Is this the welcome bot team! Holy moly :joy: :facepalm: Good luck.
+* MS helped design general template for GitHub issues
+* OS helped me review presentation and gave insights for donor meeting - thanks Otis!! :star: 
+  * KW: This went so well - Great job to both of you!
+* MS helped me with community strategy ideas and onboarding ideas 
+* KW helped me with presentation 
+* LB advised how to make database searcheable
+
+KW: I'm so delighted that you're engaging with so many people - really great to build those connections!
+
+#### What did you achieve?
+
+* Used info from focus groups to elaborate community strategy 
+* Added vid and slides to README (in PR)
+* Created and gave presentation to project donor 
+* Project management and community involvement with CL and PC
+* Added collaborators to README
+* Reviewed and commented on Fujitsu PRs
+* Gathered input from TA for community strategy
+* Contributed to lots of agile ceremonies 
+
+#### What did you struggle with?
+
+* Installing welcome bot! So puzzled why it won't work on the repo 
+
+#### What would you like to work on next week?
+
+* Onboarding journey for Craig
+* Contacting people to see if they will help/collaborate 
+* May newsletter
+
+#### Where do you need help from Kirstie?
+
+* Welcome bot?
+  * KW: I wildly can't help with this! :joy: Good luck :muscle:
+* Helping review CL's wireframe
+
+KW: Great stuff - I'm going to wait for the wireframe PR but ping me when that's open and I'll take a look.
+
+Really great meeting - thank you so much for all your great work with the Autistica/Turing Citizen Science project and mentoring our wonderful community.
+
+### Date: 27 April 2020
+
+#### Who did you help this week? 
+
+* Helped EC with process and protocol of project 
+* Helped YD by sending project updates
+* Helped ED with some GitHub edits
+
+#### Who helped you this week?
+
+* MS helped me by reviewing pull requests and giving some advice on community building - thanks M :-D
+* SG helped me by reviewing a (pretty big) PR
+* KW taught me how to use the all-contributors bot on GitHub
+
+#### What did you achieve?
+
+* Submitted an application for CogX
+* Finished an April newsletter for the project
+* CSP Repo tidying + merged some PRs and closed some issues
+* Helped JS review work on GitHub 
+
+#### What did you struggle with?
+
+* Found the CogX application tricky to put succinctly, so it took me a while to edit down - happy it's submitted!
+
+#### What would you like to work on next week?
+
+* More GitHub stuff to do - & continuing to work with Fujitsu team
+* Creating some comms plans for distributing work to wider community 
+* Identify more topics/collaborators for research papers
+
+#### Where do you need help from Kirstie?
+
+* Ideas for growing community 
+* Reviewing CSP position paper
 
 ### Date: 19 March 2020
 
