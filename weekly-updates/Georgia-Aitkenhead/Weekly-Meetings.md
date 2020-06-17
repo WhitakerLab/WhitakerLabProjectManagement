@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [17 June 2020](#date-17-june-2020)
 * [12 May 2020](#date-12-may-2020)
 * [27 April 2020](#date-27-april-2020)
 * [19 March 2020](#date-19-march-2020)
@@ -16,6 +17,42 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 17 June 2020
+
+#### Who did you help this week? 
+
+* Helped CH with funding application
+* Reviewed/organised some PRs for Fujitsu team 
+
+#### Who helped you this week?
+
+* The whole lab helped me with work advice - thanks everyone :)
+* TST helped me fix broken links
+* PC helped me by giving interview for newsletter
+* SM helped me with position paper
+
+#### What did you achieve?
+
+* Gave CogX talk/participated in panel discussion
+* Agile ceremonies - acceptance criteria and backlog refinement
+* Position paper redraft
+* Helped design strategy for community reviews of sprints 
+
+#### What did you struggle with?
+
+* Some stress and strategising (lab helped me lots!)
+
+#### Where do you need help from Kirstie?
+
+* Position paper :)
+* Project comms
+
+#### What would you like to work on next week?
+
+* Reaching out to people who may be under-represented in project
+* Looking for opportunities to bring in new collaborators/gather feedback online
+* Tidying GitHub repo and making it more user-friendly 
 
 ### Date: 12 May 2020
 
