@@ -2,6 +2,7 @@
 
 # Weekly Meetings
 
+* [17 June 2020] (#date-17-june-2020)
 * [02 June 2020](#date-02-june-2020)
 * [19 May 2020](#date-19-may-2020)
 * [12 May 2020](#date-12-may-2020)
@@ -9,6 +10,52 @@
 * [28 April 2020](#date-28-april-2020)
 
 ---
+
+### Date: 17 June 2020
+
+#### Who did you help this week?
+
+* I helped MS word the new Ethics intro page for The Turing Way: https://github.com/alan-turing-institute/the-turing-way/blob/jupyterbook-restructure/book/website/ethical-research/ethical-research.md
+  * KW: YEAH!
+
+#### Who helped you this week?
+
+* MS and LC helped me write the blog post for Data Feminism! (And the authors had a look too, which is awesome!)
+  * KW: SO FREAKING COOL! :hibiscus: :muscle:
+  * Just a couple of notes about the start and finish - really tiny changes - the whole post reads really well - well done! :sparkles:
+
+#### What did you achieve?
+
+* We got one of the two DSSG forms approved (the first I have owned from start to finish!)
+  * KW: YAAAAY!
+* Hosted first EAG meeting, lovely to meet everyone
+  * KW: And wrote up the minutes etc!
+* Developed training for DSSG
+* Got some feedback on application form from EAG members
+* Wrote Data Feminism blog post
+
+#### What did you struggle with?
+
+* Long story, something about a poorly worded survey question (not to do with work)
+  * KW: Solidarity. Sounds like a super stressful week.
+
+#### What would you like to work on next week?
+
+* I am seeing different standards in ethics reviews -- or at least varying degrees of specificity in what is required from applicants... With my customer service and administrator hats on, I feel guidance must be made available to reviewers, so that expectations are clear... Can I work on setting this idea?
+  * YES PLEASE :heart_eyes:
+
+#### Where do you need help from Kirstie?
+
+* It would be great to hear back on the ethics form and the integration of the Safe Haven questions
+  * KW: SOB - I'm so sorry I'm so slow. YES. I will do this.
+
+#### Any other topics
+
+* Hopefully buying an office chair shortly! I'm on Gray Dawes now!
+  * :moneybag::moneybag::moneybag: :wink:
+
+---
+
 ### Date: 02 June 2020
 
 #### Who did you help this week?
