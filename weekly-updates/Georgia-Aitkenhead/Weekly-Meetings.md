@@ -23,14 +23,21 @@ Georgia's weekly meeting notes.
 #### Who did you help this week? 
 
 * Helped CH with funding application
+  * KW: THANK YOU for working on this - I'm glad you found it interesting but I also just had NO time to support CH at all.
 * Reviewed/organised some PRs for Fujitsu team 
+  * KW: GREAT!
 
 #### Who helped you this week?
 
 * The whole lab helped me with work advice - thanks everyone :)
+  * KW: :heart_eyes:
 * TST helped me fix broken links
+  * KW: So. Freaking. Cool.
+  * Don't forget to add them to the contributors list!
 * PC helped me by giving interview for newsletter
+  * KW: Fantastic!
 * SM helped me with position paper
+  * KW: I am so excited for this!
 
 #### What did you achieve?
 
@@ -46,6 +53,7 @@ Georgia's weekly meeting notes.
 #### Where do you need help from Kirstie?
 
 * Position paper :)
+  * KW: ON FOR SUNDAY! FUNDAY!
 * Project comms
 
 #### What would you like to work on next week?
@@ -53,6 +61,9 @@ Georgia's weekly meeting notes.
 * Reaching out to people who may be under-represented in project
 * Looking for opportunities to bring in new collaborators/gather feedback online
 * Tidying GitHub repo and making it more user-friendly 
+  * KW: I think this is really really key - please have a big think about how people navigate the repo :pray: :hibiscus:
+
+THANK YOU! Sorry for my rather ranty meeting today! This is a big big project and you're doing a great job managing the complexity :sparkles:
 
 ### Date: 12 May 2020
 
