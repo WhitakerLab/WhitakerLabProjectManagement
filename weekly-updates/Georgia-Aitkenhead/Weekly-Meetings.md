@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [17 June 2020](#date-17-june-2020)
 * [12 May 2020](#date-12-may-2020)
 * [27 April 2020](#date-27-april-2020)
 * [19 March 2020](#date-19-march-2020)
@@ -16,6 +17,53 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 17 June 2020
+
+#### Who did you help this week? 
+
+* Helped CH with funding application
+  * KW: THANK YOU for working on this - I'm glad you found it interesting but I also just had NO time to support CH at all.
+* Reviewed/organised some PRs for Fujitsu team 
+  * KW: GREAT!
+
+#### Who helped you this week?
+
+* The whole lab helped me with work advice - thanks everyone :)
+  * KW: :heart_eyes:
+* TST helped me fix broken links
+  * KW: So. Freaking. Cool.
+  * Don't forget to add them to the contributors list!
+* PC helped me by giving interview for newsletter
+  * KW: Fantastic!
+* SM helped me with position paper
+  * KW: I am so excited for this!
+
+#### What did you achieve?
+
+* Gave CogX talk/participated in panel discussion
+* Agile ceremonies - acceptance criteria and backlog refinement
+* Position paper redraft
+* Helped design strategy for community reviews of sprints 
+
+#### What did you struggle with?
+
+* Some stress and strategising (lab helped me lots!)
+
+#### Where do you need help from Kirstie?
+
+* Position paper :)
+  * KW: ON FOR SUNDAY! FUNDAY!
+* Project comms
+
+#### What would you like to work on next week?
+
+* Reaching out to people who may be under-represented in project
+* Looking for opportunities to bring in new collaborators/gather feedback online
+* Tidying GitHub repo and making it more user-friendly 
+  * KW: I think this is really really key - please have a big think about how people navigate the repo :pray: :hibiscus:
+
+THANK YOU! Sorry for my rather ranty meeting today! This is a big big project and you're doing a great job managing the complexity :sparkles:
 
 ### Date: 12 May 2020
 
