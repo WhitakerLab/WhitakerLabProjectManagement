@@ -23,7 +23,7 @@ This table covers lab meetings from June 2020 to August 2020.
 | 25 June | 9:00 | Ismael | Ethics Advisory Group training plan | |
 | 2 July | 15:00 | Louise | Reproducibility | | 
 | 9 July | 9:00 | Sophia | Introduction and general musings! | | 
-| 16 July | 15:00 | - |  No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html), Guardian online [Book Club with Jeanette Winterson](https://membership.theguardian.com/event/book-club-with-jeanette-winterson-108864727330) at 7pm | |
+| 16 July | - |  No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html), Guardian online [Book Club with Jeanette Winterson](https://membership.theguardian.com/event/book-club-with-jeanette-winterson-108864727330) at 7pm | |
 | 23 July | 9:00 | Georgia | Participatory science and The Turing Way | |
 | 30 July | 15:00 | Kirstie | Summer update - 1 slide from everyone please | |
 | 6 August | - | No lab meeting | :sun_with_face: Summer break 🏖️ | *No blog* |
