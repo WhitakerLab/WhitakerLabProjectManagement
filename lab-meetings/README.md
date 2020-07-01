@@ -11,6 +11,28 @@ The lab also has a [google calendar](https://calendar.google.com/calendar/embed?
 The hackmd links for each meeting are not publicly available as they contain some conversations that lab members would prefer to keep private.
 As a reminder, please **complete the HackMD in advance of the meeting** in order to facilitate conversations before and during the 1 hour time slot.
 
+### Summer 2020
+
+This table covers lab meetings from June 2020 to August 2020.
+
+| Date | Time | Chair | Topic | Link to blog |
+| ---- | ----- | ----- | ----- | ------------ |
+| 4 June | - | No lab meeting | [Challenging power in data science](https://www.turing.ac.uk/events/challenging-power-data-science) talk |  |
+| 11 June | 9:00 | Kirstie | Open agenda | |
+| 18 June | - | No lab meeting | |
+| 25 June | 9:00 | Ismael | Ethics Advisory Group training plan | |
+| 2 July | 15:00 | Louise | Reproducibility | | 
+| 9 July | 9:00 | Sophia | Introduction and general musings! | | 
+| 16 July | 15:00 | - |  No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html), Guardian online [Book Club with Jeanette Winterson](https://membership.theguardian.com/event/book-club-with-jeanette-winterson-108864727330) at 7pm | |
+| 23 July | 9:00 | Georgia | Participatory science and The Turing Way | |
+| 30 July | 15:00 | Kirstie | Summer update - 1 slide from everyone please | |
+| 6 August | - | No lab meeting | :sun_with_face: Summer break 🏖️ | *No blog* |
+| 13 August | 15:00 | Kirstie | Open agenda | |
+| 20 August | - | No lab meeting | :sun_with_face: Summer break 🏖️ | *No blog* |
+| 27 August | 15:00 | Kirstie | Reflections and plans for the fall | |
+
+---
+
 ### Spring 2020
 
 This table covers lab meetings from March 2020 to May 2020.
@@ -30,8 +52,6 @@ This table covers lab meetings from March 2020 to May 2020.
 | 14 May | 09:00 | Patricia | Time management & project management | |
 | 21 May | - | No lab meeting | [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/meetings.html) | |
 | 28 May | 09:00 | Yini | Presentation on Yini's paper | |
-
----
 
 ### Winter 2019/2020
 
