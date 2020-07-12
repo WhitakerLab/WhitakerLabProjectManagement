@@ -1,5 +1,7 @@
 # Malvika's weekly meeting notes.
 
+* [10 July 2020](#date-10-July-2020)
+* [15 June 2020](#date-10-June-2020)
 * [15 May 2020](#date-15-May-2020)
 * [24 April 2020](#date-24-April-2020)
 * [06 April 2020](#date-06-April-2020)
@@ -9,8 +11,94 @@
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
 
+### Date: 10 July 2020
+
+*Monthly update*
+
+#### Who did you help this month?
+
+- CarpentryCon folks in sharing our rubrics for selection and reusing them for abstract review
+- PG in writing the GSoD application
+- Helped running a humanities in data science discussion with Fede, Katie and Leontien
+- EMBL folks in sharing some names of diverse researchers in tech who they can invite to their event on Women in Science
+- MF in writing his proposal for training in Turing
+- IKG, LC, SB and KS in developing their OLS applications
+- SG in brainstorming some ideas for her grant application
+- KK in writing the first case study in The Turing Way
+- EDI working group in discussing some actionable plan from the Turing
+
+#### Who helped you this month?
+
+- MM in discussing her governance structure in OHT and how they manage communication
+- SG in getting the OLS-2 for Turing words out for RSG
+- HPC carpentries team in sharing The Turing Way practice to involve people in resource development
+- CK from Kenyan bioinformatics network in planning Binder workshop and a panel in data science communities
+- SG for helping run the Binder workshop
+- RA for reviewing multiple chapters and PRs on The Turing Way
+
+#### What did you achieve?
+
+- Invited Data Feminism contributions into The Turing Way through their final reading group call
+- Gave a talk on OLS-2 for Turing at the TPS seminar
+- Participated in the OHBM panel on collaboration in research
+- Launched the OLS-2 for Turing and managed to get 4 applications
+- Finished the first group with reading group with IKG, LC and YY
+- led the first workshop on zero to binder
+- Got several chapter on community practices added as PRs
+
+#### What did you struggle with?
+
+- Collaboration Cafes at 7:00 pm hasn't been working with the community members
+
+#### What would you like to work on next month?
+
+- Get the next step of governance planned out and connect with mentors for the OLS-2 for Turing
+
+#### Where do you need help from Kirstie?
+
+- Touch base on The Turing Way and the next steps in the project
+
+### Date: 15 June 2020
+
+*Monthly update*
+
+#### Who did you help this month?
+
+- Ran a GitHub session with GA for the Autistica folks
+- UKDRI members in planning and rinning the Binder workshop
+- 
+
+#### Who helped you this month?
+
+- Coworked with KW to release the new 5 guide version of The Turing Way
+- Lab members in getting involved in discussions
+
+#### What did you achieve?
+
+- Taught a half day part of the Carpentries online instructor training
+- Hosted Collaboration Cafes and Coworking calls (have started running this regularly every day)
+- Discussed with Kirstie the Governance file and decided to split them into 3 sections
+- co-ran a Binder workshop for UKDRI with KW and SG
+- attended Data Feminism book club and the event at the Turing on challenging power
+- started a reading group with IKG and LC
+- delivered a CogX talk on The Turing Way
+- Finished the first cohort of OLS and launched the next cohort with YY and BB
+
+#### What did you struggle with?
+
+- working on the Governance file due to lack of time to think about it in detail
+
+#### What would you like to work on next month?
+
+- Get a plan with IKG to get started with the Ethics guide 
+
+#### Where do you need help from Kirstie?
+
+- Neede her help in getting the new book version released and we did it!
 
 ### Date: 15 May 2020
+
+*Monthly update*
 
 #### Who did you help this week?
 
