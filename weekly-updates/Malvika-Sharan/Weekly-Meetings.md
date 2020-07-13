@@ -1,7 +1,7 @@
 # Malvika's weekly meeting notes.
 
 * [10 July 2020](#date-10-July-2020)
-* [15 June 2020](#date-10-June-2020)
+* [15 June 2020](#date-15-June-2020)
 * [15 May 2020](#date-15-May-2020)
 * [24 April 2020](#date-24-April-2020)
 * [06 April 2020](#date-06-April-2020)
