@@ -17,7 +17,7 @@
 
 #### Who did you help this month?
 
-- CarpentryCon folks in sharing our rubrics for selection and reusing them for abstract review
+- CarpentryCon TaskForce in setting their proposal repository and sharing our rubrics for selection and reusing them for abstract review
 - PG in writing the GSoD application
 - Helped running a humanities in data science discussion with Fede, Katie and Leontien
 - EMBL folks in sharing some names of diverse researchers in tech who they can invite to their event on Women in Science
