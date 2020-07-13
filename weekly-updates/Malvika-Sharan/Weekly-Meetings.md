@@ -49,6 +49,7 @@
 #### What did you struggle with?
 
 - Collaboration Cafes at 7:00 pm hasn't been working with the community members
+  - KW: So true :sob: Totally understandable I guess. Moving to 3pm for this month?
 
 #### What would you like to work on next month?
 
@@ -57,6 +58,8 @@
 #### Where do you need help from Kirstie?
 
 - Touch base on The Turing Way and the next steps in the project
+
+KW: SUCH AN AMAZING MONTH. Thank you so so much :sparkling_heart:
 
 ### Date: 15 June 2020
 
