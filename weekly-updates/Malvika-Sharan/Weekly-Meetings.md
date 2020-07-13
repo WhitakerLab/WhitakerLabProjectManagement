@@ -20,9 +20,9 @@
 - CarpentryCon TaskForce in setting their proposal repository and sharing our rubrics for selection and reusing them for abstract review
 - PG in writing the GSoD application
 - Helped running a humanities in data science discussion with Fede, Katie and Leontien
-- EMBL folks in sharing some names of diverse researchers in tech who they can invite to their event on Women in Science
+- EMBL folks in sharing some names of diverse researchers including in Turing who they can invite to their event on Women in Science
 - MF in writing his proposal for training in Turing
-- IKG, LC, SB and KS in developing their OLS applications
+- IKG, LC, SB, CRS and KS in developing their OLS applications
 - SG in brainstorming some ideas for her grant application
 - KK in writing the first case study in The Turing Way
 - EDI working group in discussing some actionable plan from the Turing
