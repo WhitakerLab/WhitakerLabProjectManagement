@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [27 July 2020](#date-27-July-2020)
 * [10 July 2020](#date-10-July-2020)
 * [15 June 2020](#date-15-June-2020)
 * [15 May 2020](#date-15-May-2020)
@@ -10,6 +11,37 @@
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 27 July 2020
+
+#### Who did you help this week?
+- ML in discussing governance in open source
+- EP in getting restarted with their contribution to _The Turing Way_
+- PG in discussing their tasks and role with GSoD
+- A few new contributors in getting their contributors added as a PR, subchapters through collaboration cafe
+
+#### Who helped you this week?
+- TA, CH, MGV in writing the JupyterCon tutorial proposals
+- NP and AB in reviewing chapters in the handbook
+- KW in discussing projects in OLS for Turing and identifying mentors
+- KW in discussing the governance document
+- ML in pointing place for improvement in governance document
+
+#### What did you achieve?
+- improvements in the current PRs for _The Turing Way_
+- getting communications out for OLS for Turing
+
+#### What did you struggle with?
+- integrating all suggestions on the community handbook
+
+#### What would you like to work on next week?
+- getting the remote collaboration chapters organised by inviting community members to take lead of subchapters
+- support Martina in getting all the errors listed as issues
+- refactor contributors.md file
+- plan the JupyterBook with _The Turing Way_ materials for tutorial 
+
+#### Where do you need help from Kirstie?
+- a few PRs on _The Turing Way_
 
 ### Date: 10 July 2020
 
