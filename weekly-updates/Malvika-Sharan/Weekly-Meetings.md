@@ -22,9 +22,12 @@
 
 #### Who helped you this week?
 - TA, CH, MGV in writing the JupyterCon tutorial proposals
+  - KW: So freaking cool! Well done! :milky_way:
 - NP and AB in reviewing chapters in the handbook
+  - KW: Brilliant
 - KW in discussing projects in OLS for Turing and identifying mentors
 - KW in discussing the governance document
+  - KW: Hmmmm - I'm mostly just being super slow here. But thank you :sparkles:
 - ML in pointing place for improvement in governance document
 
 #### What did you achieve?
@@ -33,6 +36,7 @@
 
 #### What did you struggle with?
 - integrating all suggestions on the community handbook
+  - KW: Take your time! Better to do this right than rushed :hibiscus:
 
 #### What would you like to work on next week?
 - getting the remote collaboration chapters organised by inviting community members to take lead of subchapters
@@ -42,6 +46,8 @@
 
 #### Where do you need help from Kirstie?
 - a few PRs on _The Turing Way_
+
+KW: Take care of yourself, rest as much as you can :sunflower:
 
 ### Date: 10 July 2020
 
