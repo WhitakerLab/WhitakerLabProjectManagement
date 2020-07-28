@@ -2,13 +2,48 @@
 
 # Weekly Meetings
 
-* [17 June 2020] (#date-17-june-2020)
+* [29 July 2020](#date-29-july-2020)
+* [17 June 2020](#date-17-june-2020)
 * [02 June 2020](#date-02-june-2020)
 * [19 May 2020](#date-19-may-2020)
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
 
+---
+
+### Date: 29 July 2020
+
+#### Who did you help this week?
+
+* Over the past week, I helped the DSSG folks with the ethical research workshop!
+* I also helped PH (I think!) by doing some DMPOnline testing
+
+#### Who helped you this week?
+
+* You saved the day by making a Zoom room that worked for the DSSG training!
+
+#### What did you achieve?
+
+* The DSSG ethics training was a big thing for me!
+
+#### What did you struggle with?
+
+* Suddenly, we got three EAG forms over the weekend and I think the reviewers are at capacity. Also, there are the summer holidays, so this might be a larger struggle.
+
+#### What would you like to work on next week?
+
+* Chatting with MF and MN on Thursday about delivering more training. I think I like the idea of working on that some more!
+* I'm also giving the EAG folders and excel document a review for tidiness!
+
+#### Where do you need help from Kirstie?
+
+* Who could I work with on writing a post for the Turing blog about research ethics? I guess the thesis of that blog would be: ethical reflection is critical to the scientific method. But I'd love to bounce ideas around.
+
+#### Any other topics
+
+* None at the moment!
+  
 ---
 
 ### Date: 17 June 2020
