@@ -12,7 +12,7 @@
 
 ---
 
-### Date: 29 July 2020
+### Date: 30 July 2020
 
 #### Who did you help this week?
 
@@ -303,4 +303,3 @@ Not at the moment!
 * Revision of webpage draft content (and maybe more ideas)
 
 KW: The questions we discussed were really helpful! Thank you for preparing them! I'm super happy that you're already thinking about how much work this role is going to be - and how much potential we have here :sparkles:
-
