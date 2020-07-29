@@ -2,7 +2,7 @@
 
 # Weekly Meetings
 
-* [29 July 2020](#date-29-july-2020)
+* [30 July 2020](#date-30-july-2020)
 * [17 June 2020](#date-17-june-2020)
 * [02 June 2020](#date-02-june-2020)
 * [19 May 2020](#date-19-may-2020)
