@@ -17,11 +17,13 @@
 #### Who did you help this week?
 
 * Over the past week, I helped the DSSG folks with the ethical research workshop!
+  * KW: You did such a great job!
 * I also helped PH (I think!) by doing some DMPOnline testing
 
 #### Who helped you this week?
 
 * You saved the day by making a Zoom room that worked for the DSSG training!
+  * KW: Aaaaah my many talents!!
 
 #### What did you achieve?
 
@@ -29,21 +31,31 @@
 
 #### What did you struggle with?
 
-* Suddenly, we got three EAG forms over the weekend and I think the reviewers are at capacity. Also, there are the summer holidays, so this might be a larger struggle.
+* Suddenly, we got three EAG forms over the weekend and I think the reviewers are at capacity.
+  Also, there are the summer holidays, so this might be a larger struggle.
+  * KW: Discussed in person - just keep asking politely 
 
 #### What would you like to work on next week?
 
-* Chatting with MF and MN on Thursday about delivering more training. I think I like the idea of working on that some more!
+* Chatting with MF and MN on Thursday about delivering more training.
+  I think I like the idea of working on that some more!
+  * KW: Fab!
 * I'm also giving the EAG folders and excel document a review for tidiness!
+  * KW: GREAT IDEA!
 
 #### Where do you need help from Kirstie?
 
-* Who could I work with on writing a post for the Turing blog about research ethics? I guess the thesis of that blog would be: ethical reflection is critical to the scientific method. But I'd love to bounce ideas around.
+* Who could I work with on writing a post for the Turing blog about research ethics?
+  I guess the thesis of that blog would be: ethical reflection is critical to the scientific method.
+  But I'd love to bounce ideas around.
 
 #### Any other topics
 
 * None at the moment!
-  
+
+KW: Really good conversation about building engagement and cohesion at the Turing!!
+Keep up the great work :space_invader: :star2:
+ 
 ---
 
 ### Date: 17 June 2020
