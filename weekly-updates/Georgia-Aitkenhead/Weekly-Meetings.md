@@ -57,6 +57,8 @@ Georgia's weekly meeting notes.
 * Running user testing sessions
 * Retrieving things from comments in issues to put in main repo
 
+KW: This is fantastic work - thank you so much Georgia!
+
 ### Date: 17 June 2020
 
 #### Who did you help this week? 
