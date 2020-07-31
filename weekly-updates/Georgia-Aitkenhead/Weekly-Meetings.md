@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [31 July 2020](#date-31-july-2020)
 * [17 June 2020](#date-17-june-2020)
 * [12 May 2020](#date-12-may-2020)
 * [27 April 2020](#date-27-april-2020)
@@ -17,6 +18,46 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 31 July 2020
+
+#### Who did you help this week?
+
+* Hepled KW by doing review with IKG on paper
+* Helped JS manage some anxiety 
+
+#### Who helped you this week?
+
+* KK helped me with repo redesign!
+* KK provided interview for newsletter
+
+#### What did you achieve?
+
+* Quarterly updates for health programme
+* Autistica updates 
+* Redesigned/reorganised repo with KK
+* Arranged user testing sessions
+* Onboarding new collaborators
+* Ongoing agile ceremonies/backlog refinements etc. 
+
+#### What did you struggle with?
+
+* Realise haven't done these updates in so long! Sorry KW!
+* Google doc
+* Feeling slightly worn down/tired
+
+#### Where do you need help from Kirstie?
+
+* Position paper
+* Review of repo redesign 
+* Enjoy your holiday :-D !
+
+#### What would you like to work on next week?
+
+* Running user testing sessions
+* Retrieving things from comments in issues to put in main repo
+
+KW: This is fantastic work - thank you so much Georgia!
 
 ### Date: 17 June 2020
 
