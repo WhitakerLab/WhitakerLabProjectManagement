@@ -1,10 +1,282 @@
 # Malvika's weekly meeting notes.
 
+* [27 July 2020](#date-27-July-2020)
+* [10 July 2020](#date-10-July-2020)
+* [15 June 2020](#date-15-June-2020)
+* [15 May 2020](#date-15-May-2020)
+* [24 April 2020](#date-24-April-2020)
+* [06 April 2020](#date-06-April-2020)
 * [17 March 2020](#date-17-March-2020)
 * [29 February 2020](#date-29-February-2020)
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 27 July 2020
+
+#### Who did you help this week?
+- ML in discussing governance in open source
+- EP in getting restarted with their contribution to _The Turing Way_
+- PG in discussing their tasks and role with GSoD
+- A few new contributors in getting their contributors added as a PR, subchapters through collaboration cafe
+
+#### Who helped you this week?
+- TA, CH, MGV in writing the JupyterCon tutorial proposals
+  - KW: So freaking cool! Well done! :milky_way:
+- NP and AB in reviewing chapters in the handbook
+  - KW: Brilliant
+- KW in discussing projects in OLS for Turing and identifying mentors
+- KW in discussing the governance document
+  - KW: Hmmmm - I'm mostly just being super slow here. But thank you :sparkles:
+- ML in pointing place for improvement in governance document
+
+#### What did you achieve?
+- improvements in the current PRs for _The Turing Way_
+- getting communications out for OLS for Turing
+
+#### What did you struggle with?
+- integrating all suggestions on the community handbook
+  - KW: Take your time! Better to do this right than rushed :hibiscus:
+
+#### What would you like to work on next week?
+- getting the remote collaboration chapters organised by inviting community members to take lead of subchapters
+- support Martina in getting all the errors listed as issues
+- refactor contributors.md file
+- plan the JupyterBook with _The Turing Way_ materials for tutorial 
+
+#### Where do you need help from Kirstie?
+- a few PRs on _The Turing Way_
+
+KW: Take care of yourself, rest as much as you can :sunflower:
+
+### Date: 10 July 2020
+
+*Monthly update*
+
+#### Who did you help this month?
+
+- CarpentryCon TaskForce in setting their proposal repository and sharing our rubrics for selection and reusing them for abstract review
+- PG in writing the GSoD application
+- Helped running a humanities in data science discussion with Fede, Katie and Leontien
+- EMBL folks in sharing some names of diverse researchers including in Turing who they can invite to their event on Women in Science
+- MF in writing his proposal for training in Turing
+- IKG, LC, SB, CRS and KS in developing their OLS applications
+- SG in brainstorming some ideas for her grant application
+- KK in writing the first case study in The Turing Way
+- EDI working group in discussing some actionable plan from the Turing
+
+#### Who helped you this month?
+
+- MM in discussing her governance structure in OHT and how they manage communication
+- SG in getting the OLS-2 for Turing words out for RSG
+- HPC carpentries team in sharing The Turing Way practice to involve people in resource development
+- CK from Kenyan bioinformatics network in planning Binder workshop and a panel in data science communities
+- SG for helping run the Binder workshop
+- RA for reviewing multiple chapters and PRs on The Turing Way
+
+#### What did you achieve?
+
+- Invited Data Feminism contributions into The Turing Way through their final reading group call
+- Gave a talk on OLS-2 for Turing at the TPS seminar
+- Participated in the OHBM panel on collaboration in research
+- Launched the OLS-2 for Turing and managed to get 4 applications
+- Finished the first group with reading group with IKG, LC and YY
+- led the first workshop on zero to binder
+- Got several chapter on community practices added as PRs
+
+#### What did you struggle with?
+
+- Collaboration Cafes at 7:00 pm hasn't been working with the community members
+  - KW: So true :sob: Totally understandable I guess. Moving to 3pm for this month?
+
+#### What would you like to work on next month?
+
+- Get the next step of governance planned out and connect with mentors for the OLS-2 for Turing
+
+#### Where do you need help from Kirstie?
+
+- Touch base on The Turing Way and the next steps in the project
+
+KW: SUCH AN AMAZING MONTH. Thank you so so much :sparkling_heart:
+
+### Date: 15 June 2020
+
+*Monthly update*
+
+#### Who did you help this month?
+
+- Ran a GitHub session with GA for the Autistica folks
+- UKDRI members in planning and rinning the Binder workshop
+- 
+
+#### Who helped you this month?
+
+- Coworked with KW to release the new 5 guide version of The Turing Way
+- Lab members in getting involved in discussions
+
+#### What did you achieve?
+
+- Taught a half day part of the Carpentries online instructor training
+- Hosted Collaboration Cafes and Coworking calls (have started running this regularly every day)
+- Discussed with Kirstie the Governance file and decided to split them into 3 sections
+- co-ran a Binder workshop for UKDRI with KW and SG
+- attended Data Feminism book club and the event at the Turing on challenging power
+- started a reading group with IKG and LC
+- delivered a CogX talk on The Turing Way
+- Finished the first cohort of OLS and launched the next cohort with YY and BB
+
+#### What did you struggle with?
+
+- working on the Governance file due to lack of time to think about it in detail
+
+#### What would you like to work on next month?
+
+- Get a plan with IKG to get started with the Ethics guide 
+
+#### Where do you need help from Kirstie?
+
+- Neede her help in getting the new book version released and we did it!
+
+### Date: 15 May 2020
+
+*Monthly update*
+
+#### Who did you help this week?
+
+* KS in onboarding in the project
+  * KW: SO GREAT!
+* SG in coworking on some PR and issues
+* GA in community and GitHub related discussions
+* IGK in sharing some group related aspects and GitHub tutorials
+* GSoD participants
+
+KW: So wonderful - I'm so glad folks are benefitting from your expertise.
+
+#### Who helped you this week?
+
+* YY and CR in helping out with GSoD information
+  * KW: So appreciate their input!
+* SG and GA in coworking and uplifiting
+* KW in several discussions and guidance
+  * KW: Good.... although I can't imagine I've done much at all - you've been kicking ass without me for ages now!
+
+#### What did you achieve?
+
+* Ally skill workshop for the lab with YY
+* TW Coworking hours and a collaboration cafe
+* WiDs IBM Code Bristol talk and new connections
+* csv,conf and new connections
+  * KW: I could not be more jealous - I'm so glad you could attend :heart_eyes:
+* OS mentoring consulting for Dutch team
+* OLS wrap up
+* New half written documents
+  * KW: We should set aside some time to get these done together - I know you're killing it!!
+* Creative writing social call with SG and GA
+
+KW: Really spectaular - well done!! :space_invader:
+
+#### What did you struggle with?
+
+* Sticking with the daily todos
+
+KW: Totally feel you on this. I think you need to be really strict on how much time you spend on "small" tasks.
+
+* Reserve PRs for others to review
+* Only reply to issues once per day :sparkling_heart:
+* Take whole days / a week off to focus on the deep work
+
+#### What would you like to work on next week?
+
+* Newsletters
+* Finish gov doc and GitHub collab
+* KPI development / quarterly report
+
+KW: So appreciate all this work
+
+#### Where do you need help from Kirstie?
+
+* At the moment, some asynchronous touch bases helps
+
+### Date: 24 April 2020
+
+#### Who did you help this week?
+
+- Exchanging feedback with Scriberia with the help of KW
+- Sharing community ideas and newsletter structure with GA
+- Sponsoring YY's ally skill training through my SSI fellowship
+- Helping finalising The Carpentries instructor training with a few instructors in Europe
+- Helping finalising OBF travel fellowship candidate for this round
+
+#### Who helped you this week?
+
+- KW in writing the contributor's acknowledgement draft for the TW
+- GA in creating a co-working hour plan for the lab
+- SG, AW and MG in making the Turing Way co-working call productive with other members
+- YY for providing tips and reviewing GSoD draft
+
+#### What did you achieve?
+
+- Co-creating a co-working plan with GA for the Whitaker lab
+- Co-working with community members in a scheduled hour every day
+- Submitting the CogX abstract
+- Planning the Binder workshop in May along with SG and KW
+- Helping offer ideas for the Reproducibilitea online meeting with their orgnaisers
+- Finishing Ally skill train the trainer workshop
+- Creating a GSoD application draft
+- Submitting a sprint idea about TW in SciPy (a slot was offered as a chair of bioinformatics)
+
+#### What did you struggle with?
+
+-  Same as the last times, I haven't yet had a chance to work in community documents
+
+#### What would you like to work on next week?
+
+- Community documents
+
+#### Where do you need help from Kirstie?
+
+- Approving GSoD draft
+- Approving a AW's PR on version control
+
+### Date: 06 April 2020
+
+#### Who did you help this week?
+
+- DSSG team in sharing resources on online communities and events
+- GA and KW on sharing some tips on Zoom event online for their project wireframing
+- CW20 event team in helping with some sessions at CW20
+- Co-working with eScience members and getting their contents in the Turing Way
+- A talk at the eLife innovation leaders on Mountain of engagement
+
+#### Who helped you this week?
+
+- KW with the CW20 talk 
+- SG, PH, YY with gathering interests in Turing Way and developing content at CW20
+- KW in probation/appraisal
+- SG in creating cross stitch carpentry
+
+#### What did you achieve?
+
+- Co-working with Kirstie and restructuring The Turing Way book
+- A perspective talk on a culture of collaboration at CW20
+- A collaboration cafe with more Turing members in gathering content on remote collaboration
+- Content development and visibility at CW20
+- Chapters on Remote collaboration
+- Meeting with KD on aligning our roles at TPS and Turing Way
+
+#### What did you struggle with?
+
+- Time management while working from home
+- Getting project management related work done for The Turing Way
+
+#### What would you like to work on next week?
+
+- Work on project management related tasks
+
+#### Where do you need help from Kirstie?
+
+- Getting some of the PRs on Turing Way approved (will ping on GitHub)
+- Discussion on the probation/appraisal document
 
 ### Date: 17 March 2020
 
