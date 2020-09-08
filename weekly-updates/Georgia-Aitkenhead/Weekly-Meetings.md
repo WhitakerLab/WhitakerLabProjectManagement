@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [08 September 2020](#date-08-september-2020)
 * [31 July 2020](#date-31-july-2020)
 * [17 June 2020](#date-17-june-2020)
 * [12 May 2020](#date-12-may-2020)
@@ -18,6 +19,42 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 08 September 2020
+
+#### Who did you help this week?
+
+* Hepled MS by adding a chapter suggestion for the Turing Way 
+
+#### Who helped you this week?
+
+* MS helped me with intro the Turing Way repo
+* AVW helped me think through some ideas around the project
+* KK helped loads by writing up user testing notes and adding links to the repo
+
+#### What did you achieve?
+
+* Repo redesign merged!! - thanks to Katharina :)
+* Started the Open Life Sciences mentorship scheme - lots of ideas/goals set. 
+* Presented project for Open Humans call
+* Brainstormed ideas for TMF funds
+* Ongoing agile sprint work
+
+#### What did you struggle with?
+
+* Some issues - technical elements 
+
+#### Where do you need help from Kirstie?
+
+* Position paper?
+* September reset
+
+#### What would you like to work on next week?
+
+* Mapping out people involved/how to create commnuity
+* User testing handover
+* Funding sources
+* Lab meeting agenda for volunteering/paid work in open research
 
 ### Date: 31 July 2020
 
