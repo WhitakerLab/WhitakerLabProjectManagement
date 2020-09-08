@@ -17,31 +17,39 @@
 #### Who did you help this week?
 
 * I helped with 4 (or 5?) different ethics applications, including one from all the way back in January!
+ * KW: ROCK STAR! Great stuff!
 
 #### Who helped you this week?
 
 * MN and I had a chat and she helped by giving me a lot of names of different people around the institute to speak with about embedding ethics in our research culture.
+  * KW: Ah, very very cool :star2:
 
 #### What did you achieve?
 
 * I got both DSG ethics form across the finish line (just in time!)
+  * KW: So important - thank you!
 * I don't know if this is an achievement exactly, but learning about Governance's Data Protection Assessment Plan was a nice surprise!
+  * KW: :muscle::muscle::muscle:
 
 #### What did you struggle with?
 
-* Answering this question!
+* To discuss in the meeting
 
 #### What would you like to work on next week?
 
 * Having spoken with JC on 03-Sep, I want to finish off the first draft of the paper presenting the EAG for your talk.
+  * KW: It's looking great - excited for the next version.
 
 #### Where do you need help from Kirstie?
 
-* An idea that has been shared by several EAGers is that we could have a live document with past recommendations made to researchers so PIs can turn to it when in doubt and EAG can develop a series of best practices. Could such a thing live on The Turing Way, or maybe The Turing Way can link back to this more or less live document?
+* An idea that has been shared by several EAGers is that we could have a live document with past recommendations made to researchers so PIs can turn to it when in doubt and EAG can develop a series of best practices.
+  * Could such a thing live on The Turing Way, or maybe The Turing Way can link back to this more or less live document?
+  * KW: Lets make the document first and use it internally for a while to see how it goes.
 
 #### Any other topics
 
 * FYI, Liam will hopefully be my dissertation supervisor after all!
+  * KW: Super exciting! I'm looking forward to learning from you!
   
 ---
 
