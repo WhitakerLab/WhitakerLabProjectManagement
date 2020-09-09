@@ -24,7 +24,8 @@ Georgia's weekly meeting notes.
 
 #### Who did you help this week?
 
-* Hepled MS by adding a chapter suggestion for the Turing Way 
+* Hepled MS by adding a chapter suggestion for the Turing Way
+  * KW: Awesome!
 
 #### Who helped you this week?
 
@@ -32,17 +33,20 @@ Georgia's weekly meeting notes.
 * AVW helped me think through some ideas around the project
 * KK helped loads by writing up user testing notes and adding links to the repo
 
+KW: Absolutely wonderful - what a great group of collaborators :sparkling_heart:
+
 #### What did you achieve?
 
 * Repo redesign merged!! - thanks to Katharina :)
-* Started the Open Life Sciences mentorship scheme - lots of ideas/goals set. 
+  * KW: This is so great - well done!
+* Started the Open Life Sciences mentorship scheme - lots of ideas/goals set
 * Presented project for Open Humans call
 * Brainstormed ideas for TMF funds
 * Ongoing agile sprint work
 
 #### What did you struggle with?
 
-* Some issues - technical elements 
+* Some issues - technical elements
 
 #### Where do you need help from Kirstie?
 
@@ -55,6 +59,8 @@ Georgia's weekly meeting notes.
 * User testing handover
 * Funding sources
 * Lab meeting agenda for volunteering/paid work in open research
+
+KW: This has been an excellent meeting and I am so delighted with your work. THANK YOU :hibiscus: :sunflower: 
 
 ### Date: 31 July 2020
 
