@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [29 August 2020](#date-29-August-2020)
 * [27 July 2020](#date-27-July-2020)
 * [10 July 2020](#date-10-July-2020)
 * [15 June 2020](#date-15-June-2020)
@@ -11,6 +12,54 @@
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 29 August 2020
+
+#### Who did you help this month?
+- EP in getting prepared for the lightning talk
+  - KW: Fab! :rocket:
+- MV in finalising her abstract for MEEG workshop
+  - KW: This is great I'm so delighted!
+- Chris H. in giving feedback on Hypergraph and how they can get involved in TTW
+
+#### Who helped you this month?
+- KW in discussing TTW through catch up calls
+- W-lab catch up chats and group meetings in staying connected with others
+- EP presented 2 lightning talks on TTW
+- EP, SG and MV in documenting the promotion pack
+
+KW: Absolutely awesome.
+
+#### What did you achieve?
+- 6 Turing projects in OLS, 2 mentors confirmed but nobody else responded (except GvdB who is busy to participate)
+  - KW: So excited to see how everyone does!!
+- A few completed chapters in handbook
+- GSoD application accepted!
+- Documenting the quarterly report (100 subchapters!)
+- coworking calls
+- meeting with Turing communication team: but they are not available very soon to work with
+- proposal for tutorial accepted in JupyterCon
+
+#### What did you struggle with?
+- Getting Turing folks working on The Turing Way, there is not much feedback from the Slack
+- GSoD candidate is not available and it has not been easy to plan the project with them
+- August quietness in general
+
+#### What would you like to work on next month?
+- Zenodo releases
+  - Chapter releasing for metric?
+  - KW: I think for this we really want to implement some ethical google analytics style tracking for this - high priority though!
+- Community roles, and community handbook
+- Turing: Communications team, REG and others
+  - KW: And maybe some of the TPS projects - I think they're keen but don't know how to start contributing!
+- Cross project plans (Jupyter and The Carpentries)
+- Co-work on jupyter book tutorial with SG and MV
+
+#### Where do you need help from Kirstie?
+- Project review and next steps
+  - Governance, community roles, how has the project worked so far? anything you wished I worked on and did not? anything I worked on and should have done something differently? At the moment, I don't have much overview and feedback on what you as a project lead would like me to focus on?
+- Personal goals and identifying funding for next year
+- reviewing the promotion pack and finalising the slides to be added on Zenodo
 
 ### Date: 27 July 2020
 
