@@ -2,6 +2,7 @@
 
 # Weekly Meetings
 
+* [15 September 2020](#date-15-september-2020)
 * [08 September 2020](#date-08-september-2020)
 * [17 June 2020](#date-17-june-2020)
 * [02 June 2020](#date-02-june-2020)
@@ -9,6 +10,39 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+### Date: 15 September 2020
+
+#### Who did you help this week?
+
+* I sort of helped a Turing doctoral student think about one of her journal club sessions! (We'll do one about ethics).
+
+#### Who helped you this week?
+
+* Had an awesome chat with EM who suggested someone to speak with about more strategy-level questions at the Turing (yet to happen). This was prompted by the landscaping of ethics across the institute.
+* And you saved the day in the DSG session again!!!!
+
+#### What did you achieve?
+
+* The DSG session?
+* Also having a chat about some National Inclusion Week content - I might be the moderator during a panel discussion!
+
+#### What did you struggle with?
+
+* The DSG session...
+
+#### What would you like to work on next week?
+
+* Finish off the landscaping of ethics across the Turing (and the EAG-intro draft)
+
+#### Where do you need help from Kirstie?
+
+* I know presentations are a big thing in this world, but what else might work? Videos? I'm thinking videos again...
+
+#### Any other topics
+
+* The OLS programme is really exciting with LC and SB!
 
 ---
 
