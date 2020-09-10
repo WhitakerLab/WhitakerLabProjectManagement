@@ -19,7 +19,7 @@ Georgia's weekly meeting notes.
 
 #### Who helped you this week?
 
-* KW taught me Zotoro :) 
+* KW taught me Zotoro :) :heart: :heart:
 * TA volunteered to help me run the Diversity and Inclusion stall at the BL
   * KW: I'm so glad you're doing this! Thank you so so much :sparkles:
 
