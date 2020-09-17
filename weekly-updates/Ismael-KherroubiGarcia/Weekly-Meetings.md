@@ -2,7 +2,7 @@
 
 # Weekly Meetings
 
-* [15 September 2020](#date-15-september-2020)
+* [22 September 2020](#date-22-september-2020)
 * [08 September 2020](#date-08-september-2020)
 * [17 June 2020](#date-17-june-2020)
 * [02 June 2020](#date-02-june-2020)
@@ -12,29 +12,28 @@
 * [28 April 2020](#date-28-april-2020)
 
 ---
-### Date: 15 September 2020
+### Date: 22 September 2020
 
 #### Who did you help this week?
 
-* I sort of helped a Turing doctoral student think about one of her journal club sessions! (We'll do one about ethics).
+* I helped MS by giving the Turing Way newsletter a proof read! SB helped too!
 
 #### Who helped you this week?
 
-* Had an awesome chat with EM who suggested someone to speak with about more strategy-level questions at the Turing (yet to happen). This was prompted by the landscaping of ethics across the institute.
-* And you saved the day in the DSG session again!!!!
+* LC and I worked on some OLS-2 homework - I feel like we helped each other (SB made it last Friday and we all worked together then).
 
 #### What did you achieve?
 
-* The DSG session?
-* Also having a chat about some National Inclusion Week content - I might be the moderator during a panel discussion!
+* Another EAG form through the finish line! There was a personal information sheet missing and which our reviewer wanted to see before approving. The PI was really open to EAG's views.
+* I've got the EAG document to a place where I think it can be shared for further comments from others.
 
 #### What did you struggle with?
 
-* The DSG session...
+* My birthday coming up always gets me a bit feisty, haha
 
 #### What would you like to work on next week?
 
-* Finish off the landscaping of ethics across the Turing (and the EAG-intro draft)
+* VF asked to have a look at what other institutions' ethics committees ask about/do. I've briefly checked a few. Oxford have something similar to what we thought we could develop.
 
 #### Where do you need help from Kirstie?
 
