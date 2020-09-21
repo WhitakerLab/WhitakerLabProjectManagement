@@ -22,7 +22,7 @@
 - LA in getting started with leadership chapter
 - MF in designing the UKRI application with the Turing Way and OLS
 - Supporting the conference on Women in Science and impact of COVID
-
+- MN in thinking through our training plan
 #### Who helped you this week?
 - MV and SG in designing this tutorial. 
     - So thankful to MV who did more than half the work. And SG for efficiency.
@@ -542,4 +542,3 @@ KW: And opened The Turing Way [twitter account](https://twitter.com/turingway)!!
 #### What would you like to work on next week?
 
 #### Where do you need help from Kirstie?
-
