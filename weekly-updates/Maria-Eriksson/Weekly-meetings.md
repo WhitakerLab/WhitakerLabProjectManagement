@@ -1,4 +1,6 @@
+# Weekly Meetings
 
+* [12 August 2020](#date-12-august-2020)
 
 ### Date: 12 August 2020
 
