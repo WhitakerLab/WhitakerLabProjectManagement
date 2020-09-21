@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [21 September 2020](#date-21-September-2020)
 * [29 August 2020](#date-29-August-2020)
 * [27 July 2020](#date-27-July-2020)
 * [10 July 2020](#date-10-July-2020)
@@ -12,6 +13,46 @@
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Template: Date: 21 September 2020
+
+#### Who did you help this week?
+
+- LA in getting started with leadership chapter
+- MF in designing the UKRI application with the Turing Way and OLS
+- Supporting the conference on Women in Science and impact of COVID
+
+#### Who helped you this week?
+- MV and SG in designing this tutorial. 
+    - So thankful to MV who did more than half the work. And SG for efficiency.
+- MA for helping set our GSoD candidate
+- BW in sharing her insights on how to develop community with accessibility aspects
+- SB in taking leadership on hacktoberfest
+
+#### What did you achieve?
+
+- Onboarding PO in GSoD project
+- Onboarding NM and PO on OLS project
+- Finishing the JupyterCOn tutorial collaboratively
+- Getting the plan for the second tutorial sorted by GdQ
+- Finishing the newsletter and getting started with Collaboration Cafe
+- Delivering the DORA panel
+
+#### What did you struggle with?
+
+- Sad to give false hope to AH and still not getting in touch with PG
+- Getting the collaborative workflow idea across AY, Turing events team
+
+#### What would you like to work on next week?
+
+- JupyterCon tutorial
+- Supporting materials for AY and communications team
+- Supporting the GSoD candidates
+- Designing the bookdash
+
+#### Where do you need help from Kirstie?
+- JBC etc.
 
 ### Date: 29 August 2020
 
