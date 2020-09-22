@@ -1,7 +1,5 @@
 # Weekly Meetings
 
-# Weekly Meetings
-
 * [22 September 2020](#date-22-september-2020)
 * [08 September 2020](#date-08-september-2020)
 * [17 June 2020](#date-17-june-2020)
@@ -12,6 +10,7 @@
 * [28 April 2020](#date-28-april-2020)
 
 ---
+
 ### Date: 22 September 2020
 
 #### Who did you help this week?
@@ -37,11 +36,16 @@
 
 #### What would you like to work on next week?
 
-* VF asked to have a look at what other institutions' ethics committees ask about/do. I've briefly checked a few. Oxford have something similar to what we thought we could develop.
+* VF asked to have a look at what other institutions' ethics committees ask about/do.
+  * I've briefly checked a few.
+  * Oxford have something similar to what we thought we could develop.
 
 #### Where do you need help from Kirstie?
 
-* I know presentations are a big thing in this world, but what else might work? Videos? I'm thinking videos again...
+* I know presentations are a big thing in this world, but what else might work?
+  * Videos?
+  * I'm thinking videos again...
+  * KW: Love these ideas - have a chat with Georgia too and brainstorm what works. I bet Yo might have some good ideas too!
 
 #### Any other topics
 
