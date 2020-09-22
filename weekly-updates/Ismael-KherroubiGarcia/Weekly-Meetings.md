@@ -3,6 +3,7 @@
 # Weekly Meetings
 
 * [08 September 2020](#date-08-september-2020)
+* [30 July 2020](#date-30-july-2020)
 * [17 June 2020](#date-17-june-2020)
 * [02 June 2020](#date-02-june-2020)
 * [19 May 2020](#date-19-may-2020)
@@ -50,9 +51,51 @@
 
 * FYI, Liam will hopefully be my dissertation supervisor after all!
   * KW: Super exciting! I'm looking forward to learning from you!
-  
----
 
+### Date: 30 July 2020
+
+#### Who did you help this week?
+
+* Over the past week, I helped the DSSG folks with the ethical research workshop!
+  * KW: You did such a great job!
+* I also helped PH (I think!) by doing some DMPOnline testing
+
+#### Who helped you this week?
+
+* You saved the day by making a Zoom room that worked for the DSSG training!
+  * KW: Aaaaah my many talents!!
+
+#### What did you achieve?
+
+* The DSSG ethics training was a big thing for me!
+
+#### What did you struggle with?
+
+* Suddenly, we got three EAG forms over the weekend and I think the reviewers are at capacity.
+  Also, there are the summer holidays, so this might be a larger struggle.
+  * KW: Discussed in person - just keep asking politely 
+
+#### What would you like to work on next week?
+
+* Chatting with MF and MN on Thursday about delivering more training.
+  I think I like the idea of working on that some more!
+  * KW: Fab!
+* I'm also giving the EAG folders and excel document a review for tidiness!
+  * KW: GREAT IDEA!
+
+#### Where do you need help from Kirstie?
+
+* Who could I work with on writing a post for the Turing blog about research ethics?
+  I guess the thesis of that blog would be: ethical reflection is critical to the scientific method.
+  But I'd love to bounce ideas around.
+
+#### Any other topics
+
+* None at the moment!
+
+KW: Really good conversation about building engagement and cohesion at the Turing!!
+Keep up the great work :space_invader: :star2:
+   
 ### Date: 17 June 2020
 
 #### Who did you help this week?
@@ -310,4 +353,3 @@ Not at the moment!
 * Revision of webpage draft content (and maybe more ideas)
 
 KW: The questions we discussed were really helpful! Thank you for preparing them! I'm super happy that you're already thinking about how much work this role is going to be - and how much potential we have here :sparkles:
-
