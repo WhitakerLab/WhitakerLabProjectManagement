@@ -17,14 +17,18 @@
 #### Who did you help this week?
 
 * I helped MS by giving the Turing Way newsletter a proof read! SB helped too!
+  * KW: Thank you! :pray:
 
 #### Who helped you this week?
 
 * LC and I worked on some OLS-2 homework - I feel like we helped each other (SB made it last Friday and we all worked together then).
+  * KW: Double wonderful!
 
 #### What did you achieve?
 
-* Another EAG form through the finish line! There was a personal information sheet missing and which our reviewer wanted to see before approving. The PI was really open to EAG's views.
+* Another EAG form through the finish line!
+  * There was a personal information sheet missing and which our reviewer wanted to see before approving.
+    The PI was really open to EAG's views.
 * I've got the EAG document to a place where I think it can be shared for further comments from others.
 
 #### What did you struggle with?
