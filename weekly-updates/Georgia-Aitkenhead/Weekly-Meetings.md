@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [22 September 2020](#date-22-september-2020)
 * [08 September 2020](#date-08-september-2020)
 * [31 July 2020](#date-31-july-2020)
 * [17 June 2020](#date-17-june-2020)
@@ -19,6 +20,41 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 22 September 2020
+
+#### Who did you help this week?
+
+* Hepled KK join OLS 
+
+#### Who helped you this week?
+
+* Whole lab helped me think through volunteer/community strategies
+* KW helped me with funding-seeking process 
+
+#### What did you achieve?
+
+* OLS - mapping work, opening issues, mentoring sessions and cohort calls
+* Ongoing agile sprint work 
+* Ran lab meeting to think through themes of volunteering culture
+* Linked up with new collaborator
+* Set up AWS account for deployment 
+
+#### What did you struggle with?
+
+* Matching volunteers to skills needed 
+
+#### Where do you need help from Kirstie?
+
+* Position paper
+
+#### What would you like to work on next week?
+
+* Roadmap of project from platform deployment - December
+* September newsletter 
+* User testing handover
+* Funding sources - meet with SL
+* OLS - link up with more people 
 
 ### Date: 08 September 2020
 
