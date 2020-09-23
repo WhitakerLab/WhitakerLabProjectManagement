@@ -25,12 +25,13 @@ Georgia's weekly meeting notes.
 
 #### Who did you help this week?
 
-* Hepled KK join OLS 
+* Helped KK join OLS
+  * KW: Wonderful :hibiscus:
 
 #### Who helped you this week?
 
 * Whole lab helped me think through volunteer/community strategies
-* KW helped me with funding-seeking process 
+* KW helped me with funding-seeking process
 
 #### What did you achieve?
 
@@ -38,7 +39,7 @@ Georgia's weekly meeting notes.
 * Ongoing agile sprint work 
 * Ran lab meeting to think through themes of volunteering culture
 * Linked up with new collaborator
-* Set up AWS account for deployment 
+* Set up AWS account for deployment
 
 #### What did you struggle with?
 
@@ -54,7 +55,9 @@ Georgia's weekly meeting notes.
 * September newsletter 
 * User testing handover
 * Funding sources - meet with SL
-* OLS - link up with more people 
+* OLS - link up with more people
+
+This all looks fantastic Georgia - really great work!
 
 ### Date: 08 September 2020
 
