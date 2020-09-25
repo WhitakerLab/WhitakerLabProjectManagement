@@ -1,7 +1,6 @@
 # Weekly Meetings
 
-# Weekly Meetings
-
+* [22 September 2020](#date-22-september-2020)
 * [08 September 2020](#date-08-september-2020)
 * [30 July 2020](#date-30-july-2020)
 * [17 June 2020](#date-17-june-2020)
@@ -10,6 +9,48 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 22 September 2020
+
+#### Who did you help this week?
+
+* I helped MS by giving the Turing Way newsletter a proof read! SB helped too!
+  * KW: Thank you! :pray:
+
+#### Who helped you this week?
+
+* LC and I worked on some OLS-2 homework - I feel like we helped each other (SB made it last Friday and we all worked together then).
+  * KW: Double wonderful!
+
+#### What did you achieve?
+
+* Another EAG form through the finish line!
+  * There was a personal information sheet missing and which our reviewer wanted to see before approving.
+    The PI was really open to EAG's views.
+* I've got the EAG document to a place where I think it can be shared for further comments from others.
+
+#### What did you struggle with?
+
+* My birthday coming up always gets me a bit feisty, haha
+
+#### What would you like to work on next week?
+
+* VF asked to have a look at what other institutions' ethics committees ask about/do.
+  * I've briefly checked a few.
+  * Oxford have something similar to what we thought we could develop.
+
+#### Where do you need help from Kirstie?
+
+* I know presentations are a big thing in this world, but what else might work?
+  * Videos?
+  * I'm thinking videos again...
+  * KW: Love these ideas - have a chat with Georgia too and brainstorm what works. I bet Yo might have some good ideas too!
+
+#### Any other topics
+
+* The OLS programme is really exciting with LC and SB!
 
 ---
 
