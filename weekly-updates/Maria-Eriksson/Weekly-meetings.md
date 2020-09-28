@@ -80,6 +80,8 @@
 
 #### Any other topics
 
+* KW suggested blog post for Turing website
+
 * Schemas vs ontologies in health care research
     * Schemas refer to how data are organised
         * There are several different types of schemas, including: [OMOP](https://github.com/OHDSI/CommonDataModel/wiki), [FHIR](https://www.hl7.org/fhir/overview.html), [openEHR](https://www.openehr.org), [I2B2](https://www.i2b2.org), and [EAV](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC61391/)
