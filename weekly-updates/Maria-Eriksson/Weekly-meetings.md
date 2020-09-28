@@ -1,20 +1,22 @@
 # Weekly Meetings
 
-* [12 August 2020](#date-12-august-2020)
-* [7 September 2020](#date-7-september-2020)
-* [14 September 2020](#date-14-september-2020)
-* [21 September 2020](#date-21-september-2020)
 * [28 September 2020](#date-28-september-2020)
+* [21 September 2020](#date-21-september-2020)
+* [14 September 2020](#date-14-september-2020)
+* [7 September 2020](#date-7-september-2020)
+* [12 August 2020](#date-12-august-2020)
 
 ### Date: 28 September 2020
 
 #### Who did you help this week?
 
 * I helped my MSc students with their theses
+  * KW: YAY!
 
 #### Who helped you this week?
 
 * KW helped me with GitHub
+  * KW: Fun times!
 
 #### What did you achieve?
 
@@ -26,6 +28,7 @@
 
 * Knowing how to allocate time to different parts of my project
 * Direction on data standards and ontologies
+  * Let's map very specifically the terms in the table in your upgrade report to ontologies and note the ones that don't map and then email SD to see what he thinks :smiley_cat:
 
 #### What would you like to work on next week?
 
@@ -33,21 +36,25 @@
 * Update Genetic extraction script
 * Run regression in Python instead of R - check correspondence
 
+KW: Excited to see some of this code next week! :rocket: :star2:
+
 #### Where do you need help from Kirstie?
 
 * Decide direction on data schemas and ontologies - joint meeting with SAW and KAW?
+  * KW: Yes - lets have that meeting
 * Check structure of presentation
+  * KW: Go "public engagement" level for the epilepsy part - folks will really enjoy that - and then make sure you include a mocked up patient record to demonstrate what you're extracting data from and why that's quite tough :smile:
 
 #### Any other topics
 
 * Presentation on data schemas and ontologies
-	* ILAE Big data and Open data task force
-		* Bio portal: epilepsy and seizure ontology
-	* OHDSI
-		* OHDSI Athena
-			* SNOMED CT
-			* ICD-10
-		* Kim et al. (2020) - epilepsy and OHDSI
+  * ILAE Big data and Open data task force
+    * Bio portal: epilepsy and seizure ontology
+  * OHDSI
+    * OHDSI Athena
+    * SNOMED CT
+    * ICD-10
+    * Kim et al. (2020) - epilepsy and OHDSI
 * Automated MRI retrieval
 
 ### Date: 21 September 2020
