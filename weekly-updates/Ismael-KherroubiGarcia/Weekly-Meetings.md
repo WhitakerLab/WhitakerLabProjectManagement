@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [29 September 2020](#date-29-september-2020)
 * [22 September 2020](#date-22-september-2020)
 * [08 September 2020](#date-08-september-2020)
 * [30 July 2020](#date-30-july-2020)
@@ -10,6 +11,48 @@
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
 
+---
+
+### Date: 29 September 2020
+
+#### Who did you help this week?
+
+* I helped a colleague by saying to just take an afternoon off after they'd had very difficult meetings throughout the day!
+  * KW: I LOVE THIS SO MUCH. THANK YOU.
+
+#### Who helped you this week?
+
+* YH and LC were great to hang out with on Friday, and that was really helpful!
+  * KW: Such great people :sparkling_heart:
+
+#### What did you achieve?
+
+* Yet another awesome meeting with MB!
+  * KW: Oh this is such a joy :star2:
+
+#### What did you struggle with?
+
+* I've been a bit distracted with class starting just around the corner (Monday 28th being the first day).
+  * Oh, and this is fun: I've been put in a Saturday slot for dissertation seminars!
+
+#### What would you like to work on next week?
+
+* I need to check the new ethics form for references to legal aspects covered by the DPAP (I think I took them out already, but will have a look) 
+  * KW: Great.
+* The email from RE has reignited the need for ethical guidance. I want to suggest a compilation of resources. Some universities do this: a page with links to frameworks that researchers can work with. Of course [DL's report](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf) is the best for AI in public policy, but we've also learned of an excellent [framework BV has used for researchers working on hate speech](https://www.thorn.org/wp-content/uploads/2015/02/EmployeeResilienceGuidebookFinal7-13-1.pdf). And there are so many more. Oxford have a page similar to [this idea](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/guidance#collapse394976). We can then make it mandatory for applicants to share what framework they will follow and how.
+  * KW: Strong yes on this front, Emma will be a good ally in this work.
+  
+#### Where do you need help from Kirstie?
+
+* I would really appreciate it if you finalise the ethics form with regard to the data safe haven questions -- I tried to comment on each question with where they are referenced in other sections
+  * KW: Please put a 2 hour slot in my calendar for me to work on this (with 30 mins of you turning up at the end as my accountability check!)
+
+#### Any other topics
+
+* Not yet! I am meeting with my dissertation supervisor on Wednesday at 4 and will hopefully have the beginnings of a plan set out by the end of the week!
+  * KW: Super exciting!
+ * KW: Can you have a think about a submission to https://nbiair.com/#CFP - ideally including CH and VF if they're interested. 
+ 
 ---
 
 ### Date: 22 September 2020
