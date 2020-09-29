@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-* [28 September 2020](#date-28-september-2020)
+* [29 September 2020](#date-29-september-2020)
 * [22 September 2020](#date-22-september-2020)
 * [08 September 2020](#date-08-september-2020)
 * [30 July 2020](#date-30-july-2020)
@@ -13,7 +13,7 @@
 
 ---
 
-### Date: 28 September 2020
+### Date: 29 September 2020
 
 #### Who did you help this week?
 
