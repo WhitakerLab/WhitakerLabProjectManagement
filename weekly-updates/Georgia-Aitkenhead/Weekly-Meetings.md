@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [30 September 2020](#date-30-september-2020)
 * [08 September 2020](#date-08-september-2020)
 * [31 July 2020](#date-31-july-2020)
 * [17 June 2020](#date-17-june-2020)
@@ -19,6 +20,81 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 30 September 2020
+
+#### Who did you help this week?
+
+* Hepled JS with neurodiversity presentation feedback and support 
+
+#### Who helped you this week?
+
+* CH helped me with suggestions for moderation
+* KW hwlped me with position paper
+* SL helped me with funding proposals 
+* SI helped me by being interviewed and editing 
+
+#### What did you achieve?
+
+* Project skillsets/roles-mapping
+* OLS work - open canvas, working through issues
+* Wrote September newsletter
+* Reviewing prototype/designs for Fujitsu team
+
+#### What did you struggle with?
+
+* Some stress
+
+#### Where do you need help from Kirstie?
+
+* Position paper part 2 
+
+#### What would you like to work on next week?
+
+* Work up funding proposal ideas 
+* More on position paper
+* Try to get deployed prototype in finer fettle 
+* OLS 
+
+### Date: 31 July 2020
+
+#### Who did you help this week?
+
+* Hepled KW by doing review with IKG on paper
+* Helped JS manage some anxiety 
+
+#### Who helped you this week?
+
+* KK helped me with repo redesign!
+* KK provided interview for newsletter
+
+#### What did you achieve?
+
+* Quarterly updates for health programme
+* Autistica updates 
+* Redesigned/reorganised repo with KK
+* Arranged user testing sessions
+* Onboarding new collaborators
+* Ongoing agile ceremonies/backlog refinements etc. 
+
+#### What did you struggle with?
+
+* Realise haven't done these updates in so long! Sorry KW!
+* Google doc
+* Feeling slightly worn down/tired
+
+#### Where do you need help from Kirstie?
+
+* Position paper
+* Review of repo redesign 
+* Enjoy your holiday :-D !
+
+#### What would you like to work on next week?
+
+* Running user testing sessions
+* Retrieving things from comments in issues to put in main repo
+
+KW: This is fantastic work - thank you so much Georgia!
 
 ### Date: 08 September 2020
 
