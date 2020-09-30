@@ -26,28 +26,37 @@ Georgia's weekly meeting notes.
 #### Who did you help this week?
 
 * Hepled JS with neurodiversity presentation feedback and support 
+  * KW: so cool :raised_hands:
 
 #### Who helped you this week?
 
 * CH helped me with suggestions for moderation
-* KW hwlped me with position paper
-* SL helped me with funding proposals 
-* SI helped me by being interviewed and editing 
+  * KW: Really awesome
+* KW helped me with position paper
+  * KW: LOVE IT
+* SL helped me with funding proposals
+  * KW: Excited for this!
+* SI helped me by being interviewed and editing
+  * KW: Yay!
 
 #### What did you achieve?
 
 * Project skillsets/roles-mapping
+  * KW: Gorgeous - ping me the pictures and I'll do a little twitter thread! 
 * OLS work - open canvas, working through issues
+  * KW: 
 * Wrote September newsletter
+  * KW: Brilliant - send today?
 * Reviewing prototype/designs for Fujitsu team
 
 #### What did you struggle with?
 
 * Some stress
+  * KW: Discussed in the meeting
 
 #### Where do you need help from Kirstie?
 
-* Position paper part 2 
+* Position paper part 2
 
 #### What would you like to work on next week?
 
@@ -55,6 +64,8 @@ Georgia's weekly meeting notes.
 * More on position paper
 * Try to get deployed prototype in finer fettle 
 * OLS 
+
+These all sound great - well done!
 
 ### Date: 31 July 2020
 
