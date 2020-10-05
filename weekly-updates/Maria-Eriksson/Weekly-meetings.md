@@ -12,10 +12,14 @@
 #### Who did you help this week?
 
 * GA and I worked on GitHub together
+  * KW: Great!
+
+KW: AND you taught folks in the lab about epilepsy!!
 
 #### Who helped you this week?
 
 * KW helped me contact SD
+  * KW: Fingers crossed he has time to reply :crossed_fingers:
 * Lab members offered helpful feedback on my project during lab meeting
 
 #### What did you achieve?
@@ -28,7 +32,7 @@
 
 #### What did you struggle with?
 
-* 
+Discussed in meeting
 
 #### What would you like to work on next week?
 
@@ -36,13 +40,18 @@
 * Work on replicating Lamberink et al. (2020)
 * Work on cluster boundaries: kd plot in Python
 
+KW: These all sound great - would be great to see the plot and talk me through Lamberink paper next week!
+
 #### Where do you need help from Kirstie?
 
 * Making histo code modular
+  * KW: This looks pretty good so far! Maybe see if SG can help with the lambda functions!
 
 #### Any other topics
 
 * Presentation feedback
+  * KW: Great discussion. Thank you for asking for feedback.
+  * You come across as really authentic presenting the work and that's the most important thing!
 
 ### Date: 28 September 2020
 
