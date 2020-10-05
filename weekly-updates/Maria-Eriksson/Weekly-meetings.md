@@ -1,10 +1,48 @@
 # Weekly Meetings
 
+* [5 October 2020](#date-5-octoberr-2020)
 * [28 September 2020](#date-28-september-2020)
 * [21 September 2020](#date-21-september-2020)
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 5 October 2020
+
+#### Who did you help this week?
+
+* GA and I worked on GitHub together
+
+#### Who helped you this week?
+
+* KW helped me contact SD
+* Lab members offered helpful feedback on my project during lab meeting
+
+#### What did you achieve?
+
+* Added sub-groups to Histo script
+* Retrieved Age of epilepsy onset for proportion of patients
+* Trialed linear regression in Python
+* Presented at lab meeting
+* Practised using GitHub
+
+#### What did you struggle with?
+
+* 
+
+#### What would you like to work on next week?
+
+* Keep retrieving Age of epilepsy onset for patients
+* Work on replicating Lamberink et al. (2020)
+* Work on cluster boundaries: kd plot in Python
+
+#### Where do you need help from Kirstie?
+
+* Making histo code modular
+
+#### Any other topics
+
+* Presentation feedback
 
 ### Date: 28 September 2020
 
