@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [06 October 2020](#date-06-october-2020)
 * [29 September 2020](#date-29-september-2020)
 * [22 September 2020](#date-22-september-2020)
 * [08 September 2020](#date-08-september-2020)
@@ -11,6 +12,39 @@
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
 
+---
+
+### Date: 06 October 2020
+
+#### Who did you help this week?
+
+* Classmates with finding hard-to-find papers we are meant to read!
+
+#### Who helped you this week?
+
+* FN and KX with the tech talk, you with my Thursday!
+
+#### What did you achieve?
+
+* I led the National-Inclusion-Week-themed REG Tech Talk!
+
+#### What did you struggle with?
+
+* The NeurIPS request was suprisingly overwhelming...
+
+#### What would you like to work on next week?
+
+* I need to reach out to EU re: last week's idea re: collating ethical guidelines
+* I am also looking forward to our review of the new form!
+  
+#### Where do you need help from Kirstie?
+
+* Maybe direction...
+
+#### Any other topics
+
+* I finally spoke with my uni supervisor! We'll meet weekly (starting next Monday) for a bit. He is happy for me to write about collaboration and expects it will take a business culture-y turn.
+ 
 ---
 
 ### Date: 29 September 2020
