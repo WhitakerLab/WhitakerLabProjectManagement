@@ -19,27 +19,33 @@
 #### Who did you help this week?
 
 * Classmates with finding hard-to-find papers we are meant to read!
+  * KW: YES! Have you heard of http://unpaywall.org
 
 #### Who helped you this week?
 
 * FN and KX with the tech talk, you with my Thursday!
+  * KW: Really glad you did this talk - obviously I'm happy to give you a pep talk whenever! :sunflower:
 
 #### What did you achieve?
 
 * I led the National-Inclusion-Week-themed REG Tech Talk!
+  * KW: Really great! Blog post?
 
 #### What did you struggle with?
 
 * The NeurIPS request was suprisingly overwhelming...
+  * KW: Discussed in meeting. :hibiscus:
 
 #### What would you like to work on next week?
 
 * I need to reach out to EU re: last week's idea re: collating ethical guidelines
+  * KW: Yes - and link in CF's guidelines
 * I am also looking forward to our review of the new form!
   
 #### Where do you need help from Kirstie?
 
 * Maybe direction...
+  * KW: I think I'm blocking you at the moment :weary: You're rocking along :muscle:
 
 #### Any other topics
 
