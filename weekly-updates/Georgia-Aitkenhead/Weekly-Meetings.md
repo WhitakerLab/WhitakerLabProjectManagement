@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [07 October 2020](#date-07-october-2020)
 * [30 September 2020](#date-30-september-2020)
 * [08 September 2020](#date-08-september-2020)
 * [31 July 2020](#date-31-july-2020)
@@ -20,6 +21,41 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 07 October 2020
+
+#### Who did you help this week?
+
+* Helped ME think abuot READMEs 
+
+#### Who helped you this week?
+
+* OS helped me by offering testimonial
+* ME taught me about autism and epilepsy
+* Lab and Turing people helped with prototype hosting options
+
+#### What did you achieve?
+
+* Design work
+* Listed skills gaps/created volunteering role
+* OLS - GitHub focus :) 
+
+#### What did you struggle with?
+
+* Thinking of a name for the platform!?!
+* Miro
+
+#### Where do you need help from Kirstie?
+
+* Position paper part 2
+* Formatting stuff for newsletter 
+
+#### What would you like to work on next week?
+
+* Position paper part 2
+* Roadmapping
+* Design work
+* Funding 
 
 ### Date: 30 September 2020
 
