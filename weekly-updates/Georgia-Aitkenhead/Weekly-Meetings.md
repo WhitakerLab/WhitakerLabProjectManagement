@@ -26,7 +26,7 @@ Georgia's weekly meeting notes.
 
 #### Who did you help this week?
 
-* Helped ME think abuot READMEs 
+* Helped ME think about READMEs 
 
 #### Who helped you this week?
 
@@ -38,6 +38,7 @@ Georgia's weekly meeting notes.
 
 * Design work
 * Listed skills gaps/created volunteering role
+  * KW: Super cool!
 * OLS - GitHub focus :) 
 
 #### What did you struggle with?
@@ -48,7 +49,8 @@ Georgia's weekly meeting notes.
 #### Where do you need help from Kirstie?
 
 * Position paper part 2
-* Formatting stuff for newsletter 
+* Formatting stuff for newsletter
+ * KW: Ah, yes. Gah. Ran out of time :grimacing:
 
 #### What would you like to work on next week?
 
@@ -56,6 +58,8 @@ Georgia's weekly meeting notes.
 * Roadmapping
 * Design work
 * Funding 
+
+The design is wonderful Georgia - well done and thank you so much :heart_eyes:
 
 ### Date: 30 September 2020
 
