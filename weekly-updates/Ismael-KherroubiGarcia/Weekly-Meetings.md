@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [06 October 2020](#date-06-october-2020)
 * [29 September 2020](#date-29-september-2020)
 * [22 September 2020](#date-22-september-2020)
 * [08 September 2020](#date-08-september-2020)
@@ -11,6 +12,45 @@
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
 
+---
+
+### Date: 06 October 2020
+
+#### Who did you help this week?
+
+* Classmates with finding hard-to-find papers we are meant to read!
+  * KW: YES! Have you heard of http://unpaywall.org
+
+#### Who helped you this week?
+
+* FN and KX with the tech talk, you with my Thursday!
+  * KW: Really glad you did this talk - obviously I'm happy to give you a pep talk whenever! :sunflower:
+
+#### What did you achieve?
+
+* I led the National-Inclusion-Week-themed REG Tech Talk!
+  * KW: Really great! Blog post?
+
+#### What did you struggle with?
+
+* The NeurIPS request was suprisingly overwhelming...
+  * KW: Discussed in meeting. :hibiscus:
+
+#### What would you like to work on next week?
+
+* I need to reach out to EU re: last week's idea re: collating ethical guidelines
+  * KW: Yes - and link in CF's guidelines
+* I am also looking forward to our review of the new form!
+  
+#### Where do you need help from Kirstie?
+
+* Maybe direction...
+  * KW: I think I'm blocking you at the moment :weary: You're rocking along :muscle:
+
+#### Any other topics
+
+* I finally spoke with my uni supervisor! We'll meet weekly (starting next Monday) for a bit. He is happy for me to write about collaboration and expects it will take a business culture-y turn.
+ 
 ---
 
 ### Date: 29 September 2020
