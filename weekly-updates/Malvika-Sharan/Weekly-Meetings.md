@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [09 October 2020](#date-09-October-2020)
 * [21 September 2020](#date-21-September-2020)
 * [29 August 2020](#date-29-August-2020)
 * [27 July 2020](#date-27-July-2020)
@@ -14,8 +15,38 @@
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
 
+### Date: 09 October 2020
 
-### Template: Date: 21 September 2020
+#### Who did you help this week?
+- PO with getting some more plannings for next week - need more hands-on session with him but struggled with time commitments this week
+- Some HacktoberFest folks
+
+#### Who helped you this week?
+- SB and PO with Hacktoberfest contributions
+- KW with preparing for meeting 
+- MV troubleshooting JC platform issues
+
+#### What did you achieve?
+- Launched the Book Dash call - currently sorting some logistics and reaching out to people to apply
+- We are doing 2 JupyterCon tutorials this week & a JupyterCon sprint tomorrow
+- Getting The Carpentries conversation forward with TH, AN and MF
+- Collaboration Cafe was pretty great
+- Reviewed a manuscript after 1 year break :D - it was good!
+
+#### What did you struggle with?
+- JC time commitments
+- Keeping track of the new connections
+
+#### What would you like to work on next week?
+- Book Dash and Biohackathon
+- Putting JC tutorial in The Carpentries format
+- Next governance document - defining roles
+- Looking for funding for community development
+
+#### Where do you need help from Kirstie?
+- New responsibilities
+
+### Date: 21 September 2020
 
 #### Who did you help this week?
 
