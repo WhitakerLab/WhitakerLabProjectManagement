@@ -18,33 +18,49 @@
 ### Date: 09 October 2020
 
 #### Who did you help this week?
+
 - PO with getting some more plannings for next week - need more hands-on session with him but struggled with time commitments this week
+  - KW: I'm glad he's doing so well!
 - Some HacktoberFest folks
+  - KW: I'm delighted that these translations are going so well!
 
 #### Who helped you this week?
+
 - SB and PO with Hacktoberfest contributions
-- KW with preparing for meeting 
+- KW with preparing for meeting
 - MV troubleshooting JC platform issues
 
+KW: You are doing SO much great work - I'm so glad that these folks are working with you :sparkling_heart:
+
 #### What did you achieve?
+
 - Launched the Book Dash call - currently sorting some logistics and reaching out to people to apply
-- We are doing 2 JupyterCon tutorials this week & a JupyterCon sprint tomorrow
+- We are doing 2 JupyterCon tutorials this week & a JupyterCon sprint next weekend (not this weekend)
 - Getting The Carpentries conversation forward with TH, AN and MF
 - Collaboration Cafe was pretty great
+  - KW: I was so delighted to be there! So much fun!
 - Reviewed a manuscript after 1 year break :D - it was good!
 
 #### What did you struggle with?
+
 - JC time commitments
 - Keeping track of the new connections
+  - KW: Yeah - this is tough
 
 #### What would you like to work on next week?
+
 - Book Dash and Biohackathon
 - Putting JC tutorial in The Carpentries format
 - Next governance document - defining roles
 - Looking for funding for community development
 
 #### Where do you need help from Kirstie?
+
 - New responsibilities
+
+KW: SO MUCH GOING ON AAAAAAH! 
+
+KW: It's all terribly exciting though - THANK YOU for all your amazing work!
 
 ### Date: 21 September 2020
 
