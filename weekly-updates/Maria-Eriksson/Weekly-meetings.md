@@ -1,10 +1,91 @@
 # Weekly Meetings
 
+* [12 October 2020](#date-12-octoberr-2020)
+* [5 October 2020](#date-5-octoberr-2020)
 * [28 September 2020](#date-28-september-2020)
 * [21 September 2020](#date-21-september-2020)
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 12 October 2020
+
+#### Who did you help this week?
+
+* 
+
+#### Who helped you this week?
+
+* 
+
+#### What did you achieve?
+
+* Retrieved Age of epilepsy onset for proportion of patients
+
+#### What did you struggle with?
+
+* Bit of an odd week! I couldn't get back to London as planned, so I didn't have access to my desktop computer (which meant that I couldn't work on any code/analyses - sad!)
+
+#### What would you like to work on next week?
+
+* Repeat from last week
+  * Keep retrieving Age of epilepsy onset for patients
+  * Work on replicating Lamberink et al. (2020)
+  * Work on cluster boundaries: kd plot in Python
+
+#### Where do you need help from Kirstie?
+
+* 
+
+#### Any other topics
+
+* Lamberink et al. (2020)
+
+### Date: 5 October 2020
+
+#### Who did you help this week?
+
+* GA and I worked on GitHub together
+  * KW: Great!
+
+KW: AND you taught folks in the lab about epilepsy!!
+
+#### Who helped you this week?
+
+* KW helped me contact SD
+  * KW: Fingers crossed he has time to reply :crossed_fingers:
+* Lab members offered helpful feedback on my project during lab meeting
+
+#### What did you achieve?
+
+* Added sub-groups to Histo script
+* Retrieved Age of epilepsy onset for proportion of patients
+* Trialed linear regression in Python
+* Presented at lab meeting
+* Practised using GitHub
+
+#### What did you struggle with?
+
+Discussed in meeting
+
+#### What would you like to work on next week?
+
+* Keep retrieving Age of epilepsy onset for patients
+* Work on replicating Lamberink et al. (2020)
+* Work on cluster boundaries: kd plot in Python
+
+KW: These all sound great - would be great to see the plot and talk me through Lamberink paper next week!
+
+#### Where do you need help from Kirstie?
+
+* Making histo code modular
+  * KW: This looks pretty good so far! Maybe see if SG can help with the lambda functions!
+
+#### Any other topics
+
+* Presentation feedback
+  * KW: Great discussion. Thank you for asking for feedback.
+  * You come across as really authentic presenting the work and that's the most important thing!
 
 ### Date: 28 September 2020
 
