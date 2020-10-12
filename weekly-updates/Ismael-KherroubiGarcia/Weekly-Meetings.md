@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [13 October 2020](#date-13-october-2020)
 * [06 October 2020](#date-06-october-2020)
 * [29 September 2020](#date-29-september-2020)
 * [22 September 2020](#date-22-september-2020)
@@ -11,6 +12,39 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 13 October 2020
+
+#### Who did you help this week?
+
+* Two new ethics applicants: Learning Machines and Secure IDs.
+
+#### Who helped you this week?
+
+* KW for checking the ethics form!!!
+
+#### What did you achieve?
+
+* "Achieve" is a big word, but the eag chat was on fire on Wednesday 7th!
+* I also shared feedback on the EDI Audit with the EDI group I join
+
+#### What did you struggle with?
+
+* Hmm, maybe responding to these questions again!
+
+#### What would you like to work on next week?
+
+* Back to the questionnaire!
+  
+#### Where do you need help from Kirstie?
+
+* The form, of course! But we'll discuss this in the meeting!
+
+#### Any other topics
+
+* Emailed briefly with EU, but only briefly. Oh, and I think AM is co-chair of the EDI Advisory Board now!
 
 ---
 
