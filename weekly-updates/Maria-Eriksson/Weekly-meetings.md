@@ -1,7 +1,7 @@
 # Weekly Meetings
 
-* [12 October 2020](#date-12-octoberr-2020)
-* [5 October 2020](#date-5-octoberr-2020)
+* [12 October 2020](#date-12-october-2020)
+* [5 October 2020](#date-5-october-2020)
 * [28 September 2020](#date-28-september-2020)
 * [21 September 2020](#date-21-september-2020)
 * [14 September 2020](#date-14-september-2020)
@@ -12,11 +12,11 @@
 
 #### Who did you help this week?
 
-* 
+* KW: Noted some lovely helpful activities for family members in the meeting :sparkling_heart: 
 
 #### Who helped you this week?
 
-* 
+* TB send back some comments on my upgrade report
 
 #### What did you achieve?
 
@@ -35,7 +35,8 @@
 
 #### Where do you need help from Kirstie?
 
-* 
+* KW: Fun pep talk on contributing to open source :muscle: :rocket: :star2:
+  * https://github.com/alan-turing-institute/the-turing-way/issues/1321
 
 #### Any other topics
 
