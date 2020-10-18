@@ -1,22 +1,62 @@
 # Weekly Meetings
 
-* [12 October 2020](#date-12-octoberr-2020)
-* [5 October 2020](#date-5-octoberr-2020)
+* [19 October 2020](#date-18-october-2020)
+* [12 October 2020](#date-12-october-2020)
+* [5 October 2020](#date-5-october-2020)
 * [28 September 2020](#date-28-september-2020)
 * [21 September 2020](#date-21-september-2020)
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
 
+### Date: 19 October 2020
+
+#### Who did you help this week?
+
+* Made my first PR to _the Turing Way_ (and didn't break it! :pray:)
+  * Completed five simple `good first issue`s
+
+#### Who helped you this week?
+
+* KW, SB and MS helped me make my first PR
+
+#### What did you achieve?
+
+* Density and histogram plots for cluster memberships
+* Logistic regressions in R and Python, with all five different outcome measures
+  * Looks like I've replicated Lamberink et al. (2020) :dancer:
+* Incorporated upgrade feedback from TB, SAW and KAW
+* Retrieved Age of epilepsy onset for proportion of patients
+
+#### What did you struggle with?
+
+* Under the weather - hardly left my bed :snail:
+
+#### What would you like to work on next week?
+
+* Meeting with SG to discuss reproducible research environments - exciting!
+* Fine-tune hishistopathology code using Lamberink et al. (2020)'s categories
+* Work on making histopathology code modular
+* Logistic regression predicting on/off AEDs after surgery
+* Meeting with SB to chat about GitHub & _the Turing Way_
+
+#### Where do you need help from Kirstie?
+
+* Choosing an upgrade examiner
+
+#### Any other topics
+
+* 
+
 ### Date: 12 October 2020
 
 #### Who did you help this week?
 
-* 
+* KW: Noted some lovely helpful activities for family members in the meeting :sparkling_heart: 
 
 #### Who helped you this week?
 
-* 
+* TB sent back some comments on my upgrade report
 
 #### What did you achieve?
 
@@ -35,11 +75,12 @@
 
 #### Where do you need help from Kirstie?
 
-* 
+* KW: Fun pep talk on contributing to open source :muscle: :rocket: :star2:
+  * https://github.com/alan-turing-institute/the-turing-way/issues/1321
 
 #### Any other topics
 
-* Lamberink et al. (2020)
+* 
 
 ### Date: 5 October 2020
 
