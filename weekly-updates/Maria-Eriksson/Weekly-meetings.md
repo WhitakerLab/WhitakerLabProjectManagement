@@ -1,6 +1,5 @@
 # Weekly Meetings
 
-
 * [19 October 2020](#date-18-october-2020)
 * [12 October 2020](#date-12-october-2020)
 * [5 October 2020](#date-5-october-2020)
@@ -15,28 +14,34 @@
 #### Who did you help this week?
 
 * Made my first PR to _the Turing Way_ (and didn't break it! :pray:)
-  * Completed five simple `good first issue`s
-
+ * Completed five simple `good first issue`s
+  * KW: GREAT JOB!! :star2:
+  
 #### Who helped you this week?
 
 * KW, SB and MS helped me make my first PR
+  * KW: Fantastic - I'm glad we were able to help :rocket:
 
 #### What did you achieve?
 
 * Density and histogram plots for cluster memberships
 * Logistic regressions in R and Python, with all five different outcome measures
   * Looks like I've replicated Lamberink et al. (2020) :dancer:
+  * KW: FUN! Thank you for talking me through it!
 * Incorporated upgrade feedback from TB, SAW and KAW
 * Retrieved Age of epilepsy onset for proportion of patients
+
+KW: FUN WEEK! Well done!
 
 #### What did you struggle with?
 
 * Under the weather - hardly left my bed :snail:
+  * KW: Booooooo :face_with_thermometer:
 
 #### What would you like to work on next week?
 
 * Meeting with SG to discuss reproducible research environments - exciting!
-* Fine-tune hishistopathology code using Lamberink et al. (2020)'s categories
+* Fine-tune histopathology code using Lamberink et al. (2020)'s categories
 * Work on making histopathology code modular
 * Logistic regression predicting on/off AEDs after surgery
 * Meeting with SB to chat about GitHub & _the Turing Way_
@@ -44,9 +49,11 @@
 #### Where do you need help from Kirstie?
 
 * Choosing an upgrade examiner
+  * KW: Good discussion in the meeting
 
 #### Any other topics
 
+KW: Great work! Keep it up :sparkles:
 
 ### Date: 12 October 2020
 
