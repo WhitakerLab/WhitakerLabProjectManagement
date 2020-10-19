@@ -1,14 +1,139 @@
 # Weekly Meetings
 
-# Weekly Meetings
-
+* [06 October 2020](#date-06-october-2020)
+* [29 September 2020](#date-29-september-2020)
+* [22 September 2020](#date-22-september-2020)
 * [08 September 2020](#date-08-september-2020)
+* [30 July 2020](#date-30-july-2020)
 * [17 June 2020](#date-17-june-2020)
 * [02 June 2020](#date-02-june-2020)
 * [19 May 2020](#date-19-may-2020)
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 06 October 2020
+
+#### Who did you help this week?
+
+* Classmates with finding hard-to-find papers we are meant to read!
+  * KW: YES! Have you heard of http://unpaywall.org
+
+#### Who helped you this week?
+
+* FN and KX with the tech talk, you with my Thursday!
+  * KW: Really glad you did this talk - obviously I'm happy to give you a pep talk whenever! :sunflower:
+
+#### What did you achieve?
+
+* I led the National-Inclusion-Week-themed REG Tech Talk!
+  * KW: Really great! Blog post?
+
+#### What did you struggle with?
+
+* The NeurIPS request was suprisingly overwhelming...
+  * KW: Discussed in meeting. :hibiscus:
+
+#### What would you like to work on next week?
+
+* I need to reach out to EU re: last week's idea re: collating ethical guidelines
+  * KW: Yes - and link in CF's guidelines
+* I am also looking forward to our review of the new form!
+  
+#### Where do you need help from Kirstie?
+
+* Maybe direction...
+  * KW: I think I'm blocking you at the moment :weary: You're rocking along :muscle:
+
+#### Any other topics
+
+* I finally spoke with my uni supervisor! We'll meet weekly (starting next Monday) for a bit. He is happy for me to write about collaboration and expects it will take a business culture-y turn.
+ 
+---
+
+### Date: 29 September 2020
+
+#### Who did you help this week?
+
+* I helped a colleague by saying to just take an afternoon off after they'd had very difficult meetings throughout the day!
+  * KW: I LOVE THIS SO MUCH. THANK YOU.
+
+#### Who helped you this week?
+
+* YH and LC were great to hang out with on Friday, and that was really helpful!
+  * KW: Such great people :sparkling_heart:
+
+#### What did you achieve?
+
+* Yet another awesome meeting with MB!
+  * KW: Oh this is such a joy :star2:
+
+#### What did you struggle with?
+
+* I've been a bit distracted with class starting just around the corner (Monday 28th being the first day).
+  * Oh, and this is fun: I've been put in a Saturday slot for dissertation seminars!
+
+#### What would you like to work on next week?
+
+* I need to check the new ethics form for references to legal aspects covered by the DPAP (I think I took them out already, but will have a look) 
+  * KW: Great.
+* The email from RE has reignited the need for ethical guidance. I want to suggest a compilation of resources. Some universities do this: a page with links to frameworks that researchers can work with. Of course [DL's report](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf) is the best for AI in public policy, but we've also learned of an excellent [framework BV has used for researchers working on hate speech](https://www.thorn.org/wp-content/uploads/2015/02/EmployeeResilienceGuidebookFinal7-13-1.pdf). And there are so many more. Oxford have a page similar to [this idea](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/guidance#collapse394976). We can then make it mandatory for applicants to share what framework they will follow and how.
+  * KW: Strong yes on this front, Emma will be a good ally in this work.
+  
+#### Where do you need help from Kirstie?
+
+* I would really appreciate it if you finalise the ethics form with regard to the data safe haven questions -- I tried to comment on each question with where they are referenced in other sections
+  * KW: Please put a 2 hour slot in my calendar for me to work on this (with 30 mins of you turning up at the end as my accountability check!)
+
+#### Any other topics
+
+* Not yet! I am meeting with my dissertation supervisor on Wednesday at 4 and will hopefully have the beginnings of a plan set out by the end of the week!
+  * KW: Super exciting!
+ * KW: Can you have a think about a submission to https://nbiair.com/#CFP - ideally including CH and VF if they're interested. 
+ 
+---
+
+### Date: 22 September 2020
+
+#### Who did you help this week?
+
+* I helped MS by giving the Turing Way newsletter a proof read! SB helped too!
+  * KW: Thank you! :pray:
+
+#### Who helped you this week?
+
+* LC and I worked on some OLS-2 homework - I feel like we helped each other (SB made it last Friday and we all worked together then).
+  * KW: Double wonderful!
+
+#### What did you achieve?
+
+* Another EAG form through the finish line!
+  * There was a personal information sheet missing and which our reviewer wanted to see before approving.
+    The PI was really open to EAG's views.
+* I've got the EAG document to a place where I think it can be shared for further comments from others.
+
+#### What did you struggle with?
+
+* My birthday coming up always gets me a bit feisty, haha
+
+#### What would you like to work on next week?
+
+* VF asked to have a look at what other institutions' ethics committees ask about/do.
+  * I've briefly checked a few.
+  * Oxford have something similar to what we thought we could develop.
+
+#### Where do you need help from Kirstie?
+
+* I know presentations are a big thing in this world, but what else might work?
+  * Videos?
+  * I'm thinking videos again...
+  * KW: Love these ideas - have a chat with Georgia too and brainstorm what works. I bet Yo might have some good ideas too!
+
+#### Any other topics
+
+* The OLS programme is really exciting with LC and SB!
 
 ---
 
@@ -50,9 +175,51 @@
 
 * FYI, Liam will hopefully be my dissertation supervisor after all!
   * KW: Super exciting! I'm looking forward to learning from you!
-  
----
 
+### Date: 30 July 2020
+
+#### Who did you help this week?
+
+* Over the past week, I helped the DSSG folks with the ethical research workshop!
+  * KW: You did such a great job!
+* I also helped PH (I think!) by doing some DMPOnline testing
+
+#### Who helped you this week?
+
+* You saved the day by making a Zoom room that worked for the DSSG training!
+  * KW: Aaaaah my many talents!!
+
+#### What did you achieve?
+
+* The DSSG ethics training was a big thing for me!
+
+#### What did you struggle with?
+
+* Suddenly, we got three EAG forms over the weekend and I think the reviewers are at capacity.
+  Also, there are the summer holidays, so this might be a larger struggle.
+  * KW: Discussed in person - just keep asking politely 
+
+#### What would you like to work on next week?
+
+* Chatting with MF and MN on Thursday about delivering more training.
+  I think I like the idea of working on that some more!
+  * KW: Fab!
+* I'm also giving the EAG folders and excel document a review for tidiness!
+  * KW: GREAT IDEA!
+
+#### Where do you need help from Kirstie?
+
+* Who could I work with on writing a post for the Turing blog about research ethics?
+  I guess the thesis of that blog would be: ethical reflection is critical to the scientific method.
+  But I'd love to bounce ideas around.
+
+#### Any other topics
+
+* None at the moment!
+
+KW: Really good conversation about building engagement and cohesion at the Turing!!
+Keep up the great work :space_invader: :star2:
+   
 ### Date: 17 June 2020
 
 #### Who did you help this week?
@@ -310,4 +477,3 @@ Not at the moment!
 * Revision of webpage draft content (and maybe more ideas)
 
 KW: The questions we discussed were really helpful! Thank you for preparing them! I'm super happy that you're already thinking about how much work this role is going to be - and how much potential we have here :sparkles:
-

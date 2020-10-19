@@ -1,5 +1,7 @@
 # Malvika's weekly meeting notes.
 
+* [09 October 2020](#date-09-October-2020)
+* [21 September 2020](#date-21-September-2020)
 * [29 August 2020](#date-29-August-2020)
 * [27 July 2020](#date-27-July-2020)
 * [10 July 2020](#date-10-July-2020)
@@ -12,6 +14,92 @@
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 09 October 2020
+
+#### Who did you help this week?
+
+- PO with getting some more plannings for next week - need more hands-on session with him but struggled with time commitments this week
+  - KW: I'm glad he's doing so well!
+- Some HacktoberFest folks
+  - KW: I'm delighted that these translations are going so well!
+
+#### Who helped you this week?
+
+- SB and PO with Hacktoberfest contributions
+- KW with preparing for meeting
+- MV troubleshooting JC platform issues
+
+KW: You are doing SO much great work - I'm so glad that these folks are working with you :sparkling_heart:
+
+#### What did you achieve?
+
+- Launched the Book Dash call - currently sorting some logistics and reaching out to people to apply
+- We are doing 2 JupyterCon tutorials this week & a JupyterCon sprint next weekend (not this weekend)
+- Getting The Carpentries conversation forward with TH, AN and MF
+- Collaboration Cafe was pretty great
+  - KW: I was so delighted to be there! So much fun!
+- Reviewed a manuscript after 1 year break :D - it was good!
+
+#### What did you struggle with?
+
+- JC time commitments
+- Keeping track of the new connections
+  - KW: Yeah - this is tough
+
+#### What would you like to work on next week?
+
+- Book Dash and Biohackathon
+- Putting JC tutorial in The Carpentries format
+- Next governance document - defining roles
+- Looking for funding for community development
+
+#### Where do you need help from Kirstie?
+
+- New responsibilities
+
+KW: SO MUCH GOING ON AAAAAAH! 
+
+KW: It's all terribly exciting though - THANK YOU for all your amazing work!
+
+### Date: 21 September 2020
+
+#### Who did you help this week?
+
+- LA in getting started with leadership chapter
+- MF in designing the UKRI application with the Turing Way and OLS
+- Supporting the conference on Women in Science and impact of COVID
+- MN in thinking through our training plan
+#### Who helped you this week?
+- MV and SG in designing this tutorial. 
+    - So thankful to MV who did more than half the work. And SG for efficiency.
+- MA for helping set our GSoD candidate
+- BW in sharing her insights on how to develop community with accessibility aspects
+- SB in taking leadership on hacktoberfest
+
+#### What did you achieve?
+
+- Onboarding PO in GSoD project
+- Onboarding NM and PO on OLS project
+- Finishing the JupyterCOn tutorial collaboratively
+- Getting the plan for the second tutorial sorted by GdQ
+- Finishing the newsletter and getting started with Collaboration Cafe
+- Delivering the DORA panel
+
+#### What did you struggle with?
+
+- Sad to give false hope to AH and still not getting in touch with PG
+- Getting the collaborative workflow idea across AY, Turing events team
+
+#### What would you like to work on next week?
+
+- JupyterCon tutorial
+- Supporting materials for AY and communications team
+- Supporting the GSoD candidates
+- Designing the bookdash
+
+#### Where do you need help from Kirstie?
+- JBC etc.
 
 ### Date: 29 August 2020
 
@@ -501,4 +589,3 @@ KW: And opened The Turing Way [twitter account](https://twitter.com/turingway)!!
 #### What would you like to work on next week?
 
 #### Where do you need help from Kirstie?
-

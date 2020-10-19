@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+
 * [19 October 2020](#date-18-october-2020)
 * [12 October 2020](#date-12-october-2020)
 * [5 October 2020](#date-5-october-2020)
@@ -46,7 +47,6 @@
 
 #### Any other topics
 
-* 
 
 ### Date: 12 October 2020
 
