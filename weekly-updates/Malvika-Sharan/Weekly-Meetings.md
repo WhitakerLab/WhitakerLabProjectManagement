@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [21 October 2020](#date-21-October-2020)
 * [09 October 2020](#date-09-October-2020)
 * [21 September 2020](#date-21-September-2020)
 * [29 August 2020](#date-29-August-2020)
@@ -14,6 +15,40 @@
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+### Template: Date: 21 oct 2020
+
+#### Who did you help this week?
+- PO in setting documentation plan for his work
+- SG in OLS mentorship matter
+- LA in governance and leadership discssion and codevleopment of leadership chapter
+- MF connect with TH from TC
+
+#### Who helped you this week?
+
+- KW for running an extra long sprint
+- PO discussing some ideas for guidance and documentation
+
+#### What did you achieve?
+
+- JC sprint with KW (though I was there only for the first half)
+- More contributors from the hacktoberfest, though it is slow at the moment
+- Sketching multiple ideas for training with different groups
+- Starting 2 proposals, one due next week
+
+#### What did you struggle with?
+
+- Personal stuff
+
+#### What would you like to work on next week?
+
+- setting up all the remaining logistics for the Book Dash
+- grant proposal
+
+#### Where do you need help from Kirstie?
+
+- proposal review (daft should be ready tomorrow)
+- Book Dash application review (check if we need to invite more people)
 
 ### Date: 09 October 2020
 
