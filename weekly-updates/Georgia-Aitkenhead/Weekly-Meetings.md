@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [22 October 2020](#date-22-october-2020)
 * [07 October 2020](#date-07-october-2020)
 * [30 September 2020](#date-30-september-2020)
 * [08 September 2020](#date-08-september-2020)
@@ -21,6 +22,51 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 22 October 2020
+
+#### Who did you help this week?
+
+* Helped ES with potential applications of citizen science platform 
+  * KW: YES! Excellent conversation. Feels like a lot of content for paper 2 :muscle:
+
+#### Who helped you this week?
+
+* KW helped with morale and planning
+* TA helped me think through platform text
+* AVDW helped me choose OLS experts who could be useful for project 
+
+KW: Delighted that you can work with such lovely people :heart_eyes:
+
+#### What did you achieve?
+
+* Created page by page requirements list for platform
+  * KW: :scream_cat: WOW - well done!
+* Created wireframe on Figma 
+  * KW: Super excited to see more of this this afternoon! :star2:
+* Researched existing open source code and design work for platform
+  * KW: Very exciting! :rocket:
+* OLS-2 ongoing work 
+
+#### What did you struggle with?
+
+* Prototyping on Figma
+* Info/clean design balancing
+  * KW: Excited to get in touch with GB in the next few weeks :sparkles:
+
+#### Where do you need help from Kirstie?
+
+* Strategies
+* Code of conduct and moderation planning
+  * https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/385
+* Position paper part 2
+
+#### What would you like to work on next week?
+
+* Design work
+* Funding proposal
+* October newsletter
+* Quarterly updates
 
 ### Date: 07 October 2020
 
