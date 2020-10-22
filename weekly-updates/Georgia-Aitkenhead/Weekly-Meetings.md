@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [22 October 2020](#date-22-ocrober-2020)
 * [07 October 2020](#date-07-october-2020)
 * [30 September 2020](#date-30-september-2020)
 * [08 September 2020](#date-08-september-2020)
@@ -21,6 +22,43 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 22 October 2020
+
+#### Who did you help this week?
+
+* Helped ES witht potential applications of citizen science platform 
+
+#### Who helped you this week?
+
+* KW helped with morale and planning
+* TA helped me think through platform text
+* AVDW helped me choose OLS experts who could be useful for project 
+
+#### What did you achieve?
+
+* Created page by page requirements list for platform
+* Created wireframe on Figma 
+* Researched existing open source code and design work for platform
+* OLS-2 ongoing work 
+
+#### What did you struggle with?
+
+* Prototyping on Figma
+* Info/clean design balancing 
+
+#### Where do you need help from Kirstie?
+
+* Strategies
+* Code of conduct and moderaation planning
+* Position paper part 2
+
+#### What would you like to work on next week?
+
+* Design work
+* Funding proposal
+* October newsletter
+* Quarterly updates
 
 ### Date: 07 October 2020
 
