@@ -1,6 +1,7 @@
 # Weekly Meetings
 
-* [19 October 2020](#date-18-october-2020)
+* [26 October 2020](#date-26-october-2020)
+* [19 October 2020](#date-19-october-2020)
 * [12 October 2020](#date-12-october-2020)
 * [5 October 2020](#date-5-october-2020)
 * [28 September 2020](#date-28-september-2020)
@@ -8,6 +9,79 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+
+### Date: 26 October 2020
+
+#### Who did you help this week?
+
+* Helped a student who is interested in a project with one of my supervisors
+* Completed a few more `good first issue`s in _the Turing Way_
+  
+#### Who helped you this week?
+
+* SG explained reproducible environments to me
+
+#### What did you achieve?
+
+* Finished genetics code & data extract
+* Submitted conference poster
+* Confirmed external upgrade examiner (Finbar O’Callaghan)
+* Had awesome meeting about reproducible environments with SG
+* Finished MSc paper for submission to biorxiv and Annals of Neurology
+* Attended SAIL conference
+* Started collab with EP (who is working on sensitive data in _the Turing Way_)
+
+#### What did you struggle with?
+
+* 
+
+#### What would you like to work on next week?
+
+* Keep working on histopathology categories (+ making code modular)
+* Write about sensitive data management (for _the Turing Way_)
+
+#### Where do you need help from Kirstie?
+
+* All good!
+
+#### Any other topics
+
+*
+
+### Date: 12 October 2020
+
+#### Who did you help this week?
+
+* KW: Noted some lovely helpful activities for family members in the meeting :sparkling_heart: 
+
+#### Who helped you this week?
+
+* TB sent back some comments on my upgrade report
+
+#### What did you achieve?
+
+* Retrieved Age of epilepsy onset for proportion of patients
+
+#### What did you struggle with?
+
+* Bit of an odd week! I couldn't get back to London as planned, so I didn't have access to my desktop computer (which meant that I couldn't work on any code/analyses - sad!)
+
+#### What would you like to work on next week?
+
+* Repeat from last week
+  * Keep retrieving Age of epilepsy onset for patients
+  * Work on replicating Lamberink et al. (2020)
+  * Work on cluster boundaries: kd plot in Python
+
+#### Where do you need help from Kirstie?
+
+* KW: Fun pep talk on contributing to open source :muscle: :rocket: :star2:
+  * https://github.com/alan-turing-institute/the-turing-way/issues/1321
+
+#### Any other topics
+
+* 
 
 ### Date: 19 October 2020
 
