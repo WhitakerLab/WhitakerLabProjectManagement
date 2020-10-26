@@ -26,15 +26,17 @@
 
 * Finished genetics code & data extract
 * Submitted conference poster
-* Confirmed external upgrade examiner (Finbar O’Callaghan)
+  * KW: Fingers crossed!
+* Confirmed external upgrade examiner (Finbar O'Callaghan)
 * Had awesome meeting about reproducible environments with SG
 * Finished MSc paper for submission to biorxiv and Annals of Neurology
+  * KW: :scream_cat::scream_cat::scream_cat: Wooooo!!!
 * Attended SAIL conference
 * Started collab with EP (who is working on sensitive data in _the Turing Way_)
 
 #### What did you struggle with?
 
-* 
+* Discussed in the meeting
 
 #### What would you like to work on next week?
 
@@ -45,9 +47,7 @@
 
 * All good!
 
-#### Any other topics
-
-*
+KW: Super fun update! Thank you! :pray:
 
 ### Date: 19 October 2020
 
