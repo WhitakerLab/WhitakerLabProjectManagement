@@ -49,40 +49,6 @@
 
 *
 
-### Date: 12 October 2020
-
-#### Who did you help this week?
-
-* KW: Noted some lovely helpful activities for family members in the meeting :sparkling_heart: 
-
-#### Who helped you this week?
-
-* TB sent back some comments on my upgrade report
-
-#### What did you achieve?
-
-* Retrieved Age of epilepsy onset for proportion of patients
-
-#### What did you struggle with?
-
-* Bit of an odd week! I couldn't get back to London as planned, so I didn't have access to my desktop computer (which meant that I couldn't work on any code/analyses - sad!)
-
-#### What would you like to work on next week?
-
-* Repeat from last week
-  * Keep retrieving Age of epilepsy onset for patients
-  * Work on replicating Lamberink et al. (2020)
-  * Work on cluster boundaries: kd plot in Python
-
-#### Where do you need help from Kirstie?
-
-* KW: Fun pep talk on contributing to open source :muscle: :rocket: :star2:
-  * https://github.com/alan-turing-institute/the-turing-way/issues/1321
-
-#### Any other topics
-
-* 
-
 ### Date: 19 October 2020
 
 #### Who did you help this week?
