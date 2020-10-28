@@ -16,28 +16,42 @@
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
 
-### Template: Date: 28 oct 2020
+### Template: Date: 28 October 2020
 
 #### Who did you help this week?
+
 - PO in setting documentation plan and next milestones for his work
+  - KW: Great stuff - I'm really enjoying chatting with him!
 - SG in OLS mentorship matter, switching projects and allowing to shadow other mentor
-- LA in governance and leadership discssion and codevleopment of leadership chapter
+  - KW: Great job thinking about everyone's needs :sparkling_heart:
+- LA in governance and leadership discssion and codevelopment of leadership chapter
+  - KW: I talked about this in my talk at York - everyone wants this content! GREAT WORK!
 - MF connect with TH from TC
+  - KW: :heart_eyes:
 - ET and NM in identifying organisational collaboration with The Turing Way
+  - KW: This is so freaking cool
 
 #### Who helped you this week?
 
 - KW for running an extra long sprint
+  - KW: Hehehe - so true!
 - PO discussing some ideas for a chapter, templates and documentation plans
+  - KW: Such great work! 
 
 #### What did you achieve?
 
 - JC sprint with KW (though I was there only for the first half)
+  - KW: AND ALL THE OTHER JupyterCon work! :rocket:
 - More contributors from the hacktoberfest, though reviewing is slow at the moment
+  - KW: Yeah - its a weird space - I was still really excited to talk about it at York :smile:
 - Submitted Online training proposal
+  - KW: GREAT WORK!
 - Joining the UKRI proposal and sketching training plans with members from Turing and Crick
-- Reviewed Book Dash application, discussed with KW to select 20 participants
+  - KW: I am super excited for this proposal.
+- Reviewed Book Dash application, discussed with KW to select 20 participants.
+  - KW: So excited!
 - Helping EDI receive confirmation from HR to help Turing folks attend the Ally workshop
+  - KW: Really wonderful :heart_eyes:
 - Finishing logistics for the Book Dash (personal arrangements are due)
 
 #### What did you struggle with?
@@ -53,6 +67,8 @@
 
 - Book Dash
 - Any plan for the next months that we should focus on
+
+Really amazing work Malvika - thank you so much :pray:
 
 ### Date: 09 October 2020
 
