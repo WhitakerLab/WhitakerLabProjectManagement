@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [28 October 2020](#date-28-october-2020)
 * [22 October 2020](#date-22-october-2020)
 * [07 October 2020](#date-07-october-2020)
 * [30 September 2020](#date-30-september-2020)
@@ -22,6 +23,43 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 28 October 2020
+
+#### Who did you help this week?
+
+* Helped JS with HackMD
+* Helped KW with quaerterly updates 
+
+#### Who helped you this week?
+
+* JK helped me with website design 
+* HD helped me with strategy
+
+#### What did you achieve?
+
+* Issues list - breakdown and structure
+* Quarterly updates 
+* More design research and sourcing 
+* OLS work
+* Potential routes to gaining support 
+
+#### What did you struggle with?
+
+* Tools & design work 
+
+#### Where do you need help from Kirstie?
+
+* PP
+* Meeting planning
+* Tools
+
+#### What would you like to work on next week?
+
+* Funding proposal
+* October newsletter
+* Finishing issues list
+* OLS
 
 ### Date: 22 October 2020
 
