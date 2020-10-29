@@ -29,12 +29,15 @@ Georgia's weekly meeting notes.
 #### Who did you help this week?
 
 * Helped JS with HackMD
-* Helped KW with quaerterly updates 
+* Helped KW with quarterly updates 
+  * KW: THANK YOU!
 
 #### Who helped you this week?
 
 * JK helped me with website design 
+  * KW: Fantastic!
 * HD helped me with strategy
+  * KW: So cool!
 
 #### What did you achieve?
 
@@ -44,9 +47,12 @@ Georgia's weekly meeting notes.
 * OLS work
 * Potential routes to gaining support 
 
+ALL EXCELLENT THANK YOU!
+
 #### What did you struggle with?
 
 * Tools & design work 
+  * KW: Discussed in the meeting
 
 #### Where do you need help from Kirstie?
 
@@ -54,12 +60,16 @@ Georgia's weekly meeting notes.
 * Meeting planning
 * Tools
 
+KW: You're thinking really beautifully about all these points. Great chat about inclusion vs openness for delivering the project.
+
 #### What would you like to work on next week?
 
 * Funding proposal
 * October newsletter
 * Finishing issues list
 * OLS
+
+KW: Excellent work as always - thank you :pray:
 
 ### Date: 22 October 2020
 
