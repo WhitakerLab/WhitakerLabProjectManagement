@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [27 October 2020](#date-27-october-2020)
 * [06 October 2020](#date-06-october-2020)
 * [29 September 2020](#date-29-september-2020)
 * [22 September 2020](#date-22-september-2020)
@@ -11,6 +12,46 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 27 October 2020
+
+#### Who did you help this week?
+
+* DSG folk with an initial check of upcoming projects
+* MB with a new PIS template
+  * KW: Cool!
+
+#### Who helped you this week?
+
+* SB with helping me get on Twitch!
+  * KW: I love it!
+
+#### What did you achieve?
+
+* Completed presentations for PMU (with special focus on admin) and DSG PIs (almost -- awaiting confirmation if we want it to be so case studies-based)
+  * KW: So exciting! Well done!
+
+#### What did you struggle with?
+
+* I think this week has been so different that I didn't have a clear task I struggled with -- things were just getting done!
+  * KW: :raised_hands::raised_hands::raised_hands:
+
+#### What would you like to work on next week?
+
+* Film both presentations and write document on "Do you need to undertake the Ethics Appraisal Process?"
+  * KW: Super exciting
+  
+#### Where do you need help from Kirstie?
+
+* Hopefully we get to speak about the ethics form on Flexi-Grant!
+
+#### Any other topics
+
+* Reading for the dissertation is fun. I am just afraid about when it comes to actually writing, haha
+
+KW: Fun week!! Thanks Ismael!
 
 ---
 
