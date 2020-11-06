@@ -39,6 +39,12 @@
 * Attend meeting on solution for storing imaging data
   * [UCL Medical Imaging Research Software Group](https://www.ucl.ac.uk/research-it-services/services/software-development/medical-imaging-research-software-group)
   * [XNAT service](https://www.ucl.ac.uk/isd/services/research-it/ucl-xnat-service)
+  * KW: Some useful links re: BIDS & XNAT
+    * https://neurostars.org/t/bids-xnat-and-data-quality-markers/3581/2
+    * https://github.com/Nialljb/xnat2bids
+    * https://github.com/repronim/reproin
+    * https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-data.html
+    * https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-personal-stories.html
 * Work on Histo script
 * Work on sensitive data chapter in _the Turing Way_
 * Do a few more `good first issues`'s in _the Turing Way_
@@ -47,6 +53,12 @@
 #### Where do you need help from Kirstie?
 
 * Intro on Turing #health channel on Slack - shall I go ahead and do this myself?
+  * KW: I'll do it!! SO SORRY I forgot!
+
+KW: If you fancy helping me out with visualisation tutorials!!!
+* https://github.com/KirstieJane/NH19-Visualization
+* Brain viz: https://github.com/WhitakerLab/scona/pull/140
+* scona tutorials: https://github.com/WhitakerLab/scona
 
 #### Any other topics
 
