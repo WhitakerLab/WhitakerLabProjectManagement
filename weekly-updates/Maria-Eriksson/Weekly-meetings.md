@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [6 November 2020](#date-6-november-2020)
 * [26 October 2020](#date-26-october-2020)
 * [19 October 2020](#date-19-october-2020)
 * [12 October 2020](#date-12-october-2020)
@@ -10,6 +11,60 @@
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
 
+### Date: 6 November 2020
+
+#### Who did you help this week?
+
+* Helped MSc student with PhD application
+* Helped fellow PhD student with research log
+* Helped IG brainstorm thesis question
+  
+#### Who helped you this week?
+
+* SAW helped me understanding genetics reports
+* IT helped me set up a remote working solution
+
+#### What did you achieve?
+
+* Finished coding extracted genetics reports (outstanding questions - will ask MS and YY)
+* Finished extracting age of epilepsy onset for entire cohort
+* Discussed personal/sensitive data chapter w EP and LC during Turing collab café; added input/suggestions to chapter
+
+#### What did you struggle with?
+
+* Pandemic stuffs and concentrating with so much [news](https://twitter.com/dorrismccomics/status/797088518354898944?s=21&fbclid=IwAR1czrjRdZBfQIbckIJ4us3eqbO9fBcEoCqt78H7qUNccbRBVpTALQyYH7o)
+
+#### What would you like to work on next week?
+
+* Attend meeting on solution for storing imaging data
+  * [UCL Medical Imaging Research Software Group](https://www.ucl.ac.uk/research-it-services/services/software-development/medical-imaging-research-software-group)
+  * [XNAT service](https://www.ucl.ac.uk/isd/services/research-it/ucl-xnat-service)
+  * KW: Some useful links re: BIDS & XNAT
+    * https://neurostars.org/t/bids-xnat-and-data-quality-markers/3581/2
+    * https://github.com/Nialljb/xnat2bids
+    * https://github.com/repronim/reproin
+    * https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-data.html
+    * https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-personal-stories.html
+* Work on Histo script
+* Work on sensitive data chapter in _the Turing Way_
+* Do a few more `good first issues`'s in _the Turing Way_
+* Potentially chat with EdP
+
+#### Where do you need help from Kirstie?
+
+* Intro on Turing #health channel on Slack - shall I go ahead and do this myself?
+  * KW: I'll do it!! SO SORRY I forgot!
+
+KW: If you fancy helping me out with visualisation tutorials!!!
+* https://github.com/KirstieJane/NH19-Visualization
+* Brain viz: https://github.com/WhitakerLab/scona/pull/140
+* scona tutorials: https://github.com/WhitakerLab/scona
+
+#### Any other topics
+
+* Tutorial on Anaconda & Reproducibility in UCL Data Safe Haven: [link 1](https://web.microsoftstream.com/video/e713337a-8e02-4584-8535-1b85f1efcaf2) and [link 2](https://web.microsoftstream.com/video/e713337a-8e02-4584-8535-1b85f1efcaf2?channelId=be035798-89cf-43dc-8de4-9b2f6866545f) - Can KW view either?
+* Potentially relevant UCL Data Safe Haven [event](https://www.eventbrite.co.uk/e/data-safe-haven-technical-refresh-launch-event-tickets-125022913901)
+* Happy to keep sending out lab meeting HackMD :thumbsup:
 
 ### Date: 26 October 2020
 
