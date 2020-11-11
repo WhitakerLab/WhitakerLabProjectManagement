@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [11 November 2020](#date-11-november-2020)
 * [22 October 2020](#date-22-october-2020)
 * [07 October 2020](#date-07-october-2020)
 * [30 September 2020](#date-30-september-2020)
@@ -22,6 +23,44 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 11 November 2020
+
+#### Who did you help this week?
+
+* Helped JK navigate project repos and resources
+
+#### Who helped you this week?
+
+* TH helped me with web expertise - will put me in touch with Django experts
+* OS agreed to join me for presentation 
+* KW helped me with newsletter 
+* DL helped me with one-pager of support 
+
+#### What did you achieve?
+
+* Onboarded JK and set up weekly co-working/catch ups 
+* Finished short funding proposal with Shakeel 
+* Sent out November newsletter
+* Created some html to test components
+* Started work on moderation agenda/CoC
+
+#### What did you struggle with?
+
+* Code locations
+
+#### Where do you need help from Kirstie?
+
+* Connceting up with people
+* Run through of some presentations
+* PP
+
+#### What would you like to work on next week?
+
+* Autistica presentation
+* Co-design/issuee creation 
+* DM/Turing collaboration groups
+* Working with illustrator :-D exciting!
 
 ### Date: 22 October 2020
 
