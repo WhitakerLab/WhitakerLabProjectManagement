@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-* [10 November 2020](#date-10-november-2020)
+* [17 November 2020](#date-17-november-2020)
 * [27 October 2020](#date-27-october-2020)
 * [06 October 2020](#date-06-october-2020)
 * [29 September 2020](#date-29-september-2020)
@@ -16,28 +16,28 @@
 
 ---
 
-### Date: 10 November 2020
+### Date: 17 November 2020
 
 #### Who did you help this week?
 
-* Maybe YY and MS -- I had to play as back-up call host during an OLS calls, but only backup, so I didn't do anything after all!
+* People during the book dash by offering reviews!
 
 #### Who helped you this week?
 
-* Uni professors!
+* People during the bookdash, but mostly MS!
 
 #### What did you achieve?
 
-* Helped with the EAG meeting and felt a sense of togetherness for a short moment =)
+* I think I got the [intro](https://github.com/alan-turing-institute/the-turing-way/pull/1228) to the Ethical Guide for Research to a point where it might actually get merged!
 
 #### What did you struggle with?
 
-* LSE upping my fees!
+* GitHub... But it's because I don't use it normally, so new questions always crop up when picking it up again.
 
 #### What would you like to work on next week?
 
-* Finalise workshop for DSG PIs (w/c 16 Nov)
-* Ethics form -- check with VF about her pre-ethics form (it clarifies who needs to apply and speaks of DPAP and due diligence)
+* Maybe avoid GitHub? Haha
+* There are a few applications on standby that I need to push to actually get through. There will be some admin, but happy to take any steer from you.
   
 #### Where do you need help from Kirstie?
 
@@ -45,7 +45,7 @@
 
 #### Any other topics
 
-* I don't think so!
+* I don't think so! I need to clarify on the ethics form what NHS and Ministry-of-Defence ethics reviews in-lieu-of-ours means
 
 ---
 
