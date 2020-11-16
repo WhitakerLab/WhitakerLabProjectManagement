@@ -24,7 +24,7 @@
 
 #### Who helped you this week?
 
-* People during the bookdash, but mostly MS!
+* People during the bookdash, mostly MS!
 
 #### What did you achieve?
 
@@ -36,8 +36,7 @@
 
 #### What would you like to work on next week?
 
-* Maybe avoid GitHub? Haha
-* There are a few applications on standby that I need to push to actually get through. There will be some admin, but happy to take any steer from you.
+* Finalise and record ethics workshop video for the PMU
   
 #### Where do you need help from Kirstie?
 
