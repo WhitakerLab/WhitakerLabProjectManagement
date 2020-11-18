@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-* [17 November 2020](#date-17-november-2020)
+* [18 November 2020](#date-18-november-2020)
 * [27 October 2020](#date-27-october-2020)
 * [06 October 2020](#date-06-october-2020)
 * [29 September 2020](#date-29-september-2020)
@@ -16,7 +16,7 @@
 
 ---
 
-### Date: 17 November 2020
+### Date: 18 November 2020
 
 #### Who did you help this week?
 
