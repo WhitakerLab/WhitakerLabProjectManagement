@@ -2,7 +2,7 @@
 
 Georgia's weekly meeting notes.
 
-* [11 November 2020](#date-11-november-2020)
+* [18 November 2020](#date-18-november-2020)
 * [22 October 2020](#date-22-october-2020)
 * [07 October 2020](#date-07-october-2020)
 * [30 September 2020](#date-30-september-2020)
@@ -24,18 +24,21 @@ Georgia's weekly meeting notes.
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
 
-### Date: 11 November 2020
+### Date: 18 November 2020
 
 #### Who did you help this week?
 
 * Helped JK navigate project repos and resources
+  * KW: Fantastic!
 
 #### Who helped you this week?
 
 * TH helped me with web expertise - will put me in touch with Django experts
-* OS agreed to join me for presentation 
+* OS joined me for presentation 
+  * KW: It was great!
 * KW helped me with newsletter 
 * DL helped me with one-pager of support 
+* BD invited participants to workshop
 
 #### What did you achieve?
 
@@ -44,6 +47,9 @@ Georgia's weekly meeting notes.
 * Sent out November newsletter
 * Created some html to test components
 * Started work on moderation agenda/CoC
+  * KW: Great - really important work
+* Planned workshop on 30 November
+  * KW: Excited
 
 #### What did you struggle with?
 
@@ -51,16 +57,19 @@ Georgia's weekly meeting notes.
 
 #### Where do you need help from Kirstie?
 
-* Connceting up with people
+* Connecting up with people
 * Run through of some presentations
 * PP
 
 #### What would you like to work on next week?
 
 * Autistica presentation
-* Co-design/issuee creation 
+* Co-design/issue creation
 * DM/Turing collaboration groups
+  * KW: This is super fun!
 * Working with illustrator :-D exciting!
+
+KW: Really fantastic work Georgia - thank you so much!
 
 ### Date: 22 October 2020
 
