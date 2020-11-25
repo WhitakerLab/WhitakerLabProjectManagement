@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [25 November 2020](#date-25-november-2020)
 * [18 November 2020](#date-18-november-2020)
 * [22 October 2020](#date-22-october-2020)
 * [07 October 2020](#date-07-october-2020)
@@ -24,6 +25,42 @@ Georgia's weekly meeting notes.
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
 
+### Date: 25 November 2020
+
+#### Who did you help this week?
+
+* Shared some participatory design learning with DM/ATI working groups
+* Helpd AC with ways of being involved in project
+
+#### Who helped you this week?
+
+* OS delivered an awesome presentation for autistica webinar
+* JS agreed to be a co-author for Turing Way chapter
+* YY and KW made recommendations for catchiing up on the coronavirus conference
+
+#### What did you achieve?
+
+* Delivered webinar for Autistica
+* Joined deep mind working groups 
+* Finished draft code of conduct and moderation process for November meeting
+* Agile presentation with SB for lab meeting 
+
+#### What did you struggle with?
+
+* Elements of onboarding
+
+#### Where do you need help from Kirstie?
+
+* JK 
+* Review of code of conduct
+
+#### What would you like to work on next week?
+
+* Preperation for moderation workshop
+* Sending out November newsletter
+* OLS-2: presentation
+* Turing way chapter
+
 ### Date: 18 November 2020
 
 #### Who did you help this week?
@@ -44,7 +81,7 @@ Georgia's weekly meeting notes.
 
 * Onboarded JK and set up weekly co-working/catch ups 
 * Finished short funding proposal with Shakeel 
-* Sent out November newsletter
+* Sent out October newsletter
 * Created some html to test components
 * Started work on moderation agenda/CoC
   * KW: Great - really important work
