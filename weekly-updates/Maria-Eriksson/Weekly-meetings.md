@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [30 November 2020](#date-30-november-2020)
 * [6 November 2020](#date-6-november-2020)
 * [26 October 2020](#date-26-october-2020)
 * [19 October 2020](#date-19-october-2020)
@@ -10,6 +11,53 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+
+### Date: 30 November 2020
+
+#### Who did you help this week?
+
+* Helped fellow PhD student with poster
+* Advised new PhD student
+* Family stuff
+  
+#### Who helped you this week?
+
+* KW gave intro to health channel
+* SAW and KAW gave feedback on new logistic regression 
+
+#### What did you achieve?
+
+* Attended NHS R conference
+* Organised meeting with UCL Medical Imaging Research Software Group & ICH Imaging department; 2nd XNAT meeting with GOSH PACS and DRIVE - draft proposal outlined (things seem to be moving forward - knock on wood!)
+* Submitted upgrade report
+* Prepared upgrade presentation
+* Attended Intellectual disability in Epilepsy conference
+* Attended UCL GOS ICH symposium - 1st prize in poster competition
+* Took part in journal club
+* Submitted paper to journal
+* Had meeting w Isla
+
+#### What did you struggle with?
+
+* Bit of an odd few weeks - constant nagging feeling that I wasn’t being productive enough ugh
+* Placeholder for ‘in person’ chat
+* Got rejected from journal
+
+#### What would you like to work on next week?
+
+* Finish Turing blog post
+* Finish editing Histo script
+* Complete upgrade presentation
+
+#### Where do you need help from Kirstie?
+
+* Editing/Giving feedback on something someone else has written in _the Turing Way_
+* Explain scona goal
+
+#### Any other topics
+
+* Best way to add to addresses Excel 
 
 ### Date: 6 November 2020
 
