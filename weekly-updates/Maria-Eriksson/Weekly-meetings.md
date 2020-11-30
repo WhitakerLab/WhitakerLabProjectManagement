@@ -24,24 +24,30 @@
 #### Who helped you this week?
 
 * KW gave intro to health channel
-* SAW and KAW gave feedback on new logistic regression 
+  * KW: Finally... Fingers crossed we can get a few folks chatting :sparkles:
+* SAW and KAW gave feedback on new logistic regression
 
 #### What did you achieve?
 
 * Attended NHS R conference
+  * KW: So cool!
 * Organised meeting with UCL Medical Imaging Research Software Group & ICH Imaging department; 2nd XNAT meeting with GOSH PACS and DRIVE - draft proposal outlined (things seem to be moving forward - knock on wood!)
+  * KW: Yeaaah! 
 * Submitted upgrade report
 * Prepared upgrade presentation
+  * KW: GOOD LUCK!! You'll do great!!
 * Attended Intellectual disability in Epilepsy conference
 * Attended UCL GOS ICH symposium - 1st prize in poster competition
+  * KW: WOAAAAAAAH! AMAZING!!
 * Took part in journal club
 * Submitted paper to journal
+  * KW: Wooooooo :clinking_glasses:
 * Had meeting w Isla
 
 #### What did you struggle with?
 
-* Bit of an odd few weeks - constant nagging feeling that I wasn’t being productive enough ugh
-* Placeholder for ‘in person’ chat
+* Bit of an odd few weeks - constant nagging feeling that I wasn't being productive enough ugh
+* Placeholder for 'in person' chat
 * Got rejected from journal
 
 #### What would you like to work on next week?
@@ -57,7 +63,9 @@
 
 #### Any other topics
 
-* Best way to add to addresses Excel 
+* Best way to add to addresses Excel
+
+KW: SUCH A LOVELY chat - thank you for all the great work Maria! Keep slogging through the end of 2020..... January is going to be ..... better?
 
 ### Date: 6 November 2020
 
