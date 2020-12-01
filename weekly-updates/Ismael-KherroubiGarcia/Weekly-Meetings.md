@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [01 December 2020](#date-01-december-2020)
 * [18 November 2020](#date-18-november-2020)
 * [27 October 2020](#date-27-october-2020)
 * [06 October 2020](#date-06-october-2020)
@@ -13,6 +14,39 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 01 December 2020
+
+#### Who did you help this week?
+
+* Good question! I was off, that's my excuse, haha.
+
+#### Who helped you this week?
+
+* A very kind teacher!
+* And KW for sending the email with orphan ethics applications!
+
+#### What did you achieve?
+
+* I've been off, so just uni stuff! I have a first proper draft for an essay, haha.
+
+#### What did you struggle with?
+
+* Nothing work-related!
+
+#### What would you like to work on next week?
+
+* I have training with DSG PIs. I need to revisit the training video (which is done) and figure out what to "workshop" together.
+  
+#### Where do you need help from Kirstie?
+
+* Maaaaaaaaaaaaaaybe a nudge to the JBC ethics application...
+
+#### Any other topics
+
+* I don't think so!
 
 ---
 
