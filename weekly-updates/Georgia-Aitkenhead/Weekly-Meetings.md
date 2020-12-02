@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [02 December 2020](#date-02-december-2020)
 * [25 November 2020](#date-25-november-2020)
 * [18 November 2020](#date-18-november-2020)
 * [22 October 2020](#date-22-october-2020)
@@ -24,6 +25,42 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+
+### Date: 02 December 2020
+
+#### Who did you help this week?
+
+* Helped AC think of ways to be involved/onboarding 
+
+
+#### Who helped you this week?
+
+* JK helped me with some coding skills 
+* KW helped me with a moderation workshop 
+* TA and JS helped me with code of conduct 
+
+#### What did you achieve?
+
+* Designed and ram a moderation/co-creation workshop 
+* Co-working with autistic collaborators
+* Upskilling from JK 
+
+#### What did you struggle with?
+
+* Getting things done on time! (code of conduct, sending out forms, Novemeber newsletter :-(
+
+#### Where do you need help from Kirstie?
+
+* Accessibility and design 
+
+#### What would you like to work on next week?
+
+* November newsletter ! 
+* OLS work 
+* Onboarding new collaborators
+* Platform with JK 
+
 
 ### Date: 25 November 2020
 
