@@ -2,6 +2,8 @@
 
 Georgia's weekly meeting notes.
 
+* [25 November 2020](#date-25-november-2020)
+* [18 November 2020](#date-18-november-2020)
 * [22 October 2020](#date-22-october-2020)
 * [07 October 2020](#date-07-october-2020)
 * [30 September 2020](#date-30-september-2020)
@@ -22,6 +24,89 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 25 November 2020
+
+#### Who did you help this week?
+
+* Shared some participatory design learning with DM/ATI working groups
+* Helpd AC with ways of being involved in project
+
+#### Who helped you this week?
+
+* OS delivered an awesome presentation for autistica webinar
+* JS agreed to be a co-author for Turing Way chapter
+* YY and KW made recommendations for catchiing up on the coronavirus conference
+
+#### What did you achieve?
+
+* Delivered webinar for Autistica
+* Joined deep mind working groups 
+* Finished draft code of conduct and moderation process for November meeting
+* Agile presentation with SB for lab meeting 
+
+#### What did you struggle with?
+
+* Elements of onboarding
+
+#### Where do you need help from Kirstie?
+
+* JK 
+* Review of code of conduct
+
+#### What would you like to work on next week?
+
+* Preperation for moderation workshop
+* Sending out November newsletter
+* OLS-2: presentation
+* Turing way chapter
+
+### Date: 18 November 2020
+
+#### Who did you help this week?
+
+* Helped JK navigate project repos and resources
+  * KW: Fantastic!
+
+#### Who helped you this week?
+
+* TH helped me with web expertise - will put me in touch with Django experts
+* OS joined me for presentation 
+  * KW: It was great!
+* KW helped me with newsletter 
+* DL helped me with one-pager of support 
+* BD invited participants to workshop
+
+#### What did you achieve?
+
+* Onboarded JK and set up weekly co-working/catch ups 
+* Finished short funding proposal with Shakeel 
+* Sent out October newsletter
+* Created some html to test components
+* Started work on moderation agenda/CoC
+  * KW: Great - really important work
+* Planned workshop on 30 November
+  * KW: Excited
+
+#### What did you struggle with?
+
+* Code locations
+
+#### Where do you need help from Kirstie?
+
+* Connecting up with people
+* Run through of some presentations
+* PP
+
+#### What would you like to work on next week?
+
+* Autistica presentation
+* Co-design/issue creation
+* DM/Turing collaboration groups
+  * KW: This is super fun!
+* Working with illustrator :-D exciting!
+
+KW: Really fantastic work Georgia - thank you so much!
 
 ### Date: 22 October 2020
 
