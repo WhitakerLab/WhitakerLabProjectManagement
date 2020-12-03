@@ -1,5 +1,7 @@
 # Weekly Meetings
 
+* [01 December 2020](#date-01-december-2020)
+* [18 November 2020](#date-18-november-2020)
 * [27 October 2020](#date-27-october-2020)
 * [06 October 2020](#date-06-october-2020)
 * [29 September 2020](#date-29-september-2020)
@@ -12,6 +14,71 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 01 December 2020
+
+#### Who did you help this week?
+
+* Good question! I was off, that's my excuse, haha.
+
+#### Who helped you this week?
+
+* A very kind teacher!
+* And KW for sending the email with orphan ethics applications!
+
+#### What did you achieve?
+
+* I've been off, so just uni stuff! I have a first proper draft for an essay, haha.
+
+#### What did you struggle with?
+
+* Nothing work-related!
+
+#### What would you like to work on next week?
+
+* I have training with DSG PIs. I need to revisit the training video (which is done) and figure out what to "workshop" together.
+  
+#### Where do you need help from Kirstie?
+
+* Maaaaaaaaaaaaaaybe a nudge to the JBC ethics application...
+
+#### Any other topics
+
+* I don't think so!
+
+---
+
+### Date: 18 November 2020
+
+#### Who did you help this week?
+
+* People during the book dash by offering reviews!
+
+#### Who helped you this week?
+
+* People during the bookdash, mostly MS!
+
+#### What did you achieve?
+
+* I think I got the [intro](https://github.com/alan-turing-institute/the-turing-way/pull/1228) to the Ethical Guide for Research to a point where it might actually get merged!
+
+#### What did you struggle with?
+
+* GitHub... But it's because I don't use it normally, so new questions always crop up when picking it up again.
+
+#### What would you like to work on next week?
+
+* Finalise and record ethics workshop video for the PMU
+  
+#### Where do you need help from Kirstie?
+
+* Can we pick up the ethics-at-the-Turing paper again?
+
+#### Any other topics
+
+* I don't think so! I need to clarify on the ethics form what NHS and Ministry-of-Defence ethics reviews in-lieu-of-ours means
 
 ---
 
