@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [09 December 2020](#date-09-december-2020)
 * [25 November 2020](#date-25-november-2020)
 * [18 November 2020](#date-18-november-2020)
 * [22 October 2020](#date-22-october-2020)
@@ -24,6 +25,53 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 09 December 2020
+
+#### Who did you help this week?
+
+* Helped SF think through routes to involvement 
+  * KW: EXCELLENT - really really fantastic!
+* Shared research ideas and papers with MA
+
+#### Who helped you this week?
+
+* MA helped me think through involvement techniques
+  * KW: Super cool!
+* JS sent me interview notes for newsletter
+  * KW: Lets just do a December newsletter :smiley:
+* JS delivered amazing neurodiversity talk which was inspiring
+  * KW: Really important that we capture this - helping our community members have more confidence is incredible :sparkling_heart:
+* KW helped run moderation session and finish off presentation on Sunday!
+  * KW: It was FUN!
+
+#### What did you achieve?
+
+* Moderation co-working sessions and presentation
+* New volunteers - introductions
+* Created presentation for OLS
+  * KW: YAY!!
+* Added "lived experience" as category for HREF
+  * KW: AWESOME! Really good for our impact reporting!
+
+#### What did you struggle with?
+
+* Getting forms and docs for session out in time
+
+#### Where do you need help from Kirstie?
+
+* SF recommendations
+
+#### What would you like to work on next week?
+
+* Finishing Turing way chapter with JS 
+* OLS-2 - finishing up
+* Nesta planning
+* Fujitsu handover & supporting JK
+* KW: Check in with SL on the partnership plan - add testimonials
+* KW: Newsletter
+
+KW: So a nice tidy up week, and then transcripting fun :headphones:
 
 ### Date: 25 November 2020
 
