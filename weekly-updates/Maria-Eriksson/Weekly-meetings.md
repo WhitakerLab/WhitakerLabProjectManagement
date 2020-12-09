@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [9 December 2020](#date-9-december-2020)
 * [30 November 2020](#date-30-november-2020)
 * [6 November 2020](#date-6-november-2020)
 * [26 October 2020](#date-26-october-2020)
@@ -12,6 +13,44 @@
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
 
+### Date: 9 December 2020
+
+#### Who did you help this week?
+
+* BSc student with thesis
+* PhD student with paper
+  
+#### Who helped you this week?
+
+* AE helped me with k-folds cross validation
+
+#### What did you achieve?
+
+* Gave upgrade presentation and passed viva
+* Organised first co-working session for health data scientists
+* Met with Arielle
+* Attended epilepsy symposium
+* Manually extracted additional predictors for validation of automated data extraction for a subset of patients
+* Completed k-folds cross validation Python script
+
+#### What did you struggle with?
+
+* Confidence re (lack of) publications
+* Communication re acknowledgement for data sharing
+
+#### What would you like to work on next week?
+
+* Finish Turing blog post
+* Continue manually extract additional predictors for validation of automated data extraction
+* Follow up on personal data chapter in _the Turing Way_ with EP
+* Prepare presentation for journal club
+
+#### Where do you need help from Kirstie?
+
+
+#### Any other topics
+
+* Would love to hear more about the multimorbidity consortium
 
 ### Date: 30 November 2020
 
