@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [09 Deecembere 2020](#date-09-december-2020)
 * [25 November 2020](#date-25-november-2020)
 * [18 November 2020](#date-18-november-2020)
 * [22 October 2020](#date-22-october-2020)
@@ -24,6 +25,42 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 09 December 2020
+
+#### Who did you help this week?
+
+* Helped SF think through routees to involvement 
+* Shared research ideas and papers with MA
+
+#### Who helped you this week?
+
+* MA helped me think through involvement teechniques
+* JS sent me intervieew notes for newsletter
+* JS delivered amaziing neurodiversity talk which was inspiring
+* KW helped run moderation session and finish off presentation on Sunday!
+
+#### What did you achieve?
+
+* Moderation co-working sessions and presentation
+* New volunteers - introductions
+* Created presentation for OLS
+* Added "lived experieence" as category for HREF
+
+#### What did you struggle with?
+
+* Getting forms and docs for seession out in time
+
+#### Where do you need help from Kirstie?
+
+* SF recommendations
+
+#### What would you like to work on next week?
+
+* Finishing Turing way chapter with JS 
+* OLS-2 - finishing up
+* Nesta planning
+* Fujitsu handover & supporting JK 
 
 ### Date: 25 November 2020
 
