@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [15 December 2020](#date-15-december-2020)
 * [01 December 2020](#date-01-december-2020)
 * [18 November 2020](#date-18-november-2020)
 * [27 October 2020](#date-27-october-2020)
@@ -14,6 +15,38 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 15 December 2020
+
+#### Who did you help this week?
+
+* Spoke with SB.
+
+#### Who helped you this week?
+
+* VF on the form.
+
+#### What did you achieve?
+
+* Presenting to PMU!
+
+#### What did you struggle with?
+
+* Some applications...
+
+#### What would you like to work on next week?
+
+* I have training with DSG PIs on 16th December. I just need to put a hackmd together.
+  
+#### Where do you need help from Kirstie?
+
+* I'll polish the SWOT report, but please do take a look!
+
+#### Any other topics
+
+* I don't think so! My dissertation lives [here](https://hackmd.io/IqPngF_XS1uDwDg50sE9Zw) if you're interested -- I think some of the listed "resources" might be interesting!
 
 ---
 
