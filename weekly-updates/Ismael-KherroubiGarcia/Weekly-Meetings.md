@@ -22,24 +22,35 @@
 
 #### Who did you help this week?
 
-* Spoke with SB.
+* Spoke with SB
+  * KW: I'm so glad you're able to support members of the lab - thank you :pray:
 
 #### Who helped you this week?
 
-* VF on the form.
+* VF on the form
+  * KW: Big!
+  * KW: I'm so proud of the work that you've led on this year with building connections across the Turing.
+    * So exciting to think about participatory co-creation for these processes in 2021!! :rocket::star2:
 
 #### What did you achieve?
 
 * Presenting to PMU!
+  * KW: Where are we putting the recording for future folks?
+  * KW: Love your point about the value of chatting with folks who see the process from a different angle - totally agree!
+  * KW: Worth making a note in our goals for the EAG about the interoperability of content across the ethics ecosystem.
+    * Can we re-use materials from the original grant application, from job descriptions etc etc.
 
 #### What did you struggle with?
 
 * Some applications...
+  * KW: You've done a really fantastic job with these applications.
+  * We have a couple of lessons to learn, but there are always going to be ones that don't fit easy templates!
 
 #### What would you like to work on next week?
 
 * I have training with DSG PIs on 16th December. I just need to put a hackmd together.
-  
+  * KW: Absolutely fantastic! Well done! :star2:
+
 #### Where do you need help from Kirstie?
 
 * I'll polish the SWOT report, but please do take a look!
@@ -47,6 +58,7 @@
 #### Any other topics
 
 * I don't think so! My dissertation lives [here](https://hackmd.io/IqPngF_XS1uDwDg50sE9Zw) if you're interested -- I think some of the listed "resources" might be interesting!
+  * KW: SO FUN! Definitely present at lab meeting and chat with the Living With Machines team!
 
 ---
 
