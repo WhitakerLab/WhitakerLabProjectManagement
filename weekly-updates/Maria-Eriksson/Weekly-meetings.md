@@ -23,20 +23,30 @@
 #### Who helped you this week?
 
 * AE helped me with k-folds cross validation
+  * KW: Fab! Go go data buds!
 
 #### What did you achieve?
 
 * Gave upgrade presentation and passed viva
+  * KW: Congratulations!! :tada: :confetti:
 * Organised first co-working session for health data scientists
+  * KW: Lovely!
 * Met with Arielle
+  * KW: Fab! Really great to have you connect :smiley_cat:
 * Attended epilepsy symposium
 * Manually extracted additional predictors for validation of automated data extraction for a subset of patients
+  * KW: Slow but SUPER valuable - and way way quicker for future you!
 * Completed k-folds cross validation Python script
+  * KW: Link to GitHub :wink:
+* scona :cookie: fun times
+  * KW: 
 
 #### What did you struggle with?
 
 * Confidence re (lack of) publications
+  * KW: Really lovely conversation in person
 * Communication re acknowledgement for data sharing
+  * KW: Shall we work on this in the new year? You can have a standard script?
 
 #### What would you like to work on next week?
 
