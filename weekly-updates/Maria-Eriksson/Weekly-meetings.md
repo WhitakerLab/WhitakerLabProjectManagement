@@ -1,5 +1,8 @@
 # Weekly Meetings
 
+* [7 January 2021](#date-7-january-2021)
+* [9 December 2020](#date-9-december-2020)
+* [30 November 2020](#date-30-november-2020)
 * [6 November 2020](#date-6-november-2020)
 * [26 October 2020](#date-26-october-2020)
 * [19 October 2020](#date-19-october-2020)
@@ -10,6 +13,146 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 7 January 2021
+
+#### Who did you help this week?
+
+* BSc student
+* Partner
+  
+#### Who helped you this week?
+
+* Data buds chats and co-working
+
+#### What did you achieve?
+
+* Retrieved outcome for 2015 surgery patients
+
+#### What did you struggle with?
+
+* Being productive considering family & news updates
+* Being roped into other projects
+
+#### What would you like to work on next week?
+
+* Continue manually extracting outcome for 2014 patients
+* Add new outcome data to predictive model - does it improve
+* Follow up on personal data chapter in _the Turing Way_ with EP
+* Prepare presentation for Young Epilepsy
+* In touch with Isla re scona
+
+#### Where do you need help from Kirstie?
+
+* Ideas re how boost project overlap - co-working sessions so that discussions during the break uncover overlap?
+
+#### Any other topics
+
+* Multimorbidity consortium
+* Potential new collaboration re GRIN2A 
+
+### Date: 9 December 2020
+
+#### Who did you help this week?
+
+* BSc student with thesis
+* PhD student with paper
+  
+#### Who helped you this week?
+
+* AE helped me with k-folds cross validation
+  * KW: Fab! Go go data buds!
+
+#### What did you achieve?
+
+* Gave upgrade presentation and passed viva
+  * KW: Congratulations!! :tada: :confetti:
+* Organised first co-working session for health data scientists
+  * KW: Lovely!
+* Met with Arielle
+  * KW: Fab! Really great to have you connect :smiley_cat:
+* Attended epilepsy symposium
+* Manually extracted additional predictors for validation of automated data extraction for a subset of patients
+  * KW: Slow but SUPER valuable - and way way quicker for future you!
+* Completed k-folds cross validation Python script
+  * KW: Link to GitHub :wink:
+* scona :cookie: fun times
+  * KW: 
+
+#### What did you struggle with?
+
+* Confidence re (lack of) publications
+  * KW: Really lovely conversation in person
+* Communication re acknowledgement for data sharing
+  * KW: Shall we work on this in the new year? You can have a standard script?
+
+#### What would you like to work on next week?
+
+* Finish Turing blog post
+* Continue manually extract additional predictors for validation of automated data extraction
+* Follow up on personal data chapter in _the Turing Way_ with EP
+* Prepare presentation for journal club
+
+#### Where do you need help from Kirstie?
+
+
+#### Any other topics
+
+* Would love to hear more about the multimorbidity consortium
+
+### Date: 30 November 2020
+
+#### Who did you help this week?
+
+* Helped fellow PhD student with poster
+* Advised new PhD student
+* Family stuff
+  
+#### Who helped you this week?
+
+* KW gave intro to health channel
+  * KW: Finally... Fingers crossed we can get a few folks chatting :sparkles:
+* SAW and KAW gave feedback on new logistic regression
+
+#### What did you achieve?
+
+* Attended NHS R conference
+  * KW: So cool!
+* Organised meeting with UCL Medical Imaging Research Software Group & ICH Imaging department; 2nd XNAT meeting with GOSH PACS and DRIVE - draft proposal outlined (things seem to be moving forward - knock on wood!)
+  * KW: Yeaaah! 
+* Submitted upgrade report
+* Prepared upgrade presentation
+  * KW: GOOD LUCK!! You'll do great!!
+* Attended Intellectual disability in Epilepsy conference
+* Attended UCL GOS ICH symposium - 1st prize in poster competition
+  * KW: WOAAAAAAAH! AMAZING!!
+* Took part in journal club
+* Submitted paper to journal
+  * KW: Wooooooo :clinking_glasses:
+* Had meeting w Isla
+
+#### What did you struggle with?
+
+* Bit of an odd few weeks - constant nagging feeling that I wasn't being productive enough ugh
+* Placeholder for 'in person' chat
+* Got rejected from journal
+
+#### What would you like to work on next week?
+
+* Finish Turing blog post
+* Finish editing Histo script
+* Complete upgrade presentation
+
+#### Where do you need help from Kirstie?
+
+* Editing/Giving feedback on something someone else has written in _the Turing Way_
+* Explain scona goal
+
+#### Any other topics
+
+* Best way to add to addresses Excel
+
+KW: SUCH A LOVELY chat - thank you for all the great work Maria! Keep slogging through the end of 2020..... January is going to be ..... better?
 
 ### Date: 6 November 2020
 
