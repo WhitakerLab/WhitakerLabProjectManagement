@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [7 January 2021](#date-7-january-2021)
 * [9 December 2020](#date-9-december-2020)
 * [30 November 2020](#date-30-november-2020)
 * [6 November 2020](#date-6-november-2020)
@@ -12,6 +13,43 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 7 January 2021
+
+#### Who did you help this week?
+
+* BSc student
+* Partner
+  
+#### Who helped you this week?
+
+* Data buds chats and co-working
+
+#### What did you achieve?
+
+* Retrieved outcome for 2015 surgery patients
+
+#### What did you struggle with?
+
+* Being productive considering family & news updates
+* Being roped into other projects
+
+#### What would you like to work on next week?
+
+* Continue manually extracting outcome for 2014 patients
+* Add new outcome data to predictive model - does it improve
+* Follow up on personal data chapter in _the Turing Way_ with EP
+* Prepare presentation for Young Epilepsy
+* In touch with Isla re scona
+
+#### Where do you need help from Kirstie?
+
+* Ideas re how boost project overlap - co-working sessions so that discussions during the break uncover overlap?
+
+#### Any other topics
+
+* Multimorbidity consortium
+* Potential new collaboration re GRIN2A 
 
 ### Date: 9 December 2020
 
