@@ -19,6 +19,7 @@
 #### Who did you help this week?
 
 * BSc student
+  * KW: Fun times... 
 * Partner
   
 #### Who helped you this week?
@@ -28,6 +29,7 @@
 #### What did you achieve?
 
 * Retrieved outcome for 2015 surgery patients
+  * KW: Well done!
 
 #### What did you struggle with?
 
@@ -50,6 +52,8 @@
 
 * Multimorbidity consortium
 * Potential new collaboration re GRIN2A 
+
+Fun times - take care of yourself :sparkling_heart:
 
 ### Date: 9 December 2020
 
