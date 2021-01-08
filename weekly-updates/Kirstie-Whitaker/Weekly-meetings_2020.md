@@ -2,6 +2,8 @@
 
 Notes from Kirstie's personal version of the "weekly meetings" file she asks all lab members to complete.
 
+(Wow, this didn't get updated much .... at all .... in 2020. What a year.)
+
 * Archives for 2019 can be found in [Weekly-meetings_2019.md](weekly-meetings_2019.md)
 * Archives for 2018 can be found in [Weekly-meetings_2018.md](weekly-meetings_2018.md)
 
