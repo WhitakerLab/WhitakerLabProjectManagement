@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [12 January 2021](#date-12-january-2021)
 * [09 December 2020](#date-09-december-2020)
 * [25 November 2020](#date-25-november-2020)
 * [18 November 2020](#date-18-november-2020)
@@ -25,6 +26,41 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 12 January 2020
+
+#### Who did you help this week?
+
+* Helped JK by creating issues and project board/milestones  
+
+#### Who helped you this week?
+
+* Yo helped me understand the application process for the Wellcome foundation! 
+
+#### What did you achieve?
+
+* Transcripts complete! 44,452 words! 
+* Repo created for new development work with README
+* Researched funding options
+* Wrote abstract for conference paper with Ismael
+
+#### What did you struggle with?
+
+* Finding good times to collaborate with people!
+* Turing Way Chapter 
+
+#### Where do you need help from Kirstie?
+
+* Budgeting for funding applications
+* Issues approaches
+* ʕ•́ᴥ•̀ʔっ can I help *you* with anything? <3
+
+#### What would you like to work on next week?
+
+* Set up fortnightly co-working (meet-up) sessions
+* 2-page funding proposal for Wellcome
+* Continuinig platform development
+* Fill the repo with all the Asana issues
 
 ### Date: 09 December 2020
 
