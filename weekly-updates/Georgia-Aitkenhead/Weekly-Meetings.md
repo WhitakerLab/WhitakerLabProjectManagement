@@ -2,7 +2,7 @@
 
 Georgia's weekly meeting notes.
 
-* [12 January 2021](#date-12-january-2021)
+* [13 January 2021](#date-13-january-2021)
 * [09 December 2020](#date-09-december-2020)
 * [25 November 2020](#date-25-november-2020)
 * [18 November 2020](#date-18-november-2020)
@@ -27,27 +27,32 @@ Georgia's weekly meeting notes.
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
 
-### Date: 12 January 2020
+### Date: 13 January 2020
 
 #### Who did you help this week?
 
-* Helped JK by creating issues and project board/milestones  
+* Helped JK by creating issues and project board/milestones
+  * KW: Really cool!
 
 #### Who helped you this week?
 
-* Yo helped me understand the application process for the Wellcome foundation! 
+* YY helped me understand the application process for the Wellcome foundation!
+  * KW: Fun!
+  * KW: Can you arrange a meeting w me, SL & YY (if she'd like to come?) to take this forwards?
 
 #### What did you achieve?
 
 * Transcripts complete! 44,452 words! 
+  * KW: AMAZING!
 * Repo created for new development work with README
 * Researched funding options
-* Wrote abstract for conference paper with Ismael
+* Wrote abstract for conference paper with IKG
+  * KW: Fab - do talk with SF, & link up with me & IKG on slack
 
 #### What did you struggle with?
 
 * Finding good times to collaborate with people!
-* Turing Way Chapter 
+* Turing Way chapter
 
 #### Where do you need help from Kirstie?
 
@@ -58,9 +63,15 @@ Georgia's weekly meeting notes.
 #### What would you like to work on next week?
 
 * Set up fortnightly co-working (meet-up) sessions
+  * KW: Excited for these!!
 * 2-page funding proposal for Wellcome
-* Continuinig platform development
+  * KW: Ping SL & me :sparkles:
+* Continuing platform development
 * Fill the repo with all the Asana issues
+
+KW: Tough meeting this morning.
+2021 has lots of great opportunities but there are big decisions for this project that are on the horizon.
+I'm really hopeful that we can find an integrated path forwards - there are so many great ideas :sparkling_heart:
 
 ### Date: 09 December 2020
 
