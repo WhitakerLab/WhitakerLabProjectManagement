@@ -70,7 +70,7 @@
 #### What did you struggle with?
 - Pandemic
 - Funding opportunities
-- Lack of time to dod everything I would love to :D
+- Lack of time to do things I would love to :D
 
 #### What would you like to work on next year?
 - Governance design, member recruitment, report, paper, momentum building and delegating more work
