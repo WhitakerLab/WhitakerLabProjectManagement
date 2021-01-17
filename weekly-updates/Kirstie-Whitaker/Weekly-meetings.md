@@ -8,9 +8,100 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2021**
 
+* [15 January 2021](#date-15-january-2021)
 * [8 January 2021](#date-8-january-2021)
 
 ---
+
+## Date: 15 January 2021
+
+### What brought you joy this week?
+
+* SUBMITTED THE GRANT! 🥂
+  YEAAAAAAAH! 🎊🎊🎊
+  * I don't think its perfect but I do think its pretty good.
+  * I particularly want to acknowledge how much effort has gone into equity and inclusion and the representation of ECRs at decision making levels.
+    I am SO HOPEFUL that this works out. 🤞😬🤞
+  * I'm also proud of the email that I sent to say thank you to all the folks who made it happen.
+    I often _mean_ to send those messages but I don't actually get them done.
+* I made some good progress on working with the lab on how we can adapt the interactions to grow with my responsibilities.
+  Some of those conversations weren't the easiest but I'm proud of myself for having them.
+  * Lab meeting was good I think.
+    I loved the answers around the definition of service.
+  * I don't think I got across my needs as well as I had hoped I did.
+    But at least the follow up conversations helped me to see that I hadn't and could clarify.
+* Great long conversation with AM and SB.
+  Linked because I walked the gated road with them both but on different days.
+  Always a delight 🌻
+* The TPS newsletter is SO COOL!
+* HM led a project check in all by himself and I'm super proud & psyched 👾
+* Not really joy but I did say thank you to someone who has been doing really tough work on behalf of the TPS programme.
+  I'm glad I made the effort to say that.
+* Fast streamer accepted!! WOOOOO!! :star2: :star2: :star2:
+* Introducing EK to the project team 😻
+* Being asked to write a letter endorsing the importance of open source work is PRETTY COOL.
+  * Same for the recommendation letter!! 💖
+
+### What did you achieve
+
+* Submitted the grant.
+  Made me joyful.
+  See above 😜
+* Planning for lab interactions / mentorship
+  * And in particular some pretty nice networkx code to showcase selected interactions 😆
+* Onboarded EK (well... mostly) and I am SO GRATEFUL for her being here! 🙏
+* Fun ethics planning - event series and link up with someone looking for advice.
+* Planning for RAM 🐏 positions.
+  Really useful conversations.
+* Training Steering Group meeting.
+  * Not sure how much I _achieved_ but I did support & endorse really great work done by others 😅
+* Grant feedback & planning call(s).
+* I _HOPE_ I helped make a plan for coordinating with the Carpentries.
+* Had to enforce a code of conduct violation.
+  That was wild.
+  But I think I did a good job 💜
+* Prepped for TPS Showcase next week.
+* WILDLY not my achievement but ARIELLE got the videos submitted for the ASG MTR and they are FAB!
+* BIDS Steering Group meeting.
+  * FREAKING SENT the authorship guidelines .... FINALLY 💪
+* Checked in with one of the TPS projects.
+  Pretty confident I was reassuring.
+  Hopefully I also sparked a few ideas! :grin:
+* Gave useful feedback on a postdoc application! 🤔
+* Said hi to the Engage at Turing students a few times.
+  Hopefully in a useful way!
+* Prep meeting for ASG MTR.
+* Submitted the letter of recommendation for Pangeo work.
+* Endorsed GSOC applications for Autistica & Turing Way projects 🙌
+  * They were really done by others!
+  * Gave a bit of feedback on OLS project ideas too.
+* Prepped giving a reference for someone.
+  Wildly excited!
+
+### What did you struggle with?
+
+* I had a couple of tough conversations that I think are going to lead to me having to make some difficult decisions.
+  I really hope that they landed ok and that it was for the good of all...
+  * (One motivational, one to say no)
+* I felt patronised a couple of times this week.
+  I'm curious to reflect on whether that's _me_ perceiving something that isn't there... or whether its real.
+  Going to try to have one follow up conversation to check in.
+* I really really hope that I was motivating in one of my conversations and not just rambling and - potentially - being patronising back 😬
+  * Note to self, need to check in with that person to find out.
+* I LOVED my no-meeting Friday but I didn't reply to my emails / tasks, nor get this update done.
+  * So I need to do a tiny bit more to stay on top of those.
+  * Although, having said that, I did submit a pretty huge grant this week 😆
+    Maybe I can be a bit more gentle with myself.
+* HAHA - I can't believe I almost forgot this.
+  **I will never be the person in charge of making a gantt chart ever again.**
+  * That shit was not. my. jam. 🍯
+
+### Any other topics
+
+It's amazing how much I do when I actually write it all down 🙀
+
+Had a chill weekend, two lovely walks.
+Loads of cross stitchin.
 
 ## Date: 8 January 2021
 
@@ -39,7 +130,7 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
   * Set a few plans in motion for Project :fire::bird:
 * Recruitment process for community manager support.
 * Clarity on what we're trying to do for the big grant.
-  Both internally and externally it seems like we're in a really powerful position. 
+  Both internally and externally it seems like we're in a really powerful position.
   * Not always easy, but the work I did in the run up was very well aligned.
 * Really fun brainstorming on TPS leadership plans.
 * Useful (I hope!) feedback on EAG application.
