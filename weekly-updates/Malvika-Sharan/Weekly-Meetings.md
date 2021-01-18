@@ -21,26 +21,37 @@
 ### Date: 18 January 2021
 
 #### Who did you help this week?
-- Aida in discussing about Turing's role in training
+- AM in discussing about Turing's role in training
 - I have been mostly working on 1:1 basis with different people in the community to get their abstract, application and engagement in the project sorted
+  - KW: So great!
 
 #### Who helped you this week?
 - AB in keeping Turing slack updated with TTW news
+  - KW: Delighted!
 
 #### What did you achieve?
 - A few days I managed to get out of bed before 9:00 (it's been tough - holiday hangover)
+- KW: I'm pretty sure there's more than that. OH LOOK: 
+  - GSOC application: https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/GSoC-applications/GSoC-2021/GSoC-2021-INCF.md
+  - Curated / welcomed OLS applications
+  - Quarterly report!
+  - TPS VIDEO :movie_camera:
 
 #### What did you struggle with?
 - Getting back to work with full swing, general weather-related affect
 
 #### What would you like to work on next week?
-- Update community calendar with some  plans to be shared with the community members
+- Update community calendar with some plans to be shared with the community members
 - Sketch out how we would like the year to (vaguely) look like for TTW
+  - KW: OH that is going to be super fun!
 
 #### Where do you need help from Kirstie?
 - Approving some of the community projects listed here: https://github.com/alan-turing-institute/the-turing-way/issues/1712
+  - KW: Will do!
 - Adding any conference she would like to encourage presenting The Turing Way: https://github.com/alan-turing-institute/the-turing-way/issues/1717
-- Planning a fe dates for Book Dash and technical workshops/training event
+  - KW: I suspect I might not be all that useful here - I'll keep you in mind though!
+- Planning a few dates for Book Dash and technical workshops/training event
+  - KW: Whaaaaaat?! Wild times. Will ping a few ideas on slack.
 
 ### Date: Nov-Dec 2020
 
