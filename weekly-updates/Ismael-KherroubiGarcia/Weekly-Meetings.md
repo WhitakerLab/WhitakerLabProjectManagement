@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [19 January 2021](#date-19-january-2021)
 * [15 December 2020](#date-15-december-2020)
 * [01 December 2020](#date-01-december-2020)
 * [18 November 2020](#date-18-november-2020)
@@ -15,6 +16,38 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 19 January 2021
+
+#### Who did you help this week?
+
+* Spoke with AM and GA. Wrote with GA too!
+
+#### Who helped you this week?
+
+* I saw that you and LC helped review GA, SF and my abstract!
+
+#### What did you achieve?
+
+* Spoke with GA and got that abstract submitted in under a week!
+
+#### What did you struggle with?
+
+* Meh, university. I can only hope this term's course is interesting enough, otherwise I'll just be playing the waiting game.
+
+#### What would you like to work on next week?
+
+* I have training with DSG PIs on 27th January, so that will require some prep (not much at this stage!)
+
+#### Where do you need help from Kirstie?
+
+* I have put together some [very simple guidelines](https://hackmd.io/DneAaMlYSnaPlsHqzskwDQ) for filling out the form as it currently is, for the purpose of *The Turing Way*. Could you take a look or help me find people who could review?
+
+#### Any other topics
+
+* Ethics Committees workshop -- I would like to get more involved...
 
 ---
 
