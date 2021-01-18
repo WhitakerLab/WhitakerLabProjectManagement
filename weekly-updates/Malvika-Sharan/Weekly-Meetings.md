@@ -1,5 +1,7 @@
 # Malvika's weekly meeting notes.
 
+* [18 January 2021](#date-18-January-2021)
+* [Nov-Dec 2020](#date-Nov-Dec-2020)
 * [28 October 2020](#date-28-October-2020)
 * [09 October 2020](#date-09-October-2020)
 * [21 September 2020](#date-21-September-2020)
@@ -16,7 +18,78 @@
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
 
-### Template: Date: 28 October 2020
+### Date: 18 January 2021
+
+#### Who did you help this week?
+- AM in discussing about Turing's role in training
+- I have been mostly working on 1:1 basis with different people in the community to get their abstract, application and engagement in the project sorted
+  - KW: So great!
+
+#### Who helped you this week?
+- AB in keeping Turing slack updated with TTW news
+  - KW: Delighted!
+
+#### What did you achieve?
+- A few days I managed to get out of bed before 9:00 (it's been tough - holiday hangover)
+- KW: I'm pretty sure there's more than that. OH LOOK: 
+  - GSOC application: https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/GSoC-applications/GSoC-2021/GSoC-2021-INCF.md
+  - Curated / welcomed OLS applications
+  - Quarterly report!
+  - TPS VIDEO :movie_camera:
+
+#### What did you struggle with?
+- Getting back to work with full swing, general weather-related affect
+
+#### What would you like to work on next week?
+- Update community calendar with some plans to be shared with the community members
+- Sketch out how we would like the year to (vaguely) look like for TTW
+  - KW: OH that is going to be super fun!
+
+#### Where do you need help from Kirstie?
+- Approving some of the community projects listed here: https://github.com/alan-turing-institute/the-turing-way/issues/1712
+  - KW: Will do!
+- Adding any conference she would like to encourage presenting The Turing Way: https://github.com/alan-turing-institute/the-turing-way/issues/1717
+  - KW: I suspect I might not be all that useful here - I'll keep you in mind though!
+- Planning a few dates for Book Dash and technical workshops/training event
+  - KW: Whaaaaaat?! Wild times. Will ping a few ideas on slack.
+
+### Date: Nov-Dec 2020
+
+#### Who did you help this month?
+- Planning and hosting Book Dash, while participating in Biohackathon EU (went well)
+- Innovation Scholar application planning and drafting (not successful)
+- LwM team in building their community charter
+- Teaching a session of Train the Trainer
+- Marilina in draftinbg her talk for pyDay Chile
+- HDS discussion team
+- REG in hosting The Carpentries seminar
+- Catching up with Aida on The Turing Way, community management, learning options etc.
+
+#### Who helped you this month?
+
+- KW, SG, MV with book dash
+- MF, BM, DG in URI application
+- Lab members in keeping it up during the pandemic
+- AB in settling all the book dash expense
+- KW in planning next steps in TTW
+
+#### What did you achieve?
+- Survived a failed grant application
+- Received Turing's online training grant for "OLS for Turing"
+- Finished the year in Ireland
+
+#### What did you struggle with?
+- Pandemic
+- Funding opportunities
+- Lack of time to do things I would love to :D
+
+#### What would you like to work on next year?
+- Governance design, member recruitment, report, paper, momentum building and delegating more work
+
+#### Where do you need help from Kirstie?
+- Planning next steps in TTW and she already helped :D
+
+### Date: 28 October 2020
 
 #### Who did you help this week?
 
