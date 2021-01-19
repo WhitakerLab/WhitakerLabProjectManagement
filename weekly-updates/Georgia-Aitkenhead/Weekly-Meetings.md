@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
 * [09 December 2020](#date-09-december-2020)
 * [25 November 2020](#date-25-november-2020)
@@ -26,6 +27,42 @@ Georgia's weekly meeting notes.
 * [08 July 2019](#date-08-july-2019)
 * [24 June 2019](#date-24-june-2019)
 * [17 June 2019](#date-17-june-2019)
+
+### Date: 20 January 2020
+
+#### Who did you help this week?
+
+* Helped SF with research opportunities 
+
+#### Who helped you this week?
+
+* SB helped me all round with first mentoring session
+
+#### What did you achieve?
+
+* GSOC application submitted (thanks MS and KW!)
+* Conference abstract submitted (Thanks IKG and SF)
+* Scaffold for Wellcome application (https://hackmd.io/IJl2JuDVQMWtm0ILqRQgqw)
+* Interviewed AC for Jan newsletter
+* Autistic co-facilitator for co-working sessions found 
+* Set up regular co-working sessions with JS
+
+#### What did you struggle with?
+
+* 3 month objectives on Cezanne - emailed reminder they are overdue! 
+* Some January blues and stress - whitaker lab helped lots! :)
+
+#### Where do you need help from Kirstie?
+
+* Budgeting for funding applications
+
+#### What would you like to work on next week?
+
+* Preparing for first group co-working session 
+* Finishing Wellcome funding proposal
+* January newsletter
+* Continuing platform development
+* Getting repo ready to onboard new collaborators 
 
 ### Date: 13 January 2020
 
