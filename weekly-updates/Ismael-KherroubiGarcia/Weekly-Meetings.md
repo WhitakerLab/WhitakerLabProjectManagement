@@ -28,26 +28,40 @@
 #### Who helped you this week?
 
 * I saw that you and LC helped review GA, SF and my abstract!
+  * KW: Really great!
 
 #### What did you achieve?
 
 * Spoke with GA and got that abstract submitted in under a week!
+  * KW: Fun times!
+* Chats with stakeholders at Turing
 
 #### What did you struggle with?
 
 * Meh, university. I can only hope this term's course is interesting enough, otherwise I'll just be playing the waiting game.
+  * KW: Strength and solidarity :muscle:
 
 #### What would you like to work on next week?
 
 * I have training with DSG PIs on 27th January, so that will require some prep (not much at this stage!)
+  * KW: SUCH a delight
+  * Pinged you message from Partnerships team :smiley_cat:
+* EAG meeting this week!
 
 #### Where do you need help from Kirstie?
 
-* I have put together some [very simple guidelines](https://hackmd.io/DneAaMlYSnaPlsHqzskwDQ) for filling out the form as it currently is, for the purpose of *The Turing Way*. Could you take a look or help me find people who could review?
+* I have put together some [very simple guidelines](https://hackmd.io/DneAaMlYSnaPlsHqzskwDQ) for filling out the form as it currently is, for the purpose of *The Turing Way*.
+  * Could you take a look or help me find people who could review?
+  * KW: Looks REALLY GOOD!
+    * Suggestions for reviewers: JC, MBr, GB, JM  - key prompt is "is this too vague?"
 
 #### Any other topics
 
 * Ethics Committees workshop -- I would like to get more involved...
+  * KW: Super supportive of this!
+    * **Who are the audience, and what do they need to read to want to come to the event?**
+    * Can you have a brainstorm with AM, AB, and (maybe?) the Turing events team to see where your _gaps_ in answering this question currently are.
+      Once you know the gaps you can feed those back (google doc) to the organising team.
 
 ---
 
