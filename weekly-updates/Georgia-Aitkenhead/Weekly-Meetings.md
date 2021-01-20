@@ -32,25 +32,33 @@ Georgia's weekly meeting notes.
 
 #### Who did you help this week?
 
-* Helped SF with research opportunities 
+* Helped SF with research opportunities
+  * KW: Very cool - conference abstract & possible talks
 
 #### Who helped you this week?
 
 * SB helped me all round with first mentoring session
+  * KW: This is great - I'm delighted
 
 #### What did you achieve?
 
 * GSOC application submitted (thanks MS and KW!)
+  * KW: Excited for this!
 * Conference abstract submitted (Thanks IKG and SF)
+  * KW: :muscle:
 * Scaffold for Wellcome application (https://hackmd.io/IJl2JuDVQMWtm0ILqRQgqw)
+  * KW: Really great!
 * Interviewed AC for Jan newsletter
-* Autistic co-facilitator for co-working sessions found 
+* Autistic co-facilitator for co-working sessions found
+  * 2nd and 4th Thursdays from 4:30pm to 6:30pm
 * Set up regular co-working sessions with JS
 
 #### What did you struggle with?
 
-* 3 month objectives on Cezanne - emailed reminder they are overdue! 
+* 3 month objectives on Cezanne - emailed reminder they are overdue!
+  * KW: Please have a think about this and remind me!
 * Some January blues and stress - whitaker lab helped lots! :)
+  * KW: :sunrise_over_mountains: 
 
 #### Where do you need help from Kirstie?
 
@@ -63,6 +71,8 @@ Georgia's weekly meeting notes.
 * January newsletter
 * Continuing platform development
 * Getting repo ready to onboard new collaborators 
+
+KW: Please also arrange a chat with AM about a 5 or 10 year plan :scream_cat: and your graceful exit (on your own terms!!) from the Turing (or a dedication to stay!) :rocket: :star2:
 
 ### Date: 13 January 2020
 
