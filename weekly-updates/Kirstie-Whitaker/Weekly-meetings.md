@@ -8,10 +8,95 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2021**
 
+* [22 January 2021](#date-22-january-2021)
 * [15 January 2021](#date-15-january-2021)
 * [8 January 2021](#date-8-january-2021)
 
 ---
+
+## Date: 22 January 2021
+
+### What brought you joy this week?
+
+* I gave two PhD students feedback on a fellowship application and some career mentorship which I hope was helpful.
+  * Main thesis point: the imposter syndrome you're feeling is caused by crappy external factors.
+    You're doing great 💗
+* Turing Way newsletter! OMG so great!
+  * https://tinyletter.com/TuringWay/letters/new-year-wishes-from-the-turing-way-and-plans-for-2021
+* Turing Way Collaboration Cafe.
+  * As. Always.
+* TPS Seminar!!
+  And I didn't do anything for it!
+  Thank you AB!!
+* TWO people came to our first TPS Coffee Chat!
+  I'm so delighted.
+  (And that's not including Arielle and me 😆)
+* Our panel members at the TPS Showcase were great examples of our lovely community!
+* Really appreciated how thoughtful the short listing conversation with SH and EM was.
+* The members of the Turing EAG are such a delight 💞
+* Wildly appreciative of EK for getting so much documentation tidied up 🙀💖
+* Gave a job reference for someone to potentially get a really kick ass job.
+  SUCH A JOY.
+* Caught up with MOR - nice to have a bit of a chilled out chat.
+* Biden inauguration.
+  * Loved how mum and David decorated the house and had the champers going! 🥂
+  * Poet Amanda Gorman was the stand out star: https://www.theguardian.com/us-news/2021/jan/20/amanda-gorman-poem-biden-inauguration-transcript
+* Not _joy_ exactly but I appreciated being listened to in a ranty rant at the end of the week!
+
+### What did you achieve
+
+* 🌧️ Raincloud Plots 🌧️ plots out, binder updated, so many twitter mentions!
+  * 🌧️ Paper: https://doi.org/10.12688/wellcomeopenres.15191.2
+  * 🌧️ GitHub: https://github.com/RainCloudPlots/RainCloudPlots
+  * 🌧️ Interactive tutorial on Binder (Python): https://mybinder.org/v2/gh/RainCloudPlots/RainCloudPlots/master?filepath=tutorial_python%2Fraincloud_tutorial_python.ipynb
+  * 🌧️ Interactive tutorial on Binder (R): https://mybinder.org/v2/gh/RainCloudPlots/RainCloudPlots/master?urlpath=rstudio
+  * 🌧️ Twitter thread: https://twitter.com/micahgallen/status/1352546244011421696?s=20 (edited)
+* TPS Showcase: https://doi.org/10.5281/zenodo.4450181
+* TPS Strategy presentation at directors meeting
+  * Got some good advice generally from folks in preparation for this! 🙏
+* [Quit a gym](https://tenor.com/bd4H3.gif) (funding opportunity)
+* Chaired expert check in, steering group & all hands meetings for one project.
+  Check in meeting was particularly great.
+* Short listing for PDRA position.
+* EAG meeting, a couple of good internal connections at Turing, and meeting with external folks wanting to know what we're doing
+* Super helpful lab meeting to keep building connections between members.
+* Finally introduced AM to the Turing.
+  GOOD GRIEF did it have to take me that long to send an email?!?!
+  * Final version was pretty good though 🐏
+* Super helpful chat with AM (different!) about staffing plans for big project.
+* Webinar FINALLY planned.
+  * That's been weighing on me for a while 😩
+* 1:1s with IK, MS, GA - really valuable, always a delight.
+* Started conversation about capturing impact.
+  Not my favourite task but a super important one to remember to do!
+* Connected LC and GA - I really hope that idea blooms! 🌻
+* Invited a couple of folks for the MTR next week!
+* Zoomin in at 6pm on Friday - a BIDS Starter Kit meeting!
+  Really nice to actually do something useful for brain imaging for the first time in ages 🧠
+
+### What did you struggle with?
+
+* Feeling like I get freaking conflicting instructions - how can people be more involved, oh but they can't actually _be involved_. 😠🤬
+* Can't find speakers for a knowledge share.
+  No one wants to share their knowledge :sob:
+* DOODLES AAAAAAH.
+  They seem like such a good idea.
+  But actually, I hate them
+  * (This is this week's Gantt chart commitment. No. More.)
+* Still haven't got my calendar properly sorted out for the year.
+  Missing a bunch of 1:1s... ☹️
+* Attended one meeting that made every neuron fire all at once.
+  * I tried.
+    I'm not going to take part in that conversation again.
+  * Put. The battle. Down. Kirstie.
+* Missed my workouts from doing too many evening calls.
+  And didn't leave the house often because it was raining so much 🌊
+  Need to do better on exercise next week.
+
+### Any other topics
+
+Not much more to add.
+Next week is going to be wild :scream_cat:
 
 ## Date: 15 January 2021
 
