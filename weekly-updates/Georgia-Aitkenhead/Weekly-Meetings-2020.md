@@ -2,20 +2,21 @@
 
 Georgia's weekly meeting notes.
 
-* [20 January 2021](#date-20-january-2021)
-* [13 January 2021](#date-13-january-2021)
 * [09 December 2020](#date-09-december-2020)
 * [25 November 2020](#date-25-november-2020)
 * [18 November 2020](#date-18-november-2020)
+* [28 October 2020](#date-28-october-2020)
 * [22 October 2020](#date-22-october-2020)
 * [07 October 2020](#date-07-october-2020)
 * [30 September 2020](#date-30-september-2020)
+* [22 September 2020](#date-22-september-2020)
 * [08 September 2020](#date-08-september-2020)
 * [31 July 2020](#date-31-july-2020)
 * [17 June 2020](#date-17-june-2020)
 * [12 May 2020](#date-12-may-2020)
 * [27 April 2020](#date-27-april-2020)
 * [19 March 2020](#date-19-march-2020)
+* [07 February 2020](#date-07-february-2020)
 * [28 January 2020](#date-28-january-2020)
 * [10 December 2019](#date-10-december-2019)
 * [14 November 2019](#date-14-november-2019)
@@ -250,6 +251,53 @@ KW: So a nice tidy up week, and then transcripting fun :headphones:
 
 KW: Really fantastic work Georgia - thank you so much!
 
+### Date: 28 October 2020
+
+#### Who did you help this week?
+
+* Helped JS with HackMD
+* Helped KW with quarterly updates 
+  * KW: THANK YOU!
+
+#### Who helped you this week?
+
+* JK helped me with website design 
+  * KW: Fantastic!
+* HD helped me with strategy
+  * KW: So cool!
+
+#### What did you achieve?
+
+* Issues list - breakdown and structure
+* Quarterly updates 
+* More design research and sourcing 
+* OLS work
+* Potential routes to gaining support 
+
+ALL EXCELLENT THANK YOU!
+
+#### What did you struggle with?
+
+* Tools & design work 
+  * KW: Discussed in the meeting
+
+#### Where do you need help from Kirstie?
+
+* PP
+* Meeting planning
+* Tools
+
+KW: You're thinking really beautifully about all these points. Great chat about inclusion vs openness for delivering the project.
+
+#### What would you like to work on next week?
+
+* Funding proposal
+* October newsletter
+* Finishing issues list
+* OLS
+
+KW: Excellent work as always - thank you :pray:
+
 ### Date: 22 October 2020
 
 #### Who did you help this week?
@@ -379,6 +427,44 @@ The design is wonderful Georgia - well done and thank you so much :heart_eyes:
 * OLS 
 
 These all sound great - well done!
+
+### Date: 22 September 2020
+
+#### Who did you help this week?
+
+* Helped KK join OLS
+  * KW: Wonderful :hibiscus:
+
+#### Who helped you this week?
+
+* Whole lab helped me think through volunteer/community strategies
+* KW helped me with funding-seeking process
+
+#### What did you achieve?
+
+* OLS - mapping work, opening issues, mentoring sessions and cohort calls
+* Ongoing agile sprint work 
+* Ran lab meeting to think through themes of volunteering culture
+* Linked up with new collaborator
+* Set up AWS account for deployment
+
+#### What did you struggle with?
+
+* Matching volunteers to skills needed 
+
+#### Where do you need help from Kirstie?
+
+* Position paper
+
+#### What would you like to work on next week?
+
+* Roadmap of project from platform deployment - December
+* September newsletter 
+* User testing handover
+* Funding sources - meet with SL
+* OLS - link up with more people
+
+This all looks fantastic Georgia - really great work!
 
 ### Date: 31 July 2020
 
@@ -549,6 +635,53 @@ KW: This is fantastic work - thank you so much Georgia!
 
 THANK YOU! Sorry for my rather ranty meeting today! This is a big big project and you're doing a great job managing the complexity :sparkles:
 
+### Date: 08 April 2020
+
+#### Who did you help this week?
+
+* Helped ED, CL, and ED with GitHub
+  * KW: So fun!
+
+#### Who helped you this week?
+
+* OS helped me with newsletter
+  * KW: Awesome :sparkling_heart:
+
+#### What did you achieve?
+
+* Organised and presented at workshop on wireframing
+  * KW: Report can come as a pull request
+* Organised GitHub repo with ED
+* Co-wrote blog for Autism Awareness Day
+  * https://www.turing.ac.uk/blog/world-autism-awareness-day-celebration-and-citizen-science
+  * KW: don't forget to add this to the newsletter!
+
+#### What did you struggle with?
+
+* Process stuff 
+  * KW: As discussed in the meeting - please send me high risk pull requests and issues.
+    I'm not able to stay on top of all the conversations on GitHub so please send me links one at a time - prioritising ones that are related to process and ways of working, or interactions with the community.
+    I totally get that this is a massive pain in the butt - but it's going to be the most effective way of keeping the project going without putting it on pause.
+
+#### What would you like to work on next week?
+
+* Prepping lab stuff with MS
+* Applying for CogX
+  * New deadline 22 April - Phew!
+* Continuing to work through repo
+
+#### Where do you need help from Kirstie?
+
+* Reviewing/approving pull requests
+* Thinking through processes
+* Position paper -- GA to send the most up to date version :sparkles:
+
+KW: The reviewing is just going to have to be slower - which sucks but is also entirely driven by a global pandemic so anyone suggesting that you (we) maintain the same levels of productivity is completely wrong.
+Very happy to think through processes - try to brainstorm them with folks before you get them to me so the questions are as targetted as possible - but please don't avoid sending me things - I'm on slack all day long and very reachable - I just need qs to come in bite-ish sized chunks :sparkles:
+
+You're doing an amazing job - thank you so so much!
+
+
 ### Date: 12 May 2020
 
 #### Who did you help this week? 
@@ -702,6 +835,52 @@ KW: Added a few points from meeting:
 * Integrating agile sprint cycle
 
 KW: Georgia - you've done such a wonderful job. Thank you so so much :sunflower: :hibiscus:
+
+### Date: 07 February 2020
+
+#### Who did you help this week?
+
+* Introduced ED to project and to GitHub - first issues and pull requests
+* Gave JS tour of Turing and background to data ethics
+* Updated LC on project
+
+KW: These are all great! Thank you Gerogia, and thank you to the new team members :sparkles:
+
+#### Who helped you this week?
+
+* ED helped design the workflow 
+* JS helped organise the repo 
+* KW and RP invited me to a Turing Citizen Science workshop
+
+KW: I hope you have tonnes of fun at the workshop! I'm sorry I can't go!
+
+#### What did you achieve?
+
+* Gave talk to Health and Data Science special interest group
+  * KW: It was great!
+* Wrote hundreds of user stories for backlog
+  * KW: 😅
+* Co-working sessions with Fujitsu team (ED, ED, and TS)
+  * KW: FAB!
+* Moved house!
+  * KW: Wooooo! 🏡
+
+#### What did you struggle with?
+
+* Refining workflow process still tricky
+  * KW: Because it's a wildly hard process! I'll take a look on Sunday morning :muscle:
+
+#### What would you like to work on next week?
+
+* Organising sprint cycles
+* Chairing lab meeting :)
+* Designing participatory science session with BW
+
+#### Where do you need help from Kirstie?
+
+* Prep for backlog refinement meeting on Monday 
+  * KW: Great meeting today - thank you for brainstorming all of this
+
 
 ### Date: 28 January 2020
 
