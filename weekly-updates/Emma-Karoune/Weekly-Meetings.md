@@ -43,7 +43,7 @@ This space is yours to add to as needed.
 
 
 
-### Date: [TEMPLATE]
+### Date: [Template]
 
 #### Who did you help this week?
 
