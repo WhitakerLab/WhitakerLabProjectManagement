@@ -6,30 +6,44 @@ Georgia's weekly meeting notes.
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
 
-### Date: 03 february 2021
+### Date: 03 February 2021
 
 #### Who did you help this week?
 
 * Helped the SDS group by inviting speaker and adding bios and abstracts
+  * KW: So great! 
+  * Please share on slack to the #tps & #ethics-advisory-group channel :pray: !
 * Helped collaborator with involvement
+  * KW: Great - keep an eye out for others who can also help with onboarding & supporting
 * Helped JS think of neurodiversity improvements
-* Helped JS get setup on the new AutSPACEs repo 
+  * KW: Very cool.
+  * Connect with BV if that makes sense - you check first and then ping me on slack for introductions :smiley_cat:
+* Helped JS get setup on the new AutSPACEs repo
+  * KW: :confetti_ball::confetti_ball::confetti_ball:
 
 #### Who helped you this week?
 
 * KW sent me flowers :yellow_heart: 
 * JK helped me with Django
 * AVDW sent me an interesting article on transdisciplinarity
+  * KW: Share in lab & Open Humans slack channel?
 * SF helped with comms planning
+  * KW: Cool :loudspeaker:
 * AC helped me with facilitation 
+  * KW: Amazing :pray:
 
 #### What did you achieve?
 
 * First co-working session
+  * KW: So sorry I couldn't be there!
 * Rough draft of wellcome 1-pager
+  * KW: Looks good!
 * Accessibility work on repo 
-* Platform progress supported by Bastian
-* Creation of co-working sub-groups 
+  * KW: Very cool!
+* Platform progress supported by BGT
+  * KW: Great stuff - please have as many conversations as possible in the OH slack workspace :pray:
+* Creation of co-working sub-groups
+  * KW: Great - make sure this is in an issue :smiley:
 
 #### What did you struggle with?
 
@@ -48,6 +62,8 @@ Georgia's weekly meeting notes.
 * Django learning 
 * Meeting with AB and AM
 * Work on conference paper
+* KW: One slack post everyday :apple: :wink:
+  * Focus on building connections between JK and BGT and helping them to write issues for new contributors to work on.
 
 ### Date: 20 January 2021
 
