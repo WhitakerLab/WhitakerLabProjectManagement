@@ -8,11 +8,56 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2021**
 
+* [31 January 2021](#date-31-january-2021)
 * [22 January 2021](#date-22-january-2021)
 * [15 January 2021](#date-15-january-2021)
 * [8 January 2021](#date-8-january-2021)
 
 ---
+
+## Date: 31 January 2021
+
+### What brought you joy this week?
+
+* Not joy exactly, but I spoke out against a problematic decision making framework.
+  Which didn't help current situation, but may avoid the problem in the future.
+* I missed it but I am so delighted that we have co-working sessions set up for the Autistica/Turing Citizen Science project!! :heart_eyes:
+  * And a twitter account! 🙌 https://twitter.com/AutSpaces
+* MS & AM & industry team did a fantastic job in the ASG MTR :sparkles:
+* Folks in lab meeting had a really productive time brainstorming responsibilities
+* IKG gave two presentations in one day!
+  Amazing work!
+
+### What did you achieve
+
+* ASG Midterm review.
+  2 days.
+  Emotionally exhausting.
+  So much responsibility.
+* EPSRC review panel.
+  2 days.
+  Physically exhausting.
+  So LONG!
+  * Great people though!
+    I learned a lot
+* Reassessed meeting schedule for a project.
+* Set up regular meetings with team members 💖
+* EDoN Analytics Hub meeting
+* Chat w R4E team about coordinating.
+* Chat w RG about his projects
+* Project leadership meeting
+* Finally replied to two paper invitations.
+* Gave some advice for someone applying for a job.
+
+### What did you struggle with?
+
+* Some difficult conversations.
+* idk, it isn't clear that I got anything done last week.
+  I wish I could just think of it as being away for those 4 days - which is the correct framing... but not a headspace I can get myself into.
+* Made a bit of progress on computer says no, but also not feeling supported on the work I need to get done.
+* These job descriptions are really hanging over me.
+  * Lets set a goal to get these out from my head by the end of next week.
+    They will bring me joy... if I can find a breakthrough on them.
 
 ## Date: 22 January 2021
 
