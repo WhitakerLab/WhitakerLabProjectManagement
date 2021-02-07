@@ -8,7 +8,7 @@
 
 #### Who did you help this week?
 
-* I'm volunteered to help SG with the SSI Zero to binder workshop - do the intro Turing way talk and help run the workshop.
+* I've volunteered to help SG with the SSI Zero to binder workshop - doing the intro Turing way talk and help run the workshop.
 * Helped MS with deciding the layout of the new Turing chapter that she is writing and issue on onboarding new Turing way community members.
 
 #### Who helped you this week?
