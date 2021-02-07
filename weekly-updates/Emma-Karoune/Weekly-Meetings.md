@@ -8,17 +8,22 @@
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
-
+* I'm volunteered to help SG with the SSI Zero to binder workshop - do the intro Turing way talk and help run the workshop.
+* Helped MS with deciding the layout of the new Turing chapter that she is writing and issue on onboarding new Turing way community members.
 
 #### Who helped you this week?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+* HM helped me find some resources that I couldn't find.
+* I talked through the Turing Chapter that I have started writing with MS.
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* Planned out Turing Way chapter (Communicating open science) and started a [first draft](https://hackmd.io/z3wbuBKXTQif8-Wd6u6Q0g). Also started a plan for [Guide for Communication](https://hackmd.io/VHDWuGcbRWG1GqXuEhgarw) 
+* Went to Turing way collaboration cafe and advertised my new issue for new chapter.
+* Linked up colleagues on Slack to the people who coulkd help them and resource on Github.
+* Sent out more emails about BIO's and had lots more responses - nearly complete now!
+* Made a shared email list for me and HM.
+* Contacted Remi Gao and he sent resources for me to read. He will link me up with colleagues.
 
 #### What did you struggle with?
 
@@ -27,9 +32,8 @@ Replace this text with a one/two sentence description of who helped you this wee
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Continue writing first draft of Turing way chapter.
+* 
 
 #### Where do you need help from Kirstie?
 
