@@ -8,7 +8,7 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2021**
 
-* [5 February 2021](#date-5-february-2021)
+* [7 February 2021](#date-5-february-2021)
 * [31 January 2021](#date-31-january-2021)
 * [22 January 2021](#date-22-january-2021)
 * [15 January 2021](#date-15-january-2021)
@@ -16,7 +16,7 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 ---
 
-## Date: 5 February 2021
+## Date: 7 February 2021
 
 ### What brought you joy this week?
 
