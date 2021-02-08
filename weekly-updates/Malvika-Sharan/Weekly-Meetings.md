@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [08 February 2021](#date-08-February-2021)
 * [18 January 2021](#date-18-January-2021)
 * [Nov-Dec 2020](#date-Nov-Dec-2020)
 * [28 October 2020](#date-28-October-2020)
@@ -17,6 +18,44 @@
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 08 February 2021
+
+#### Who did you help this month?
+- Joined the SIG Facilitating Responsible Participation in Data Science (really great group!)
+- Connected with AB regarding TTW
+- Joined training team for recruitment panel
+- AM on discussions around RAM
+- LC in writing proposals and abstracts for TTW
+
+#### Who helped you this month?
+- KW in getting prepared for mid-term review
+- AM in connecting with a few more people in Turing and posting UKRN info on TTW
+- ABL in promoting TTW info in Turing and reviewing report to add on GItHub
+- AB in pointing a few gaps around participation that I can work to will
+- LC in writing proposals and abstracts for TTW
+
+#### What did you achieve?
+- 
+- CW21 SC discussion and an abstract submission
+- Onboarded a few new members in the community
+- Participated in the mid-term panel
+- GDPR training
+- Connecting with NM through MN in the context of mentoring
+- SG, AM, AH, MN projects from Turing in OLS
+- Working with EDI in identiying technical skills that can be delivered with TTW
+
+#### What did you struggle with?
+- January slowness
+- Personal milestones
+
+#### What would you like to work on next month?
+- Book Dash announcements
+- Governance - community-handbook
+- Community health report (mentor AH)
+
+#### Where do you need help from Kirstie?
+- Many points mentioned in the answer to the previous question
 
 ### Date: 18 January 2021
 
