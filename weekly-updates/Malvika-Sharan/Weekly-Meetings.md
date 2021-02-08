@@ -23,10 +23,15 @@
 
 #### Who did you help this month?
 - Joined the SIG Facilitating Responsible Participation in Data Science (really great group!)
+  - KW: Delighted :sparkling_heart:
 - Connected with AB regarding TTW
+  - KW: Ah - great!
 - Joined training team for recruitment panel
+  - KW: Super helpful conversation 
 - AM on discussions around RAM
+  - KW: Very cool :star2:
 - LC in writing proposals and abstracts for TTW
+  - KW: Amazing
 
 #### Who helped you this month?
 - KW in getting prepared for mid-term review
@@ -38,20 +43,25 @@
 #### What did you achieve?
 - Newsletter of the month
 - CW21 SC discussion and an abstract submission
+  - KW: Nice - well done :star2:
 - Onboarded a few new members in the community
 - Participated in the mid-term panel
 - GDPR training
 - Connecting with NM through MN in the context of mentoring
+  - KW: Seems like a good connection :white_check_mark:
 - SG, AM, AH, MN projects from Turing in OLS
+  - KW: WHAT a fun group!
 - Working with EDI in identiying technical skills that can be delivered with TTW
 
 #### What did you struggle with?
 - January slowness
 - Personal milestones
+  - KW: Discussed in meeting - thank you for sharing :hibiscus:
 
 #### What would you like to work on next month?
 - Book Dash announcements
 - Governance - community-handbook
+  - KW: Excited for Thursday!! :star2:
 - Community health report (mentor AH)
 
 #### Where do you need help from Kirstie?
