@@ -36,7 +36,7 @@
 - LC in writing proposals and abstracts for TTW
 
 #### What did you achieve?
-- 
+- Newsletter of the month
 - CW21 SC discussion and an abstract submission
 - Onboarded a few new members in the community
 - Participated in the mid-term panel
