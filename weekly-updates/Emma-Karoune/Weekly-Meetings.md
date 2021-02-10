@@ -18,7 +18,7 @@
 
 #### What did you achieve?
 
-* Planned out *uring Way* chapter (Communicating open science) and started a [first draft](https://hackmd.io/z3wbuBKXTQif8-Wd6u6Q0g). Also started a plan for [Guide for Communication](https://hackmd.io/VHDWuGcbRWG1GqXuEhgarw) - comments very welcome on that too!
+* Planned out *Turing Way* chapter (Communicating open science) and started a [first draft](https://hackmd.io/z3wbuBKXTQif8-Wd6u6Q0g). Also started a plan for [Guide for Communication](https://hackmd.io/VHDWuGcbRWG1GqXuEhgarw) - comments very welcome on that too!
 * Went to the *Turing way* collaboration cafe and advertised my new issue for new chapter.
 * Linked up colleagues on Slack to the people who could help them and resource on Github.
 * Sent out more emails about BIO's and had lots more responses - nearly complete now!
