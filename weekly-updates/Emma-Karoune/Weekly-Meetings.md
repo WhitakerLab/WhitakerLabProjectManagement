@@ -9,22 +9,32 @@
 #### Who did you help this week?
 
 * I've volunteered to help SG with the SSI Zero to binder workshop - doing the intro to *The Turing Way* talk and helping to run the workshop.
+  * KW: Fantastic!
 * Helped MS with deciding the layout of the new Turing chapter that she is writing and issue on onboarding new Turing way community members.
+  * KW: So so cool! 
 
 #### Who helped you this week?
 
 * HM helped me find some resources that I couldn't find.
-* I talked through the Turing Chapter that I have started writing with MS and LC.
+* I talked through the Turing Way chapter that I have started writing with MS and LC.
 
 #### What did you achieve?
 
-* Planned out *Turing Way* chapter (Communicating open science) and started a [first draft](https://hackmd.io/z3wbuBKXTQif8-Wd6u6Q0g). Also started a plan for [Guide for Communication](https://hackmd.io/VHDWuGcbRWG1GqXuEhgarw) - comments very welcome on that too!
+* Planned out *Turing Way* chapter (Communicating open science) and started a [first draft](https://hackmd.io/z3wbuBKXTQif8-Wd6u6Q0g).
+  Also started a plan for [Guide for Communication](https://hackmd.io/VHDWuGcbRWG1GqXuEhgarw) - comments very welcome on that too!
+  * KW: Looks spectacular - absolutely fabulous! 
 * Went to the *Turing way* collaboration cafe and advertised my new issue for new chapter.
+  * KW: So fun! :heart_eyes:
 * Linked up colleagues on Slack to the people who could help them and resource on Github.
+  * KW: Fab :rocket: :star2:
 * Sent out more emails about BIO's and had lots more responses - nearly complete now!
+  * KW: Great!
 * Made a shared email list for me and HM.
-* Contacted Remi Gao and he sent resources for me to read. He will link me up with colleagues.
+  * KW: EXCELLENT - see comment below about definition in GitHub
+* Contacted RG and he sent resources for me to read. He will link me up with colleagues.
+  * KW: Coooool!  
 * Also going to contact other to get case studies for the Communication guide as personal stories of impact are great!
+  * KW: :tada::tada::tada:
 
 #### What did you struggle with?
 
@@ -34,10 +44,12 @@
 
 * Continue writing first draft of Turing way chapter.
 * Start working on presentation for lab meeting.
+* Write up a definition of the different email groups for project somewhere on GitHub.
 
 #### Where do you need help from Kirstie?
 
 * Presentation for lab meeting.
+  * KW: Also really useful for my presentation to the exec? Can you (ask the teams to help you to) make a slide of each research question?
 
 #### Any other topics
 
