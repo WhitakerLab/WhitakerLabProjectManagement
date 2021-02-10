@@ -1,10 +1,10 @@
 # Emma's Weekly Meeting Notes
 
-* [07 February 2021](#date-10-february-2021)
+* [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
 
 
-### Date: [07 February 2021]
+### Date: 10 February 2021
 
 #### Who did you help this week?
 
