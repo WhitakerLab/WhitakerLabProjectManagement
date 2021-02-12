@@ -1,5 +1,6 @@
 # Mentoring Sessions with Isla
 
+* [11 February 2021](#date-11-february-2021)
 * [26 January 2021](#date-26-january-2021)
 * [15 January 2021](#date-15-january-2021)
 
@@ -7,11 +8,27 @@
 
 **When?** Fortnightly, Tuesdays at 11:30am
 
-**Where?** Google hangout link: TBC
+**Where?** Google hangout
 
 **For how long?** 1 hour
 
-**Next meeting** 9th February 2021
+**Next meeting** 23 February 2021
+
+## Date: 11 February 2021
+
+### What did we discuss?
+* IS gave ME feedback on one of her text extraction scripts (["Exctracting_histo_step_1_210208.ipynb"](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/scripts/text-extraction/Extracting_histo_step_1_210208.ipynb)), including advice on how it can be cleaned up/streamlined.
+  * IS showed ME how several cells that contain the same structure of code can be converted into a function.
+  * IS advised that functions that be moved into a separate .py file, and read into the Jupyter Notebook at the beginning.
+    * IS explained that Jupyter Notebooks are unable to relocate memory; however, moving functions into a separate .py file can get around this problem and free up memory.
+
+### Goals for next week's meeting
+* IS will create a new issue in the [GOSH-2018-2018-paper repository](https://github.com/MariaEriksson/GOSH-2000-2018-paper) that describes the discussed transformation of the above-mentioned text extraction script
+* ME will transform repetitive cells in the iscussed text extraction script into functions
+* ME will move functions from the discussed text extraction script to a separate .py file
+
+### Other
+* IS & ME reflected on how much they enjoyed LC's lab meeting talk :stars:
 
 ## Date: 26 January 2021
 
@@ -36,7 +53,7 @@
     * ME uses BIDS to perform DICOM to NiFTI conversion, anonymise data, and structure data. ME 'prints' date of scan in scan file name, and uses this to sub-divide scans into pre- and post-surgical scans.
     * ME & IS discussed running BIDS on personal desktop versus UCL clusters. Will use personal desktop for now.
 
-### Goals for next week's meeting:
+### Goals for next week's meeting
 * ME put logistic regression code on GitHub
 * ME bring info on her project's BIDS details
 * IS add a standing Google meeting link
