@@ -8,12 +8,91 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2021**
 
+* [7 February 2021](#date-7-february-2021)
 * [31 January 2021](#date-31-january-2021)
 * [22 January 2021](#date-22-january-2021)
 * [15 January 2021](#date-15-january-2021)
 * [8 January 2021](#date-8-january-2021)
 
 ---
+
+## Date: 7 February 2021
+
+### What brought you joy this week?
+
+* AM has been doing amazing work scoping and developing the RAM role 🐏.
+  * Everyone likes to be asked their opinions and listened to 🥰🥰🥰
+* Maybe not exactly joy but very deep gratitude.
+  KP did SO MUCH work on the response to reviewers and I am so grateful for her expertise :heart_eyes_cat:
+* Meeting with Co-Is on the grant peer reviews was very affirming and lovely 😺
+  * "This RSF proposal has a co-PI arrangement. This is good to see. Whilst Whittaker [sic] is relatively inexperienced as PI, they are a rising star. Holmes is vastly experienced and I would expect them to provide excellent mentoring." 🌠🌠🌠
+  * "The PI seems well placed to lead the RSF. They are very experienced in areas of data management and analysis." 😊😊😊
+* Brilliant quote shared by LC:
+  * https://www.goodreads.com/quotes/145753-the-merest-accident-of-microgeography-had-meant-that-the-first
+  * > "The merest accident of microgeography had meant that the first man to hear the voice of Om, and who gave Om his view of humans, was a shepherd and not a goatherd.
+    > They have quite different ways of looking at the world, and the whole of history might have been different.
+    > For sheep are stupid, and have to be driven.
+    > But goats are intelligent, and need to be led."
+  * Thank you to MS for agreeing to be the first lab goatherd 🐐
+* Kickass 1:1 with EK - so excited for the Turing Way Communication Book! 📝
+* Great work from AM - really great coordination and stakeholder engagement work 🌻
+* I got to reuse a question from the ASG MTR: "Is there anything that you want to tell us that you haven't had the chance to say?" SUCH a great final prompt!
+* Caught up with AllyM who is always such a beautiful support 🌺
+* The Simply Secure team are just such a deep joy and privilege to work with.
+  * Particularly loved the discussion on the roots of internet freedom 🌐
+* Gave some career advice that I hope was useful.
+* Included on MELD & tedana 🎉 OHBM abstracts - very thoughtful.
+* Someone at Turing heard me when I said I was lonely and the next day sent me a good morning message ☀️
+* IKG found speaker for AIUK DSG session - very fun to look forward to!
+
+### What did you achieve
+
+* Submitted response to peer reviews for big grant!
+* Gave webinar to collaborators.
+  * New talk, I think it looked good and got the points across!
+  * Follow up chat with team.
+* Planning chat with LC, very very exciting threads.
+* Interviews for EnvSensors PDRA position - was super fun spending an afternoon with EM & SH.
+* Good coordination work on project with EK & HM.
+  * Approval for change of personnel ✅
+  * JD for potential collaborators
+* Dig down discussion w NL on strategy & alignment.
+* Final (for now!) lab meeting on (shepherd) goatherd role 🐐
+  * I'm excited to see how it shakes out.
+* 1:1s with GA, EK, MOR, ME, AI.
+* Chat with SA, plans for future collaborations.
+* BIDS Steering Group meeting - validator discussion!
+* Partnerships strategy planning.
+* Simply Secure identity workshop.
+* Attended BGT's talk for social data science workshop.
+* Prep for HDRUK interviews.
+* Collaborators joined Turing Slack 🎊
+* Doc apt for minor op.
+  So painful, but all over very quickly and no pain afterwards.
+  Phew!
+* Put myself forward for some media training.
+* Had a play around with some code to find temperatures patterns from around the world.
+  * Didn't finish it 😬
+
+### What did you struggle with?
+
+* Difficult conversations continue.
+  Worth it.
+  I hope.
+  * Just have to assume that betting on myself, my time, my value alignment is better than "conventional wisdom" 😩 🤞 💪
+* Ranting too much.
+  I don't like sounding negative all the time.
+  * Not nice when either to senior or more junior folks.
+    I probably need more rest / down time.
+* Kinda sorta said no to someone.... not in the most concrete way.
+  Could have been better.
+
+### Any other topics
+
+I had a bunch of doc / life stuff this week, and I think I dealt with work tasks.... ok around them.
+Workouts kinda dropped, but I made some good progress on my cross stitch.
+Watched all of FATE (The Winx Saga) over the weekend.
+Can't be that bad 🧚‍♀️
 
 ## Date: 31 January 2021
 
