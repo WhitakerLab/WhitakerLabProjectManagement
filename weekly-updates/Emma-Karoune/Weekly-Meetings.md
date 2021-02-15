@@ -1,7 +1,51 @@
 # Emma's Weekly Meeting Notes
 
+* [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Date: [17 February 2021]
+
+#### Who did you help this week?
+
+* I'm Lab Shepherd this week so helped the Whitaker Lab members with all of the lab documentation.
+* Peer mentoring session with ME on tues, also scheduled one with GA on friday.
+
+#### Who helped you this week?
+
+* ME - talking about Health Data.
+* HM - helping to review my meeting notes.
+
+#### What did you achieve?
+
+* Project intro powerpoint for lab meeting next week.
+* More meeting notes and powerpoint slides on Github.
+* Started team list notes.
+* More connecting with colleagues on project - helping collaboration.
+* Making more connections for the Guide for Communication - Marta M from Turing way community.
+* Made my own Turing Way Intro powerpoint for SG's Binder workshop.
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* 
+* UKRI ECR forum induction - need to speak about this.
+
+#### Where do you need help from Kirstie?
+
+* Overview of how different team on project fit in - website and list I have don't connect.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
+
+
 
 
 ### Date: 10 February 2021
@@ -54,7 +98,6 @@
 #### Any other topics
 
 This space is yours to add to as needed.
-
 
 
 
