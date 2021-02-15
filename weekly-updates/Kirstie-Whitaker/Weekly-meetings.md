@@ -8,6 +8,7 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2021**
 
+* [14 February 2021](#date-14-february-2021)
 * [7 February 2021](#date-7-february-2021)
 * [31 January 2021](#date-31-january-2021)
 * [22 January 2021](#date-22-january-2021)
@@ -15,6 +16,66 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * [8 January 2021](#date-8-january-2021)
 
 ---
+
+## Date: 14 February 2021
+
+### What brought you joy this week?
+
+* Working on a project coordinated over GitHub is SO FUN!
+  * Thank you AB & SH! 🌃
+* _The Turing Way_ recommended in "An Emerging Technology Charter for London" https://www.london.gov.uk/publications/emerging-technology-charter-london 🌟
+* LC's lab meeting was incredible 😻
+* Not exactly a joy, but CF helped me SO MUCH in getting my objectives written down this week.
+
+### What did you achieve
+
+* Objectivesaaaaaah!
+  * Redacted version at [objectives-2020-2021.md](objectives-2020-2021.md).
+* PhD candidate interviews for HDRUK Doctoral programme.
+* Talk on _The Turing Way_ "at" the University of Florida.
+  * https://doi.org/10.5281/zenodo.4537450
+* All hands for project was tough but ultimately eye opening and hopefully useful.
+* EnvSensors kick off meeting! 🌎🌍🌏
+  * Got a GitHub repo 🌟
+* Accenture Joint Steering Group meeting.
+  * Actually did some prep work for this one - felt like I had more context to be able to participate!
+* EAG discussion x2.
+* Contract & planning discussions.
+* Meeting on {reproducibility, reusability, openness} award.
+* Chat w Raphtory team & industry contributors.
+* 1:1 with IKG.
+* First part of the AutSpaces meet up.
+
+### What did you struggle with?
+
+* I signed up to do some work that I really shouldn't have said yes to.
+  The work doesn't benefit me in any way, I didn't enjoy it, and I didn't do a good job.
+  Importantly it meant that I left behind far far too many other tasks.
+  * Lesson for next time: **No is a complete sentence.**
+* I find giving remote talks really uninspiring.
+  The fact that I don't get to have interesting conversations with any of the ECRs really takes the shine off for me.
+* Difficult conversations keep going.
+  So far they're almost all in the direction that I reflected on over Christmas - needing to change my work practices from 2020 to give even a hope of some sustainability for 2021.
+  But a couple are figuring out pathways back from deep hurt and pain.
+  They're important but tough.
+  * Lesson for next time: Maybe go a little more gentle on myself?
+    I can't keep up full productivity and the emotional investment at the same time.
+* I should have had a better attitude towards objectives.
+  I _feel_ like we do them as we go along and that these are just bureaucracy, but they were a useful exercise.
+  And one that shouldn't have been done at the last minute.
+* I'm struggling to balance confidential discussions with a commitment to openness and transparency.
+  I think that's going to take a bit of deep planning in the next few weeks.
+* I fucked up and let someone down in a very non-graceful way.
+  They were incredibly understanding though.
+  * Lesson for next time: Say something earlier.
+
+### Any other topics
+
+Well, I think that proportion of joys to struggles fits my feelings about the week.
+
+New week.
+New start.
+Here we go.
 
 ## Date: 7 February 2021
 
