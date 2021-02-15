@@ -17,7 +17,7 @@
 ## Date: 11 February 2021
 
 ### What did we discuss?
-* IS gave ME feedback on one of her text extraction scripts (["Exctracting_histo_step_1_210208.ipynb"](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/scripts/text-extraction/Extracting_histo_step_1_210208.ipynb)), including advice on how it can be cleaned up/streamlined.
+* IS gave ME feedback on one of her text extraction scripts (["Extracting_histo_step_1_210208.ipynb"](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/scripts/text-extraction/Extracting_histo_step_1_210208.ipynb)), including advice on how it can be cleaned up/streamlined.
   * IS showed ME how several cells that contain the same structure of code can be converted into a function.
   * IS advised that functions that be moved into a separate .py file, and read into the Jupyter Notebook at the beginning.
     * IS explained that Jupyter Notebooks are unable to relocate memory; however, moving functions into a separate .py file can get around this problem and free up memory.
