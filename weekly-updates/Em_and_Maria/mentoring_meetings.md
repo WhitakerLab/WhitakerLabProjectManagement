@@ -16,7 +16,7 @@
 
 ### Introductions
 * Emma - I'm a UCl Alumni, not a health data scientist, I was at Institute of Archaeology studying palaeoecology and archaebotany.
-* Maria - PhD student a UCL - project on Paediatric epilepsy surgery & NHS data from GOSH. 
+* Maria - PhD student at UCL - project on Paediatric epilepsy surgery & NHS data from GOSH. 
 
 ### What brought you joy this week?
 
