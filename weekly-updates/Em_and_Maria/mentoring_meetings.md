@@ -4,23 +4,23 @@
 
 **Why?** Supporting learning about health data & GitHub
 
-**When?** Fortnightly (?), Tuesdays at 2:00pm (?)
+**When?** Fortnightly, Tuesdays at 2:00pm.
 
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
 
-**Next meeting:**
+**Next meeting:** [2nd March 2021]
 
 ## Date: [16 February 2021]
 
 ### Introductions
-* Emma
-* Maria
+* Emma - I'm a UCl Alumni, not a health data scientist, I was at Institute of Archaeology studying palaeoecology and archaebotany.
+* Maria - PhD student a UCL - project on Paediatric epilepsy surgery & NHS data from GOSH. 
 
 ### What brought you joy this week?
 
-* EK - LC's talk in last lab meeting.
+* EK - LC's talk in last lab meeting. :star:
 * ME
   * Spending time with friends in Finland :love_letter: I haven't had an extended bit of time in Finland since... I moved. So it's been really nice having lots of catch-ups, instead of having to squeeze everyone into a single weekend.
   * Lil Louie :dog::heartbeat:
@@ -29,7 +29,11 @@
 
 ### What did you achieve
 
-* EK - working on presentations for project and Turing Way, Turing way new chapter, lots of collaboration work with project.
+* EK 
+  * working on presentations for project and Turing Way. 
+  * Turing way new chapter - gathering people for case study interviews and rejigging the chapter after meeting with KW. 
+  * lots of collaboration work on project and meetings too.
+  * Lab shepherding this week.
 * ME
   * Set up a GitHub repo for a paper I'd like to publish :tada: How exciting! I've gotten most of my scripts moved over, and am loving the structure and organisation it is bringing to my work habits :surfer:
   * Finished cleaning my seizure/AED outcome data wohooo :muscle:
@@ -57,7 +61,9 @@
 
 ### Any other topics
 
-This space is yours to add to as needed.
+* We talked about health data - from EK project compared to ME project, electronic patient records, OMOP and ICD-10 and SNOMED codes. - thanks to ME for her knowledge on this!
+* Also discussed ways of working with Github - EK suggested using branches rather than fork. Make a new branch for each weeks meeting, edit file you want to edit, pull request, then add a reviewer (KW) and when reviewed merge it - also delete branch when it askes if you want to!
+* Discussed ME paper she is writing - EK suggested doing a research compendium - see link to [Turing Way-Research Compendia](https://the-turing-way.netlify.app/reproducible-research/compendia.html) and we talked about using Zenodo and OSF for adding DOI's. 
 
 
 
