@@ -41,6 +41,7 @@
   * Some basic GitHub things. For example:
     * How to comment on someone's PR (e.g. KW mentioned wanting others to review her weekly updates, but I'm not sure how to add comments throughout the document)
     * Unsure what's happening when I 'merge main branch'
+    * How do I add this document to my own forked version of the WhitakerLabProjectManagement
 
 ### Any other topics
 
