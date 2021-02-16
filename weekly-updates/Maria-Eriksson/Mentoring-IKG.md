@@ -30,6 +30,7 @@
 ### What brought you joy this week?
 
 * IKG
+  * Having some weight lifted off my shoulders at uni!
 * ME
   * Spending time with friends in Finland :love_letter: I haven't had an extended bit of time in Finland since... I moved. So it's been really nice having lots of catch-ups, instead of having to squeeze everyone into a single weekend.
   * Lil Louie :dog::heartbeat:
@@ -39,6 +40,7 @@
 ### What did you achieve
 
 * IKG
+  * Meeting with ME! Haha
 * ME
   * Set up a GitHub repo for a paper I'd like to publish :tada: How exciting! I've gotten most of my scripts moved over, and am loving the structure and organisation it is bringing to my work habits :surfer:
   * Finished cleaning my seizure/AED outcome data wohooo :muscle:
@@ -51,12 +53,14 @@
 ### What did you struggle with?
 
 * IKG
+  * Probably not being in the right headspace to answer this is one form of this past week's struggle, haha
 * ME
   * Had so MUCH to organise before my flight back to London. And felt quite unwell as a result. Glad that's done. Phew.
   * I'm stuck in my cross-validation script. But I'm thinking I'll come back to it after I wrap things up with the paper/new repo.
 
 ### What do you need help with? or need an opinion on?
 * IKG
+  * The EAG report! Still going through all your and Patricia's helpful comments!
 * ME
   * Some basic GitHub things. For example:
     * How to comment on someone's PR (e.g. KW mentioned wanting others to review her weekly updates, but I'm not sure how to add comments throughout the document)
