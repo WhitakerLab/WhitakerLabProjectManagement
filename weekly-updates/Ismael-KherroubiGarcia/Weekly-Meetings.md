@@ -25,10 +25,12 @@
 #### Who did you help this week?
 
 * I want to say: myself
+  * KW: :hibiscus:
 
 #### Who helped you this week?
 
 * YY and VF
+  * KW: So great.
 
 #### What did you achieve?
 
@@ -45,10 +47,12 @@
 #### Where do you need help from Kirstie?
 
 * Direction on the report -- who is the audience and what is the message?
+  * KW: Fab - lets go for senior leaders at the Turing and with two goals: this is a safe process of risk mitigation and responsible research *and* we want to enable good and exciting research.
 
 #### Any other topics
 
 * Hopefully postponing uni for a year, which is best for the sake of my mental and physical health. Just awaiting confirmation...
+  * KW: Thank you for updating me. You take care of yourself :sparkles:
 
 ---
 
