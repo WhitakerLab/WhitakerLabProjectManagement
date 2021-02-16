@@ -9,22 +9,38 @@
 ### What brought you joy this week?
 
 * EK - LC's talk in last lab meeting.
-* ME - 
+* ME
+  * Spending time with friends in Finland :love_letter: I haven't had an extended bit of time in Finland since... I moved. So it's been really nice having lots of catch-ups, instead of having to squeeze everyone into a single weekend.
+  * Lil Louie :dog::heartbeat:
+  * Getting into GitHub has been so FUN. Didn't think I'd have as much fun as I'm having :dancer:
+  * I looooved LC's talk at lab meeting :raised_hands:
 
 ### What did you achieve
 
 * EK - working on presentations for project and Turing Way, Turing way new chapter, lots of collaboration work with project.
-* ME - 
+* ME
+  * Set up a GitHub repo for a paper I'd like to publish :tada: How exciting! I've gotten most of my scripts moved over, and am loving the structure and organisation it is bringing to my work habits :surfer:
+  * Finished cleaning my seizure/AED outcome data wohooo :muscle:
+  * Reached out to HJ (Engage@Turing student) and had a lovely chat :coffee: I pitched having co-working sessions with Engage@Turing students - let's see if the other reps like the idea... 👀
+  * Had a great mentoring session with IS - super excited to incorporate her feedback into my script! :pray:
+  * Attended a bunch of talks & seminars: HDRUK Turing Health Data Science Seminar, Developmental Neuroscience Seminar, Turing Student Seminar, BRC Symposium, ICH Neurosciences Seminar.
+  * Had some lovely co-working sessions with my data buds :sparkling_heart:
+  * I was invited to collaborate on a study with a new PhD student/surgeon trainee, and provided feedback on the project proposal.
 
 ### What did you struggle with?
 
 * EK - overworking is an issue I struggle with.
-* ME - 
+* ME
+  * Had so MUCH to organise before my flight back to London. And felt quite unwell as a result. Glad that's done. Phew.
+  * I'm stuck in my cross-validation script. But I'm thinking I'll come back to it after I wrap things up with the paper/new repo.
 
 ### What do you need help with? or need an opinion on?
 * EK - making sense of health data - would be good to talk this through with you.
-* ME - 
-
+  * Looking forward to chatting about this!
+* ME
+  * Some basic GitHub things. For example:
+    * How to comment on someone's PR (e.g. KW mentioned wanting others to review her weekly updates, but I'm not sure how to add comments throughout the document)
+    * Unsure what's happening when I 'merge main branch'
 
 ### Any other topics
 
