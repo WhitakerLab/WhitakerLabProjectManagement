@@ -1,6 +1,18 @@
 # Emma and Maria's Mentoring Meetings
 
-## Date: [16th Feb @2pm]
+* [16 February 2021](#date-16-february-2021)
+
+**Why?** Supporting learning about health data & GitHub
+
+**When?** Fortnightly (?), Tuesdays at 2:00pm (?)
+
+**Where?** Microsoft Teams
+
+**For how long?** 1 hour
+
+**Next meeting:**
+
+## Date: [16 February 2021]
 
 ### Introductions
 * Emma
