@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [16 February 2021](#date-16-February-2021)
 * [19 January 2021](#date-19-january-2021)
 * [15 December 2020](#date-15-december-2020)
 * [01 December 2020](#date-01-december-2020)
@@ -16,6 +17,38 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 16 February 2021
+
+#### Who did you help this week?
+
+* I want to say: myself
+
+#### Who helped you this week?
+
+* YY and VF
+
+#### What did you achieve?
+
+* Drafted an EAG report for senior leaders
+
+#### What did you struggle with?
+
+* Still uni. Although I am hopefully on the right track now.
+
+#### What would you like to work on next week?
+
+* Finalise the EAG report
+
+#### Where do you need help from Kirstie?
+
+* Direction on the report -- who is the audience and what is the message?
+
+#### Any other topics
+
+* Hopefully postponing uni for a year, which is best for the sake of my mental and physical health. Just awaiting confirmation...
 
 ---
 
