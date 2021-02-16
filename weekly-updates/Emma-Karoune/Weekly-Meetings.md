@@ -9,36 +9,36 @@
 
 #### Who did you help this week?
 
-* I'm Lab Shepherd this week so helped the Whitaker Lab members with all of the lab documentation.
+* I'm Lab Shepherd this week so helped the Whitaker Lab members with all of the lab documentation - chose theme of cool/useful tools/apps and lined up SB to talk about Openminded Duet and Tweetdeck.
 * Peer mentoring session with ME on tues, also scheduled one with GA on friday.
 
 #### Who helped you this week?
 
-* ME - talking about Health Data.
+* ME - talking about Health Data. This was very helpful for me as I could ask alot of silly questions!
 * HM - helping to review my meeting notes.
 
 #### What did you achieve?
 
-* Project intro powerpoint for lab meeting next week.
+* Project intro powerpoint for lab meeting next week - mostly done now as have collated all the info I need and just needs polishing.
 * More meeting notes and powerpoint slides on Github.
-* Started team list notes.
+* Started project team email list notes.
 * More connecting with colleagues on project - helping collaboration.
-* Making more connections for the Guide for Communication - Marta M from Turing way community.
-* Made my own Turing Way Intro powerpoint for SG's Binder workshop.
+* Making more connections for the Guide for Communication - Marta M from Turing way community, case studies for different types of communication are coming in.
+* Started to make my own Turing Way Intro powerpoint for SG's Binder workshop.
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* All ok.
 
 #### What would you like to work on next week?
 
-* 
-* UKRI ECR forum induction - need to speak about this.
+* Finalising my project intro pwpt and also Turing way one for Binder workshop.
+* UKRI ECR forum induction - we need to speak about this.
 
 #### Where do you need help from Kirstie?
 
-* Overview of how different team on project fit in - website and list I have don't connect.
+* Overview of how different teams on project fit in - website and list I have don't connect. 
+* Checking data flow diagram for project with you.
 
 #### Any other topics
 
