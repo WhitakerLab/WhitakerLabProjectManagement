@@ -18,6 +18,7 @@
 #### What did you achieve?
 #### What did you struggle with?
 #### Any other topics
+#### Next meeting
 
 ## Date: 17 February 2021
 
@@ -78,3 +79,6 @@
   * IKG and KW have discussed [a recent paper](https://journals.sagepub.com/doi/full/10.1177/0959354319835322) ([Twitter thread](https://twitter.com/siminevazire/status/1361569740737552386?s=21))
 * General discussion about confidence in research/academia & work
 
+### Next meeting
+
+* Further discussion on IKG's potential research project at Turing (following his discussion with KW the day before)
