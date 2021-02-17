@@ -32,7 +32,7 @@
 
 #### What would you like to work on next week?
 
-* Finalising my project intro pwpt and also Turing way one for Binder workshop.
+* Finalising project intro pwpt and also Turing way one for Binder workshop.
 * UKRI ECR forum induction - we need to speak about this.
 
 #### Where do you need help from Kirstie?
