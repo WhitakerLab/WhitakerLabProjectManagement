@@ -2,7 +2,7 @@
 
 * [17 February 2021](#date-17-february-2021)
 
-**Why?** 
+**Why?** Sharing of knowledge relating to ethics, research practises and health care data
 
 **When?** Fortnightly, Wednesdays at 9:15am
 
