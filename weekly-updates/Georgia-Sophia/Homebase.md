@@ -1,14 +1,9 @@
----
-title: 'Homebase for Sophia and Georgia'
-disqus: hackmd
----
 
 Homebase for Sophia and Georgia
 ===
 **Pupose of doc:** to be the center point for docs and files related to Sophia's role in AutSPACEs, and to capture the Outstanding Action Items
 
 Meeting Time: 10 - 12 Wednesdays
-Meeting Link: [link](https://us02web.zoom.us/j/87208720767?pwd=KzRvMS9rdFc3QUVpVVh3WHZGVGNXUT09) || Meeting ID: 872 0872 0767 || Passcode: AutSPACEs
 
 Contact Information:
 - Sophia: [:octopus: github](https://github.com/BrainonSilicon) || :email: ssmbatchelor@gmail.com
