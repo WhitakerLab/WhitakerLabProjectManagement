@@ -21,33 +21,46 @@ Georgia's weekly meeting notes.
 * IS helped me with web build problems
 * SB helped me run co-working session
 * JK helped me with this very PR
+  * KW: WOOOO! :confetti_ball:
+  * Can we set up a co-working session with me, you and him? Maybe one weekend - ask him and then we can coordinate on slack :sparkling_heart:
 
 #### What did you achieve?
 
 * Second co-working session
-* Recruited new collaborator with Django knowledge! 
+* Recruited new collaborator with Django knowledge!
+  * KW: Exciting!! :tada: 
 * Building Twitter strategy with SB and SF
 * Co-working with JS
 * Finished Feb newsletter
 * Worked on incorporating gov.uk components for MVP/getting some help from old GDS team :)
-* Started exploring Canva (thanks Sophia!)
+  * KW: Super fun! :rocket: :star2:
+* Started exploring Canva (thanks SB!)
 * Objectives submitted  
 
 #### What did you struggle with?
 
 * Zoom :( 
+  * KW: Can you have a read through of this section - and maybe enhance it for the Turing Way: https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-chairs.html?highlight=remote%20working#short-workshops-up-skilling-or-discussion-sessions
+    * For example: how do you deal with plans changing? What do you do if zoom doesn't work :sob:? What if the folks you were expecting aren't there? How do you deal with changing agenda items based on who turns up? What if the group is really small? What if the group is really large? How manage very different interests etc? 
+    * Remember to join 10 mins early and maybe good to have a back up host / helper just in case there are other problems.
+  * We also would ideally have a version of this page for these meetings: https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html 
+  * A key difference is that we have a broader range of accessibility requirements than a typical Turing Way meeting - BUT OLS has fantastic resources so worth looking to bring those in too.
 * html/Django rendering on localhost- getting help from JK and IS
 
 #### Where do you need help from Kirstie?
 
-* Wellcome/funding - next steps 
-* reviewing Feb newsletter 
+* Wellcome/funding - next steps
+* reviewing Feb newsletter
+  * KW: This is a good slack nudge - please just send messages when I need to double check things like this :white_check_mark:
 
 #### What would you like to work on next week?
 
 * Lots of platform building
 * Funding stuff
 * Supporting community to do tasks independently
+* KW: Ask EK to work with you on understanding git merge conflicts.
+  * Scope what a chapter in the Turing Way would look like to demonstrate merge conflict resolution
+  * We have this content: https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-git-merge.html?highlight=merge%20conflict#merge-conflicts but it may need sprucing up to be super useful! 
 
 ### Date: 03 February 2021
 
