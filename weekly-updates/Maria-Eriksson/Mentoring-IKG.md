@@ -69,7 +69,10 @@
       * [Horizon2020](https://ec.europa.eu/programmes/horizon2020/en)
       * [Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu)
       * [NHX guidance](https://www.nhsx.nhs.uk/media/documents/NHSX_AI_report.pdf)
+      * [NHSX: AI Ethics Initiative](https://www.nhsx.nhs.uk/ai-lab/ai-lab-programmes/ethics/)
       * [Health Research Authority](https://www.hra.nhs.uk) (who are able to review reports sent to them)
+      * [IKG's blog](https://medium.com/@ismaelkherroubi/clarifying-ethical-research-fec39fc181)
+     
 
 ### Any other topics
 
