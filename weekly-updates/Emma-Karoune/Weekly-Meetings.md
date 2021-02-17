@@ -1,7 +1,60 @@
 # Emma's Weekly Meeting Notes
 
+* [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Date: [17 February 2021]
+
+#### Who did you help this week?
+
+* I'm Lab Goatherd this week so helped the Whitaker Lab members with all of the lab documentation - chose theme of cool/useful tools/apps and lined up SB to talk about Openminded Duet and Tweetdeck.
+  * KW: I'm so delighted :goat:
+* Peer mentoring session with ME on tues, also scheduled one with GA on friday.
+
+#### Who helped you this week?
+
+* ME - talking about Health Data. This was very helpful for me as I could ask alot of silly questions!
+* HM - helping to review my meeting notes.
+
+KW: What lovely people - I'm so glad :purple_heart:
+
+#### What did you achieve?
+
+* Project intro powerpoint for lab meeting next week - mostly done now as have collated all the info I need and just needs polishing.
+* More meeting notes and powerpoint slides on Github.
+* Started project team email list notes.
+* More connecting with colleagues on project - helping collaboration.
+  * KW: Please do ask HM to add you to the DRFs and send request to DTC.
+  * KW: I really like your point about how much information is in the previous talks & knowledge shares. Something like a "past presentation of the week" and email around with a bit of a blurb saying this is why you should make sure you've watched it??
+* Making more connections for the Guide for Communication - Marta M from Turing way community, case studies for different types of communication are coming in.
+* Started to make my own Turing Way Intro powerpoint for SG's Binder workshop.
+  * KW: Can you make sure you let AB know about the workshop? TPS newsletter and Turing bulletin.
+
+KW: These are all fantastic!! Great stuff!
+
+#### What did you struggle with?
+
+* All ok.
+  * KW: :smiling_face_with_three_hearts:
+
+#### What would you like to work on next week?
+
+* Finalising project intro pwpt and also Turing way one for Binder workshop.
+  * KW: FAB! (May I have a copy before my presentation to the exec?!)
+* UKRI ECR forum induction - we need to speak about this.
+  * KW: This sounds so fantastic. Please do wear your Turing Way hat and report back on anything you learn / insights etc :star2:
+
+#### Where do you need help from Kirstie?
+
+* Overview of how different teams on project fit in - website and list I have don't connect.
+  * KW: Lets chat on slack to check on this! :saurons_eye_emoji: :wink: 
+* Checking data flow diagram for project with you.
+  * KW: There's a technical paper draft floating around to be honest... ping me on slack to see if I can surface it!
+* Student engagement form
+  * KW: YESSSS - keep nudging me on this.
+
 
 
 ### Date: 10 February 2021
@@ -54,7 +107,6 @@
 #### Any other topics
 
 This space is yours to add to as needed.
-
 
 
 
