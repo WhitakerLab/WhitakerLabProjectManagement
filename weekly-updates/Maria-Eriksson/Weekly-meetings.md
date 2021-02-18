@@ -40,6 +40,7 @@
 * Invited to collaborate on a study with a new PhD student/surgeon trainee, and provided feedback on the project proposal.
 * Had a meeting with paediatrician (who conducts national epilepsy audits) who wants to collaborate on data standards.
 * Invited to collaborate on AI / ML project in video analysis of carer recorded video, potentially inputting on ethics.
+* Wrote two scripts: [visualise seizure outcome over time](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/scripts/data-visualisation/Seizure_outcome_over_time.R) and [visualise AED use over time](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/scripts/data-visualisation/AED_outcome_over_time_210216.R).
 
 #### What did you struggle with?
 
@@ -49,7 +50,7 @@
 
 #### What would you like to work on next week?
 
-* Cleaning up GOSH-2000-2018-paper repo: tidying databases, updating scripts, writing outstanding scripts.
+* Cleaning up GOSH-2000-2018-paper repo: [tidying databases, updating scripts, writing outstanding scripts ](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues).
 
 #### Where do you need help from Kirstie?
 
