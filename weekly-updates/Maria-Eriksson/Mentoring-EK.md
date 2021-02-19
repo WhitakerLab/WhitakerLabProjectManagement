@@ -1,4 +1,4 @@
-# Emma and Maria's Mentoring Meetings
+# Mentoring Sessions with Emma
 
 * [16 February 2021](#date-16-february-2021)
 
@@ -64,9 +64,6 @@
 * We talked about health data - from EK project compared to ME project, electronic patient records, OMOP and ICD-10 and SNOMED codes. - thanks to ME for her knowledge on this!
 * Also discussed ways of working with Github - EK suggested using branches rather than fork. Make a new branch for each weeks meeting, edit file you want to edit, pull request, then add a reviewer (KW) and when reviewed merge it - also delete branch when it askes if you want to!
 * Discussed ME paper she is writing - EK suggested doing a research compendium - see link to [Turing Way-Research Compendia](https://the-turing-way.netlify.app/reproducible-research/compendia.html) and we talked about using Zenodo and OSF for adding DOI's. 
-
-
-
 
 # Template
 
