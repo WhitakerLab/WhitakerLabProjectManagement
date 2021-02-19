@@ -67,3 +67,10 @@
 ### What did we discuss? 
 * [scona's GitHub repo](https://github.com/WhitakerLab/scona). 
   * ME had previously looked through this repo, and [made comments](https://hackmd.io/zzSlKTK8Q4e-qKv-QSEWcw).
+
+# Template
+
+## Date: [INSERT DATE OF MEETING]
+### What did we discuss?
+### Goals for next week's meeting
+### Other
