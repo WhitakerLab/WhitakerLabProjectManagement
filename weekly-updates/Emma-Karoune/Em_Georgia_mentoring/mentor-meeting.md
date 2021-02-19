@@ -31,9 +31,9 @@
 ### Any other topics
 
 * We talked about:
-  * AutSPACES 
-  * autism in general and EK talked about working with autistic children in schools
-  * Community managing this project - having lots of different options for inputting knowledge/contributing to the project, remote collaborative writing using google doc might be a way to collect opinions/work together.
+  * AutSPACES. 
+  * autism in general and EK talked about working with autistic children in schools.
+  * Community managing this project - having lots of different options for inputting knowledge/contributing to the project, remote collaborative writing using google doc might be a way to collect opinions/work together, individualising contact is the way of the community manager.
   * Also tried to fix Github - EK referring GA to MS for more help.
 
 
