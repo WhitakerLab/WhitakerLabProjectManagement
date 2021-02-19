@@ -18,7 +18,7 @@
 
 ### What brought you joy this week?
 
-* EK - having these mentor meetings and being lab goatherd has been enjoyable.
+* EK - having these mentor meetings and being lab goatherd :goat: has been enjoyable.
 
 ### What did you achieve
 
