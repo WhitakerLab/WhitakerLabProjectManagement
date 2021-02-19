@@ -10,7 +10,7 @@
 
 **For how long?** 1 hour
 
-**Next meeting:** [ March 2021]
+**Next meeting:** [5th March 2021]
 
 
 
