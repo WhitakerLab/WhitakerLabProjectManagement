@@ -30,8 +30,11 @@
 
 ### Any other topics
 
-This space is yours to add to as needed.
-
+* We talked about:
+  * AutSPACES 
+  * autism in general and EK talked about working with autistic children in schools
+  * Community managing this project - having lots of different options for inputting knowledge/contributing to the project, remote collaborative writing using google doc might be a way to collect opinions/work together.
+  * Also tried to fix Github - EK referring GA to MS for more help.
 
 
 # Template
