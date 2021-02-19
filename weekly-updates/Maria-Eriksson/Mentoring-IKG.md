@@ -55,7 +55,7 @@
   * IKG and KW have discussed [a recent paper](https://journals.sagepub.com/doi/full/10.1177/0959354319835322) ([Twitter thread](https://twitter.com/siminevazire/status/1361569740737552386?s=21))
 * General discussion about confidence in research/academia & work
 * IKG suggested looking into Participatory science and pointed to the following resources:
-  * [frameworks provided by the government](https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology
+  * [frameworks provided by the government](https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology)
   * [Horizon2020](https://ec.europa.eu/programmes/horizon2020/en)
   * [Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu)
   * [NHX guidance](https://www.nhsx.nhs.uk/media/documents/NHSX_AI_report.pdf)
