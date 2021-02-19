@@ -12,7 +12,7 @@
 
 **Next meeting:** [2nd March 2021]
 
-## Date: [16 February 2021]
+## Date: 16 February 2021
 
 ### Introductions
 * Emma - I'm a UCl Alumni, not a health data scientist, I was at Institute of Archaeology studying palaeoecology and archaebotany.
