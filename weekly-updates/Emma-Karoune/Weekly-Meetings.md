@@ -14,29 +14,29 @@
 
 #### Who helped you this week?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+* MS - helped me with a template for the lab blog.
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* Finished the project intro powerpoint and notes.
+* Made my first my binder repo/my binder thingy - not sure the right term! - and wrote a blog for the upcoming workshop.
+* Finished intro to Turing Way pwpt for Binder workshop next week.
+* Attended talks for the UKRI ECR forum induction week - there were alot! :dizzy_face:
+* Arranged meetings with Remi Gau and Isil Bilgin next week.
+* Finished my lab goatherd duties by writing the blog - now needs reviewing and publishing.
+* Mentor meeting with GA.
+* Attended project meetings and wrote up notes.
 
 #### What did you struggle with?
-
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
-
+* GA's Github tangle - need to learn how to use from command line for ultimate power :muscle:
+  
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Focus on Turing Way chapter to rework it and continue the first draft including academic paper and authorship sections.
 
 #### Where do you need help from Kirstie?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Please can I get access to the repo for the lab blog as I've written it and just needs adding there and reviewing.
 
 #### Any other topics
 
