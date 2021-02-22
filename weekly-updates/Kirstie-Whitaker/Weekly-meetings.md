@@ -99,7 +99,7 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * Accidentally stood on a mini landmine.
   Was a good opportunity to calibrate my bluntness.
   That was definitely a "woah, I didn't realise I was going into a difficult territory" moment.
-  * Lesson for next time: I think there are probably sensitivities than I realise.
+  * Lesson for next time: I think there are probably more sensitivities than I realise.
     And, like, we're 11 months into a global pandemic.
     It's ok to be softer than I think I need to be.
 * Hilariously, after writing up all of what I did, I really really didn't get as much done as I should have done last week.
