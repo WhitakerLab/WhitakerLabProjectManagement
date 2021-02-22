@@ -52,8 +52,9 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
   * http://elink.turing.ac.uk/m/1/59207972/p1-b21050-e368bf4a814a4324a28ac2cb84e12511/1/13/843f7bf5-d1bc-4395-b06f-13236425037e
 * Maybe not exactly joy, but I helped a few friends through difficult frustrations with unsupportive colleagues (not at Turing) this week.
   * I'm glad I could be of some help.
-  * Also, its motherlode dude.
-    Not motherload.
+  * Also, its mother lode dude.
+    Not mother load.
+    * https://en.wikipedia.org/wiki/Mother_lode
 
 ### What did you achieve
 
