@@ -1,5 +1,6 @@
 # Mentoring Sessions with Isla
 
+* [23 February 2021](#date-23-february-2021)
 * [11 February 2021](#date-11-february-2021)
 * [26 January 2021](#date-26-january-2021)
 * [15 January 2021](#date-15-january-2021)
@@ -12,7 +13,20 @@
 
 **For how long?** 1 hour
 
-**Next meeting** 23 February 2021
+**Next meeting** 
+
+## Date: 23 February 2021
+
+## Questions for the meeting
+
+* ME: How does one remove a commit from the commit history? Say one by mistake commits (and pushes) a file that contains sensitive information. Even once one has deleted the file, the file is still accessible from the commit history? I looked into these answers ([solution 1](https://docs.github.com/en/github/managing-large-files/removing-files-from-a-repositorys-history), [solution 2](https://docs.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository) and [solution 3](https://stackoverflow.com/questions/43762338/how-to-remove-file-from-git-history), but could not get them to work, so I ended up deleting the entire repository (and then setting it up again), but that doesn't seem like a sustainable solution...
+* ME: What way of working would IS recommend? There's using the web browser or Terminal, but also GitHub Desktop and VS code?
+
+### What did we discuss?
+
+### Goals for next week's meeting
+
+### Other
 
 ## Date: 11 February 2021
 
