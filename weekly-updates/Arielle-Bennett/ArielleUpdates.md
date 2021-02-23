@@ -9,41 +9,67 @@
 *Shorter interval due to rejigging around leave*
 
 #### Who did you help this week?
-* Reviewed & approved some pull requests on The Turing Way 
-* Have chased and followed up on a whole lot of OA funding that still needs resolving 
-* Arranged meetings for Raphtory so they can sort the compute resources they need for the project (at last!) 
-* NoCell / QUiPP / DSH resourcing is resolved! 
+* Helped MS by reviewing some PRs for The Turing Way
+  * KW: YAY! :confetti_ball:
+* Feeling good that my job lets me help folks across the Turing publish their work open access.
+  * KW: YAY! :confetti_ball:
+* Raphtory team - help to navigate confusing pathways :world_map:  
+  * KW: SO helpful!
+* Lockdown 3 resourcing movearound is resolved! 
+  * KW: YAY! :confetti_ball:
 
 #### Who helped you this week?
 * MOR & JR who have already met with Raphtory 
+  * KW: GREAT STUFF - thank you to them.
 * HMc as always 
+  * :bouquet:
 * MS - had a v productive conversation as part of our 1:1s 
+  * KW: So delighted.
 
 #### What did you achieve?
-* ASG Closedown is as done as it can be from my perspective! 
+* Big big big piece of project management work is as done as it can be from my perspective! 
 * Felt unblocked on a lot of little bits and pieces that I can now get moving again 
+* Have chased and followed up on a whole lot of OA funding that still needs resolving 
+* Reviewed & approved some pull requests on The Turing Way
+  * KW: Very cool! Moved from the "who did you help section" because it's a lot of work! An achievement :stars:
+    * https://github.com/alan-turing-institute/the-turing-way/pull/1735
+    * https://github.com/alan-turing-institute/the-turing-way/pull/1692
+* Arranged meetings for Raphtory so they can sort the compute resources they need for the project (at last!) 
+* Handover of projects to TPS.... kinda
 
 #### What bought you joy this week?
 * Great co-working with LC on ethics book! More planned!
+  * KW: Love this :fist:
+  * https://github.com/alan-turing-institute/the-turing-way/pull/1675
 * Good TPS Coffee chat!
-* Feeling more confident with GitHub... 
+  * KW: I'm so glad I could make the last little bit - THANK YOU for coordinating this!
+* Feeling more confident with GitHub...
+  * KW: So cool! Well done :stars:
 
 #### What did you struggle with?
-* ASG closedown - we didn't receive all the SOEs we were expecting which is frustrating
+* The big big piece of project management work - we didn't receive all the information we were expecting which is frustrating
+  * KW: YOU HAVE DONE SO MUCH HARD WORK AND I AM VERY GRATEFUL
 
 #### What would you like to work on next week?
 * Planning to put in some sessions so we can get the activism chapter sorted
-* Looking forward to tomorrow's TPS seminar! 
+  * KW: So so so excited for this chapter :scream_cat:
+* Looking forward to tomorrow's TPS seminar!
+  * KW: ME TOO! :rocket: :star2:
 * Starting to work on Year End requirements - do not want a scramble at the end of March 
+  * KW: This brings me SO MUCH JOY - yes - even though I'll be the last person to actually do the thing :weary: :grimacing:
 * Part of that is filling out more structure on tracking documents for budgets etc which is also a v useful exercise in itself 
+  * KW: YES - super into that! :100:
 
 #### Where do you need help from Kirstie?
 * Feedback on Governance document by tomorrow 
-* Add anything to the email from James Lloyd on TPS achievements April 2020 - March 2021 
+  * KW: AAAAAAH - if I don't reply by tomorrow then circulate for feedback.
+    I think MS had some.
+* Add anything to the email from JL on TPS achievements April 2020 - March 2021 
+  * KW: Pinged a couple of thoughts - thank you!
 
 #### Any other topics
-* The early Spring and moving past the big admin task has really improved my mood this week :D 
-
+* The early Spring and moving past the big admin task has really improved my mood this week :D
+  * KW: :sunshine:
 
 ## Date: 15 February 2021 (w/e 14 Feburary 2021) 
 
