@@ -22,6 +22,7 @@
 * ME: How does one remove a commit from the commit history? Say one by mistake commits (and pushes) a file that contains sensitive information. Even once one has deleted the file, the file is still accessible from the commit history? I looked into these answers ([solution 1](https://docs.github.com/en/github/managing-large-files/removing-files-from-a-repositorys-history), [solution 2](https://docs.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository) and [solution 3](https://stackoverflow.com/questions/43762338/how-to-remove-file-from-git-history)), but could not get them to work, so I ended up deleting the entire repository (and then setting it up again), but that doesn't seem like a sustainable solution...
 * ME: What way of working would IS recommend? There's using the web browser or Terminal, but also GitHub Desktop and VS code?
 * ME: What happens to comments that reviewers leave on files on GitHub? For example, when KW reviewed this file, she left comments, but once those comments were accepted, and the file was merged, those comments seemed to disappear?
+* ME: When creating a .py file that contains functions (which are read into a Jupyter Notebook), does one need to add "import packages" to the .py if the functions defined in the .py file use specific packages, or should those packages simply be imported at the start of the Jupyter Notebook?
 
 ### What did we discuss?
 
