@@ -2,9 +2,50 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
 
-### Date: 15 February 2021 (w/e 14 Feburary 2021) 
+## Date: 23 February 2021
+*Shorter interval due to rejigging around leave*
+
+#### Who did you help this week?
+* Reviewed & approved some pull requests on The Turing Way 
+* Have chased and followed up on a whole lot of OA funding that still needs resolving 
+* Arranged meetings for Raphtory so they can sort the compute resources they need for the project (at last!) 
+* NoCell / QUiPP / DSH resourcing is resolved! 
+
+#### Who helped you this week?
+* MOR & JR who have already met with Raphtory 
+* HMc as always 
+* MS - had a v productive conversation as part of our 1:1s 
+
+#### What did you achieve?
+* ASG Closedown is as done as it can be from my perspective! 
+* Felt unblocked on a lot of little bits and pieces that I can now get moving again 
+
+#### What bought you joy this week?
+* Great co-working with LC on ethics book! More planned!
+* Good TPS Coffee chat!
+* Feeling more confident with GitHub... 
+
+#### What did you struggle with?
+* ASG closedown - we didn't receive all the SOEs we were expecting which is frustrating
+
+#### What would you like to work on next week?
+* Planning to put in some sessions so we can get the activism chapter sorted
+* Looking forward to tomorrow's TPS seminar! 
+* Starting to work on Year End requirements - do not want a scramble at the end of March 
+* Part of that is filling out more structure on tracking documents for budgets etc which is also a v useful exercise in itself 
+
+#### Where do you need help from Kirstie?
+* Feedback on Governance document by tomorrow 
+* Add anything to the email from James Lloyd on TPS achievements April 2020 - March 2021 
+
+#### Any other topics
+* The early Spring and moving past the big admin task has really improved my mood this week :D 
+
+
+## Date: 15 February 2021 (w/e 14 Feburary 2021) 
 
 #### Who did you help this week?
 
