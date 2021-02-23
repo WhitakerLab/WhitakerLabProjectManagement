@@ -11,15 +11,17 @@
 
 * Mentor meeting with GA - talked about Autism in general, being a community manager and also I tried helping with GH (we merged the most recent PR but can we just delete the rest? as a total tangle).
 * Helped KW with Exec presentation slides.
+* Helped SG with a bug in her Binder workshop.
 
 #### Who helped you this week?
 
 * MS - helped me with a template for the lab blog.
+* SG - checked over my slides.
 
 #### What did you achieve?
 
 * Finished the project intro powerpoint and notes.
-* Made my first my binder repo/my binder thingy - not sure the right term! - and wrote a blog for the upcoming workshop.
+* Made my first binder repo/my binder thingy - not sure the right term! - and wrote a blog for the upcoming workshop.
 * Finished intro to Turing Way pwpt for Binder workshop next week.
 * Attended talks for the UKRI ECR forum induction week - there were alot! :dizzy_face:
 * Arranged meetings with Remi Gau and Isil Bilgin next week.
