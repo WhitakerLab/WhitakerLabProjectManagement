@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [18 February 2021](#date-18-february-2021)
 * [4 February 2021](#date-4-february-2021)
 * [7 January 2021](#date-7-january-2021)
 * [9 December 2020](#date-9-december-2020)
@@ -15,6 +16,48 @@
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
 
+### Date: 18 February 2021
+
+#### Who did you help this week?
+
+* [Mentoring session with IKG](https://github.com/MariaEriksson/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-IKG.md)
+* [Mentoring session with IS](https://github.com/MariaEriksson/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-IS.md)
+* [Mentoring session with EK](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/Em_Maria_meeting_notes/weekly-updates/Em_and_Maria/mentoring_meetings.md)
+
+#### Who helped you this week?
+
+* IKG: ethics questions
+* IS: text extraction scripts
+* EK: GitHub questions
+
+#### What did you achieve?
+
+* Set up a GitHub repo for a paper I'd like to publish :tada: How exciting! I've gotten most of my scripts moved over, and am loving the structure and organisation it is bringing to my work habits :surfer:
+* Finished cleaning my seizure/AED outcome data wohooo :muscle:
+* Reached out to HJ (Engage@Turing student) and had a lovely chat :coffee: I pitched having co-working sessions with Engage@Turing students - let's see if the other reps like the idea... :eyes:
+* Attended a bunch of talks & seminars: HDRUK Turing Health Data Science Seminar, Developmental Neuroscience Seminar, Turing Student Seminar, BRC Symposium, ICH Neurosciences Seminar, Royal Society of Medicine AI in healthcare: From development to deployment.
+* Had some lovely co-working sessions with my data buds :sparkling_heart:
+* Invited to collaborate on a study with a new PhD student/surgeon trainee, and provided feedback on the project proposal.
+* Had a meeting with paediatrician (who conducts national epilepsy audits) who wants to collaborate on data standards.
+* Invited to collaborate on AI / ML project in video analysis of carer recorded video, potentially inputting on ethics.
+* Wrote two scripts: [visualise seizure outcome over time](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/scripts/data-visualisation/Seizure_outcome_over_time.R) and [visualise AED use over time](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/scripts/data-visualisation/AED_outcome_over_time_210216.R).
+
+#### What did you struggle with?
+
+* Had so MUCH to organise before my flight back to London. And felt quite unwell as a result. Glad that's done. Phew.
+* I'm stuck in my cross-validation script. But I'm thinking I'll come back to it after I wrap things up with the paper/new repo.
+* Knowing which collaborations to say 'yes' and 'no' to.
+
+#### What would you like to work on next week?
+
+* Cleaning up GOSH-2000-2018-paper repo: [tidying databases, updating scripts, writing outstanding scripts ](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues).
+
+#### Where do you need help from Kirstie?
+
+* I would love to hear what you think of the GOSH-2000-2018-paper repo
+* I would love opinion on potential collaborations
+
+#### Any other topics
 
 ### Date: 4 February 2021
 
