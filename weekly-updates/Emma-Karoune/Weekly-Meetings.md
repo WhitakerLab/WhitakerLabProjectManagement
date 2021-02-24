@@ -5,18 +5,23 @@
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: [24 February 2021]
+### Date: 24 February 2021
 
 #### Who did you help this week?
 
 * Mentor meeting with GA - talked about Autism in general, being a community manager and also I tried helping with GH (we merged the most recent PR but can we just delete the rest? as a total tangle).
+  * KW: Yes - if you can confirm that the content is merged then go ahead and close the left over PRs :white_check_mark:
 * Helped KW with Exec presentation slides.
-* Helped SG with a bug in her Binder workshop.
+  * KW: YES! Thank you!
+* Helped SG with a bug in her Binder workshop -- next Wednesday 50 people signed up!
+  * KW: GREAT! :star2::star2::star2:
 
 #### Who helped you this week?
 
 * MS - helped me with a template for the lab blog.
+  * KW: Exciting!
 * SG - checked over my slides.
+  * KW: Great stuff!
 
 #### What did you achieve?
 
@@ -24,17 +29,22 @@
 * Made my first binder repo/my binder thingy - not sure the right term! - and wrote a blog for the upcoming workshop.
 * Finished intro to Turing Way pwpt for Binder workshop next week.
 * Attended talks for the UKRI ECR forum induction week - there were alot! :dizzy_face:
-* Arranged meetings with Remi Gau and Isil Bilgin next week.
+* Arranged meetings with RG and IB next week.
+  * KW: This is super exciting - please let me know how it all goes :sparkles:
 * Finished my lab goatherd duties by writing the blog - now needs reviewing and publishing.
+  * KW: Super helpful - thank you - I'll have a think about feeding into the template to make this easier.
 * Mentor meeting with GA.
 * Attended project meetings and wrote up notes.
 
 #### What did you struggle with?
+
 * GA's Github tangle - need to learn how to use from command line for ultimate power :muscle:
   
 #### What would you like to work on next week?
 
 * Focus on Turing Way chapter to rework it and continue the first draft including academic paper and authorship sections.
+* KW: We also need to have a think about March meetings for the main project.
+  * Thank you for the discussion in the meeting today :pray:
 
 #### Where do you need help from Kirstie?
 
@@ -45,7 +55,7 @@
 This space is yours to add to as needed.
 
 
-### Date: [17 February 2021]
+### Date: 17 February 2021
 
 #### Who did you help this week?
 
