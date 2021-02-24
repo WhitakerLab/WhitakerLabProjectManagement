@@ -8,6 +8,7 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2021**
 
+* [21 February 2021](#date-21-february-2021)
 * [14 February 2021](#date-14-february-2021)
 * [7 February 2021](#date-7-february-2021)
 * [31 January 2021](#date-31-january-2021)
@@ -16,6 +17,103 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * [8 January 2021](#date-8-january-2021)
 
 ---
+
+## Date: 21 February 2021
+
+### What brought you joy this week?
+
+* My greatest joy this week was spending 3 hours working with AL on the community manager job descriptions.
+  * Huge huge shout out to Brene Brown's values list and the exercise of picking just 2 or 3.
+    It's such a hard task but SO valuable!
+    * https://daretolead.brenebrown.com/workbook-art-pics-glossary/
+    * For community managers I picked **stewardship**, **compassion** and **collaboration**.
+    * For RAMs 🐏 AM and I picked **adaptability**, **legacy** and **perseverance**.
+    * For my job I picked **vision**, **faith** and **justice**.
+  * It surprised me how emotional I was when we started this exercise.
+    It was so valuable to be able to articulate why I was so blocked - I felt incredibly lonely - and what I needed to move forwards - a safe space to be able to explore 🙏💕
+* Coffee and (virutal) hangout with BM.
+  What a delightful man.
+  I miss getting to spend more time with him, and benefiting from his mentorship.
+* I skipped doing the work I was supposed to catch up on Friday to attend the Engage at Turing student talks and they did SUCH a good job.
+  I'm really glad I came along to ask questions and learn a little more.
+  Definitely got a few folks to follow up with 💪
+* Huge thank you to CH who gave me a call after the grant panel interview and said I did a good job.
+  * Means so much 💜
+* Brilliant catch up with IS, absolute joy as usual 🌺🌺🌺
+* IKG was a fantastic support, as usual.
+  * But particularly this week on a Friday during his holiday.
+* Hangout with AllyM - I'm so glad we have this in the calendar now.
+* Really glad SM was able to come to the Turing Way collaboration cafe!! ☕
+* LOVE the help that IS was able to provide for ME! :heart_eyes:
+  * https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-IS.md#date-11-february-2021
+* Knowledge share this week made me a bit teary to actually see the work progressing, and hear how important it still is for clinicians.
+* AB sent the TPS newsletter in its new format!
+  * So beautiful!
+  * http://elink.turing.ac.uk/m/1/59207972/p1-b21050-e368bf4a814a4324a28ac2cb84e12511/1/13/843f7bf5-d1bc-4395-b06f-13236425037e
+* Maybe not exactly joy, but I helped a few friends through difficult frustrations with unsupportive colleagues (not at Turing) this week.
+  * I'm glad I could be of some help.
+  * Also, its mother lode dude.
+    Not mother load.
+    * https://en.wikipedia.org/wiki/Mother_lode
+
+### What did you achieve
+
+* Grant panel interview!!
+  * It went ok... there are questions we can't answer well but we knew that going in.
+  * There wasn't anything that really tripped us up.
+  * 🤞😬🤞
+* Attended [launch event](https://www.eventbrite.com/e/cores-launch-event-tickets-136365305299) for Stanford [Center for Open and REproducible Science](https://datascience.stanford.edu/cores) (CORES)
+  * Loved Fernando's talk (as always):
+* Had a fab conversation with KR at Berkeley BIDS (not to be confused with Brain BIDS 🧠😅)
+  * Very very useful threads to pull on going forwards.
+* SUPER useful conversation with VF on Monday.
+  I feel like we're really iterating towards a strong plan.
+* I dealt with a difficult EAG review with compassion.
+  * I'm glad that I was able to say "I have time for this".
+    It meant other work didn't get done, but I prioritised listening and caring for others.
+* Really fun meeting with industry partner to scope potential future connections.
+* Another partnerships meeting where I said some stuff but wasn't likely all that valuable 😬
+* Governance chat with MS about Turing Way.
+  * Followed by long visioning / scoping chat - more to come!
+* Good progress on expectation setting for project.
+  * Analytics steering group, knowledge share, leadership meeting all went well.
+* Helpful future planning call w GA.
+  * I think I'm iterating towards a vision for the citizen science project.
+* 1:1s with IKG, EK, AB & ME.
+* Super fun grant scoping call with JR!
+* Career advice / chat call w DG - hopefully I was helpful!
+  * And another version of that call including some interview prep with someone else 💻 🐁 🧠
+* Fun lab meeting with demo on OpenMined duet from SB.
+* Brainstorming meeting on EDI w AC.
+* Progress on student project job description and TPS terms of reference but not quite there yet...
+* Call w EM re: grant application, scheduled two meetings for next week to keep going!
+* Website page up for Pangeo project!
+  * https://www.turing.ac.uk/research/research-projects/supporting-pangeo-community-driven-platform-big-data-geoscience
+  * (needs a few edits, but cool nonetheless!)
+* RIAC 😅
+* ASG Theme Leads meeting.
+
+### What did you struggle with?
+
+* Good grief my hay fever 🌳🌳🌳 🤧🥺🤧🥺🤧🥺
+  * I'll find a way to get the right levels of antihistamines in my body for the next 10 months, but....wow this was a frustrating weekend of itchy eyes and not being able to sleep properly ☹️
+* Accidentally stood on a mini landmine.
+  Was a good opportunity to calibrate my bluntness.
+  That was definitely a "woah, I didn't realise I was going into a difficult territory" moment.
+  * Lesson for next time: I think there are probably more sensitivities than I realise.
+    And, like, we're 11 months into a global pandemic.
+    It's ok to be softer than I think I need to be.
+* Hilariously, after writing up all of what I did, I really really didn't get as much done as I should have done last week.
+  * It does feel like the difficult conversations are starting to turn a corner to help with the resilience and scalability of my workload.
+* I forgot to follow up with someone and I feel bad about that 😢
+* I still have a bit of work to do on ways of working to make sure that one aspect of my work is going smoothly and effectively (super vague for anonymity.. but did want to capture because it was a struggle this week).
+* I had some health stuff that was more of a battle to get coordinated than I'd have hoped.
+  * It worked out ok in the end.
+  * And the folks at my GP office were so lovely 💖
+
+### Any other topics
+
+Better than last week 🎢
 
 ## Date: 14 February 2021
 
