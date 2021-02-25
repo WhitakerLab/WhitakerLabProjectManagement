@@ -2,10 +2,54 @@
 
 Georgia's weekly meeting notes.
 
+* [25 February 2021](#date-25-february-2021)
 * [17 February 2021](#date-17-february-2021)
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 25 February 2021
+
+#### Who did you help this week?
+
+* Helped EH with some issues
+* Helped JS with secondment proposal
+  * KW: This is exciting!
+
+#### Who helped you this week?
+
+* JK helped me with Django
+* KW helped me with newsletter
+* MS gave me community management advice and support
+* EK helped me with community engagement advice 
+
+#### What did you achieve?
+
+* Sent out February newsletter 
+* Planned out co-working meeting
+* Introduced new collaborators to project (yay!)
+* Worked on funding proposal for Wellcome
+* Worked on AutSPACEs repo 
+* Co-working on philosophy conference paper
+
+#### What did you struggle with?
+
+* Time! 
+* Merge conflicts
+* Missing some team members
+  * KW: Maybe chat with LC? Seems like an important policy to have in place. :hibiscus: 
+
+#### Where do you need help from Kirstie?
+
+* Community management advice 
+* Funding stuff
+  * KW: Discussed in meeting - let me get back to you on this asap. 
+
+#### What would you like to work on next week?
+
+* Funding application
+* Platform
+* Sorting out filing of various repos/templates on computer 
 
 ### Date: 17 February 2021
 
