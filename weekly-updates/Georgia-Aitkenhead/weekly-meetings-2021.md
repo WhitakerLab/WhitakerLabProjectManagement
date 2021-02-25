@@ -2,7 +2,7 @@
 
 Georgia's weekly meeting notes.
 
-* [25 Fbruary 2021](#date-25-february-2021)
+* [25 February 2021](#date-25-february-2021)
 * [17 February 2021](#date-17-february-2021)
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
@@ -13,14 +13,15 @@ Georgia's weekly meeting notes.
 #### Who did you help this week?
 
 * Helped EH with some issues
-* Helped JS with secondment proposal 
+* Helped JS with secondment proposal
+  * KW: This is exciting!
 
 #### Who helped you this week?
 
-* JK helped me with Django 
+* JK helped me with Django
 * KW helped me with newsletter
 * MS gave me community management advice and support
-* EK helped me with community engagemeent advice 
+* EK helped me with community engagement advice 
 
 #### What did you achieve?
 
@@ -34,13 +35,15 @@ Georgia's weekly meeting notes.
 #### What did you struggle with?
 
 * Time! 
-* Mrege conflicts
+* Merge conflicts
 * Missing some team members
+  * KW: Maybe chat with LC? Seems like an important policy to have in place. :hibiscus: 
 
 #### Where do you need help from Kirstie?
 
 * Community management advice 
 * Funding stuff
+  * KW: Discussed in meeting - let me get back to you on this asap. 
 
 #### What would you like to work on next week?
 
