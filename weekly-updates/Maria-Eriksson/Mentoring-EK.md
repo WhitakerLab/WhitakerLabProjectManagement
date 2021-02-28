@@ -17,17 +17,17 @@
 
 ### What brought you joy this week?
 * EK - Daffodils are coming out and more sunny weather.
- * Schools are going back on 8th March :tada:
+  * Schools are going back on 8th March :tada:
 * ME
 
 ### What did you achieve
 * EK
- *  Gave project intro presentation to lab. Phew!
- *  Stepping up community manager work on project - newsletter, individual contact, github organising.
- *  Attended UKRI ECR forum induction. 
- *  Attended Humanities and data science discussion group.
- *  Wrote blog for Binder workshop.
- *  OLS mentoring meeting - very excited about this project. 
+  *  Gave project intro presentation to lab. Phew!
+  *  Stepping up community manager work on project - newsletter, individual contact, github organising.
+  *  Attended UKRI ECR forum induction. 
+  *  Attended Humanities and data science discussion group.
+  *  Wrote blog for Binder workshop.
+  *  OLS mentoring meeting - very excited about this project. 
 ### What did you struggle with?
 * EK - Found it hard to concentrate last week as had zoom meeting overload and kids were very distracting.
 * ME
