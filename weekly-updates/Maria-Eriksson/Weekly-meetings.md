@@ -1,5 +1,7 @@
 # Weekly Meetings
 
+* [18 February 2021](#date-18-february-2021)
+* [4 February 2021](#date-4-february-2021)
 * [7 January 2021](#date-7-january-2021)
 * [9 December 2020](#date-9-december-2020)
 * [30 November 2020](#date-30-november-2020)
@@ -13,6 +15,100 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 18 February 2021
+
+#### Who did you help this week?
+
+* [Mentoring session with IKG](https://github.com/MariaEriksson/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-IKG.md)
+* [Mentoring session with IS](https://github.com/MariaEriksson/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-IS.md)
+* [Mentoring session with EK](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/Em_Maria_meeting_notes/weekly-updates/Em_and_Maria/mentoring_meetings.md)
+
+#### Who helped you this week?
+
+* IKG: ethics questions
+* IS: text extraction scripts
+* EK: GitHub questions
+
+#### What did you achieve?
+
+* Set up a GitHub repo for a paper I'd like to publish :tada: How exciting! I've gotten most of my scripts moved over, and am loving the structure and organisation it is bringing to my work habits :surfer:
+* Finished cleaning my seizure/AED outcome data wohooo :muscle:
+* Reached out to HJ (Engage@Turing student) and had a lovely chat :coffee: I pitched having co-working sessions with Engage@Turing students - let's see if the other reps like the idea... :eyes:
+* Attended a bunch of talks & seminars: HDRUK Turing Health Data Science Seminar, Developmental Neuroscience Seminar, Turing Student Seminar, BRC Symposium, ICH Neurosciences Seminar, Royal Society of Medicine AI in healthcare: From development to deployment.
+* Had some lovely co-working sessions with my data buds :sparkling_heart:
+* Invited to collaborate on a study with a new PhD student/surgeon trainee, and provided feedback on the project proposal.
+* Had a meeting with paediatrician (who conducts national epilepsy audits) who wants to collaborate on data standards.
+* Invited to collaborate on AI / ML project in video analysis of carer recorded video, potentially inputting on ethics.
+* Wrote two scripts: [visualise seizure outcome over time](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/scripts/data-visualisation/Seizure_outcome_over_time.R) and [visualise AED use over time](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/scripts/data-visualisation/AED_outcome_over_time_210216.R).
+
+#### What did you struggle with?
+
+* Had so MUCH to organise before my flight back to London. And felt quite unwell as a result. Glad that's done. Phew.
+* I'm stuck in my cross-validation script. But I'm thinking I'll come back to it after I wrap things up with the paper/new repo.
+* Knowing which collaborations to say 'yes' and 'no' to.
+
+#### What would you like to work on next week?
+
+* Cleaning up GOSH-2000-2018-paper repo: [tidying databases, updating scripts, writing outstanding scripts ](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues).
+
+#### Where do you need help from Kirstie?
+
+* I would love to hear what you think of the GOSH-2000-2018-paper repo
+* I would love opinion on potential collaborations
+
+#### Any other topics
+
+### Date: 4 February 2021
+
+#### Who did you help this week?
+
+* BSc student about neuropsychology project
+* GA's collaborator (KW offered helpful advice - thank you!!)
+* Chat with neurosurgeon about neuropsychology
+* Partner
+  
+#### Who helped you this week?
+
+* Data buds chats and co-working
+
+#### What did you achieve?
+
+* Completed RSE course
+* Finished retrieving seizure and AED outcome for ALL PATIENTS OMG
+* Read commentary by EP & DJ
+* Worked on cross-validation script (but still stuck)
+* Had first official mentoring session with Isla, which was lovely
+* Follow-up re XNAT
+* Notes on data standards & open and reproduciblity practices in epilepsy surgery research - potential commentary paper
+
+#### What did you struggle with?
+
+* Month 2 of being in Finland, and am missing my London life (which I realise must sound bizarre considering the current situation) and my partner
+
+#### What would you like to work on next week?
+
+* Time to properly get project on GitHub (though through smaller steps, under a 'top level issue')
+	* Preliminary plan is to have 3 (private, for now) repositories: 1) paper on data standards & open and reproduciblity practices in epilepsy surgery research, 2) paper on "epilepsy surgery in children from 2000-2018: a single centre experience" (but need to get KW's thoughts on this and need to look into whether releasing the data in this paper is possible), and 3) predictive model scripts
+* Attend training session on 'Preparing for your postdoctoral career'
+* Add notes from mentoring session with Isla to GitHub
+
+#### Where do you need help from Kirstie?
+
+* Had a great (and very needed) chat about the current separation between my PhD and Turing time, and ways to bridge this separation.
+* Plan moving forward: 
+	* post 1-2 GitHub updates (issues, PRs) on WhitakerLab slack every day (help KW know more about what I'm doing)
+		* PRs can later be reviewed by someone else
+	* introduction on engageatturing slack
+	* inform KW about potential talks and conferences
+	* add weekly reflections to GitHub and share these with KW
+
+#### Any other topics
+
+* Conversation about Imposter syndrome vs. Perfectionism in the context of sharing/publishing research
+	* breaking publications into smaller pieces
+	* re-framing: who will benefit from this/find this paper useful ('helping' others vs. achieving the most awe-inspiring paper)
+* Found this whole chat really helpful, thank you Kirstie!!
 
 ### Date: 7 January 2021
 
