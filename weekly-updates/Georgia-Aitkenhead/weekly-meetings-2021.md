@@ -2,11 +2,13 @@
 
 Georgia's weekly meeting notes.
 
+
 * [25 February 2021](#date-25-february-2021)
 * [17 February 2021](#date-17-february-2021)
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
 
 ### Date: 25 February 2021
 
