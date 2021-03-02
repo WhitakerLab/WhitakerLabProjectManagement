@@ -1,9 +1,51 @@
 # Emma's Weekly Meeting Notes
 
+* [10 March 2021](#date-10-march-2021)
 * [24 February 2021](#date-24-february-2021)
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Date: 10th March 2021
+
+#### Who did you help this week?
+
+* Sorted out the github tangle for GA.
+
+
+#### Who helped you this week?
+
+* ME - helpful discussion about medications and also about standardisation of data.
+
+#### What did you achieve?
+
+* Organised myself for community manager communications - monthly newsletter, helpful video link emails, onboarding emails, announcements for new resources such as meeting notes. slack and email. Archive newsletters in Github.
+* Organised project meeting schedule - clinicians have agreed to do expert session.
+* Binder workshop talk and help.
+* 
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Kirstie?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
+
 
 ### Date: 24 February 2021
 
