@@ -17,6 +17,7 @@
 #### Who helped you this week?
 
 * ME - helpful discussion about medications and also about standardisation of data.
+* Helped ED to set up a folder on project repository - trying to take this extra work of uploading and formatting resources off him so he can concentrate on the the database.
 
 #### What did you achieve?
 
@@ -26,8 +27,7 @@
 * 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* All ok
 
 #### What would you like to work on next week?
 
