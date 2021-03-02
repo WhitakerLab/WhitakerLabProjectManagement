@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [2 March 2021](#date-2-march-2021)
 * [16 February 2021](#date-16-february-2021)
 
 **Why?** Supporting learning about health data & GitHub
@@ -13,24 +14,40 @@
 **Next meeting:** 2nd March 2021
 
 
-## Date: 2nd March 2021
+## Date: 2 March 2021
 
 ### What brought you joy this week?
 * EK - Daffodils are coming out and more sunny weather.
   * Schools are going back on 8th March :tada:
-* ME
+    * ME - Wohooooo 
+* ME - The SUUUUUN :yellow_heart: I'm out of quarantine, so went on some lovely bike rides and walks with friends. Explored Stoke Newington for the first time - dreamy.
 
 ### What did you achieve
 * EK
   *  Gave project intro presentation to lab. Phew!
+     * ME - Loved your presentation :star2:
   *  Stepping up community manager work on project - newsletter, individual contact, github organising.
   *  Attended UKRI ECR forum induction. 
   *  Attended Humanities and data science discussion group.
   *  Wrote blog for Binder workshop.
-  *  OLS mentoring meeting - very excited about this project. 
+  *  OLS mentoring meeting - very excited about this project.
+* ME
+  * Mentoring meeting with IS, which was so helpful and kind per usual :sparkling_heart:
+  * Attended Royal Society's AI in healthcare conference
+  * Prepped for journal club
+  * Finished background reading and intro section for publication piece
+  * Finished methods section for publication piece
+  * Tidied my data cleaning scripts for publication piece
+  * Attended Engage@Turing coffee chat
+  * Had chat with database manager at Queen Square Neurology
+  * Meeting w SA to discuss direction of publication piece
+  * Helped student with neuropsychology database
 ### What did you struggle with?
 * EK - Found it hard to concentrate last week as had zoom meeting overload and kids were very distracting.
 * ME
+  * Had quite the panic when I thought I had uploaded senstive data to GitHub. Fun times.
+  * Have discovered I have hay fever?!?! No idea how or when this happened. But them antihistamines are helping.
+  * Trying to figure out how to make pretty tables in R. I've used gt so far, but can't find much help online?
 ### Any other topics
 * EK - Medicines in datasets - how are these used? do you need to find a specific code or know what conditions they are used for?
 
