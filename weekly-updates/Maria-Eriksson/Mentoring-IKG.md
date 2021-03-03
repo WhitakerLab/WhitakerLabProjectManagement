@@ -1,5 +1,6 @@
 # Mentoring Sessions with Ismael
 
+* [3 March 2021](#date-3-march-2021)
 * [17 February 2021](#date-17-february-2021)
 
 **Why?** Sharing of knowledge relating to ethics, research practises and health care data
@@ -10,7 +11,7 @@
 
 **For how long?** 1 hour
 
-**Next meeting:** 3 March 2021
+**Next meeting:** 17 March 2021
 
 ## Template
 
@@ -19,6 +20,27 @@
 #### What did you struggle with?
 #### Any other topics
 #### Next meeting
+
+## Date: 3 March 2021
+
+### What brought you joy this week?
+
+* IKG
+
+### What did you achieve?
+
+* IKG
+
+### What did you struggle with?
+
+* IKG
+
+### Any other topics
+
+* IKG & ME discussed IKG applying for [a new Turing RA position](https://cezanneondemand.intervieweb.it/turing/jobs/research_assistant_x2_12757/en/) and potential research position with KW
+* ME provided feedback on IKG's CV
+
+### Next meeting
 
 ## Date: 17 February 2021
 
