@@ -19,6 +19,7 @@
 #### What brought you joy this week?
 * IKG: Confirming that LSE is postpone for a year!
   * Also, picking up German again and being invited to consider a casual research assistant role!
+  * ME: Wohoooo so pleased that the postponement has been confirmed 🎉 🙏  Maybe we should try having our next mentoring session in German? 😄 Finally put my school German to use. Really enjoyed chatting about the RA role.
 #### What did you achieve?
 * IKG: I had the week off, so... plenitude and reconnection with the soul, or something.
 #### What did you struggle with?
