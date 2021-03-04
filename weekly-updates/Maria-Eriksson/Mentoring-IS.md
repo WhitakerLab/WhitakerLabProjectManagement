@@ -20,24 +20,24 @@
 ### Questions for the meeting
 
 * ME: How does one remove a commit from the commit history? Say one by mistake commits (and pushes) a file that contains sensitive information. Even once one has deleted the file, the file is still accessible from the commit history? I looked into these answers ([solution 1](https://docs.github.com/en/github/managing-large-files/removing-files-from-a-repositorys-history), [solution 2](https://docs.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository) and [solution 3](https://stackoverflow.com/questions/43762338/how-to-remove-file-from-git-history)), but could not get them to work, so I ended up deleting the entire repository (and then setting it up again), but that doesn't seem like a sustainable solution...
-** IS: It's typically straightforward to remove things from your local git repo (especially if you don't have collaborators to worry about) but extremely hard to remove things from github. Solution 2 looks promising since it involves contacting someone from github to remove their copy of the data.
+    * IS: It's typically straightforward to remove things from your local git repo (especially if you don't have collaborators to worry about) but extremely hard to remove things from github. Solution 2 looks promising since it involves contacting someone from github to remove their copy of the data.
 *** To scrub the data not just from MEs repos but also from her collaboratos we will need collaborators to run the following on their local copies of the repo: 
     ```
     git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch scripts/dataframe-cleaning/Describing_the_cohort.ipynb" HEAD 
     git push --force --all
     ```
     Then we need to email the GitHub Support team to delete the data
-** IS: let's brainstorm a way to automatically scrub the notebook output- this could be added to the turing way?
+    * IS: let's brainstorm a way to automatically scrub the notebook output- this could be added to the turing way?
 * ME: What way of working would IS recommend? There's using the web browser or Terminal, but also GitHub Desktop and VS code?
-** IS: uses emacs for everything: git (via magit) text editing, etc.
+    * IS: uses emacs for everything: git (via magit) text editing, etc.
 * ME: What happens to comments that reviewers leave on files on GitHub? For example, when KW reviewed this file, she left comments, but once those comments were accepted, and the file was merged, those comments seemed to disappear?
-** IS: You should be able to find them in the closed pull requests, e.g. https://github.com/WhitakerLab/WhitakerLabProjectManagement/pull/421
+    * IS: You should be able to find them in the closed pull requests, e.g. https://github.com/WhitakerLab/WhitakerLabProjectManagement/pull/421
 * ME: When creating a .py file that contains functions (which are read into a Jupyter Notebook), does one need to add "import packages" to the .py if the functions defined in the .py file use specific packages, or should those packages simply be imported at the start of the Jupyter Notebook?
-** IS: I suspect you need to import packages within the .py. Either way it's good practice, because it means when the file is reused outside of the notebook it will be explicit about its imports.
+    * IS: I suspect you need to import packages within the .py. Either way it's good practice, because it means when the file is reused outside of the notebook it will be explicit about its imports.
 * ME: At the top of scona .py files, there is always the line "#!/usr/bin/env python" - what does this mean?
-** It tells your system where to find the python install to run the file with. I think we need to get rid of those actually.
+    * It tells your system where to find the python install to run the file with. I think we need to get rid of those actually.
 * ME: Several tests use the same key terms to extract the result (for example: T010, T095, T099, T100, T105...)  - can this be streamlined?
-** IS let's discuss next week
+    * IS let's discuss next week
 
 ### What did we discuss?
 
