@@ -37,7 +37,7 @@
 
 #### What did you achieve?
 
-* Mentoring meeting with IS, which was so helpful and kind per usual :sparkling_heart:
+* Mentoring meeting with IS (grateful for IS being so kind when helping with my mistake :sparkling_heart:)
 * Mentoring meeting with EK
 * Mentoring meeting with IKG
 * Attended Royal Society's AI in healthcare conference
