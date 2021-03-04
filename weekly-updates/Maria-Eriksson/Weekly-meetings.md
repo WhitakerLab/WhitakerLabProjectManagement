@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [4 March 2021](#date-4-march-2021)
 * [18 February 2021](#date-18-february-2021)
 * [4 February 2021](#date-4-february-2021)
 * [7 January 2021](#date-7-january-2021)
@@ -15,6 +16,56 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 4 March 2021
+
+#### Who did you help this week?
+
+* [Mentoring session with IKG](https://github.com/WhitakerLab/WhitakerLabProjectManagement/pull/432)
+	* Chat about applying for RA job versus research with KW
+	* Gave feedback on CV
+* [Mentoring session with EK](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/Em_Maria_2March/weekly-updates/Maria-Eriksson/Mentoring-EK.md)
+	* Provided thoughts on prescribing data
+* BSc student re neuropsychology project
+
+#### Who helped you this week?
+
+* [Mentoring session with IS](https://github.com/MariaEriksson/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-IS.md)
+	* Dealing with potentially sensitive data on GitHub 
+* Data bud EV gave advice re making pretty tables (gt and gtsummary in R)
+* SA helped w direction of publication piece
+
+#### What did you achieve?
+
+* Mentoring meeting with IS, which was so helpful and kind per usual :sparkling_heart:
+* Mentoring meeting with EK
+* Mentoring meeting with IKG
+* Attended Royal Society's AI in healthcare conference
+* Attended BRAIN conference
+* Attended Binder workshop (but missed the second half due to unwell sadface
+* Participated in journal club
+* Finished background reading and intro section for publication piece
+* Finished methods section for publication piece
+* Tidied my data cleaning scripts for publication piece - just one left!
+* Lovely Engage@Turing coffee chat
+* Chat with database manager at Queen Square Neurology
+* Said no to collaborations :dancer:
+
+### What did you struggle with?
+
+* Had quite the panic when I thought I had uploaded senstive data to GitHub. Fun times.
+* Have discovered I have hay fever?!?! No idea how or when this happened. But them antihistamines are helping.
+
+#### What would you like to work on next week?
+
+* Finish outstanding issues (mainly data visualisations) for [GOSH-2000-2018 paper](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues)
+* Figure out how to statistically check for significant trends/changes over time in data (have so far come across Mann-Kendall trend test and Mantel‐Haenszel chi-square test of trend)
+
+#### Where do you need help from Kirstie?
+
+* Any thoughts on temporal trends?
+* Feb theme "Reproducible Computational Environments - could build my own Binder for GOSH-2000-2018 paper?
+* March theme of "Ethics of Machine Learning in Clinical Research" seems pretty broad - but maybe something the NHS Ethnicity codes feed into?
 
 ### Date: 18 February 2021
 
