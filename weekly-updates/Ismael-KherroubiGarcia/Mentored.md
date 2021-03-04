@@ -22,8 +22,10 @@
   * ME: Wohoooo so pleased that the postponement has been confirmed 🎉 🙏  Maybe we should try having our next mentoring session in German? 😄 Finally put my school German to use. Really enjoyed chatting about the RA role.
 #### What did you achieve?
 * IKG: I had the week off, so... plenitude and reconnection with the soul, or something.
+* ME: Happy you're in a better place 🌷 
 #### What did you struggle with?
 * IKG: Disconnecting from work during holidays is especially hard when work is at home...
+* ME: Ugh this is so true. It's so hard when the physical space of your home represents both rest and work. You probably know this but there are so many sleep hygiene studies on how you shouldn't do work in bed/the bedroom, so I'm not surprised work-from-home is screwing with our ability to disconnect... Hopefully, you were still able to get some much-deserved relaxation in 🥰 
 #### Any other topics
 * IKG: Not really!
 #### Next meeting: 17 March 2021
