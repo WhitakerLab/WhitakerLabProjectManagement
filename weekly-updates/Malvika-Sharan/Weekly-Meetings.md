@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [08 March 2021](#date-08-March-2021)
 * [08 February 2021](#date-08-February-2021)
 * [18 January 2021](#date-18-January-2021)
 * [Nov-Dec 2020](#date-Nov-Dec-2020)
@@ -18,6 +19,47 @@
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Date: 08 March 2021
+
+#### Who did you help this week?
+- AM and ABL in 1:1 catch up
+  - Shared Open source resources, concepts and related discussions with AM
+  - Discussed ABL role in the TPS, Turing and alignment with The Turing Way
+- GA in planning her meet up format and designing a shared note
+- Brought MGV on SciPy minisymposium chair team, I will step down next year
+
+#### Who helped you this week?
+- MM in 1:1 catch up and discussion on her work
+- KW in brainstorming The Turing Way plans for open governance and infrastructure
+- IKG in exploring some of the cognitive load we can try to address in The Turing Way for new users
+- BA and EK in brainstorming session plans for CW21
+
+#### What did you achieve?
+- FOSS backstage, EMBL-EBI workshop and RIOT talks, and a repeat talk in the lab
+- Connection with ONS and a talk slot on 24 March
+- Attended "Professional Development Session : Introduction to Management"
+- HM in discussing some of the steps in EDI that can connect The Turing Way
+- Humanities & Data Science Discussion Group - The role of authorship
+- Connecting The Turing Way with The Carpentries training materials for [sprint planning](https://github.com/tobyhodges/lesson-sprint-recommendations)
+- Onboarding calls started, seems like a great place to connect people over useful discussions
+- Discussions with Training team to align our workshop with each other
+
+#### What did you struggle with?
+
+- Too many conferences, great to see many people proactively giving talks and submitting proposals
+  - Decided not to apply for some conferences as there was no new volunteers
+- Struggled to find quiet time to follow through some open tasks due to back to back commitments for talks, meetings and workshops
+
+#### What would you like to work on next week?
+
+- A few open PR, specifically for analytics (preferably for Netlify)
+- Make a new release before the next newsletter
+
+#### Where do you need help from Kirstie?
+
+- GSoC, GSoD and CZI discussions
 
 ### Date: 08 February 2021
 
