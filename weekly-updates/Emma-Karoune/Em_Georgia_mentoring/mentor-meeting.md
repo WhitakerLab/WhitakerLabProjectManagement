@@ -1,7 +1,7 @@
 # Emma and Georgia's Mentoring Meetings
 
+* [8 March 2021](#date-8-march-2021
 * [19 February 2021](#date-19-february-2021)
-* [8 March 2021](#date-8-march-2021)
 
 **Why?** Peer mentoring, community management & GitHub
 
@@ -19,20 +19,25 @@
 ### What brought you joy this week?
 
 * EK - More sunny days and lovely daffodils out in my garden.
+* GA - yes, lots of gorgeous blossoms coming out - and morning light and birdsong! 
 
 ### What did you achieve
 
 * EK - Community manager work, Binder workshop.
+* GA - research paper, co-working, repos tidying up and issue writing
 
 ### What did you struggle with?
 
 * EK - Been a busy few weeks but all ok.
+* GA - Also busy - balancing different tasks 
 
 ### Any other topics
 
-This space is yours to add to as needed.
-
-
+Presentations and community integration
+Well done James!
+Business and multiple priorities
+Funding advice
+FAIR data 
 
 ## Date: 18 February 2021
 
