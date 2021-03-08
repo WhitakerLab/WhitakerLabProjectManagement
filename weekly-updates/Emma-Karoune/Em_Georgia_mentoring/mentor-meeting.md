@@ -11,22 +11,22 @@
 
 **For how long?** 1 hour
 
-**Next meeting:** [5th March 2021]
+**Next meeting:** [8th March 2021]
 
 
-## Date: 5th March 2021
+## Date: 8th March 2021
 
 ### What brought you joy this week?
 
-* Replace this text with a one/two sentence description of who you helped this week and how.
+* EK - More sunny days and lovely daffodils out in my garden.
 
 ### What did you achieve
 
-* Replace this text with a bullet point list of what you achieved this week.
+* EK - Community manager work, Binder workshop.
 
 ### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
+* EK - Been a busy few weeks but all ok.
 
 ### Any other topics
 
