@@ -1,6 +1,6 @@
 # Emma and Georgia's Mentoring Meetings
 
-* [8 March 2021](#date-8-march-2021
+* [8 March 2021](#date-8-march-2021)
 * [19 February 2021](#date-19-february-2021)
 
 **Why?** Peer mentoring, community management & GitHub
