@@ -12,34 +12,36 @@
 #### Who did you help this week?
 
 * Sorted out the github tangle for GA.
-
+* Helping MS to plan CW21 Turing Way session.
+* Helped ED to set up a folder on project repository - trying to take this extra work of uploading and formatting resources off him so he can concentrate on the the database.
 
 #### Who helped you this week?
 
 * ME - helpful discussion about medications and also about standardisation of data.
-* Helped ED to set up a folder on project repository - trying to take this extra work of uploading and formatting resources off him so he can concentrate on the the database.
 
 #### What did you achieve?
 
-* Organised myself for community manager communications - monthly newsletter, helpful video link emails, onboarding emails, announcements for new resources such as meeting notes. slack and email. Archive newsletters in Github.
-* Organised project meeting schedule - clinicians have agreed to do expert session.
+* Organised myself for community manager communications - monthly newsletter, helpful video link emails, onboarding emails, announcements for new resources such as meeting notes. Slack and email. Archive newsletters in Github.
+* Communicating with team members - LY, SG and IB to get updates. IB - the literature review shows lack of studies in this area and not focused on in bigger cohorts - will add this to the knowledge share coming up. LY - communicating about medications.  
+* Organised project meeting schedule - clinicians have agreed to do expert session, ethics to move date.
 * Binder workshop talk and help.
+* Chat with RG about authorship.
+* Progress of guide to communication - adding to issue in github repo of interviews/case studies, taking out open phrasing and adding in first drafts of the rest of the guide.
 * 
+
 #### What did you struggle with?
 
-* All ok
+* All ok.
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* More project community manager stuff - starting next newsletter, planning meeting schedule for May, keeping in touch with teams.
+* Working on authorship section of Turing way communication guide.
 
 #### Where do you need help from Kirstie?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Lab blog - did a PR.
+* 
 
 #### Any other topics
 
