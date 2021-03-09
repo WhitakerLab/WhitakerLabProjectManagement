@@ -2,13 +2,49 @@
 
 Georgia's weekly meeting notes.
 
-
+* [9 March 2021](#date-09-march-2021)
 * [25 February 2021](#date-25-february-2021)
 * [17 February 2021](#date-17-february-2021)
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
 
+### Date: 09 March 2021
+
+#### Who did you help this week?
+
+* SG - supporting OLS group with some mentoring advice
+* Helped SI by creating more accessible GitHub labelling system  
+
+#### Who helped you this week?
+
+* JS - excellent impromptu rescuing of talk after mic issues :)
+* MA helped facilitate meet-up session
+* Lots of helpful mentoring! 
+
+#### What did you achieve?
+
+* Ran meet-up session - breakout rooms based on interests 
+* SDS SIG presentation
+* Worked on philosophy paper/presentation with IKG
+* Repo - reorganisation of labels/milestones 
+
+#### What did you struggle with?
+
+* Some community management issues 
+
+#### Where do you need help from Kirstie?
+
+* Community management advice (again)
+* JS secondment next steps
+
+#### What would you like to work on next week?
+
+* Platform (Sunday)
+* Recording philosophy presentation
+* Meet-up session
+* Summaries of moderation sessions
+* More MozFest 
 
 ### Date: 25 February 2021
 
