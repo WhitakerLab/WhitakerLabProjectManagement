@@ -11,9 +11,9 @@
 
 #### Who did you help this week?
 
-* Sorted out the github tangle for GA.
+* Sorted out the github tangle for GA and we had a mentor meeting.
 * Helping MS to plan CW21 Turing Way session.
-* Helped ED to set up a folder on project repository - trying to take this extra work of uploading and formatting resources off him so he can concentrate on the the database.
+* Set up a folder on project repository for ED - trying to take this extra work of uploading and formatting resources off him so he can concentrate on the the database.
 
 #### Who helped you this week?
 
@@ -26,8 +26,7 @@
 * Organised project meeting schedule - clinicians have agreed to do expert session, ethics to move date.
 * Binder workshop talk and help.
 * Chat with RG about authorship.
-* Progress of guide to communication - adding to issue in github repo of interviews/case studies, taking out open phrasing and adding in first drafts of the rest of the guide.
-* 
+* Progress of guide to communication - adding to issue in github repo of interviews/case studies, taking out open phrasing and adding in first drafts of the authorship/contributor section of the guide.
 
 #### What did you struggle with?
 
@@ -36,12 +35,13 @@
 #### What would you like to work on next week?
 
 * More project community manager stuff - starting next newsletter, planning meeting schedule for May, keeping in touch with teams.
-* Working on authorship section of Turing way communication guide.
+* Working on authorship section of Turing way communication guide and start paper writing section.
+* Will link up with DP for Turing way onboarding chat.
 
 #### Where do you need help from Kirstie?
 
 * Lab blog - did a PR.
-* 
+* PRs for mentor meetings.
 
 #### Any other topics
 
