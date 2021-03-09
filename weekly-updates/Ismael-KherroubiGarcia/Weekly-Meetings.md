@@ -26,14 +26,17 @@
 #### Who did you help this week?
 
 * DSG PIs with their many ethics applications!
+  * KW: YES! Thank you!
 
 #### Who helped you this week?
 
 * Turing's external supervisor =)
+  * KW: Really glad 🌺 
 
 #### What did you achieve?
 
 * Managed to distribute 6 forms for review! I think that's a record for applications-in-a-week!!
+  * KW: A LOT of applications!! Kudos to the DSG team for being so organised! 🙌
 
 #### What did you struggle with?
 
@@ -42,6 +45,14 @@
 #### What would you like to work on next week?
 
 * I think we get to discuss this in our meeting this week -- there seems to be a lot!
+  * KW: SO FUN!
+  * Tasks for me:
+    * Brainstorm papers that I wish could be written.
+    * Think about _who_ can work with you on them as co-authors.
+  * Tasks for IKG:
+    * Review job description
+    * Identify core values for the role.
+      See "list of values" at https://daretolead.brenebrown.com/workbook-art-pics-glossary 
 
 #### Where do you need help from Kirstie?
 
