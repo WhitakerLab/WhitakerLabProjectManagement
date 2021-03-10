@@ -2,13 +2,67 @@
 
 Georgia's weekly meeting notes.
 
-
+* [9 March 2021](#date-09-march-2021)
 * [25 February 2021](#date-25-february-2021)
 * [17 February 2021](#date-17-february-2021)
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
 
+### Date: 09 March 2021
+
+#### Who did you help this week?
+
+* SG - supporting OLS group with some mentoring advice
+  * KW: Great! 🌠
+* Helped SI by creating more accessible GitHub labelling system
+  * KW: Awesome - this is a good chapter in the Turing Way if you have a couple of hours to capture _what_ you did and why?
+
+#### Who helped you this week?
+
+* JS - excellent impromptu rescuing of talk after mic issues :)
+  * KW: YES! Great work!
+* MA helped facilitate meet-up session
+  * KW: Fantastic - so kind 🌺
+* Lots of helpful mentoring!
+
+#### What did you achieve?
+
+* Ran meet-up session - breakout rooms based on interests
+* SDS SIG presentation
+* Worked on philosophy paper/presentation with IKG
+* Repo - reorganisation of labels/milestones
+
+#### What did you struggle with?
+
+* Some community management issues 
+
+#### Where do you need help from Kirstie?
+
+* Community management advice (again)
+  * KW: We chatted about this in the meeting - you did a really fantastic job with managing a code of conduct violation. THANK YOU 💛
+    * Next steps are to write down for our records the two reports that we have received, and send them to the folks who submitted them for their approval.
+    * We also need to do a bit of work harmonising the code of conduct work from last year with the CoC in the GitHub repository.
+      * Technically the behaviours that have been reported are in the current code of conduct but they aren't as clear as they could be, so lets fix that for future community members.
+      * We identified a community member to ask to join that work if they are interested / able.
+      * We agreed that this work is going to be **written up as an issue** in the GitHub repository and then coordinate with Kirstie to find a time for her to co-work those changes with the community member.
+* JS secondment next steps
+
+#### What would you like to work on next week?
+
+* Platform (Sunday)
+  * KW: Looking forward to this!
+* Recording philosophy presentation
+  * KW: FUN (don't over think the recording! 😉)
+* Meet-up session
+  * KW: I can make it wooooooo 🙌
+* More MozFest 
+  * KW: Please enjoy this and maybe see if you can twitter RT some of the content?
+* KW: Code of conduct reports (see above)
+* Summaries of moderation sessions
+  * KW: I don't think you can fit this in? Definitely important work, but don't rush these.
+
+We chatted about welcoming LC as our fast streamer who can work as a community manager.
 
 ### Date: 25 February 2021
 
