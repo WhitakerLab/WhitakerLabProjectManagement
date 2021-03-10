@@ -13,16 +13,25 @@
 
 * Sorted out the github tangle for GA and we had a mentor meeting.
 * Helping MS to plan CW21 Turing Way session.
+  * KW: SO EXCITED for Project Design work!!! 🌠
 * Set up a folder on project repository for ED - trying to take this extra work of uploading and formatting resources off him so he can concentrate on the the database.
+  * KW: Great - thank you!
 
 #### Who helped you this week?
 
 * ME - helpful discussion about medications and also about standardisation of data.
+  * KW: I LOVE THIS SO MUCH 😍
 
 #### What did you achieve?
 
-* Organised myself for community manager communications - monthly newsletter, helpful video link emails, onboarding emails, announcements for new resources such as meeting notes. Slack and email. Archive newsletters in Github.
-* Communicating with team members - LY, SG and IB to get updates. IB - the literature review shows lack of studies in this area and not focused on in bigger cohorts - will add this to the knowledge share coming up. LY - communicating about medications.  
+* Organised myself for community manager communications - monthly newsletter, helpful video link emails, onboarding emails, announcements for new resources such as meeting notes.
+  Slack and email.
+  Archive newsletters in Github.
+  * KW: So beautiful! 🌠
+* Communicating with team members - LY, SG and IB to get updates.
+  IB - the literature review shows lack of studies in this area and not focused on in bigger cohorts - will add this to the knowledge share coming up.
+  LY - communicating about medications.
+  * KW: REALLY great - so glad we're starting to get a few more conversations going.
 * Organised project meeting schedule - clinicians have agreed to do expert session, ethics to move date.
 * Binder workshop talk and help.
 * Chat with RG about authorship.
@@ -38,16 +47,13 @@
 * Working on authorship section of Turing way communication guide and start paper writing section.
 * Will link up with DP for Turing way onboarding chat.
 
+These all look fantastic - thank you!
+
 #### Where do you need help from Kirstie?
 
 * Lab blog - did a PR.
+  * KW: YES!! AAAAAH!
 * PRs for mentor meetings.
-
-#### Any other topics
-
-This space is yours to add to as needed.
-
-
 
 ### Date: 24 February 2021
 
