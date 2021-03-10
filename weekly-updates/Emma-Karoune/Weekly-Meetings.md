@@ -1,9 +1,59 @@
 # Emma's Weekly Meeting Notes
 
+* [10 March 2021](#date-10-march-2021)
 * [24 February 2021](#date-24-february-2021)
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Date: 10th March 2021
+
+#### Who did you help this week?
+
+* Sorted out the github tangle for GA and we had a mentor meeting.
+* Helping MS to plan CW21 Turing Way session.
+  * KW: SO EXCITED for Project Design work!!! 🌠
+* Set up a folder on project repository for ED - trying to take this extra work of uploading and formatting resources off him so he can concentrate on the the database.
+  * KW: Great - thank you!
+
+#### Who helped you this week?
+
+* ME - helpful discussion about medications and also about standardisation of data.
+  * KW: I LOVE THIS SO MUCH 😍
+
+#### What did you achieve?
+
+* Organised myself for community manager communications - monthly newsletter, helpful video link emails, onboarding emails, announcements for new resources such as meeting notes.
+  Slack and email.
+  Archive newsletters in Github.
+  * KW: So beautiful! 🌠
+* Communicating with team members - LY, SG and IB to get updates.
+  IB - the literature review shows lack of studies in this area and not focused on in bigger cohorts - will add this to the knowledge share coming up.
+  LY - communicating about medications.
+  * KW: REALLY great - so glad we're starting to get a few more conversations going.
+* Organised project meeting schedule - clinicians have agreed to do expert session, ethics to move date.
+* Binder workshop talk and help.
+* Chat with RG about authorship.
+* Progress of guide to communication - adding to issue in github repo of interviews/case studies, taking out open phrasing and adding in first drafts of the authorship/contributor section of the guide.
+
+#### What did you struggle with?
+
+* All ok.
+
+#### What would you like to work on next week?
+
+* More project community manager stuff - starting next newsletter, planning meeting schedule for May, keeping in touch with teams.
+* Working on authorship section of Turing way communication guide and start paper writing section.
+* Will link up with DP for Turing way onboarding chat.
+
+These all look fantastic - thank you!
+
+#### Where do you need help from Kirstie?
+
+* Lab blog - did a PR.
+  * KW: YES!! AAAAAH!
+* PRs for mentor meetings.
 
 ### Date: 24 February 2021
 
