@@ -3,6 +3,7 @@
 **2021**
 
 * [22-02-2021](#Date-22-02-2021)
+* [08-03-2021](#Date-08-03-2021)
 
 ## Patricia Goals & Aims 
 *What skills, support, plans, objectives do you have for your work at the moment? How can these meetings support these?*
@@ -76,3 +77,59 @@ Is there any particular reading/topic/task we want to explore and bring to our n
 Is there any particular reading/topic/task we want to explore and bring to our next meetings?
 * PH to create a reading list 
 * Reading for next week: https://scholar.valpo.edu/cgi/viewcontent.cgi?article=1316&context=jvbl
+
+## Date: 08-03-2021
+
+### Patricia's achievements
+* attended the [DPC Advocacy and Community Engagement Sub-Committee](https://www.dpconline.org/about/governance)
+    * will join a follow up meeting to see if [BitList update](https://www.dpconline.org/digipres/champion-digital-preservation/bit-list) can learn from Turing Way processes
+    * some of this made a really good case for the proposal idea around preserving computational notebooks that's not progressing (lack of time and no deadline)
+* finalised [blog](https://www.dcc.ac.uk/blog/dmponline-cdl-annual-planning-meeting-during-covid) on strategic meeting about our open source project and roadmap for 2021
+* got lost in ceilidh dances and Scottish recipes for social events
+* joined a workshop trying to [define research software](https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/post/fair4rs-research-software-definition-workshop) which almost made my brain explode 
+
+### Check-in ritual
+* Slack back channels for events and other conversations - so my colleagues and friends on there :heart: 
+
+## Before this call
+**Is there any particular reading/task we said we will do before we meet?**
+
+* Similar to the Open Research discussion - how do we change the wider system to make this work? 
+    * change assessment criteria 
+    * how do we prepare people for things that are hard to cover in a traditional training? 
+
+* how not to be cynical about how little has moved so far and how much change is dependent on individuals? 
+
+## Agenda and Notes
+* Review your current projects, relation and skill-building that you are working on.
+
+    * preparing some planning to hire a developer - first proper hiring/interviewing process 
+    
+* Since last time, review progress you’ve made towards your goals. Any challenges to mention?
+
+    * our upgrade highlighted quite a few issues in our deployment process and treatment of GitHub branches - while I like getting those processes aligned, it adds to the current pressure; investigating ways to compensate clients in the meantime
+
+* Review if we can attract any attention or help highlight your work.
+
+    * ideas where to post the developer job
+
+## After this call
+Is there any particular reading/topic/task we want to explore and bring to our next meetings?
+* Lazy consensus: http://nowviskie.org/2012/lazy-consensus/
+
+## Reading list suggestions
+
+### Blogs
+* Lazy consensus: http://nowviskie.org/2012/lazy-consensus/
+* Being glue: https://noidea.dog/glue
+* Preparing for the world after COVID-19: leadership lessons from crises and discontinuous change: https://blogs.lse.ac.uk/businessreview/2021/01/26/preparing-for-the-world-after-covid-19-lessons-for-leaders-from-crises-and-discontinuous-change/
+
+### Papers
+* The UK higher education senior management survey: a statactivist response to managerialist governance: https://doi.org/10.1080/03075079.2020.1712693
+
+### Books
+* Shape up: https://basecamp.com/shapeup
+
+#### On my wish list:
+* The Culture Map: https://erinmeyer.com/books/the-culture-map/
+* A world Without Email: https://www.calnewport.com/books/a-world-without-email/
