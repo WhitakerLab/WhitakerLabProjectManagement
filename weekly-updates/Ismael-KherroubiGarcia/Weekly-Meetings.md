@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [09 March 2021](#date-09-March-2021)
 * [16 February 2021](#date-16-February-2021)
 * [19 January 2021](#date-19-january-2021)
 * [15 December 2020](#date-15-december-2020)
@@ -17,6 +18,49 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 09 March 2021
+
+#### Who did you help this week?
+
+* DSG PIs with their many ethics applications!
+  * KW: YES! Thank you!
+
+#### Who helped you this week?
+
+* Turing's external supervisor =)
+  * KW: Really glad 🌺 
+
+#### What did you achieve?
+
+* Managed to distribute 6 forms for review! I think that's a record for applications-in-a-week!!
+  * KW: A LOT of applications!! Kudos to the DSG team for being so organised! 🙌
+
+#### What did you struggle with?
+
+* Decisions about casual research hours -- very much a first world problem.
+
+#### What would you like to work on next week?
+
+* I think we get to discuss this in our meeting this week -- there seems to be a lot!
+  * KW: SO FUN!
+  * Tasks for me:
+    * Brainstorm papers that I wish could be written.
+    * Think about _who_ can work with you on them as co-authors.
+  * Tasks for IKG:
+    * Review job description
+    * Identify core values for the role.
+      See "list of values" at https://daretolead.brenebrown.com/workbook-art-pics-glossary 
+
+#### Where do you need help from Kirstie?
+
+* Next steps within the role!
+
+#### Any other topics
+
+* I don't think so. Things are looking up with regards to mental health since LSE's confirmation of course postponement!
 
 ---
 
