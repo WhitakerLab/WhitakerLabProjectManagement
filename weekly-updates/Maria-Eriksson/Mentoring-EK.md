@@ -15,12 +15,10 @@
 **Next meeting:** 16th March 2021
 
 
-# Template
-
 ## Date: 16 March 2021
 
 ### What brought you joy this week?
-* EK - Kids going back to school.
+* EK - Kids going back to school. 🎉
 * ME - 
 ### What did you achieve
 * EK - Continuing community manager work on project - newsletter, individual contact, github organising.
