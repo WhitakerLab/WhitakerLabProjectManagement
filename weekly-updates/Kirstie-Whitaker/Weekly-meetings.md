@@ -8,6 +8,7 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2021**
 
+* [14 March 2021](#date-14-march-2021)
 * [7 March 2021](#date-7-march-2021)
 * [21 February 2021](#date-21-february-2021)
 * [14 February 2021](#date-14-february-2021)
@@ -18,6 +19,104 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * [8 January 2021](#date-8-january-2021)
 
 ---
+
+## Date: 14 March 2021
+
+### What brought you joy this week?
+
+* CF really really helped me this week.
+  Challenged me but then just _did_ a piece of work for me that would have taken so long if I'd stared at that blank page.
+  * SO SO grateful.
+    I felt really supported.
+* SB was a bot for the AutSPACEs meet up and I thought it was such a fantastically creative way to be useful.
+  AMAZING 🤖
+  * The AutSPACEs meet ups were great - we have a really lovely community.
+* IKG eventually said that he'd come and work full time 😉🙌
+  * Really excited to do even more work together!
+  * Big appreciation to CL and AB on the paperwork too (not exactly joy, but it did make me feel good!)
+* I'm really loving the TPS coffee chats that AB is organising ☕
+  * This week's involved a rant that I was so keen to share and I appreciate the engagement.
+    Fingers crossed we can make a difference 🤞🤞
+* AWESOME debrief w AM & AB after a call.
+* AB & ME reviewed last weeks PR and left me lots of supportive comments 😻
+  * https://github.com/WhitakerLab/WhitakerLabProjectManagement/pull/435
+* GA, IKG & SF gave a presentation about AutSPACEs at a philosophy conference!
+  SO COOL!
+  * http://doi.org/10.5281/zenodo.4603091
+* One of the team said "you did a great job" after a positive but challenging meeting which I really appreciated.
+* Funding confirmed for the big grant.
+  Waiting on the feedback to celebrate... but good news! 🎊
+* Super fun lab meeting on https://www.consentfultech.io - love it!
+* EXCELLENT job description design meeting with AM & MS
+* SUCH a lovely conversation with BM.
+  * Really supportive, and I think I was helpful too 🌻
+* Listened (and did a good job not solutionising too much) when a friend was having a really rough day at work.
+* Massively helpful conversation with CL - mentoring, planning, gossiping, solving.
+  Donuts and a little bit of hail in Greenwich Park.
+  * MUCH JOY 🍩 :deciduous_tree:
+* Bought a copy of emergent strategy for a friend in need of rest and recuperation.
+
+### What did you achieve
+
+* TPS budget & request 💰
+  * Fingers crossed 🤞
+* Feedback on proposal for AS
+* Welcomed 3 students to DECOVID! 🙌 🙏 🌟
+  * Got a good email pinged off at the end of the week 👋
+* Job description design meeting w MS & AM
+* TPS / RAM 🐏 design meeting w AM
+* Initiation planning meeting for big grant.
+  * Helpful... ish.
+    I didn't feel like we made much progress but I think we probably did in the long run.
+* Finally made it to two AutSPACEs co-working events.
+  * Both were good, we have a beautiful little community here.
+* Brainstormed _Turing Way_ training with MS
+* GSOD planning call & slack chat
+* EnvSensors monthly meeting 🌏
+* Shocks & Resilience monthly meeting
+* ASG management board and external advisory board meetings
+* Call w DSG team to see how they can contribute to _The Turing Way_ - really looking forward to sharing their work more broadly.
+* 2 x Ethics & governance design meetings.
+  * We covered A. LOT.
+  * I think it was productive though.
+  * Turing Research EthiX 🦖 😂😂😂
+* Sent a thank you email to the EAG reviewers - they've been working so hard recently!
+* 1:1 MS, IKG, GA, EK, AM,
+* Gave some feedback to IKG, GA & SF for presentation.
+* Data extract moment.
+* Super helpful dog walk phone call w collaborator.
+* Met CF in Partnerships team - really fun meeting - hopefully lots of interesting directions!
+* Attended data breach handling training
+* Paperwork to welcome LC ✅
+  * (More shout outs to AB here 🙏)
+* Got big email sent to LS, NG, CM re: coordinating collaboration
+* Feedback to SG on Binder impact story for Azure!
+* Facilitated a useful update to a paper on inclusion.
+* Approved the tedana 🎉 paper (finally 😩)
+* Made some progress on nudging the vision of the expanded Turing Way - moving the RDM chapter to Project Design...
+  Some more discussions to come
+  * https://github.com/alan-turing-institute/the-turing-way/issues/1786
+
+### What did you struggle with?
+
+* I struggled with International Women's Day having a corporate diversity lens 12 months into a global pandemic.
+  * I did really enjoy the lab coffee chat and a 1:1 rant about _why_ HR acts the way they do though.
+    That was both helpful and cathartic.
+* I don't think I hit the right tone in one of the co-working sessions.
+  I was stressed and I came out very strong.
+  * The lesson here is that I should have prepped the faciliator in advance.
+    I was waiting to see what the agenda was but I had some very specific (and I think genuinely urgent) tasks in mind.
+  * I should have made that more explicit in advance rather than potentially surprising folks.
+    * (Although to be fair to me, I'm not sure when I would have found the time for that.
+    Maybe the answer is to find more folks to help with the workload.... hopefully that will be the case soon!)
+* One of the ethics applications is tough.
+
+### Any other topics
+
+Onwards.
+Moving at the speed of trust.
+
+It does feel like we're going in the right direction though.
 
 ## Date: 7 March
 
