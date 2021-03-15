@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [16 March 2021](#date-16-March-2021)
 * [09 March 2021](#date-09-March-2021)
 * [16 February 2021](#date-16-February-2021)
 * [19 January 2021](#date-19-january-2021)
@@ -18,6 +19,44 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 16 March 2021
+
+#### Who did you help this week?
+
+* I want to say AutSPACES, even if just a bit. I joined the call on Thursday and helped two participants take notes. Hearing directly from them was also really helpful for me.
+* I am also helping with enrichment scheme recruitment. I forgot I signed up for this ages ago and casually accepted without telling you...
+
+#### Who helped you this week?
+
+* Oh, go on: KW, of course! Mostly because of how you defended the interests of the EAG when discussing process. Oh, and getting me to work full-time!
+* KW and SG with getting my head around Zenodo and DOIs!
+
+#### What did you achieve?
+
+* Presentation with GA an SF -- saved [here](https://doi.org/10.5281/zenodo.4603091) for posterity!
+
+#### What did you struggle with?
+
+* Probably getting the presentation across the finish line.
+
+#### What would you like to work on next week?
+
+* I have reviewed the JD -- the "latest" one is the one you emailed me February last year!
+* The [values](https://daretolead.brenebrown.com/workbook-art-pics-glossary/) are, I think: 
+  * _Integrity_ (big word I think is necessary for a role dealing with what can be tricky conversations),
+  * _Openness_ (which I think conveys the transparency with which we need to work) and 
+  * _Stewardship_ (because there is a need to articulate and defend the need for T-REx, but also to guide conversations in constructive directions -- if I am reading the term correctly!).
+
+#### Where do you need help from Kirstie?
+
+* I have more time now! The immediate thing I can fill that time with is _The Turing Way_, but please tell me how things are progressing "higher up" when it comes to T-REx.
+
+#### Any other topics
+
+* I don't think so!
 
 ---
 
