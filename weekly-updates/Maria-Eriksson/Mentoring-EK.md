@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [16 March 2021](#date-16-march-2021)
 * [2 March 2021](#date-2-march-2021)
 * [16 February 2021](#date-16-february-2021)
 
@@ -11,7 +12,26 @@
 
 **For how long?** 1 hour
 
-**Next meeting:** 2nd March 2021
+**Next meeting:** 16th March 2021
+
+
+# Template
+
+## Date: 16 March 2021
+
+### What brought you joy this week?
+* EK - Kids going back to school.
+* ME - 
+### What did you achieve
+* EK - Continuing community manager work on project - newsletter, individual contact, github organising.
+  * Onboarding engage students on to project.
+  * Been focusing on authorship chapter - interviews and writing first draft.
+  *  Wrote personal blog.
+  *  OLS mentoring - making progress with github repo and survey on data sharing.
+
+### What did you struggle with?
+
+### Any other topics
 
 
 ## Date: 2 March 2021
