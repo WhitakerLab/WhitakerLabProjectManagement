@@ -21,20 +21,20 @@ Replace this text with a one/two sentence description of who helped you this wee
 
 #### What did you achieve?
 
+* Community management - meeting announcements, shared code folder, meeting organisation.
+* Student onboarding.
+* First draft of Authorship chapter is nearly done and also spoke to IB.
 * SSI interview
-* Community management
-* It's ok if your list is only one bullet point long!
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* All ok!
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Helping students to get more into project.
+* Community manager stuff! - keeping my beady eye on all!
+* Starting to write up the DSG writing course.
 
 #### Where do you need help from Kirstie?
 
