@@ -19,7 +19,7 @@
 
 ### What brought you joy this week?
 * EK - Kids going back to school. 🎉
-* ME - Friends, bike rides and pastries :sun:
+* ME - Friends, bike rides and pastries :sunny:
 ### What did you achieve
 * EK - Continuing community manager work on project - newsletter, individual contact, github organising.
   * Onboarding engage students on to project.
