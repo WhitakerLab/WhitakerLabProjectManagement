@@ -28,6 +28,8 @@
   *  OLS mentoring - making progress with github repo and survey on data sharing.
 
 ### What did you struggle with?
+* EK - Same work/life balance issues
+
 
 ### Any other topics
 
