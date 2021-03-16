@@ -12,16 +12,15 @@
 
 #### Who did you help this week?
 
-* engage@turing students onboarding.
-
+* engage@turing students onboarding and answering questions - meeting booked for weds 1pm to go through github repos.
 
 #### Who helped you this week?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+* ME - suggested we have a co-working session to help us focus on the papers we are writing.
 
 #### What did you achieve?
 
-* Community management - meeting announcements, shared code folder, meeting organisation.
+* Community management - meeting announcements and notes, shared code folder, meeting organisation.
 * Student onboarding.
 * First draft of Authorship chapter is nearly done and also spoke to IB.
 * SSI interview
@@ -32,20 +31,18 @@ Replace this text with a one/two sentence description of who helped you this wee
 
 #### What would you like to work on next week?
 
-* Helping students to get more into project.
-* Community manager stuff! - keeping my beady eye on all!
+* Helping students to get more into the project.
+* Community manager stuff! - keeping my beady eyes on all! 👀
 * Starting to write up the DSG writing course.
+* AI UK.
 
 #### Where do you need help from Kirstie?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Database progress needs checking - I think there still might be an issue with a missing column.
 
 #### Any other topics
 
 This space is yours to add to as needed.
-
 
 
 ### Date: 10th March 2021
