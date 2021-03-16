@@ -19,16 +19,19 @@
 
 ### What brought you joy this week?
 * EK - Kids going back to school. 🎉
-* ME - 
+* ME - Friends, bike rides and pastries :sun:
 ### What did you achieve
 * EK - Continuing community manager work on project - newsletter, individual contact, github organising.
   * Onboarding engage students on to project.
   * Been focusing on authorship chapter - interviews and writing first draft.
   *  Wrote personal blog.
   *  OLS mentoring - making progress with github repo and survey on data sharing.
-
+* ME
+  * Feeling like this script cleaning (for GOSH-2000-2018-paper) will never end. But HOPEFULLY there’s just one left…
+  * Made a few more graphes and a few more tables for the paper (need to re-add Emma etc to the repo and re-upload scripts…!).
 ### What did you struggle with?
 * EK - Same work/life balance issues
+* ME - How sloooow certain parts of research are (looking up and double checking reports).
 
 
 ### Any other topics
