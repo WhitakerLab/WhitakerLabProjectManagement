@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [16 March 2021](#date-16-March-2021)
 * [08 March 2021](#date-08-March-2021)
 * [08 February 2021](#date-08-February-2021)
 * [18 January 2021](#date-18-January-2021)
@@ -20,6 +21,29 @@
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
 
+### Date: 16 March 2021
+
+#### Who did you help this week?
+- AM and KW in discussing job ads
+- GA in reviewing GSoC issue for interested candidates
+
+#### Who helped you this week?
+- ABL in advertising Book Dash internally
+
+#### What did you achieve?
+- Coworking with ABL on The Turing Way for internal engagement
+- Attended Autspace meet-up
+- Managed to send feedback and email for the inclusive event paper
+- Onboarded 3 members to The Turing Way (2 internal, who will need more proactive engagement)
+
+#### What did you struggle with?
+- Multi-tasking while trying to attend MozFest
+
+#### What would you like to work on next week?
+- Talk for ONS and Dora
+
+#### Where do you need help from Kirstie?
+- Policy related connections, actively engaging with policymakers in Turing and UKRN
 
 ### Date: 08 March 2021
 
