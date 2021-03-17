@@ -1,5 +1,6 @@
 # Mentoring Sessions with Ismael
 
+* [17 March 2021](#date-17-march-2021)
 * [03 March 2021](#date-03-march-2021)
 * [17 February 2021](#date-17-february-2021)
 
@@ -15,6 +16,25 @@
 #### Any other topics
 #### Next meeting
 
+---
+
+#### Date: 17 March 2021
+#### What brought you joy this week?
+* IKG: Hmmmmmmmm, knowing that I'm working full-time now =)
+
+#### What did you achieve?
+* IKG: presented at a postgraduate philosophy conference!!! Slides here: https://doi.org/10.5281/zenodo.4603091
+
+#### What did you struggle with?
+* IKG: Hmmmmmmmmmmm, possibly also the conference, haha (the build-up to it!)
+
+#### Any other topics
+* IKG: Hmmmmmmmmmmmmmmmmmm!
+
+#### Next meeting
+
+---
+
 ## Date: 03 March 2021
 #### What brought you joy this week?
 * IKG: Confirming that LSE is postpone for a year!
@@ -29,6 +49,8 @@
 #### Any other topics
 * IKG: Not really!
 #### Next meeting: 17 March 2021
+
+---
 
 ## Date: 17 February 2021
 
