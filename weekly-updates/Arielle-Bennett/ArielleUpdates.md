@@ -12,58 +12,92 @@
 
 * THF - good intro chat re: Turing Way and their ongoing projects.
   * I think they found it useful, thanks to MM for making that connection
-* Raphtory team have been having ongoing discussions around data access/sharing 
-* Work on wrapping up outstanding OA block grant requests 
+  * KW: Really good - well done!
+* Raphtory team have been having ongoing discussions around data access/sharing
+  * KW: YAAY - thank you! 🙏
+* Work on wrapping up outstanding OA block grant requests
+  * KW: Super valuable - can we share more details for next year with the programme directors as early as we have confirmation?
 * More budget rejigging for some projects
+  * KW: So. Helpful. (To them and to me - THANK YOU!)
 * Recruitment bits & pieces for a critical role
+  * KW: SO MANY DOCUSIGNS!!!!! I'm getting reminders from myself to sign the ones I created and sent to myself incorrectly.
+  * You were fantastic - THANK YOU!
 * Small tasks to help people focus on the bigger picture
+  * KW: GREAT WORK.
 
 #### Who helped you this week?
 
 * KL & DL for inviting me to the ULMs meeting to present & sending nice feedback afterwards
-* MS getting the activism chapter live & lots of coworking on Turing Way plans 
+  * KW: So delighted to hear the feedback - WELL DONE!
+  * (And about TPS, amazing that I didn't even have to be there THE DREAM!)
+* MS getting the activism chapter live & lots of coworking on Turing Way plans
+  * KW: Excellent 🌠
 * KR for a quick chat that sorted a lot of website things out
-* AY has been really helpful in updating the TPS seminar page, including my feedback on some of the default settings 
+  * KW: NEW PERSON (to me) - that sounds massively helpful - well done (and thank you to KR!)
+* AY has been really helpful in updating the TPS seminar page, including my feedback on some of the default settings
+  * KW: GREAT JOB!
 
 #### What did you achieve?
 
 * Ran 2 sessions on REG process allocation with GH - think everyone found it really useful
   * Next steps will be circulating the documents and making sure they're accessible / updated 
+  * KW: I got feedback on just how great you've done on this - well done 🌟
 * Speakers for the next 4 TPS seminars lined up + the Feb seminar!
-* Work on TPS governance document  
+  * KW: AWESOME!
+  * August break and then maybe a "back to school" lightning talk round in September. GREAT JOB.
+* Work on TPS governance document
 * CTP website should be live soon!
   * + CTP meeting notes :D 
+  * KW: Wooooo!
 * Lots of year end admin/emails - we now have confirmation of financial project close for lots of older projects
+  * KW: THANK YOU!
+    Well done - we shall not be in this position next year 😉
+* KW: THE TURING WEBSITE FOR THE TURING WAY IS UPDATED OMGAAAAAAAAAAAAAAAAAAAH!
+  * I have been feeling guilty about this for around 18 months.
+  * You have brought me GREAT JOY 💖💖💖
 
 #### What bought you joy this week?
 
 * Open Research: A Vision for the Future was *SO GOOD* ✨
+  * KW: I'm so glad!
 * Activism chapter live! 
   * https://the-turing-way.netlify.app/ethical-research/activism.html
   * Already had good feedback on it that I will be incorporating later
   * LC also has more excellent ideas, see https://github.com/alan-turing-institute/the-turing-way/issues/1575
   * My lightning talk on it also got accepted  🎉
+  * KW: I keep forgetting to do a big promotion push on this chapter - is there anything I can do to share it more broadly?
+    * Decision in the meeting for AB to let KW know when you're ready 😉
 * Discussing ideas for Science Transformed 💡
+  * KW: Super fun - very supportive!
 * Talked Data Stories yesterday - they're planning one on Desert Island Discs which would be really cool! 
   * (I don't think I'll be able to prioritise contributing, but I'm looking forward to the output)
+  * KW: Great stuff - so glad you that you're part of these conversations.
 
 #### What did you struggle with?
 
 * Long meetings with higher level politics are not my forte
+  * KW: Oh - I don't think they're anyone's 😩
 * Also think I went in too keen on a subsequent meeting & might've scared people off from contributing 😞
+  * KW: Might also have been that everyone was blown away by how great your plan was 🙌
 * *gestures wildly at the state of the world*
 
 #### What would you like to work on next week?
 
 * Next week I need to nail YE work - everyone's getting chased! 
+  * KW: 🙈
 * Onboarding/community thoughts- balancing what the individual project have vs what would add value at a higher level
+  * KW: This is what we should go on a big walk to discuss too!!
+  * Are you connecting with AM?
 * Lots of letters next week: extensions, amendments, updates... ✉️
+* First pass through the Turing Fellow nomination form 
 
 #### Where do you need help from Kirstie?
 
 * It's newsletter time again! 📔
 * TPS governance document, will discuss then get the OK to send to CR 
+  * KW: Looking GREAT - very well done - and huge huge thank yous!
 * Let's brainstorm onboarding ideas... 
+  * KW: Discussed in meeting.
 
 #### Any other topics
 
