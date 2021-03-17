@@ -13,16 +13,21 @@
 #### Who did you help this week?
 
 * engage@turing students onboarding and answering questions - meeting booked for weds 1pm to go through github repos.
+  * KW: SO delighted with this!! :heart_eyes:
 
 #### Who helped you this week?
 
 * ME - suggested we have a co-working session to help us focus on the papers we are writing.
+  * KW: So good! Maybe IKG and GA could be included if that didn't distract too much.
 
 #### What did you achieve?
 
 * Community management - meeting announcements and notes, shared code folder, meeting organisation.
 * Student onboarding.
 * First draft of Authorship chapter is nearly done and also spoke to IB.
+  * KW: Ooooooh - I'm so excited about this 🙏
+    And MS is also thinking about authorship _of_ The Turing Way so good to make sure those sections are harmonised.
+  * And FN?
 * SSI interview
 
 #### What did you struggle with?
@@ -33,19 +38,21 @@
 
 * Helping students to get more into the project.
 * Community manager stuff! - keeping my beady eyes on all! 👀
+  * KW: 👀👀👀👀👀👀 😉 💝
 * Starting to write up the DSG writing course.
 * AI UK.
+  * KW: Great stuff!
 
 #### Where do you need help from Kirstie?
 
 * Database progress needs checking - I think there still might be an issue with a missing column.
-* Project PRs for merging? #358 - ucl safe haven guide and #357 - Louises writing guide. 
+  * KW: I'll chase.
+* Project PRs for merging? #358 - ucl safe haven guide and #357 - Louises writing guide.
+  * KW: #358 feels like something HM can check -- needs to be the same as the final version in the DLAs
+  * KW: #357 I'll have a read of that ✔️ Please chase me early next week (I'll likely do it during AIUK)
 * Please look at Georgia mentoring session PR so I can merge it.
 
-#### Any other topics
-
-This space is yours to add to as needed.
-
+KW: Just great work again - thank you so much!
 
 ### Date: 10th March 2021
 
