@@ -39,6 +39,7 @@
 #### Where do you need help from Kirstie?
 
 * Database progress needs checking - I think there still might be an issue with a missing column.
+* Project PRs for merging? #358 - ucl safe haven guide and #357 - Louises writing guide. 
 * Please look at Georgia mentoring session PR so I can merge it.
 
 #### Any other topics
