@@ -2,8 +2,72 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 17 March 2021 
+
+#### Who did you help this week?
+
+* THF - good intro chat re: Turing Way and their ongoing projects.
+  * I think they found it useful, thanks to MM for making that connection
+* Raphtory team have been having ongoing discussions around data access/sharing 
+* Work on wrapping up outstanding OA block grant requests 
+* More budget rejigging for some projects
+* Recruitment bits & pieces for a critical role
+* Small tasks to help people focus on the bigger picture
+
+#### Who helped you this week?
+
+* KL & DL for inviting me to the ULMs meeting to present & sending nice feedback afterwards
+* MS getting the activism chapter live & lots of coworking on Turing Way plans 
+* KR for a quick chat that sorted a lot of website things out
+* AY has been really helpful in updating the TPS seminar page, including my feedback on some of the default settings 
+
+#### What did you achieve?
+
+* Ran 2 sessions on REG process allocation with GH - think everyone found it really useful
+  * Next steps will be circulating the documents and making sure they're accessible / updated 
+* Speakers for the next 4 TPS seminars lined up + the Feb seminar!
+* Work on TPS governance document  
+* CTP website should be live soon!
+  * + CTP meeting notes :D 
+* Lots of year end admin/emails - we now have confirmation of financial project close for lots of older projects
+
+#### What bought you joy this week?
+
+* Open Research: A Vision for the Future was *SO GOOD* ✨
+* Activism chapter live! 
+  * https://the-turing-way.netlify.app/ethical-research/activism.html
+  * Already had good feedback on it that I will be incorporating later
+  * LC also has more excellent ideas, see https://github.com/alan-turing-institute/the-turing-way/issues/1575
+  * My lightning talk on it also got accepted  🎉
+* Discussing ideas for Science Transformed 💡
+* Talked Data Stories yesterday - they're planning one on Desert Island Discs which would be really cool! 
+  * (I don't think I'll be able to prioritise contributing, but I'm looking forward to the output)
+
+#### What did you struggle with?
+
+* Long meetings with higher level politics are not my forte
+* Also think I went in too keen on a subsequent meeting & might've scared people off from contributing 😞
+* *gestures wildly at the state of the world*
+
+#### What would you like to work on next week?
+
+* Next week I need to nail YE work - everyone's getting chased! 
+* Onboarding/community thoughts- balancing what the individual project have vs what would add value at a higher level
+* Lots of letters next week: extensions, amendments, updates... ✉️
+
+#### Where do you need help from Kirstie?
+
+* It's newsletter time again! 📔
+* TPS governance document, will discuss then get the OK to send to CR 
+* Let's brainstorm onboarding ideas... 
+
+#### Any other topics
+
+
 
 ## Date: 23 February 2021
 *Shorter interval due to rejigging around leave*
