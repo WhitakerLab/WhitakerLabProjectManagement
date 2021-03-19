@@ -84,7 +84,7 @@
 
 ### Any other topics
 
-My meeting with Aida today was mostly expectation setting regarding what my role might look like in the future, some therapy around institution and contrasting this with start-up culture.
+My meeting with Aida today was mostly expectation setting regarding what my role might look like in the future, some therapy around institution culture and contrasting this with start-up culture.
 
 ## Template
 
