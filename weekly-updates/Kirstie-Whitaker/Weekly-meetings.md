@@ -8,6 +8,7 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2021**
 
+* [7 March 2021](#date-7-march-2021)
 * [21 February 2021](#date-21-february-2021)
 * [14 February 2021](#date-14-february-2021)
 * [7 February 2021](#date-7-february-2021)
@@ -17,6 +18,89 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * [8 January 2021](#date-8-january-2021)
 
 ---
+
+## Date: 7 March
+
+*Updates covering 2 weeks as I had a few days off at the start of March.*
+
+### What brought you joy this (2) weeks?
+
+* LA helped me SO SO much going through the knowledge share slide by slide and brainstorming the take home points for my presentation 🙏 😻
+* Great call with EM about systems design.
+* Helped a friend with a job presentation (loved it, but also - boo free work!!)
+* Super helpful call with JA getting some guidance on a project.
+* Super helpful call with CF on TPS finances 🙏
+* TPS seminar - so appreciate the eScience Center's team contributing to The Turing Way 💗.
+* I gave some - hopefully - useful context to someone applying to join the Turing as a (equivalent to a) research fellow.
+* BIDS Steering Group discussion about adding species to the standard was amazing.
+* All the lab mentorship notes on GitHub are bringing me so much joy 🙌
+* GA & JS gave a great talk at the Social Data Science special interest group!
+  And they were really well supported by lab members.
+* Really appreciated the conversion with the Exec Director ladies.
+* Super helpful mentorship call with KP 🌱
+* Really really no meeting Friday got through a lot of emails!
+  5513 --> 5392 (but then back up again by the time I got back from my dog walk 😂)
+  * https://twitter.com/kirstie_j/status/1367764683864875009?s=20
+* AB got some finances sorted out which I _hope_ will make one of our TPS project leads feel a bit better 🌼
+* I finished reading Thundehead and absolutely loved it.
+
+### What did you achieve
+
+* Presentation to the DECOVID Exec team.
+  Went well.
+  PHEW 😌
+* All hands meeting was helpful too.
+* Recruited 2 students to work on a project 🚀 🌟
+* Wrote letter of recommendation for PR.
+  Fingers crossed 🤞😬🤞
+* Got an ethics approval over the finish line.
+* Gave a report writing workshop for the DSG participants 📝
+* Research Fish submission.
+  * And the correction 🙈
+* I was helpful on a call with GT
+* I think I was helpful on a call with VF
+* Useful catch up chat with AM
+* Met the new fast streamer for TPS 👋
+* Brainstorming meeting for training at the Turing
+* Catch up with MBr
+* Bit of brainstorming on Trinity Challenge... but not really enough...
+* Bit of brainstorming for future resourcing for The Turing Way
+* 1:1 w AB, MS, EK, GA & ME
+* Reviewed the DECOVID newsletter!
+  Loved it!
+* Wrote huge complain about how the Turing slack is under utilised 😬
+* BIDS Steering Group meeting
+* EDoN meeting
+* I had 3 days off! 🙀
+  They were really great 🌟
+
+### What did you struggle with?
+
+* I should have helped someone more than I did.
+  It was a tough run because I also needed to fit my own oxygen mask.
+  But I'm sad at how things turned out.
+* EAG work was harder than it should have been.
+* I'm disappointed with engagement across the Turing in general.
+  I don't know what is up but there's something about 2021 that has just taken all the wind out of everyone's sails.
+  * I really wish we could find time to support each other _more_ not less as we continue to be so isolated 😢
+* The DSG workshop was super silent... I have absolutely no idea how it went 😩
+  * Apparently the September reports were some of the best they've ever had though so maybe I made a good impression??
+* Lab meeting discussion on arguments about barriers open science made me feel old & jaded.
+  I think that's ok though.... I am old and jaded from an open science perspective 😅
+* A few doc appts which took up some time and left me tired on one of the days.
+  Had a whole day of watching Deep Space 9.... which was fine I think.
+  It was what a needed 💤
+* Found out a grant that I was Co-I on wasn't funded.
+  Booooo
+
+### Any other topics
+
+Blurgh.
+Feels like a lot of bits and not much substance.
+But maybe I just have to be ok with chip chip chipping away.
+
+The time off was excellent.
+Strong recommendation 🌳🐾👩‍🍳😋💐
 
 ## Date: 21 February 2021
 
