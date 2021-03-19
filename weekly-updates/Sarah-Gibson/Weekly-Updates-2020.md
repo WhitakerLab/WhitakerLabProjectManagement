@@ -1,11 +1,47 @@
 # Sarah's Fortnightly Mentoring Meetings
 
-- [2020-03-10](#date-2020-03-10)
+- [2020-03-24](#date-2021-03-24)
+- [2020-03-10](#date-2021-03-10)
 - [Template](#template)
 
 ---
 
-## Date: 2020-03-10
+## Date: 2021-03-24
+
+### Who did you help this week?
+
+- MS and KW run a Turing Way/Binder workshop for Engage@Turing students
+- Other members of my Carpentries instructor training cohort with questions and suggestions
+
+### Who helped you this week?
+
+- MS for setting up the workshop so well that I could just turn up and do my thing
+- AN and SC for running such a wonderful training
+
+### What did you achieve?
+
+- Completed the Carpentries Instructor Training course.
+  Only the checkout procedure to go!
+- Delivered Zero-to-Binder and received a lot of positive feedback
+
+### What did you struggle with?
+
+- I probably overcommitted myself.
+  Spent a lot of time in meetings/trainings this week rather than working.
+  It'll pay off in the long run, but also probably burned myself out a touch.
+- I wish some internal training could be as engaging as the external training I received
+
+### What would you like to work on next week?
+
+- Finishing my slides for my talk at Lund and giving a great talk/tutorial
+- Scoping a person to look after the Turing Binder Federation cluster with me
+- Should probably focus on some LwM stuff too
+
+### Where do you need help from Kirstie?
+
+- All good I think!
+
+## Date: 2021-03-10
 
 ### Who did you help this week?
 
