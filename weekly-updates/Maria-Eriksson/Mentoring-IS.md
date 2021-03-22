@@ -1,5 +1,7 @@
 # Mentoring Sessions with Isla
 
+* [23 March 2021](#date-23-march-2021)
+* [9 March 2021](#date-9-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [11 February 2021](#date-11-february-2021)
 * [26 January 2021](#date-26-january-2021)
@@ -14,6 +16,17 @@
 **For how long?** 1 hour
 
 **Next meeting** 
+
+## Date: 23 March 2021
+
+### Questions for the meeting
+
+* ME: Project "let's ensure that sensitive data is not stored in Jupyter notebooks" - would love to discuss the method IS showed during the Whitaker Lab meeting + the method SG mentioned (is it [this](https://pypi.org/project/nbstripout/)? Or was it something 'black'?)
+
+## Date: 9 March 2021
+
+* We discussed IS's answers to ME's questions posted in the previous meeting (the 23 February meeting).
+* IS showed ME how to streamline histopathology extract scripts further.
 
 ## Date: 23 February 2021
 
