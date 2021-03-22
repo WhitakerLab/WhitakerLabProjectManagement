@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [22 March 2021](#date-22-march-2021)
 * [4 March 2021](#date-4-march-2021)
 * [18 February 2021](#date-18-february-2021)
 * [4 February 2021](#date-4-february-2021)
@@ -16,6 +17,57 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 22 March 2021
+
+#### Who did you help this week?
+
+* [Mentoring session with IKG](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Ismael-KherroubiGarcia/Mentored.md)
+* [Mentoring session with EK](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-EK.md)
+* BSc student re neuropsychology project
+
+#### Who helped you this week?
+
+* [Mentoring session with IS](https://github.com/MariaEriksson/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-IS.md)
+* [Mentoring session with EK](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/Em_Maria_2March/weekly-updates/Maria-Eriksson/Mentoring-EK.md)
+
+#### What did you achieve?
+
+* Finished checking and organising all scripts for publication
+* Finished first draft of publication piece (uploaded to repository and sent to TB, SA and KW)
+* Reviewed first draft w TB
+
+### What did you struggle with?
+
+* Some parts of research are sooooo sloooooow.
+
+#### What would you like to work on next week?
+
+* Submit abstract to [ILAE conference](https://www.epilepsycongress.org/iec/abstracts/)
+* Incorporate feedback from TB
+ 	* Add median seizure freedom rate
+	* Create additional figure with annual seizure freedom rates without palliative procedures (MTS and CC)
+	* Add additional info re patients with genetic findings
+	* Get in touch with person who run clinical presentation to ask about presenting
+	* Teak surgery categories
+	* Plot duration of epilepsy by surgery type
+	* Add duration of epilepsy to raincloud plot
+	* Tweak surgery type categories
+	* Add confidence intervals to scatter plots
+* Incorporate feedback from SA
+	* Combine figures
+* Run stats
+	* Regression analyses
+	* Independent t test
+* Contact CESS to get figures on annual epilepsy prevalence figures
+* AI UK conference
+
+#### Where do you need help from Kirstie?
+
+* Timing of feedback on publication piece - should I wait with showing KW until stats are done?
+* Citing raincloud plot
+	* Allen M, Poggiali D, Whitaker K et al. Raincloud plots: a multi-platform tool for robust data visualization [version 2; peer review: 2 approved]. Wellcome Open Res 2021, 4:63. DOI: 10.12688/wellcomeopenres.15191.2
+	* Goes in stats description?
 
 ### Date: 4 March 2021
 
