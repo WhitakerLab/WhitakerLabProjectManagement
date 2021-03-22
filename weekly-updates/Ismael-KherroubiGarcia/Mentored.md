@@ -21,15 +21,19 @@
 #### Date: 17 March 2021
 #### What brought you joy this week?
 * IKG: Hmmmmmmmm, knowing that I'm working full-time now =)
+  * ME: 🎉 🎉
 
 #### What did you achieve?
 * IKG: presented at a postgraduate philosophy conference!!! Slides here: https://doi.org/10.5281/zenodo.4603091
+  * ME: Loved this presentation - well done again! 🌟
 
 #### What did you struggle with?
 * IKG: Hmmmmmmmmmmm, possibly also the conference, haha (the build-up to it!)
+  * ME: Chatted about this in meeting :tulip:
 
 #### Any other topics
 * IKG: Hmmmmmmmmmmmmmmmmmm!
+  * ME: Keeping momentum going on research project with GA and SF; future possible research topics; participatory science; future possible publications; [JANE](https://jane.biosemantics.org) 
 
 #### Next meeting
 
