@@ -6,40 +6,44 @@
 
 **Why?** Peer mentoring, community management & GitHub
 
-**When?** Fortnightly, Fridays at 3:30pm.
+**When?** Fortnightly, Mondays 10am.
 
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
 
-**Next meeting:** [8th March 2021]
+**Next meeting:** [12th April 2021] No meeting on 5th April as it's a bank holiday.
 
-# Template
-
-## Date: 22/03/2021
+## Date: 22nd March 2021
 
 ### What brought you joy this week?
 
 * My sister <3 wrote a sci-fi story 
+ * Sounds amazing. 
 
 ### What did you achieve
 
 * PGSAUT talk - SF was awesome! 
-* Bi-weekly meeting - SB's agnda bot was awesome!
+ * EK - well done! 🎉
+* Bi-weekly meeting - SB's agenda bot was awesome!
+ * EK - Looking forward to attending the meeting this week. 😃 
 * More work on platform/documentation
 * Reviewed mega PR from JK
-* Moderation stuff with JS - helped him do his first PR  - yay! 
+* Moderation stuff with JS - helped him do his first PR  - yay!
+ * EK - Great that you are passing on your Github skills to others and getting help with managing the repo. 🌟 
 
 ### What did you struggle with?
 
 * GSoC
+ * EK - make sure that you get clarity on this so that you can meet the deadline.  
 * CoC
+ * EK - good idea to review/refresh CoC from time to time to make sure everyone is on the same page. 
 
 ### Any other topics
 
 EK's beautiful flowers
 Managing anxiety 
-How to make meetings effective
+How to make meetings effective - write down questions you want to ask, make sure that you have got clarity on the main focuses for the next week or so - ask this directly at the end of meeting to summarise what has been discussed.
 
 ## Date: 8th March 2021
 
