@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [22 March 2021](#date-22-march-2021)
 * [4 March 2021](#date-4-march-2021)
 * [18 February 2021](#date-18-february-2021)
 * [4 February 2021](#date-4-february-2021)
@@ -16,6 +17,64 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 22 March 2021
+
+#### Who did you help this week?
+
+* [Mentoring session with IKG](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Ismael-KherroubiGarcia/Mentored.md)
+* BSc student re neuropsychology project
+
+KW: Super fun! Thank you so much for putting in all these connections.
+
+#### Who helped you this week?
+
+* [Mentoring session with IS](https://github.com/MariaEriksson/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-IS.md)
+* [Mentoring session with EK](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-EK.md)
+* TB, SA and KA-W provided feedback on first draft
+  * KW: 🎉🎉🎉 
+  * Slow next steps - aaaaaah - so true!
+
+KW: Loving all these connections (as above) - really great!
+
+#### What did you achieve?
+
+* Finished checking and organising all scripts for publication
+* Finished first draft of publication piece (uploaded to repository)
+* Reviewed first draft with TB
+
+### What did you struggle with?
+
+* Some parts of research are sooooo sloooooow.
+  * KW: So truuuuuuuuuuuuuuuuuuuuuuue.
+
+#### What would you like to work on next week?
+
+* Submit abstract to [ILAE conference](https://www.epilepsycongress.org/iec/abstracts/)
+* [Incorporate feedback from TB](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/5)
+* Incorporate feedback from SA
+  * Combine figures
+* Run stats
+  * Regression analyses
+  * Independent t test
+* Contact CESS to get figures on annual epilepsy prevalence figures
+* AI UK conference
+
+KW: Oooooooooh - so so much fun!
+
+#### Where do you need help from Kirstie?
+
+* Timing of feedback on publication piece - should I wait with showing KJW until stats are done?
+* Citing raincloud plot
+  * Allen M, Poggiali D, Whitaker K et al. Raincloud plots: a multi-platform tool for robust data visualization [version 2; peer review: 2 approved]. Wellcome Open Res 2021, 4:63. DOI: 10.12688/wellcomeopenres.15191.2
+  * Goes in stats description?
+
+KW: Yep - in the methods section ✔️
+
+#### Any other topics
+
+* Daily 'what I'm working on'-message?
+  * KW: We ran out of time - ping on slack when you have time (meta 😂)
 
 ### Date: 4 March 2021
 
@@ -115,8 +174,6 @@
 
 * I would love to hear what you think of the GOSH-2000-2018-paper repo
 * I would love opinion on potential collaborations
-
-#### Any other topics
 
 ### Date: 4 February 2021
 
