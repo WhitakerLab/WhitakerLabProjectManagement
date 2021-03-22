@@ -45,15 +45,7 @@
 #### What would you like to work on next week?
 
 * Submit abstract to [ILAE conference](https://www.epilepsycongress.org/iec/abstracts/)
-* Incorporate feedback from TB
- 	* Add median seizure freedom rate
-	* Create additional figure with annual seizure freedom rates without palliative procedures (MTS and CC)
-	* Add additional info re patients with genetic findings
-	* Get in touch with person who run clinical presentation to ask about presenting
-	* Plot duration of epilepsy by surgery type
-	* Add duration of epilepsy to raincloud plot
-	* Tweak surgery type categories
-	* Add confidence intervals to scatter plots
+* [Incorporate feedback from TB](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/5)
 * Incorporate feedback from SA
 	* Combine figures
 * Run stats
