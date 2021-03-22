@@ -35,8 +35,8 @@
 #### What did you achieve?
 
 * Finished checking and organising all scripts for publication
-* Finished first draft of publication piece (uploaded to repository and sent to TB, SA and KW)
-* Reviewed first draft w TB
+* Finished first draft of publication piece (uploaded to repository)
+* Reviewed first draft with TB
 
 ### What did you struggle with?
 
