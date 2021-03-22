@@ -5,7 +5,6 @@
 * [17 February 2021](#date-17-february-2021)
 
 **Why?** Sharing of knowledge relating to ethics, research practises and health care data
-@@ -14,12 +15,25 @@
 
 ## Template
 
