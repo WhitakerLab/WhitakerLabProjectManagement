@@ -50,7 +50,6 @@
 	* Create additional figure with annual seizure freedom rates without palliative procedures (MTS and CC)
 	* Add additional info re patients with genetic findings
 	* Get in touch with person who run clinical presentation to ask about presenting
-	* Teak surgery categories
 	* Plot duration of epilepsy by surgery type
 	* Add duration of epilepsy to raincloud plot
 	* Tweak surgery type categories
