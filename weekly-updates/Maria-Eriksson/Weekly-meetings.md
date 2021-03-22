@@ -29,7 +29,8 @@
 #### Who helped you this week?
 
 * [Mentoring session with IS](https://github.com/MariaEriksson/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-IS.md)
-* [Mentoring session with EK](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/Em_Maria_2March/weekly-updates/Maria-Eriksson/Mentoring-EK.md)
+* [Mentoring session with EK](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-EK.md)
+* TB, SA and KW provided feedback on first draft
 
 #### What did you achieve?
 
