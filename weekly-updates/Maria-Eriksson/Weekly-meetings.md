@@ -69,6 +69,10 @@
 	* Allen M, Poggiali D, Whitaker K et al. Raincloud plots: a multi-platform tool for robust data visualization [version 2; peer review: 2 approved]. Wellcome Open Res 2021, 4:63. DOI: 10.12688/wellcomeopenres.15191.2
 	* Goes in stats description?
 
+#### Any other topics
+
+* Daiy 'what I'm working on'-message?
+
 ### Date: 4 March 2021
 
 #### Who did you help this week?
@@ -167,8 +171,6 @@
 
 * I would love to hear what you think of the GOSH-2000-2018-paper repo
 * I would love opinion on potential collaborations
-
-#### Any other topics
 
 ### Date: 4 February 2021
 
