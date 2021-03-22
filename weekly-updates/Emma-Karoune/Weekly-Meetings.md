@@ -1,11 +1,51 @@
 # Emma's Weekly Meeting Notes
 
+* [31 March 2021](#date-31-march-2021)
 * [17 March 2021](#date-17-march-2021)
 * [10 March 2021](#date-10-march-2021)
 * [24 February 2021](#date-24-february-2021)
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 31 March 2021
+
+#### Who did you help this week?
+
+* MS - Prepared powerpoint for CW21 Project design session.
+* GA - Mentoring meeting.
+
+#### Who helped you this week?
+
+* HM - super organised with IG things.
+
+#### What did you achieve?
+
+* Community manager things - keeping on top of meetings schedule and notes, shared code folder, student wrangling, prep for newsletter.
+* Finished first draft of authorship chapter and sent out for comments/editing.
+* 
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Kirstie?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
 
 
 ### Date: 17th March 2021
