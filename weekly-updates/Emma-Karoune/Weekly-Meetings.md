@@ -17,30 +17,31 @@
 
 #### Who helped you this week?
 
-* HM - super organised with IG things.
+* HM - Super organised with IG things.
+* engage@turing students - met with them to go through Github and have been practicing PR review with them.
 
 #### What did you achieve?
 
 * Community manager things - keeping on top of meetings schedule and notes, shared code folder, student wrangling, prep for newsletter.
 * Finished first draft of authorship chapter and sent out for comments/editing.
+* Written up DSG report writing training course.
+* Meeting with DP to introduce Turing Way Github and go through DSG manual.
+* Researching journals for project data paper.
 * 
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* All good at the moment.
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* CW21
+* Finishing the project newsletter with help from students.
+* 
 
 #### Where do you need help from Kirstie?
+* Report writing course for carpentries - shall we expand to a full day? Add session on planning writing for projects such as authorship, going over collaborative tools, and then academic writing, etc.  
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
 
 #### Any other topics
 
