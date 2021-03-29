@@ -14,11 +14,12 @@
 
 * MS - Prepared powerpoint for CW21 Project design session.
 * GA - Mentoring meeting.
+* engage@turing students - met with them to go through Github and have been practicing PR review with them.
 
 #### Who helped you this week?
 
 * HM - Super organised with IG things.
-* engage@turing students - met with them to go through Github and have been practicing PR review with them.
+* ME - Co-working for paper writing.
 
 #### What did you achieve?
 
@@ -35,9 +36,9 @@
 
 #### What would you like to work on next week?
 
-* CW21
 * Finishing the project newsletter with help from students.
-* 
+* Sorting out the May meeting schedule.
+* Starting on collaborative academic writing section for turing way.
 
 #### Where do you need help from Kirstie?
 * Report writing course for carpentries - shall we expand to a full day? Add session on planning writing for projects such as authorship, going over collaborative tools, and then academic writing, etc.  
