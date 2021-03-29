@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [30 March 2021](#date-30-March-2021)
 * [16 March 2021](#date-16-March-2021)
 * [09 March 2021](#date-09-March-2021)
 * [16 February 2021](#date-16-February-2021)
@@ -19,6 +20,40 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 16 March 2021
+
+#### Who did you help this week?
+
+* AM! We ha our second mentoring session -- still figuring out how to get a folder setup on Github (at time of writing). But we will be scoping how RAMs can spread The Good Word of the EAG.
+
+#### Who helped you this week?
+
+* CB was helpful on the research ethics front, reminding me of what was done for DECOVID; also interested in sharing on the Turing Blog about partiucipatory science; and interested in helping write a paper (I still need to hear back from GA an SF).
+
+#### What did you achieve?
+
+* Got a nifty new ethics form to a decent place based on DL's FAST principles.
+
+#### What did you struggle with?
+
+* Getting EAG reviews done...
+
+#### What would you like to work on next week?
+
+* I will have a think about case studies before meeting with AS and NT on Thursday
+
+#### Where do you need help from Kirstie?
+
+* Have we heard back about the Turing-wide ethics review?
+
+#### Any other topics
+
+* I am using this space to remind you oooooooooooooooooooooooof (as you wrote last time we met!):
+  * KW: I'd love to brainstorm an academic paper that accompanies all the T-REx work that we've been working on.
+Please remind me about that!! 🙏
 
 ---
 
