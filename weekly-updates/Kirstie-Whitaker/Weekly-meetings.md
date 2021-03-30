@@ -8,6 +8,7 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2021**
 
+* [28 March 2021](#date-28-march-2021)
 * [14 March 2021](#date-14-march-2021)
 * [7 March 2021](#date-7-march-2021)
 * [21 February 2021](#date-21-february-2021)
@@ -19,6 +20,120 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * [8 January 2021](#date-8-january-2021)
 
 ---
+
+## Date: 28 March 2021
+
+*Updates covering 2 weeks as I had MELT DOWN last week and everything fell off the to do list.*
+
+### What brought you joy this week?
+
+* 100% test coverage for the tps job description repository.
+  * Not the most important thing BUT super super valuable for helping me to really understand the interoperability of these roles 👾 🌌 🧠
+* Confirmation on funding 💰💰💰
+  * Really allows me to plan strategically for the rest of this year (and beyond).
+* Turing Way training for doctoral students was SO beautiful! :sparkling_heart:
+  * Extracted feedback:
+    * Contributing isn’t as daunting as it seems. (+1 +1)
+    * I love that the coffee break feedback from yesterday was taken on board so promptly. :coffee: :heart:
+    * Mostly non awkward group work - hard to achieve!
+    * Delta: Not enough pets on camera 🐈 🐶 📸 😂
+  * MASSIVE joy and appreciation to MS for designing all the work and SG for joining us to deliver!
+    * We come across really freaking awesome ladies 🙌 💪 🌠
+* Welcomed the Engage at Turing student teams to DECOVID!
+  * Super grateful to the Analytics Steering Group for their introductions and welcomes.
+* AB is _SUCH_ a help on all her amazing note taking, and the fact that she can put them in GitHub is such a dream.
+* MS coordinating a lunch time chat with folks attending the Collaborations Workshop was SO great!
+  * Lots of fun and an opportunity to either motivate or terrify people by thanking them for being ambassadors for the project!
+* The Turing Way project Turing website is updated!!!! OMG WHAT A GIFT!
+  * Thank you AB and MS! ❤️❤️❤️
+  * https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science
+* Said no to an opportunity.
+  * CORRECT CHOICE.
+    I need to get the rest of my sh*t together before bringing in more 😩
+* Helped out a friend with some last minute reviews.
+  * (But also forgot to submit them on time so felt super shitty then 😢.
+    Hopefully all fixed now.)
+* Backchannel chatting during a big meeting.
+  Super helpful to get to know that team and what they're thinking a little more!
+* Hung out with MozFellows at MozFest.
+  I miss my friends :heartpulse:
+* Loved LC's goat herdin with all the recommended readings! 🐐
+* Said thank you to a DECOVID student by getting them a ticket for AIUK.
+
+### What did you achieve
+
+* Really really deep work on job descriptions.
+  * I'm not quite there yet but 2 days on the couch focusing entirely on them was exactly what I needed to move forwards.
+  * https://github.com/alan-turing-institute/tps-job-ads 🔒 (private repo)
+* Extended EK's contract ✔️
+* Led 2 day training on the Turing Way.
+* Brainstorming planning on Trinity Challenge application but ultimately decided that I don't have the time to take this work forwards.
+  * Helpful conversations with EM, AM, JH, DL and DF.
+* NIHR Networking meeting with development award holders.
+  * Pulled together a somewhat interesting discussion on a very busy day!
+* Welcomed the Engage at Turing students to DECOVID.
+  * At the Analytics steering group meeting, and in a small group intro meeting.
+  * Not my best work, not as well prepared as I'd hoped.
+    But fingers crossed it was good enough 🤞
+* Presented DECOVID at Turing Catch Up meeting.
+* DECOVID Knowledge Share!
+  * We're progressiiiiiiing!
+* DECOVID data engineering paper meeting.
+* DECOVID All Hands & leadership meeting on next data extract
+* AIM RSF planning meeting w EG - super useful.
+* AIM RSF Co-Is meeting.
+  * Meeting notes to AIM RSF GitHub repo.... LIVE THE VALUES Kirstie.
+* Phone calls with folks at NIHR - also valuable... more to reflect on here.
+* Big co-working with MS on the Turing Way release and workshop planning.
+* Advocated for remote working and collaboration from the office with folks at home.
+  * Not sure if I was successful but at least I can say that I'm trying 🏡
+  * Forwarded letter on behalf of anonymous writer to save that emotional labour
+* TPS meeting welcoming new Turing Fellow project.
+* Shocks & Resilience monthly meeting
+* Turing Way collaboration cafe.
+  * Made some progress (but didn't complete 😭😭😭) the Barriers chapter!
+    * https://github.com/alan-turing-institute/the-turing-way/issues/696#issuecomment-801183034
+* Checked in with Turing Way folks who are going to the Collaborations Workshop next week.
+* Lab meeting was super fun, hopefully gave some helpful feedback even though I took up too much space with my description of the job ad work.
+* Scoping work for research ethics workshops.
+* Meeting with data protection team to set policy for sharing data.
+* Meeting with Autistica to brainstorm future development of citizen science project.
+* Conversation w LS to see if we can realign expectations.
+* Scoping meeting w team interested in partnering with TPS (collaborative coordination)
+* Chat w IP about interest groups.
+* 1:1s with IKG, AB, ME, AM
+* A couple of planning meetings for the workshops with Ada Lovelace Institute.
+* Attended AIUK mostly in solidarity.
+  * I was multitasking on the job descriptions so I didn't get a huge amount from the conference but I'm glad I was there to see what generally folks were talking about.
+    And to support the events and organising teams!
+* ED support group
+* Was on the radio talking about Turing being on the £50 note!
+  * https://www.bbc.co.uk/sounds/play/m000tft0 (last 5 minutes)
+
+### What did you struggle with?
+
+* Missed the first security working group meeting.
+  * SUPER SAD and feel like I'm letting folks down.
+    But there wasn't anything I could do to move the other appt ☹️
+* There's a project that I continue to not feel joy for.
+  * We had a valuable internal team meeting... and maybe it will get better... but aaaaaaaaaah 😬
+* Getting started with the RSF, particularly balancing work that is ongoing with appropriately planning the contract negotiations etc.
+  * BOMBED chairing a Co-Is meeting... but AB saved my ass by taking incredible notes.
+  * Hopefully pulled some of it back by Friday with the networking session & excellent GitHub notes.
+* Figuring out a balance of promoting my work and keeping Turing colleagues on side by not speaking out too publicly...
+* I took up too much space in lab meeting.
+  * Need to be more cautious and not expect others to chair me as strongly as I need to be!
+* Feeling unheard and my time not being appropriately respected.
+  * Thank yous to LA for picking me up after reliving a 2020 trauma.
+* Knowing that we need governance in place to help move a project forwards but not having the _time_ to put that governance in place! 😩
+* Honestly, just being WILDLY on the back foot ALL the time.
+  It's exhausting.
+  * I'm looking forward to Easter.
+
+### Any other topics
+
+Blocked 2 days the following week to try to catch up from this tangle.
+Apart from all the email it does feel like I'm starting to bring my head up out of the water... a bit.
 
 ## Date: 14 March 2021
 
