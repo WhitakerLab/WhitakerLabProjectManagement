@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [1 April 2021](#date-1-april-2021)
 * [22 March 2021](#date-22-march-2021)
 * [4 March 2021](#date-4-march-2021)
 * [18 February 2021](#date-18-february-2021)
@@ -17,6 +18,45 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 1 April 2021
+
+#### Who did you help this week?
+
+* [Mentoring session with IKG](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Ismael-KherroubiGarcia/Mentored.md)
+* BSc student re neuropsychology project
+
+#### Who helped you this week?
+
+* [Mentoring session with IS](https://github.com/MariaEriksson/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-IS.md)
+* TB, SA, KA-W, MT and KW provided feedback on ILAE abstract
+  * Thanks again KW - I had such a fun time running the linear regression live...!
+ 
+#### What did you achieve?
+
+* Submitted [abstract to ILAE conference](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/conferences/2021-ILAE-abstract.md)
+* [Incorporated feedback from TB](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/5)
+* [Incorporated feedback from KW](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/6)
+* Ran about [a million Spearman correlations](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues?q=is%3Aissue+is%3Aclosed)
+* Meditated on how to combine figures and what key message each figure should convey.
+* Contacted CESS to get figures on how many children are referred/discussed for surgery each year
+* Ok'd to present at GOSH clinical meeting when analyses are complete
+* Attended AI UK conference
+* Attended Epilepsy genetics conference
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+* Run stats
+  * Regression analyses
+
+#### Where do you need help from Kirstie?
+
+
+#### Any other topics
+
+* Daily 'what I'm working on'-message 
 
 ### Date: 22 March 2021
 
