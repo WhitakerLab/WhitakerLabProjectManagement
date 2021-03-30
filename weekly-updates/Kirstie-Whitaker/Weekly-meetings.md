@@ -98,10 +98,14 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * Scoping work for research ethics workshops.
 * Meeting with data protection team to set policy for sharing data.
 * Meeting with Autistica to brainstorm future development of citizen science project.
+* Google Summer of Code issue for AutSPACEs: https://github.com/GeorgiaHCA/AutSPACEs/issues/88
 * Conversation w LS to see if we can realign expectations.
 * Scoping meeting w team interested in partnering with TPS (collaborative coordination)
 * Chat w IP about interest groups.
 * 1:1s with IKG, AB, ME, AM
+* Google season of docs applications for BIDS & Turing Way submitted
+  * https://docs.google.com/document/d/11poXN8MuSCQ5n77QwI9VbfQfLXudz-0ZwlmFGmYg-sc/edit?usp=sharing
+  * https://docs.google.com/document/d/1zgW3Mku7d7kwnvQ9CB3FBf9lSDhIss22bX-oOGIelzE/edit?usp=sharing
 * A couple of planning meetings for the workshops with Ada Lovelace Institute.
 * Attended AIUK mostly in solidarity.
   * I was multitasking on the job descriptions so I didn't get a huge amount from the conference but I'm glad I was there to see what generally folks were talking about.
