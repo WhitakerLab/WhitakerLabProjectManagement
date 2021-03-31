@@ -17,6 +17,26 @@
 
 ---
 
+#### Date: 31 March 2021
+
+#### What brought you joy this week?
+* IKG: Lovely weather and sunny walks in the park!
+
+#### What did you achieve?
+* IKG: STarted writing an [essay](https://hackmd.io/R4layEyoQhW1lr4RIMTo9A?view) (thanks for all the thoughts!).
+* IKG: Also made some headway on the research ethics form front =)
+
+#### What did you struggle with?
+* IKG: General admin an chasing of stuff!
+
+#### Any other topics
+* Not for noooooooooowwwwwwwwwwwwwww
+
+#### Next meeting
+* IKG: I am not sure what this section is for, haha
+
+---
+
 #### Date: 17 March 2021
 #### What brought you joy this week?
 * IKG: Hmmmmmmmm, knowing that I'm working full-time now =)
