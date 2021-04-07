@@ -1,10 +1,50 @@
 # Sarah's Fortnightly Mentoring Meetings
 
+- [2021-04-07](#date-2021-04-07)
 - [2021-03-24](#date-2021-03-24)
 - [2021-03-10](#date-2021-03-10)
 - [Template](#template)
 
 ---
+
+## Date: 2021-04-07
+
+### Who did you help this week?
+
+- SD at CollabW21 by sharing my (albeit small) knowledge on crowdsourcing
+- KW and AB by providing a continuous deployment workflow to convert Markdown files to PDFs
+- GT onboarding to LwM crowdsourcing tools
+
+### Who helped you this week?
+
+- AB prepare a user research interview script
+- MD and lab members for providing feedback on the interview script
+
+### What did you achieve?
+
+- I had a wonderful and creative time at CollabW21 last week.
+  I achieved 3rd place in the hack day with my team!
+- I implemented calendar blocking to dedicate time to my TODOs.
+  It seems to be working well so far!
+
+### What did you struggle with?
+
+- Onboarding can be frustrating when RSEs are viewed as support
+
+### What would you like to work on next week?
+
+- Moving the Zero-to-Binder tutorial into the Turing Way book
+- Finish up role responsibilities for Turing BinderHub cluster admin
+- Plan the implementation of open practices survey for Open Source SA/OLS-3
+
+### Where do you need help from Kirstie?
+
+- If Kirstie could provide her preference for being updated on the Turing BinderHub Federation cluster, that would be a huge unblocker!
+  https://github.com/alan-turing-institute/the-turing-way/pull/1785#discussion_r598594375
+
+### Any other topics
+
+This space is yours to add to as needed.
 
 ## Date: 2021-03-24
 
