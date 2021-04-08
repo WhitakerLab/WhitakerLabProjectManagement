@@ -42,9 +42,6 @@
 - If Kirstie could provide her preference for being updated on the Turing BinderHub Federation cluster, that would be a huge unblocker!
   https://github.com/alan-turing-institute/the-turing-way/pull/1785#discussion_r598594375
 
-### Any other topics
-
-This space is yours to add to as needed.
 
 ## Date: 2021-03-24
 
