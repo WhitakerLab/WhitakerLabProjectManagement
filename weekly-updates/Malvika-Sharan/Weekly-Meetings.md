@@ -26,14 +26,17 @@
 #### Who did you help this week?
 - AM and KW in discussing job ads, TPS strategy
 - GA in reviewing GSoC issue for interested candidates
-- Chatted with L about community management, and scheduled a meeting for next week
+- Chatted with LC about community management, and scheduled a meeting for next week
 - IKG in discussing and opening a PR on case study (Ethical Research workflow)
+
+KW: SO helpful!
 
 #### Who helped you this week?
 - ABL in advertising Book Dash internally
 - AM formatting the first draft of TPS fellow JD
 - EK and BA in delivering the workshop at CW21, CW21 attendees to join for a touch base
-- Newsletter with project info
+
+KW: Awesome :stars:
 
 #### What did you achieve?
 - Coworking with ABL and AM on The Turing Way for internal engagement
@@ -42,7 +45,11 @@
 - Onboarded 3 members to The Turing Way (2 internal, who will need more proactive engagement)
 - Talk at ONS/RAP and DORA
 - Attended UK carpentries community call and identify how to connect them to Turing
+  - KW: Great community to connect with! 
 - CW21 workshop and overall conference engagement
+- Newsletter with project info
+
+KW: All great work! Thank you! :pray:
 
 #### What did you struggle with?
 - Getting the release out
@@ -51,10 +58,12 @@
 #### What would you like to work on next week?
 - Turing Way Release
 - Set up eventbrite and all required docs for the Book Dash
+  - KW: Scriberia, and connecting with LC to suggest a plan for her application.
 - GitHub issues and PR
 
 #### Where do you need help from Kirstie?
 - TPS engagement idea as discussed with ABL
+  - KW: Sounds great! Excited for October time!
 - Policy related connections, actively engaging with policymakers in Turing and UKRN
 
 ### Date: 08 March 2021
