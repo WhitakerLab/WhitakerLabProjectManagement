@@ -1,6 +1,6 @@
 # Emma's Weekly Meeting Notes
 
-* [31 March 2021](#date-31-march-2021)
+* [14 April 2021](#date-14-april-2021)
 * [17 March 2021](#date-17-march-2021)
 * [10 March 2021](#date-10-march-2021)
 * [24 February 2021](#date-24-february-2021)
@@ -8,13 +8,14 @@
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: 31 March 2021
+### Date: 14 April 2021
 
 #### Who did you help this week?
 
 * MS - Prepared powerpoint for CW21 Project design session.
 * GA - Mentoring meeting.
 * engage@turing students - met with them to go through Github and have been practicing PR review with them.
+* CC - helped with onboarding and co-working for getting going with Github.  
 
 #### Who helped you this week?
 
@@ -23,12 +24,12 @@
 
 #### What did you achieve?
 
-* Community manager things - keeping on top of meetings schedule and notes, shared code folder, student wrangling, prep for newsletter.
+* Community manager things - keeping on top of meetings schedule and notes, shared code folder, student wrangling, finished newsletter.
 * Finished first draft of authorship chapter and sent out for comments/editing.
 * Written up DSG report writing training course.
 * Meeting with DP to introduce Turing Way Github and go through DSG manual.
 * Researching journals for project data paper.
-* 
+* Attended CW21 - hackday about contributions - Credit All.
 
 #### What did you struggle with?
 
@@ -36,9 +37,9 @@
 
 #### What would you like to work on next week?
 
-* Finishing the project newsletter with help from students.
-* Sorting out the May meeting schedule.
-* Starting on collaborative academic writing section for turing way.
+* Finalising May meeting schedule.
+* Checking in with engage@turing students.
+* Starting on collaborative academic writing section for Turing Way.
 
 #### Where do you need help from Kirstie?
 * Report writing course for carpentries - shall we expand to a full day? Add session on planning writing for projects such as authorship, going over collaborative tools, and then academic writing, etc.  
