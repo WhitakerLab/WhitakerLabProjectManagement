@@ -20,28 +20,32 @@
 
 ### What brought you joy this week?
 * EK - KW being super thoughtful and kind boss.
-
-
+* ME - Friends and partner 💖
 ### What did you achieve
 * EK - Project newsletter finished and other community management notes and notices that I had to catch up on.
  * helping to onboard CC.
  * finished paper I had been working on and sent back to editors.
  * published first guest blog for my personal blog site.
  * Getting ready for Ramadan 
-* 
+* ME
+  * Submitted abstract to conference
+  * Ran stats for paper
+  * Completed first round of review/corrections for paper
+  * Attended Epilepsy & genetics conference
+  * Mentoring sessions with Ismael and Isla
+  * Supervising BSc student
 ### What did you struggle with?
 * EK - all ok - caught up with alot of work over the Easter break so now feel better without things hanging over me.
-* 
+* ME - nothing to report
 
 ### Any other topics
-
 
 
 ## Date: 16 March 2021
 
 ### What brought you joy this week?
 * EK - Kids going back to school. 🎉
-* ME - Friends, bike rides and pastries :sun:
+* ME - Friends, bike rides and pastries :sunny:
 ### What did you achieve
 * EK - Continuing community manager work on project - newsletter, individual contact, github organising.
   * Onboarding engage students on to project.
