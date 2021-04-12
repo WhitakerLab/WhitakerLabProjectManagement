@@ -51,7 +51,7 @@
 
 #### What would you like to work on next week?
 
-* Completing [outstanding changes to paper] (https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/23)
+* Completing [outstanding changes to paper](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/23)
 
 #### Where do you need help from Kirstie?
 
