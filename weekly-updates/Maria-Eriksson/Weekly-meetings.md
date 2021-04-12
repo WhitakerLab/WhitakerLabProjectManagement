@@ -39,12 +39,12 @@
 * [Incorporated feedback from TB](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/5)
 * [Incorporated feedback from KW](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/6)
 * Ran [lots of stats](https://github.com/MariaEriksson/GOSH-2000-2018-paper/tree/main/manuscript/stats)
-* Meditated on how to combine figures and what key message each figure should convey.
+* Meditated on how to combine figures and what key message each figure should convey
 * Contacted CESS to get figures on how many children are referred/discussed for surgery each year
 * Set up plan with JB for how to determine from where patients have been referred (patient location within the UK)
 * Ok'd to present at GOSH clinical meeting when analyses are complete
 * Proposed [sub-section to existing Turing Way chapter](https://github.com/alan-turing-institute/the-turing-way/issues/1842)
-* Attended AI UK conference
+* Accepted to present poster at International Epilepsy Colloquium
 * Attended Epilepsy genetics conference
 
 #### What did you struggle with?
@@ -52,6 +52,7 @@
 #### What would you like to work on next week?
 
 * Completing [outstanding changes to paper](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/23)
+* Submitting audio presentation, bio and photo to International Epilepsy Colloquium
 
 #### Where do you need help from Kirstie?
 
