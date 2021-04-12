@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [13 April 2021](#date-30-March-2021)
 * [30 March 2021](#date-30-March-2021)
 * [16 March 2021](#date-16-March-2021)
 * [09 March 2021](#date-09-March-2021)
@@ -20,6 +21,42 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 13 April 2021
+
+#### Who did you help this week?
+
+* AS and NT with the Frankenstein ethics application!
+* Everyone with my thoughts on data in data science!
+
+#### Who helped you this week?
+
+* MS helped me get a chapter up for review on The Turing Way: https://github.com/alan-turing-institute/the-turing-way/pull/1843/files?short_path=96095f9#diff-96095f9966fae011ca75e0c2c25ae49b5d3a1df8f6e8ab6011d24599a3747f8d
+
+#### What did you achieve?
+
+* All the ethics approvals! Three to be exact!
+* The Frankenstein ethics application was made and sent to AS and NT
+* Guidelines created for three of 13 of the new T-REcs questions
+* New post on diversity to discuss with AM: https://ismaelkg.medium.com/data-science-meaning-and-diversity-bb842602e55d
+
+#### What did you struggle with?
+
+* Getting back to work after the long weekend was surprisingly hard! Tuesday was slooooooowwwwwwwwwwww
+
+#### What would you like to work on next week?
+
+* Keep working on guidelines for the T-REcs form 2. I think these can be drafted by Friay 23rd.
+
+#### Where do you need help from Kirstie?
+
+* We're talking at the loab this week! Shall we prepare it during this meeting?
+
+#### Any other topics
+
+* Hm, I am spending a little time between tasks to think about my role and the EAG.
 
 ---
 
