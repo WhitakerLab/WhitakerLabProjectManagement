@@ -19,7 +19,7 @@
 ## Date: 13 April 2021
 
 ### What brought you joy this week?
-* KW being super thoughtful and kind boss.
+* EK - KW being super thoughtful and kind boss.
 
 
 ### What did you achieve
