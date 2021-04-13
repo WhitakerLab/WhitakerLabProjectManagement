@@ -1,5 +1,7 @@
 # Weekly Meetings
 
+* [13 April 2021](#date-30-March-2021)
+* [30 March 2021](#date-30-March-2021)
 * [16 March 2021](#date-16-March-2021)
 * [09 March 2021](#date-09-March-2021)
 * [16 February 2021](#date-16-February-2021)
@@ -19,6 +21,88 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 13 April 2021
+
+#### Who did you help this week?
+
+* AS and NT with the Frankenstein ethics application!
+  * KW: So fun!
+* Everyone with my thoughts on data in data science!
+  * KW: Love these posts :sparkles: 
+
+#### Who helped you this week?
+
+* MS helped me get a chapter up for review on The Turing Way: https://github.com/alan-turing-institute/the-turing-way/pull/1843/files?short_path=96095f9#diff-96095f9966fae011ca75e0c2c25ae49b5d3a1df8f6e8ab6011d24599a3747f8d
+  * KW: WELL DONE! Thank you.
+    * We talked in the meeting about mapping the new questions to this structure which doesn't have to work (don't force anything awkwardly!) but which might be helpful for folks filling in the form to see how the questions group together.
+
+#### What did you achieve?
+
+* All the ethics approvals! Three to be exact!
+* The Frankenstein ethics application was made and sent to AS and NT
+* Guidelines created for three of 13 of the new T-REcs questions
+  * KW: 🦖
+* New post on diversity to discuss with AM: https://ismaelkg.medium.com/data-science-meaning-and-diversity-bb842602e55d
+  * KW: Love this!
+    * Could absolutely be worked up to a paper if you're interested!
+
+#### What did you struggle with?
+
+* Getting back to work after the long weekend was surprisingly hard! Tuesday was slooooooowwwwwwwwwwww
+  * KW: OMG me too 😩
+
+#### What would you like to work on next week?
+
+* Keep working on guidelines for the T-REcs form 2. I think these can be drafted by Friay 23rd.
+  * KW: Great stuff!
+
+#### Where do you need help from Kirstie?
+
+* We're talking at the lab this week! Shall we prepare it during this meeting?
+  * KW: YES! 
+  * 10 minute presentation on the FAST principles then 10 minute breakout rooms on each of 4 groups of questions, then report outs 🙌
+    * Will be fascinating!
+
+#### Any other topics
+
+* Hm, I am spending a little time between tasks to think about my role and the EAG.
+
+---
+
+### Date: 16 March 2021
+
+#### Who did you help this week?
+
+* AM! We ha our second mentoring session -- still figuring out how to get a folder setup on Github (at time of writing). But we will be scoping how RAMs can spread The Good Word of the EAG.
+
+#### Who helped you this week?
+
+* CB was helpful on the research ethics front, reminding me of what was done for DECOVID; also interested in sharing on the Turing Blog about partiucipatory science; and interested in helping write a paper (I still need to hear back from GA an SF).
+
+#### What did you achieve?
+
+* Got a nifty new ethics form to a decent place based on DL's FAST principles.
+
+#### What did you struggle with?
+
+* Getting EAG reviews done...
+
+#### What would you like to work on next week?
+
+* I will have a think about case studies before meeting with AS and NT on Thursday
+
+#### Where do you need help from Kirstie?
+
+* Have we heard back about the Turing-wide ethics review?
+
+#### Any other topics
+
+* I am using this space to remind you oooooooooooooooooooooooof (as you wrote last time we met!):
+  * KW: I'd love to brainstorm an academic paper that accompanies all the T-REx work that we've been working on.
+Please remind me about that!! 🙏
 
 ---
 
