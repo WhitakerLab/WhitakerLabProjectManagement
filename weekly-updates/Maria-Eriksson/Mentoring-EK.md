@@ -25,7 +25,7 @@
 * EK - Project newsletter finished and other community management notes and notices that I had to catch up on.
  * helping to onboard CC.
  * finished paper I had been working on and sent back to editors.
- * published first guest blog for my personal blog site.
+ * published first guest blog for my [personal blog site](https://ekaroune.github.io/The-Open-Archaeobotanist/2021-04-07-JBates-guestblog/).
  * Getting ready for Ramadan 
 * ME
   * Submitted abstract to conference
