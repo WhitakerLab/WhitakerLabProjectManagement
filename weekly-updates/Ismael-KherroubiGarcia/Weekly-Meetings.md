@@ -29,30 +29,42 @@
 #### Who did you help this week?
 
 * AS and NT with the Frankenstein ethics application!
+  * KW: So fun!
 * Everyone with my thoughts on data in data science!
+  * KW: Love these posts :sparkles: 
 
 #### Who helped you this week?
 
 * MS helped me get a chapter up for review on The Turing Way: https://github.com/alan-turing-institute/the-turing-way/pull/1843/files?short_path=96095f9#diff-96095f9966fae011ca75e0c2c25ae49b5d3a1df8f6e8ab6011d24599a3747f8d
+  * KW: WELL DONE! Thank you.
+    * We talked in the meeting about mapping the new questions to this structure which doesn't have to work (don't force anything awkwardly!) but which might be helpful for folks filling in the form to see how the questions group together.
 
 #### What did you achieve?
 
 * All the ethics approvals! Three to be exact!
 * The Frankenstein ethics application was made and sent to AS and NT
 * Guidelines created for three of 13 of the new T-REcs questions
+  * KW: 🦖
 * New post on diversity to discuss with AM: https://ismaelkg.medium.com/data-science-meaning-and-diversity-bb842602e55d
+  * KW: Love this!
+    * Could absolutely be worked up to a paper if you're interested!
 
 #### What did you struggle with?
 
 * Getting back to work after the long weekend was surprisingly hard! Tuesday was slooooooowwwwwwwwwwww
+  * KW: OMG me too 😩
 
 #### What would you like to work on next week?
 
 * Keep working on guidelines for the T-REcs form 2. I think these can be drafted by Friay 23rd.
+  * KW: Great stuff!
 
 #### Where do you need help from Kirstie?
 
-* We're talking at the loab this week! Shall we prepare it during this meeting?
+* We're talking at the lab this week! Shall we prepare it during this meeting?
+  * KW: YES! 
+  * 10 minute presentation on the FAST principles then 10 minute breakout rooms on each of 4 groups of questions, then report outs 🙌
+    * Will be fascinating!
 
 #### Any other topics
 
