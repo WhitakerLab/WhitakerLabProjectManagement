@@ -2,9 +2,94 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [14 April 20201](#date-14-april-2021)
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 14 April 2021 
+*meetings have been moved around to accomodate CW21*
+
+#### Who did you help this month?
+
+* Confirmed no further action needed for some data things we thought we might need paperwork for ✨
+  * KW: VERY HELPFUL!
+* Budget rejigging has been signed off for a project so will make them happy
+  * KW: 😌
+* Spoke up in support of further resources for a project
+  * KW: Proud of you! :stars:
+* Helped connect up onboarding discussions so they could be coherent! 
+  * KW: Big lessons from this.... but WELL DONE.
+* Covered some tasks while AF was on annual leave
+* SG re: OS SA project
+  * KW: FUN!
+* Supported KW on event planning
+  * KW: Excited for this
+* PH on reading and general chats
+* IG - reviewed his data piece!
+
+#### Who helped you this month?
+
+* TC has been awesome to work with on contract amendments 
+  * KW: Ooooooh - always fun to know the right person to ask to get great answers! 
+* SG was super amazing in facilitating my CW21 discussion when I got a bit carried away
+  * KW: HA - great buddy system! 🌟
+* Lab members all supporting my CW21 lightning talk!
+* WT has helped untangle some things
+  * KW: :pray:
+* Data Protection Team with lots of conversations
+* HMc as always!
+  * KW: 💖 
+* MS with lots of little things 
+
+#### What did you achieve?
+
+* CW21 presentation and discussions - also came third in the ideas collaboration session! 
+* Working through budget/YE stuff
+* Sent the newsletter!
+* Agreed next steps for TPS leadership project, now to enact them
+* E&S website is live! 
+  * https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability
+  * KW: Looking fab!
+* Did get contracts executed! 
+
+#### What bought you joy this month?
+
+* Accessibility of Wellcome's Reimaging Research Culture festival was Very Good
+  * KW: Did we reach out to them about contributing to the Turing Way? Would be really great!
+* CW21 was incredibly cool!
+* Also enjoyed AI UK 
+  * KW: The events team are asking for feedback on AIUK - please do get in touch if you'd like to have 1:1 to share our (TPS's) thoughts
+* Three very different styles of events which was interesting to experience and reflect on
+
+#### What did you struggle with?
+
+* Nothing is ever straightforward - feeling as though everything takes twice as long as it should right now 
+* Also feeling a bit unorganised which doesn't help with previous bullet!
+* Have been slow on updating PR on some YE things and feel awful about it 
+
+KW: Huuuuuuugs
+
+#### What would you like to work on next week?
+
+* TPS leadership project drafts 
+* Amendment letters that need to go
+* Final bits and pieces on YE work 
+* Using that as a jumping off point to Get Things Organised 
+
+#### Where do you need help from Kirstie?
+
+* Will need to review the draft of TPS leadership call etc 
+* Updates on other projects I should be aware of in the planning stage
+* Capture highlights of great work so far
+  * Community: Newsletters, slack, coffee chats, seminars 
+  * Website updates!
+  * Focus on process, where to find the answers, clear communication
+  * Bridging research and business team divide
+
+#### Any other topics
+
+* Had some (good but big) family news this week so that has left me a bit distracted! 
 
 ## Date: 17 March 2021 
 
