@@ -36,8 +36,9 @@
 #### What did you achieve?
 
 * Submitted [abstract to ILAE conference](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/conferences/2021-ILAE-abstract.md)
-* [Incorporated feedback from TB](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/5)
-* [Incorporated feedback from KW](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/6)
+* Incorporated [feedback from TB](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/5)
+* Incorporated [feedback from KJW](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/6)
+* Working through [feedback from SA and KW](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/23)
 * Ran [lots of stats](https://github.com/MariaEriksson/GOSH-2000-2018-paper/tree/main/manuscript/stats)
 * Meditated on how to combine figures and what key message each figure should convey
 * Contacted CESS to get figures on how many children are referred/discussed for surgery each year
@@ -57,6 +58,7 @@
 #### Where do you need help from Kirstie?
 
 * Thoughts on stats 🤔
+* Figuring out the plotting bit of the logistic regression [tutorial](https://blogs.uoregon.edu/rclub/2016/04/05/plotting-your-logistic-regression-models/) that I have run through
 
 #### Any other topics
 
