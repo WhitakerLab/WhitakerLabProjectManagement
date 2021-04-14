@@ -1,5 +1,6 @@
 # Mentoring Sessions with Isla
 
+* [8 April 2021](#date-8-april-2021)
 * [23 March 2021](#date-23-march-2021)
 * [9 March 2021](#date-9-march-2021)
 * [23 February 2021](#date-23-february-2021)
@@ -16,6 +17,11 @@
 **For how long?** 1 hour
 
 **Next meeting** 
+
+## Date: 8 April 2021
+
+* We spent the meeting opening an issue in the Turing Way, which proposes [a new sub-section to an existing Turing Way chapter](https://github.com/alan-turing-institute/the-turing-way/issues/1842) 🎇
+* IS provided really helpful support as ME was feeling overwhelmed with work - thank you again :tulip: :pray: 
 
 ## Date: 23 March 2021
 
