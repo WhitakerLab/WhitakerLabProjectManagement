@@ -1,6 +1,6 @@
 # Mentoring Sessions: Ismael & Maria
 
-* [14 April 2021](#date-14-April-2021)
+* [14 April 2021](#date-14-april-2021)
 * [31 March 2021](#date-31-march-2021)
 * [17 March 2021](#date-17-march-2021)
 * [3 March 2021](#date-3-march-2021)
@@ -22,16 +22,17 @@
 ### Date: 14 April 2021
 
 #### What brought you joy this week?
-* IKG: A dummy ethics application I prepared that involved the ozone layer, the ocean surface film of iodide and synthetic ata
-
+* IKG: A dummy ethics application I prepared that involved the ozone layer, the ocean surface film of iodide and synthetic data
+  * ME: 🌊 sounds fascinating! I would be way out of my depth..... get it... hehhehe
 #### What did you achieve?
 * IKG: Got a ton of ethics applications across the line in time for this week's DSG
-
+  * ME: Great work!! Enjoy that feeling :pray:
 #### What did you struggle with?
 * Finally published that post you helped me think through! https://towardsdatascience.com/data-science-meaning-and-diversity-bb842602e55d
-
+  * ME: Like I've probably said a million times - I really enjoyed reading this 🌷 Learned loads! And so kind of you to include me in the acknowledgements! :yellow_heart: 
 #### Any other topics
 * Tomorrow's lab talk will be my focus for today (this morning, at least!)
+  * ME: Really looking forward to it! Let's hope I manage the breakout room thingy again lol 😅
 
 ---
 
