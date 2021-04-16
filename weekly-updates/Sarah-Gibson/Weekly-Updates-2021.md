@@ -1,11 +1,53 @@
 # Sarah's Fortnightly Mentoring Meetings
 
+- [2021-04-16](#date-2021-04-16)
 - [2021-04-07](#date-2021-04-07)
 - [2021-03-24](#date-2021-03-24)
 - [2021-03-10](#date-2021-03-10)
 - [Template](#template)
 
 ---
+
+## Date: 2021-04-16
+
+### Who did you help this week?
+
+- Helped LC set the order of her online CV
+- Helping the authors of a paper I'm reviewing
+
+### Who helped you this week?
+
+- MS, YY and the OLS community answering questions I had distinguishing some open science concepts
+- AB for running a co-working session that was relly productive
+- CH with getting panels working on the Turing Way Jupyter Book
+- IKG with the ethics approval process for the Open Source Service Area user research
+
+### What did you achieve?
+
+- Got panels working in the Jupyter Book and started transferring the Zero-to-Binder tutorial across.
+  This means I only have to maintain 1 file with 3 languages, instead of 3 files containing a language each.
+- Caught up with OLS assignments
+- Read and made notes on a paper ready to write a peer review report
+- Chaired the JupyterHub/Binder team meeting, disseminated the notes and scheduled the next meeting
+- Wrote a blog post for the Whitaker Lab on the CollabW21 reflections meeting, and adapted the text for my own blog!
+- Attended a mentorship training session ran by the Turing
+- Rounded off the "job ad" for the Turing Beinder Federation Cluster Admin role
+
+### What did you struggle with?
+
+- Not much!
+  The productivity management system I'm implementing seems to be really effective at nudging me to realise what I'm supposed to be working on, schedule the time, and plough through it.
+
+### What would you like to work on next week?
+
+- Need to do some work for LwM around a long-running task and trying to speed it up
+- Get the Turing Binder cluster back online
+- Pitching the Turing Binder Federation cluster admin role to a couple of internal people I have in mind
+- Continue migrating the Zero-to-Binder workshop into the Turing Way book and write a chapter discussing why mybinder.org is a better communication tool than collaboration tool
+
+### Where do you need help from Kirstie?
+
+- All good!
 
 ## Date: 2021-04-07
 
@@ -41,7 +83,6 @@
 
 - If Kirstie could provide her preference for being updated on the Turing BinderHub Federation cluster, that would be a huge unblocker!
   https://github.com/alan-turing-institute/the-turing-way/pull/1785#discussion_r598594375
-
 
 ## Date: 2021-03-24
 
@@ -138,25 +179,25 @@ Replace this text with a one/two sentence description of who helped you this wee
 
 ### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+- Replace this text with a bullet point list of what you achieved this week.
+- It's ok if your list is only one bullet point long!
 
 ### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+- Replace this text with a bullet point list of where you struggled this week.
+- It's ok if your list is only one bullet point long!
 
 ### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+- Replace this text with a bullet point list of what you would like to work on next week.
+- It's ok if your list is only one bullet point long!
+- Try to estimate how long each task will take.
 
 ### Where do you need help from Kirstie?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+- Replace this text with a bullet point list of what you need help from Kirstie on.
+- It's ok if your list is only one bullet point long!
+- Try to estimate how long each task will take.
 
 ### Any other topics
 
