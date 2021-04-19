@@ -19,7 +19,7 @@
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
 
-### Date: 1 April 2021
+### Date: 15 April 2021
 
 #### Who did you help this week?
 
@@ -32,6 +32,7 @@
 * [Mentoring session with IS](https://github.com/MariaEriksson/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-IS.md)
 * TB, SA, KA-W, MT and KW provided feedback on ILAE abstract
   * Thanks again KW - I had such a fun time running the linear regression live...!
+  * KW: hahahahaha - "fun" times 😅😅😅
  
 #### What did you achieve?
 
@@ -54,15 +55,14 @@
 
 * Completing [outstanding changes to paper](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/23)
 * Submitting audio presentation, bio and photo to International Epilepsy Colloquium
+  * KW: SO MUCH WORK!
 
 #### Where do you need help from Kirstie?
 
 * Thoughts on stats 🤔
 * Figuring out the plotting bit of the logistic regression [tutorial](https://blogs.uoregon.edu/rclub/2016/04/05/plotting-your-logistic-regression-models/) that I have run through
 
-#### Any other topics
-
-*  
+KW: What fun! Well done on getting the figures created!
 
 ### Date: 22 March 2021
 
