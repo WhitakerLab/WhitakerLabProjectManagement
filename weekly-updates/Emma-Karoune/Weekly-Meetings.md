@@ -1,6 +1,6 @@
 # Emma's Weekly Meeting Notes
 
-* [14 April 2021](#date-14-april-2021)
+* [21 April 2021](#date-21-april-2021)
 * [17 March 2021](#date-17-march-2021)
 * [10 March 2021](#date-10-march-2021)
 * [24 February 2021](#date-24-february-2021)
@@ -8,13 +8,13 @@
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: 14 April 2021
+### Date: 21 April 2021
 
 #### Who did you help this week?
 
 * MS - Prepared powerpoint for CW21 Project design session.
 * GA - Mentoring meeting.
-* engage@turing students - met with them to go through Github and have been practicing PR review with them.
+* engage@turing students - met with them to go through Github, answering queries and have been practicing PR review with them.
 * CC - helped with onboarding and co-working for getting going with Github.  
 
 #### Who helped you this week?
@@ -26,9 +26,10 @@
 
 * Community manager things - keeping on top of meetings schedule and notes, shared code folder, student wrangling, finished newsletter.
 * Finished first draft of authorship chapter and sent out for comments/editing.
-* Written up DSG report writing training course.
+* Written up [DSG report writing training course](https://hackmd.io/7PZQJhMLTdyn3VLsp7CRLw) and now converting this into a Turing chapter - [Collaborative Academic writing](https://hackmd.io/xHzPEzPkQCudZ_XV0TILEA?both).
 * Meeting with DP to introduce Turing Way Github and go through DSG manual.
 * Researching journals for project data paper.
+* Preparing authorship documentation templates that will be needed soon.
 * Attended CW21 - hackday about contributions - Credit All.
 
 #### What did you struggle with?
@@ -37,12 +38,14 @@
 
 #### What would you like to work on next week?
 
-* Finalising May meeting schedule.
-* Checking in with engage@turing students.
-* Starting on collaborative academic writing section for Turing Way.
+* Work with students in the DSH to get started on Gitlab.
+* Work more on collaborative academic writing section for Turing Way.
+* Finalise the authorship documentation in Github.
+* Other community management things - starting next newsletter, meeting notes in Github repo, etc.
 
 #### Where do you need help from Kirstie?
-* Report writing course for carpentries - shall we expand to a full day? Add session on planning writing for projects such as authorship, going over collaborative tools, and then academic writing, etc.  
+* To merge [authorship guidelines PR](https://github.com/alan-turing-institute/DECOVID-projectmgmt/pull/357)
+* Report writing course for carpentries - shall we expand to a full day? Add session on planning writing for projects such as authorship, going over collaborative tools, and then academic writing, etc. Could be longer if we create a course to produce a publications with a executable research compendia using Binder. 
 
 
 #### Any other topics
