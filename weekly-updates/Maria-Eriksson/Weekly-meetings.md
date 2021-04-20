@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [15 April 2021](#date-15-april-2021)
 * [22 March 2021](#date-22-march-2021)
 * [4 March 2021](#date-4-march-2021)
 * [18 February 2021](#date-18-february-2021)
@@ -17,6 +18,51 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 15 April 2021
+
+#### Who did you help this week?
+
+* [Mentoring session with IKG](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Ismael-KherroubiGarcia/Mentored.md)
+  * Provided feedback on data science text
+* BSc student re neuropsychology project
+
+#### Who helped you this week?
+
+* [Mentoring session with IS](https://github.com/MariaEriksson/WhitakerLabProjectManagement/blob/master/weekly-updates/Maria-Eriksson/Mentoring-IS.md)
+* TB, SA, KA-W, MT and KW provided feedback on ILAE abstract
+  * Thanks again KW - I had such a fun time running the linear regression live...!
+  * KW: hahahahaha - "fun" times 😅😅😅
+ 
+#### What did you achieve?
+
+* Submitted [abstract to ILAE conference](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/conferences/2021-ILAE-abstract.md)
+* Incorporated [feedback from TB](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/5)
+* Incorporated [feedback from KJW](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/6)
+* Working through [feedback from SA and KW](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/23)
+* Ran [lots of stats](https://github.com/MariaEriksson/GOSH-2000-2018-paper/tree/main/manuscript/stats)
+* Meditated on how to combine figures and what key message each figure should convey
+* Contacted CESS to get figures on how many children are referred/discussed for surgery each year
+* Set up plan with JB for how to determine from where patients have been referred (patient location within the UK)
+* Ok'd to present at GOSH clinical meeting when analyses are complete
+* Proposed [sub-section to existing Turing Way chapter](https://github.com/alan-turing-institute/the-turing-way/issues/1842)
+* Accepted to present poster at International Epilepsy Colloquium
+* Attended Epilepsy genetics conference
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+* Completing [outstanding changes to paper](https://github.com/MariaEriksson/GOSH-2000-2018-paper/issues/23)
+* Submitting audio presentation, bio and photo to International Epilepsy Colloquium
+  * KW: SO MUCH WORK!
+
+#### Where do you need help from Kirstie?
+
+* Thoughts on stats 🤔
+* Figuring out the plotting bit of the logistic regression [tutorial](https://blogs.uoregon.edu/rclub/2016/04/05/plotting-your-logistic-regression-models/) that I have run through
+
+KW: What fun! Well done on getting the figures created!
 
 ### Date: 22 March 2021
 
