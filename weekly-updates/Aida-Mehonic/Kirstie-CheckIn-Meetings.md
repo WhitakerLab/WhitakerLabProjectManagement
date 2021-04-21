@@ -1,7 +1,55 @@
 # Check in meetings with Kirstie
 
+* [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+### Date: 21 April 2021
+
+#### Who did you help over the past fortnight?
+
+* RD - new joiner in the AI Programmme/PMU 
+* HD - on Turing impact and strategy 
+* HM - onboarding postdocs in general
+* SG - mentoring chat
+
+#### Who helped you this week?
+
+* IGK - mentoring chat
+* KW - facilitating sessions on HackMD
+
+#### What did you achieve?
+
+* We onboarded ASG postdocs 🎉
+* We have made a plan for the Impact Reading/Working Group ✨
+* We made provisional stakeholder engagement plans for DS4S work
+* I started suggesting 'product management-y' advice to the computer vision toolkit work in DS4S, for example how to scope, where to host, who the users are
+* We sent the RAM JD to Recruitment 🎉
+
+#### What did you struggle with?
+
+* I think for me, the next stage of "success" will be to:
+  * Demonstrate very hands-on technical interventions: for example whether to use JupyterHub; whether to intergrate a toolkit within existing open source projects
+  * Build up to producing more scholarly output: I think I am still in the service+strategy mindset, and I am slowly expanding my ability to produce scholarly works (position papers, Turing Way chapters, lit reviews, research papers, etc)
+
+#### What would you like to work on next week?
+
+* I have a meeting with AD tomorrow to discuss RAM work for DCE 
+* I have a meeting with DWP about DSH 
+* I would like to help scope the computer vision toolkit for DS4S in more detail, including whether it should fit in an existing open source project
+* I would like to complete a first draft of the "RAM position paper"
+
+#### Where do you need help from Kirstie?
+
+* Computer vision toolkit for DS4S - any advice?
+* SH idea: to turn some use-cases for the comp vision toolkit into a Kaggle challenge 
+* Visualisation toolkit for EnvSensors - any advice? 
+* Pangeo - any advice? 
+* Stand-up meetings for ASG postdocs - thoughts? Next training session?
+* How do I encourage postdocs to use the shared github repo? e.g. we could start logging information around which datasets people have gained access to; and where they have been unsuccessful 
+
+#### Any other topics
+
 
 ### Date: 7 April 2021
 
