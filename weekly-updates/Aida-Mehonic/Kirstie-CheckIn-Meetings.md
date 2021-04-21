@@ -23,13 +23,13 @@
 * We onboarded ASG postdocs 🎉
 * We have made a plan for the Impact Reading/Working Group ✨
 * We made provisional stakeholder engagement plans for DS4S work
-* I started suggesting 'product management-y' advice to the computer vision toolkit work in DS4S, for example how to scope, where to host, who the users are
+* I started suggesting 'product management-y' advice to the computer vision toolkit work in DS4S, for example what the scoping process might look like
 * We sent the RAM JD to Recruitment 🎉
 
 #### What did you struggle with?
 
 * I think for me, the next stage of "success" will be to:
-  * Demonstrate very hands-on technical interventions: for example whether to use JupyterHub; whether to intergrate a toolkit within existing open source projects
+  * Demonstrate very hands-on technical interventions: for example, whether to intergrate a toolkit within existing open source projects
   * Build up to producing more scholarly output: I think I am still in the service+strategy mindset, and I am slowly expanding my ability to produce scholarly works (position papers, Turing Way chapters, lit reviews, research papers, etc)
 
 #### What would you like to work on next week?
@@ -37,16 +37,20 @@
 * I have a meeting with AD tomorrow to discuss RAM work for DCE 
 * I have a meeting with DWP about DSH 
 * I would like to help scope the computer vision toolkit for DS4S in more detail, including whether it should fit in an existing open source project
-* I would like to complete a first draft of the "RAM position paper"
+* I would like to complete a first draft of the "RAM position paper" ✨
+* I would like to start writing a Turing Way chapter (there are several that I want to write: onboarding guide; tool design; maybe something around parental leave and smooth return to work with IGK; also to pitch in to the data visualisation chapter) 
+* continue with OLS training
+* fix the date for the inaugural lecture of the impact reading group 
 
 #### Where do you need help from Kirstie?
 
+* SH idea: to turn some use-cases for the comp vision toolkit into a Kaggle challenge - thoughts?
 * Computer vision toolkit for DS4S - any advice?
-* SH idea: to turn some use-cases for the comp vision toolkit into a Kaggle challenge 
 * Visualisation toolkit for EnvSensors - any advice? 
 * Pangeo - any advice? 
 * Stand-up meetings for ASG postdocs - thoughts? Next training session?
 * How do I encourage postdocs to use the shared github repo? e.g. we could start logging information around which datasets people have gained access to; and where they have been unsuccessful 
+* AC suggested that us 3 should meet to discuss the next ASG MGTM board meeting and a possible RAM update presentation
 
 #### Any other topics
 
