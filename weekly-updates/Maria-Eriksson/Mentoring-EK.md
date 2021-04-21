@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [27 April 2021](#date-27-april-2021)
 * [13 April 2021](#date-13-april-2021)
 * [16 March 2021](#date-16-march-2021)
 * [2 March 2021](#date-2-march-2021)
@@ -7,13 +8,32 @@
 
 **Why?** Supporting learning about health data & GitHub
 
-**When?** Fortnightly, Tuesdays at 2:00pm.
+**When?** Fortnightly, Tuesdays at 9am.
 
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
 
 **Next meeting:** 27 April 2021
+
+
+## Date: 27 April 2021
+
+### What brought you joy this week?
+* EK - My grant application was approved!
+* ME - 
+### What did you achieve
+* EK - Project community management things - newsletter prep, meeting notes, data paper meetings.
+  * Turing Way writing to try to get first drafts done by the bookdash.
+  * Gave my Environmental Archaeology Reproducibilty talk and talking about *The Turing Way* today at Reproducibilitea Portsmouth.
+
+* ME - 
+* 
+### What did you struggle with?
+* EK - All ok
+
+
+### Any other topics
 
 
 ## Date: 13 April 2021
