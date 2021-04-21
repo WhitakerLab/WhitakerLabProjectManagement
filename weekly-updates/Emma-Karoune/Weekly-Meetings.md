@@ -15,22 +15,32 @@
 * MS - Prepared powerpoint for CW21 Project design session.
 * GA - Mentoring meeting.
 * engage@turing students - met with them to go through Github, answering queries and have been practicing PR review with them.
-* CC - helped with onboarding and co-working for getting going with Github.  
+* LC - helped with onboarding and co-working for getting going with Github.  
+
+KW: So fab - thank you so much!!
+Incredibly valuable support 🌺
 
 #### Who helped you this week?
 
 * HM - Super organised with IG things.
+  * KW: AS ALWAYS!
 * ME - Co-working for paper writing.
+  * KW: Brilliant support network - I'm delighted ✨
 
 #### What did you achieve?
 
 * Community manager things - keeping on top of meetings schedule and notes, shared code folder, student wrangling, finished newsletter.
 * Finished first draft of authorship chapter and sent out for comments/editing.
 * Written up [DSG report writing training course](https://hackmd.io/7PZQJhMLTdyn3VLsp7CRLw) and now converting this into a Turing chapter - [Collaborative Academic writing](https://hackmd.io/xHzPEzPkQCudZ_XV0TILEA?both).
+  * KW: NO WAAAAAAAAAAAAAAAAAAAAAAAAAAAY!! 🙀🙀🙀🙀🙀🙀
+    * That is SO FREAKING COOL!
 * Meeting with DP to introduce Turing Way Github and go through DSG manual.
 * Researching journals for project data paper.
+  * KW: Conversation about this in the meeting.
+    Keen to keep the conversation going 🎇
 * Preparing authorship documentation templates that will be needed soon.
 * Attended CW21 - hackday about contributions - Credit All.
+  * KW: Really fantastic 🌠
 
 #### What did you struggle with?
 
@@ -43,16 +53,21 @@
 * Finalise the authorship documentation in Github.
 * Other community management things - starting next newsletter, meeting notes in Github repo, etc.
 
+KW: Fantastic stuff!
+Thank you!
+
 #### Where do you need help from Kirstie?
+
 * To merge [authorship guidelines PR](https://github.com/alan-turing-institute/DECOVID-projectmgmt/pull/357)
 * Report writing course for carpentries - shall we expand to a full day? Add session on planning writing for projects such as authorship, going over collaborative tools, and then academic writing, etc. Could be longer if we create a course to produce a publications with a executable research compendia using Binder. 
 
-
 #### Any other topics
 
-This space is yours to add to as needed.
-
-
+KW: Fun conversation about the digital humanities at the Turing.
+A few links:
+* https://www.turing.ac.uk/research/interest-groups/humanities-and-data-science
+* https://doi.org/10.6084/m9.figshare.12732164.v5
+* Check out Sarah Stewart's work too! 😸
 
 ### Date: 17th March 2021
 
