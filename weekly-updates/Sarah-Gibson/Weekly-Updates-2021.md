@@ -13,38 +13,49 @@
 ### Who did you help this week?
 
 - Helped LC set the order of her online CV
+  - AM: 🎉 
 - Helping the authors of a paper I'm reviewing
+  - AM: Sounds SUPER interesting! Would love to read this!! ✨
 
 ### Who helped you this week?
 
 - MS, YY and the OLS community answering questions I had distinguishing some open science concepts
+  - AM: The roadmap discussion is really interesting to contextualise. No one method is perfect!!  
 - AB for running a co-working session that was relly productive
+  - AM: SUPER well done on writing a whole section! 🎉 
 - CH with getting panels working on the Turing Way Jupyter Book
+  - AM: ✨   
 - IKG with the ethics approval process for the Open Source Service Area user research
 
 ### What did you achieve?
 
 - Got panels working in the Jupyter Book and started transferring the Zero-to-Binder tutorial across.
   This means I only have to maintain 1 file with 3 languages, instead of 3 files containing a language each.
+  - AM: :tada: 
 - Caught up with OLS assignments
 - Read and made notes on a paper ready to write a peer review report
 - Chaired the JupyterHub/Binder team meeting, disseminated the notes and scheduled the next meeting
 - Wrote a blog post for the Whitaker Lab on the CollabW21 reflections meeting, and adapted the text for my own blog!
+  - This is AMAZING! Especially since very few folks actually did it. 
 - Attended a mentorship training session ran by the Turing
 - Rounded off the "job ad" for the Turing Beinder Federation Cluster Admin role
+  - ✨ 
 
 ### What did you struggle with?
 
 - Not much!
   The productivity management system I'm implementing seems to be really effective at nudging me to realise what I'm supposed to be working on, schedule the time, and plough through it.
+  - AM: 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉 SUPER WELL DONE!! 
 
 ### What would you like to work on next week?
 
 - Need to do some work for LwM around a long-running task and trying to speed it up
-- Get the Turing Binder cluster back online
+  - Good luck! 
+- Get the Turing Binder cluster back online 
 - Pitching the Turing Binder Federation cluster admin role to a couple of internal people I have in mind
 - Continue migrating the Zero-to-Binder workshop into the Turing Way book and write a chapter discussing why mybinder.org is a better communication tool than collaboration tool
-
+ - AM: Sounds like that productivity management system is working wonders!! Well done Sarah! ✨✨✨✨
+ 
 ### Where do you need help from Kirstie?
 
 - All good!
