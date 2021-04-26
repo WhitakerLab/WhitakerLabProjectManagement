@@ -34,7 +34,7 @@
 
 
 ### Any other topics
-
+* EK - Postgres databases - what do you know about them?
 
 ## Date: 13 April 2021
 
