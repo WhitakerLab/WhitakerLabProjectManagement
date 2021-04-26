@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [26 April 2021](#date-26-April-2021)
 * [08 April 2021](#date-08-April-2021)
 * [08 March 2021](#date-08-March-2021)
 * [08 February 2021](#date-08-February-2021)
@@ -20,6 +21,35 @@
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 26 April 2021
+
+#### Who did you help this week?
+- GSoC applicant
+- Onborading new member
+
+#### Who helped you this week?
+- Book Dash Planning Committee
+- ABL in sorting the Scriberia contract
+- MV in taking one talk slot for University of Leicester seminar series
+- Getting the Matomo info shared with IT (still waiting for a final approval)
+
+#### What did you achieve?
+- Exchanging ideas with, and potentially setting collab with "Distributing education for data skills", by Royal College of Art team
+- Discussion with KP from Edinburgh, and connecting them with MF in the context of RSE training
+- Communicating training plan witg MN, both for The Turing Way and OLS
+- Coworking with Arielle
+
+#### What did you struggle with?
+- COVID news from India
+
+#### What would you like to work on next week?
+- Book Dash logistics
+- Update Book Dash chapter
+- Create web analytics chapter
+
+#### Where do you need help from Kirstie?
+- Newsletter review this week
 
 ### Date: 08 April 2021
 
