@@ -1,7 +1,68 @@
 # Check in meetings with Kirstie
 
+* [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+### Date: 21 April 2021
+
+#### Who did you help over the past fortnight?
+
+* RD - new joiner in the AI Programmme/PMU 
+* HD - on Turing impact and strategy
+* HM - onboarding postdocs in general
+* SG - mentoring chat
+
+#### Who helped you this week?
+
+* IGK - mentoring chat
+* KW - facilitating sessions on HackMD
+
+#### What did you achieve?
+
+* We onboarded ASG postdocs 🎉
+* We have made a plan for the Impact Reading/Working Group ✨
+* We made provisional stakeholder engagement plans for DS4S work
+* I started suggesting 'product management-y' advice to the computer vision toolkit work in DS4S, for example what the scoping process might look like
+  * KW: Yeaaaaaah!! This is why you're here from the _start_ of projects not just at the end!
+* We sent the RAM JD to Recruitment 🎉
+  * KW: And got some comments back ✔️
+
+#### What did you struggle with?
+
+* I think for me, the next stage of "success" will be to:
+  * Demonstrate very hands-on technical interventions: for example, whether to integrate a toolkit within existing open source projects
+    * KW: Raphtory, sktime, data safe haven are all good examples of RAM work... but you're also doing a lot of work at the moment, from my perspective there's no great rush to demonstrate this success just yet!
+  * Build up to producing more scholarly output: I think I am still in the service+strategy mindset, and I am slowly expanding my ability to produce scholarly works (position papers, Turing Way chapters, lit reviews, research papers, etc)
+  * KW: Don't forget Zombie Marie Curie's advice: https://xkcd.com/896
+  * What about uplevelling the Data Availability Statement work to a 10/10 according to the Turing Way?
+  *  https://github.com/alan-turing-institute/das-public
+ 
+#### What would you like to work on next week?
+
+* I have a meeting with AD tomorrow to discuss RAM work for DCE 
+  * KW: I think this will be a super fun meeting! Enjoy! :stars: 
+* I have a meeting with DWP about DSH
+  * KW: FAB - I'll come along to the meeting, but you and JR take the lead! Make sure to check in with NG beforehand too please 🌺
+* I would like to help scope the computer vision toolkit for DS4S in more detail, including whether it should fit in an existing open source project
+* I would like to complete a first draft of the "RAM position paper" ✨
+* I would like to start writing a Turing Way chapter (there are several that I want to write: onboarding guide; tool design; maybe something around parental leave and smooth return to work with IGK; also to pitch in to the data visualisation chapter) 
+* continue with OLS training
+* fix the date for the inaugural lecture of the impact reading group 
+
+#### Where do you need help from Kirstie?
+
+* SH idea: to turn some use-cases for the comp vision toolkit into a Kaggle challenge - thoughts?
+* Computer vision toolkit for DS4S - any advice?
+* Visualisation toolkit for EnvSensors - any advice?
+* Pangeo - any advice?
+* Stand-up meetings for ASG postdocs - thoughts? Next training session?
+  * KW: SO MANY THOUGHTS! Keep going with the trainings for now and we'll chat more ❇️
+* How do I encourage postdocs to use the shared github repo? e.g. we could start logging information around which datasets people have gained access to; and where they have been unsuccessful 
+  * KW: Demonstrating the behaviour that you want to see is really the best way to go. It's slow.... but the best way to go 🌈
+* AC suggested that us 3 should meet to discuss the next ASG MGTM board meeting and a possible RAM update presentation
+  * KW: Yes - sounds great 💯 
+  * Link to the midterm review and showcase DS4S - will be super fun!
 
 ### Date: 7 April 2021
 
