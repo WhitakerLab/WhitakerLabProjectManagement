@@ -26,30 +26,54 @@
 
 #### Who did you help this week?
 - GSoC applicant
-- Onborading new member
+  - KW: Fab - yes - thank you for helping her out!! Fingers crossed!
+- Onboarding new member
+  - KW: ✨
 
 #### Who helped you this week?
 - Book Dash Planning Committee
+  - KW: Bidirectional help here 😉
 - ABL in sorting the Scriberia contract
+  - KW: Great 🙌
 - MV in taking one talk slot for University of Leicester seminar series
+  - KW: STAR 
 - Getting the Matomo info shared with IT (still waiting for a final approval)
+  - KW: Well done on keeping going on this. Super useful for us at the moment _and_ for other projects in the future.
 
 #### What did you achieve?
 - Exchanging ideas with, and potentially setting collab with "Distributing education for data skills", by Royal College of Art team
+  - KW: Well done promoting The Carpentries too, seems like a good link with the AIM RSF?
 - Discussion with KP from Edinburgh, and connecting them with MF in the context of RSE training
-- Communicating training plan witg MN, both for The Turing Way and OLS
-- Coworking with Arielle
+  - KW: 💪 Love it.
+- Communicating training plan with MN, both for The Turing Way and OLS
+  - KW: 💰 to pay student mentors!? Build connections between the Turing Way and the Turing Institute :stars:
+- Coworking with ABL
+- Connections with Enrichment Programme (AG) about community building work
+  - KW: Deeeeeeelighted
+- TPS Quarterly Report
+  - KW: 🙏
 
 #### What did you struggle with?
 - COVID news from India
 
-#### What would you like to work on next week?
+#### What would you like to work on next week(s)?
 - Book Dash logistics
 - Update Book Dash chapter
 - Create web analytics chapter
 
+KW: These all sound great ✔️
+
 #### Where do you need help from Kirstie?
 - Newsletter review this week
+
+#### Notes from Kirstie
+- Feedback re: TPS
+- Personel restructure at Turing
+- ASG meeting w BMA
+- Strategy for the Turing Way re: collaboration cafe's - making the space a bit more accessible for people who don't know much about open research!
+  - Maybe themes, maybe other people hosting.
+  - MS & KW..... too old 👵👵 🧟‍♀️🧟‍♀️
+
 
 ### Date: 08 April 2021
 
