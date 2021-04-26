@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [08 April 2021](#date-08-April-2021)
 * [08 March 2021](#date-08-March-2021)
 * [08 February 2021](#date-08-February-2021)
 * [18 January 2021](#date-18-January-2021)
@@ -20,6 +21,50 @@
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
 
+### Date: 08 April 2021
+
+#### Who did you help this week?
+- AM and KW in discussing job ads, TPS strategy
+- GA in reviewing GSoC issue for interested candidates
+- Chatted with LC about community management, and scheduled a meeting for next week
+- IKG in discussing and opening a PR on case study (Ethical Research workflow)
+
+KW: SO helpful!
+
+#### Who helped you this week?
+- ABL in advertising Book Dash internally
+- AM formatting the first draft of TPS fellow JD
+- EK and BA in delivering the workshop at CW21, CW21 attendees to join for a touch base
+
+KW: Awesome :stars:
+
+#### What did you achieve?
+- Coworking with ABL and AM on The Turing Way for internal engagement
+- Attended Autspace meet-up
+- Managed to send feedback and email for the inclusive event paper
+- Onboarded 3 members to The Turing Way (2 internal, who will need more proactive engagement)
+- Talk at ONS/RAP and DORA
+- Attended UK carpentries community call and identify how to connect them to Turing
+  - KW: Great community to connect with! 
+- CW21 workshop and overall conference engagement
+- Newsletter with project info
+
+KW: All great work! Thank you! :pray:
+
+#### What did you struggle with?
+- Getting the release out
+- Watching or attending MozFest sessions
+
+#### What would you like to work on next week?
+- Turing Way Release
+- Set up eventbrite and all required docs for the Book Dash
+  - KW: Scriberia, and connecting with LC to suggest a plan for her application.
+- GitHub issues and PR
+
+#### Where do you need help from Kirstie?
+- TPS engagement idea as discussed with ABL
+  - KW: Sounds great! Excited for October time!
+- Policy related connections, actively engaging with policymakers in Turing and UKRN
 
 ### Date: 08 March 2021
 
