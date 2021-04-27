@@ -2,11 +2,13 @@
 
 #### Who did you help this week?
 
-I think Sowmya has been the person who I have helped the most. 
+I think Sowmya has been the person who I have helped the most this week!
 
 #### Who helped you this week?
 
-
+- Malvika - showing me the Mountain of Engagement which will really help with the AutSPACEs
+- Kirstie (yourself) - with my objectives 
+- Lab team - ideas on how to measure success for the community integration objective
 
 #### What did you achieve?
 
@@ -23,12 +25,13 @@ My Concentration last week was all over the place, so I struggled to finish task
 
 - Onboarding Pack
 - Planning out the meet-ups to structure the breakout rooms 
-- Meeting Bastian for a brainstorming session on how we can increa the Open Humans communuty engagement
-- Looking into the Mountain of Engagement for AutSPACEs
+- Meeting Bastian for a brainstorming session on how we can increase the Open Humans communuty engagement
+- Looking into/forming the Mountain of Engagement for AutSPACEs
 
 #### Where do you need help from Kirstie?
 
 - I may need some help on those measures of success for the objectives - I know we put a few of them in the chat but I don't think I can look at the chat after the meeting? I dont think would take more than 30 mins of your time maximum.
+- Perhaps in our next meeting review of the Mountain of Engagement to ensure it reflects the project
 
 #### Any other topics
 
