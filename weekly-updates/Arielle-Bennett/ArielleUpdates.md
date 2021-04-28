@@ -2,10 +2,59 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
-* [14 April 20201](#date-14-april-2021)
+* [28 April 2021](#date-28-april-2021)
+* [14 April 2021](#date-14-april-2021)
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 28 April 2021
+
+#### Who did you help this fortnight?
+* MS with Book Dash planning 
+* CM with newsletter chat 
+* KW/TA with Jupyter event planning
+* PS - volunteered for L&L 
+
+#### Who helped you this fortnight?
+* Legal with external contract
+* HMc & PR as always 
+* Co-working sessions were great and really useful 
+* PIs getting project reports in on time ✨
+* Everyone in the lab meeting sharing their thoughts on goatherding 
+
+#### What did you achieve?
+* Probation meeting complete! 
+ * Particularly pleased that I emphasised my enjoyment of documentation and process improvement
+ * Hoping for that to be part of my objectives over the next year 
+* Newsletter sent! 
+* Now have project reports from pretty much every project which I'm thrilled about! 
+
+#### What bought you joy this fortnight?
+* Lots of updates for us to use in the newsletter from the reports 
+* Last night's DEI call was brilliant, lots to chew on and think about 
+* Reflections on lab goatherding (need to write up blog post!) 
+* Good feedback from KP on closing down a project
+* Not letting awkward things sit for too long
+* 🌳 Lab walk was lovely! 
+
+#### What did you struggle with?
+* Report formatting - it takes so long and so much effort to get everything looking nice and the same 😩
+* A process where the outside help is adding to confusion and delays. It's not any one persons' fault, but it is frustrating 
+* Sometimes feel like I only have half the conversation for some projects & some are so tangled it feels impossible to untangle them...
+
+#### What would you like to work on next week?
+* 🎆TPS programme report 🎆 due 6 May 
+* TPS leadership call documents
+* Open Access Block Grant planning - reports and comms 
+
+#### Where do you need help from Kirstie?
+* Sent goals to you and GS - any feedback you'd like to share would be great
+* Budget for non-ASG TPS stuff, please send to me! 
+* Report for Q3 & Q4 20/21 - will need front sheet completing next week (priority for Friday to get a draft to you) 
+
+#### Any other topics?
+* There's so much stuff I'm thinking about and I really just need to spend like a week or so at my computer writing them all down and organising them into coherent narratives and arguments. 
 
 ## Date: 14 April 2021 
 *meetings have been moved around to accomodate CW21*
