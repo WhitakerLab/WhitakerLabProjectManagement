@@ -1,6 +1,7 @@
 # Weekly Meetings
 
-* [13 April 2021](#date-30-March-2021)
+* [27 April 2021](#date-27-April-2021)
+* [13 April 2021](#date-13-April-2021)
 * [30 March 2021](#date-30-March-2021)
 * [16 March 2021](#date-16-March-2021)
 * [09 March 2021](#date-09-March-2021)
@@ -21,6 +22,56 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 27 April 2021
+
+#### Who did you help this week?
+
+* CR in PPP with stakeholder identification exercise
+  * KW: Delighted that you're working with them!! :stars:
+
+#### Who helped you this week?
+
+* Had a lengthy chat with AM about maternity/parenthood that I thought was really helpful
+* And thank you for joining the REC workshop meeting! 
+  * KW: Well done you for coordinating everything!
+
+#### What did you achieve?
+
+* Meeting with ASG went well -- I will follow up on Wednesday
+  * KW: OH WELL DONE!
+* Met with SG and got the ethics form to a better place once again!
+  * KW: I also asked AM to do an ethics application for the Data Availability extension work
+  * https://github.com/alan-turing-institute/das-public
+* Meeting with Health Programme people (have not yet met as I write this)
+
+#### What did you struggle with?
+
+* Pretty bad headache Tuesday and Wednesday -- eased off after turning the monitor off on Thursay, as the laptop screen is far better.
+  * KW: Blurgh - I hope the new monitor makes a positive difference
+
+#### What would you like to work on next week?
+
+* Three things (most to least effort, but all equally important): 
+  * (i) REC workshops: review others' case studies and see how else I can help; 
+  * (ii) keep working with CR on the PPP workbooks; and
+  * (iii) prepare an agenda for the EAG meeting on 11 May (will need to reach out to VF).
+
+#### Where do you need help from Kirstie?
+
+* We need a more united front, particularly re:
+  * (i) scoping projects (I have been holding the position since I joined that we want to see ethics applications before they become detailed projects where they are scoping projects -- this was informally formalised at a PMU session [in December](https://hackmd.io/As56HwJSTm6KuNvNO12UcA?view#What-about-larger-projects)) and
+    * KW: Agree - we need to be super clear on what is "scoping" as in literature review, thinking & planning vs "scoping" as in "doing pilot studies" where teams are working with data / writing code etc. The latter needs review.
+  * (ii) other ethics boards (I do not think it is for us to decide what HRA do not want to see).
+    * This means adding detail to the document Governance built for the T-REcs, at the least. What do you think?
+    * KW: YES - I think you're right and I feel like I don't have good oversight of all of the different boards. HRA definitely feels like a very important start.
+
+#### Any other topics
+
+* Gentle reminder that I am off next week!
+  * KW: Whaaaaaaat 😜 Have a great rest 🌃  
 
 ---
 
