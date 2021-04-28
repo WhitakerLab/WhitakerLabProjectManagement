@@ -36,6 +36,8 @@
 
 #### Any other topics
 * IKG: Each topic is a very huge topic this week!
+* RECs workshop dates: 12th and 27th May, 14-17h. If you want to join as a notetaker =)
+* Tuebingen talk on 15th June about [that post!](https://towardsdatascience.com/data-science-meaning-and-diversity-bb842602e55d)
 
 
 ---
