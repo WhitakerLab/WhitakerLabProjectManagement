@@ -54,7 +54,7 @@
 #### Where do you need help from Kirstie?
 
 * Feedback on plots 🎨
-* Feedback on [manuscript](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/manuscript/manuscript.md) (but perhaps wait until feedbakc from clinicians?)
+* Feedback on [manuscript](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/manuscript/manuscript.md) (but perhaps wait until feedback from clinicians?)
 * Thoughts on data sharing request 🤔
 
 ### Date: 15 April 2021
