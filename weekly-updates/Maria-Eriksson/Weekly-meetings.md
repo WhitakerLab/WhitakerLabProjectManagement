@@ -49,6 +49,7 @@
 * Double check and triple check my data
 * Hopefully incorporate feedback from clinicians (when I get it)
 * Meet with LM
+* Co-writing session w EK to work on Turing sensitive data chapter
 
 #### Where do you need help from Kirstie?
 
