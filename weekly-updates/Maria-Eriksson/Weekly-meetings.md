@@ -36,7 +36,7 @@
 
 * Plotted where in the country patients have been referred from
 * Retrieved data on the number of patients evaluated for surgery + plotted it 
-* Incorporated feedback into manuscript 🙏🙏 Ready to send to clinicians 🎉
+* Incorporated feedback into [manuscript](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/manuscript/manuscript.md) 🙏🙏 Ready to send to clinicians 🎉
 * [ILAE abstract](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/conferences/2021-ILAE-abstract.md) was accepted for an **oral** presentation :scream_cat:
 * Submitted poster to International Epilepsy Colloquium
 
@@ -52,8 +52,9 @@
 
 #### Where do you need help from Kirstie?
 
-* Feedback on manuscript
-* Thoughts on data sharing 🤔
+* Feedback on plots 🎨
+* Feedback on [manuscript](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/manuscript/manuscript.md) (but perhaps wait until feedbakc from clinicians?)
+* Thoughts on data sharing request 🤔
 
 ### Date: 15 April 2021
 
