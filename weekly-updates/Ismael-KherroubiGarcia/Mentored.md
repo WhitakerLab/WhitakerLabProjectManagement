@@ -1,5 +1,6 @@
 # Mentoring Sessions: Ismael & Maria
 
+* [28 April 2021](#date-28-april-2021)
 * [14 April 2021](#date-14-april-2021)
 * [31 March 2021](#date-31-march-2021)
 * [17 March 2021](#date-17-march-2021)
@@ -16,6 +17,26 @@
 #### What did you struggle with?
 #### Any other topics
 #### Next meeting
+
+---
+
+### Date: 28 April 2021
+
+#### What brought you joy this week?
+* IKG: helping submit an abstract for a talk at The University of Toronto >.<
+  * ME: So exciting 🎉 
+#### What did you achieve?
+* IKG: Stronger connections across the institute!
+  * ME: Wohooo, I'm sure KW was delighted 🌷 Sounds like you've got such lovely energy and flow going, and lots of cool things to look forward to! 🎇
+#### What did you struggle with?
+* IKG: Had a terrible headache last week!
+  * ME: Boo headaches are no fun! Glad you're feeling better.
+#### Any other topics
+* IKG: Each topic is a very huge topic this week!
+* RECs workshop dates: 12th and 27th May, 14-17h. If you want to join as a notetaker =)
+* Tuebingen talk on 15th June about [that post!](https://towardsdatascience.com/data-science-meaning-and-diversity-bb842602e55d)
+  * ME: Thanks for adding these deets! I can't do the 27th, but hopefully I can do the 12th - will let you know 👍
+* ME: Just a general comment to say you're doing amazing! 🌟 Have a lovely time off next week!!
 
 ---
 
