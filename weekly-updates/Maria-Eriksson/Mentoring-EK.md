@@ -21,18 +21,15 @@
 
 ### What brought you joy this week?
 * EK - My grant application was approved!
-* ME - 
+* ME - My abstract being accepted brought me joy... and then fear lol 😆
 ### What did you achieve
 * EK - Project community management things - newsletter prep, meeting notes, data paper meetings.
   * Turing Way writing to try to get first drafts done by the bookdash.
   * Gave my Environmental Archaeology Reproducibilty talk and talking about *The Turing Way* today at Reproducibilitea Portsmouth.
-
-* ME - 
-* 
+* ME - Finished round of revisions for [manuscript](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/manuscript/manuscript.md) & submitted poster to conference
 ### What did you struggle with?
 * EK - All ok
-
-
+* ME - just a bit unwell, but better now 🙏
 ### Any other topics
 * EK - Postgres databases - what do you know about them?
 
