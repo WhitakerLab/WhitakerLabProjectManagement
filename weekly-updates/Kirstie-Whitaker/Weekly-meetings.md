@@ -111,6 +111,8 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
   * I was multitasking on the job descriptions so I didn't get a huge amount from the conference but I'm glad I was there to see what generally folks were talking about.
     And to support the events and organising teams!
 * ED support group
+* Signed open letter asking for resignation of Free Software Foundation board.
+  * https://rms-open-letter.github.io
 * Was on the radio talking about Turing being on the £50 note!
   * https://www.bbc.co.uk/sounds/play/m000tft0 (last 5 minutes)
 
