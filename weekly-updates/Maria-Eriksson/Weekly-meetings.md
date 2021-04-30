@@ -28,6 +28,8 @@
 * BSc student re neuropsychology project
 * Gave feedback on SG's blog post (through GitHub review 😏)
 
+KW: So fantastic!
+
 #### Who helped you this week?
 
 * TB provided feedback on manuscript
@@ -38,24 +40,31 @@
 * Retrieved data on the number of patients evaluated for surgery + plotted it 
 * Incorporated feedback into [manuscript](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/manuscript/manuscript.md) 🙏🙏 Ready to send to clinicians 🎉
 * [ILAE abstract](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/conferences/2021-ILAE-abstract.md) was accepted for an **oral** presentation :scream_cat:
+  * KW: Congratulations! That's fantastic! 🎊
 * Submitted poster to International Epilepsy Colloquium
 
 #### What did you struggle with?
 
 * Was a bit unwell booo
+  * KW: Yeah boo 🤒
 
 #### What would you like to work on next week?
 
 * Double check and triple check my data
 * Hopefully incorporate feedback from clinicians (when I get it)
 * Meet with LM
+  * KW: Say hi from me! 👋 
 * Co-writing session w EK to work on Turing sensitive data chapter
+  * KW: Super excited about this!
 
 #### Where do you need help from Kirstie?
 
 * Feedback on plots 🎨
+  * KW: These look great! We talked in the meeting about GANs and whether they're the right model for small datasets.
 * Feedback on [manuscript](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/manuscript/manuscript.md) (but perhaps wait until feedback from clinicians?)
+  * KW: Yes, if that's ok? The next couple of weeks are a bit wild.
 * Thoughts on data sharing request 🤔
+  * KW: Discussed in meeting.
 
 ### Date: 15 April 2021
 
