@@ -8,6 +8,7 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2021**
 
+* [30 April 2021](#date-30-april-2021)
 * [28 March 2021](#date-28-march-2021)
 * [14 March 2021](#date-14-march-2021)
 * [7 March 2021](#date-7-march-2021)
@@ -20,6 +21,164 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * [8 January 2021](#date-8-january-2021)
 
 ---
+
+## Date: 30 April 2021
+
+*WOAH, I took a couple of Fridays off and really fell way way behind on a bunch of work.*
+*As usual, I've been working my socks off... but not documenting what I've been doing.* 😭
+*So this update is for FOUR WEEKS worth of activity - the month of April.* 🙀🙀🙀
+
+### What brought you joy this month?
+
+* I managed to send gifts for Turing Way folks who were attending CollabW21.
+  * I'm distinctly horrible at actually posting cards and gifts so it brought me great joy (compared to my usual great guilt) to complete the send rather than just have the good idea.
+  * MS helped me to no end by finding postal addresses, and my sister helped put all the chocolate eggs in little bags and motivate me to write the cards 💌
+* Went for an IRL walk with labboos!!!
+  * YAAAAAY 🐶 🐾 🌳🌳🌳
+  * Particular gratitude to everyone who fed me for lunch because I'd forgotten to set aside enough time to pack some for myself 🥪
+* EK transcribed my DSG Writing Training into a chapter for the Turing Way.
+  * Joy, and a lot of deep gratitude too 🙏
+* IKG & LC's Hamilton raps for the T-RECs process 🦖🦖🦖
+* I'm so glad I could give some constructive feedback on an funding application even if it was super late in the day!
+* Drove up to the Lake District for a week.
+  So beautiful up here! 🌄
+* MozFest call on a walk was lovely.
+  Really validating to talk with CK about virtual events & their emotional toil.
+* Some fun with GitHub Actions.... although not quite there yet!
+* GORGEOUS 5 hour catch up with PV.
+  I MISS collaborating with her ❣️
+* Attended GK's thesis defense 🌟
+* Enjoyed the Cabaret of Dangerous Ideas: https://www.youtube.com/watch?v=reOMyLafUVY 🦘🦘🦘
+* Had a couple of chats with BM who is always just such a delight 💓
+* AM is doing a fantastic job nudging me along without making me feel pressured.
+  * Awesome prep for a couple of our big meetings at the end of the month 🌠
+* Participated in the Tidelift livestream (not a podcast!) and wrote a big old twitter thread about so many thoughts!
+  * 🧵 https://twitter.com/kirstie_j/status/1385707607671857155?s=20
+  * 🎥 https://www.twitch.tv/videos/998271615
+
+### What did you achieve
+
+#### Headlines
+
+*Because there are A.LOT in a month!*
+
+* LC joined the lab!
+  Fast streamer from the civil service.
+  * Objectives signed off ✅
+* SR joined the lab!
+  Masters degree intern from CRI.
+* Feedback on grant panel reviews.
+  * Late, but ultimately I was quite happy with them.
+  * Got them in GitHub too! 🌟
+* Conversation for the collaboration we're currently negotiating.
+  * One not so constructive, the other more so.
+    Both helping to take us on the right path.
+* Job description for ASG RAM 🐏 submitted to recruitment.
+* Invited AM and MS to the TPS Leadership meetings, so valuable to move those conversations forwards.
+  * Progress - led by AB - on the call for applications!!
+* Welcomed ASG postdocs
+  * Collaboration cafe ☕
+  * TPS coffee ☕ (again)
+  * Onboarding presentation
+  * Reproducibility, Collaboration and Openness training
+  * Git & GitHub training
+* Training for DSG participants on writing workshop.
+* Shortlisted applicants for PDRA position & interviewed.
+  * Helped with interview questions and with feedback on the job description.
+* Just awesome work with IKG on the T-RECs 🦖 form and process, and events with Ada Lovelace Institute.
+  * He's kicking ass and taking names 🙏
+* Debrief conversation.
+  * Didn't go as I would have hoped, but really good to have it closed out.
+* Reviewed Book Dash 📚💨 applications
+  * Attended a couple of meetings with the committee to contribute to taking that forwards.
+  * Work mostly done by MS though 🙏
+* Project scoping meeting w DS4S&H
+  * Open canvas for the win!
+* Feedback on Turing's Slack workspace.
+* TPS Seminar w DT 🌟
+
+#### Also rans 😅
+
+* AutSPACEs Fortnightly Meet Ups x2
+  * Also did some strategic work on aligning these meet ups to our project needs.
+* Supported lab member to take time that they needed.
+* Mentorship call w SF to brainstorm future opportunities.
+* Got content written for a briefing note for a potential collaboration.
+  * Although very very late so ... not my best 😩
+* DECOVID meetings (knowledge shares, all hands, steering group, leadership, comms)
+* Supported data extracts.
+* Feedback on website content update.
+* I did some good escalating of an ongoing risk and made _some_ progress towards mitigating it.
+  * One person has very heavily come to my assistance on the plan 🙏
+* Fed into government review for the use of health data.
+* BIDS letter of intent for CZI application.
+* BIDS Steering Group meeting.
+  * Only one though, I missed another because my calendar wasn't up to date.
+* Made _some_ progress on job descriptions... but not as much as I'd hoped.
+* Programme directors meeting.
+* RIAC meeting.
+* ASG Theme Leads meeting.
+  * & follow up w BMA.
+* Coached someone for an interview & said fun and motivational things 💪
+* Had a fun call with someone who's struggling and gave some advice on how to collaborate without feeling like it's super overwhelming.
+* Catch up w ML.
+* Meetings re: ongoing partnership.
+* Meeting with Jupyter committee re: event funding.
+  * Follow up meeting w TA
+* Gave feedback on funding application for Raphtory team.
+* Attended D&S meet up
+* Call w Ada Lovelace Institute re: letter & suggestions.
+* Helpful mentorship chat w TG
+* Fabulous mentorship chat w MM
+* 2 x Turing fellow project meeting re: TPS opportunities.
+* TPS & PPP project scoping meeting.
+* 3 x meetings for potential partnerships
+  * Good prep and follow up for one that will likely be led by TPS.
+  * Well done to AM for prepping me for that really well.
+* EDoN Analytics Hub meeting.
+* Turing Way meeting w Cambridge reproducibility leads
+* Code of conduct violation, took report and had conversation.
+* Reviewed TPS and Turing Way newsletters! 💌💌
+* 1:1s w MS, IKG, AB, AM, GA, LC, ME, EK,
+* Lab meetings
+  * Overview of CollabW21 🤝
+  * Ethics form 🦖
+  * Goatherding 🐐
+  * Community management 🌻
+
+### What did you struggle with?
+
+* Onboarding documentation is very poor.
+  Wildly out of date and doesn't point to the important pieces of information.
+  Sad about that.
+  * I think the lab slack channel and coffee chats are a good crutch... but I'm not in a good position there.
+    Needs time and strategic focus.
+    (Where on _earth_ will that come from?!)
+* I had a couple of tough run ins during this month.
+  Ways in which my behaviour hurt others in ways I didn't intent.
+  * One I think I've fixed well.
+    I apologised and I learned a valuable lesson.
+  * The other I think the lesson is to not engage on that level.
+    It isn't a helpful or constructive space for me to inhabit.
+    * (I did apologise though!)
+* Being told that I need to be more inspirational when the real problem is everyone's burned out :roll_eyes:
+* There was Easter in this month, and I also took a Friday off to spend on the beach on the south coast.
+  * To be honest, taking Fridays off is - I think - a tough idea.
+    I really need them to stay caught up on work.
+  * Goal for future Fridays off (got one coming) is to either work at least in part OR block a full day on Thurs or Mon to compensate.
+* My expectations are high and I don't think I communicate them very well.
+  * I need a better phrase for "too much rope to hang themselves" (it doesn't feel like a great mental image to propagate in 2021!!) because I think I need to warn people more that that's what I do and although there are benefits, and it is who I am, there are risks to look out for too.
+* SUPER dropped the ball on a task that really could have caused harm to an individual.
+  * Hopefully fixed now but I really feel bad about that ☹️
+* The COVID19 situation in India is appalling and I'm terribly sad about that.
+  * Seeing conferences planning for in person events is.... gauche to say the least.
+
+### Any other topics
+
+Had some medical stuff too, which took away a few chunks of time to get emails done 😬
+
+Luna had some vet stuff too!
+Hugely grateful to mum for taking her to the vet while I was in the lakes 🐾
 
 ## Date: 28 March 2021
 
