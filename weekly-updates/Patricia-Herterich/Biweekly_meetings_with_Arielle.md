@@ -4,6 +4,8 @@
 
 * [22-02-2021](#Date-22-02-2021)
 * [08-03-2021](#Date-08-03-2021)
+* [22-03-2021](#Date-22-03-2021)
+* [26-04-2021](#Date-26-04-2021)
 
 ## Patricia Goals & Aims 
 *What skills, support, plans, objectives do you have for your work at the moment? How can these meetings support these?*
@@ -116,6 +118,73 @@ Is there any particular reading/topic/task we want to explore and bring to our n
 ## After this call
 Is there any particular reading/topic/task we want to explore and bring to our next meetings?
 * Lazy consensus: http://nowviskie.org/2012/lazy-consensus/
+
+## Date: 22-03-2021
+
+### Patricia's achievements
+* was reviewer on SSI Fellowship 2021 selection call
+* Attended RDAP summit 2021 and [blogged](https://t.co/YntWO7f5ou) about it timely which is really rare!
+* Attended a CoC incident reporting workshop - still need to blog
+* Made more progress on social events for April conference - it's quite hard and I'm not sure why I volunteered to organise them
+* Attended MozFest session on Open Code & Trustworthiness
+* Ran our regular monthly service drop-in 
+* Explored an interactive board for our current bugs and [blogged](https://www.dcc.ac.uk/blog/new-dashboard-dmponline-issues) about it 
+* Tidied the home office 
+
+### Check-in ritual
+* Shout out to LC's friend who has been my saviour in progressing some social events stuff that I was super blocked on :heart: 
+
+
+## Before this call
+**Is there any particular reading/task we said we will do before we meet?**
+
+* Read lazy consensus - I've done things wrong in the past :grimacing: and left job if that autonomy wasn't there
+* Interesting insight into library politics!
+* Works well if you have some autonomy/ all the resources to put the proposal into practice
+* Needs time to think through proposals - not a good option when you do need to do fire fighting
+* Building concensus/connections in a virtual world is really hard - needs to be an extra effort at the moment
+
+
+## After this call
+Is there any particular reading/topic/task we want to explore and bring to our next meetings?
+* move next meeting due to Easter?
+* Reading: 
+    * Preparing for the world after COVID-19: leadership lessons from crises and discontinuous change: https://blogs.lse.ac.uk/businessreview/2021/01/26/preparing-for-the-world-after-covid-19-lessons-for-leaders-from-crises-and-discontinuous-change/
+
+
+## Date: 26-04-2021
+
+### Patricia's achievements
+* attended and ran workshop at CollabW21
+* somehow won second prize in the hackathon for https://coding-confessions.github.io/
+* prepared and supported the delivery of our big conference 
+* social events were a success and even somehow fun - glad people enjoyed it
+
+### Check-in ritual
+*(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)*
+* My colleague Alex did all the work for the conference and I have no idea how she did it.
+    * AMAZING
+
+## Before this call
+**Is there any particular reading/task we said we will do before we meet?**
+
+Yes, and I haven't read it yet :(
+
+## Agenda and Notes
+* Review your current projects, relation and skill-building that you are working on.
+
+    * reviving my SSI fellowship idea of analysing/exploring the relationship/collaboration between data managers and research software engineers 
+        * needs still proper plotting out, but glad there will be time/demand for this 
+
+* Since last time, review progress you’ve made towards your goals. Any challenges to mention?
+
+    * No update on the recruitment of our developer job and it gets really frustrating as the workload is too much to handle for the team and there's no real end in sight
+
+* Review if we can attract any attention or help highlight your work.
+
+    * shout outs to the Hidden REF as we're getting close to submission deadline. Haven't managed to contribute that much in the last few weeks, so need to follow up on that
+       * PH will attend TPS coffee on 6 May for some Q & A and promotion   
+
 
 ## Reading list suggestions
 
