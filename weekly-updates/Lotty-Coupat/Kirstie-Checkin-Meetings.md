@@ -20,7 +20,7 @@ Can be found [here](https://docs.google.com/document/d/14Gfwand-82AaNqnRyaVIlhap
 
 #### What did you achieve?
 
-- Working more in Github - uplaoded summaries and objectives as well as creating branches to work on project related things. 
+- Working more in Github - uploaded summaries and objectives as well as creating branches to work on project related things. 
 - Started the Newsletter
 - First draft of Mountain of Engagement.
 - Onboarding pack started as a Powerpoint
@@ -28,13 +28,13 @@ Can be found [here](https://docs.google.com/document/d/14Gfwand-82AaNqnRyaVIlhap
 
 #### What did you struggle with?
 
-- Started on the Newsletter and trying to find the right content for this month. 
+- Started on the Newsletter and trying to find the right content for this month. Decided on an intro piece of both SR and I. 
 - I've been asked to complete a DBS check for Turing, and the website keeps messing up... 
 
 #### What would you like to work on next week?
 
 - Starting on the Github repositories and how to clean them up to increase usability 
-- I want to starting thinking deeper about book dash and my ideas and thoughts for contribution
+- I want to start thinking deeper about book dash and my ideas and thoughts for contribution
 - Continuning with onboarding and use of videos as an accessible tool
 - Review of ideas and material with GA
 - Brainstorm with BG and SR on integration of Open Humans to the project
@@ -48,7 +48,8 @@ Not sure there's much this week!
 
 Updates with Sowmya
 - She has been working mostly on Django and coding to create parts of the website. 
-- She has set up and absic structure on how to add your stories along with the menu at the top of the page. 
+- She has set up and basic structure on how to add your stories along with the menu at the top of the page. 
+- She will also be starting a weekly update like this and uploading it to the Whitaker Lab Project Manager repo 😄
 
 
 ### Date: 28 April 2021
