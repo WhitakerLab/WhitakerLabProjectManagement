@@ -2,7 +2,55 @@
 
 *Meetings with Kirstie approximately every 2 weeks*
 
+* [5 May 2021](#date-5-may-2021)
 * [28 April 2021](#date-28-april-2021)
+
+### Date: 5 May 2021
+
+Short week due to long three day weekend! 
+
+#### Who did you help this week?
+
+Went a bit more solo this week to concentrate on pieces of work I wanted to get going! 
+
+#### Who helped you this week?
+
+Sent the Mountain of Engagement over to MS who has said she will give it a read. 
+Can be found [here](https://docs.google.com/document/d/14Gfwand-82AaNqnRyaVIlhapdxanGgNNclxXFDJmE7c/edit#heading=h.ai5a28x89csy).
+
+#### What did you achieve?
+
+- Working more in Github - uploaded summaries and objectives as well as creating branches to work on project related things. 
+- Started the Newsletter
+- First draft of Mountain of Engagement.
+- Onboarding pack started as a Powerpoint
+- Almost completed a particpation/communication strategy which sets out which participation channels we will be using and what each are for.
+
+#### What did you struggle with?
+
+- Started on the Newsletter and trying to find the right content for this month. Decided on an intro piece of both SR and I. 
+- I've been asked to complete a DBS check for Turing, and the website keeps messing up... 
+
+#### What would you like to work on next week?
+
+- Starting on the Github repositories and how to clean them up to increase usability 
+- I want to start thinking deeper about book dash and my ideas and thoughts for contribution
+- Continuning with onboarding and use of videos as an accessible tool
+- Review of ideas and material with GA
+- Brainstorm with BG and SR on integration of Open Humans to the project
+- Engage with MS and EK on Newsletter - I've had a go on it so far and would like thoughts! 
+
+#### Where do you need help from Kirstie?
+
+Not sure there's much this week! 
+
+#### Any other topics
+
+Updates with Sowmya
+- She has been working mostly on Django and coding to create parts of the website. 
+- She has set up and basic structure on how to add your stories along with the menu at the top of the page. 
+- She will also be starting a weekly update like this and uploading it to the Whitaker Lab Project Manager repo 😄
+
 
 ### Date: 28 April 2021
 
