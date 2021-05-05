@@ -1,8 +1,49 @@
 # Check in meetings with Kirstie
 
+* [Date: 5 May 2021](#date-21-april-2021)
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+### Date: 5 May 2021
+
+#### Who did you help over the past fortnight?
+
+* RD - new joiner in the AI Programmme/PMU - orientation 
+* HD - on Turing impact and strategy
+* SG - mentoring chat
+
+#### Who helped you this week?
+
+* KW - I learned more about GitHub 
+
+#### What did you achieve?
+
+* Put together a job description for an ASG Community Manager 
+* Drafted the first skeleton of 'Mind the skills gap in academia: can a RAM be an effective solution?' paper (provocative title); agreed with Malvika that the paper is my official OLS training output for the graduation (in 3 weeks)
+* Coordinated a scoping session for the computer vision toolkit for DS4S 🎉 
+* Had first discussions towards scoping an engagement with DWP around a 'data trust' - slow, but very ambitious potentially
+* Coordinated the Intro to GitHub session for ASG postdocs
+* DAS paper: downloaded the most recent data; installed MongoDB; went through some of the existing data pipeline scripts to try and understand the flow; arranged a slot with Isla to discuss
+* Followed the Pangeo discussion: should there be a RAM to coordinate with the user community?
+* Went to a fun TPS seminar (CZI), listened to Data as an Instrument of Coloniality, read some stuff around Research Impact, started reading The Emergent Strategy, re-read parts of a book I originally read 5 years ago (Reinventing Organisations: A Guide to Creating Organizations Inspired by the Next Stage in Human Consciousness) ✨
+
+#### What did you struggle with?
+
+* DAS: going through other people's scripts can be challenging 
+ 
+#### What would you like to work on next week?
+
+* I should present at the ASG MB board meeting next week - prep for that 
+* I would like to complete a first properly readable draft of the "RAM position paper" ✨
+* Prep for the OLS graduation
+* Progress the discussion about the data trust & DWP
+* Make some progress with DAS after discussing with Isla
+
+#### Where do you need help from Kirstie?
+
+* Most important: Prep for the ASG MB meeting - we also have a meeting with AC tomorrow
+ 
 
 ### Date: 21 April 2021
 
