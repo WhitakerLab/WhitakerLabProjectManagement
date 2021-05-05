@@ -1,6 +1,6 @@
 # Check in meetings with Kirstie
 
-* [Date: 5 May 2021](#date-21-april-2021)
+* [Date: 5 May 2021](#date-5-may-2021)
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
@@ -10,40 +10,57 @@
 #### Who did you help over the past fortnight?
 
 * RD - new joiner in the AI Programmme/PMU - orientation 
+  * KW: Great stuff - very kind
 * HD - on Turing impact and strategy
+  * KW: Sounds super interesting & v helpful for sure :muscle:
 * SG - mentoring chat
 
 #### Who helped you this week?
 
 * KW - I learned more about GitHub 
+  * KW: And how to reset your password 😜
 
 #### What did you achieve?
 
-* Put together a job description for an ASG Community Manager 
+* Put together a job description for an ASG Community Manager
+  * KW: GREAT. Thank you 🌠
 * Drafted the first skeleton of 'Mind the skills gap in academia: can a RAM be an effective solution?' paper (provocative title); agreed with Malvika that the paper is my official OLS training output for the graduation (in 3 weeks)
-* Coordinated a scoping session for the computer vision toolkit for DS4S 🎉 
-* Had first discussions towards scoping an engagement with DWP around a 'data trust' - slow, but very ambitious potentially
+  * KW: Ooooooh - what fun!
+  * Discussion in the meeting about "what problem are RAMs trying to solve?" 
+    * I think my perspective is that RAMs are huge contributions to _team science_ and _collaborative working_... I guess you're fixing a "soft skills" 🤮 gap...
+    * Digital skills around bridging jargon for sure - skills that people need to collaborate.
+    * I guess I see RAMs 🐏🐏🐏 more around solving the _incentives_ rather than the _skills_ gaps.
+    * Do we need academia to move towards _products_? Should that be something that industry is responsible for?
+* Coordinated a scoping session for the computer vision toolkit for DS4S 🎉
+  * KW: GREAT WORK HERE! We achieved the goal :star2:
+* Had first discussions towards scoping an engagement with an organisation around a 'data trust' - slow, but very ambitious potentially
+  * KW: Keep an eye on that project - v interesting 👀
 * Coordinated the Intro to GitHub session for ASG postdocs
-* DAS paper: downloaded the most recent data; installed MongoDB; went through some of the existing data pipeline scripts to try and understand the flow; arranged a slot with Isla to discuss
+  * KW: Well done!
+* DAS paper: downloaded the most recent data; installed MongoDB; went through some of the existing data pipeline scripts to try and understand the flow; arranged a slot with IS to discuss
+  * KW: Delighted!
 * Followed the Pangeo discussion: should there be a RAM to coordinate with the user community?
+  * KW: Yes.... but I think we also have some ASG RAM resource to potentially help?
 * Went to a fun TPS seminar (CZI), listened to Data as an Instrument of Coloniality, read some stuff around Research Impact, started reading The Emergent Strategy, re-read parts of a book I originally read 5 years ago (Reinventing Organisations: A Guide to Creating Organizations Inspired by the Next Stage in Human Consciousness) ✨
+  * KW: SO GREAT.
 
 #### What did you struggle with?
 
 * DAS: going through other people's scripts can be challenging 
+  * KW: OMG LOOOOOLLLLLZZZZZ - so true!
  
 #### What would you like to work on next week?
 
 * I should present at the ASG MB board meeting next week - prep for that 
 * I would like to complete a first properly readable draft of the "RAM position paper" ✨
 * Prep for the OLS graduation
-* Progress the discussion about the data trust & DWP
-* Make some progress with DAS after discussing with Isla
+* Progress the discussion about the data trust org
+* * Make some progress with DAS after discussing with IS
 
 #### Where do you need help from Kirstie?
 
 * Most important: Prep for the ASG MB meeting - we also have a meeting with AC tomorrow
- 
+  * KW: Covered in meeting! Well done keeping us on topic 😀
 
 ### Date: 21 April 2021
 
