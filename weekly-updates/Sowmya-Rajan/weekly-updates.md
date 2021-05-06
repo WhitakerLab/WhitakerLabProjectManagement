@@ -4,6 +4,7 @@
 #### Who did you help this week?
 
 I have helped LC the most this week exchanging ideas over the on-boarding process.
+  LC - onboarding process is going well!! We can talk about progress report and fortnightly reporting for those parts of it!
 
 #### Who helped you this week?
 
@@ -16,15 +17,21 @@ LC helped me a lot to settle in and made me understand.
 * This was all done on the local host.
 * Dynamic Linking of URLs.
 
+  LC This is all fab ✨
+  
 #### What did you struggle with?
 
 * I struggled with concepts of Django and HTML which I don't have experience of. I am following tutorials by the side and implementing on the side.
 * I am also struggling on time management.
 
+  LC we can discuss ways of time management in our next meeting! There are lots of ways out there to help with that, such as blocking time, it's just finding what works for you!
+
 #### What would you like to work on next week?
 
 * I would like to test the code that I worked last week on the existing platform. I think it would take a day to try this out. 
 * Once I do this, I will follow other issues or to-do's that are lined up and implement it. 
+
+  LC sounds like a good plan 👍
 
 #### Where do you need help from Kirstie?
 
