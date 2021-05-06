@@ -55,6 +55,8 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * Participated in the Tidelift livestream (not a podcast!) and wrote a big old twitter thread about so many thoughts!
   * 🧵 https://twitter.com/kirstie_j/status/1385707607671857155?s=20
   * 🎥 https://www.twitch.tv/videos/998271615
+* AB advocated against my original plan and I think that was exactly the right call.
+  * WELL DONE 🌺
 
 ### What did you achieve
 
@@ -63,10 +65,10 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 *Because there are A.LOT in a month!*
 
 * LC joined the lab!
-  Fast streamer from the civil service.
+  * Fast streamer from the civil service: https://www.turing.ac.uk/people/programme-management/lotty-coupat
   * Objectives signed off ✅
 * SR joined the lab!
-  Masters degree intern from CRI.
+  * Masters degree intern from CRI.
 * Feedback on grant panel reviews.
   * Late, but ultimately I was quite happy with them.
   * Got them in GitHub too! 🌟
@@ -96,6 +98,9 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
   * Open canvas for the win!
 * Feedback on Turing's Slack workspace.
 * TPS Seminar w DT 🌟
+* Brainhack paper published!
+  * 📑 https://doi.org/10.1016/j.neuron.2021.04.001
+  * 🧵 https://twitter.com/brainhackorg/status/1388147807958315011?s=20
 
 #### Also rans 😅
 
@@ -120,6 +125,7 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * ASG Theme Leads meeting.
   * & follow up w BMA.
 * Coached someone for an interview & said fun and motivational things 💪
+  * Coached someone else for a promotion and said very similar fun and motivational things to them too 🙌
 * Had a fun call with someone who's struggling and gave some advice on how to collaborate without feeling like it's super overwhelming.
 * Catch up w ML.
 * Meetings re: ongoing partnership.
@@ -130,6 +136,8 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * Call w Ada Lovelace Institute re: letter & suggestions.
 * Helpful mentorship chat w TG
 * Fabulous mentorship chat w MM
+* Supported submission of a TPS sponsored grant 🤞😬🤞
+* Reviewed & sent off short bio for DS4S&H grant as co-i 🤞😬🤞
 * 2 x Turing fellow project meeting re: TPS opportunities.
 * TPS & PPP project scoping meeting.
 * 3 x meetings for potential partnerships
@@ -137,6 +145,8 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
   * Well done to AM for prepping me for that really well.
 * EDoN Analytics Hub meeting.
 * Turing Way meeting w Cambridge reproducibility leads
+* Said yes to being on a programme committee... that feels... like a bad idea.
+* Advocated for money for business team member to attend a conference.
 * Code of conduct violation, took report and had conversation.
 * Reviewed TPS and Turing Way newsletters! 💌💌
 * 1:1s w MS, IKG, AB, AM, GA, LC, ME, EK,
