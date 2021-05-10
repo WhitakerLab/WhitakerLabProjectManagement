@@ -19,7 +19,7 @@
 
 #### Who helped you this week?
 
-* 
+* AB & GA - helped edit Hidden Ref Turing entries - see [here](https://docs.google.com/document/d/1rmEHJe9vWhI-Jbbid1Lbvfvv0Kd-WgEUaEDmcQ-0M_E/edit?usp=sharing)
 
 #### What did you achieve?
 
