@@ -22,6 +22,36 @@
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
 
+### Date: 10 May 2021
+
+#### Who did you help this week?
+- The PhD enrichment in sharing community building and mentoring resources for their current plans
+- LC recorded a talk with very little help from me
+- CC in discussing community practices and where she can think about different subproject and roles in AutSpaces
+
+#### Who helped you this week?
+- ABL at setting the reimbursement info for the book dash
+- EP at helping with the GitHub workshop this will (13 May)
+- EK at screening chapter for illustrations, and setting social discussions for the book dash
+
+#### What did you achieve?
+- Discussing open science service area's work wth SG so we can sustain her work after she leaves
+- MM at discussing OHT resources that would be useful for The Turing Way
+- Newsletter was quite delayed - but went out
+- A chapter on shared ownership - a CW21 blog extended
+- A planning committee for the book dash
+
+#### What did you struggle with?
+- Set up a topic for Lunch and Share session for The Turing Way that is widely appealing
+- Still learning to stay less stressed by the COVID news
+
+#### What would you like to work on next week?
+- Book Dash, one talk this month and a panel this month
+- Matomo agreement is still missing from data protection - waiting for the reply
+
+#### Where do you need help from Kirstie?
+- Go over the Book Dash plan and check if everything looks ok
+
 ### Date: 26 April 2021
 
 #### Who did you help this week?
