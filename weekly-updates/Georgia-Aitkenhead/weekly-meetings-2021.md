@@ -2,12 +2,55 @@
 
 Georgia's weekly meeting notes.
 
+* [31 March 2021](#date-30-march-2021)
 * [9 March 2021](#date-09-march-2021)
 * [25 February 2021](#date-25-february-2021)
 * [17 February 2021](#date-17-february-2021)
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 31 March 2021
+
+#### Who did you help this week?
+
+* Helped SF with application 
+
+#### Who helped you this week?
+
+* More helpful mentoring!
+* KW helped with GSOC 
+* EK joined meet-up session and gave some really helpful feedback 
+* AVDW shared some resources for stratgic thinking
+* OS and SI helped me edit. 
+
+#### What did you achieve?
+
+* Co-created presentation on participatory citizen science for OLS-3
+* PR for updated [Open Canvas](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/444)
+* Meet-up session for community
+* Shared Autism Awareness Day resources with comms team 
+* Solved dataset migration error with JK - Milestone 1 complete! 
+
+#### What did you struggle with?
+
+* Strategy/prioritisation
+* Ways of working 
+* Burn-out/making mistakes 🔥
+
+#### Where do you need help from Kirstie?
+
+* Easter refresh 🌸🌸 - WoW and strategising
+* GSoC
+* Roadmapping 
+
+#### What would you like to work on next week?
+
+* March newsletter 
+* Easter break :)
+* GSOC
+* Turing Way integration 
+* Strategic planning
 
 ### Date: 09 March 2021
 
