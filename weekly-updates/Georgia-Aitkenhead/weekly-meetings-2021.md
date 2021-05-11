@@ -38,8 +38,9 @@ Georgia's weekly meeting notes.
 
 #### Where do you need help from Kirstie?
 
-* Next set of priorities - check
-* More on ways of working - how to support without losing clear roles
+* Next set of priorities - check 
+* More on ways of working - how to support poeple without losing clarity of roles
+* Doctoral student training opportunities
 
 #### What would you like to work on next week?
 
