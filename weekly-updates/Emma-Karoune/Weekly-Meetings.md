@@ -14,17 +14,20 @@
 
 #### Who did you help this week?
 
-* MS - with The Turing Way Bookdash.
+* MS - with The Turing Way Bookdash
+  * KW: Really really great - thank you so much 🌠
 * All lab - Was the Goatherd
+  * KW: 🐐
 
 #### Who helped you this week?
 
 * AB & GA - helped edit Hidden Ref Turing entries - see [here](https://docs.google.com/document/d/1rmEHJe9vWhI-Jbbid1Lbvfvv0Kd-WgEUaEDmcQ-0M_E/edit?usp=sharing)
+  * KW: BRILLIANT - submit away 🙏
 
 #### What did you achieve?
 
 * Continuing community management of project - meeting schedule, May newsletter, meeting announcements, project update, database.
-* Working on Turing chapters - wider audiences, academic collaborative writing.
+* Working on Turing Way chapters - wider audiences, academic collaborative writing.
 * Meeting with engage@turing students.
 
 #### What did you struggle with?
@@ -41,9 +44,7 @@
 * Project authorship criteria and documents: https://github.com/alan-turing-institute/DECOVID-projectmgmt/pull/357
 * Made a branch for new authorship documents [here](https://github.com/alan-turing-institute/DECOVID-projectmgmt/tree/authorship-templates/publications)
 
-#### Any other topics
-
-This space is yours to add to as needed.
+KW: Please pin me down for a session to work with you on these during the Book Dash 📚💨
 
 ### Date: 21 April 2021
 
