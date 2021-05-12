@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [11 May 2021](#date-11-may-2021)
 * [31 March 2021](#date-30-march-2021)
 * [9 March 2021](#date-09-march-2021)
 * [25 February 2021](#date-25-february-2021)
@@ -9,6 +10,53 @@ Georgia's weekly meeting notes.
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 11 May 2021
+
+#### Who did you help this week?
+
+* Helped LC become more familiar with the project's participant community and the background research 
+  * KW: Great 🌠
+* Helped SR with areas of project related to roadmap
+  * KW: Awesome 🗺️
+
+#### Who helped you this week?
+
+* IS helped come up with an open way of creating a roadmap
+  * KW: That sounds great... super helpful - and on the critical path.
+
+#### What did you achieve?
+
+* Meeting and finding out about LC and SR 🌸
+* Catching up/clarifying roles since leave
+* Finished quarterly health updates
+  * KW: Are these in the GitHub repository? Could we add them?
+* Progress on Researchfish (getting there...!)
+  * KW: Thank you - super important work - I'm very grateful 🙏
+* Dedicated focussing time/pomodoro really helps!
+
+#### What did you struggle with?
+
+* Sticking to time planning (lots of meetings)
+* Knowing where guidance needed/where to step back
+* Dev meeeting
+
+#### Where do you need help from Kirstie?
+
+* Next set of priorities - check 
+* More on ways of working - how to support poeple without losing clarity of roles
+* Doctoral student training opportunities
+
+#### What would you like to work on next week?
+
+* Complete Researchfish updates
+  * KW: Yes please - and think about prepping an update for the Autistica folks
+* Continue to add more material to the repositories
+  * KW: This is not your highest priority... but I see how it blocks LC and SR so please do fit this in as needed
+* KW: Link to AIM - connect w SF 
+* KW: Have a think about ethics application - connect w IKG
+* Performance review on Cezanne
+  * KW: Likely for a meeting at the end of May ✔️
 
 ### Date: 31 March 2021
 
