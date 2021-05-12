@@ -16,25 +16,30 @@ Georgia's weekly meeting notes.
 #### Who did you help this week?
 
 * Helped LC become more familiar with the project's participant community and the background research 
+  * KW: Great 🌠
 * Helped SR with areas of project related to roadmap
+  * KW: Awesome 🗺️
 
 #### Who helped you this week?
 
 * IS helped come up with an open way of creating a roadmap
+  * KW: That sounds great... super helpful - and on the critical path.
 
 #### What did you achieve?
 
 * Meeting and finding out about LC and SR 🌸
 * Catching up/clarifying roles since leave
 * Finished quarterly health updates
+  * KW: Are these in the GitHub repository? Could we add them?
 * Progress on Researchfish (getting there...!)
+  * KW: Thank you - super important work - I'm very grateful 🙏
 * Dedicated focussing time/pomodoro really helps!
 
 #### What did you struggle with?
 
 * Sticking to time planning (lots of meetings)
 * Knowing where guidance needed/where to step back
-* Dev meeeting 
+* Dev meeeting
 
 #### Where do you need help from Kirstie?
 
@@ -45,8 +50,13 @@ Georgia's weekly meeting notes.
 #### What would you like to work on next week?
 
 * Complete Researchfish updates
-* Continue to add more material to the repositories 
+  * KW: Yes please - and think about prepping an update for the Autistica folks
+* Continue to add more material to the repositories
+  * KW: This is not your highest priority... but I see how it blocks LC and SR so please do fit this in as needed
+* KW: Link to AIM - connect w SF 
+* KW: Have a think about ethics application - connect w IKG
 * Performance review on Cezanne
+  * KW: Likely for a meeting at the end of May ✔️
 
 ### Date: 31 March 2021
 
