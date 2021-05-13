@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [12 May 2021](#date-12-may-2021)
 * [21 April 2021](#date-21-april-2021)
 * [17 March 2021](#date-17-march-2021)
 * [10 March 2021](#date-10-march-2021)
@@ -7,6 +8,43 @@
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Date: 12 May 2021
+
+#### Who did you help this week?
+
+* MS - with The Turing Way Bookdash
+  * KW: Really really great - thank you so much 🌠
+* All lab - Was the Goatherd
+  * KW: 🐐
+
+#### Who helped you this week?
+
+* AB & GA - helped edit Hidden Ref Turing entries - see [here](https://docs.google.com/document/d/1rmEHJe9vWhI-Jbbid1Lbvfvv0Kd-WgEUaEDmcQ-0M_E/edit?usp=sharing)
+  * KW: BRILLIANT - submit away 🙏
+
+#### What did you achieve?
+
+* Continuing community management of project - meeting schedule, May newsletter, meeting announcements, project update, database.
+* Working on Turing Way chapters - wider audiences, academic collaborative writing.
+* Meeting with engage@turing students.
+
+#### What did you struggle with?
+
+* All ok
+
+#### What would you like to work on next week?
+
+* The Turing Way Bookdash!
+* Keep project ticking over at the same time.
+
+#### Where do you need help from Kirstie?
+
+* Project authorship criteria and documents: https://github.com/alan-turing-institute/DECOVID-projectmgmt/pull/357
+* Made a branch for new authorship documents [here](https://github.com/alan-turing-institute/DECOVID-projectmgmt/tree/authorship-templates/publications)
+
+KW: Please pin me down for a session to work with you on these during the Book Dash 📚💨
 
 ### Date: 21 April 2021
 
