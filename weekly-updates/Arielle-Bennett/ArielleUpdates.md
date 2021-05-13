@@ -2,11 +2,64 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [13 May 20201](#date-13-may-2021)
 * [28 April 2021](#date-28-april-2021)
 * [14 April 2021](#date-14-april-2021)
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 13 May 2021 
+
+#### Who did you help this week?
+
+* CE & KC - newsletter & CRM walkthrough (need to find time to document this!) 
+* MS - more guidance on expenses for Book Dash attendees
+* AC on figuring out finance stuff
+* SG prep for event support  
+
+#### Who helped you this week?
+
+* GS, AM & KH on project move
+* KH handled paperwork incredibly effectively 😄
+* HMe for knowledge sharing to help me plan effectively 
+* AM for stepping up to chair our next TPS seminar! 
+
+
+#### What did you achieve?
+
+* Leadership call document
+* TPS report submitted ON TIME 
+* Several pieces of paperwork have been dispatched and either completely resolved or progress 🦾
+* Presented early version of community manager presentation 
+* Other things? It's hard to remember 😩
+
+#### What bought you joy this week?
+
+* Talking to MS about event plans for outside work ✨
+* Having a beautifully laid-out spreadsheet to help with a pitch 
+* Mentoring a first contribution to the activism chapter! 
+
+#### What did you struggle with?
+
+* Something I thought would be simple took a lot longer than expected to have a sub-optimal outcome
+* Several unexpected roadblocks in things I would like to get closed out 
+* Tuesday turned out my body just wanted to rest 😴
+
+#### What would you like to work on next week?
+
+* Book Dash! Will be focusing on mentoring new people and reviewing the incredible amounts of writing that EK has done 📚
+* Preparing for The Very Long Walk 🚶‍♀️
+
+#### Where do you need help from Kirstie?
+
+* TPS newsletter tomorrow (ran out of time today) 
+* Jupyter event - what do you need from me? 
+
+#### Any other topics
+
+* 
+
 
 ## Date: 28 April 2021
 
