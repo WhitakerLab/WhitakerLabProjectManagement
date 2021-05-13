@@ -2,10 +2,93 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
-* [14 April 20201](#date-14-april-2021)
+* [28 April 2021](#date-28-april-2021)
+* [14 April 2021](#date-14-april-2021)
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 28 April 2021
+
+#### Who did you help this fortnight?
+* MS with Book Dash planning
+  * KW: GREAT - thank you 🙏
+  * Expenses policies, Scriberia
+* CM with newsletter chat
+  * KW: Ooooooooh FUN! WELL DONE!! :heart_eyes:
+* KW/TA with Jupyter event planning
+  * KW: YES. Thank you....more to dig into here though 😬
+* PS - volunteered for L&L
+  * KW: 🥪 🌯 FAB!
+
+#### Who helped you this fortnight?
+* Legal with external contract
+  * KW: OH YES - this is wildly hard (and I wish it were easier) - glad we were able to move forwards (after a bit of archeology 😭)
+* HMc & PR as always 
+  * KW: 🙏
+* Co-working sessions were great and really useful 
+  * KW: YAY
+* PIs getting project reports in on time ✨
+  * KW: WOOOO!
+* Everyone in the lab meeting sharing their thoughts on goatherding
+  * KW: Discussed in meeting - thank you for bringing up the reflection conversation
+
+#### What did you achieve?
+* Probation meeting complete! 
+  * Particularly pleased that I emphasised my enjoyment of documentation and process improvement
+  * Hoping for that to be part of my objectives over the next year 
+  * KW: 🎊🎊🎊 Yaaaaaay!
+* Newsletter sent!
+  * KW: YAY - I'm so delighted 🌠
+    * Would be interesting to see if we could link them to the website potentially?
+    Or a short website update that is a summary of the newsletter?
+  * Can we add a monthly email to TPS PIs (and maybe others?) to ask for content?
+    * Decision in meeting: Start in June because we have so many updates for May given we have all the updates! 
+* Now have project reports from pretty much every project which I'm thrilled about! 
+  * KW: FANTASTIC
+
+#### What bought you joy this fortnight?
+* Lots of updates for us to use in the newsletter from the reports 
+  * KW: YAAAAAY 🚀🌟
+* Last night's DEI call was brilliant, lots to chew on and think about 
+  * KW: Oh fantastic 💪 
+  * Really cool point about moderating the panel!!
+    (Could that be a chapter in the Turing Way???!)
+* Reflections on lab goatherding (need to write up blog post!) 
+  * KW: 🐐 THANK YOU 🐐🐐🐐🐐
+* Good feedback from KP on closing down a project
+  * KW: 🙌 Well done!!
+* Not letting awkward things sit for too long
+  * KW: WELL. DONE.
+* 🌳 Lab walk was lovely! 
+  * KW: It was SO SO LOVELY 🐕 🐾 🍏 🤷‍♀️
+
+#### What did you struggle with?
+* Report formatting - it takes so long and so much effort to get everything looking nice and the same 😩
+  * KW: 😭 If I could promote you only on the fact that you care about this I would. THANK YOU.
+* A process where the outside help is adding to confusion and delays. It's not any one persons' fault, but it is frustrating 
+  * KW: OH YES - what a frustration. Keep a record on this.... it isn't ok. 
+* Sometimes feel like I only have half the conversation for some projects & some are so tangled it feels impossible to untangle them...
+  * KW: Solidarity here. For the avoidance of doubt - this is a record keeping problem _before your time_ nothing to do with your abilities. 💜
+
+#### What would you like to work on next week?
+* 🎆TPS programme report🎆 due 6 May 
+  * KW: Lets co-work on Tuesday morning 🙏
+* TPS leadership call documents
+* Open Access Block Grant planning - reports and comms 
+
+#### Where do you need help from Kirstie?
+* Sent goals to you and GS - any feedback you'd like to share would be great
+  * KW: ADDED TO MY FRIDAY CALENDAR AAAAAAAAH! 💯
+* Budget for non-ASG TPS stuff, please send to me!
+  * KW: YES - co-working on Tuesday morning scheduled in 🙏
+* Report for Q3 & Q4 20/21 - will need front sheet completing next week (priority for Friday to get a draft to you)
+  * KW: Co-working on Tuesday 💪
+
+#### Any other topics?
+* There's so much stuff I'm thinking about and I really just need to spend like a week or so at my computer writing them all down and organising them into coherent narratives and arguments. 
+  * KW: WHAT IS THAT LIKE I DON'T UNDERSTAND 😂😂😂😂😂😂😭
+
 
 ## Date: 14 April 2021 
 *meetings have been moved around to accomodate CW21*
