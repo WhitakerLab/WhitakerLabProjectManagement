@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [11 May 2021](#date-11-May-2021)
 * [27 April 2021](#date-27-April-2021)
 * [13 April 2021](#date-13-April-2021)
 * [30 March 2021](#date-30-March-2021)
@@ -22,6 +23,50 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 11 May 2021
+
+#### Who did you help this week?
+
+* Week off! I helped nobody but me!
+  * KW: :joy:
+
+#### Who helped you this week?
+
+* Week off! Probably video games. I forget how good they are at distracting me.
+  * KW: 🎮🎮🎮
+
+#### What did you achieve?
+
+* Had an eye test. My short-sightedness is worse now, so I will get new lenses.
+  * KW: 👓
+
+#### What did you struggle with?
+
+* The person at the counter in the opticians broke my glasses' frame, so that was mildly stressful. They pulled through and found another frame my current lenses fit in for the timebeing.
+  * KW: 🤨
+
+#### What would you like to work on next week?
+
+* All the things, some culminating, some still growing:
+  * (i) EAG meeting on Tuesday hopefully leads to productive feedback for me to build on. The goal is to have the ethics form and framework to a good place by the end of the month.
+    * KW: This is the #1 priority - great stuff 🚀
+  * (ii) RECs workshop will need building up to mentally on Wednesday!
+    * KW: It's all looking good!
+  * (iii) Meeting with researchers and CH on Tuesday to discuss a specific approach to research ethics that might be worth sharing with the EAG -- I see it as providing, at the very least, food for thought.
+    * KW: FAB - excited for this!
+  * (iv) Liaise with ASG PIs and researchers to discuss ethics forms.
+    * KW: Great - really valuable work. Well done.
+
+#### Where do you need help from Kirstie?
+
+* Give me a day or two and I'll have a clear question, haha
+
+#### Any other topics
+
+* I don't think so! Looooooooooooooooots going on!!!
 
 ---
 
