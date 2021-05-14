@@ -1,5 +1,6 @@
 # Sarah's Fortnightly Mentoring Meetings
 
+- [2021-05-14](#date-2021-05-14)
 - [2021-05-05](#date-2021-05-06)
 - [2021-04-16](#date-2021-04-16)
 - [2021-04-07](#date-2021-04-07)
@@ -8,6 +9,43 @@
 - [Template](#template)
 
 ---
+
+## Date: 2021-05-14
+
+### Who did you help this week?
+
+- Lab members learn about blogging with Hugo and GitHub Pages
+- Reviewed my OLS mentees' graduation slides
+- CH writing CZI EOSS proposal
+
+### Who helped you this week?
+
+- MD reviewed my OLS graduation slides
+
+### What did you achieve?
+
+- Gave a _really fast_ demo of setting up a blog using Hugo and GitHub Pages to the Lab
+- Synced up KW, MS and CM on Binder/Turing Way/TPS
+- Emptied and sorted my Turing locker
+- Copied OLS work under my account (not Turing's) for some future work
+
+### What did you struggle with?
+
+- Had a few headaches this week that made focusing difficult
+
+### What would you like to work on next week?
+
+- Handing over LwM
+- Prepare to graduate OLS
+- Wrap up CZI EOSS application with CH
+
+### Any other topics
+
+To discuss with AM:
+
+- [ ] Meeting in two weeks is my last at the Turing and will be taking two weeks break
+- [ ] When to restart meetings?
+- [ ] Platform? Stick with Zoom or change to Google Meet?
 
 ## Date: 2021-05-06
 
