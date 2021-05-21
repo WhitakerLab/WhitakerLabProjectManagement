@@ -6,6 +6,7 @@
 * [08-03-2021](#Date-08-03-2021)
 * [22-03-2021](#Date-22-03-2021)
 * [26-04-2021](#Date-26-04-2021)
+* [10-05-2021](#Date-10-05-2021)
 
 ## Patricia Goals & Aims 
 *What skills, support, plans, objectives do you have for your work at the moment? How can these meetings support these?*
@@ -184,6 +185,49 @@ Yes, and I haven't read it yet :(
 
     * shout outs to the Hidden REF as we're getting close to submission deadline. Haven't managed to contribute that much in the last few weeks, so need to follow up on that
        * PH will attend TPS coffee on 6 May for some Q & A and promotion   
+
+## Date: 10-05-2021
+
+### Patricia's achievements
+* brainstormed and organised a user group for our DMPonline service
+* a lot of prep work for a series of workshops the FAIRsFAIR project is delivering over the next few weeks (reviewing certifcation applications for data repositories)
+* Talked about HiddenREF at TPS coffee - thank you for the invite
+* voted and it felt great :hibiscus: :ballot_box_with_ballot: 
+* AB: these are all brilliant! :sparkles: feel you on the ticking stuff off the list :) 
+
+### Check-in ritual
+* Shout out to ladies from my team for a rant that was good (not really making any progress, but just the discussion helped)
+    * AB: YES to awesome ladies! 
+
+### Before this call
+**Is there any particular reading/task we said we will do before we meet?**
+
+* it was very business focused - limited application to university situation
+* feels like the change worked well if you had/took time to reflect and/or experiment
+    * felt like time to do that was the last thing our team had :sob:
+* disagree a bit with the "sore loser" aspect - feel like that ignores the potential for activism
+* examples were not necessarily COVID-19 related but kind of change that would have happened anyway -> missing out on the unique situation rather than general change 
+* overall a bit underwhelming
+
+## Agenda and Notes
+* Review your current projects, relation and skill-building that you are working on.
+     * Feels like  a lot of fire-fighting and little active skill building. We do have team away days coming up though I'm unsure what they will focus on (which might be an issue in itself)
+     * AB: try speaking to Sarah about the REG away days! (now that you're no longer snowed under with conference work)
+
+* Since last time, review progress you’ve made towards your goals. Any challenges to mention?
+
+    * I think I need to prioritize reading ["non-violent communication"](https://www.amazon.co.uk/Nonviolent-Communication-Language-Life-Guides-dp-189200528X/dp/189200528X/ref=dp_ob_image_bk) - seems like a lot of difficult conversations coming up and some more confidence going into them would probably be good
+
+* Review if we can attract any attention or help highlight your work.
+
+(your notes)
+* Anything else:
+
+    * PH is languishing quite badly
+
+## After this call
+Is there any particular reading/topic/task we want to explore and bring to our next meetings?
+* PH will read nonviolent communication and update in upcoming meetings :heart: :speech_balloon: 
 
 
 ## Reading list suggestions
