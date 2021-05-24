@@ -7,7 +7,7 @@ Table of Contents
 #### Who did you help this week?
 
 I helped GA and LC for sometimes this week.
-
+* LC Yeah you did!!! ✨ 
 
 #### Who helped you this week?
 
@@ -21,6 +21,7 @@ LC, GA and KW helped me this week to understand the tasks that has to be taken.
 #### What did you struggle with?
 
 * Currently implementing everything that I am learning and haven't got stuck for a while.
+  * LC That's brilliant, I'm glad you haven't gotten stuck in a while 😄
 
 #### What would you like to work on next week?
 
