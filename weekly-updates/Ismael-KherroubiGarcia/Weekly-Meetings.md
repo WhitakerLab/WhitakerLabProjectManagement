@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [25 May 2021](#date-25-May-2021)
 * [11 May 2021](#date-11-May-2021)
 * [27 April 2021](#date-27-April-2021)
 * [13 April 2021](#date-13-April-2021)
@@ -23,6 +24,38 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 25 May 2021
+
+#### Who did you help this week?
+
+* People from Public Policy (just a bit) and The Turing Way (also only a bit)
+
+#### Who helped you this week?
+
+* It was great to go through the new TREx form with GA for AUTSpaces!
+
+#### What did you achieve?
+
+* First half of the TREx Guidance is drafted (with an explanation for each principle). The next half is more prompts and an example response for each question (2/13 done)
+
+#### What did you struggle with?
+
+* Mini breakdown when, on Wednesday morning, rather than take time to prioritise what I ha to do, I just **did everything**, haha
+
+#### What would you like to work on next week?
+
+* Finish :clap: the :clap: first :clap: draft :clap: of :clap:TREx :clap: Guidance :clap: -- come on, Ismael!!!
+
+#### Where do you need help from Kirstie?
+
+* I will speak with AM on Friday. If we have zero leads, I will ask about your network's connextions to the HRA!
+
+#### Any other topics
+
+* Second REC workshop on Thursday!!! 
 
 ---
 
