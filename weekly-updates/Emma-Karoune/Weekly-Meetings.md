@@ -16,7 +16,7 @@
 #### Who did you help this week?
 
 * Turing way bookdash - I was on the planning committee and helped to run some sessions during the week.
-
+* ME - mentoring session. 
 
 #### Who helped you this week?
 
