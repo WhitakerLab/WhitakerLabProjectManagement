@@ -17,6 +17,13 @@
 **Next meeting:** 27 April 2021
 
 
+## Date: 25 May 2021
+
+### What brought you joy this week?
+### What did you achieve
+### What did you struggle with?
+### Any other topics
+
 ## Date: 27 April 2021
 
 ### What brought you joy this week?
