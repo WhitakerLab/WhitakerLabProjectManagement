@@ -27,21 +27,27 @@
 ### Date: 25 May 2021
 
 #### Who did you help this week?
-- Aida in discussing her ongoing work and OLS graduation
+- AM in discussing her ongoing work and OLS graduation
 - Book Dash folks
-- CS&S even fund review and debrief
-- The Carpenries CoC facilitator programme module
+  - KW: SO MUCH!
+- CS&S event fund review and debrief
+  - KW: I'd love to build a more strategic connection w CS&S - I'm glad you are well connected there 🌠
+- The Carpentries CoC facilitator programme module
+  - KW: WELL DONE STICKING WITH THIS WORK
 
 #### Who helped you this week?
 - Planning committee - they did so much
 - Lab members and KW in discussing the idea of culture change
-- Esther helped with GitHub workshop
-- Emma with share out
+- EP helped with GitHub workshop
+- EK with share out
 
 #### What did you achieve?
 - Collaborated with the Book Dash planning committee
+  - KW: Debrief planned ✔️
 - Book Dash - 5th edition is over
 - Collaborated on a few chapters and mentored folks
+
+KW: You did SUCH a great job - really really fantastic 📚📚📚💨💨💨
 
 #### What did you struggle with?
 - Nothing particular this week
@@ -50,10 +56,13 @@
 - Newsletter, rough draft of the report, illustration release, cumulating feedback and bio of the attendees
 - 1 week off!
 - Work on cleaning up Book Dash report, upload, resource update and reviews
+  - KW: Plan to include the planning committee ✔️
 
 #### Where do you need help from Kirstie?
 
-- No specific ask immediately, but we should do a big The Turing Way planning for nex stage
+- No specific ask immediately, but we should do a big The Turing Way planning for next stage
+  - KW: Discussed potential future direction in person - next step think up a project plan / strategy / outputs / measures of success etc.
+    - I'm keen too to see if we can map inclusion to "inner source" projects too - how do we interoperably interact with HR processes etc?  
 
 ---
 
