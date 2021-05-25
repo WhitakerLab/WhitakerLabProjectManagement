@@ -1,5 +1,7 @@
 # Mentoring Sessions with Emma
 
+* [25 May 2021](#date-25-may-2021)
+* [27 April 2021](#date-27-april-2021)
 * [13 April 2021](#date-13-april-2021)
 * [16 March 2021](#date-16-march-2021)
 * [2 March 2021](#date-2-march-2021)
@@ -7,7 +9,7 @@
 
 **Why?** Supporting learning about health data & GitHub
 
-**When?** Fortnightly, Tuesdays at 2:00pm.
+**When?** Fortnightly, Tuesdays at 9am.
 
 **Where?** Microsoft Teams
 
@@ -15,6 +17,40 @@
 
 **Next meeting:** 27 April 2021
 
+
+## Date: 25 May 2021
+
+### What brought you joy this week?
+* ME - Spending time by Rob. Got a Junior Investigator Award.
+  * EK - This is so great! 🎉
+### What did you achieve
+* ME - Not much since I've been off the entire month. Attended a super interesting conference last week (presented a poster), and had some great chats re collaborating on genetics and imaging data.
+  * EK - That sounds cool! Good connections for future work/fellowships ⭐   
+### What did you struggle with?
+* ME - I think this one will be quite obvious.
+  * EK - Make sure you take enough time off and treat yourself well 🌻 
+### Any other topics
+* ME - I'm keen to discuss blog posts that I'm planning to write
+  * EK - We looked at what you have written so far, and talked about the audience you want to write for, style, where to put the blog topics and choosing 4 to do over the next four months. You can send them to me for editing if you want.
+    * ME - Thank you again, I found this so helpful! 🧡  
+* How to create CV website using GitHub. EK will demonstrate how she created hers. We also dicussed a more general "Increasing your research impact"-blog post.
+* A plan for working together on Turing Way chapter on sensitive data collaboration. We will plan co-working sessions later this week or next week.
+
+## Date: 27 April 2021
+
+### What brought you joy this week?
+* EK - My grant application was approved!
+* ME - My abstract being accepted brought me joy... and then fear lol 😆
+### What did you achieve
+* EK - Project community management things - newsletter prep, meeting notes, data paper meetings.
+  * Turing Way writing to try to get first drafts done by the bookdash.
+  * Gave my Environmental Archaeology Reproducibilty talk and talking about *The Turing Way* today at Reproducibilitea Portsmouth.
+* ME - Finished round of revisions for [manuscript](https://github.com/MariaEriksson/GOSH-2000-2018-paper/blob/main/manuscript/manuscript.md) & submitted poster to conference
+### What did you struggle with?
+* EK - All ok
+* ME - just a bit unwell, but better now 🙏
+### Any other topics
+* EK - Postgres databases - what do you know about them?
 
 ## Date: 13 April 2021
 
