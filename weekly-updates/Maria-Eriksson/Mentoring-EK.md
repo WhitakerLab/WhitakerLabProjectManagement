@@ -22,14 +22,15 @@
 
 ### What brought you joy this week?
 * EK - MS talk yesterday where she shared so many other peoples acheivements from her own mentoring and the turing way.
-* ME - 
+* ME - Spending time by Rob. Got a Junior Investigator Award.
 ### What did you achieve
 * EK - Turing way book dash - nearly finished a chapter, community manager wrangling, starting to work on data paper. 
-* ME - 
+* ME - Not much since I've been off the entire month. Attended a super interesting conference last week, and have had some great chats re collaborating on genetics and imaging data.
 ### What did you struggle with?
 * EK - Crazy busy at the moment - fitting in everything and kids and other stuff! 🤯
-* 
+* ME - I think this one will be quite obvious.
 ### Any other topics
+* Chat w Kirstie re nature of mentoring meeting - perhaps needs some re-focusing? Keen to discuss blog posts that I'm planning to write, and a plan for working together on Turing Way chapter on sensitive data collaboration.
 
 ## Date: 27 April 2021
 
