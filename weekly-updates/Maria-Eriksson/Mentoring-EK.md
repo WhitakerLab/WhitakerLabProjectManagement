@@ -21,8 +21,14 @@
 ## Date: 25 May 2021
 
 ### What brought you joy this week?
+* EK - MS talk yesterday where she shared so many other peoples acheivements from her own mentoring and the turing way.
+* ME - 
 ### What did you achieve
+* EK - Turing way book dash - nearly finished a chapter, community manager wrangling, starting to work on data paper. 
+* ME - 
 ### What did you struggle with?
+* EK - Crazy busy at the moment - fitting in everything and kids and other stuff! 🤯
+* 
 ### Any other topics
 
 ## Date: 27 April 2021
