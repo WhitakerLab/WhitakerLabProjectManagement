@@ -22,18 +22,19 @@
 
 ### What brought you joy this week?
 * ME - Spending time by Rob. Got a Junior Investigator Award.
-  - This is so great! 🎉
+  * EK - This is so great! 🎉
 ### What did you achieve
-* ME - Not much since I've been off the entire month. Attended a super interesting conference last week (gave a poster), and have had some great chats re collaborating on genetics and imaging data.
- - That sounds cool! Good connections for future work/fellowships - ⭐   
+* ME - Not much since I've been off the entire month. Attended a super interesting conference last week (presented a poster), and had some great chats re collaborating on genetics and imaging data.
+  * EK - That sounds cool! Good connections for future work/fellowships ⭐   
 ### What did you struggle with?
 * ME - I think this one will be quite obvious.
- * Make sure you take enough time off and treat yourself well 🌻 
+  * EK - Make sure you take enough time off and treat yourself well 🌻 
 ### Any other topics
-* Keen to discuss blog posts that I'm planning to write
-  * we looked at what you have so far - talked about the audience you want to write for, style, where to put the blog topics and choosing 4 to do over the next four months. You can send them to me for editing if you want.
-* CV website using Github. 
-* A plan for working together on Turing Way chapter on sensitive data collaboration - lets plan a co-working session later this week or next week.
+* ME - I'm keen to discuss blog posts that I'm planning to write
+  * EK - We looked at what you have written so far, and talked about the audience you want to write for, style, where to put the blog topics and choosing 4 to do over the next four months. You can send them to me for editing if you want.
+    * ME - Thank you again, I found this so helpful! 🧡  
+* How to create CV website using GitHub. EK will demonstrate how she created hers. We also dicussed a more general "Increasing your research impact"-blog post.
+* A plan for working together on Turing Way chapter on sensitive data collaboration. We will plan co-working sessions later this week or next week.
 
 ## Date: 27 April 2021
 
