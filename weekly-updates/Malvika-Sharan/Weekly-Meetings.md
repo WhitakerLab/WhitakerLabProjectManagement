@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [25 May 2021](#date-25-may-2021)
 * [10 May 2021](#date-10-may-2021)
 * [26 April 2021](#date-26-April-2021)
 * [08 April 2021](#date-08-April-2021)
@@ -22,6 +23,53 @@
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 25 May 2021
+
+#### Who did you help this week?
+- Aida in discussing her ongoing work and OLS graduation
+- Book Dash folks
+- CS&S even fund review and debrief
+- The Carpenries CoC facilitator programme module
+
+#### Who helped you this week?
+- Planning committee - they did so much
+- Lab members and KW in discussing the idea of culture change
+- Esther helped with GitHub workshop
+- Emma with share out
+
+#### What did you achieve?
+- Collaborated with the Book Dash planning committee
+- Book Dash - 5th edition is over
+- Collaborated on a few chapters and mentored folks
+
+#### What did you struggle with?
+- Nothing particular this week
+
+#### What would you like to work on next week?
+- Newsletter, rough draft of the report, illustration release, cumulating feedback and bio of the attendees
+- 1 week off!
+- Work on cleaning up Book Dash report, upload, resource update and reviews
+
+#### Where do you need help from Kirstie?
+
+- No specific ask immediately, but we should do a big The Turing Way planning for nex stage
+
+---
+
+### Template: Date: DD Month YYYY
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
 
 ### Date: 10 May 2021
 
@@ -960,17 +1008,3 @@ KW: And opened The Turing Way [twitter account](https://twitter.com/turingway)!!
 - Book dash dinner.
   * KW: Good job on taking this task away from me!
 - General qs about the Turing.
-
-### Template: Date: DD Month YYYY
-
-#### Who did you help this week?
-
-#### Who helped you this week?
-
-#### What did you achieve?
-
-#### What did you struggle with?
-
-#### What would you like to work on next week?
-
-#### Where do you need help from Kirstie?
