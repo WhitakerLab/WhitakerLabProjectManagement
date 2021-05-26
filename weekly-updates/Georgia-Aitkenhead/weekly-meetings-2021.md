@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [26 May 2021](#date-26-may-2021)
 * [11 May 2021](#date-11-may-2021)
 * [31 March 2021](#date-30-march-2021)
 * [9 March 2021](#date-09-march-2021)
@@ -10,6 +11,60 @@ Georgia's weekly meeting notes.
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 26 May 2021
+
+#### Who did you help this week?
+
+* Helped SF get set up on GitHub and using it :tada: 
+  * KW: Oh fun! Well done! 🌠
+
+#### Who helped you this week?
+
+* IS helped even more with the platform development roadmap and setting milestones/issues
+  * KW: Fab!
+* IKG helped with ethics
+  * KW: Super helpful - really glad you're road testing 🗺️
+* SB helped with making a beautiful page for meetups
+  * KW: 🙌
+
+#### What did you achieve?
+
+* Draft Researchfish updates completed
+* Connected with SF to link in to AIM - brainstorming session
+* Connected with IKG and began extra work on ethics
+* More work on summaries
+* Repo co-working with LC
+* Moderation brainstorming session with LC, JS and SF [#476](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/476)
+
+#### What did you struggle with?
+
+* Maintaining focussed time - lots of meetings and co-working (which was fun and productive)
+* Still figuring out when/how to best support a range of tasks
+  * KW: Discussed in meeting - hand over roadmap, development tasks, and meet up design & responsibilities
+
+#### Where do you need help from Kirstie?
+
+* Prepping for Autistica meeting
+* Roadmaps 
+
+#### What would you like to work on next week?
+
+KW: Turned into a numbered list:
+
+1. Hand over roadmapping to LC - don't work on this from June
+2. Research fish - submitted to AutisticaCitizenScience GitHub repository as PR
+3. Annual appraisal
+4. Ethics
+
+For future work in June:
+1. AIM integration -- do keep connected w SF too
+2. Summaries
+
+Deprioritised:
+* Future funding -- once we have other tasks aligned
+* Autistica meeting prep -- KW to lead
+* Position paper
 
 ### Date: 11 May 2021
 
@@ -55,7 +110,7 @@ Georgia's weekly meeting notes.
   * KW: This is not your highest priority... but I see how it blocks LC and SR so please do fit this in as needed
 * KW: Link to AIM - connect w SF 
 * KW: Have a think about ethics application - connect w IKG
-* Performance review on Cezanne
+* Performance review on CezanneCon
   * KW: Likely for a meeting at the end of May ✔️
 
 ### Date: 31 March 2021
