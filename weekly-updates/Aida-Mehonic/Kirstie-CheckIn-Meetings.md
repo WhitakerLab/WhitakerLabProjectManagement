@@ -1,6 +1,6 @@
 # Check in meetings with Kirstie
 
-* [Date: 26 May 2021](#date-5-may-2021)
+* [Date: 26 May 2021](#date-26-may-2021)
 * [Date: 5 May 2021](#date-5-may-2021)
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
@@ -15,26 +15,35 @@
 * AW - chat about concluding some old recruitment tasks 
 * HM - about sessions for ASG PDRAs
 * SG - mentoring chat
-* AB - a Master's student who wants to use computer vision in his Physics thesis (my 'volonteer' work outside turing)
+* AB - a Master's student who wants to use computer vision in his Physics thesis (my 'volunteer' work outside turing)
+
+KW: So helpful! Thank you 🙏
 
 #### Who helped you this week?
 
 * IKG - mentoring chat
 * KW - how to prepare an engaging and inspiring presentation for ASG MB 
 * EM, HD, MS - presentation styles 
-
+  * KW: LOVE IT! (Chapter in the Turing Way 😜)
 
 #### What did you achieve?
 
-* Presented to ASG MB for the first time :tada 
+* Presented to ASG MB for the first time :tada:
+  * KW: Fantastic - well done!! 
 * Had an indepth conversation with JR about DSH strategy - felt like I am getting to grips with this important aspect of TPS work
-* Prepared (almost there!) for OLS graduation tomorrow
-* Took part in some of the Book Dash sessions last week and got my first merge into The Turing Way and started my first chapter :sparkles 
-* Continued on setting up the Impact Reading Group --- we're about to ask for funding for the first speaker 
+  * KW: FAB - thank you 💪 
+* Prepared (almost there!) for OLS graduation tomorrow.
+  * KW: 🎓
+* Took part in some of the Book Dash sessions last week and got my first merge into The Turing Way and started my first chapter :sparkles:
+  * KW: WOOOOO 📚💨
+* Continued on setting up the Impact Reading Group --- we're about to ask for funding for the first speaker.
  
 #### What did you struggle with?
 
-* I've been generally tired recently. I struggle with maintaining my usual pace and I feel less produtive. I am taking some annual leave at the end of this week - I think I need it and that I'll come back refreshed and able to pick up the normal pace again. 
+* I've been generally tired recently.
+  I struggle with maintaining my usual pace and I feel less produtive.
+  I am taking some annual leave at the end of this week - I think I need it and that I'll come back refreshed and able to pick up the normal pace again.
+  * KW: I'm glad you have that annual leave. All your RAM work is long haul changes so take care of yourself first in order to change the world 🐏 🌍
  
 #### What would you like to work on next week?
 
@@ -43,15 +52,16 @@
 * submit 360 feedback where needed
 * pick up long term projects once i'm recharged (RAM paper, DAS project)
 * pick up the DT convo with AD once he's ready 
-* promote the RAM JD :tada 
+* promote the RAM JD :tada:
+
+KW: All sounds great - thank you 🌠
 
 #### Where do you need help from Kirstie?
 
-* I'd love to chat more about DSH strategy as well as potential 'stakeholder project plans' if we're ready to discuss more 
+* I'd love to chat more about DSH strategy as well as potential 'stakeholder project plans' if we're ready to discuss more
+  * KW: Super fun discussion!
 
-
-
-  * ### Date: 5 May 2021
+### Date: 5 May 2021
 
 #### Who did you help over the past fortnight?
 
