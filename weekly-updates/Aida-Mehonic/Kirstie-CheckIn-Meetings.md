@@ -14,6 +14,7 @@
 * SB - about the PhD in general 
 * AW - chat about concluding some old recruitment tasks 
 * HM - about sessions for ASG PDRAs
+* SG - mentoring chat
 * AB - a Master's student who wants to use computer vision in his Physics thesis (my 'volonteer' work outside turing)
 
 #### Who helped you this week?
