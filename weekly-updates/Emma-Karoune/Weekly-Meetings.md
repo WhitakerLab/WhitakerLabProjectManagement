@@ -24,8 +24,8 @@
 
 #### What did you achieve?
 
-* Project community management - keeping going with meeting notes, coordinating other meetings, progressing database issues, newsletter writing. 
-* Nearly finished a chapter for The Turing Way on Communicating with wider audiences.
+* Project community management - keeping going with meeting notes, coordinating other meetings, progressing database issues, newsletter writing, helping students with presentation and Gitlab. 
+* Nearly finished a chapter to merge The Turing Way on Communicating with wider audiences.
 
 #### What did you struggle with?
 
@@ -34,7 +34,7 @@
 #### What would you like to work on next week?
 
 * Starting the data paper outline.
-* Finish Wider audiences chapter and merged into the book - still needs social media sections adding, formatting checking and ading refs and other links. 
+* Finish Wider audiences chapter and merge into the book - still needs social media sections adding, formatting checking and adding refs and other links. 
 
 #### Where do you need help from Kirstie?
 
