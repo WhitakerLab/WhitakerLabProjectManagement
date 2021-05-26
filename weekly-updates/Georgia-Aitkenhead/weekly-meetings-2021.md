@@ -17,12 +17,16 @@ Georgia's weekly meeting notes.
 #### Who did you help this week?
 
 * Helped SF get set up on GitHub and using it :tada: 
+  * KW: Oh fun! Well done! 🌠
 
 #### Who helped you this week?
 
 * IS helped even more with the platform development roadmap and setting milestones/issues
-* IKG helped with ethics 
+  * KW: Fab!
+* IKG helped with ethics
+  * KW: Super helpful - really glad you're road testing 🗺️
 * SB helped with making a beautiful page for meetups
+  * KW: 🙌
 
 #### What did you achieve?
 
@@ -35,8 +39,9 @@ Georgia's weekly meeting notes.
 
 #### What did you struggle with?
 
-* Maintaining focussed time - lots of meetings and co-working (which was fun and productive). 
-* Still figuring out when/how to best support a range of tasks 
+* Maintaining focussed time - lots of meetings and co-working (which was fun and productive)
+* Still figuring out when/how to best support a range of tasks
+  * KW: Discussed in meeting - hand over roadmap, development tasks, and meet up design & responsibilities
 
 #### Where do you need help from Kirstie?
 
@@ -45,11 +50,21 @@ Georgia's weekly meeting notes.
 
 #### What would you like to work on next week?
 
-* Autistica meeting prep
-* Annual appraisal
-* Funding applications
-* Ethics
-* Roadmaps (supporting Lotty and Sowmya)
+KW: Turned into a numbered list:
+
+1. Hand over roadmapping to LC - don't work on this from June
+2. Research fish - submitted to AutisticaCitizenScience GitHub repository as PR
+3. Annual appraisal
+4. Ethics
+
+For future work in June:
+1. AIM integration -- do keep connected w SF too
+2. Summaries
+
+Deprioritised:
+* Future funding -- once we have other tasks aligned
+* Autistica meeting prep -- KW to lead
+* Position paper
 
 ### Date: 11 May 2021
 
