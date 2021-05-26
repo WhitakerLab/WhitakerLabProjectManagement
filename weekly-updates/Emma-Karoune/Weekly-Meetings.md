@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [26 May 2021](#date-26-may-2021)
 * [12 May 2021](#date-12-may-2021)
 * [21 April 2021](#date-21-april-2021)
 * [17 March 2021](#date-17-march-2021)
@@ -9,6 +10,44 @@
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
 
+
+### Date: 26 May 2021
+
+#### Who did you help this week?
+
+* Turing way bookdash - I was on the planning committee and helped to run some sessions during the week.
+  * KW: You were so fantastic - thank you! 🌟
+* ME - mentoring session
+
+#### Who helped you this week?
+
+* MN and MM - wonderful co-workers, great discussions and super ideas to progress chapter.
+  * KW: So fantastic - really excited for this chapter 📚
+
+#### What did you achieve?
+
+* Project community management - keeping going with meeting notes, coordinating other meetings, progressing database issues, newsletter writing, helping students with presentation and Gitlab. 
+* Nearly finished a chapter to merge The Turing Way on Communicating with wider audiences.
+
+#### What did you struggle with?
+
+* Crazy busy as took on too much outside of turing work so not going to do that again! 🔬
+  * KW: WELL DONE on crossing off the big task! Enjoy the long weekend 🌄
+
+#### What would you like to work on next week?
+
+* Starting the data paper outline.
+* Finish Wider audiences chapter and merge into the book - still needs social media sections adding, formatting checking and adding refs and other links. 
+
+KW: Great priorities ✔️
+
+#### Where do you need help from Kirstie?
+
+* Reading wider audiences chapter
+
+#### Any other topics
+
+Had a chat in person about continued engagement beyond the end of your time with DECOVID 😸
 
 ### Date: 12 May 2021
 
