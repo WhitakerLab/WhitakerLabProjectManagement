@@ -1,11 +1,56 @@
 # Check in meetings with Kirstie
 
+* [Date: 26 May 2021](#date-5-may-2021)
 * [Date: 5 May 2021](#date-5-may-2021)
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
 
-### Date: 5 May 2021
+### Date: 26 May 2021
+
+#### Who did you help over the past fortnight?
+
+* GA - mentoring chat - especially chatted about how the Autspaces platform could generalise for different types of users
+* SB - about the PhD in general 
+* AW - chat about concluding some old recruitment tasks 
+* HM - about sessions for ASG PDRAs
+* AB - a Master's student who wants to use computer vision in his Physics thesis (my 'volonteer' work outside turing)
+
+#### Who helped you this week?
+
+* IKG - mentoring chat
+* KW - how to prepare an engaging and inspiring presentation for ASG MB 
+* EM, HD, MS - presentation styles 
+
+
+#### What did you achieve?
+
+* Presented to ASG MB for the first time :tada 
+* Had an indepth conversation with JR about DSH strategy - felt like I am getting to grips with this important aspect of TPS work
+* Prepared (almost there!) for OLS graduation tomorrow
+* Took part in some of the Book Dash sessions last week and got my first merge into The Turing Way and started my first chapter :sparkles 
+* Continued on setting up the Impact Reading Group --- we're about to ask for funding for the first speaker 
+ 
+#### What did you struggle with?
+
+* I've been generally tired recently. I struggle with maintaining my usual pace and I feel less produtive. I am taking some annual leave at the end of this week - I think I need it and that I'll come back refreshed and able to pick up the normal pace again. 
+ 
+#### What would you like to work on next week?
+
+* rest and recharge next week :) 
+* prepare for my appraisal 
+* submit 360 feedback where needed
+* pick up long term projects once i'm recharged (RAM paper, DAS project)
+* pick up the DT convo with AD once he's ready 
+* promote the RAM JD :tada 
+
+#### Where do you need help from Kirstie?
+
+* I'd love to chat more about DSH strategy as well as potential 'stakeholder project plans' if we're ready to discuss more 
+
+
+
+  * ### Date: 5 May 2021
 
 #### Who did you help over the past fortnight?
 
