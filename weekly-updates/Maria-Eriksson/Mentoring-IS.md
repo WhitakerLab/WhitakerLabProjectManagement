@@ -18,6 +18,11 @@
 
 **Next meeting** 
 
+## Date: 28 May 2021
+
+* Chat about Turing Way chapter, 'Collaborating using sensititve data'. EK keen to collaborate on this.
+* Question about Jupyter notebook on GitHub repository - do demonstrate how it works, could I have it open a 'sample' (not real) patient document saved on the GitHub repository?
+
 ## Date: 8 April 2021
 
 * We spent the meeting opening an issue in the Turing Way, which proposes [a new sub-section to an existing Turing Way chapter](https://github.com/alan-turing-institute/the-turing-way/issues/1842) 🎇
