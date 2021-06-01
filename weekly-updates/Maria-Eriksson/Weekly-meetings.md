@@ -36,9 +36,12 @@
 * Drafted blog posts
 * Outlined plan for remaining time of scholarship
 * Presented poster at International Epilepsy Colloquium
+  * KW: Wooo!
 * Was awarded a Junior Investigator Award
+  * KW: Congratulations!! 🎊🎊🎊
 * Meeting w LM and RP re collaborations
 * Prepared presentation for the clinical team at GOSH
+  * KW: Go feedback go ✔️
 * Checked data
 
 #### What did you struggle with?
@@ -57,6 +60,23 @@
 * Using some catch-ups for specific "Topics for discussion/reflection/mentoring"
   * For example: Career planning, KW's vision on future of research, fellowship applications
 * Random question about regression: interaction between variables and choosing (or not choosing) a reference category
+  * KW: Great discussion about reference categories - tl;dr: it doesn't matter - have a play around with adding the values together to prove it to yourself!
+  * Answering a different question: poisson family for count analyses: https://tysonbarrett.com/Rstats/chapter-5-generalized-linear-models.html
+
+KW: We had a great big long chat.
+Plan for the summer is to start with:
+* Build a website with Hugo
+* Working openly with sensitive data - chapter in The Turing Way
+* Increasing your research impact - chapter in The Turing Way
+* Blog post for Turing
+* Blog post for ICH postdocs
+
+Stretch goals:
+* See if we can write an opinion article
+* Potentially look at publishing a BIDS related protocol on protocols.io
+
+Well DONE!
+(Always so much work to do 🌻)
 
 ### Date: 29 April 2021
 
