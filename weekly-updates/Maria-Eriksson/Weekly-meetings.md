@@ -53,7 +53,9 @@
 
 #### Where do you need help from Kirstie?
 
-* Thinking about supervision/guidance
+* Re-focusing supervision/guidance going forward
+* Using some catch-ups for specific "Topics for discussion/reflection/mentoring"
+  * For example: Career planning, KW's vision on future of research, fellowship applications
 * Random question about regression: interaction between variables and choosing (or not choosing) a reference category
 
 ### Date: 29 April 2021
