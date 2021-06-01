@@ -8,6 +8,8 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 
 **2021**
 
+* [31 May 2021](#date-31-may-2021)
+* [16 May 2021](#date-16-may-2021)
 * [30 April 2021](#date-30-april-2021)
 * [28 March 2021](#date-28-march-2021)
 * [14 March 2021](#date-14-march-2021)
@@ -21,6 +23,165 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * [8 January 2021](#date-8-january-2021)
 
 ---
+
+## Date: 31 May 2021
+
+*Updates cover two weeks because the first week in May was quite a short one.*
+
+### What brought you joy this week?
+
+* The Turing Way Book Dash was really special.
+  I'm so glad we were able to build such a lovely atmosphere in an all remote event.
+  * The Thursday icebreaker on brags and the shared meal and show and tell were really beautiful.
+* TPS Seminar w Kaitlin Thayney - really interesting and good turnout!
+* A compliment that I don't know if anyone else knew was so incredibly meaningful for me.
+  * A 2 year investment paying off 🙏
+* Job posting for RAMs now open!
+  * https://cezanneondemand.intervieweb.it/turing/jobs/research_application_manager_x2_14360/en
+  * Twitter 🧵: https://twitter.com/kirstie_j/status/1399480847347159047?s=20
+
+### What did you achieve
+
+* Book Dassssh!
+  * I managed to attend quite a bit - phew.
+  * Merged the Barriers to Reproducible Reserach chapter that's been in the works for around 1 million years: https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html
+  * I also did some good thinking about the collaboration guide... when I'm going to be able to capture that work I have NO idea.... but it was useful thinking 😩
+* Looking before we leap workshop
+  * Gave a keynote - thought it was pretty ok.
+* DECOVID summer plan... ish
+* EDoN Hub meeting & anonymisation strategy meeting
+* Extended EDoN JD and promoted a bit on twitter
+  * https://cezanneondemand.intervieweb.it/turing/jobs/senior_data_analyst_modeller_edon_14053
+  * https://twitter.com/kirstie_j/status/1399493741631709184?s=20
+* JupyterHub / Binder community meeting to welcome CM & congratulate SG
+* BIDS Steering Group meeting
+* DSG / EAG process discussion
+* RAM jd open & promoted
+* AIM PM jds reviewed by CL and submitted to recruitment.
+* 1:1 w CF - very helpful
+* Planning meeting w CCO5 which was really interesting
+* Met ACC & set a few strategic directions for Pangeo
+* Feedback to two grant applications that are now submitted 🤞🤞
+* ASG Theme Lead meeting
+* Job description for ASG community manager & a couple of iterations
+* Scoping meeting for DSH
+* Welcome AM & CN to AIM 👋
+* AIM budget meeting
+* Scheduled annual appraisal meetings
+* AutSPACEs team meeting & dev team meeting
+* Lovely guest speaker at lab meeting
+* Led 1:1s w IKG, MS, GA, EK, AM,
+* Connected w MOR, SB, TD & LA for social / future plan conversations
+* Information governance certificates - loads of fun clicking through Bob's business questions 😬
+* Mancunian Matters piece is out: https://www.mancunianmatters.co.uk/news/18052021-alan-turing-his-life-his-logic-his-legacy
+  * > She added: "There were so many women – working on shifts, and literally 365 days a year – supporting that effort, breaking the codes, doing the translation.
+    > It's great to remember them, and in our work at the Turing Institue we do focus on making sure that we tell those stories."
+  * > "One of the things that I'm very, very passionate about is the importance of invisible work.
+    > So, that's work to train people to support and empower – to make sure that others have the information that they need."
+
+### What did you struggle with?
+
+* Some paperwork is not going to take the smoother pathway that I had hoped.
+  Just need to keep my energy up to push it through.
+* idk, it feels like I'm not doing all that much at the moment while also working super freaking hard.
+  * I think I need to bring back my postits for joys - I'm not tracking the work as well as I could be at the moment.
+  * To be fair, I think I'm getting a LOT of good work done.... it just isn't showing up as lots of crossed off items in my to do list 🤷‍♀️
+    Maybe some work is invisible for longer 🌺
+
+### Any other topics
+
+This space is yours to add to as needed.
+
+
+## Date: 16 May 2021
+
+*Updates cover two weeks because the first week in May was quite a short one.*
+
+### What brought you joy this week?
+
+* The TPS delivery team were SO SLICK in advocating (successfully) for funding.
+  * REALLY proud of the alignment that we've worked so hard for.
+* AB read through my updates on GitHub and used them to fill in the TPS report.
+  So incredibly helpful - YAAAAAAAAY! 🌟🌟🌟
+* IKG doing an awesome job with the ethics workshop.
+* VERY smooth transition for PDRA position contract extension thanks to KR & AB.
+* Great planning chats w BM - and appreciate the mentorship for myself and someone in the team.
+* AM gave a great talk to the ASG mgmt board.
+  * Which was itself a really fun meeting!
+* Not exactly joy but I am SUPER grateful to KP for her work on a couple of contracts.
+* Had a great long chat with an OHBM colleague about career progression - tried to offer her a job while also telling her not to trust advice from folks because they're always speaking from particular biases 😅
+  * Diversifying input is the name of the game here!
+* Joined zoom celebration for a grant that I wasn't part of winning (CONGRATULATIONS TO THE TEAM 🎊🎊🎊) but hopefully will be part of delivering within TPS 🙌
+  * Lovely to be invited 😊
+* A student came to my office hours!!
+  * I was helpful!!
+  * I am delighted 🚀🌟
+* SG did a kickass demo on lauching a blog with Hugo during lab meeting.
+  So smooth!
+* Chat w AR re: Neurohackademy.
+
+### What did you achieve
+
+* Attended Looking Before We Leap ethics workshop w Ada Lovelace Institute.
+  * V validating, and well organised by the team.
+  * https://www.adalovelaceinstitute.org/project/ai-research-ethics-committees
+* TPS Q3 & Q4 report submitted - primarily thanks to AB!
+* Autistica annual report (Q1-Q4) submitted to Health programme - entirely thanks to GA!
+* Confirmed funding for PDRA position extension.
+* Progress on job descriptions for RAM, EDoN, TPS Fellow & AIM PM positions.
+* 2 x ASG core team meetings - v helpful.
+* Gave helpful feedback to AM in prep for her presentation.
+  * Which went really well 🐏🌠
+* Attended DA team meeting repping the AIM RSF.
+* Chaired v useful - if frustrating (no one's fault!) ops group meeting.
+* Programme Directors meeting.
+* Internal discussion for potential partnership.
+* Welcomed CM to the Turing BinderHub! 🙌
+* Gave feedback for survey that Turing comms & engagement teams are running.
+* Future planning meeting w DB & BM.
+* V helpful alignment conversation w CH.
+* DS4S&H meeting on applications in neuroimaging.
+* EDoN & DSH meeting.
+* EnvSensors monthly meeting.
+  * Time flies, so wild 🙀
+* 1:1s w GA, MS, IKG, AB
+* 2 x AutSPACEs core team meeetings - useful for allocating roles and responsibilities.
+* AutSPACEs dev team meeting - focusing on handover / roadmapping / prioritising.
+* Didn't attend the AutSPACEs meet up - BUT did hear that LC ran it really well 🌟
+  * Got a newsletter update sent around for this one - broadening the reach.
+* Adjusted funding for AutSPACEs to be within TPS rather than Health (although still a joint project!)
+* DECOVID meetings - all hands, expert check in, analyst steering group, leadership x2.
+  * Also coordinated work with the Engage at Turing students.
+* Gave feedback on Turing call to DL - fun chat too 👋
+* Interview with Mancunian Matters - what a lovely chap.
+* Linked up ACC w FP - SUCH an exciting opportunity here! 🌍
+* Gave feedback on office space plan.
+* Lab meeting.
+* Letter of support for Neurohackademy.
+* Letter of support for student application.
+* Added my comments to AB's fantastic TPS newsletter: https://github.com/alan-turing-institute/tps-project-management/pull/47
+  * Number 10!
+    We're rocking along! 🎸 🧑‍🎤
+* Reviewed LC's fabulous AutSPACEs newsletter: https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/466
+* GSOC student confirmed joining Autspaces
+
+### What did you struggle with?
+
+* One of the projects has very low engagement - really tough week knowing how to take it forwards.
+  * I think we got to a good point by the end.
+    Really valuable 1:1 chats to align (word of the week 😅)
+* One really rough conversation but that hopefully draws a line under a 6 month process.
+  * Didn't go well, but at least the conversation is off the to do list and its a little clearer to see a pathway forwards.
+
+### Any other topics
+
+Got my vaccine this weekend!!
+SO SO grateful.
+Picture at: https://twitter.com/kirstie_j/status/1393843745871761409?s=20
+
+Also did some reading and listening to podcasts about the conflict in Gaza.
+Need to do more understanding of that fact, but did decide to [speak out publicly](https://twitter.com/kirstie_j/status/1393675808280096773?s=20) in support of Palestine.
+The balance of power seems too disproportionately aligned to Israel to consider a "two sides" story of the conflict.
 
 ## Date: 30 April 2021
 
