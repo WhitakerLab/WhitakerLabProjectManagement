@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [02 June 2021](#date-02-june-2021)
 * [26 May 2021](#date-26-may-2021)
 * [11 May 2021](#date-11-may-2021)
 * [31 March 2021](#date-30-march-2021)
@@ -11,6 +12,38 @@ Georgia's weekly meeting notes.
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 02 June 2021
+
+#### Who did you help this week?
+
+* Helped LC with resources and wireframing
+
+#### Who helped you this week?
+
+* AA and MA helped with reviewing 
+
+#### What did you achieve?
+
+* Began ethics application 
+* Completed appraisal draft in Cezanne  
+* Clarified user flow with LC and JK
+* Some more work on summaries 
+
+#### What did you struggle with?
+
+* Appraisal - it can be hard to assess yourself! 
+
+#### Where do you need help from Kirstie?
+
+* Appraisal
+* Reviewing researchfish
+
+#### What would you like to work on next week?
+
+* Edits on researchfish - and submit! 
+* Edits on appraisal - and submit!
+* Ethics 
 
 ### Date: 26 May 2021
 
