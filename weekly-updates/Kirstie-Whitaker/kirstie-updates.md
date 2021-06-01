@@ -39,6 +39,10 @@ Notes from Kirstie's personal version of the "weekly meetings" file she asks all
 * Job posting for RAMs now open!
   * https://cezanneondemand.intervieweb.it/turing/jobs/research_application_manager_x2_14360/en
   * Twitter 🧵: https://twitter.com/kirstie_j/status/1399480847347159047?s=20
+* Already raised £145 for Crohn's & Colitis!
+  * https://www.mywalkit.org.uk/fundraising/kirstie-walks-all-the-miles
+  * The lab have raised £345 already! 🙌
+    * https://www.mywalkit.org.uk/teams/whitaker-lab-walks-it
 
 ### What did you achieve
 
