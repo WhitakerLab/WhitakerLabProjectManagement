@@ -1,6 +1,6 @@
 # Emma and Georgia's Mentoring Meetings
 
-* [14 May 2021](#date-14-may-2021)
+* [4 June 2021](#date-4-june-2021)
 * [22 March 2021](#date-22-march-2021)
 * [8 March 2021](#date-8-march-2021)
 * [19 February 2021](#date-19-february-2021)
@@ -13,10 +13,9 @@
 
 **For how long?** 1 hour
 
-**Next meeting:** [12th April 2021] No meeting on 5th April as it's a bank holiday.
+**Next meeting:** [18 June 2021] 
 
-
-## Date: 14 May 2021
+## Date: 4 June 2021
 
 ### What brought you joy this week?
 
