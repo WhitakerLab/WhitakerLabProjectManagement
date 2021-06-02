@@ -2,11 +2,80 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [13 May 20201](#date-13-may-2021)
 * [28 April 2021](#date-28-april-2021)
 * [14 April 2021](#date-14-april-2021)
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 13 May 2021 
+
+#### Who did you help this week?
+
+* CE & KC - newsletter & CRM walkthrough (need to find time to document this!)
+  * KW: WELL DONE on this - is there space in the Turing Way for this? (Not the CRM stuff but the newsletter more generally?)
+    * There's the community handbook version: https://the-turing-way.netlify.app/community-handbook/newsletters.html but I think it should go into communication!
+* MS - more guidance on expenses for Book Dash attendees
+  * KW: This is SUCH valuable work - thank you so much 💰
+  * Please can you ping this to JS in events - I was having a bit of a complain about how hard this can be earlier today!
+* AC on figuring out finance stuff
+  * KW: Oh dear. Thank you 🙏
+* SG prep for event support
+  * KW: AH - capture this work for your annual appraisal - you're doing such helpful work here.
+
+#### Who helped you this week?
+
+* GS, AM & KR on project move
+* KR handled paperwork incredibly effectively 😄
+  * KW: From my side that was INCREDIBLY smooth - THANK YOU!
+* HMe for knowledge sharing to help me plan effectively
+  * KW: Awesome! What a star 🌠 
+* AM for stepping up to chair our next TPS seminar! 
+  * KW: So grateful 🐏
+
+#### What did you achieve?
+
+* Leadership call document
+* TPS report submitted ON TIME
+  * KW: IN SPITE OF MY EFFORTS 😂😂😂
+    * Really excellent work 🙌
+* Several pieces of paperwork have been dispatched and either completely resolved or progress 🦾
+  * KW: 💪💪💪
+* Presented early version of community manager presentation 
+  * KW: Loved this!! 🌱🌳
+    * Keen to have this presented at various places - internally too
+    * Is there a paper in here about the venn diagram of RAM, CM and RPM
+* Other things? It's hard to remember 😩
+
+#### What bought you joy this week?
+
+* Talking to MS about event plans for outside work ✨
+  * KW: The plans are sounding awesome!
+* Having a beautifully laid-out spreadsheet to help with a pitch
+  * KW: THAT WAS A beautifully laid-out spreadsheet 🤩
+* Mentoring a first contribution to the activism chapter!
+  * KW: Very kind 🌠
+
+#### What did you struggle with?
+
+* Something I thought would be simple took a lot longer than expected to have a sub-optimal outcome
+  * KW: 😭😭😭
+* Several unexpected roadblocks in things I would like to get closed out
+  * KW: 🚧🚧🚧
+* Tuesday turned out my body just wanted to rest 😴
+  * KW: 🛋️
+
+#### What would you like to work on next week?
+
+* Book Dash! Will be focusing on mentoring new people and reviewing the incredible amounts of writing that EK has done 📚
+* Preparing for The Very Long Walk 🚶‍♀️
+  * KW: Eeeeeeeeeee!! HAVE FUN! 🦖
+
+#### Where do you need help from Kirstie?
+
+* TPS newsletter tomorrow (ran out of time today) 
+* Jupyter event - what do you need from me?
 
 ## Date: 28 April 2021
 
