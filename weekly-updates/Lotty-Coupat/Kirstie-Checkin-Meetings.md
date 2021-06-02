@@ -2,15 +2,15 @@
 
 *Meetings with Kirstie approximately every 2 weeks*
 
-* [28 April 2021](#date-28-april-2021)
 * [01 June 2021](#date-01-june-2021)
+* [28 April 2021](#date-28-april-2021)
 
 ### Date: 01 June 2021
 
 #### Who did you help this week? 
 
 - I mapped out the user flow for the MVP platform which will hopefully help AR and SR
-- Continuously ensuring less pressure on JK on paltform dev side of things 
+- Continuously ensuring less pressure on JK on platform dev side of things 
 - Supporting AR and SR from a mentor perspective 
 - Set up a moderation co-working session to help SF and JS map out their ideas and work going forward along with GA and SR
 - Set DM up on GitHub
@@ -33,8 +33,8 @@
 
 I'm struggling with knowing how to rearrange the github repo to make sure it's intuitive. 
 My technologic expertise is impacting how easily this is being down. 
-For example, I know what folders I want but unsure which current folers need to be where. 
-Trying to work closely with SR on this one - spending a lab co-wokring session together and working on it.  
+For example, I know what folders I want but unsure which current folders need to be where. 
+Trying to work closely with SR on this one - spending a lab co-working session together and working on it.  
 
 #### What would you like to work on next week?
 
@@ -42,19 +42,20 @@ Trying to work closely with SR on this one - spending a lab co-wokring session t
 - Github refresh!!! 
 - I want to start finding people to try and recruit to help on the project (community building) 
 - Organising more co-working sessions (Platform Development specifically for AR and SR to meet with RT and keep him in the loop) 
-- Onboard Stephan (1:1 schedules 10:30 am 02 June) 
+- Onboard SH (1:1 schedules 10:30 am 02 June) 
 - AutSPACEs update at lab meeting (03 June) 
 
 #### Where do you need help from Kirstie?
 
 - Recommendations on who/where I can start recruiting people to join and work on the project
 - Review of roadmap and user flow
+  - KW: Great - really fun to lok
 
 #### Any other topics
 
 - AR and SR both doing well! I think the confusion is starting to reduce around what needs to be done now that we have a roadmap and user flow
 - Have signed up for goatherding w/c 21 June
-
+  - 🐐 🌠
 
 
 ### Date: 28 April 2021
