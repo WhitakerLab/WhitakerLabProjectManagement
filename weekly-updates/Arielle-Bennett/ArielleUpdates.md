@@ -26,6 +26,8 @@
 
 * Set up 500 words of summer project (hope people find that useful?)
 
+* Good discussions with PH
+
 
 #### Who helped you this week?
 
@@ -52,6 +54,8 @@
 * Walking my Very Long Walk 🚶‍♀️
 
 * General summery-ness 🌞
+
+* PH bought me flowers! 💐
 
 * 500 Words of Summer has been good - I have been mainly just writing down alllll my thoughts on open source, activism, politics, and policy 😅
 
