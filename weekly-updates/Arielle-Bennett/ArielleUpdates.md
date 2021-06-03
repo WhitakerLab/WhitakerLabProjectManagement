@@ -15,76 +15,77 @@
 #### Who did you help this week?
 
 * Lots of Book Dash attendees helped to make and merge their first pull requests, first reviews and write lots of fun content! 
- 
-* SG with workshop 
-  
+  * KW: And reimbursements?!?! 😬 🙏
+* SG with workshop
+  * KW: Well done - thank you!
 * Connected up training with efforts around the PDRA cohort 
-  
 * My mum who did the 42km overnight with me 🌻
-
-* Minor admin things around projects 
-
+  * KW: WAY TO GOOOOOOOO! 🌄 🌛
+* Minor admin things around projects
 * Set up 500 words of summer project (hope people find that useful?)
-
+  * KW: VERY COOL!
 * Good discussions with PH
-
 
 #### Who helped you this week?
 
 * MS & HMc as always 😄
-
-* GS has been super with tricky queries 
-
-* SR coming to a TPS session and asking excellent questions 
-
+* GS has been super with tricky queries
+  * KW: Aaaaah - well done! And thank you.
+* SR coming to a TPS session and asking excellent questions
+  * KW: YAY!
 * LC has been showing up consistently for 500 words of summer, much appreciated! 
+  * KW: YAY 2!
 
 #### What did you achieve?
 
-* Started chapter on research infrastructure roles, definitely a paper (position paper maybe) on the importance of these roles for research progress and best practice 
-
+* Started chapter on research infrastructure roles, definitely a paper (position paper maybe) on the importance of these roles for research progress and best practice
+  * KW: VERY VERY cool - I'm super into this 💯
 * Book Dash discussion on advocacy - definitely something to develop for the future!
- 
-* Lots of small tasks, each of which keeps things ticking over. Trying to keep in mind I don't need to remember every one for them to be an achievement. 
+* Lots of small tasks, each of which keeps things ticking over.
+  Trying to keep in mind I don't need to remember every one for them to be an achievement.
+  * KW: Yeah - there's two attitudes here - either remember everything and be all "WHAAAAAT that's so much" or say "I do many thing and I am helping other to do their many things" and then rest 💖
 
 #### What bought you joy this week?
 
 * The Book Dash! 
-  *
+  * Meeeee toooooo!
 * Walking my Very Long Walk 🚶‍♀️
-
+  * And you raised £2015!!!! WOOOOOOO!!! AMAZING!!!
 * General summery-ness 🌞
-
 * PH bought me flowers! 💐
-
 * 500 Words of Summer has been good - I have been mainly just writing down alllll my thoughts on open source, activism, politics, and policy 😅
+  * KW: Beautiful 🌞
 
 #### What did you struggle with?
 
-* Several things taking much longer to process, still. Not massively clear how we resolve them either (may need guidance from others in the PM team) 
-
-* Wasn't on top of my brief in a meeting, need better organisation 
-
+* Several things taking much longer to process, still.
+  Not massively clear how we resolve them either (may need guidance from others in the PM team).
+  * KW: So wild.... but if we can help an open source infrastructure team improve their service then maybe we can count this as a LONG WON win?!
+* Wasn't on top of my brief in a meeting, need better organisation
+  * KW: Hugs - sounds legitimately hard!
 * PO system still embedding, throwing up a lot of weird things that need handling 
-
-* Need a clear answer on something which isn't forthcoming and it's causing some things to fall behind 
+* Need a clear answer on something which isn't forthcoming and it's causing some things to fall behind
+  * KW: SOLIDARITY AAAAAAAAAAAAAAAAAAAAAH
 
 #### What would you like to work on next week?
 
-* TPS Leadership work, would like to have it sorted to launch soon! 
-
+* TPS Leadership work, would like to have it sorted to launch soon!
+  * KW: Soooooon!
 * Budget as we discussed 
-
-* Also want to think about what documents we would like TPS to have e.g. programme health reports? roadmap? one pager? We don't necessarily need to have them *completed* but I think it would be good for us to discuss what documentation structure we need to have in place to then be populated. 
+  * KW: Thank you!
+* Also want to think about what documents we would like TPS to have e.g. programme health reports? roadmap? one pager? We don't necessarily need to have them *completed* but I think it would be good for us to discuss what documentation structure we need to have in place to then be populated.
+  * KW: Oooooh - this is my jam but also I haven't thought about it 😅
 
 #### Where do you need help from Kirstie?
 
-* What do you need from me ahead of your annual leave? 
-
-* May need some help getting things unstuck 
+* What do you need from me ahead of your annual leave?
+* May need some help getting things unstuck.
+  * KW: super helpful chat - I like all your ideas - fingers crossed 🤞
 
 #### Any other topics?
+
 * Going to be on annual leave visiting Belfast 23-25 June 
+  * KW: Exciting!
 
 ## Date: 13 May 2021 
 
