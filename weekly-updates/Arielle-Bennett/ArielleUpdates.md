@@ -2,12 +2,85 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [03 June 2021](#date-03-june-2021)
 * [13 May 20201](#date-13-may-2021)
 * [28 April 2021](#date-28-april-2021)
 * [14 April 2021](#date-14-april-2021)
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 03 June 2021 
+
+#### Who did you help this week?
+
+* Lots of Book Dash attendees helped to make and merge their first pull requests, first reviews and write lots of fun content! 
+ 
+* SG with workshop 
+  
+* Connected up training with efforts around the PDRA cohort 
+  
+* My mum who did the 42km overnight with me 🌻
+
+* Minor admin things around projects 
+
+* Set up 500 words of summer project (hope people find that useful?)
+
+
+#### Who helped you this week?
+
+* MS & HMc as always 😄
+
+* GS has been super with tricky queries 
+
+* SR coming to a TPS session and asking excellent questions 
+
+* LC has been showing up consistently for 500 words of summer, much appreciated! 
+
+#### What did you achieve?
+
+* Started chapter on research infrastructure roles, definitely a paper (position paper maybe) on the importance of these roles for research progress and best practice 
+
+* Book Dash discussion on advocacy - definitely something to develop for the future!
+ 
+* Lots of small tasks, each of which keeps things ticking over. Trying to keep in mind I don't need to remember every one for them to be an achievement. 
+
+#### What bought you joy this week?
+
+* The Book Dash! 
+  *
+* Walking my Very Long Walk 🚶‍♀️
+
+* General summery-ness 🌞
+
+* 500 Words of Summer has been good - I have been mainly just writing down alllll my thoughts on open source, activism, politics, and policy 😅
+
+#### What did you struggle with?
+
+* Several things taking much longer to process, still. Not massively clear how we resolve them either (may need guidance from others in the PM team) 
+
+* Wasn't on top of my brief in a meeting, need better organisation 
+
+* PO system still embedding, throwing up a lot of weird things that need handling 
+
+* Need a clear answer on something which isn't forthcoming and it's causing some things to fall behind 
+
+#### What would you like to work on next week?
+
+* TPS Leadership work, would like to have it sorted to launch soon! 
+
+* Budget as we discussed 
+
+* Also want to think about what documents we would like TPS to have e.g. programme health reports? roadmap? one pager? We don't necessarily need to have them *completed* but I think it would be good for us to discuss what documentation structure we need to have in place to then be populated. 
+
+#### Where do you need help from Kirstie?
+
+* What do you need from me ahead of your annual leave? 
+
+* May need some help getting things unstuck 
+
+#### Any other topics?
+* Going to be on annual leave visiting Belfast 23-25 June 
 
 ## Date: 13 May 2021 
 
