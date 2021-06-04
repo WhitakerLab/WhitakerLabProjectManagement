@@ -20,15 +20,22 @@
 ### What brought you joy this week?
 
 * Seeing my friend Sarah from Wales
+ * Lovely to see people again 🌻
 
 ### What did you achieve
 
 * Researchfish
 * Annual appraisals
+ * Good job on getting these done - ⭐
 
 ### What did you struggle with?
 
 * New role alignment 
+
+## Any other topics
+* PhD topics and juggling work/family life.
+* Managing time and prioritises.
+* Delegating work to others. 
 
 ## Date: 22nd March 2021
 
