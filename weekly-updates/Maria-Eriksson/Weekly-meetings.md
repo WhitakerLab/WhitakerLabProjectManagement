@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [1 June 2021](#date-1-june-2021)
 * [29 April 2021](#date-29-april-2021)
 * [15 April 2021](#date-15-april-2021)
 * [22 March 2021](#date-22-march-2021)
@@ -19,6 +20,63 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 1 June 2021
+
+#### Who did you help this week?
+
+* BSc student re neuropsychology project
+
+#### Who helped you this week?
+
+* EK and IS provided feedback on blog posts outline.
+ 
+#### What did you achieve?
+
+* Drafted blog posts
+* Outlined plan for remaining time of scholarship
+* Presented poster at International Epilepsy Colloquium
+  * KW: Wooo!
+* Was awarded a Junior Investigator Award
+  * KW: Congratulations!! 🎊🎊🎊
+* Meeting w LM and RP re collaborations
+* Prepared presentation for the clinical team at GOSH
+  * KW: Go feedback go ✔️
+* Checked data
+
+#### What did you struggle with?
+
+* Under the weather since getting back to London
+
+#### What would you like to work on next week?
+
+* Meet with LM & RP
+* Co-working sessions w EK to plan joint chapter and work on blog posts
+* Keep checking some data
+
+#### Where do you need help from Kirstie?
+
+* Re-focusing supervision/guidance going forward
+* Using some catch-ups for specific "Topics for discussion/reflection/mentoring"
+  * For example: Career planning, KW's vision on future of research, fellowship applications
+* Random question about regression: interaction between variables and choosing (or not choosing) a reference category
+  * KW: Great discussion about reference categories - tl;dr: it doesn't matter - have a play around with adding the values together to prove it to yourself!
+  * Answering a different question: poisson family for count analyses: https://tysonbarrett.com/Rstats/chapter-5-generalized-linear-models.html
+
+KW: We had a great big long chat.
+Plan for the summer is to start with:
+* Build a website with Hugo
+* Working openly with sensitive data - chapter in The Turing Way
+* Increasing your research impact - chapter in The Turing Way
+* Blog post for Turing
+* Blog post for ICH postdocs
+
+Stretch goals:
+* See if we can write an opinion article
+* Potentially look at publishing a BIDS related protocol on protocols.io
+
+Well DONE!
+(Always so much work to do 🌻)
 
 ### Date: 29 April 2021
 

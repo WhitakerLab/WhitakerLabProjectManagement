@@ -1,5 +1,6 @@
 # Mentoring Sessions with Isla
 
+* [28 May 2021](#date-28-may-2021)
 * [8 April 2021](#date-8-april-2021)
 * [23 March 2021](#date-23-march-2021)
 * [9 March 2021](#date-9-march-2021)
@@ -17,6 +18,11 @@
 **For how long?** 1 hour
 
 **Next meeting** 
+
+## Date: 28 May 2021
+
+* Chat about Turing Way chapter, 'Collaborating using sensititve data'. EK keen to collaborate on this.
+* Question about Jupyter notebook on GitHub repository - do demonstrate how it works, could I have it open a 'sample' (not real) patient document saved on the GitHub repository?
 
 ## Date: 8 April 2021
 
