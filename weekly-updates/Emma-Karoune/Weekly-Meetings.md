@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [9 June 2021](#date-9-june-2021)
 * [26 May 2021](#date-26-may-2021)
 * [12 May 2021](#date-12-may-2021)
 * [21 April 2021](#date-21-april-2021)
@@ -9,6 +10,43 @@
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Date: 9 June 2021
+
+#### Who did you help this week?
+
+* Lab - Goatherding
+* Engage students - meeting with SM about Gitlab.
+* ME and GA - mentoring.
+
+#### Who helped you this week?
+
+* Lab members co-working last week - focused my work.
+
+#### What did you achieve?
+
+* Community manager work - newsletter, meeting notes, engage@turing students.
+* Started work on data paper template and drawing info together.
+* Turing way chapter - finishing off social media section and formating in Github. Should be ready to merge by the end of this week.
+* Been listening to Open Repo Conf this week.
+
+#### What did you struggle with?
+* All ok.
+
+#### What would you like to work on next week?
+
+* Finish off data paper prep work
+* Arranging the data quality work with SG and engage@turing students. 
+* Working on academic writing TW chapter.
+
+#### Where do you need help from Kirstie?
+
+* Reading authorship chapter 😍
+
+#### Any other topics
+
+This space is yours to add to as needed.
 
 
 ### Date: 26 May 2021
