@@ -1,6 +1,8 @@
 Table of Contents
+* [7th June](#date-7th-June)
 * [18th May](#date-18th-may)
 * [4th May](#date-4th-may)
+
 
 ## Date 18th May 
 
@@ -80,4 +82,29 @@ LC helped me a lot to settle in and made me understand.
 * I am also interested in the research on ASD and hence I read up as many articles as possible in my free time. 
 * I wanted to improve myself in areas of Data Analysis as well. So trying to take up few kaggle projects. 
  LC sounds like a good plan 👍
+
+## Date 7th June
+
+
+#### Who did you help this week?
+I helped AR and LC this week
+
+#### Who helped you this week?
+Many people gave wonderful inputs to me. AR, LC, GA and KJ were really helpful by adding extra points to progrss through the project
+
+#### What did you achieve?
+* I have taken up the MIlestone 2 and going with the issue of creating MVP for the plaform.
+* I created pages according to the Figma framework with the help of HTML, CSS and Bootstrap.
+* Updating the documentation and required materials to the GitHub
+
+#### What did you struggle with?
+* Trying to understand the sign up/in flow and integration with the Open Humans account.
+
+#### Where do you need help from Kirstie?
+* None, as of now. 
+
+#### Any other topics
+* Just reading research papers and taking courses on HTML & CSS
+* Joined the discord group for Django girls community to ask more questions
+
 
