@@ -13,7 +13,8 @@
 * Reviewed some of GA's PRs for the project
 * Running through the user flow with developers so that they understand how a user would navigate through the MVP
 * Onboarding two potential contributors to the platform development work
-* AR and SR mentoring and helping with conversations with BG 
+  * KW: How exciting! 👋
+* AR and SR mentoring and helping with conversations with BGT
 
 #### Who helped you this week?
 
@@ -30,10 +31,11 @@
 
 #### What did you struggle with?
 
-I've struggled with trying to find a good agenda for the meet-up this week.
-I feel like things are quite platform development and project management focused at the moment so trying to find things that fit around that for people who don't have the technical expertise. 
-
-Also adding images to github pages?! I've tried to follow instruction I have found online and how GA has done it in other pages but it never renders correctly... 
+* I've struggled with trying to find a good agenda for the meet-up this week.
+  I feel like things are quite platform development and project management focused at the moment so trying to find things that fit around that for people who don't have the technical expertise. 
+* Also adding images to github pages?! I've tried to follow instruction I have found online and how GA has done it in other pages but it never renders correctly... 
+  * KW: Did it 🙌 - feels good to be able to fix something easily!
+  * https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/497
 
 #### What would you like to work on next week?
 
@@ -51,6 +53,8 @@ Also adding images to github pages?! I've tried to follow instruction I have fou
 I think AR and SR are much clearer on what needs to be done platform development wise. 
 The main concerns at the moment from their side is how Open Humans will fit into the platform from both a sign up/sign in flow but also how it accounts and stories link up in the database. 
 We had a catch up with BG where he explained the sign-up flow so once AR and SR start working on it, I think it will get clearer. 
+
+KW: Not many comments in this doc but a really great conversation - thank you!
 
 ### Date: 01 June 2021
 
