@@ -26,7 +26,7 @@
 
 #### What did you achieve?
 
-* Community manager work - newsletter, meeting notes, engage@turing students.
+* Community manager work - newsletter, meeting notes, helping engage@turing students.
 * Started work on data paper template and drawing info together.
 * Turing way chapter - finishing off social media section and formating in Github. Should be ready to merge by the end of this week.
 * Been listening to Open Repo Conf this week.
@@ -36,7 +36,7 @@
 
 #### What would you like to work on next week?
 
-* Finish off data paper prep work
+* Finish off data paper prep work.
 * Arranging the data quality work with SG and engage@turing students. 
 * Working on academic writing TW chapter.
 
