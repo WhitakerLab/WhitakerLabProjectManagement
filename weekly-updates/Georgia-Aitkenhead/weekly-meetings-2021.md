@@ -18,26 +18,31 @@ Georgia's weekly meeting notes.
 #### Who did you help this week?
 
 * Helped LC with resources and wireframing
+  * KW: Great stuff 🖼️
 
 #### Who helped you this week?
 
 * AA, LC and MA helped with reviewing
-* AVDW gave me helpful mentoring 
+  * KW: Oh that's very kind - thank you to them! 🙏
+* AVDW gave me helpful mentoring
 
 #### What did you achieve?
 
 * Began ethics application 
 * Completed appraisal draft in Cezanne  
+  * KW: And appraisal with me! 💛
 * Clarified user flow with LC and JK
 * Some more work on summaries 
 
 #### What did you struggle with?
 
-* Appraisal - it can be hard to assess yourself! 
+* Appraisal - it can be hard to assess yourself!
+  * KW: I think is _is_ hard - but you did great 🌠 thank you for putting so much thought into it.
 
 #### Where do you need help from Kirstie?
 
 * Summaries - next steps
+  * KW: Great discussion in the meeting
 * Reviewing researchfish
 
 #### What would you like to work on next week?
@@ -45,6 +50,7 @@ Georgia's weekly meeting notes.
 * Edits on researchfish - and submit!
 * Summaries
 * Ethics 
+* KW: Please also have a think about ordering of grant vs paper 😃
 
 ### Date: 26 May 2021
 
