@@ -21,7 +21,8 @@ Georgia's weekly meeting notes.
 
 #### Who helped you this week?
 
-* AA and MA helped with reviewing 
+* AA, LC and MA helped with reviewing
+* AVDW gave me helpful mentoring 
 
 #### What did you achieve?
 
@@ -36,13 +37,13 @@ Georgia's weekly meeting notes.
 
 #### Where do you need help from Kirstie?
 
-* Appraisal
+* Summaries - next steps
 * Reviewing researchfish
 
 #### What would you like to work on next week?
 
-* Edits on researchfish - and submit! 
-* Edits on appraisal - and submit!
+* Edits on researchfish - and submit!
+* Summaries
 * Ethics 
 
 ### Date: 26 May 2021
