@@ -2,7 +2,7 @@
 
 Georgia's weekly meeting notes.
 
-* [02 June 2021](#date-02-june-2021)
+* [09 June 2021](#date-09-june-2021)
 * [26 May 2021](#date-26-may-2021)
 * [11 May 2021](#date-11-may-2021)
 * [31 March 2021](#date-30-march-2021)
@@ -13,7 +13,7 @@ Georgia's weekly meeting notes.
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
 
-### Date: 02 June 2021
+### Date: 09 June 2021
 
 #### Who did you help this week?
 
