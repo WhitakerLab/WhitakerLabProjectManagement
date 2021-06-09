@@ -16,25 +16,37 @@
 
 #### Who did you help this week?
 
-* Folks who have attended the 500 words of summer sessions with focus!  
-* MS with Turing Way application 
+* Folks who have attended the 500 words of summer sessions with focus!
+  * KW: 🌞🌞🌞
+* MS with Turing Way application
+  * KW: Really so glad we got that in!! 🌠🌠🌠 
 * KW w/ collation of proposals & budget & JD discussions
-* Discussed a few extra projects/training sessions with GS 
+  * KW: Absolutely!
+* Discussed a few extra projects/training sessions with GS
 * AC with co-working ideas
+  * KW: THAT IS SO GREAT - loved the meeting yesterday 🌍🌍 🤖🤖
+  * Digital twins... geddit?? No? ok.
 
 #### Who helped you this week?
 
 * MS & HMc as always 😄
 * LCo sharing templates ✨
+  * KW: GREAT stuff - Turing Way 😉 Very helpful for TPS too.
+  * Slides from "project portfolio" at https://github.com/alan-turing-institute/tps-project-management/tree/master/slide-decks
 
 #### What did you achieve?
 
 * Lots of little things + some good "eating frogs" attitude 💪
+  * KW: 🐸🐸🐸🐸🐸🐸 😋
+    * (Actually, those emojis are a bit odd aren't they?!)
+    * Well done!
 
 #### What bought you joy this week?
 
-* Budget and JD work was fun! 
+* Budget and JD work was fun!
+  * KW: 💰💰💰 Thank you so much! I'm so grateful on both fronts 🙏
 * Already had a response to the call for newsletter items
+  * KW: YAY!
 * Really loved the insight into AutSPACES in the lab meeting 
 * General summery-ness 🌞
 * Last minute escape to Norwich 
@@ -42,19 +54,23 @@
 #### What did you struggle with?
 
 * Lost the 500 words of summer momentum 😩
- * Will try to get it back next week!  
+  * Will try to get it back next week!  
+  * KW: 🕵️‍♀️ You'll find it 😉
   
 #### What would you like to work on next week?
 
 * Reimbursements all submitted by end of this week 
 * Drafting newsletter process document alongside the newsletter itself 
+  * KW: Move Turing Way guidance out of community handbook to communication
+  * https://the-turing-way.netlify.app/community-handbook/newsletters/newsletters-process.html
 * Working on induction pack update for GS 
+  * KW: Turing Way onboarding chapter in collaboration 😀  
 * Finish CW21 blog post 
 
 #### Where do you need help from Kirstie?
 
 * One crucial bit of admin before annual leave
-* Plan for other costs + RAM underspend on programme 
+* Plan for other costs + RAM underspend on programme
 
 #### Any other topics?
 
