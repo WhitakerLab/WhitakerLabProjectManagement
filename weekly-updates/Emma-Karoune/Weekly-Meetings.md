@@ -17,7 +17,9 @@
 #### Who did you help this week?
 
 * Lab - Goatherding
+  * KW: 🐐🐐🐐
 * Engage students - meeting with SM about Gitlab.
+  * KW: Well done on bringing that conversation together!
 * ME and GA - mentoring.
 
 #### Who helped you this week?
@@ -27,11 +29,14 @@
 #### What did you achieve?
 
 * Community manager work - newsletter, meeting notes, helping engage@turing students.
+  * KW: Noted in the meeting - as you're ramping down please keep an eye on what "minimum valuable product" looks like for community managemetn in DECOVID.
 * Started work on data paper template and drawing info together.
-* Turing way chapter - finishing off social media section and formating in Github. Should be ready to merge by the end of this week.
+* Turing way chapter - finishing off social media section and formating in Github.
+  Should be ready to merge by the end of this week.
 * Been listening to Open Repo Conf this week.
 
 #### What did you struggle with?
+
 * All ok.
 
 #### What would you like to work on next week?
@@ -43,10 +48,7 @@
 #### Where do you need help from Kirstie?
 
 * Reading authorship chapter 😍
-
-#### Any other topics
-
-This space is yours to add to as needed.
+  * KW: A day in the park when I'm on holiday.
 
 
 ### Date: 26 May 2021
