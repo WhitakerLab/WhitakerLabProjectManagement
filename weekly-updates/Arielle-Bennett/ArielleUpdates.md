@@ -2,6 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [09 June 2021](#date-09-june-2021)
 * [03 June 2021](#date-03-june-2021)
 * [13 May 20201](#date-13-may-2021)
 * [28 April 2021](#date-28-april-2021)
@@ -9,6 +10,56 @@
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 09 June 2021 
+*Just a week between meetings as KW annual leave next week, next meeting 21 June 2021*
+
+#### Who did you help this week?
+
+* Folks who have attended the 500 words of summer sessions with focus!  
+* MS with Turing Way application 
+* KW w/ collation of proposals & budget & JD discussions
+* Discussed a few extra projects/training sessions with GS 
+* AC with co-working ideas
+
+#### Who helped you this week?
+
+* MS & HMc as always 😄
+* LCo sharing templates ✨
+
+#### What did you achieve?
+
+* Lots of little things + some good "eating frogs" attitude 💪
+
+#### What bought you joy this week?
+
+* Budget and JD work was fun! 
+* Already had a response to the call for newsletter items
+* Really loved the insight into AutSPACES in the lab meeting 
+* General summery-ness 🌞
+* Last minute escape to Norwich 
+
+#### What did you struggle with?
+
+* Lost the 500 words of summer momentum 😩
+ * Will try to get it back next week!  
+  
+#### What would you like to work on next week?
+
+* Reimbursements all submitted by end of this week 
+* Drafting newsletter process document alongside the newsletter itself 
+* Working on induction pack update for GS 
+* Finish CW21 blog post 
+
+#### Where do you need help from Kirstie?
+
+* One crucial bit of admin before annual leave
+* Plan for other costs + RAM underspend on programme 
+
+#### Any other topics?
+
+* Not this week 😄
+
 
 ## Date: 03 June 2021 
 
