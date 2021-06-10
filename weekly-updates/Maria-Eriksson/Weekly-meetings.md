@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [10 June 2021](#date-10-june-2021)
 * [1 June 2021](#date-1-june-2021)
 * [29 April 2021](#date-29-april-2021)
 * [15 April 2021](#date-15-april-2021)
@@ -21,6 +22,38 @@
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
 
+### Date: 10 June 2021
+
+#### Who did you help this week?
+
+* BSc student re neuropsychology project
+
+#### Who helped you this week?
+
+* EK mentoring.
+ 
+#### What did you achieve?
+
+* More writing on 'Increasing research impact'-blog post
+* Presentation to GOSH Neurosciences meeting
+* Meeting w MR (MELD) re collaborations
+* Checking data
+* Created website
+* Converting linear to poisson regression
+
+#### What did you struggle with?
+
+* All good
+
+#### What would you like to work on next week?
+
+* Poisson regression
+* Incorporating clinician feedback
+* Blog post
+
+#### Where do you need help from Kirstie?
+
+* Poisson regression
 ### Date: 1 June 2021
 
 #### Who did you help this week?

@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [8 June 2021](#date-8-june-2021)
 * [25 May 2021](#date-25-may-2021)
 * [27 April 2021](#date-27-april-2021)
 * [13 April 2021](#date-13-april-2021)
@@ -15,8 +16,20 @@
 
 **For how long?** 1 hour
 
-**Next meeting:** 27 April 2021
+## Date: 8 June 2021
 
+### What brought you joy this week?
+* ME - Feeling better after this long cold haha. And the lovely co-working sessions you arranged 💖
+ * Glad you are feeling better 😻 
+### What did you achieve
+* ME - Not much since I've been unwell. Worked through SG's website tutorial and now have a website fuuun 🎇 Have been adding bits to the "Increasing your research impact"-blog post. And re-labelling some clinical data. 
+ * Well done with the website - it looks great and glad you used Sarah tutorial and gave her useful feedback 🙌
+ * Let's do some co-working for blog writing this week.
+### What did you struggle with?
+* ME - Not much, just boring being under the weather boo 😆
+### Any other topics
+* ME - Nothing this time 
+ * Good luck with your presentation tomorrow and glad this will help you finish your article. Looking forward to seeing it submitted and published! Great work! 🎉
 
 ## Date: 25 May 2021
 
