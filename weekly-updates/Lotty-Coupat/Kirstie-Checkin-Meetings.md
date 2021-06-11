@@ -2,8 +2,59 @@
 
 *Meetings with Kirstie approximately every 2 weeks*
 
+* [09 June 2021](#date-09-june-2021)
 * [01 June 2021](#date-01-june-2021)
 * [28 April 2021](#date-28-april-2021)
+
+### Date: 09 June 2021
+
+#### Who did you help this week?
+
+* Reviewed some of GA's PRs for the project
+* Running through the user flow with developers so that they understand how a user would navigate through the MVP
+* Onboarding two potential contributors to the platform development work
+  * KW: How exciting! 👋
+* AR and SR mentoring and helping with conversations with BGT
+
+#### Who helped you this week?
+
+* GA and SR have been very helpful in discussing what needs to be done next and helping with idea generation on actions. 
+* AR has been great in explaining technical aspects and highlighting areas of work. 
+
+#### What did you achieve?
+
+* Set up a co-working session on platform development
+* Introduced two new people to project who are interested in Platform development: MB and IA - I ensured that they knew the stage we were in for the project. 
+* Roadmap into MD and google doc
+* Shared the user flow and roadmap to attendees of the Platform development co-working
+* Lots of re-jigging and updates to the github (quite a few PRs have been merged) 
+
+#### What did you struggle with?
+
+* I've struggled with trying to find a good agenda for the meet-up this week.
+  I feel like things are quite platform development and project management focused at the moment so trying to find things that fit around that for people who don't have the technical expertise. 
+* Also adding images to github pages?! I've tried to follow instruction I have found online and how GA has done it in other pages but it never renders correctly... 
+  * KW: Did it 🙌 - feels good to be able to fix something easily!
+  * https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/497
+
+#### What would you like to work on next week?
+
+* Setting up more co-working sessions
+* More Github refresh 
+* Planning out community engagement a bit more!! 
+* I need to start also my Development Trajectory Assessment work (Fast Stream stuff) 
+
+#### Where do you need help from Kirstie?
+
+* Nothing so far...
+
+#### Any other topics
+
+I think AR and SR are much clearer on what needs to be done platform development wise. 
+The main concerns at the moment from their side is how Open Humans will fit into the platform from both a sign up/sign in flow but also how it accounts and stories link up in the database. 
+We had a catch up with BG where he explained the sign-up flow so once AR and SR start working on it, I think it will get clearer. 
+
+KW: Not many comments in this doc but a really great conversation - thank you!
 
 ### Date: 01 June 2021
 
