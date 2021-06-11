@@ -35,10 +35,13 @@
 #### What did you achieve?
 
 * More writing on 'Increasing research impact'-blog post
+  * KW: Fun time!
 * Presentation to GOSH Neurosciences meeting
+  * KW: Glad you got lots of feedback! Well done 🌠
 * Meeting w MR (MELD) re collaborations
 * Checking data
 * Created website
+  * KW: LOVE IT!  
 * Converting linear to poisson regression
 
 #### What did you struggle with?
@@ -54,6 +57,8 @@
 #### Where do you need help from Kirstie?
 
 * Poisson regression
+  * KW: Fun poisson time 🐟
+
 ### Date: 1 June 2021
 
 #### Who did you help this week?
