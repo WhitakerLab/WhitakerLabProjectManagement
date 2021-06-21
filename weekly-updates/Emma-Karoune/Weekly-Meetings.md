@@ -15,38 +15,31 @@
 ### Date: 22n June 2021
 
 #### Who did you help this week?
-* 
-
+* MN - editing interview.
 
 #### Who helped you this week?
-
-* 
+* MS - restructuring TW chapter.
+* HM - during with project meeting. 
 
 #### What did you achieve?
 
 * Community manager tasks - checking on data availability, organising students with tasks/meeting with SG, chairing meeting, meeting notes.
 * Data paper draft - finished.
 * Authorship documents started for data paper and templates available for other papers when needed. 
-* Academic authorship case study with Living with Machines is written - met with FN and MC.
-* Communicating with wider audiences is merged! 🎉
-* 
+* Academic authorship case study with Living with Machines is written - met with FN and MC - https://hackmd.io/cKOP1WjVTb25GS0sgb_3EA
+* Communicating with wider audiences is finished and just being restructure by MS before merging! 🎉
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* All ok.
 
 #### What would you like to work on next week?
-
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+*  Data quality meeting with EP, SG and students.
+*  Writing a blog to advertise TW chapter with MN and MM.
+*  TW Academic paper writing chapter
 
 #### Where do you need help from Kirstie?
-
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Authorship chapter - documents for other papers to be check please.
 
 #### Any other topics
 
