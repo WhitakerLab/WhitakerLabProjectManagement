@@ -1,5 +1,8 @@
 # Malvika's weekly meeting notes.
 
+*[Template](#template-date-dd-month-yyyy)*
+
+* [21 June 2021](#date-25-may-2021)
 * [25 May 2021](#date-25-may-2021)
 * [10 May 2021](#date-10-may-2021)
 * [26 April 2021](#date-26-April-2021)
@@ -22,7 +25,72 @@
 * [29 February 2020](#date-29-February-2020)
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
-* [Template](#template-date-dd-month-yyyy)
+
+---
+
+### Template: Date: 21 June 2021
+
+#### Who did you help this week?
+
+- Setting up a Turing Way workshop, coordinating with SG, SB and VP
+- ABL newsletter review (very little as it was already fab :D)
+- MN in feedback on her training activities
+- KR in Gem application
+- Consulted AC on collaboration cafe and Jupyter Book
+- Fair-AI Ed project consulting with HA
+- FC and CRS in getting the translation chapter planned
+- EK in structuring communication chapter
+
+#### Who helped you this week?
+
+- Planning The Turing Way workshop: SG, SB and VP
+- ABL in getting the Book Das expense sorted
+- ABL in Gem applications
+- LC and LA and cohosting the RightsCon session
+- EK in coordinating work for the Guide for Communication
+- BA and MV in taking over talks related to The Turing Way (eLife and EMBL)
+- KW with annual appraisal
+
+#### What did you achieve?
+
+- Omic interest group presentation and collaboration with BM and AH
+- Gem applications with BM on Turing-Crick collab and The Turing Way
+- Turing Lunch and Learn session
+- Inclusive Data Science talk along with AMaz
+- SSI collab for Knowledge Bases and Toolkits -> possible paper with The Turing Way context
+- Nice 1:1 chats with MM and ABL, scheduled with CC and GA this week
+
+#### What did you struggle with?
+
+- Working on The Turing Way PRs (some folks have requested for reviews on structure, alllocating reviewers)
+
+#### What would you like to work on next week?
+
+- Meeting up with TY in planning the next steps for translation project
+- Quarterly report and other reports for The Turing Way
+- The Turing Way project scoping
+
+#### Where do you need help from Kirstie?
+
+- Status update on my contract
+- TPS roles and strategy for The Turing Way
+
+---
+
+### Template: Date: DD Month YYYY
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
+
 
 ### Date: 25 May 2021
 
@@ -63,22 +131,6 @@ KW: You did SUCH a great job - really really fantastic 📚📚📚💨💨💨
 - No specific ask immediately, but we should do a big The Turing Way planning for next stage
   - KW: Discussed potential future direction in person - next step think up a project plan / strategy / outputs / measures of success etc.
     - I'm keen too to see if we can map inclusion to "inner source" projects too - how do we interoperably interact with HR processes etc?  
-
----
-
-### Template: Date: DD Month YYYY
-
-#### Who did you help this week?
-
-#### Who helped you this week?
-
-#### What did you achieve?
-
-#### What did you struggle with?
-
-#### What would you like to work on next week?
-
-#### Where do you need help from Kirstie?
 
 ### Date: 10 May 2021
 
