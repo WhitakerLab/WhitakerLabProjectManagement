@@ -1,6 +1,37 @@
 Table of Contents
+* [21st June](#date-21st-June)
 * [18th May](#date-18th-may)
 * [4th May](#date-4th-may)
+
+## Date 21st June
+
+#### Who did you help this week?
+I helped AR, Mridu and Israel this week regarding the issues on platform development.
+
+#### Who helped you this week?
+AR, LC helped me on various issues on GitHub.
+
+#### What did you achieve?
+* I implemented Bootstrap into the pages to make it more responsive.
+* Tweaking with the backend now to  link the pages together.
+* Updated the resources documentation by adding more links, tutorials, etc.
+
+#### What did you struggle with?
+* I was struggling with inline styling of the Bootstrap , but with the help of few community developers I was able to resolve it.
+* Working for the poster presentation. 
+
+#### What would you like to work on next week?
+* Planning to finish the Milestone 2 with all the reviews.
+* Looking at the comments from the FIGMA wireframe to get more inputs.
+
+#### Where do you need help from Kirstie?
+* Nothing as of now.
+
+#### Any other topics
+* I was checking out the __Using Citizen to improve society and Empower Autistic People__.
+* Last week was busy with the defense on Research Project.
+* This week will be working for the poster presentation on AutSPACEs internship which is the final defense of my Master.   
+
 
 ## Date 18th May 
 
