@@ -1,5 +1,6 @@
 # Malvika's weekly meeting notes.
 
+* [25 May 2021](#date-25-may-2021)
 * [10 May 2021](#date-10-may-2021)
 * [26 April 2021](#date-26-April-2021)
 * [08 April 2021](#date-08-April-2021)
@@ -22,6 +23,62 @@
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 25 May 2021
+
+#### Who did you help this week?
+- AM in discussing her ongoing work and OLS graduation
+- Book Dash folks
+  - KW: SO MUCH!
+- CS&S event fund review and debrief
+  - KW: I'd love to build a more strategic connection w CS&S - I'm glad you are well connected there 🌠
+- The Carpentries CoC facilitator programme module
+  - KW: WELL DONE STICKING WITH THIS WORK
+
+#### Who helped you this week?
+- Planning committee - they did so much
+- Lab members and KW in discussing the idea of culture change
+- EP helped with GitHub workshop
+- EK with share out
+
+#### What did you achieve?
+- Collaborated with the Book Dash planning committee
+  - KW: Debrief planned ✔️
+- Book Dash - 5th edition is over
+- Collaborated on a few chapters and mentored folks
+
+KW: You did SUCH a great job - really really fantastic 📚📚📚💨💨💨
+
+#### What did you struggle with?
+- Nothing particular this week
+
+#### What would you like to work on next week?
+- Newsletter, rough draft of the report, illustration release, cumulating feedback and bio of the attendees
+- 1 week off!
+- Work on cleaning up Book Dash report, upload, resource update and reviews
+  - KW: Plan to include the planning committee ✔️
+
+#### Where do you need help from Kirstie?
+
+- No specific ask immediately, but we should do a big The Turing Way planning for next stage
+  - KW: Discussed potential future direction in person - next step think up a project plan / strategy / outputs / measures of success etc.
+    - I'm keen too to see if we can map inclusion to "inner source" projects too - how do we interoperably interact with HR processes etc?  
+
+---
+
+### Template: Date: DD Month YYYY
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
 
 ### Date: 10 May 2021
 
@@ -960,17 +1017,3 @@ KW: And opened The Turing Way [twitter account](https://twitter.com/turingway)!!
 - Book dash dinner.
   * KW: Good job on taking this task away from me!
 - General qs about the Turing.
-
-### Template: Date: DD Month YYYY
-
-#### Who did you help this week?
-
-#### Who helped you this week?
-
-#### What did you achieve?
-
-#### What did you struggle with?
-
-#### What would you like to work on next week?
-
-#### Where do you need help from Kirstie?
