@@ -1,12 +1,30 @@
 # Check in meetings with Kirstie
 
+* [Date: 22 June 2021](#date-26-may-2021)
 * [Date: 26 May 2021](#date-26-may-2021)
 * [Date: 5 May 2021](#date-5-may-2021)
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
 
-### Date: 26 May 2021
+### Date: 22 June 2021
+
+#### Who did you help over the past fortnight?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+ 
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
+
+* Let's work on RAM applications shortlisting today.
+
+  
+ ### Date: 26 May 2021
 
 #### Who did you help over the past fortnight?
 
