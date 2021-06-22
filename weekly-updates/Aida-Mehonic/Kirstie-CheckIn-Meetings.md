@@ -10,14 +10,22 @@
 ### Date: 22 June 2021
 
 #### Who did you help over the past fortnight?
+* HM - with the Journal Club
+* HD & EM - just a chat 
+* BW - hopefully with a pitch for a piece in Nature Comments 
+* IGK - mentoring chat  
 
 #### Who helped you this week?
+* KW - help with RAM CV shifting
 
 #### What did you achieve?
- 
+* Ran the first session of the ASG Journal Club - which I think went well
+
 #### What did you struggle with?
 
 #### What would you like to work on next week?
+* RAM interviews
+* Piece for Nature Comment on RAMs  
 
 #### Where do you need help from Kirstie?
 
