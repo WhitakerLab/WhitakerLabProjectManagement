@@ -1,5 +1,7 @@
 # Sarah's Fortnightly Mentoring Meetings
 
+- [2021-05-14](#date-2021-05-14)
+- [2021-05-05](#date-2021-05-06)
 - [2021-04-16](#date-2021-04-16)
 - [2021-04-07](#date-2021-04-07)
 - [2021-03-24](#date-2021-03-24)
@@ -8,54 +10,118 @@
 
 ---
 
+## Date: 2021-05-14
+
+### Who did you help this week?
+
+- Lab members learn about blogging with Hugo and GitHub Pages
+- Reviewed my OLS mentees' graduation slides
+- CH writing CZI EOSS proposal
+
+### Who helped you this week?
+
+- MD reviewed my OLS graduation slides
+
+### What did you achieve?
+
+- Gave a _really fast_ demo of setting up a blog using Hugo and GitHub Pages to the Lab
+- Synced up KW, MS and CM on Binder/Turing Way/TPS
+- Emptied and sorted my Turing locker
+- Copied OLS work under my account (not Turing's) for some future work
+
+### What did you struggle with?
+
+- Had a few headaches this week that made focusing difficult
+
+### What would you like to work on next week?
+
+- Handing over LwM
+- Prepare to graduate OLS
+- Wrap up CZI EOSS application with CH
+
+### Any other topics
+
+To discuss with AM:
+
+- [ ] Meeting in two weeks is my last at the Turing and will be taking two weeks break
+- [ ] When to restart meetings?
+- [ ] Platform? Stick with Zoom or change to Google Meet?
+
+## Date: 2021-05-06
+
+### Who did you help this week?
+
+- CM onboard as new Turing cluster admin
+
+### Who helped you this week?
+
+- I've been mostly head down getting through my to-do list!
+
+### What did you achieve?
+
+- Updated progress on some LwM tickets
+- Setup lots of intro meetings between KW/MS/CM and JupyterHub/Binder/CM
+- Did some self-analysis into time/productivity management using various Jupyter tools.
+  Whitaker Lab meeting on this TBC!
+- Began my Lab presentation on building blog sites with Hugo and GitHub Pages for next week
+
+### What did you struggle with?
+
+- Fully disconnecting from work (particularly Slack) last week while on leave.
+  This was probably due to the fact I was working on some non-work but still techy side-projects.
+
+### What would you like to work on next week?
+
+- Finish and deliver presentation on blogs with Hugo and GitHub Pages for Lab meeting next week
+
 ## Date: 2021-04-16
 
 ### Who did you help this week?
 
 - Helped LC set the order of her online CV
-  - AM: 🎉 
+  - AM: 🎉
 - Helping the authors of a paper I'm reviewing
   - AM: Sounds SUPER interesting! Would love to read this!! ✨
 
 ### Who helped you this week?
 
 - MS, YY and the OLS community answering questions I had distinguishing some open science concepts
-  - AM: The roadmap discussion is really interesting to contextualise. No one method is perfect!!  
+  - AM: The roadmap discussion is really interesting to contextualise. No one method is perfect!!
 - AB for running a co-working session that was relly productive
-  - AM: SUPER well done on writing a whole section! 🎉 
+  - AM: SUPER well done on writing a whole section! 🎉
 - CH with getting panels working on the Turing Way Jupyter Book
-  - AM: ✨   
+  - AM: ✨
 - IKG with the ethics approval process for the Open Source Service Area user research
 
 ### What did you achieve?
 
 - Got panels working in the Jupyter Book and started transferring the Zero-to-Binder tutorial across.
   This means I only have to maintain 1 file with 3 languages, instead of 3 files containing a language each.
-  - AM: :tada: 
+  - AM: :tada:
 - Caught up with OLS assignments
 - Read and made notes on a paper ready to write a peer review report
 - Chaired the JupyterHub/Binder team meeting, disseminated the notes and scheduled the next meeting
 - Wrote a blog post for the Whitaker Lab on the CollabW21 reflections meeting, and adapted the text for my own blog!
-  - This is AMAZING! Especially since very few folks actually did it. 
+  - This is AMAZING! Especially since very few folks actually did it.
 - Attended a mentorship training session ran by the Turing
 - Rounded off the "job ad" for the Turing Beinder Federation Cluster Admin role
-  - ✨ 
+  - ✨
 
 ### What did you struggle with?
 
 - Not much!
   The productivity management system I'm implementing seems to be really effective at nudging me to realise what I'm supposed to be working on, schedule the time, and plough through it.
-  - AM: 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉 SUPER WELL DONE!! 
+  - AM: 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉 SUPER WELL DONE!!
 
 ### What would you like to work on next week?
 
 - Need to do some work for LwM around a long-running task and trying to speed it up
-  - Good luck! 
-- Get the Turing Binder cluster back online 
+  - Good luck!
+- Get the Turing Binder cluster back online
 - Pitching the Turing Binder Federation cluster admin role to a couple of internal people I have in mind
 - Continue migrating the Zero-to-Binder workshop into the Turing Way book and write a chapter discussing why mybinder.org is a better communication tool than collaboration tool
  - AM: Sounds like that productivity management system is working wonders!! Well done Sarah! ✨✨✨✨
- 
+
 ### Where do you need help from Kirstie?
 
 - All good!
