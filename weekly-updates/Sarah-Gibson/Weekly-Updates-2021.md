@@ -1,5 +1,6 @@
 # Sarah's Fortnightly Mentoring Meetings
 
+- [2021-06-04](#date-2021-06-24)
 - [2021-05-14](#date-2021-05-14)
 - [2021-05-05](#date-2021-05-06)
 - [2021-04-16](#date-2021-04-16)
@@ -9,6 +10,34 @@
 - [Template](#template)
 
 ---
+
+## Date: 2021-06-24
+
+### Who did you help this week?
+
+- SB fix her git commits to register on GitHub from her preferred account
+- CM begin to spin up a small cluster at Turing to add to the mybinder staging federation
+
+### Who helped you this week?
+
+- Yuvi understand more about 2i2c / Pangeo helm charts and the challenges we face working with them
+- Min figure out a Kubernetes issue when upgrading Turing's mybinder deployment
+
+### What did you achieve?
+
+- I had a great kick off meeting with Pangeo / 2i2c and opened an issue to track the migration of the first Pangeo hub
+- I've made lots of little PRs to various 2i2c repos to suggest docs fixes, and performed code review too
+- I moved the Whitaker Lab website onto Netlify
+
+### What did you struggle with?
+
+- Still a bit timid to try out deployments in 2i2c as it's not clear how I can separate myself from the infrastructure in production and, therefore, have a safe space to make mistakes. Raised an issue with the team though, and they agree it's a good idea.
+- While there are two people in the team who are in similar time zones to me, they're a bit quieter on Slack. Therefore, most of the action happens in my evening and I can feel a bit at a loose end during the day. I'm sure this will change as the amount of work I have to focus on increases though.
+
+### What would you like to work on next week?
+
+- Waiting for Pangeo to provide access to their current cluster so I can check it out and make a migration plan
+- Continue deploying the staging cluster with CM
 
 ## Date: 2021-05-14
 
