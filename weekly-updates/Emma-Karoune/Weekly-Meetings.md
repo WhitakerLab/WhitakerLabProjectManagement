@@ -1,6 +1,6 @@
 # Emma's Weekly Meeting Notes
 
-* [22 June 2021](#date-22-june-2021)
+* [23 June 2021](#date-23-june-2021)
 * [9 June 2021](#date-9-june-2021)
 * [26 May 2021](#date-26-may-2021)
 * [12 May 2021](#date-12-may-2021)
@@ -12,10 +12,11 @@
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: 22n June 2021
+### Date: 23 June 2021
 
 #### Who did you help this week?
 * MN - editing interview.
+* Engage@turing students - arranging meetings, discussing work.
 
 #### Who helped you this week?
 * MS - restructuring TW chapter.
@@ -24,19 +25,19 @@
 #### What did you achieve?
 
 * Community manager tasks - checking on data availability, organising students with tasks/meeting with SG, chairing meeting, meeting notes.
-* Data paper draft - finished.
+* Data paper draft - add all links apart from new data extract documentation.
 * Authorship documents started for data paper and templates available for other papers when needed. 
 * Academic authorship case study with Living with Machines is written - met with FN and MC - https://hackmd.io/cKOP1WjVTb25GS0sgb_3EA
 * Communicating with wider audiences is finished and just being restructure by MS before merging! 🎉
 
 #### What did you struggle with?
 
-* All ok.
+* Interviewing and choosing a postdoc for my new project - 🤯
 
 #### What would you like to work on next week?
 *  Data quality meeting with EP, SG and students.
 *  Writing a blog to advertise TW chapter with MN and MM.
-*  TW Academic paper writing chapter
+*  TW Academic paper writing chapter.
 
 #### Where do you need help from Kirstie?
 * Authorship chapter - documents for other papers to be check please.
