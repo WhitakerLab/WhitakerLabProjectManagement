@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [28 June 2021](#date-28-june-2021)
 * [8 June 2021](#date-8-june-2021)
 * [25 May 2021](#date-25-may-2021)
 * [27 April 2021](#date-27-april-2021)
@@ -15,6 +16,17 @@
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
+
+## Date: 28 June 2021
+
+### What brought you joy this week?
+* ME - Heh it's only Monday monday, so not had much 'week' yet...! But have been loving going into ICH 2 days/week the past two weeks, and being able to co-work with someone in person :pray: De-bugging and talking things through in real-time with someone instead of an email is bliiiiiss.
+### What did you achieve
+* ME - Been adding baby bits to the blog posts and working on batch processing some scan data that I'll add to the model later on (takes ages to process these, so good to have them just running in the background). Aaaand manually retrieving data + checking existing data (story of my life).
+### What did you struggle with?
+* ME - All good!
+### Any other topics
+* ME - Just wondering if there are any snazzy ways of pre-recordning a talk 🤔
 
 ## Date: 8 June 2021
 
