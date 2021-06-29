@@ -2,9 +2,62 @@
 
 *Meetings with Kirstie approximately every 2 weeks*
 
+* [30 June 2021](#date-30-june-2021)
 * [09 June 2021](#date-09-june-2021)
 * [01 June 2021](#date-01-june-2021)
 * [28 April 2021](#date-28-april-2021)
+
+### Date 30 June 2021
+
+#### Who did you help this week?
+
+- Found areas for RT to get involed with on Platform Development 
+- Worked closely to find an area of contribution with DM 
+- Helping IA find issues to work on after completing his issue/page development
+- Co-working on moderation to continue work and provide clarity for both SF and JS 
+
+#### Who helped you this week?
+
+- MS - we had a catch up and went through some ideas for community building and my development, shared the idea of a promotion pack as well as looking for areas to share information about the project. 
+
+#### What did you achieve?
+
+- Set up structure/plan/templates for meet-ups
+- Added a few issues around community building - promotion pack
+- First draft for DTA written
+- Updated AutSPACEs Roadmap 
+- June Newsletter has gone out! 
+- My sub-chapter and case study for roadmapping has been published!! 
+- I was a goatherder for the first time! Enjoyed it but think there are a few things I still need to do!
+
+#### What did you struggle with?
+
+- Unsure if I struggled with anything this fortnight...? 
+- Unsure on how to do the blog for the goatherding...
+
+#### What would you like to work on next week?
+
+- Work on the promotion pack
+- Handover dsocuments for my two weeks off work
+- Nothing esle as I'll be on leave!! :D 
+- I will be logging on to help with AR's review (12-16 July deadline) 
+- Also logging on to edit some of my review documents
+
+#### Where do you need help from Kirstie?
+
+ - End Posting Review date to be picked (in September) 
+- I have a new Cabinet Office Manager (TDM) who will be running the mid posting chat (8 June) but needs to change the time
+- DTA interview questions - can be moved to when I am back if needed!
+- Review for Anoushka
+- Need to confirm meeting with Aryav
+
+#### Any other topics
+
+- Milestone 2 is almost complete - most pages have been completed just need reviewing from JK 🎉
+- AR is putting the pages all together to create the overall MVP
+- AR and SR have been great in helping me guide contributors on what they should do! 
+- SR is in her last two week son the project, so focusing on ensuring all the work she has done is documented and also looking into literature and research similar to the project. 
+
 
 ### Date: 09 June 2021
 
