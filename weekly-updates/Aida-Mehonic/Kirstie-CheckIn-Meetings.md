@@ -1,10 +1,32 @@
 # Check in meetings with Kirstie
 
+* [Date: 9 June 2021](#date-26-may-2021)
 * [Date: 26 May 2021](#date-26-may-2021)
 * [Date: 5 May 2021](#date-5-may-2021)
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+### Date: 09 June 2021
+
+I have mostly been on annual leave over the past fornight - except for 3 half-days this week and the OLS graduation day a couple of weeks ago.
+Most of that time has gone into the urgent tasks (appraisal, discussion about data trusts, time-sensitive emails) - so there isn't a huge amount to report.
+
+#### Who did you help over the past fortnight?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+* rest 😃
+ 
+#### What did you struggle with?
+ 
+#### What would you like to work on next week?
+* work on long term projects (RAM position paper and DAS)
+
+#### Where do you need help from Kirstie?
+* I think there is nothing urgent right now. 
+
 
 ### Date: 26 May 2021
 
