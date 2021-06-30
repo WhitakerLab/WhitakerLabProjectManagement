@@ -21,7 +21,9 @@
 
 #### What did you achieve?
 * We're about to interview the first cohort of RAMs tomorrow - almost there now ✨
+  * KW: FINGERS CROSSED for some great conversations! 🐏🐏🐏🐏
 * Ran the first session of the ASG Journal Club - I think it went well! 🚀
+  * KW: Really cool - thank you!
 
 #### What did you struggle with?
 * It's just too hot outside, so I find it easier to focus in the evenings than at midday when it's too hot.
@@ -36,9 +38,10 @@
 #### Where do you need help from Kirstie?
 
 * Let's finalise the interview questions today!
+  * KW: DONE!! YAAAY!
 * If time, let's chat about the Nature Comments pitch. 
-* Any suggestions on how to set up my laptop admin rights in an efficient manner. 
-
+* Any suggestions on how to set up my laptop admin rights in an efficient manner.
+  * KW: I thought your email was great - I agree wrt REG settings 💯
 
 ### Date: 22 June 2021
 
