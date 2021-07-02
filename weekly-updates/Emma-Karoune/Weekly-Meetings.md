@@ -15,38 +15,41 @@
 ### Date: 23 June 2021
 
 #### Who did you help this week?
-* MN - editing interview.
+* MN - editing interview
+  * KW: Amazing 🌠
 * Engage@turing students - arranging meetings, discussing work.
+  * KW: 🙏
 
 #### Who helped you this week?
-* MS - restructuring TW chapter.
-* HM - during with project meeting. 
+* MS - restructuring TW chapter
+  * KW: So fab!
+* HM - during the project meeting
+  * KW: As always 😉 ✨
 
 #### What did you achieve?
 
 * Community manager tasks - checking on data availability, organising students with tasks/meeting with SG, chairing meeting, meeting notes.
+  * KW: Really appreciate the update - thank you!
 * Data paper draft - add all links apart from new data extract documentation.
-* Authorship documents started for data paper and templates available for other papers when needed. 
+  * KW: Thank you for keeping an eye on this.
+* Authorship documents started for data paper and templates available for other papers when needed.
+  * KW: I LOVE THIS SO MUCH - thank you!
 * Academic authorship case study with Living with Machines is written - met with FN and MC - https://hackmd.io/cKOP1WjVTb25GS0sgb_3EA
 * Communicating with wider audiences is finished and just being restructure by MS before merging! 🎉
+  * KW: SO SO COOL! Thank you!
 
 #### What did you struggle with?
 
 * Interviewing and choosing a postdoc for my new project - 🤯
 
 #### What would you like to work on next week?
-*  Data quality meeting with EP, SG and students.
-*  Writing a blog to advertise TW chapter with MN and MM.
-*  TW Academic paper writing chapter.
+* Data quality meeting with EP, SG and students.
+* Writing a blog to advertise TW chapter with MN and MM.
+  * KW: SSI, and maybe Turing Institute blog?? Very cool either way!
+* TW Academic paper writing chapter.
 
 #### Where do you need help from Kirstie?
 * Authorship chapter - documents for other papers to be check please.
-
-#### Any other topics
-
-This space is yours to add to as needed.
-
-
 
 ### Date: 9 June 2021
 
