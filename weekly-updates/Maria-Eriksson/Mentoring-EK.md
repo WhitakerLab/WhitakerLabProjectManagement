@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [6 July 2021](#date-6-july-2021)
 * [28 June 2021](#date-28-june-2021)
 * [8 June 2021](#date-8-june-2021)
 * [25 May 2021](#date-25-may-2021)
@@ -16,6 +17,18 @@
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
+
+
+## Date: 6 July 2021
+
+### What brought you joy this week?
+* ME - Knowing that I'm going home to Finland soon :pray::sunny::sparkling_heart:
+### What did you achieve
+* ME - Blog writing, batch processing of scans, got some funding for a conference, meetings with clinicians re seizure classification
+### What did you struggle with?
+* ME - The bug returned in the scan batch processing :bug:
+### Any other topics
+* ME - Chats about DECOVID, blog posts, summer plans, R Markdown co-working...
 
 ## Date: 28 June 2021
 
