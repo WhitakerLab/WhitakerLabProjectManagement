@@ -2,16 +2,50 @@
 
 Georgia's weekly meeting notes.
 
+* [07 July 2021](#date-07-july-2021)
 * [09 June 2021](#date-09-june-2021)
 * [26 May 2021](#date-26-may-2021)
 * [11 May 2021](#date-11-may-2021)
-* [31 March 2021](#date-30-march-2021)
+* [31 March 2021](#date-31-march-2021)
 * [9 March 2021](#date-09-march-2021)
 * [25 February 2021](#date-25-february-2021)
 * [17 February 2021](#date-17-february-2021)
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 07 July 2021
+
+#### Who did you help this week?
+
+* Helped LC with civil service reports 
+
+#### Who helped you this week?
+
+* Lots of people helped me with career thinking! <3 KW, MS, EK, AvdW, LC
+
+#### What did you achieve?
+
+* Ethics application: T-Recs 2 draft 
+* Finished moderation reports summaries draft and created guidelines 
+* CC global summit application
+
+#### What did you struggle with?
+
+* Career thinking - working out the best next steps! It's exciting but also tricky!
+
+#### Where do you need help from Kirstie?
+
+* Reviewing ethics application
+* Reviewing moderation summaries
+* Prioritising next steps  
+
+#### What would you like to work on next week?
+
+* Position paper
+* Continued funding/grant work
+* More career steps
+* Autistica festival 
 
 ### Date: 09 June 2021
 
