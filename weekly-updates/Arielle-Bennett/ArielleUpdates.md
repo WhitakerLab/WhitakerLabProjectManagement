@@ -2,6 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [07 July 2021](#date-07-july-2021)
 * [29 June 2021](#date-29-june-2021)
 * [09 June 2021](#date-09-june-2021)
 * [03 June 2021](#date-03-june-2021)
@@ -11,6 +12,38 @@
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 07 July 2021
+*Just one week as updating before KW & AB meeting on 7 July 2021*
+
+#### Who did you help this week?
+* LCs friend with their survey 
+* Helped to organise the scoping for Turing Way projects 
+* Got to give good news on funding to a project 
+
+#### Who helped you this week?
+* TC with contract review! 
+* CL reviewing OARF proposal 
+* DG on reporting OABG - thought I was going to have to do it myself 
+* Lab members on feedback on open research blurb
+
+#### What did you achieve?
+* TPS leadership call can move into the next phase!
+* Reviewed a contract I've been dragging my heels on (thank you TC) 
+* Reports all requested 
+
+#### What bought you joy this week?
+* Documentation is awesome 
+* Talking future plans, ideas and strategies is a lot of fun 
+
+#### What did you struggle with?
+* I'm sleeping terribly at the moment so feeling quite sluggish. ☕
+* Not leaving emails to get stale 
+* Tried to write at the weekend and just couldn't 😞
+
+#### What would you like to work on next week?
+* Lining up stuff for the TPS leadership call so we can launch it!
+* Clearing up all the little bits and pieces before summer breaks really kick in 
 
 ## Date: 29 June 2021
 *KW annual leave extended - interim non-meeting notes otherwise AB will forget what she's done. Next meeting 7 July 2021*
