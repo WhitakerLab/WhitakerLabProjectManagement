@@ -1,5 +1,6 @@
 # Sarah's Fortnightly Mentoring Meetings
 
+- [2021-07-08](#date-2021-07-08)
 - [2021-06-04](#date-2021-06-24)
 - [2021-05-14](#date-2021-05-14)
 - [2021-05-05](#date-2021-05-06)
@@ -10,6 +11,30 @@
 - [Template](#template)
 
 ---
+
+## Date: 2021-07-08
+
+### Who did you help this week?
+
+- Someone in 2i2c community who had trouble building a Jupyter Book on GitHub Pages
+  - We didn't solve it, but in the process I got them setup on GitHub Actions
+
+### Who helped you this week?
+
+- Min with providing an initial review of my first GitHub Action
+
+### What did you achieve?
+
+- Got a (roughly) working prototype of my first GitHub Action to circumvent the problem of secrets not being available to Pull Requests originating from forks
+
+### What did you struggle with?
+
+- Git authentication within my GitHub Action
+- Identity conflict in gcloud when trying to use 2i2c infrastructure to deploy to a Pangeo/Columbia-owned project
+
+### What would you like to work on next week?
+
+- Continue plodding on with the Action and cluster deployment
 
 ## Date: 2021-06-24
 
