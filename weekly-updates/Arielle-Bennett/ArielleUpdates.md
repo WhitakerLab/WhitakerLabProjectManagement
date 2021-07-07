@@ -18,19 +18,25 @@
 
 #### Who did you help this week?
 * LCs friend with their survey 
-* Helped to organise the scoping for Turing Way projects 
-* Got to give good news on funding to a project 
+* Helped to organise the scoping for Turing Way projects
+  * KW: SO SO HELPFUL!
+* Got to give good news on funding to a project
+  * KW: Really realy great - fingers are firmly crossed for the next stage!
 
 #### Who helped you this week?
-* TC with contract review! 
-* CL reviewing OARF proposal 
+* TC with contract review!
+  * KW: So helpful!
+* CL reviewing ORAF proposal
+  * KW: This is a really exciting plan - great work.
 * DG on reporting OABG - thought I was going to have to do it myself 
+  * KW: What a success! Thank you DG!
 * Lab members on feedback on open research blurb
 
 #### What did you achieve?
 * TPS leadership call can move into the next phase!
 * Reviewed a contract I've been dragging my heels on (thank you TC) 
-* Reports all requested 
+* Reports all requested
+  * KW: YAAAAAAY! 📝
 
 #### What bought you joy this week?
 * Documentation is awesome 
@@ -43,7 +49,13 @@
 
 #### What would you like to work on next week?
 * Lining up stuff for the TPS leadership call so we can launch it!
-* Clearing up all the little bits and pieces before summer breaks really kick in 
+* Clearing up all the little bits and pieces before summer breaks really kick in
+  * KW: 🏖️🏖️🏖️
+
+KW: Noted in the meeting that you're really doing a fantastic job and it feels very different to the fire fighting of your first few months.
+WELL DONE.
+I take this as an indicator both of you settling into the role and learning how things work, **and** of you and me (and many others) benefitting from your careful preparation and oversight of TPS projects and processes.
+THANK YOU ✨
 
 ## Date: 29 June 2021
 *KW annual leave extended - interim non-meeting notes otherwise AB will forget what she's done. Next meeting 7 July 2021*
@@ -52,18 +64,24 @@
 * CL - untangled a complicated budget so we have a clear overview of the situation and a good path forward 
 * KR & AM - draft budget for proposals because it was straightforward (and quick for me to do!) 
 * SG - lots of discussion on draft budget for proposal 
-* PS - submitted a lot of suggestions for Slack use that might be useful... 
+* PS - submitted a lot of suggestions for Slack use that might be useful...
+  * KW: GREAT - thank you!
 * PH - general chatting in our 1:1 
 
 #### Who helped you this week?
-* AM who led a call on a complex piece of paperwork while I tried to listen in from the car 
+* AM who led a call on a complex piece of paperwork while I tried to listen in from the car
+  * KW: OH WOW - DG has been working on that for MONTHS 😭
+  * Thank you 🙏🙏🙏🙏🙏
 * MS for useful chats as always 
 
 #### What did you achieve?
 * Written a pretty monster document for onboarding! And drafted a brief chapter for Turing Way on it as well which will complement the other draft chapter on virtual onboarding 
   * Co-working next week will help bring the two chapters together, very exciting  
+  * KW: WOAAAAAAAH - SO COOL!!!! 😍😍😍😍😍😍😍😍
 * Sent newsletter and already had several pieces of engagement with the content! Will be adjusting workflow to send newsletters first thing Monday instead now 😄
-* Lined up 2 speakers for TPS Coffee chats - Digital Public Goods project and Caroline Jay (Mine the Gaps) 
+  * KW: So fantastic!
+* Lined up 2 speakers for TPS Coffee chats - Digital Public Goods project and Caroline Jay (Mine the Gaps)
+  * KW: Fantastic!
  
 #### What bought you joy this week?
 * REALLY enjoyed the documentation work and writing up a chapter alongside it 
