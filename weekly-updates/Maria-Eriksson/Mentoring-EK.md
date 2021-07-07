@@ -1,5 +1,7 @@
 # Mentoring Sessions with Emma
 
+* [6 July 2021](#date-6-july-2021)
+* [28 June 2021](#date-28-june-2021)
 * [8 June 2021](#date-8-june-2021)
 * [25 May 2021](#date-25-may-2021)
 * [27 April 2021](#date-27-april-2021)
@@ -15,6 +17,35 @@
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
+
+
+## Date: 6 July 2021
+
+### What brought you joy this week?
+* ME - Knowing that I'm going home to Finland soon :pray::sunny::sparkling_heart:
+ * Have a great time ✈️  
+### What did you achieve
+* ME - Blog writing, batch processing of scans, got some funding for a conference, meetings with clinicians re seizure classification
+  *  You are getting lots done and I am loving your blogs. 🌟
+### What did you struggle with?
+* ME - The bug returned in the scan batch processing :bug:
+ * Keep asking for help with this if you need it.  
+### Any other topics
+* ME - Chats about DECOVID, blog posts, summer plans, R Markdown co-working...
+
+## Date: 28 June 2021
+
+### What brought you joy this week?
+* ME - Heh it's only Monday monday, so not had much 'week' yet...! But have been loving going into ICH 2 days/week the past two weeks, and being able to co-work with someone in person :pray: De-bugging and talking things through in real-time with someone instead of an email is bliiiiiss.
+ * Sounds like a great idea to spend some time in your office. Make a nice change. 🌻 
+### What did you achieve
+* ME - Been adding baby bits to the blog posts and working on batch processing some scan data that I'll add to the model later on (takes ages to process these, so good to have them just running in the background). Aaaand manually retrieving data + checking existing data (story of my life).
+ * Keep plugging away at all of this. PhD's are about endurance! ⭐ 
+### What did you struggle with?
+* ME - All good!
+### Any other topics
+* ME - Just wondering if there are any snazzy ways of pre-recordning a talk 🤔
+ * OBS studio is the one I have used before and it is easy to set up and use. Zoom also can be used. Here is a blog about how to use [obs studio](https://software.ac.uk/fellowship-programme/2019/application-video-guide?_ga=2.89107163.1944356992.1625564687-834955090.1611515015). 
 
 ## Date: 8 June 2021
 
