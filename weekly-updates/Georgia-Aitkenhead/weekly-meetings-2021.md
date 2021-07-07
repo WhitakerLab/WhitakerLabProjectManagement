@@ -2,16 +2,67 @@
 
 Georgia's weekly meeting notes.
 
+* [07 July 2021](#date-07-july-2021)
 * [09 June 2021](#date-09-june-2021)
 * [26 May 2021](#date-26-may-2021)
 * [11 May 2021](#date-11-may-2021)
-* [31 March 2021](#date-30-march-2021)
+* [31 March 2021](#date-31-march-2021)
 * [9 March 2021](#date-09-march-2021)
 * [25 February 2021](#date-25-february-2021)
 * [17 February 2021](#date-17-february-2021)
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 07 July 2021
+
+#### Who did you help this week?
+
+* Helped LC with civil service reports
+  * KW: I'm so glad!
+    Super helpful!
+
+#### Who helped you this week?
+
+* Lots of people helped me with career thinking! <3 KW, MS, EK, AvdW, LC
+  * KW: Really fantastic to have these conversations going!
+
+#### What did you achieve?
+
+* Ethics application: T-RECs 2 draft 
+  * KW: This is looking so fantastic! Well done!!
+  * Can you have a look through and make it clear that we are _not_ yet asking for permission to collect the real data, but that we do need to get permission to collect some _totally publicly available_ example contributions - both for testing the user experience of the platform AND for creating some examples so that future contributors have guidance on what types of contributions fit our remit.
+  * Lets have you do a pass through and then share with folks in the lab: I'd be particularly keen to hear AM, MS & AB's perspectives but I think there are lots of folks who would enjoy reading more about your and IKG's work!
+* Finished moderation reports summaries draft and created guidelines
+  * KW: Oh dear! I forgot that you'd sent these! I'll put some time in to review!
+* CC global summit application
+  * KW: Exciting!
+  * Please can you add your submission to the AutisticaCitizenScience GitHub repository?
+
+#### What did you struggle with?
+
+* Career thinking - working out the best next steps! It's exciting but also tricky!
+
+#### Where do you need help from Kirstie?
+
+* Reviewing ethics application
+  * KW: Looks great - thank you - lets have the lab have a look and then I'll do a final pass.
+* Reviewing moderation summaries
+  * KW: YES - so sorry!
+* Prioritising next steps
+  * KW: We ran out of time in the meeting but I've added a few comments below.
+
+#### What would you like to work on next week?
+
+* Position paper
+  * KW: Lets keep this for a few weeks from now.
+* Continued funding/grant work
+  * KW: I think it makes sense to fold this into attending the Autistica festival - particularly from a perspective of seeing how our work is answering open questions that folks are identifying!
+* More career steps
+  * KW: I think you should fold this into attending the Autistica festival! Give yourself some time to think carefully about what others are doing... and maybe reach out to some of the early career speakers to ask about their experiences?
+* Autistica festival -- 12 to 16 July, next week
+  * Presentation on Tuesday 13 July
+* SR's last day -- 16 July
 
 ### Date: 09 June 2021
 
