@@ -64,6 +64,7 @@
 #### Who did you help this week?
 
 * BSc student re neuropsychology project
+* IKG mentoring sessions
 
 #### Who helped you this week?
 
@@ -97,6 +98,7 @@
 #### Who did you help this week?
 
 * BSc student re neuropsychology project
+* IKG mentoring sessions
 
 #### Who helped you this week?
 
