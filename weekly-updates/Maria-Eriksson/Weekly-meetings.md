@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [8 July 2021](#date-8-july-2021)
 * [10 June 2021](#date-10-june-2021)
 * [1 June 2021](#date-1-june-2021)
 * [29 April 2021](#date-29-april-2021)
@@ -22,6 +23,42 @@
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
 
+### Date: 8 July 2021
+
+#### Who did you help this week?
+
+* BSc student re neuropsychology project
+
+#### Who helped you this week?
+
+* EK mentoring: blog post feedback
+ 
+#### What did you achieve?
+
+* Batch-processed all scan data through BIDS
+* Organised scans into pre- and post-surgical scans (now following BIDS ’ses’ method - though still have the scan date in the name for now)
+* Written a few blog posts
+  * Working openly with sensitive data: (1) [keeping sensitive files safe using .gitignore](https://hackmd.io/byxo1WQhThu_ASe2lcExxw); (2) [safely sharing Jupiter notebooks using nbstripout](https://hackmd.io/tpveHyQZT8O_OlREGwc0Rg); (3) [what do you do if you inadvertently expose sensitive data on Github?](https://hackmd.io/U5MfHx5aSgGlHfQ4YCxbDw)
+  * Increasing your research impact: [creating an ORCID iD](https://hackmd.io/4VAXgulTRsK9M6SKdq34uQ) (but just realised that someone else has written about this in the Turing Way waaaah)
+* Continued retrieving additional clinical factors
+* Worked on Poisson regression, but am unsure about a few things…
+
+#### What did you struggle with?
+
+* All good
+
+#### What would you like to work on next week?
+
+* Clinical data retrieval
+* Work on ILAE presentation (due 23 July) - trying to finish data retrieval so I can add the 'MRI negative vs positive' over time analysis...
+* Poisson regression - need to get this right 😆
+* Tidying stuffs re the scan data (clean folders, finish protocol...)
+* Blog posts
+
+#### Where do you need help from Kirstie?
+
+* Poisson regression
+
 ### Date: 10 June 2021
 
 #### Who did you help this week?
@@ -30,7 +67,7 @@
 
 #### Who helped you this week?
 
-* EK mentoring.
+* EK mentoring
  
 #### What did you achieve?
 
@@ -54,6 +91,7 @@
 #### Where do you need help from Kirstie?
 
 * Poisson regression
+
 ### Date: 1 June 2021
 
 #### Who did you help this week?
