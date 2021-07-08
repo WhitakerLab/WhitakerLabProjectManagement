@@ -40,7 +40,7 @@
 * Written a few blog posts
   * Working openly with sensitive data: (1) [keeping sensitive files safe using .gitignore](https://hackmd.io/byxo1WQhThu_ASe2lcExxw); (2) [safely sharing Jupiter notebooks using nbstripout](https://hackmd.io/tpveHyQZT8O_OlREGwc0Rg); (3) [what do you do if you inadvertently expose sensitive data on Github?](https://hackmd.io/U5MfHx5aSgGlHfQ4YCxbDw)
   * Increasing your research impact: [creating an ORCID iD](https://hackmd.io/4VAXgulTRsK9M6SKdq34uQ) (but just realised that someone else has written about this in the Turing Way waaaah)
-* Continued retrieving additional clinical factors
+* Continue retrieving additional clinical factors
 * Worked on Poisson regression, but am unsure about a few things…
 
 #### What did you struggle with?
