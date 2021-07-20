@@ -2,7 +2,8 @@
 
 *[Template](#template-date-dd-month-yyyy)*
 
-* [21 June 2021](#date-25-may-2021)
+* [20 July 2021](#date-20-July-2021)
+* [21 June 2021](#date-21-June-2021)
 * [25 May 2021](#date-25-may-2021)
 * [10 May 2021](#date-10-may-2021)
 * [26 April 2021](#date-26-April-2021)
@@ -28,7 +29,64 @@
 
 ---
 
-### Template: Date: 21 June 2021
+### Date: 20 July 2021
+
+#### Who did you help this week?
+- AM in drafting a pitch (that did not fit but we will continue drafting that)
+- KE publishing research focus group
+- Meeting CC regarding community design, shared feedback and set a few next milestones with CC
+- Meeting with GA to discuss her research ideas, also cowrite recommendation for CC evaluation
+- TTW members (SG, SB, VP) who ran a TTW workshop
+- DSG members in curating chapters and feedback on DSG documents where TTW can be represented
+- SciPy session for biology and neuroscience, co-organised a round table
+- ASG EDI discussion
+- EK SSI meeting
+
+#### Who helped you this week?
+- ABL coordinated with EG, KW and me in finding common availability set up an Open Source Service area meeting 
+- REG team in settinb the onboarding meeting and contrubuting to the event
+- ABL in drafting funding applications
+- Gave a lunch and learn seminar
+- TPS/TTW scoping meetings with REG members
+- Book Dash Planning committee
+
+#### What did you achieve?
+- REG onboarding and connecting with members in REG for future work in Open Source Service area
+- Gave a few public seminars and received some really useful feedback and new members in TTW
+- Submitted 2 abstract in SeptembRSE
+- Submitted nomination for OpenUK
+- Governance planning with KW
+
+#### What did you struggle with?
+- Roche CM discussions
+- Turing/Crick coordination (not challenging but need several discussions still to bring everyone on the same page)
+
+#### What would you like to work on next week?
+- Next step in governance, getting a call out before August
+- Set the next Book Dash sorted
+- Some backlog in TTW
+
+#### Where do you need help from Kirstie?
+- Research Fellow discussion
+
+---
+
+### Template: Date: DD Month YYYY
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
+
+
+### Date: 21 June 2021
 
 #### Who did you help this week?
 
@@ -74,23 +132,6 @@
 
 - Status update on my contract
 - TPS roles and strategy for The Turing Way
-
----
-
-### Template: Date: DD Month YYYY
-
-#### Who did you help this week?
-
-#### Who helped you this week?
-
-#### What did you achieve?
-
-#### What did you struggle with?
-
-#### What would you like to work on next week?
-
-#### Where do you need help from Kirstie?
-
 
 ### Date: 25 May 2021
 
