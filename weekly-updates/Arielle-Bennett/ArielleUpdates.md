@@ -2,6 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [21 July 2021](#date-21-july-2021)
 * [07 July 2021](#date-07-july-2021)
 * [29 June 2021](#date-29-june-2021)
 * [09 June 2021](#date-09-june-2021)
@@ -12,6 +13,49 @@
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 21 July 2021
+
+#### Who did you help this week?
+*  Various: gave feedback on some of the £10.3m proposals - excited to see what the news is today!
+*  Also helped pulling together the documents for extension projects to go to REG
+*  Feedback on Slack user document to PS - really good to see that being pulled together 
+*  KLG quick chat through how the open access block grant works 
+
+#### Who helped you this week?
+* All the folks who turned up to the Collaboration Cafe to talk throguh onboarding, felt we had a really good discussion 
+* TC for contract reviews - I'm going to miss her!
+* GS - long chat about programme governance documents which I can now incorporate into programme planning alongside leadership chats 
+* KR for support in meetings and showing me Flexigrant
+
+#### What did you achieve?
+* CSCCE DEI programming call - we're at the stage where we need to bring in new volunteers to keep the next set of programming going and this was a productive call to agree next steps 
+* Sent off a contract or two that have been hanging around
+* Chased & processed a whole bunch of invoices which feels satisfying to tick them off on the tracker 😄
+* Got the TPS leadership call into Flexigrant!
+ 
+#### What bought you joy this week?
+* Liked the Lunch & Learn with Christine, felt I learnt a lot 
+* Making my own ice cream 
+* Collab Cafe 
+* Devouring a book!
+
+#### What did you struggle with?
+* It's so hot, I am genuinely struggling with focus - trying to be proactive about moving to cooler parts of the house/staying hydrated/using cooling towels 😓
+
+#### What would you like to work on next week?
+* Launching TPS Leadership call ✨
+* Planning governance document roll outs 
+* Contracts + admin to set up any successful projects/initiatives from 10.3 round 
+* Set up calls for EPSRC discussions so we can track proposals 
+* TPS seminar 
+
+#### Where do you need help from Kirstie?
+* Want to discuss application to Success on the Board 
+* Keep plugging at JDs! 
+
+#### Any other topics? 
+* Not for now 
 
 ## Date: 07 July 2021
 *Just one week as updating before KW & AB meeting on 7 July 2021*
