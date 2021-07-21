@@ -1,5 +1,6 @@
 # Sarah's Fortnightly Mentoring Meetings
 
+- [2021-07-22](#date-2021-07-22)
 - [2021-07-08](#date-2021-07-08)
 - [2021-06-04](#date-2021-06-24)
 - [2021-05-14](#date-2021-05-14)
@@ -11,6 +12,32 @@
 - [Template](#template)
 
 ---
+
+## Date: 2021-07-22
+
+### Who did you help this week?
+
+- Former Turing colleagues transferring ownership of Zotero account
+- A Turing researcher automatically deploy their Jupyter Book to GitHub Pages
+
+### Who helped you this week?
+
+- Yuvi with many, _many_ questions about Google/Terraform/Kubernetes/etc...
+
+### What did you achieve?
+
+- Deployed a JupyterHub for a geospatial workshop in Ghana next week! :tada:
+- Reviewed some submissions for the Hidden REF Practices panel
+
+### What did you struggle with?
+
+- A meeting with a university IT department was full of condescension and disrespect
+
+### What would you like to work on next week?
+
+- Hopefully the Ghana workshop will go well and I won't be needed much there
+- I would like to work more on unblocking the cluster deployment for Pangeo (it's not going to be as simple as we first hoped)
+- I am presenting Zero to Binder for Digital Humanities with former Turing folk next week
 
 ## Date: 2021-07-08
 
