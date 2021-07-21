@@ -38,13 +38,14 @@
 - Meeting with GA to discuss her research ideas, also cowrite recommendation for CC evaluation
 - TTW members (SG, SB, VP) who ran a TTW workshop
 - DSG members in curating chapters and feedback on DSG documents where TTW can be represented
+  - KW: This is really fantastic - I'm so delighted ✨
 - SciPy session for biology and neuroscience, co-organised a round table
 - ASG EDI discussion
 - EK SSI meeting
 
 #### Who helped you this week?
 - ABL coordinated with EG, KW and me in finding common availability set up an Open Source Service area meeting 
-- REG team in settinb the onboarding meeting and contrubuting to the event
+- REG team in setting the onboarding meeting and contrubuting to the event
 - ABL in drafting funding applications
 - Gave a lunch and learn seminar
 - TPS/TTW scoping meetings with REG members
@@ -61,13 +62,17 @@
 - Roche CM discussions
 - Turing/Crick coordination (not challenging but need several discussions still to bring everyone on the same page)
 
+KW: Really helpful discussion in the meeting with an acknowledgement that balancing uncertainty is the "struggle" rather than more specific challenges.
+
 #### What would you like to work on next week?
 - Next step in governance, getting a call out before August
+  - KW: Very exciting!
 - Set the next Book Dash sorted
 - Some backlog in TTW
 
 #### Where do you need help from Kirstie?
 - Research Fellow discussion
+  - KW: Thank you for bringing this up - I hope it was helpful
 
 ---
 
