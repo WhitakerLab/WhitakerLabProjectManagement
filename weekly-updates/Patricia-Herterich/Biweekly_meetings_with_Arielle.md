@@ -9,6 +9,8 @@
 * [10-05-2021](#Date-10-05-2021)
 * [01-06-2021](#Date-01-06-2021)
 * [14-06-2021](#Date-14-06-2021)
+* [28-06-2021](#Date-28-06-2021)
+* [13-07-2021](#Date-13-07-2021)
 
 ## Patricia Goals & Aims 
 *What skills, support, plans, objectives do you have for your work at the moment? How can these meetings support these?*
@@ -320,6 +322,88 @@ Finished NVC:
 Is there any particular reading/topic/task we want to explore and bring to our next meetings?
 
 Will discuss reading list properly next time
+
+## Date: 28-06-2021
+
+### Patricia's achievements
+Slow period with quite some time off
+* progress on project deliverables: one submitted for internal review, one with a deadline this week (I don't have writing sections assigned, just helping with review/editing), my section for the last report is drafted
+* delivered [webinar presentation](https://zenodo.org/record/4960239#.YNmH7uhKiUk) - last presentation for a while
+
+### Check-in ritual
+* Shout out to our collaborators on various DMPonline projects that are super patient with things moving slow which helps soo much with the work load :pray: 
+
+## Before this call
+**Is there any particular reading/task we said we will do before we meet?**
+
+No, we took a reading break
+
+## Agenda and Notes
+* Review your current projects, relation and skill-building that you are working on.
+
+	* Finally getting the chance to sit on an interview panel, so will spend some time reading up on local HR procedures and good practices
+		* looking forward to writing the onboarding the documentation
+		* PH to co-author/review Turing Way chapter that AB is putting together
+	* We're planning another virtual event and the organisation is as underresourced again. Will require some debriefing and checklists for the next events to ensure this doesn't happen again.
+
+* Since last time, review progress you’ve made towards your goals. Any challenges to mention?
+
+	* Annual review is coming up soon - not looking forward to it, I don't think I managed much of what I was supposed to do (and actually forgot what I was supposed to do)
+		* PH needs to find a way to track achievements that's not just this document
+		* PH to try and 360 degree feedback from team to prep
+
+* Review if we can attract any attention or help highlight your work.
+
+	* Promote our job post https://www.dcc.ac.uk/news/new-job-dmponline-team-dcc
+
+## After this call
+Is there any particular reading/topic/task we want to explore and bring to our next meetings?
+
+* Ask a manager selection of blog posts and podcast
+	* https://www.askamanager.org/2020/01/candidates-keep-cutting-me-off-in-job-interviews.html
+	* https://www.askamanager.org/2020/01/these-are-the-best-questions-to-ask-your-job-interviewer.html
+	* https://www.askamanager.org/2020/02/tell-me-about-a-time-questions-when-you-dont-have-good-examples.html
+
+## Date: 13-07-2021
+
+### Patricia's achievements
+* Somehow managed to survive our event, did some last minute facilitating of sessions - could have done better but wasn't as bad as it could have ended up with
+* Did basic prep for interviews and thinking about onboarding (thank you coworking call for helping with my checklist)
+* Started writing a guide on hybrid events after attending a workshop on it
+* Finishing up the last FAIRsFAIR project report that is due this summer (FAIR assessment of services)
+* Attended another team away day
+
+### Check-in ritual
+* Colleagues that supported throughout the event so we could somehow deliver an event
+* Scheduled a catch-up with an old colleague after ages, looking forward to some gossip 
+
+## Before this call
+**Is there any particular reading/task we said we will do before we meet?**
+
+* Yes, good pointers to help with the interviews 
+	* need to spend some time on answers for questions we might get - on low energy days I find it very hard to answer them spontaneously 
+
+* Interrupting seems more rude virtually, there are a lot of cues that get lost
+
+## Agenda and Notes
+* Review your current projects, relation and skill-building that you are working on.
+
+	* Have more invites for review committees and event committees: I enjoy doing this stuff, but need to properly think about how many of these jobs I can do without it being too much
+
+* Since last time, review progress you’ve made towards your goals. Any challenges to mention?
+
+	* Did not have enough time to do thinking and planning	
+
+* Review if we can attract any attention or help highlight your work.
+
+Nothing right now
+
+## After this call
+Is there any particular reading/topic/task we want to explore and bring to our next meetings?
+* Cal Newport's blogs on Rethinking Passion - Arielle to pick: https://www.calnewport.com/blog/category/features-rethinking-passion/
+
+
+
 
 ## Reading list suggestions
 
