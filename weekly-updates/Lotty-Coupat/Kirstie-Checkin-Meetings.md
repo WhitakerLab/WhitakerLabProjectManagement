@@ -2,9 +2,146 @@
 
 *Meetings with Kirstie approximately every 2 weeks*
 
+* [27 July 2021](#date-27-july-2021)
+* [30 June 2021](#date-30-june-2021)
 * [09 June 2021](#date-09-june-2021)
 * [01 June 2021](#date-01-june-2021)
 * [28 April 2021](#date-28-april-2021)
+
+### Date 27 July 2021
+
+#### Who did you help this week?
+
+- Getting MB and RT the correct access for Github.
+  - KW: Great stuff - note to "protect `main` branch" by requiring PR reviews.
+- JS and SF update moderation tasks and making them clearer.
+  - KW: Really good - that's super helpful 🌠
+- SM finding areas for contribution. 
+  - KW: So glad! Promotion packs, capturing research / related projects etc.
+
+#### Who helped you this week?
+
+- MS in the last collaboration cafe gave some great ideas on impact pages and culture.
+  - KW: ✨✨✨ Really glad that you've been engaging with MS and The Turing Way!
+
+#### What did you achieve?
+
+- Co-working session for moderation clarifying the tasks that need to be done and updating JS on what has been going on.
+  - KW: FAB!
+- Co-working session for Platform Development with BG - good conversation clarifying how the sign up process works with Open Humans.
+  - KW: AH SO GREAT! I'm so glad this was helpful!
+- Meet-up last week where we had a great discussion on moderation and platform development.
+- Newsletter draft for review and send out by the end of this week!
+  - KW: Really great to send to SF and SI for review - fantastic to bring in folks into these tasks!
+- Assessment prep...
+  - KW: GOOOOOOD LUCK! You'll be great!!
+
+#### What did you struggle with?
+
+- Reading through all the moderation summaries! But they were super interesting and give a really good understanding of the reasons for the project.
+  - KW: Delighted that you read these! Helpful in general for you to know all the background, but also really helpful for having additional 👀👀👀
+- Few blockers for the moderation tasks due to the need for the Ethics approval. This includes sending out the survey for decisions that need to be made to help inform code of conduct and other documents.
+  - KW: Lets do this as a focus group instead as we know we have approval for those.
+    - I also think we likely don't really _need_ the survey - I think we've actually got SO MUCH already that getting feedback on completed drafts is more useful than asking for more input at this point.
+    - Keep rocking on pulling all the work together and we can present the "first final" proposal to the community as a coherent plan.
+
+#### What would you like to work on next week?
+
+- Promotion pack for the project
+- Impact 1-pager
+- Continue mapping out moderation tasks to make what needs to be done clearer
+- Twitter thread associated with Newsletter
+- Contact similar projects - I've found one project with is very similar regarding sensory processes and Autism!
+  - KW: Downstream from the promotion pack? I feel like we need an _ask_ for what they can do for us when we get in touch.
+  - If the goal is to connect them better with Autistica then please do that _through_ Bethan at Autistica.
+
+#### Where do you need help from Kirstie?
+
+- AR only has a few weeks left, how do we want to go about thing's once she is gone... We have a chat with GA later on today :smile_cat:
+  - KW: 😬😬😬 Looking forward to our chat!
+
+#### Any other topics
+
+- AR is doing great!
+  She asked some really good questions in the meeting with Bastian to try and figure out exactly what is needed for the sign-in process and Open Humans integration. 
+  - KW: Thank you for feeding back - I'm so glad (we'll miss her!)
+
+### Date 30 June 2021
+
+#### Who did you help this week?
+
+- Found areas for RT to get involed with on Platform Development 
+  - KW: Fantastic - I'm really glad 🌠
+- Worked closely to find an area of contribution with DM
+  - KW: Very very cool - that's great to have him contributing into the "research" space 🌟
+- Helping IA find issues to work on after completing his issue/page development
+  - KW: How fantastic - really glad that he's part of the team!
+- Co-working on moderation to continue work and provide clarity for both SF and JS
+  - KW: Really great - very cool to iterate but we also need to be supporting folks getting a completed first draft, we will always be able to get more feedback...
+
+#### Who helped you this week?
+
+- MS - we had a catch up and went through some ideas for community building and my development, shared the idea of a promotion pack as well as looking for areas to share information about the project.
+  - KW: Wonderful 🌄
+
+#### What did you achieve?
+
+- Set up structure/plan/templates for meet-ups
+- Added a few issues around community building - promotion pack
+- First draft for DTA written
+  - KW: Well done! 💪
+- Updated AutSPACEs Roadmap
+  - https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/project-management/project-roadmap
+  - KW: How fantastic!
+    Well done! 
+- June Newsletter has gone out!
+  - KW: Fantastic 💌
+  - Can we have a little twitter thread associated with the newsletter?
+  - Can we also double check that our contributors (folks who come to meet ups etc) are ON the mailing list?
+    - They need to sign up.... and we need to be a bit better at not sending bespoke emails.
+- My sub-chapter and case study for roadmapping has been published!!
+  - KW: CONGRATULATIONS! FANTASTIC WORK! ✨✨✨ 🗺️🗺️🗺️
+  - https://the-turing-way.netlify.app/project-design/project-repo/project-repo-roadmapping.html
+- I was a goatherder for the first time! Enjoyed it but think there are a few things I still need to do!
+- Review for SR
+
+#### What did you struggle with?
+
+- Unsure if I struggled with anything this fortnight...? 
+- Unsure on how to do the blog for the goatherding...
+  - KW: Just write a summary of the hackmd / your links for the week and put it at the bottom of the hackmd for now.
+    - Aim for around 500 words total 😄
+    - Sorry for my lack of time and brain space to tidy up the actual website!
+
+#### What would you like to work on next week?
+
+- Work on the promotion pack
+- Handover documents for my two weeks off work
+  - KW: Thank you! I think you've left us fantastically well set up! 
+- Nothing else as I'll be on leave!! :D 
+- I will be logging on to help with AR's review (12-16 July deadline) 
+- Also logging on to edit some of my review documents
+
+#### Where do you need help from Kirstie?
+
+- End Posting Review date to be picked (in September)
+  - KW: Done ✔️
+- I have a new Cabinet Office Manager (TDM) who will be running the mid posting chat (8 June) but needs to change the time
+  - KW: Done ✔️
+- DTA interview questions - can be moved to when I am back if needed!
+  - KW: Lets keep for today - excited to hear more!
+- Review for Anoushka
+- Need to confirm meeting with Aryav
+
+#### Any other topics
+
+- Milestone 2 is almost complete - most pages have been completed just need reviewing from JK 🎉
+  - KW: SO exciting!
+- AR is putting the pages all together to create the overall MVP
+- AR and SR have been great in helping me guide contributors on what they should do! 
+  - KW: Great! Well done to all three of you!
+- SR is in her last two weeks on the project, so focusing on ensuring all the work she has done is documented and also looking into literature and research similar to the project.
+  - KW: OMG how time flies!
 
 ### Date: 09 June 2021
 
