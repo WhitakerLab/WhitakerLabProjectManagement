@@ -13,25 +13,37 @@
 #### Who did you help this week?
 
 - Getting MB and RT the correct access for Github.
+  - KW: Great stuff - note to "protect `main` branch" by requiring PR reviews.
 - JS and SF update moderation tasks and making them clearer.
-- SM finding areas for contribution.
+  - KW: Really good - that's super helpful 🌠
+- SM finding areas for contribution. 
+  - KW: So glad! Promotion packs, capturing research / related projects etc.
 
 #### Who helped you this week?
 
 - MS in the last collaboration cafe gave some great ideas on impact pages and culture.
+  - KW: ✨✨✨ Really glad that you've been engaging with MS and The Turing Way!
 
 #### What did you achieve?
 
 - Co-working session for moderation clarifying the tasks that need to be done and updating JS on what has been going on.
-- Co-working session for Platform Development  with BG - good conversation clarifying how the sign up process works with Open Humans.
+  - KW: FAB!
+- Co-working session for Platform Development with BG - good conversation clarifying how the sign up process works with Open Humans.
+  - KW: AH SO GREAT! I'm so glad this was helpful!
 - Meet-up last week where we had a great discussion on moderation and platform development.
-- Newsletter draft for review and send out by the end of this week! 
+- Newsletter draft for review and send out by the end of this week!
+  - KW: Really great to send to SF and SI for review - fantastic to bring in folks into these tasks!
 - Assessment prep...
+  - KW: GOOOOOOD LUCK! You'll be great!!
 
 #### What did you struggle with?
 
 - Reading through all the moderation summaries! But they were super interesting and give a really good understanding of the reasons for the project.
+  - KW: Delighted that you read these! Helpful in general for you to know all the background, but also really helpful for having additional 👀👀👀
 - Few blockers for the moderation tasks due to the need for the Ethics approval. This includes sending out the survey for decisions that need to be made to help inform code of conduct and other documents.
+  - KW: Lets do this as a focus group instead as we know we have approval for those.
+    - I also think we likely don't really _need_ the survey - I think we've actually got SO MUCH already that getting feedback on completed drafts is more useful than asking for more input at this point.
+    - Keep rocking on pulling all the work together and we can present the "first final" proposal to the community as a coherent plan.
 
 #### What would you like to work on next week?
 
@@ -39,15 +51,20 @@
 - Impact 1-pager
 - Continue mapping out moderation tasks to make what needs to be done clearer
 - Twitter thread associated with Newsletter
-- Contact similar porjects - I've found one project with is very similar regarding sensory processes and Autism! 
+- Contact similar projects - I've found one project with is very similar regarding sensory processes and Autism!
+  - KW: Downstream from the promotion pack? I feel like we need an _ask_ for what they can do for us when we get in touch.
+  - If the goal is to connect them better with Autistica then please do that _through_ Bethan at Autistica.
 
 #### Where do you need help from Kirstie?
 
-- AR only has a few weeks left, how do we want to go about thing's once she is gone... We have a chat with GA later on today :smile_cat: 
+- AR only has a few weeks left, how do we want to go about thing's once she is gone... We have a chat with GA later on today :smile_cat:
+  - KW: 😬😬😬 Looking forward to our chat!
 
 #### Any other topics
 
-- AR is doing great! She asked some really good questions in the meeting with Bastian to try and figure out exactly what is needed for the sign-in process and Open Humans integration. 
+- AR is doing great!
+  She asked some really good questions in the meeting with Bastian to try and figure out exactly what is needed for the sign-in process and Open Humans integration. 
+  - KW: Thank you for feeding back - I'm so glad (we'll miss her!)
 
 ### Date 30 June 2021
 
