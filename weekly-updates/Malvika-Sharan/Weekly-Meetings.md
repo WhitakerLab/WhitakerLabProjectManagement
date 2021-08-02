@@ -35,18 +35,27 @@
 #### Who did you help this week?
 - 1:1 with ABL, discussion and planning for August
 - PS on discussion regarding community development and roles
+  - KW: NICE!
 
 #### Who helped you this week?
 - AM and KW in preparing a short pitch for CM and RAM presentation 
+  - KW: WENT GREAT - well done!
 - ABL and KW and getting my contract sorted
+  - KW: HMcC more than me, and I'm sorry that the comms around that were so bad.
 
 #### What did you achieve?
 - TMT meeting with AM and KW
+  - KW: So delighted with this!!
 - 2 SeptembRSE proposals accepted
+  - KW: Fantastic - Turing Way talk and missing narratives in RSE (the "not" EDI proposal 😜)
 - Collaborated with RA, EP and EK in submitting two proposals in OSFair 2021
+  - KW: Awesome!
 - TPS report and TTW newsletter
+  - KW: AMAZING - I'm editing on Thursday
 - Revising TTW pages that were outdated, thanks to BA, DG and FAIR-cookbook team
-- Turing-Crick plannning with REG members, BM and KW  
+  - KW: Well done!
+  - For my reference: https://the-turing-way.netlify.app/afterword/contributors-record.html
+- Turing-Crick plannning with REG members, BM and KW
 - Hosted a BOSC session
 
 #### What did you struggle with?
@@ -55,6 +64,8 @@
 #### What would you like to work on next week?
 - TTW-CM JD and recruitment
 - Other CM recruitment related work
+  - KW: Roche - paper exercise, send questions in advance, agree on shortlist
+  - KW: ASG Community Manager
 - UKRI grant design and planning meeting with ABL and hopefully CH (Jupyter)
 
 #### Where do you need help from Kirstie?
