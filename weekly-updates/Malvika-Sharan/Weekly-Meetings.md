@@ -34,12 +34,11 @@
 
 #### Who did you help this week?
 - 1:1 with ABL, discussion and planning for August
-- ABL and KW and getting my contract sorted
 - PS on discussion regarding community development and roles
 
 #### Who helped you this week?
 - AM and KW in preparing a short pitch for CM and RAM presentation 
-- KW and ABL getting the contract sorted
+- ABL and KW and getting my contract sorted
 
 #### What did you achieve?
 - TMT meeting with AM and KW
