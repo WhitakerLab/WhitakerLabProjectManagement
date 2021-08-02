@@ -1,5 +1,9 @@
 # Malvika's weekly meeting notes.
 
+*[Template](#template-date-dd-month-yyyy)*
+
+* [20 July 2021](#date-20-July-2021)
+* [21 June 2021](#date-21-June-2021)
 * [25 May 2021](#date-25-may-2021)
 * [10 May 2021](#date-10-may-2021)
 * [26 April 2021](#date-26-April-2021)
@@ -22,7 +26,117 @@
 * [29 February 2020](#date-29-February-2020)
 * [15 February 2020](#date-15-february-2020)
 * [07 February 2020](#date-07-february-2020)
-* [Template](#template-date-dd-month-yyyy)
+
+---
+
+### Date: 20 July 2021
+
+#### Who did you help this week?
+- AM in drafting a pitch (that did not fit but we will continue drafting that)
+- KE publishing research focus group
+- Meeting CC regarding community design, shared feedback and set a few next milestones with CC
+- Meeting with GA to discuss her research ideas, also cowrite recommendation for CC evaluation
+- TTW members (SG, SB, VP) who ran a TTW workshop
+- DSG members in curating chapters and feedback on DSG documents where TTW can be represented
+  - KW: This is really fantastic - I'm so delighted ✨
+- SciPy session for biology and neuroscience, co-organised a round table
+- ASG EDI discussion
+- EK SSI meeting
+
+#### Who helped you this week?
+- ABL coordinated with EG, KW and me in finding common availability set up an Open Source Service area meeting 
+- REG team in setting the onboarding meeting and contrubuting to the event
+- ABL in drafting funding applications
+- Gave a lunch and learn seminar
+- TPS/TTW scoping meetings with REG members
+- Book Dash Planning committee
+
+#### What did you achieve?
+- REG onboarding and connecting with members in REG for future work in Open Source Service area
+- Gave a few public seminars and received some really useful feedback and new members in TTW
+- Submitted 2 abstract in SeptembRSE
+- Submitted nomination for OpenUK
+- Governance planning with KW
+
+#### What did you struggle with?
+- Roche CM discussions
+- Turing/Crick coordination (not challenging but need several discussions still to bring everyone on the same page)
+
+KW: Really helpful discussion in the meeting with an acknowledgement that balancing uncertainty is the "struggle" rather than more specific challenges.
+
+#### What would you like to work on next week?
+- Next step in governance, getting a call out before August
+  - KW: Very exciting!
+- Set the next Book Dash sorted
+- Some backlog in TTW
+
+#### Where do you need help from Kirstie?
+- Research Fellow discussion
+  - KW: Thank you for bringing this up - I hope it was helpful
+
+---
+
+### Template: Date: DD Month YYYY
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
+
+
+### Date: 21 June 2021
+
+#### Who did you help this week?
+
+- Setting up a Turing Way workshop, coordinating with SG, SB and VP
+- ABL newsletter review (very little as it was already fab :D)
+- MN in feedback on her training activities
+- KR in Gem application
+- Consulted AC on collaboration cafe and Jupyter Book
+- Fair-AI Ed project consulting with HA
+- FC and CRS in getting the translation chapter planned
+- EK in structuring communication chapter
+
+#### Who helped you this week?
+
+- Planning The Turing Way workshop: SG, SB and VP
+- ABL in getting the Book Das expense sorted
+- ABL in Gem applications
+- LC and LA and cohosting the RightsCon session
+- EK in coordinating work for the Guide for Communication
+- BA and MV in taking over talks related to The Turing Way (eLife and EMBL)
+- KW with annual appraisal
+
+#### What did you achieve?
+
+- Omic interest group presentation and collaboration with BM and AH
+- Gem applications with BM on Turing-Crick collab and The Turing Way
+- Turing Lunch and Learn session
+- Inclusive Data Science talk along with AMaz
+- SSI collab for Knowledge Bases and Toolkits -> possible paper with The Turing Way context
+- Nice 1:1 chats with MM and ABL, scheduled with CC and GA this week
+
+#### What did you struggle with?
+
+- Working on The Turing Way PRs (some folks have requested for reviews on structure, alllocating reviewers)
+
+#### What would you like to work on next week?
+
+- Meeting up with TY in planning the next steps for translation project
+- Quarterly report and other reports for The Turing Way
+- The Turing Way project scoping
+
+#### Where do you need help from Kirstie?
+
+- Status update on my contract
+- TPS roles and strategy for The Turing Way
 
 ### Date: 25 May 2021
 
@@ -63,22 +177,6 @@ KW: You did SUCH a great job - really really fantastic 📚📚📚💨💨💨
 - No specific ask immediately, but we should do a big The Turing Way planning for next stage
   - KW: Discussed potential future direction in person - next step think up a project plan / strategy / outputs / measures of success etc.
     - I'm keen too to see if we can map inclusion to "inner source" projects too - how do we interoperably interact with HR processes etc?  
-
----
-
-### Template: Date: DD Month YYYY
-
-#### Who did you help this week?
-
-#### Who helped you this week?
-
-#### What did you achieve?
-
-#### What did you struggle with?
-
-#### What would you like to work on next week?
-
-#### Where do you need help from Kirstie?
 
 ### Date: 10 May 2021
 
