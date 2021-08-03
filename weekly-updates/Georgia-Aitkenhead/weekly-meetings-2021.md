@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [03 August 2021](#date-03-august-2021)
 * [07 July 2021](#date-07-july-2021)
 * [09 June 2021](#date-09-june-2021)
 * [26 May 2021](#date-26-may-2021)
@@ -13,6 +14,40 @@ Georgia's weekly meeting notes.
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 03 August 2021
+
+#### Who did you help this week?
+
+* Helped LC and SR by reviewing PRs
+
+#### Who helped you this week?
+
+* JK and RT helped me understand moderation backend data-flow 
+* LC reviewed my PRs 
+
+#### What did you achieve?
+
+* Work on funding for project 
+* Global Summit application succesful!  
+* Finally merged some outstanding PRs
+* Plotting out moderation steps
+
+#### What did you struggle with?
+
+* Elements of strategy - Knowing which direction to take next/what's the most useful work to do
+
+#### Where do you need help from Kirstie?
+
+* Moderation summaries - best tactics 
+* Ethics docs review
+* Funding - clarifications  
+
+#### What would you like to work on next week?
+
+* Funding
+* Moderation steps (with JS and SF)
+* Citizen science chapter 
 
 ### Date: 07 July 2021
 
