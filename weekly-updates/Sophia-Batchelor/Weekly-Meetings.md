@@ -2,6 +2,64 @@
 
 *Sophia & Kirstie meet every 2 weeks on Tuesdays*
 
+### Date: 3 August 2021
+
+#### Who did you help this week?
+
+* I shared my 'ramping back to work' plan with the lab and have heard that it was cool and helpful 
+  * KW: YAY!
+* DL - a canandian vr colleague who needed some info/brain storming about their vr projects
+  * KW: Also fun!
+
+#### Who helped you this week?
+
+* I met in hyde park :deciduous_tree: with MS for a lovely chit chat 
+  * KW: :deciduous_tree: indeed!
+* Monday coffee chats were amaizng this week! General thanks to AB, MS, and SG for being peppy and laughing about things
+  * KW: FAB!
+* Last week AB & AM had an awesome lab meeting on negotiations which was just so awesome 
+  * KW: I'm so glad!
+* JY is awesome and helping make things run smoothly at Leeds
+  * KW: :raised_hands: Great stuff, so glad she's around!
+* NG, an old friend from NZ who I chatted with about the approaches of science 
+  * KW: Oh good stuff :sparkles: 
+
+#### What did you achieve?
+
+* Got hold of and read previous lab members' transfer reports which have massive massively helped frame what is expected from our lab specifically
+* This is the first week back at work and so far I'm above water 
+
+#### What did you struggle with?
+
+* Laptop broke :scream: (it's in for repairs so I'm using :couple:'s home computer for a few days) 
+* Things got super hectic end of last week and I got swept under the waves a bit 
+* General feeling of overwhelm due to the hecticness
+
+#### What would you like to work on in the next week?
+
+* I realized my 'who did I help' was quite low so I want t be more mindful about my impact and where I can be supportive 
+  * KW: It wasn't low! The goal is just recognising one person, even if that's something really small :hugging_face: 
+* Website (it's a few hours away from getting finished - with no automation yet), and then I'll update git 
+* Resume (backup plan)
+* Research themes with descriptions 
+* Current research description 
+* The key papers pulled out and in a slide deck 
+
+
+#### What brought you joy this week?
+
+* Monday coffee chats :rocket: 
+
+#### Where do you need help from Kirstie?
+
+* Unsure - I'm honestly just overwhelmed and am unsure where to ask for help. There aren't clear action items and I mostly just need gentleness as bumble my way along into the right direction
+
+#### Any other topics
+
+* Getting second vaxx on thursday :tada: # Sophia Bi-Weekly Updates
+
+*Sophia & Kirstie meet every 2 weeks on Tuesdays*
+
 ### Date: 22 June 2021
 
 #### Who did you help this week?
