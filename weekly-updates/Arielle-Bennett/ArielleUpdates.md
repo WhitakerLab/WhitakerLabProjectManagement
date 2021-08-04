@@ -2,6 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [04 August 2021](#date-04-august-2021)
 * [21 July 2021](#date-21-july-2021)
 * [07 July 2021](#date-07-july-2021)
 * [29 June 2021](#date-29-june-2021)
@@ -13,6 +14,49 @@
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 04 August 2021
+
+#### Who did you help this week?
+* PMU team - following discussions with a support person for a key system we use, we now have a lot more updated documentation accessible to us! 
+* Support for an extra week of goatherding 🙂
+* AP with contacts and a chat 
+* MS with Book Dash discussions
+
+#### Who helped you this week?
+* KW for leading the TPS seminar while I was in bed watching terrible films 
+* AM who contributed to the discussion on negotiation 
+* Someone providing extra, needed context for a conversation!
+
+#### What did you achieve?
+* TPS Leadership call launched! Fingers crossed for some good applications 🤞
+* Quarterly reports neeeearly in!
+* Success on the Board application submitted (not my strongest due to last minute-ness 😞)
+ 
+#### What bought you joy this week?
+* Feeling confident enough to put together a contract myself and send it for the partner to review (no special conditions + could find all the templates + was confident in budgets!) 
+* Adding work package deliverables to GitHub for AIM 😃 (just really satisfying to have them in there ready for use)
+* Non-work but I loved the Alice in Wonderland exhibition 
+
+#### What did you struggle with?
+* Last week was a short week and I was knocked out by vaccine 2nd jab - also a little annoyed that I didn't *think* about these two things and plan ahead to minimise the impact (like not signing up to be goatherd!) 
+* Want some more clarity on which projects need PM support from me and which do not from the 10.3 fund so we're not duplicating efforts
+
+#### What would you like to work on next week?
+* 10.3 project support 
+* EPSRC plans, keep them moving 
+* Clearing out old OA applications we've had to place on hold 
+* Reviewing my OLS-4 applications
+* Making time for onboarding chapter work and goatherding blog w/ MS (probably at Collab Cafe) 
+  
+#### Where do you need help from Kirstie?
+* JDs please!
+* TPS quarterly report - should be with you tomorrow
+* Turing Fellows - nudge 
+
+#### Any other topics? 
+* Might be useful to have a chat about what documentation would be useful for *you* and potentially other TPS leadership team members to have in place so I can factor that in to documentation plans 
+
 
 ## Date: 21 July 2021
 
