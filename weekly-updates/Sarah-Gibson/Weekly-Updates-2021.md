@@ -1,5 +1,6 @@
 # Sarah's Fortnightly Mentoring Meetings
 
+- [2021-08-05](#date-2021-08-05)
 - [2021-07-22](#date-2021-07-22)
 - [2021-07-08](#date-2021-07-08)
 - [2021-06-04](#date-2021-06-24)
@@ -13,37 +14,70 @@
 
 ---
 
+## Date: 2021-08-05
+
+### Who did you help this week?
+
+- Fede by running a mybinder tutorial as part of his Digital Humanities summer school
+
+### Who helped you this week?
+
+- 2i2c engineering team by thinking through team practices
+- Yuvi for reviewing my PRs
+
+### What did you achieve?
+
+- Reconfigured our terraform backend to dynamically select storage buckets.
+  Helps solve the "double login" problem.
+- Success fully deployed a private cluster to Pangeo/Columbia's Google Cloud project that conforms to all their controls
+- Gave a successful mybinder tutorial at Fede's Digital Humanities summer school
+
+### What did you struggle with?
+
+- "Double login" for Pangeo/Columbia continues to be an issue.
+  I now have to figure out secret encryption, the keys for which we store centrally in the same manner as the terraform state.
+  So frustrating that accommodating Columbia IT's needs has caused process changes at literally every level.
+- I was asked to give my Binder tutorial at the AGU Fall Meeting as part of a "Open Science in Action" session led by Fernando Perez (among others).
+  Not only do AGU require you to be a _paid_ member before you can submit an abstract, but there is also an abstract submission fee.
+  On top of that, the payment system isn't even working, so I'm completely blocked on submitting this abstract!
+  What I need to do is write up a Speaker Rider explicitly stating that I will likely not participate in PayToSpeak conferences (among other conditions) since they are massively exclusionary to folk who don't have the liquid cash to pay upfront - even if the tech works!
+
+### What would you like to work on next week?
+
+- Secret encryption for Pangeo deployment
+- Actually deploying a Pangeo hub!
+
 ## Date: 2021-07-22
 
 ### Who did you help this week?
 
 - Former Turing colleagues transferring ownership of Zotero account
 - A Turing researcher automatically deploy their Jupyter Book to GitHub Pages
-    - AM: That sounds very nice of you - thank you! 🙏    
+    - AM: That sounds very nice of you - thank you! 🙏
 
 ### Who helped you this week?
 
 - Yuvi with many, _many_ questions about Google/Terraform/Kubernetes/etc...
     - AM: One day I will know something about Terraform 😂
-    
+
 ### What did you achieve?
 
 - Deployed a JupyterHub for a geospatial workshop in Ghana next week! :tada:
    -  AM: Well done!!! 🎉
 - Reviewed some submissions for the Hidden REF Practices panel
-   - AM: great stuff!   
+   - AM: great stuff!
 
 ### What did you struggle with?
 
 - A meeting with a university IT department was full of condescension and disrespect
-    - 🤦‍♀️ And also well done on standing up to that behaviour!   
+    - 🤦‍♀️ And also well done on standing up to that behaviour!
 
 ### What would you like to work on next week?
 
 - Hopefully the Ghana workshop will go well and I won't be needed much there
 - I would like to work more on unblocking the cluster deployment for Pangeo (it's not going to be as simple as we first hoped)
 - I am presenting Zero to Binder for Digital Humanities with former Turing folk next week
-    - ✨ all sound fab!!  
+    - ✨ all sound fab!!
 
 ## Date: 2021-07-08
 
