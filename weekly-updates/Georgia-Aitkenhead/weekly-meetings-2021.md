@@ -2,7 +2,7 @@
 
 Georgia's weekly meeting notes.
 
-* [03 August 2021](#date-03-august-2021)
+* [04 August 2021](#date-04-august-2021)
 * [07 July 2021](#date-07-july-2021)
 * [09 June 2021](#date-09-june-2021)
 * [26 May 2021](#date-26-may-2021)
@@ -15,7 +15,7 @@ Georgia's weekly meeting notes.
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
 
-### Date: 03 August 2021
+### Date: 04 August 2021
 
 #### Who did you help this week?
 
@@ -30,6 +30,8 @@ Georgia's weekly meeting notes.
 
 * Work on funding for project 
 * Global Summit application succesful!  
+  * https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/535
+  * KW: VERY COOL!
 * Finally merged some outstanding PRs
 * Plotting out moderation steps
 
@@ -39,15 +41,25 @@ Georgia's weekly meeting notes.
 
 #### Where do you need help from Kirstie?
 
-* Moderation summaries - best tactics 
+* Moderation summaries - best tactics
+  * KW: Here's the work flow:
+    * 1. Move potentially harmful quotes to another document, saved and version controlled for research purposes but not for publication.
+      Update the summaries that have had quotes removed to include a paragraph noting the general themes of the quotes (so we still have the information, just not the direct quotes.)
+    * 2. Send the summaries out for self-review (to the groups that individuals were in).
+    * 3. Incorporate feedback.
+    * 4. Send the summaries out to everyone so they can see the quotes from the (to be) published dataset.
+    * 5. Incorporate feedback.
+    * 6. Publish on GitHub.
 * Ethics docs review
-* Funding - clarifications  
+* Funding - clarifications
 
 #### What would you like to work on next week?
 
 * Funding
 * Moderation steps (with JS and SF)
-* Citizen science chapter 
+* Citizen science chapter
+
+KW: Excited to work together next week!
 
 ### Date: 07 July 2021
 
