@@ -19,6 +19,7 @@
 ### Who did you help this week?
 
 - Fede by running a mybinder tutorial as part of his Digital Humanities summer school
+  - AM: Great stuff! 
 
 ### Who helped you this week?
 
@@ -31,6 +32,7 @@
   Helps solve the "double login" problem.
 - Success fully deployed a private cluster to Pangeo/Columbia's Google Cloud project that conforms to all their controls
 - Gave a successful mybinder tutorial at Fede's Digital Humanities summer school
+  - AM: Sounds like you had a very productive August so far - well done! 🎉    
 
 ### What did you struggle with?
 
@@ -46,6 +48,7 @@
 
 - Secret encryption for Pangeo deployment
 - Actually deploying a Pangeo hub!
+  - AM: I would love to chat next time about how this has panned out. Good luck! ✨ 
 
 ## Date: 2021-07-22
 
