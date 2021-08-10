@@ -2,11 +2,49 @@
 
 *Meetings with Kirstie approximately every 2 weeks*
 
+* [11 August 2021](#date-11-august-2021) 
 * [27 July 2021](#date-27-july-2021)
 * [30 June 2021](#date-30-june-2021)
 * [09 June 2021](#date-09-june-2021)
 * [01 June 2021](#date-01-june-2021)
 * [28 April 2021](#date-28-april-2021)
+
+### Date 11 August 2021
+
+#### Who did you help this week?
+
+- Found some helpful past GSoC final reports for AR and provided some ideas on the structure
+
+#### Who helped you this week?
+
+- AB, SB and MS gave me some really good tips in a coffee chat on how to measure success on community building and social media platforms
+- SM reviewed the promotion pack draft and provided some good feedback
+
+#### What did you achieve?
+
+- Newsletter twitter thread for SF's spotlight
+- Planning for gathering evidence for my objectives
+- Putting moderation tasks into their own roadmap 
+- Promotion pack and FAQs 
+- Good platform development co-working session where JK explained the process of scoping issues and projects to AR/RT/GA
+- Had my DTA! Find out my results on the 16th August, fingers crossed for a pass 🤞
+
+#### What did you struggle with?
+
+- Struggling to concentrate this week! 
+
+#### What would you like to work on next week?
+
+- Impact 1-pager for the project 
+- Updating the roadmap 
+- Github updating
+- Planning the talks for both Open Humans (7 Sept) and CC Summit (23 Sept)
+
+#### Where do you need help from Kirstie?
+
+- JK access to the link he sent: https://autistica-demo-deployment.herokuapp.com/
+- Is there anything that you think would be really good for me to do/get involved with in my last couple of months in this posting? 
+
 
 ### Date 27 July 2021
 
