@@ -14,37 +14,48 @@
 #### Who did you help this week?
 
 - Found some helpful past GSoC final reports for AR and provided some ideas on the structure
+  - KW: The combo looks great - well done!
 
 #### Who helped you this week?
 
 - AB, SB and MS gave me some really good tips in a coffee chat on how to measure success on community building and social media platforms
-- SM reviewed the promotion pack draft and provided some good feedback
+  - KW: Oh fab! Excited to hear more about that!
+- SM reviewed the promotion pack draft and provided some good feedback  
+  - KW: Also fab!
 
 #### What did you achieve?
 
 - Newsletter twitter thread for SF's spotlight
+  - KW: https://twitter.com/AutSpaces/status/1423588596657840128?s=20
 - Planning for gathering evidence for my objectives
 - Putting moderation tasks into their own roadmap 
+  - KW: Oh, very helpful!
 - Promotion pack and FAQs 
+  - KW: Very excited for this!
 - Good platform development co-working session where JK explained the process of scoping issues and projects to AR/RT/GA
+  - KW: Really great - glad that we're sharing that information a little more!
 - Had my DTA! Find out my results on the 16th August, fingers crossed for a pass 🤞
+  - KW: FINGERS CROSSED! I'm sure you did great ✨
 
 #### What did you struggle with?
 
-- Struggling to concentrate this week! 
+- Struggling to concentrate this week!
+  - KW: Be gentle with yourself. Shout to the lab if you need co-working motivation... but also its fine if you're a bit spacy sometimes 🌺
 
 #### What would you like to work on next week?
 
-- Impact 1-pager for the project 
+- Impact 1-pager for the project
+  - KW: Very cool, let me also link you up with JoS (Turing) - I'm keen for her to see what you're working on re: engagement! 
 - Updating the roadmap 
 - Github updating
 - Planning the talks for both Open Humans (7 Sept) and CC Summit (23 Sept)
+  - KW: Looking foward to brainstorming in the meet up
 
 #### Where do you need help from Kirstie?
 
 - JK access to the link he sent: https://autistica-demo-deployment.herokuapp.com/
 - Is there anything that you think would be really good for me to do/get involved with in my last couple of months in this posting? 
-
+  - KW: Presentation to lab on 9 September for promotion pack
 
 ### Date 27 July 2021
 
