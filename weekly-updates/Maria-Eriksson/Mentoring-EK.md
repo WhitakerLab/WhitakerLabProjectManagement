@@ -18,6 +18,16 @@
 
 **For how long?** 1 hour
 
+## Date: 11 August 2021
+
+### What brought you joy this week?
+* ME - Being off for 2 weeks brought me lots of joy :pray: Easing back into things at a nice pace...
+### What did you achieve
+* ME - Nothing because I've been off heh. But recorded my presentation for IEC before I went on leave :star: 
+### What did you struggle with?
+* ME - Nothing to report
+### Any other topics
+* ME - would nice nice to do some co-writing sessions for I get the blog posts into the Turing Way...
 
 ## Date: 6 July 2021
 
