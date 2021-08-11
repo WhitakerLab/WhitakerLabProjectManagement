@@ -23,12 +23,15 @@
 
 ### What brought you joy this week?
 * ME - Being off for 2 weeks brought me lots of joy :pray: Easing back into things at a nice pace...
+ * Glad you got to see your family and have some rest. It's important to have a healthy life/work balance. 😄  
 ### What did you achieve
-* ME - Nothing because I've been off heh. But recorded my presentation for IEC before I went on leave :star: 
+* ME - Nothing because I've been off heh. But recorded my presentation for IEC before I went on leave :star:
+ * Good job recording the presentation 🌟   
 ### What did you struggle with?
 * ME - Nothing to report
 ### Any other topics
 * ME - Would nice nice to do some co-writing sessions so that I get the blog posts into the Turing Way?
+ * Yep! Good idea - we have booked two sessions over the next few weeks to do this. 
 
 ## Date: 6 July 2021
 
