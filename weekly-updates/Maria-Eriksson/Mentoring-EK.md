@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [11 August 2021](#date-11-august-2021)
 * [6 July 2021](#date-6-july-2021)
 * [28 June 2021](#date-28-june-2021)
 * [8 June 2021](#date-8-june-2021)
@@ -27,7 +28,7 @@
 ### What did you struggle with?
 * ME - Nothing to report
 ### Any other topics
-* ME - would nice nice to do some co-writing sessions for I get the blog posts into the Turing Way...
+* ME - Would nice nice to do some co-writing sessions for I get the blog posts into the Turing Way...
 
 ## Date: 6 July 2021
 
