@@ -28,7 +28,7 @@
 ### What did you struggle with?
 * ME - Nothing to report
 ### Any other topics
-* ME - Would nice nice to do some co-writing sessions for I get the blog posts into the Turing Way...
+* ME - Would nice nice to do some co-writing sessions so that I get the blog posts into the Turing Way?
 
 ## Date: 6 July 2021
 
