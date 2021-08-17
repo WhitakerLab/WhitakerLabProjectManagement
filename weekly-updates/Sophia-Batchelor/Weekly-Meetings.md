@@ -6,6 +6,93 @@
 
 #### Who did you help this week?
 
+* ADHD Hive (the adhd support community I'm part of) launched! 
+ * I helped set up their TikTok page and recorded some poems for them 🎙️
+* SG borrowing suitcase for trip :suitcase:   
+* Had a good call with GA discussing AutSPACEs and helped support decision making
+ * Had a good brain storm/work session about the 'papers' and started pulling together pieces of the docs together 
+* 👫 has been quite ill so I did a big cook to support us both and have been taking care of them a bit 
+* connected a VR person to another VR person! 
+ 
+
+#### Who helped you this week?
+
+* had a good coffee chat with SG
+* 👫 supported me building the PC (gave me their old graphics card which was what actually made it possible!) 
+* Had a great chat with a friend from SF 
+* KW with a massive brain strom and problem soliving logistics session that put me on the right path 
+* the lab/EK checked in on me after a quiet time on slack and it was just the most lovely 'people care' moment that had me in tears out of gratitude 
+* AB is looking into sorting out the Slack lock out 
+
+
+#### What did you achieve?
+
+##### Based off last meeting's goals 
+* I was more mindful about the ways in which I can help support people (in all ways) 
+* Website (it's a few hours away from getting finished - with no automation yet), and then I'll update git
+  * ❗ hampered by computer breaking down (the issue hadn't been fixed) so I couldn't progress   
+* Resume
+  * As per our chelmsford chats, I went all in on the phd and withdrew resources from window shopping jobs 
+  * although I had already done up a snazzy resume so that's now there and has been updated for 2021 
+* Research themes with descriptions
+  * Have created doc for those and iterated on them so they're snazzy! (ie. v1 had the two themes - remote research and transfer of learning. v2 has 'everything is about learning' which creates a smoother narrative. what was written for remote research and citizen science can be used for grant apps and other work)   
+* Current research description
+  * This is in a MVP/bullet point state where there's an outline but it's not fleshed out  
+* ~~The~~ Some key papers pulled out and in a slide deck
+  * not in a slide deck, but in a doc! 
+
+
+##### General achievements 
+
+* 👩‍🎓 Transfer Report 
+  * Made epic level progress!! 
+  * Have reached word count! (yay!) so am less worried about that and now get to fill in the blanks and choose the best way to express things 
+  * (also am still worried about it but the chance of failure is now so much lower) 
+  * this week will be filling in the gaps (writing) and then the efforts will be about improvements as opposed to fixing leaks. 
+* 🖥️ Built a PC!! It's my first PC build!! AND I HAVE A WORKING COMPUTER AGAIN!! 
+* Done draft of bio for the whitaker website 
+  * next step is to add it to the doc 
+* Made it back to a morning coffee
+* Have been going on awesome walks more recently and finding the groove 
+* Am generally just reaping the rewards of the work put in to find the routine/balance and that's pretty cool 
+
+
+#### What did you struggle with?
+
+* Anything and everything computer related 
+* Had a very disheartening and unhelpful monday meeting about the project which I just struggled with in general as it made me loose steam
+* energy drain from life immoveables stunted progress 
+* Getting the courage to email PM about the TR 
+  * I completed an interim step as a consolidation prize and emailed the head of PGR studies to 1) ask advice on emailing PM, 2) outline the worries, 3) ask advice on the worries. 
+    * I haven't heard back yet. 
+
+#### What would you like to work on in the next week?
+
+* Packing up apt in Leeds (scheduled for tomorrow and thursday)
+* Transfer Report (14 days to hand in)  
+
+#### What brought you joy this week?
+
+* How pretty the PC is 
+* the fact that I actually built a PC! (It's way easier due to the popularity of the tech now but I was always too worried/lacking the knowledge to do it!)
+
+
+#### Where do you need help from Kirstie?
+
+* Advice on what to cut out/down for the Transfer Report 
+* 10-15 mins brainstorm time on maze vs. sandbox 
+
+
+#### Any other topics
+
+* I know that I should have emailed PM and started trying to get in touch with new supervisors...I'm just scared of rocking the boat and ending up in the water. 
+
+
+
+### Date: 3 August 2021
+
+#### Who did you help this week?
+
 * I shared my 'ramping back to work' plan with the lab and have heard that it was cool and helpful 
   * KW: YAY!
 * DL - a canandian vr colleague who needed some info/brain storming about their vr projects
