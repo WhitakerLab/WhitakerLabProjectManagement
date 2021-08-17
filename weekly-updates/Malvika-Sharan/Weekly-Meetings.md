@@ -2,6 +2,7 @@
 
 *[Template](#template-date-dd-month-yyyy)*
 
+* [02 August 2021](#date-02-August-2021)
 * [20 July 2021](#date-20-July-2021)
 * [21 June 2021](#date-21-June-2021)
 * [25 May 2021](#date-25-may-2021)
@@ -28,6 +29,63 @@
 * [07 February 2020](#date-07-february-2020)
 
 ---
+
+### Date: 02 August 2021
+
+#### Who did you help this week?
+- 1:1 with ABL, discussion and planning for August
+- PS on discussion regarding community development and roles
+  - KW: NICE!
+
+#### Who helped you this week?
+- AM and KW in preparing a short pitch for CM and RAM presentation 
+  - KW: WENT GREAT - well done!
+- ABL and KW and getting my contract sorted
+  - KW: HMcC more than me, and I'm sorry that the comms around that were so bad.
+
+#### What did you achieve?
+- TMT meeting with AM and KW
+  - KW: So delighted with this!!
+- 2 SeptembRSE proposals accepted
+  - KW: Fantastic - Turing Way talk and missing narratives in RSE (the "not" EDI proposal 😜)
+- Collaborated with RA, EP and EK in submitting two proposals in OSFair 2021
+  - KW: Awesome!
+- TPS report and TTW newsletter
+  - KW: AMAZING - I'm editing on Thursday
+- Revising TTW pages that were outdated, thanks to BA, DG and FAIR-cookbook team
+  - KW: Well done!
+  - For my reference: https://the-turing-way.netlify.app/afterword/contributors-record.html
+- Turing-Crick plannning with REG members, BM and KW
+- Hosted a BOSC session
+
+#### What did you struggle with?
+- Contract and lack of communication from admin side
+
+#### What would you like to work on next week?
+- TTW-CM JD and recruitment
+- Other CM recruitment related work
+  - KW: Roche - paper exercise, send questions in advance, agree on shortlist
+  - KW: ASG Community Manager
+- UKRI grant design and planning meeting with ABL and hopefully CH (Jupyter)
+
+#### Where do you need help from Kirstie?
+- Ongoing CM recruitment discussion
+
+---
+
+### Template: Date: DD Month YYYY
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
 
 ### Date: 20 July 2021
 
@@ -73,23 +131,6 @@ KW: Really helpful discussion in the meeting with an acknowledgement that balanc
 #### Where do you need help from Kirstie?
 - Research Fellow discussion
   - KW: Thank you for bringing this up - I hope it was helpful
-
----
-
-### Template: Date: DD Month YYYY
-
-#### Who did you help this week?
-
-#### Who helped you this week?
-
-#### What did you achieve?
-
-#### What did you struggle with?
-
-#### What would you like to work on next week?
-
-#### Where do you need help from Kirstie?
-
 
 ### Date: 21 June 2021
 
