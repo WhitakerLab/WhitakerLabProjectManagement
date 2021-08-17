@@ -23,13 +23,13 @@
 ## Date: 17 August 2021
 
 ### What brought you joy this week?
-* ME - Being at home in Finland and seeing friends 
+* ME - Being at home in Finland and seeing friends 💖
 ### What did you achieve
-* ME - Doing some data retrieval, feedback for BSc student, mentorship programme at ICE conference   
+* ME - I've been doing bitty things: some data retrieval, gave feedback on BSc project, was accepted for mentorship programme at ICE conference. 
 ### What did you struggle with?
 * ME - Nothing to report
 ### Any other topics
-* ME - Go over how to make update in Turing Way (picked up on spelling/link error) and how to add subchapter. 
+* ME - Go over how to make update in Turing Way (picked up on spelling/link error) and how to add subchapter. Thank you - this was so helpful! :pray: 😌
 
 ## Date: 11 August 2021
 
