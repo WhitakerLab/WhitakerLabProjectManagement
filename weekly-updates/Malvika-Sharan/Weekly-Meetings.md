@@ -2,6 +2,7 @@
 
 *[Template](#template-date-dd-month-yyyy)*
 
+* [17 August 2021](#date-17-August-2021)
 * [02 August 2021](#date-02-August-2021)
 * [20 July 2021](#date-20-July-2021)
 * [21 June 2021](#date-21-June-2021)
@@ -29,6 +30,56 @@
 * [07 February 2020](#date-07-february-2020)
 
 ---
+
+### Date: 17 August 2021
+
+#### Who did you help this week?
+- AG in having a chat about EDI and Ally Skills in the context of Turing Way, OLS
+- CM applicant shortlisting 
+
+#### Who helped you this week?
+- Book Dash committee to finalising all docs and getting the call out
+- AB in setting Scriberia chat
+
+#### What did you achieve?
+- Project scoping discussions with REG team
+  - UX/UI was smooth, Turing/Crick required a bit if thinking on risks and mitigation plans
+- OLS-4 applicants selected - 3 applications from Turing
+- Catch up calls with community lead/managers
+  - The Carpentries and eScience center this week, DataKind and CS&S is planned
+- GSoC career panel chat
+- The Turing Way SeptembRSE talk is accepted
+- EDI panel is currently being planned with RSE members
+
+#### What did you struggle with?
+- Quitting UKRI grant - not because of proposal but for the possible collaboration
+  - Thinking about how to keep them involved (UX/UI project maybe)   
+
+#### What would you like to work on next week?
+- Governance call for working group
+- TPS open science programme proposal with MF and AB
+
+#### Where do you need help from Kirstie?
+- Project Charter for Turing/Crick: https://github.com/alan-turing-institute/data-training-for-bioscience/pull/9
+- Reviewing and finishing diversifying leadership application (Monday is the deadline)
+- Governance call for working group discussion in the coming days
+
+---
+
+### Template: Date: DD Month YYYY
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
+
 
 ### Date: 02 August 2021
 
@@ -70,22 +121,6 @@
 
 #### Where do you need help from Kirstie?
 - Ongoing CM recruitment discussion
-
----
-
-### Template: Date: DD Month YYYY
-
-#### Who did you help this week?
-
-#### Who helped you this week?
-
-#### What did you achieve?
-
-#### What did you struggle with?
-
-#### What would you like to work on next week?
-
-#### Where do you need help from Kirstie?
 
 ### Date: 20 July 2021
 
