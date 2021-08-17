@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [18 August 2021](#date-18-august-2021)
 * [04 August 2021](#date-04-august-2021)
 * [07 July 2021](#date-07-july-2021)
 * [09 June 2021](#date-09-june-2021)
@@ -14,6 +15,39 @@ Georgia's weekly meeting notes.
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 18 August 2021
+
+#### Who did you help this week
+
+* Reviewed SeptembRSE call for PH
+
+#### Who helped you this week?
+
+* SB helped me with citizen science guide
+* SF and LC helped with moderation decisions  
+
+#### What did you achieve?
+
+* Audit for co-working session https://hackmd.io/P3HC1VD_R56Fz0npqCBZsA
+* Co-working with KW 🌷
+* Work on moderation summaries (https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/416)
+* Draft citizen science guide (https://hackmd.io/ZwYAS8gNRu6Z3lVf61EjsA)
+
+#### What did you struggle with?
+
+* The moderation is tricky - but also super interesting!
+
+#### Where do you need help from Kirstie?
+
+* OH community call ideas
+* Moderation summaries ready to send out?  
+
+#### What would you like to work on next week?
+
+* Send out summaries
+* Citizen science guide 
+* Position paper
 
 ### Date: 04 August 2021
 
