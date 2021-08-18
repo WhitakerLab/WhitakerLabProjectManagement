@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [18 August 2021](#date-18-august-2021)
 * [04 August 2021](#date-04-august-2021)
 * [07 July 2021](#date-07-july-2021)
 * [09 June 2021](#date-09-june-2021)
@@ -14,6 +15,53 @@ Georgia's weekly meeting notes.
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 18 August 2021
+
+#### Who did you help this week
+
+* Reviewed SeptembRSE call for PH
+  * KW: Fab!
+
+#### Who helped you this week?
+
+* SB helped me with citizen science guide
+  * KW: Excellent!
+* SF and LC helped with moderation decisions  
+  * KW: Really great
+
+#### What did you achieve?
+
+* Audit for co-working session
+  * KW: Very very helpful - thank you!
+* Co-working with KW 🌷
+  * KW: LOVELY day! Thank you!
+* Work on moderation summaries (https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/416)
+* Draft citizen science guide (https://hackmd.io/ZwYAS8gNRu6Z3lVf61EjsA)
+  * KW: Oh well done!
+
+#### What did you struggle with?
+
+* The moderation is tricky - but also super interesting!
+
+#### Where do you need help from Kirstie?
+
+* OH community call ideas
+  * KW: Lets have AR and SR to team up (assuming SR is finished travelling!) and give this presentation.
+  * 7 September - focus on what has been done so far AND - importantly - where we're struggling on the backend.
+  * Can I ask you to try to find a time that the presenters, JK, RT and I can meet on Thursday 2 Sept? The morning is currently very open so hopefully a good option there! 
+    * Ideally this is a Kirstie feedback session so hopefully AR / SR will have some slides ready to go.
+* Moderation summaries ready to send out?
+  * KW: Yes.
+
+#### What would you like to work on next week?
+
+* Send out summaries
+  * KW: This is looking really good - well done! Excited for them to go out!
+* Citizen science guide 
+  * KW: Looking excellent!
+* Position paper
+  * KW: Yeaaaaah - lets do dis!
 
 ### Date: 04 August 2021
 
