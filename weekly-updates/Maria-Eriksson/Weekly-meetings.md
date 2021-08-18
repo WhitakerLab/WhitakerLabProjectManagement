@@ -29,15 +29,21 @@
 #### Who did you help this week?
 
 * BSc student re neuropsychology project
+  * KW: How time passes!! Wild!
 
 #### Who helped you this week?
 
 * EK mentoring: how to make a correction in the Turing Way and how to add a new subchapter
+  * KW: WOOOOO! 🚀🌟
  
 #### What did you achieve?
 
 * Added [subchapter to Project Design in the Turing Way](https://github.com/alan-turing-institute/the-turing-way/pull/2076)
+  * KW: Fantastic - well done!
+    * I've shared with the DECOVID Engage at Turing students, lets see if they have time to give it a read.
+    * If you can also ping Ed in the issue that would be really helpful.
 * Accepted for mentorship programme at ICE conference
+  * KW: Great stuff - congratulations!
 * Continued retrieving additional clinical factors
 * Re-ran MSc paper analyses
 
@@ -51,10 +57,14 @@
 * 'MRI negative vs positive' over time analysis - have trialled the analyses (and figures), just need to add the remaining data
 * Add additional MRI focal lesion and non-focal lesion to MRI positive categorisation
 
+KW: Good discussion in our meeting - I like the idea of negative, focal and diffuse as categories, but I think some of the other MRI information is just going to make your models hard to interpret!!
+
 #### Where do you need help from Kirstie?
 
 * Figures for MRI status?
+  * KW: Looking good - fingers crossed for a yellow wedge 😉
 * Additional bits for Sensitive Data Projects?
+  * KW: Nothing from me - see what others say and then merge away!
 
 ### Date: 8 July 2021
 
