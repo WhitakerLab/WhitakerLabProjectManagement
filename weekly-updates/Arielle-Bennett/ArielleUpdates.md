@@ -19,45 +19,67 @@
 ## Date: 18 August 2021
 
 #### Who did you help this week?
-* PMU team - transferred an onboarding document into a OneNote document that's more accessible for everyone as a trial for a knowledgebase 
+* PMU team - transferred an onboarding document into a OneNote document that's more accessible for everyone as a trial for a knowledgebase
+ * KW: FUN! SO USEFUL!
 * Teams with contracts and 10.3 projects have had questions I've been able to help with 
+  * KW: Well done - thank you!
 * Relayed views to the hybrid working session 
+  * KW: I'm so grateful for you going to that.
 * CL with external open access discussion
+  * KW: I heard from her that you did really well! WELL DONE!
 * Discussions on grant calls 
+  * KW: Thank you for keeping us all in line 🙏
 
 #### Who helped you this week?
 * HM with extra queries and flexibility that projects need. 
 * TPS leadership panellists for signing up to be on the panel 
-* GS has been leading on 10.3 liaising and it's been really useful 
+* GS has been leading on 10.3 liaising and it's been really useful
+  * KW: Thank you to GS!
 
 #### What did you achieve? 
 * Open Access work UNBLOCKED! 🎉
+  * KW: 🚀🌟
 * Set up light touch TPS reporting in response to previous discussions: https://thealanturininstitute.sharepoint.com/:p:/s/rid/EY4azu4klFhJgf4_yi-ysZIBoaomFBNchrLbdYf8SQzJWw?e=RvDraC (view only) 
+  * KW: Loved this. Thank you to you and MS for getting me out of my "Kirstie's head" way of working 😭
 * Have also set up a governance documentation tracker to help me keep on top of implementing programme paperwork: https://thealanturininstitute.sharepoint.com/:x:/s/rid/EdkeYSLvePVGgvJDiwXQ5CwBAHVHB6bL8aZ8DWdwuFTUpQ?e=rkIRFx (view only)
- * No action required from KW on this, but once stuff is drafted will need sign off 
+  * No action required from KW on this, but once stuff is drafted will need sign off 
+  * KW: Thank you for talking me through this - bring on March 2022 when we have a completed sheet 💪
 * Quarterly reports all in! 
+  * KW: Well done on that - great job.
 
 #### What bought you joy this week?
-* Digital Public Goods Alliance coffee chat was a meeting of minds and it was AWESOME 
-* Have enjoyed putting together a lot of the documentation mentioned above + the project plan for the EPSRC call (even though we're not using it now) 
+* Digital Public Goods Alliance coffee chat was a meeting of minds and it was AWESOME
+  * KW: Yes - loved it!
+* Have enjoyed putting together a lot of the documentation mentioned above + the project plan for the EPSRC call (even though we're not using it now)
+  * KW: Oh no - I'm so sorry - please do share w the other two teams!!
 * Also enjoyed putting together the budgets for 10.3 projects (just being a documentation nerd atm!) 😌
+  * KW: Everyone's got to love something! 😜
+  * But also - YAY - thank you!
 
 #### What did you struggle with?
 * Focusing was a bit tough last week because of personal things (all resolved)
+  * KW: HUUUUUUUUUUUGS - well done putting on the show 🌻
 * Some uneasiness about big picture things 
+  * KW: Solidarity. Try not to take on responsibilities that you don't have control over 😕
 * Need to be mindful about how I'm scheduling my time if I go into the office - wasn't ideal to have so many meetings last Thursday  
 * I'm ready for a holiday
 
 #### What would you like to work on next week?
 * NOTHING: I'm on holiday 🏖️ 😄
+  * KW: The solution to the struggle!! YOU DESERVE IT 🌴
 
 #### Where do you need help from Kirstie?
-* Email to TPS PIs inviting them to book a slot at the Sept TPS seminar + suggestions for October seminar 
+* Email to TPS PIs inviting them to book a slot at the Sept TPS seminar + suggestions for October seminar
+  * KW: 🙈🙈🙈 Sorry! And RADDISH for October!
 * Newsletter week - will be scheduled for Monday so with you Friday to review before leave!
-* Discuss what I should go to Moushka for directly 
+  * KW: Ah - great - I'm in a lot of interviews on Friday... can I see it early? Maybe late on Thursday?
+  * NEED THE PARAGRAPH! I can write that earlier. Note to self: write a little about our hirings for community manager roles!
+* Discuss what I should go to MD for directly
+  * KW: Please cc her on any messages that have actions! She'll remind me to actually do them! 💖
 
 #### Any other topics? 
 * Need to put together a presentation on what is open research - links to other presentations on this would be great 
+ * KW: One of my favourites: https://doi.org/10.5281/zenodo.3243216
 
 ## Date: 04 August 2021
 
