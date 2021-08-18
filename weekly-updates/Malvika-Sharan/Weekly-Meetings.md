@@ -35,32 +35,49 @@
 
 #### Who did you help this week?
 - AG in having a chat about EDI and Ally Skills in the context of Turing Way, OLS
-- CM applicant shortlisting 
+  - KW: Ah - really great.
+- Kw et al - CM applicant shortlisting
+  - KW: Thank you! 🙏
 
 #### Who helped you this week?
 - Book Dash committee to finalising all docs and getting the call out
+  - KW: WILD THAT THAT IS SO SOON!
 - AB in setting Scriberia chat
+  - KW: Fab! 
 
 #### What did you achieve?
 - Project scoping discussions with REG team
   - UX/UI was smooth, Turing/Crick required a bit if thinking on risks and mitigation plans
+  - KW: Well done - I know these can be tricky sometimes - I think they're worth it to go through at the start
 - OLS-4 applicants selected - 3 applications from Turing
+  - KW: EXCITING!
 - Catch up calls with community lead/managers
   - The Carpentries and eScience center this week, DataKind and CS&S is planned
+  - KW: Oh FAB! This is wonderful - are we capturing this network of awesome people?
 - GSoC career panel chat
+  - KW: Very cool!
 - The Turing Way SeptembRSE talk is accepted
+  - KW: Delighted 🌺
 - EDI panel is currently being planned with RSE members
+  - KW: Well done - this is harder work than anyone really realises 💛
 
 #### What did you struggle with?
 - Quitting UKRI grant - not because of proposal but for the possible collaboration
-  - Thinking about how to keep them involved (UX/UI project maybe)   
+  - Thinking about how to keep them involved (UX/UI project maybe)
+  - KW: This is a RAM task - so AM may be able to take on some of these connections forwards too?
+    - There are other project related pieces too of course - maybe something to bring the community manager in on when they arrive?
 
 #### What would you like to work on next week?
 - Governance call for working group
 - TPS open science programme proposal with MF and AB
+  - KW: This sounds awesome - v strong support 🚀🌟
+    - Application for Tranche 2
+    - Worth creating a schedule showing how the guest lectures integrate across Turing / TPS
+    - Have a think about how this fits in with MN and MF's plans (scalability, bandwidth etc)
 
 #### Where do you need help from Kirstie?
 - Project Charter for Turing/Crick: https://github.com/alan-turing-institute/data-training-for-bioscience/pull/9
+  - KW: Looks great! Thank you for doing this work!
 - Reviewing and finishing diversifying leadership application (Monday is the deadline)
 - Governance call for working group discussion in the coming days
 
