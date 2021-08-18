@@ -1,5 +1,7 @@
 # Mentoring Sessions with Emma
 
+* [17 August 2021](#date-17-august-2021)
+* [11 August 2021](#date-11-august-2021)
 * [6 July 2021](#date-6-july-2021)
 * [28 June 2021](#date-28-june-2021)
 * [8 June 2021](#date-8-june-2021)
@@ -18,6 +20,30 @@
 
 **For how long?** 1 hour
 
+## Date: 17 August 2021
+
+### What brought you joy this week?
+* ME - Being at home in Finland and seeing friends 💖
+### What did you achieve
+* ME - I've been doing bitty things: some data retrieval, gave feedback on BSc project, was accepted for mentorship programme at ICE conference. 
+### What did you struggle with?
+* ME - Nothing to report
+### Any other topics
+* ME - Go over how to make update in Turing Way (picked up on spelling/link error) and how to add subchapter. Thank you - this was so helpful! :pray: 😌
+
+## Date: 11 August 2021
+
+### What brought you joy this week?
+* ME - Being off for 2 weeks brought me lots of joy :pray: Easing back into things at a nice pace...
+ * Glad you got to see your family and have some rest. It's important to have a healthy life/work balance. 😄  
+### What did you achieve
+* ME - Nothing because I've been off heh. But recorded my presentation for IEC before I went on leave :star:
+ * Good job recording the presentation 🌟   
+### What did you struggle with?
+* ME - Nothing to report
+### Any other topics
+* ME - Would be nice to do some co-writing sessions so that I get the blog posts into the Turing Way?
+ * Yep! Good idea - we have booked two sessions over the next few weeks to do this. 
 
 ## Date: 6 July 2021
 
