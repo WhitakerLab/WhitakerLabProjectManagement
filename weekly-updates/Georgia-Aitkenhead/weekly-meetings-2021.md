@@ -21,18 +21,24 @@ Georgia's weekly meeting notes.
 #### Who did you help this week
 
 * Reviewed SeptembRSE call for PH
+  * KW: Fab!
 
 #### Who helped you this week?
 
 * SB helped me with citizen science guide
+  * KW: Excellent!
 * SF and LC helped with moderation decisions  
+  * KW: Really great
 
 #### What did you achieve?
 
-* Audit for co-working session https://hackmd.io/P3HC1VD_R56Fz0npqCBZsA
+* Audit for co-working session
+  * KW: Very very helpful - thank you!
 * Co-working with KW 🌷
+  * KW: LOVELY day! Thank you!
 * Work on moderation summaries (https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/416)
 * Draft citizen science guide (https://hackmd.io/ZwYAS8gNRu6Z3lVf61EjsA)
+  * KW: Oh well done!
 
 #### What did you struggle with?
 
@@ -41,13 +47,21 @@ Georgia's weekly meeting notes.
 #### Where do you need help from Kirstie?
 
 * OH community call ideas
-* Moderation summaries ready to send out?  
+  * KW: Lets have AR and SR to team up (assuming SR is finished travelling!) and give this presentation.
+  * 7 September - focus on what has been done so far AND - importantly - where we're struggling on the backend.
+  * Can I ask you to try to find a time that the presenters, JK, RT and I can meet on Thursday 2 Sept? The morning is currently very open so hopefully a good option there! 
+    * Ideally this is a Kirstie feedback session so hopefully AR / SR will have some slides ready to go.
+* Moderation summaries ready to send out?
+  * KW: Yes.
 
 #### What would you like to work on next week?
 
 * Send out summaries
+  * KW: This is looking really good - well done! Excited for them to go out!
 * Citizen science guide 
+  * KW: Looking excellent!
 * Position paper
+  * KW: Yeaaaaah - lets do dis!
 
 ### Date: 04 August 2021
 
