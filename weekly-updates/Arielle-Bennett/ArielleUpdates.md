@@ -2,6 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [18 August 2021](#date-18-august-2021)
 * [04 August 2021](#date-04-august-2021)
 * [21 July 2021](#date-21-july-2021)
 * [07 July 2021](#date-07-july-2021)
@@ -14,6 +15,49 @@
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 18 August 2021
+
+#### Who did you help this week?
+* PMU team - transferred an onboarding document into a OneNote document that's more accessible for everyone as a trial for a knowledgebase 
+* Teams with contracts and 10.3 projects have had questions I've been able to help with 
+* Relayed views to the hybrid working session 
+* CL with external open access discussion
+* Discussions on grant calls 
+
+#### Who helped you this week?
+* HM with extra queries and flexibility that projects need. 
+* TPS leadership panellists for signing up to be on the panel 
+* GS has been leading on 10.3 liaising and it's been really useful 
+
+#### What did you achieve? 
+* Open Access work UNBLOCKED! 🎉
+* Set up light touch TPS reporting in response to previous discussions: https://thealanturininstitute.sharepoint.com/:p:/s/rid/EY4azu4klFhJgf4_yi-ysZIBoaomFBNchrLbdYf8SQzJWw?e=RvDraC (view only) 
+* Have also set up a governance documentation tracker to help me keep on top of implementing programme paperwork: https://thealanturininstitute.sharepoint.com/:x:/s/rid/EdkeYSLvePVGgvJDiwXQ5CwBAHVHB6bL8aZ8DWdwuFTUpQ?e=rkIRFx (view only)
+ * No action required from KW on this, but once stuff is drafted will need sign off 
+* Quarterly reports all in! 
+
+#### What bought you joy this week?
+* Digital Public Goods Alliance coffee chat was a meeting of minds and it was AWESOME 
+* Have enjoyed putting together a lot of the documentation mentioned above + the project plan for the EPSRC call (even though we're not using it now) 
+* Also enjoyed putting together the budgets for 10.3 projects (just being a documentation nerd atm!) 😌
+
+#### What did you struggle with?
+* Focusing was a bit tough last week because of personal things (all resolved)
+* Some uneasiness about big picture things 
+* Need to be mindful about how I'm scheduling my time if I go into the office - wasn't ideal to have so many meetings last Thursday  
+* I'm ready for a holiday
+
+#### What would you like to work on next week?
+* NOTHING: I'm on holiday 🏖️ 😄
+
+#### Where do you need help from Kirstie?
+* Email to TPS PIs inviting them to book a slot at the Sept TPS seminar + suggestions for October seminar 
+* Newsletter week - will be scheduled for Monday so with you Friday to review before leave!
+* Discuss what I should go to Moushka for directly 
+
+#### Any other topics? 
+* Need to put together a presentation on what is open research - links to other presentations on this would be great 
 
 ## Date: 04 August 2021
 
