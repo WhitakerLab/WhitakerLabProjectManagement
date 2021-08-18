@@ -1,12 +1,13 @@
 # Weekly Meetings
 
-* [11 May 2021](#date-11-May-2021)
-* [27 April 2021](#date-27-April-2021)
-* [13 April 2021](#date-13-April-2021)
-* [30 March 2021](#date-30-March-2021)
-* [16 March 2021](#date-16-March-2021)
-* [09 March 2021](#date-09-March-2021)
-* [16 February 2021](#date-16-February-2021)
+* [25 May 2021](#date-25-may-2021)
+* [11 May 2021](#date-11-may-2021)
+* [27 April 2021](#date-27-april-2021)
+* [13 April 2021](#date-13-april-2021)
+* [30 March 2021](#date-30-march-2021)
+* [16 March 2021](#date-16-march-2021)
+* [09 March 2021](#date-09-march-2021)
+* [16 February 2021](#date-16-february-2021)
 * [19 January 2021](#date-19-january-2021)
 * [15 December 2020](#date-15-december-2020)
 * [01 December 2020](#date-01-december-2020)
@@ -23,6 +24,46 @@
 * [12 May 2020](#date-12-may-2020)
 * [05 May 2020](#date-05-may-2020)
 * [28 April 2020](#date-28-april-2020)
+
+---
+
+### Date: 25 May 2021
+
+#### Who did you help this week?
+
+* People from Public Policy (just a bit) and The Turing Way (also only a bit)
+  * KW: Sounds SUPER valuable connections w PPP!
+  * KW: This is more than a little helpful! https://the-turing-way.netlify.app/afterword/legal-disclaimer.html
+
+#### Who helped you this week?
+
+* It was great to go through the new TREx form with GA for AUTSpaces!
+  * KW: Oh - I'm super glad that you're both working on this 💛
+
+#### What did you achieve?
+
+* First half of the TREx Guidance is drafted (with an explanation for each principle).
+  The next half is more prompts and an example response for each question (2/13 done).
+  * 🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖 This is going to be SO FREAKING USEFUL!
+
+#### What did you struggle with?
+
+* Mini breakdown when, on Wednesday morning, rather than take time to prioritise what I ha to do, I just **did everything**, haha
+  * KW: 😵😵😵😵😵 Glad you recovered.
+
+#### What would you like to work on next week?
+
+* Finish :clap: the :clap: first :clap: draft :clap: of :clap:TREx :clap: Guidance :clap: -- come on, Ismael!!!
+
+#### Where do you need help from Kirstie?
+
+* I will speak with AM on Friday.
+  If we have zero leads, I will ask about your network's connextions to the HRA!
+
+#### Any other topics
+
+* Second REC workshop on Thursday!!!
+  * 💪 I haven't forgotten my talk! 
 
 ---
 
@@ -168,7 +209,7 @@
 
 ---
 
-### Date: 16 March 2021
+### Date: 30 March 2021
 
 #### Who did you help this week?
 

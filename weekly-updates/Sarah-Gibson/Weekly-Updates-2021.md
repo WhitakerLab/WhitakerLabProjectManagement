@@ -1,5 +1,11 @@
 # Sarah's Fortnightly Mentoring Meetings
 
+- [2021-08-05](#date-2021-08-05)
+- [2021-07-22](#date-2021-07-22)
+- [2021-07-08](#date-2021-07-08)
+- [2021-06-04](#date-2021-06-24)
+- [2021-05-14](#date-2021-05-14)
+- [2021-05-05](#date-2021-05-06)
 - [2021-04-16](#date-2021-04-16)
 - [2021-04-07](#date-2021-04-07)
 - [2021-03-24](#date-2021-03-24)
@@ -8,54 +14,238 @@
 
 ---
 
+## Date: 2021-08-05
+
+### Who did you help this week?
+
+- Fede by running a mybinder tutorial as part of his Digital Humanities summer school
+  - AM: Great stuff! 
+
+### Who helped you this week?
+
+- 2i2c engineering team by thinking through team practices
+- Yuvi for reviewing my PRs
+
+### What did you achieve?
+
+- Reconfigured our terraform backend to dynamically select storage buckets.
+  Helps solve the "double login" problem.
+- Success fully deployed a private cluster to Pangeo/Columbia's Google Cloud project that conforms to all their controls
+- Gave a successful mybinder tutorial at Fede's Digital Humanities summer school
+  - AM: Sounds like you had a very productive August so far - well done! 🎉    
+
+### What did you struggle with?
+
+- "Double login" for Pangeo/Columbia continues to be an issue.
+  I now have to figure out secret encryption, the keys for which we store centrally in the same manner as the terraform state.
+  So frustrating that accommodating Columbia IT's needs has caused process changes at literally every level.
+- I was asked to give my Binder tutorial at the AGU Fall Meeting as part of a "Open Science in Action" session led by Fernando Perez (among others).
+  Not only do AGU require you to be a _paid_ member before you can submit an abstract, but there is also an abstract submission fee.
+  On top of that, the payment system isn't even working, so I'm completely blocked on submitting this abstract!
+  What I need to do is write up a Speaker Rider explicitly stating that I will likely not participate in PayToSpeak conferences (among other conditions) since they are massively exclusionary to folk who don't have the liquid cash to pay upfront - even if the tech works!
+
+### What would you like to work on next week?
+
+- Secret encryption for Pangeo deployment
+- Actually deploying a Pangeo hub!
+  - AM: I would love to chat next time about how this has panned out. Good luck! ✨ 
+
+## Date: 2021-07-22
+
+### Who did you help this week?
+
+- Former Turing colleagues transferring ownership of Zotero account
+- A Turing researcher automatically deploy their Jupyter Book to GitHub Pages
+    - AM: That sounds very nice of you - thank you! 🙏
+
+### Who helped you this week?
+
+- Yuvi with many, _many_ questions about Google/Terraform/Kubernetes/etc...
+    - AM: One day I will know something about Terraform 😂
+
+### What did you achieve?
+
+- Deployed a JupyterHub for a geospatial workshop in Ghana next week! :tada:
+   -  AM: Well done!!! 🎉
+- Reviewed some submissions for the Hidden REF Practices panel
+   - AM: great stuff!
+
+### What did you struggle with?
+
+- A meeting with a university IT department was full of condescension and disrespect
+    - 🤦‍♀️ And also well done on standing up to that behaviour!
+
+### What would you like to work on next week?
+
+- Hopefully the Ghana workshop will go well and I won't be needed much there
+- I would like to work more on unblocking the cluster deployment for Pangeo (it's not going to be as simple as we first hoped)
+- I am presenting Zero to Binder for Digital Humanities with former Turing folk next week
+    - ✨ all sound fab!!
+
+## Date: 2021-07-08
+
+### Who did you help this week?
+
+- Someone in 2i2c community who had trouble building a Jupyter Book on GitHub Pages
+  - We didn't solve it, but in the process I got them setup on GitHub Actions
+
+### Who helped you this week?
+
+- Min with providing an initial review of my first GitHub Action
+
+### What did you achieve?
+
+- Got a (roughly) working prototype of my first GitHub Action to circumvent the problem of secrets not being available to Pull Requests originating from forks
+
+### What did you struggle with?
+
+- Git authentication within my GitHub Action
+- Identity conflict in gcloud when trying to use 2i2c infrastructure to deploy to a Pangeo/Columbia-owned project
+
+### What would you like to work on next week?
+
+- Continue plodding on with the Action and cluster deployment
+
+## Date: 2021-06-24
+
+### Who did you help this week?
+
+- SB fix her git commits to register on GitHub from her preferred account
+- CM begin to spin up a small cluster at Turing to add to the mybinder staging federation
+
+### Who helped you this week?
+
+- Yuvi understand more about 2i2c / Pangeo helm charts and the challenges we face working with them
+- Min figure out a Kubernetes issue when upgrading Turing's mybinder deployment
+
+### What did you achieve?
+
+- I had a great kick off meeting with Pangeo / 2i2c and opened an issue to track the migration of the first Pangeo hub
+- I've made lots of little PRs to various 2i2c repos to suggest docs fixes, and performed code review too
+- I moved the Whitaker Lab website onto Netlify
+
+### What did you struggle with?
+
+- Still a bit timid to try out deployments in 2i2c as it's not clear how I can separate myself from the infrastructure in production and, therefore, have a safe space to make mistakes. Raised an issue with the team though, and they agree it's a good idea.
+- While there are two people in the team who are in similar time zones to me, they're a bit quieter on Slack. Therefore, most of the action happens in my evening and I can feel a bit at a loose end during the day. I'm sure this will change as the amount of work I have to focus on increases though.
+
+### What would you like to work on next week?
+
+- Waiting for Pangeo to provide access to their current cluster so I can check it out and make a migration plan
+- Continue deploying the staging cluster with CM
+
+## Date: 2021-05-14
+
+### Who did you help this week?
+
+- Lab members learn about blogging with Hugo and GitHub Pages
+- Reviewed my OLS mentees' graduation slides
+- CH writing CZI EOSS proposal
+
+### Who helped you this week?
+
+- MD reviewed my OLS graduation slides
+
+### What did you achieve?
+
+- Gave a _really fast_ demo of setting up a blog using Hugo and GitHub Pages to the Lab
+- Synced up KW, MS and CM on Binder/Turing Way/TPS
+- Emptied and sorted my Turing locker
+- Copied OLS work under my account (not Turing's) for some future work
+
+### What did you struggle with?
+
+- Had a few headaches this week that made focusing difficult
+
+### What would you like to work on next week?
+
+- Handing over LwM
+- Prepare to graduate OLS
+- Wrap up CZI EOSS application with CH
+
+### Any other topics
+
+To discuss with AM:
+
+- [ ] Meeting in two weeks is my last at the Turing and will be taking two weeks break
+- [ ] When to restart meetings?
+- [ ] Platform? Stick with Zoom or change to Google Meet?
+
+## Date: 2021-05-06
+
+### Who did you help this week?
+
+- CM onboard as new Turing cluster admin
+
+### Who helped you this week?
+
+- I've been mostly head down getting through my to-do list!
+
+### What did you achieve?
+
+- Updated progress on some LwM tickets
+- Setup lots of intro meetings between KW/MS/CM and JupyterHub/Binder/CM
+- Did some self-analysis into time/productivity management using various Jupyter tools.
+  Whitaker Lab meeting on this TBC!
+- Began my Lab presentation on building blog sites with Hugo and GitHub Pages for next week
+
+### What did you struggle with?
+
+- Fully disconnecting from work (particularly Slack) last week while on leave.
+  This was probably due to the fact I was working on some non-work but still techy side-projects.
+
+### What would you like to work on next week?
+
+- Finish and deliver presentation on blogs with Hugo and GitHub Pages for Lab meeting next week
+
 ## Date: 2021-04-16
 
 ### Who did you help this week?
 
 - Helped LC set the order of her online CV
-  - AM: 🎉 
+  - AM: 🎉
 - Helping the authors of a paper I'm reviewing
   - AM: Sounds SUPER interesting! Would love to read this!! ✨
 
 ### Who helped you this week?
 
 - MS, YY and the OLS community answering questions I had distinguishing some open science concepts
-  - AM: The roadmap discussion is really interesting to contextualise. No one method is perfect!!  
+  - AM: The roadmap discussion is really interesting to contextualise. No one method is perfect!!
 - AB for running a co-working session that was relly productive
-  - AM: SUPER well done on writing a whole section! 🎉 
+  - AM: SUPER well done on writing a whole section! 🎉
 - CH with getting panels working on the Turing Way Jupyter Book
-  - AM: ✨   
+  - AM: ✨
 - IKG with the ethics approval process for the Open Source Service Area user research
 
 ### What did you achieve?
 
 - Got panels working in the Jupyter Book and started transferring the Zero-to-Binder tutorial across.
   This means I only have to maintain 1 file with 3 languages, instead of 3 files containing a language each.
-  - AM: :tada: 
+  - AM: :tada:
 - Caught up with OLS assignments
 - Read and made notes on a paper ready to write a peer review report
 - Chaired the JupyterHub/Binder team meeting, disseminated the notes and scheduled the next meeting
 - Wrote a blog post for the Whitaker Lab on the CollabW21 reflections meeting, and adapted the text for my own blog!
-  - This is AMAZING! Especially since very few folks actually did it. 
+  - This is AMAZING! Especially since very few folks actually did it.
 - Attended a mentorship training session ran by the Turing
 - Rounded off the "job ad" for the Turing Beinder Federation Cluster Admin role
-  - ✨ 
+  - ✨
 
 ### What did you struggle with?
 
 - Not much!
   The productivity management system I'm implementing seems to be really effective at nudging me to realise what I'm supposed to be working on, schedule the time, and plough through it.
-  - AM: 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉 SUPER WELL DONE!! 
+  - AM: 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉 SUPER WELL DONE!!
 
 ### What would you like to work on next week?
 
 - Need to do some work for LwM around a long-running task and trying to speed it up
-  - Good luck! 
-- Get the Turing Binder cluster back online 
+  - Good luck!
+- Get the Turing Binder cluster back online
 - Pitching the Turing Binder Federation cluster admin role to a couple of internal people I have in mind
 - Continue migrating the Zero-to-Binder workshop into the Turing Way book and write a chapter discussing why mybinder.org is a better communication tool than collaboration tool
  - AM: Sounds like that productivity management system is working wonders!! Well done Sarah! ✨✨✨✨
- 
+
 ### Where do you need help from Kirstie?
 
 - All good!

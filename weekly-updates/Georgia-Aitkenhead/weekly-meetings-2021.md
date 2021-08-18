@@ -2,15 +2,201 @@
 
 Georgia's weekly meeting notes.
 
+* [18 August 2021](#date-18-august-2021)
+* [04 August 2021](#date-04-august-2021)
+* [07 July 2021](#date-07-july-2021)
+* [09 June 2021](#date-09-june-2021)
 * [26 May 2021](#date-26-may-2021)
 * [11 May 2021](#date-11-may-2021)
-* [31 March 2021](#date-30-march-2021)
+* [31 March 2021](#date-31-march-2021)
 * [9 March 2021](#date-09-march-2021)
 * [25 February 2021](#date-25-february-2021)
 * [17 February 2021](#date-17-february-2021)
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 18 August 2021
+
+#### Who did you help this week
+
+* Reviewed SeptembRSE call for PH
+  * KW: Fab!
+
+#### Who helped you this week?
+
+* SB helped me with citizen science guide
+  * KW: Excellent!
+* SF and LC helped with moderation decisions  
+  * KW: Really great
+
+#### What did you achieve?
+
+* Audit for co-working session
+  * KW: Very very helpful - thank you!
+* Co-working with KW 🌷
+  * KW: LOVELY day! Thank you!
+* Work on moderation summaries (https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/416)
+* Draft citizen science guide (https://hackmd.io/ZwYAS8gNRu6Z3lVf61EjsA)
+  * KW: Oh well done!
+
+#### What did you struggle with?
+
+* The moderation is tricky - but also super interesting!
+
+#### Where do you need help from Kirstie?
+
+* OH community call ideas
+  * KW: Lets have AR and SR to team up (assuming SR is finished travelling!) and give this presentation.
+  * 7 September - focus on what has been done so far AND - importantly - where we're struggling on the backend.
+  * Can I ask you to try to find a time that the presenters, JK, RT and I can meet on Thursday 2 Sept? The morning is currently very open so hopefully a good option there! 
+    * Ideally this is a Kirstie feedback session so hopefully AR / SR will have some slides ready to go.
+* Moderation summaries ready to send out?
+  * KW: Yes.
+
+#### What would you like to work on next week?
+
+* Send out summaries
+  * KW: This is looking really good - well done! Excited for them to go out!
+* Citizen science guide 
+  * KW: Looking excellent!
+* Position paper
+  * KW: Yeaaaaah - lets do dis!
+
+### Date: 04 August 2021
+
+#### Who did you help this week?
+
+* Helped LC and SR by reviewing PRs
+
+#### Who helped you this week?
+
+* JK and RT helped me understand moderation backend data-flow 
+* LC reviewed my PRs 
+
+#### What did you achieve?
+
+* Work on funding for project 
+* Global Summit application succesful!  
+  * https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/535
+  * KW: VERY COOL!
+* Finally merged some outstanding PRs
+* Plotting out moderation steps
+
+#### What did you struggle with?
+
+* Elements of strategy - Knowing which direction to take next/what's the most useful work to do
+
+#### Where do you need help from Kirstie?
+
+* Moderation summaries - best tactics
+  * KW: Here's the work flow:
+    * 1. Move potentially harmful quotes to another document, saved and version controlled for research purposes but not for publication.
+      Update the summaries that have had quotes removed to include a paragraph noting the general themes of the quotes (so we still have the information, just not the direct quotes.)
+    * 2. Send the summaries out for self-review (to the groups that individuals were in).
+    * 3. Incorporate feedback.
+    * 4. Send the summaries out to everyone so they can see the quotes from the (to be) published dataset.
+    * 5. Incorporate feedback.
+    * 6. Publish on GitHub.
+* Ethics docs review
+* Funding - clarifications
+
+#### What would you like to work on next week?
+
+* Funding
+* Moderation steps (with JS and SF)
+* Citizen science chapter
+
+KW: Excited to work together next week!
+
+### Date: 07 July 2021
+
+#### Who did you help this week?
+
+* Helped LC with civil service reports
+  * KW: I'm so glad!
+    Super helpful!
+
+#### Who helped you this week?
+
+* Lots of people helped me with career thinking! <3 KW, MS, EK, AvdW, LC
+  * KW: Really fantastic to have these conversations going!
+
+#### What did you achieve?
+
+* Ethics application: T-RECs 2 draft 
+  * KW: This is looking so fantastic! Well done!!
+  * Can you have a look through and make it clear that we are _not_ yet asking for permission to collect the real data, but that we do need to get permission to collect some _totally publicly available_ example contributions - both for testing the user experience of the platform AND for creating some examples so that future contributors have guidance on what types of contributions fit our remit.
+  * Lets have you do a pass through and then share with folks in the lab: I'd be particularly keen to hear AM, MS & AB's perspectives but I think there are lots of folks who would enjoy reading more about your and IKG's work!
+* Finished moderation reports summaries draft and created guidelines
+  * KW: Oh dear! I forgot that you'd sent these! I'll put some time in to review!
+* CC global summit application
+  * KW: Exciting!
+  * Please can you add your submission to the AutisticaCitizenScience GitHub repository?
+
+#### What did you struggle with?
+
+* Career thinking - working out the best next steps! It's exciting but also tricky!
+
+#### Where do you need help from Kirstie?
+
+* Reviewing ethics application
+  * KW: Looks great - thank you - lets have the lab have a look and then I'll do a final pass.
+* Reviewing moderation summaries
+  * KW: YES - so sorry!
+* Prioritising next steps
+  * KW: We ran out of time in the meeting but I've added a few comments below.
+
+#### What would you like to work on next week?
+
+* Position paper
+  * KW: Lets keep this for a few weeks from now.
+* Continued funding/grant work
+  * KW: I think it makes sense to fold this into attending the Autistica festival - particularly from a perspective of seeing how our work is answering open questions that folks are identifying!
+* More career steps
+  * KW: I think you should fold this into attending the Autistica festival! Give yourself some time to think carefully about what others are doing... and maybe reach out to some of the early career speakers to ask about their experiences?
+* Autistica festival -- 12 to 16 July, next week
+  * Presentation on Tuesday 13 July
+* SR's last day -- 16 July
+
+### Date: 09 June 2021
+
+#### Who did you help this week?
+
+* Helped LC with resources and wireframing
+  * KW: Great stuff 🖼️
+
+#### Who helped you this week?
+
+* AA, LC and MA helped with reviewing
+  * KW: Oh that's very kind - thank you to them! 🙏
+* AVDW gave me helpful mentoring
+
+#### What did you achieve?
+
+* Began ethics application 
+* Completed appraisal draft in Cezanne  
+  * KW: And appraisal with me! 💛
+* Clarified user flow with LC and JK
+* Some more work on summaries 
+
+#### What did you struggle with?
+
+* Appraisal - it can be hard to assess yourself!
+  * KW: I think is _is_ hard - but you did great 🌠 thank you for putting so much thought into it.
+
+#### Where do you need help from Kirstie?
+
+* Summaries - next steps
+  * KW: Great discussion in the meeting
+* Reviewing researchfish
+
+#### What would you like to work on next week?
+
+* Edits on researchfish - and submit!
+* Summaries
+* Ethics 
+* KW: Please also have a think about ordering of grant vs paper 😃
 
 ### Date: 26 May 2021
 

@@ -2,11 +2,374 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [21 July 2021](#date-21-july-2021)
+* [07 July 2021](#date-07-july-2021)
+* [29 June 2021](#date-29-june-2021)
+* [09 June 2021](#date-09-june-2021)
+* [03 June 2021](#date-03-june-2021)
+* [13 May 20201](#date-13-may-2021)
 * [28 April 2021](#date-28-april-2021)
 * [14 April 2021](#date-14-april-2021)
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 21 July 2021
+
+#### Who did you help this week?
+* Various: gave feedback on some of the £10.3m proposals - excited to see what the news is today!
+  * KW: ME TOOOOOO! And you really did a fantastic job - thank you!
+* Also helped pulling together the documents for extension projects to go to REG
+* Feedback on Slack user document to PS - really good to see that being pulled together 
+  * KW: Thank you
+* KLG quick chat through how the open access block grant works 
+  * KW: Would you mind finding UKRI / Wellcome / other funder guidance for organisations on open access / open data / open source.
+
+#### Who helped you this week?
+* All the folks who turned up to the Collaboration Cafe to talk through onboarding, felt we had a really good discussion.
+  * KW: So glad you're leading on this!
+* TC for contract reviews - I'm going to miss her!
+  * KW: Helpful people are SO HELPFUL! Good luck to her on the studies!
+* GS - long chat about programme governance documents which I can now incorporate into programme planning alongside leadership chats.
+  * KW: I'm delighted that I'm learning too! Thank you, and GS 🌻
+* KR for support in meetings and showing me Flexigrant
+  * KW: 💪
+
+#### What did you achieve?
+* CSCCE DEI programming call - we're at the stage where we need to bring in new volunteers to keep the next set of programming going and this was a productive call to agree next steps
+  * KW: Very cool - good luck on the next phase!
+* Sent off a contract or two that have been hanging around
+  * KW: Ooooooooooh - if these get signed that is a LONG TERM WIN! 🌠
+* Chased & processed a whole bunch of invoices which feels satisfying to tick them off on the tracker 😄
+* Got the TPS leadership call into Flexigrant!
+ 
+#### What bought you joy this week?
+* Liked the Lunch & Learn with Christine, felt I learnt a lot
+* Making my own ice cream 
+  * KW: 🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦 😋 
+* Collab Cafe 
+* Devouring a book!
+  * KW: 🧚‍♀️ 🧚‍♂️
+
+#### What did you struggle with?
+* It's so hot, I am genuinely struggling with focus - trying to be proactive about moving to cooler parts of the house/staying hydrated/using cooling towels 😓
+  * KW: SOLIDARITY AAAAAAAAAAAAH
+
+#### What would you like to work on next week?
+* Launching TPS Leadership call ✨
+* Planning governance document roll outs 
+* Contracts + admin to set up any successful projects/initiatives from 10.3 round 
+* Set up calls for EPSRC discussions so we can track proposals 
+* TPS seminar 
+  * KW: Promote to ASG, AI Programme (RD), REG & tweet?
+
+#### Where do you need help from Kirstie?
+* Want to discuss application to Success on the Board
+  * KW: Strong support!
+* Keep plugging at JDs!
+
+#### Any other topics? 
+* Not for now 
+
+## Date: 07 July 2021
+*Just one week as updating before KW & AB meeting on 7 July 2021*
+
+#### Who did you help this week?
+* LCs friend with their survey 
+* Helped to organise the scoping for Turing Way projects
+  * KW: SO SO HELPFUL!
+* Got to give good news on funding to a project
+  * KW: Really realy great - fingers are firmly crossed for the next stage!
+
+#### Who helped you this week?
+* TC with contract review!
+  * KW: So helpful!
+* CL reviewing ORAF proposal
+  * KW: This is a really exciting plan - great work.
+* DG on reporting OABG - thought I was going to have to do it myself 
+  * KW: What a success! Thank you DG!
+* Lab members on feedback on open research blurb
+
+#### What did you achieve?
+* TPS leadership call can move into the next phase!
+* Reviewed a contract I've been dragging my heels on (thank you TC) 
+* Reports all requested
+  * KW: YAAAAAAY! 📝
+
+#### What bought you joy this week?
+* Documentation is awesome 
+* Talking future plans, ideas and strategies is a lot of fun 
+
+#### What did you struggle with?
+* I'm sleeping terribly at the moment so feeling quite sluggish. ☕
+* Not leaving emails to get stale 
+* Tried to write at the weekend and just couldn't 😞
+
+#### What would you like to work on next week?
+* Lining up stuff for the TPS leadership call so we can launch it!
+* Clearing up all the little bits and pieces before summer breaks really kick in
+  * KW: 🏖️🏖️🏖️
+
+KW: Noted in the meeting that you're really doing a fantastic job and it feels very different to the fire fighting of your first few months.
+WELL DONE.
+I take this as an indicator both of you settling into the role and learning how things work, **and** of you and me (and many others) benefitting from your careful preparation and oversight of TPS projects and processes.
+THANK YOU ✨
+
+## Date: 29 June 2021
+*KW annual leave extended - interim non-meeting notes otherwise AB will forget what she's done. Next meeting 7 July 2021*
+
+#### Who did you help this week?
+* CL - untangled a complicated budget so we have a clear overview of the situation and a good path forward 
+* KR & AM - draft budget for proposals because it was straightforward (and quick for me to do!) 
+* SG - lots of discussion on draft budget for proposal 
+* PS - submitted a lot of suggestions for Slack use that might be useful...
+  * KW: GREAT - thank you!
+* PH - general chatting in our 1:1 
+
+#### Who helped you this week?
+* AM who led a call on a complex piece of paperwork while I tried to listen in from the car
+  * KW: OH WOW - DG has been working on that for MONTHS 😭
+  * Thank you 🙏🙏🙏🙏🙏
+* MS for useful chats as always 
+
+#### What did you achieve?
+* Written a pretty monster document for onboarding! And drafted a brief chapter for Turing Way on it as well which will complement the other draft chapter on virtual onboarding 
+  * Co-working next week will help bring the two chapters together, very exciting  
+  * KW: WOAAAAAAAH - SO COOL!!!! 😍😍😍😍😍😍😍😍
+* Sent newsletter and already had several pieces of engagement with the content! Will be adjusting workflow to send newsletters first thing Monday instead now 😄
+  * KW: So fantastic!
+* Lined up 2 speakers for TPS Coffee chats - Digital Public Goods project and Caroline Jay (Mine the Gaps)
+  * KW: Fantastic!
+ 
+#### What bought you joy this week?
+* REALLY enjoyed the documentation work and writing up a chapter alongside it 
+* Discussions with PH about what we want to use our time for 
+* Discussions with MS about possible grants 
+* Had some actual time off which was lovely 💮
+
+#### What did you struggle with?
+* Getting back into emails after annual leave (all sorted now!) 
+* Newsletter documentation conflicting with others work so that's stalled
+* Need to communicate to the folks who were unsuccessful in their submissions to us 
+
+#### What would you like to work on next week?
+* Finishing CW21 blog!
+* TPS leadership next steps 
+* Time to request reports from everyone again ✨
+
+#### Where do you need help from Kirstie?
+* Keep plugging on JD 
+
+## Date: 09 June 2021 
+*Just a week between meetings as KW annual leave next week, next meeting 21 June 2021*
+
+#### Who did you help this week?
+
+* Folks who have attended the 500 words of summer sessions with focus!
+  * KW: 🌞🌞🌞
+* MS with Turing Way application
+  * KW: Really so glad we got that in!! 🌠🌠🌠 
+* KW w/ collation of proposals & budget & JD discussions
+  * KW: Absolutely!
+* Discussed a few extra projects/training sessions with GS
+* AC with co-working ideas
+  * KW: THAT IS SO GREAT - loved the meeting yesterday 🌍🌍 🤖🤖
+  * Digital twins... geddit?? No? ok.
+
+#### Who helped you this week?
+
+* MS & HMc as always 😄
+* LCo sharing templates ✨
+  * KW: GREAT stuff - Turing Way 😉 Very helpful for TPS too.
+  * Slides from "project portfolio" at https://github.com/alan-turing-institute/tps-project-management/tree/master/slide-decks
+
+#### What did you achieve?
+
+* Lots of little things + some good "eating frogs" attitude 💪
+  * KW: 🐸🐸🐸🐸🐸🐸 😋
+    * (Actually, those emojis are a bit odd aren't they?!)
+    * Well done!
+
+#### What bought you joy this week?
+
+* Budget and JD work was fun!
+  * KW: 💰💰💰 Thank you so much! I'm so grateful on both fronts 🙏
+* Already had a response to the call for newsletter items
+  * KW: YAY!
+* Really loved the insight into AutSPACES in the lab meeting 
+* General summery-ness 🌞
+* Last minute escape to Norwich 
+
+#### What did you struggle with?
+
+* Lost the 500 words of summer momentum 😩
+  * Will try to get it back next week!  
+  * KW: 🕵️‍♀️ You'll find it 😉
+  
+#### What would you like to work on next week?
+
+* Reimbursements all submitted by end of this week 
+* Drafting newsletter process document alongside the newsletter itself 
+  * KW: Move Turing Way guidance out of community handbook to communication
+  * https://the-turing-way.netlify.app/community-handbook/newsletters/newsletters-process.html
+* Working on induction pack update for GS 
+  * KW: Turing Way onboarding chapter in collaboration 😀  
+* Finish CW21 blog post 
+
+#### Where do you need help from Kirstie?
+
+* One crucial bit of admin before annual leave
+* Plan for other costs + RAM underspend on programme
+
+#### Any other topics?
+
+* Not this week 😄
+
+
+## Date: 03 June 2021 
+
+#### Who did you help this week?
+
+* Lots of Book Dash attendees helped to make and merge their first pull requests, first reviews and write lots of fun content! 
+  * KW: And reimbursements?!?! 😬 🙏
+* SG with workshop
+  * KW: Well done - thank you!
+* Connected up training with efforts around the PDRA cohort 
+* My mum who did the 42km overnight with me 🌻
+  * KW: WAY TO GOOOOOOOO! 🌄 🌛
+* Minor admin things around projects
+* Set up 500 words of summer project (hope people find that useful?)
+  * KW: VERY COOL!
+* Good discussions with PH
+
+#### Who helped you this week?
+
+* MS & HMc as always 😄
+* GS has been super with tricky queries
+  * KW: Aaaaah - well done! And thank you.
+* SR coming to a TPS session and asking excellent questions
+  * KW: YAY!
+* LC has been showing up consistently for 500 words of summer, much appreciated! 
+  * KW: YAY 2!
+
+#### What did you achieve?
+
+* Started chapter on research infrastructure roles, definitely a paper (position paper maybe) on the importance of these roles for research progress and best practice
+  * KW: VERY VERY cool - I'm super into this 💯
+* Book Dash discussion on advocacy - definitely something to develop for the future!
+* Lots of small tasks, each of which keeps things ticking over.
+  Trying to keep in mind I don't need to remember every one for them to be an achievement.
+  * KW: Yeah - there's two attitudes here - either remember everything and be all "WHAAAAAT that's so much" or say "I do many thing and I am helping other to do their many things" and then rest 💖
+
+#### What bought you joy this week?
+
+* The Book Dash! 
+  * Meeeee toooooo!
+* Walking my Very Long Walk 🚶‍♀️
+  * And you raised £2015!!!! WOOOOOOO!!! AMAZING!!!
+* General summery-ness 🌞
+* PH bought me flowers! 💐
+* 500 Words of Summer has been good - I have been mainly just writing down alllll my thoughts on open source, activism, politics, and policy 😅
+  * KW: Beautiful 🌞
+
+#### What did you struggle with?
+
+* Several things taking much longer to process, still.
+  Not massively clear how we resolve them either (may need guidance from others in the PM team).
+  * KW: So wild.... but if we can help an open source infrastructure team improve their service then maybe we can count this as a LONG WON win?!
+* Wasn't on top of my brief in a meeting, need better organisation
+  * KW: Hugs - sounds legitimately hard!
+* PO system still embedding, throwing up a lot of weird things that need handling 
+* Need a clear answer on something which isn't forthcoming and it's causing some things to fall behind
+  * KW: SOLIDARITY AAAAAAAAAAAAAAAAAAAAAH
+
+#### What would you like to work on next week?
+
+* TPS Leadership work, would like to have it sorted to launch soon!
+  * KW: Soooooon!
+* Budget as we discussed 
+  * KW: Thank you!
+* Also want to think about what documents we would like TPS to have e.g. programme health reports? roadmap? one pager? We don't necessarily need to have them *completed* but I think it would be good for us to discuss what documentation structure we need to have in place to then be populated.
+  * KW: Oooooh - this is my jam but also I haven't thought about it 😅
+
+#### Where do you need help from Kirstie?
+
+* What do you need from me ahead of your annual leave?
+* May need some help getting things unstuck.
+  * KW: super helpful chat - I like all your ideas - fingers crossed 🤞
+
+#### Any other topics?
+
+* Going to be on annual leave visiting Belfast 23-25 June 
+  * KW: Exciting!
+
+## Date: 13 May 2021 
+
+#### Who did you help this week?
+
+* CE & KC - newsletter & CRM walkthrough (need to find time to document this!)
+  * KW: WELL DONE on this - is there space in the Turing Way for this? (Not the CRM stuff but the newsletter more generally?)
+    * There's the community handbook version: https://the-turing-way.netlify.app/community-handbook/newsletters.html but I think it should go into communication!
+* MS - more guidance on expenses for Book Dash attendees
+  * KW: This is SUCH valuable work - thank you so much 💰
+  * Please can you ping this to JS in events - I was having a bit of a complain about how hard this can be earlier today!
+* AC on figuring out finance stuff
+  * KW: Oh dear. Thank you 🙏
+* SG prep for event support
+  * KW: AH - capture this work for your annual appraisal - you're doing such helpful work here.
+
+#### Who helped you this week?
+
+* GS, AM & KR on project move
+* KR handled paperwork incredibly effectively 😄
+  * KW: From my side that was INCREDIBLY smooth - THANK YOU!
+* HMe for knowledge sharing to help me plan effectively
+  * KW: Awesome! What a star 🌠 
+* AM for stepping up to chair our next TPS seminar! 
+  * KW: So grateful 🐏
+
+#### What did you achieve?
+
+* Leadership call document
+* TPS report submitted ON TIME
+  * KW: IN SPITE OF MY EFFORTS 😂😂😂
+    * Really excellent work 🙌
+* Several pieces of paperwork have been dispatched and either completely resolved or progress 🦾
+  * KW: 💪💪💪
+* Presented early version of community manager presentation 
+  * KW: Loved this!! 🌱🌳
+    * Keen to have this presented at various places - internally too
+    * Is there a paper in here about the venn diagram of RAM, CM and RPM
+* Other things? It's hard to remember 😩
+
+#### What bought you joy this week?
+
+* Talking to MS about event plans for outside work ✨
+  * KW: The plans are sounding awesome!
+* Having a beautifully laid-out spreadsheet to help with a pitch
+  * KW: THAT WAS A beautifully laid-out spreadsheet 🤩
+* Mentoring a first contribution to the activism chapter!
+  * KW: Very kind 🌠
+
+#### What did you struggle with?
+
+* Something I thought would be simple took a lot longer than expected to have a sub-optimal outcome
+  * KW: 😭😭😭
+* Several unexpected roadblocks in things I would like to get closed out
+  * KW: 🚧🚧🚧
+* Tuesday turned out my body just wanted to rest 😴
+  * KW: 🛋️
+
+#### What would you like to work on next week?
+
+* Book Dash! Will be focusing on mentoring new people and reviewing the incredible amounts of writing that EK has done 📚
+* Preparing for The Very Long Walk 🚶‍♀️
+  * KW: Eeeeeeeeeee!! HAVE FUN! 🦖
+
+#### Where do you need help from Kirstie?
+
+* TPS newsletter tomorrow (ran out of time today) 
+* Jupyter event - what do you need from me?
 
 ## Date: 28 April 2021
 
