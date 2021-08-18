@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [18 August 2021](#date-18-august-2021)
 * [8 July 2021](#date-8-july-2021)
 * [10 June 2021](#date-10-june-2021)
 * [1 June 2021](#date-1-june-2021)
@@ -22,6 +23,38 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 18 August 2021
+
+#### Who did you help this week?
+
+* BSc student re neuropsychology project
+
+#### Who helped you this week?
+
+* EK mentoring: how to make a correction in the Turing Way and how to add a new subchapter
+ 
+#### What did you achieve?
+
+* Added [subchapter to Project Design in the Turing Way](https://github.com/alan-turing-institute/the-turing-way/pull/2076)
+* Accepted for mentorship programme at ICE conference
+* Continued retrieving additional clinical factors
+* Re-ran MSc paper analyses
+
+#### What did you struggle with?
+
+* All good
+
+#### What would you like to work on next week?
+
+* Clinical data retrieval
+* 'MRI negative vs positive' over time analysis - have trialled the analyses (and figures), just need to add the remaining data
+* Add additional MRI focal lesion and non-focal lesion to MRI positive categorisation
+
+#### Where do you need help from Kirstie?
+
+* Figures for MRI status?
+* Additional bits for Sensitive Data Projects?
 
 ### Date: 8 July 2021
 
