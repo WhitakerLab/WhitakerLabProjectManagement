@@ -14,12 +14,43 @@
 
 ---
 
+## Date: 2021-08-18
+
+### Who did you help this week?
+
+- I feel like I'm either receiving a lot of help, or working in isolation recently - so I'm struggling to answer this!
+
+### Who helped you this week?
+
+- Erik helped me with deploying an NFS server directly into a kubernetes cluster
+
+### What did you achieve?
+
+- Erik and I found a solution to NFS server issues that have been plaguing me and we put a proposal together for a new way to deploy them
+- I made some upgrades to one of my bots to perform more sensible checks against open PRs and to assign reviewers
+- I finished a big piece of infrastructure work for mybinder.org that will allow us to deploy PRs from forks to our staging infrastructure
+
+### What did you struggle with?
+
+- I struggled a lot being technically blocked on the NFS server stuff.
+  The team are having discussions around "how do we signal that we are blocked, how we are blocked, and what help we require".
+  But that was mostly why I dove back into my bots and the mybinder work - I needed some tech wins!
+
+### What would you like to work on next week?
+
+- Still working towards deploying a staging hub for Pangeo
+- I will also be going on holiday next week so I would like to work towards relaxing!
+
+### Any other topics
+
+- I have cancelled the meeting due on Sept. 2nd as I will be returning from holiday that day.
+
 ## Date: 2021-08-05
 
 ### Who did you help this week?
 
 - Fede by running a mybinder tutorial as part of his Digital Humanities summer school
-  - AM: Great stuff! 
+  - AM: Great stuff!
 
 ### Who helped you this week?
 
@@ -32,7 +63,7 @@
   Helps solve the "double login" problem.
 - Success fully deployed a private cluster to Pangeo/Columbia's Google Cloud project that conforms to all their controls
 - Gave a successful mybinder tutorial at Fede's Digital Humanities summer school
-  - AM: Sounds like you had a very productive August so far - well done! 🎉    
+  - AM: Sounds like you had a very productive August so far - well done! 🎉
 
 ### What did you struggle with?
 
@@ -48,7 +79,7 @@
 
 - Secret encryption for Pangeo deployment
 - Actually deploying a Pangeo hub!
-  - AM: I would love to chat next time about how this has panned out. Good luck! ✨ 
+  - AM: I would love to chat next time about how this has panned out. Good luck! ✨
 
 ## Date: 2021-07-22
 
