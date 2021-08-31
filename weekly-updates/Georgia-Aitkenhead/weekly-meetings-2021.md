@@ -45,6 +45,12 @@ Georgia's weekly meeting notes.
 
 * Check on structure for cc summit 
 * SDSIG - speaker recommendations?
+* Ethics review
+
+#### What would you like to work on next week?
+
+* Community call presentation
+* Position paper
 
 ### Date: 18 August 2021
 
