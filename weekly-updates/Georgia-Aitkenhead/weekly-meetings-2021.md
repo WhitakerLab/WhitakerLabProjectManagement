@@ -25,32 +25,43 @@ Georgia's weekly meeting notes.
 
 #### Who helped you this week?
 
-* LC, AR, and JS helped me with CC summit 
+* LC, AR, and JS helped me with CC summit
+  * KW: 23 September presentation, lets do a prep on Mon 20 Sept - maybe 90 mins
 * AvdW gave some tips
 * SB helped with citizen science guide
 
 #### What did you achieve?
 
 * Draft 2 of citizen science guide (https://hackmd.io/qTWLh4zpRoKIUZrOW0B6VA)
+  * KW: Great work! A little too long but BGT and I can ✂️✂️✂️ 😂
 * Work on CC summit presentation (https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/535)
+  * KW: Excited for this!
 * Work on position paper (just reading and notes)
+  * KW: Great stuff ✨
 * Into slides and planning for OH community call https://docs.google.com/presentation/d/1ya336Y3TZVDyxJheSW9FznTaBAhQAI8NCT5cpVeY-5M/edit#slide=id.p 
+  * KW: These look good - too much text though! 
 
 #### What did you struggle with?
 
 * Moderation summaries still stalled
+  * KW: Ah, August - you're so difficult to work through. Try cc-ing LK and see if that helps :sunflower:
 * Hormones 😅
+  * KW: 💉💙 
 
 #### Where do you need help from Kirstie?
 
 * Check on structure for cc summit 
+  * KW: This is looking great - just make sure you're all prepped on time etc 😀
 * SDSIG - speaker recommendations?
 * Ethics review
+  * KW: On the to do list (it was on the to do list from last week.... but I ended up relaxing too much!)
 
 #### What would you like to work on next week?
 
 * Community call presentation
 * Position paper
+
+KW: All looking good! Keep going! 🚀 🌟
 
 ### Date: 18 August 2021
 
