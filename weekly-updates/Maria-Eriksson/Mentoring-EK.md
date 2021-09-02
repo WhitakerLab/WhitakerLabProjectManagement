@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [1 September 2021](#date-1-september-2021)
 * [17 August 2021](#date-17-august-2021)
 * [11 August 2021](#date-11-august-2021)
 * [6 July 2021](#date-6-july-2021)
@@ -19,6 +20,17 @@
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
+
+## Date: 1 September 2021
+
+### What brought you joy this week?
+* ME - Conference (and its mentorship programme) was gooood :sparkles:
+### What did you achieve
+* ME - Had presentation and Open and Big Data task force :+1: And finished retrieving MRI 
+### What did you struggle with?
+* ME - Nothing to report
+### Any other topics
+* ME - Chat about task force (and their paper https://onlinelibrary.wiley.com/doi/epdf/10.1111/epi.16633), and Turing Way Book Dash application
 
 ## Date: 17 August 2021
 
