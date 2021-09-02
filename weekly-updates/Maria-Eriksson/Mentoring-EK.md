@@ -30,7 +30,7 @@
 ### What did you struggle with?
 * ME - Nothing to report
 ### Any other topics
-* ME - Chat about task force (and their paper https://onlinelibrary.wiley.com/doi/epdf/10.1111/epi.16633), and Turing Way Book Dash application
+* ME - Chat about task force (and their paper https://onlinelibrary.wiley.com/doi/epdf/10.1111/epi.16633) and Turing Way Book Dash application
 
 ## Date: 17 August 2021
 
