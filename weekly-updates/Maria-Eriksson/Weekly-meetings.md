@@ -30,15 +30,19 @@
 #### Who did you help this week?
 
 * BSc student re neuropsychology project
+  * KW: Well done! I hope your work with them can be shared (thesis? paper? etc)
 * Mentoring w IKG
  
 #### What did you achieve?
 
 * Got some good feedback on [subchapter to Project Design in the Turing Way](https://github.com/alan-turing-institute/the-turing-way/pull/2076) - thanks again for sharing with the other students! 💖
+  * KW: Well done! Super exciting!
 * Attended IEC conference all week - gave presentation and participated in mentorship programme
+  * KW: Way to go on the talk, and so glad the mentorship as fun
 * Continued retrieving additional clinical factors
-* Worked on MRI pipeline
+* Worked on MRI pipeline 
 * Drafted Turing Way Book Dash application
+  * KW: Fab - excited to review!
 
 #### What did you struggle with?
 
@@ -52,6 +56,7 @@
 #### Where do you need help from Kirstie?
 
 * Feedback on paper once I send it around
+  * KW: Will keep an eye out!
 * [Thoughts on sensitive data/projects structure in Turing Way](https://github.com/alan-turing-institute/the-turing-way/pull/2076#issuecomment-903610932)
 
 ### Date: 18 August 2021
