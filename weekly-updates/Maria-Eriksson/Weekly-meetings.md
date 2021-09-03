@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [1 September 2021](#date-1-september-2021)
 * [18 August 2021](#date-18-august-2021)
 * [8 July 2021](#date-8-july-2021)
 * [10 June 2021](#date-10-june-2021)
@@ -23,6 +24,40 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 1 September 2021
+
+#### Who did you help this week?
+
+* BSc student re neuropsychology project
+  * KW: Well done! I hope your work with them can be shared (thesis? paper? etc)
+* Mentoring w IKG
+ 
+#### What did you achieve?
+
+* Got some good feedback on [subchapter to Project Design in the Turing Way](https://github.com/alan-turing-institute/the-turing-way/pull/2076) - thanks again for sharing with the other students! 💖
+  * KW: Well done! Super exciting!
+* Attended IEC conference all week - gave presentation and participated in mentorship programme
+  * KW: Way to go on the talk, and so glad the mentorship as fun
+* Continued retrieving additional clinical factors
+* Worked on MRI pipeline 
+* Drafted Turing Way Book Dash application
+  * KW: Fab - excited to review!
+
+#### What did you struggle with?
+
+* Placeholder
+
+#### What would you like to work on next week?
+
+* Finish MRI status classification (need some help from SA)
+* Re-run analyses for paper (and then re-send to co-authors for feedback)
+
+#### Where do you need help from Kirstie?
+
+* Feedback on paper once I send it around
+  * KW: Will keep an eye out!
+* [Thoughts on sensitive data/projects structure in Turing Way](https://github.com/alan-turing-institute/the-turing-way/pull/2076#issuecomment-903610932)
 
 ### Date: 18 August 2021
 
