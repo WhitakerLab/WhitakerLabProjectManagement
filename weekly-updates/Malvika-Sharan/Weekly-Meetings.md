@@ -36,8 +36,10 @@
 
 #### Who did you help this week?
 - ABL in discussing the parliamentry workshop format
+  - KW: Sounds great - needs 👀 on breakout sessions.
 - DP in getting DSG case study in the book
-- Open Science FAIR workshop team in sharing some materails for their work
+  - KW: https://github.com/alan-turing-institute/the-turing-way/pull/2083 Fantastic!
+- Open Science FAIR workshop team in sharing some materials for their work
 
 #### Who helped you this week?
 - ABL in sorting the 'TW CM JD' out
@@ -46,21 +48,25 @@
 
 #### What did you achieve?
 - HM invited for a talk at Research Project Managers Monthly Meeting 
+  - KW: Great stuff - super helpful, & PM meeting this week.
 - Turing-Crick discussion with R4E and ICR researchers
 - CZI workshop
 - Monthly roundups, Governance and project background foundation work for Sep
-- Society of RSE funded the SeptembRSE panel  
+- Society of RSE funded the SeptembRSE panel
+  - KW: 💰 Great stuff!
 
 #### What did you struggle with?
 - Personal capacity
 
 #### What would you like to work on next week?
 - Collaboration workshop for enrichment students
+  - KW: Thank you for brainstorming this with me!
 - Governance call for taskforce
 - 2 talks and 2 workshop prep this month
 
 #### Where do you need help from Kirstie?
 - Community call dates
+  - KW: As discussed, Fridays, 2-3pm is the current plan, starting on 22 October
 - CM onboarding/induction
 
 ---
