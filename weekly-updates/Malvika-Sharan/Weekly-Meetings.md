@@ -2,12 +2,13 @@
 
 *[Template](#template-date-dd-month-yyyy)*
 
+* [06 September 2021](#date-06-September-2021)
 * [17 August 2021](#date-17-August-2021)
 * [02 August 2021](#date-02-August-2021)
 * [20 July 2021](#date-20-July-2021)
 * [21 June 2021](#date-21-June-2021)
-* [25 May 2021](#date-25-may-2021)
-* [10 May 2021](#date-10-may-2021)
+* [25 May 2021](#date-25-May-2021)
+* [10 May 2021](#date-10-May-2021)
 * [26 April 2021](#date-26-April-2021)
 * [08 April 2021](#date-08-April-2021)
 * [08 March 2021](#date-08-March-2021)
@@ -26,10 +27,57 @@
 * [06 April 2020](#date-06-April-2020)
 * [17 March 2020](#date-17-March-2020)
 * [29 February 2020](#date-29-February-2020)
-* [15 February 2020](#date-15-february-2020)
-* [07 February 2020](#date-07-february-2020)
+* [15 February 2020](#date-15-February-2020)
+* [07 February 2020](#date-07-February-2020)
 
 ---
+
+### Date: 06 September 2021
+
+#### Who did you help this week?
+- ABL in discussing the parliamentry workshop format
+- DP in getting DSG case study in the book
+- Open Science FAIR workshop team in sharing some materails for their work
+
+#### Who helped you this week?
+- ABL in sorting the 'TW CM JD' out
+- MN in discussing training plans, AM joined in
+- KW in designing the foreword of the book
+
+#### What did you achieve?
+- HM invited for a talk at Research Project Managers Monthly Meeting 
+- Turing-Crick discussion with R4E and ICR researchers
+- CZI workshop
+- Monthly roundups, Governance and project background foundation work for Sep
+- Society of RSE funded the SeptembRSE panel  
+
+#### What did you struggle with?
+- Personal capacity
+
+#### What would you like to work on next week?
+- Collaboration workshop for enrichment students
+- Governance call for taskforce
+- 2 talks and 2 workshop prep this month
+
+#### Where do you need help from Kirstie?
+- Community call dates
+- CM onboarding/induction
+
+---
+
+### Template: Date: DD Month YYYY
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
 
 ### Date: 17 August 2021
 
@@ -80,22 +128,6 @@
   - KW: Looks great! Thank you for doing this work!
 - Reviewing and finishing diversifying leadership application (Monday is the deadline)
 - Governance call for working group discussion in the coming days
-
----
-
-### Template: Date: DD Month YYYY
-
-#### Who did you help this week?
-
-#### Who helped you this week?
-
-#### What did you achieve?
-
-#### What did you struggle with?
-
-#### What would you like to work on next week?
-
-#### Where do you need help from Kirstie?
 
 
 ### Date: 02 August 2021
