@@ -2,12 +2,66 @@
 
 *Meetings with Kirstie approximately every 2 weeks*
 
+* [8 September 2021](#date-8-september-2021)
 * [11 August 2021](#date-11-august-2021) 
 * [27 July 2021](#date-27-july-2021)
 * [30 June 2021](#date-30-june-2021)
 * [09 June 2021](#date-09-june-2021)
 * [01 June 2021](#date-01-june-2021)
 * [28 April 2021](#date-28-april-2021)
+
+### Date 8 September 2021
+
+#### Who did you help this week?
+
+- Helped AR, SR, GA, RT get the slides ready for the Open Humans
+  - KW: It was great! Well done!
+- Gave some additional information to AL
+  - KW: That's lovely - thank you for checking in with him.
+
+#### Who helped you this week?
+
+- AR, SR, GA and RT to get content for the open humans presentation 
+  - KW: Team work makes the dream work 🙌
+- RT provided his spotlight for the newsletter
+  - KW: Loved this! Well done!
+
+#### What did you achieve?
+
+- Sent out the August Newsletter
+  - KW: Great work!
+- Robin Twitter thread on the spotlight contribution
+- Anoushka passing GSoC!!! 
+  - KW: I'm so proud of her! And well done to you with your mentorship 🌻
+- Navigating the repo document to go with the promotion pack
+- Finalising the promotion pack and getting ready for lab meeting
+  - KW: Looking forward to it! Exciting! ✨
+- Open Humans community call 
+- Starting prepping for the CC Summit
+
+#### What did you struggle with?
+
+- WIFI!!!!💢
+  - KW: uuuuurgh - I hope they figure it all out 🤞
+
+#### What would you like to work on next week?
+
+- Feedback for project on the repo
+  - KW: You might need to chase folks for this - but please do chase them!
+- Feedback for my performance from contributors that I've worked closely with
+  - KW: Share with folks in lab too ✔️
+- EPR Write up for the EPR on 29 September
+- Impact Stories to use to promote the project and community building
+- Update the roadmap for this month
+- Leave 16-20 and WFH in France 13-15 September
+  - KW: Lovely!
+- KW: And also start drafting the half year report for TPS please 🙏
+
+#### Where do you need help from Kirstie?
+
+- My EPR requires 300 words from my Activity Manager on my performance!
+  Deadline to upload Tuesday 21 September.
+  - KW: GREAT - good heads up!
 
 ### Date 11 August 2021
 
