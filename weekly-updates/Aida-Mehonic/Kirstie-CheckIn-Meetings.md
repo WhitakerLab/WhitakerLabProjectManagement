@@ -1,5 +1,6 @@
 # Check in meetings with Kirstie
 
+* [Date: 11 August 2021](#date-11-august-2021)
 * [Date: 30 June 2021](#date-30-june-2021)
 * [Date: 22 June 2021](#date-22-june-2021)
 * [Date: 26 May 2021](#date-26-may-2021)
@@ -7,6 +8,58 @@
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+### Date: 11 August 2021
+
+#### Who did you help over the past fortnight? 
+* SG & GA - mentoring chat
+  * KW: Thank you 💖 
+
+#### Who helped you this week?
+* JB - with MondoDB
+  * KW: YAY! 🚀🌟
+  * Capture instructions in GitHub repository (your fork of the das-public one?)?
+* HMc - with stakeholder mapping 
+
+#### What did you achieve?
+* Completed meetings with EDT CTP and with E&S CTP for the stakeholder mapping project; promoted this project at the ASG Ops meeting to get RPMs input
+  Will send round a "survey" to all the RPMs asking them to nominate any research outputs from their areas that could be promoted to users. 
+* Made some progress in conversations around ASG & DSGs... spoke to JM.
+  Some sort of plan is shaping up.
+  CEFAS will go ahead in Dec 2021 and an ASG focussed DSG is proposed for Sep 2022.
+  `scivision` should be used in both.
+  * KW: Very fun!!
+  * KW: Consider having all 3 RAMs participate in the December DSG - team building for you three (but work across different projects) and good immersion for seeing what users do / what they need ✨
+* Two RAMs all lined up to start working in the autumn - so excited!
+  * KW: YAAAAAAAAAY!! WELL DONE! 🐏🐏🐏
+* Facilitated a session on negotiating at Whitaker Lab meeting last week.
+* Learned the basics of MongoDB - including how to use Compass and how to run some simple command line queries and how a simple database is organised. 
+* Started contributing to the scivision repo - 1) advice on licensing and 2) contribution guidelines for now.
+  * KW: Fab! Please capture your contributions and whether they relate to The Turing Way somewhere - maybe _in_ The Turing Way?
+    * Here's the page: https://the-turing-way.netlify.app/afterword/contributors-record.html#a
+    * Remember that ensuring that The Turing Way is _used_ IS a contribution! 🙌
+* Had some RAM conversations with ASG Central, including setting up regular catch-ups with HM and AC going forward. 
+* Created a Github project board for ASG RAM projects in preparation for onboarding JD and AC.
+* Turing IT agreed to grant REG-style permissions to the RAM team & MACs as a default (unless someone specifically requests a PC).
+  * KW: GREAT - well done!
+
+#### What did you struggle with?
+* Lots of PIs on ASG have joined mid-way through ASG.
+  Sometimes, there are gaps in articulating the impact narrative of ASG as a result.
+
+#### What would you like to work on next week?
+* Produce ASG Stakeholder Map 1.0 
+* Have a meeting with the CEO of the Met Office
+  * KW: Exciting!
+* Make more progress with pre-processing large datasets in MongoDB & think about whether the new UKRI OA policy can be somehow referenced in DAS 2.0
+
+#### Where do you need help from Kirstie?
+* Let's chat about the impact narrative & stakeholder map for TPS.
+  * Or better to schedule a separate hour for this with AB as well?
+  * KW: Yes - please lets schedule a separate session for this - there are just a few too many things going on at the moment in my poor head!
+* Let's chat about the impact narrative for ASG in general.
+* Let's chat about DSGs and ASG outputs.
+* Let's chat about plans for RAMs in general (including DSGs, PP and other avenues). 
 
 ### Date: 30 June 2021
 
