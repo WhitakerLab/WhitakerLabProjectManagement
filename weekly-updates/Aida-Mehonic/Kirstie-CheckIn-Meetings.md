@@ -1,5 +1,6 @@
 # Check in meetings with Kirstie
 
+* [Date: 15 September 2021](#date-15-september-2021)
 * [Date: 11 August 2021](#date-11-august-2021)
 * [Date: 30 June 2021](#date-30-june-2021)
 * [Date: 22 June 2021](#date-22-june-2021)
@@ -8,6 +9,39 @@
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+### Date: 15 September 2021
+
+#### Who did you help over the past fortnight? 
+* SG - mentoring chat - we're now planning thematic chats - https://hackmd.io/@sgibson91/mentor-meeting-planning
+
+#### Who helped you this week?
+* HMc - lots of regular check-ins
+
+#### What did you achieve?
+* Main thing: Completed the (first version of the) impact narrative & stakeholder mapping project and presented the results to ASG Central - received good feedback!
+* Populated the RAM repo with 29 research applications from across ASG (https://github.com/alan-turing-institute/ASG_RAM/projects). I also provisionally assigned some of them as red (very likely to have socio-economic benefit within 18 months), orange (likely) and yellow (needs more time for soc-econ benefit) - ASG Central liked this approach and are expecting to see 10-15 projects in the red & orange category. They also suggested that each RAM works on 4-5 of these red/orange projects and drives their impact over the next 18 months. 
+* I was invited to present a short version of my stakeholder mapping + RAM project prioritisation board at ASG Mgmt meeting next week. 
+* I had a meeting with PE from the Met Office - learned a lot. 
+* Malvika and I presented our deck on CM and RAM roles at two internal Turing team meetings - one for the PMU and one for the RPMs. 
+* I caught up with James Lloyd from Comms on Impact Stories related to ASG. We've agreed to keep each other up to date as we find out more. 
+* I met with HS from ASG Central. I started handing over the ASG impact project to her. 
+* I attended the LMDT meeting with govt stakeholders. 
+
+#### What did you struggle with?
+* Getting actionable insights from the stakeholder map itself is not obvious. 
+
+#### What would you like to work on next week?
+* Present at the ASG Mngmt meeting next week 
+* Facilitate the S&R Journal Club session this afternoon
+* Progress the red/orange/yellow mapping for RAM projects through conversations with researchers - get more meetings in the diary!
+* Attend the stakeholder workshop for E&S CTP sub-project 
+* Organise the first external contributor event for scivision - let's chat about this?
+* Reviewer duties for the TPS Leadership Call 
+
+#### Where do you need help from Kirstie?
+* Let's chat about the scivision contributor event 
+* Also, let's chat about the red/orange/yellow categories for RAM projects 
 
 ### Date: 11 August 2021
 
