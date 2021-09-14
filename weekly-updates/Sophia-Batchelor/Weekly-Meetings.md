@@ -72,7 +72,7 @@
 
 
 
-### Date: 17 August 2021
+## Date: 17 August 2021
 
 #### Who did you help this week?
 
@@ -159,7 +159,7 @@
 
 
 
-### Date: 3 August 2021
+## Date: 3 August 2021
 
 #### Who did you help this week?
 
