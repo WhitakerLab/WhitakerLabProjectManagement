@@ -16,6 +16,59 @@
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
 
+## Date: 15 September 2021
+
+*Gap between meetings due to 1 week of holiday + co-working in 1-Sept 1-1 on proposal instead* 
+
+#### Who did you help this month?
+* Lots of people with proposals & ideas & budgets
+* GaSh prep for management meeting 
+* GS with last minute presentation to Enrichment Students 
+* KP/AM on some tasks for AIM 
+* MR keeping on track with plan for budget 
+* Light lab support when people were swamped
+
+#### Who helped you this month?
+* PK with advice on progressing some work tasks 
+* AG with Flexigrant help! I would have found it eventually but so pleased she was able to help 
+* MS with developing workshop ideas and materials + good chats about longer term plans
+* CM on PM advice 
+
+#### What did you achieve? 
+* Parliamentary Inquiry workshop - overall pleased with how that turned out and glad we tried a different structure to encourage participation
+* Open Research Lunch & Learn presentation on Monday 
+* TW CM role now finally live! ✨ 
+* We ran an open call for TPS leadership volunteers & got >5 applications! 
+
+#### What bought you joy this month?
+* TPS Coffees are going really well - like the mix of chats + presentations. Aiming at 2 "themed/presentation" coffees a month + some general ones 
+* Enjoyed developing the workshop idea for the Parliamentary Inquiry 
+* Week off in the Lake District which was good for a proper reset
+* Have some days where I feel entirely on top of things 😅 
+* Implementation of TPS status slides in leadership meetings seems to be working 
+
+#### What did you struggle with?
+* Last minute TPS leadership rush this week due to technology fail/unfamiliarity - caused people stress and me extra work 😒
+* Finished my lunch & learn presentation & immediately thought of several things I could have done better, despite good feedback 
+* Problems with an internal system 💻 + communication 
+* Still chasing some people and a bit out of ideas on how to generate a response without hassling them 
+* A contract :( 
+
+#### What would you like to work on next week?
+* EPSRC calls - check we're on track as co-Is
+* Risk Register first draft
+* Newsletter (yes again, already!) 
+* Presenting on the Open Access Block Grant at the Turing Town Hall next Tues 
+
+#### Where do you need help from Kirstie?
+* ✨Short blog post on the TPS leadership call for the Turing blog ✨
+* Newsletter paragraph :) 
+* Review of risk register draft 
+* Working on development plan with GS - any thoughts or input welcome 
+
+#### Any other topics? 
+* Think that's quite enough to be going on with 🤯
+
 ## Date: 18 August 2021
 
 #### Who did you help this week?
