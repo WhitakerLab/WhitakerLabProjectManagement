@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [14 September 2021](#date-14-september-2021)
 * [1 September 2021](#date-1-september-2021)
 * [17 August 2021](#date-17-august-2021)
 * [11 August 2021](#date-11-august-2021)
@@ -21,6 +22,20 @@
 
 **For how long?** 1 hour
 
+## Date: 14 September 2021
+
+### What brought you joy this week?
+* ME - End in sight with the paper... Gosh what a journey it has been! Looking forward to a workshop I'm attending later today on using machine learning in imaging :sparkles:
+ * EK - this is so great! Well done for all your hard work and perserverance. 💪 
+### What did you achieve
+* ME - So much tidying of folder and scripts. And finally got the Book Dash application submitted :pray: Thank you again! 🧡
+ * EK - looking forward to working with you during the bookdash. 📚 💨 
+### What did you struggle with?
+* ME - A lot of family stuff happening at the same time...
+### Any other topics
+* ME - Nothing to report...
+* EK - Maternity pay and fellowships - [UKRI terms and conditions for leave](https://www.ukri.org/wp-content/uploads/2021/08/UKRI-170821-FullEconomicCostingGrantTermsConditions-Aug2021.pdf)
+
 ## Date: 1 September 2021
 
 ### What brought you joy this week?
@@ -30,7 +45,7 @@
 ### What did you struggle with?
 * ME - Nothing to report
 ### Any other topics
-* ME - Chat about task force (and their paper https://onlinelibrary.wiley.com/doi/epdf/10.1111/epi.16633) and Turing Way Book Dash application
+* ME - Chat about task force (and their paper https://onlinelibrary.wiley.com/doi/epdf/10.1111/epi.16633), Turing Way Book Dash application, and fellowship applications (thanks again for the reassurance!!)
 
 ## Date: 17 August 2021
 
