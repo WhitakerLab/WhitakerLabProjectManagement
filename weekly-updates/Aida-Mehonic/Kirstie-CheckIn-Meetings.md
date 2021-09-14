@@ -42,6 +42,8 @@
 #### Where do you need help from Kirstie?
 * Let's chat about the scivision contributor event 
 * Also, let's chat about the red/orange/yellow categories for RAM projects 
+* Calendar clash sorrows: whitaker lab meeting and the weekly scivision meeting are now both 4pm on Thu - should I try and ask scivision folks to reschedule theirs? Feels a bit heavy-handed... 
+
 
 ### Date: 11 August 2021
 
