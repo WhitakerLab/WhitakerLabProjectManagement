@@ -34,7 +34,7 @@
 * ME - A lot of family stuff happening at the same time...
 ### Any other topics
 * ME - Nothing to report...
-* EK - Maternity pay and fellowships
+* EK - Maternity pay and fellowships - [UKRI terms and conditions for leave](https://www.ukri.org/wp-content/uploads/2021/08/UKRI-170821-FullEconomicCostingGrantTermsConditions-Aug2021.pdf)
 
 ## Date: 1 September 2021
 
