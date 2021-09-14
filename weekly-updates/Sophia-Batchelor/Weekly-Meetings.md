@@ -2,7 +2,77 @@
 
 *Sophia & Kirstie meet every 2 weeks on Tuesdays*
 
-### Date: 3 August 2021
+## Date: 14 September
+
+#### Who did you help this week?
+* GA & AutSPACEs team with Citizen Science [paper draft](https://docs.google.com/document/d/1_hCeDvu3I-2XBA0nDXCsGhHPSw1N4adQ2mftbZs0hlg/edit?usp=sharing)
+* SG with 🐈 sitting 
+* 👫 with job transition
+* Colleague with Transfer Report edits/feedback
+* MIT Hackathon team with initial set up for Reality Hack
+* NZ University reached out for advice on EEGs/VR so I had a few calls 
+
+
+#### Who helped you this week?
+* I've done 2 practice transfer vivas to prep with the PGR Development team. They've been super super helpful!
+* 👫 with cooking
+* SG sent a lovely treat as a thank you for 🐈
+* EK and AB for checking in while I was deep in TR and struggling 
+* EK and AB for taking Lab Shepard while I was locked out of the Slack 
+* AB for getting me back into the Slack! 
+
+
+### Updates
+
+#### PhD Progress
+* 👩‍🎓 TRANSFER REPORT IS DONE WHOOOO!
+	* Oral defence set for the 24 September 
+	* Haven't got feedback from M & R and meetings for the rest of September have been cancelled 
+* ➡️ **Next Step**
+	* Registered Report
+	* Ethics
+
+
+#### General achievements 
+* 🏡 Moved out of Leeds 
+* 🌲 Saw Key Gardens and had a reset afternoon amongst the trees 
+* 📬 Got back into the Slack so am feeling more in touch with the going-ons! (two accounts though, don't entirely understand why)
+* ✍️ Worked on the citizen science paper with GA
+
+
+#### What did you struggle with?
+* Feeling overwhelmed and tired. It took most of last week to recharge after the work push as emotional batteries kept getting drained each day. 
+* Generally pretty homesick at the moment, the trip to Kew Gardens helped. 
+
+#### What would you like to work on in the next week?
+* Registered Report: turning the pieces of the transfer report and the excess material into an RR submission
+	* GOAL: have each section of the "what you need to include" addressed in draft form 
+* ❗Fellowship Application❗
+	* GOAL: draft done by the **16th**, 3 reviews, submit on **19th**
+* Ethics/IRB Application: draft of IRB submission for the pilot study 
+	* GOAL: full draft completed by the **24th**
+
+
+#### What brought you joy this week?
+* The (NZ) Alpine plant section of Kew Gardens, it reminded me of home so I sat and had ☕ for a while
+* SG's gift of oreos!!
+* Went for a bike ride on the super sunny day last week 
+
+
+#### Where do you need help from Kirstie?
+* Review of Fellowship Application (500 words), will send through before the **16th**
+* May need a letter of reccomendation but was going to ask M & R first
+* ❗Before the **24th**, can you read Section 6 of [this document](https://docs.google.com/document/d/1OhYr5pR88bK9jWxwx4OqFgMCT0Y_koQ6S8EoAVZZegQ/edit?usp=sharing) (the stats section of the transfer report). 
+	* I trimmed it down massively to stay under word count and feedback on 1) legibility, and 2) correctness would be appreciated.    
+
+
+#### Any other topics
+* JB has been assigned as an examiner
+* Transfer Viva is the 24 September at 12:00
+
+
+
+### Date: 17 August 2021
 
 #### Who did you help this week?
 
