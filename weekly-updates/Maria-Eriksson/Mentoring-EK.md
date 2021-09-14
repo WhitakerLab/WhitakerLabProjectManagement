@@ -26,12 +26,15 @@
 
 ### What brought you joy this week?
 * ME - End in sight with the paper... Gosh what a journey it has been! Looking forward to a workshop I'm attending later today on using machine learning in imaging :sparkles:
+ * EK - this is so great! Well done for all your hard work and perserverance. 💪 
 ### What did you achieve
 * ME - So much tidying of folder and scripts. And finally got the Book Dash application submitted :pray: Thank you again! 🧡
+ * EK - looking forward to working with you during the bookdash. 📚 💨 
 ### What did you struggle with?
 * ME - A lot of family stuff happening at the same time...
 ### Any other topics
 * ME - Nothing to report...
+* EK - Maternity pay and fellowships
 
 ## Date: 1 September 2021
 
