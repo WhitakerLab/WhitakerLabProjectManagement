@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [14 September 2021](#date-14-september-2021)
 * [1 September 2021](#date-1-september-2021)
 * [17 August 2021](#date-17-august-2021)
 * [11 August 2021](#date-11-august-2021)
@@ -20,6 +21,17 @@
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
+
+## Date: 14 September 2021
+
+### What brought you joy this week?
+* ME - End in sight with the paper... Gosh what a journey it has been! Looking forward to a workshop I'm attending later today on using machine learning in imaging :sparkles:
+### What did you achieve
+* ME - So much tidying of folder and scripts. And finally got the Book Dash application submitted :pray: Thank you again! 🧡
+### What did you struggle with?
+* ME - A lot of family stuff happening at the same time...
+### Any other topics
+* ME - Nothing to report...
 
 ## Date: 1 September 2021
 
