@@ -1,5 +1,6 @@
 # Sarah's Fortnightly Mentoring Meetings
 
+- [2021-09-16](#date-2021-09-16)
 - [2021-08-18](#date-2021-08-18)
 - [2021-08-05](#date-2021-08-05)
 - [2021-07-22](#date-2021-07-22)
@@ -14,6 +15,32 @@
 - [Template](#template)
 
 ---
+
+## Date: 2021-09-16
+
+### Who did you help this week?
+
+- Helped Ryan Abernathey get access to a new Pangeo hub for his course
+
+### Who helped you this week?
+
+- Yuvi and Damián with various debugging
+- The Lab with finding motivation/inspiration to get my TPS Coffee talk done
+
+### What did you achieve?
+
+- Prepped my talk for TPS Coffee on my journey as an SSI Fellow
+- Deployed a production version of a Pangeo hub for Ryan to use in his classes
+
+### What did you struggle with?
+
+- Lots of technical stuff!
+  Google's node auto-provisioning is not working as we expected and it's a feature we'd like to use.
+
+### What would you like to work on next week?
+
+- Some authentication work to diversify the range of options 2i2c-managed hubs can offer
+- Polishing off my SSI Fellow talk for the Launch Webinar
 
 ## Date: 2021-08-18
 
