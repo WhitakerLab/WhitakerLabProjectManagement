@@ -2,6 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [15 September 2021](#date-15-september-2021)
 * [18 August 2021](#date-18-august-2021)
 * [04 August 2021](#date-04-august-2021)
 * [21 July 2021](#date-21-july-2021)
@@ -22,37 +23,57 @@
 
 #### Who did you help this month?
 * Lots of people with proposals & ideas & budgets
-* GaSh prep for management meeting 
+  * KW: Yes you did! 🙏
+* GaSh prep for management meeting
 * GS with last minute presentation to Enrichment Students 
+  * KW: Fantastic! Phew!
 * KP/AM on some tasks for AIM 
+  * KW: Thank you!
 * MR keeping on track with plan for budget 
+  * KW: Well done - really valuable!
 * Light lab support when people were swamped
+  * KW: Thank you!
 
 #### Who helped you this month?
 * PK with advice on progressing some work tasks 
+  * KW: Phew! Thank you!
 * AG with Flexigrant help! I would have found it eventually but so pleased she was able to help 
+  * KW: Also SO helpful!
 * MS with developing workshop ideas and materials + good chats about longer term plans
+  * KW: Great stuff!
 * CM on PM advice 
+  * KW: :raised_hands:
 
 #### What did you achieve? 
 * Parliamentary Inquiry workshop - overall pleased with how that turned out and glad we tried a different structure to encourage participation
+  * KW: I really loved it - well done!
 * Open Research Lunch & Learn presentation on Monday 
+  * KW: So glad you gave this - thank you!
 * TW CM role now finally live! ✨ 
-* We ran an open call for TPS leadership volunteers & got >5 applications! 
+  * KW: Excellent!
+* We ran an open call for TPS leadership volunteers & got >5 applications!
+  * KW: YES WE DID! WOOOOO!
 
 #### What bought you joy this month?
-* TPS Coffees are going really well - like the mix of chats + presentations. Aiming at 2 "themed/presentation" coffees a month + some general ones 
+* TPS Coffees are going really well - like the mix of chats + presentations. Aiming at 2 "themed/presentation" coffees a month + some general ones
+  * KW: Yes - agree - loving these short opportunities to connect ☕
 * Enjoyed developing the workshop idea for the Parliamentary Inquiry 
 * Week off in the Lake District which was good for a proper reset
 * Have some days where I feel entirely on top of things 😅 
+  * KW: WHAT IS THAT LIKE I AM CURIOUS TO KNOW 😜 (But also - YAY - well done!)
 * Implementation of TPS status slides in leadership meetings seems to be working 
+  * KW: Really liking the slides - well done.
+  * Lets add Skills in as a box for BM to complete.
 
 #### What did you struggle with?
 * Last minute TPS leadership rush this week due to technology fail/unfamiliarity - caused people stress and me extra work 😒
+  * KW: Ah, so sad. Lesson learned: flexigrant sucks? I feel like people before you have come to similar conclusions 😭
 * Finished my lunch & learn presentation & immediately thought of several things I could have done better, despite good feedback 
 * Problems with an internal system 💻 + communication 
 * Still chasing some people and a bit out of ideas on how to generate a response without hassling them 
+  * KW: I've sent a chaser 🤞
 * A contract :( 
+  * KW: I'm glad you've got support on this - how frustrating.
 
 #### What would you like to work on next week?
 * EPSRC calls - check we're on track as co-Is
@@ -62,12 +83,16 @@
 
 #### Where do you need help from Kirstie?
 * ✨Short blog post on the TPS leadership call for the Turing blog ✨
+  * KW: 🙀 😜 - sounds good! Get some of the information from the twitter thread ✔️
 * Newsletter paragraph :) 
+  * KW: I can write something about reviewing our applications 🙌 
 * Review of risk register draft 
+  * KW: Honestly, I think I'll need walking through that - so maybe we can find a time to zoom?
 * Working on development plan with GS - any thoughts or input welcome 
 
 #### Any other topics? 
 * Think that's quite enough to be going on with 🤯
+  * KW: Absolutely!! 
 
 ## Date: 18 August 2021
 
