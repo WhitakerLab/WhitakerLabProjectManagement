@@ -14,35 +14,55 @@
 
 #### Who did you help over the past fortnight? 
 * SG - mentoring chat - we're now planning thematic chats - https://hackmd.io/@sgibson91/mentor-meeting-planning
+  * KW: Very cool - can you share this in the lab slack channel - I think others would likely find it very helpful too!
+  * (I have been thinking about needing to check back in with folks for mentoring, especially with new starters!)
 
 #### Who helped you this week?
 * HMc - lots of regular check-ins
+  * KW: Great
 
 #### What did you achieve?
 * Main thing: Completed the (first version of the) impact narrative & stakeholder mapping project and presented the results to ASG Central - received good feedback!
-* Populated the RAM repo with 29 research applications from across ASG (https://github.com/alan-turing-institute/ASG_RAM/projects). I also provisionally assigned some of them as red (very likely to have socio-economic benefit within 18 months), orange (likely) and yellow (needs more time for soc-econ benefit) - ASG Central liked this approach and are expecting to see 10-15 projects in the red & orange category. They also suggested that each RAM works on 4-5 of these red/orange projects and drives their impact over the next 18 months. 
-* I was invited to present a short version of my stakeholder mapping + RAM project prioritisation board at ASG Mgmt meeting next week. 
+  * KW: Well done!!
+  * Can you find a slot for a lab meeting? That would be great to share and discuss!
+* Populated the RAM repo with 29 research applications from across ASG (https://github.com/alan-turing-institute/ASG_RAM/projects). I also provisionally assigned some of them as red (very likely to have socio-economic benefit within 18 months), orange (likely) and yellow (needs more time for soc-econ benefit) - ASG Central liked this approach and are expecting to see 10-15 projects in the red & orange category. They also suggested that each RAM works on 4-5 of these red/orange projects and drives their impact over the next 18 months.
+  * KW: 🔥 for hot! 😂 
+  * Good discussion about making sure RAMs don't end up in silos - co-working, bringing questions for the other 🐏🐏 and having rotating spotlights for whiteboarding conversations 👍
+* I was invited to present a short version of my stakeholder mapping + RAM project prioritisation board at ASG Mgmt meeting next week.
+  * KW: Looking forward to it!
 * I had a meeting with PE from the Met Office - learned a lot. 
-* Malvika and I presented our deck on CM and RAM roles at two internal Turing team meetings - one for the PMU and one for the RPMs. 
-* I caught up with James Lloyd from Comms on Impact Stories related to ASG. We've agreed to keep each other up to date as we find out more. 
+* MS and I presented our deck on CM and RAM roles at two internal Turing team meetings - one for the PMU and one for the RPMs. 
+  * KW: GREAT - really glad you're shopping this presentation around!
+* I caught up with JL from Comms on Impact Stories related to ASG. We've agreed to keep each other up to date as we find out more. 
+  * KW: That sounds really good - and very related to AR's role when he starts!
 * I met with HS from ASG Central. I started handing over the ASG impact project to her. 
-* I attended the LMDT meeting with govt stakeholders. 
+  * KW: She seems really good - I'm glad you're able to hand over some of this work to her ✔️
+* I attended the LMDT meeting with govt stakeholders.
+  * KW: Great! Glad you went - thank you!
+* Drafted job description for DSG RAM 💻🐏
 
 #### What did you struggle with?
-* Getting actionable insights from the stakeholder map itself is not obvious. 
+* Getting actionable insights from the stakeholder map itself is not obvious.
+  * KW: Accountability for the win!
 
 #### What would you like to work on next week?
 * Present at the ASG Mngmt meeting next week 
 * Facilitate the S&R Journal Club session this afternoon
+  * KW: Thank you for coordinating this - I hope it goes really well!
 * Progress the red/orange/yellow mapping for RAM projects through conversations with researchers - get more meetings in the diary!
-* Attend the stakeholder workshop for E&S CTP sub-project 
+  * KW: And maybe start to think about meetings with AC too? Start date coming up soon!
+    * (Oh, maybe not as soon - keep rocking!)
+* Attend the stakeholder workshop for E&S CTP sub-project
+  * KW: Super interesting - update that stakeholder map 😉
 * Organise the first external contributor event for scivision - let's chat about this?
 * Reviewer duties for the TPS Leadership Call 
+  * KW: Exciiiiting!
 
 #### Where do you need help from Kirstie?
 * Let's chat about the scivision contributor event 
 * Also, let's chat about the red/orange/yellow categories for RAM projects 
-* Calendar clash sorrows: whitaker lab meeting and the weekly scivision meeting are now both 4pm on Thu - should I try and ask scivision folks to reschedule theirs? Feels a bit heavy-handed... 
+* Calendar clash sorrows: whitaker lab meeting and the weekly scivision meeting are now both 4pm on Thu - should I try and ask scivision folks to reschedule theirs? Feels a bit heavy-handed...
+  * KW: Would you mind, just in case there's a way for them to schoosh by an hour? (Feel free to cc me and say sorry!)
 
 
 ### Date: 11 August 2021
