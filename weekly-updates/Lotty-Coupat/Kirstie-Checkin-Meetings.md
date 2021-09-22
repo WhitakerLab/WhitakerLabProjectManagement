@@ -2,6 +2,7 @@
 
 *Meetings with Kirstie approximately every 2 weeks*
 
+* [22 September 2021](#date-22-september-2021)
 * [8 September 2021](#date-8-september-2021)
 * [11 August 2021](#date-11-august-2021) 
 * [27 July 2021](#date-27-july-2021)
@@ -9,6 +10,41 @@
 * [09 June 2021](#date-09-june-2021)
 * [01 June 2021](#date-01-june-2021)
 * [28 April 2021](#date-28-april-2021)
+
+### Date 22 September 2021
+
+#### Who did you help this week?
+
+- GA with the CC Summit slides
+
+#### Who helped you this week?
+
+- KW with CC Summit slides (thank you!) 
+- Support from KW and HB with my absence (thank you again) 
+
+#### What did you achieve?
+
+- Sent out feedback on personal performance and the project
+- EPR write up (cutting to 300 and 100 words was difficult)
+- CC Summit slides
+- Presentation on my secondment at the lab meeting
+
+#### What did you struggle with?
+
+- Time associated with leave and absence, I feel like I didn't get enough stuff done! 💔
+
+#### What would you like to work on next week?
+
+- Prepping for EPR on the 29th at 2pm 
+- Collating all the feedback
+- CC Summit
+- Half year report for AutSPACEs
+- Handover for community management 
+- Onboard Soledad
+
+#### Where do you need help from Kirstie?
+
+- EPR write up, we have a deadline of uploading all docs by COP 27th September
 
 ### Date 8 September 2021
 
