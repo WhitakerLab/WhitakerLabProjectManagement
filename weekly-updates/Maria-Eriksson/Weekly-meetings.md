@@ -38,7 +38,7 @@
 * Finished MRI status classification
 * Re-ran analyses for paper
 * Presented at journal club
-* Attended ILAE British branch conference
+* Attended ILAE British branch conference (talk on modelling in epilepsy [John Terry](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/terry-john.aspx))
 * Sent off Turing Book Dash application
 * Prepped data for predictive model
 * Attended "How to be FAIR when working with administrative data"; maybe suggest presenting Turing Way at next meeting? 
