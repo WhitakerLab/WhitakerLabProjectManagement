@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [29 September 2021](#date-23-june-2021)
 * [23 June 2021](#date-23-june-2021)
 * [9 June 2021](#date-9-june-2021)
 * [26 May 2021](#date-26-may-2021)
@@ -11,6 +12,46 @@
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 29 September 2021
+
+#### Who did you help this week?
+
+* NB and AP - onboarding info and meeting 
+* ME - been helping with bookdash application and sensitive data writing.
+
+#### Who helped you this week?
+
+MS - helping me to sort out turing way chapter. 
+
+#### What did you achieve?
+
+* Set up regular meeting with NB and students - also inital meeting with SG. Sent more resources to NB for the data paper.
+* Turing Way workshop at Open Science FAIR. 
+* Academic authorship chapter now in Turing Way.
+* Working on generic templates of project procedures for sensitive data chapter.
+* 
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Kirstie?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
 
 ### Date: 23 June 2021
 
