@@ -22,7 +22,7 @@
 
 #### Who helped you this week?
 
-MS - helping me to sort out turing way chapter. 
+* MS - helping me to sort out turing way chapter. 
 
 #### What did you achieve?
 
