@@ -33,15 +33,23 @@
 * BSc student re neuropsychology project
 * Clinician w data
 
+#### Who helped you this week?
+
+* SAW & clinicians for MRI classifications
+* KW choosing between plots
+  * KW: LOVE helping on plots 😂
+
 #### What did you achieve?
 
 * Finished MRI status classification
 * Re-ran analyses for paper
+  * KW: Very cool
 * Presented at journal club
 * Attended ILAE British branch conference (talk on modelling in epilepsy [John Terry](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/terry-john.aspx))
 * Sent off Turing Book Dash application
 * Prepped data for predictive model
-* Attended "How to be FAIR when working with administrative data"; maybe suggest presenting Turing Way at next meeting? 
+* Attended "How to be FAIR when working with administrative data"; maybe suggest presenting Turing Way at next meeting?
+  * KW: Sounds great - go for it!
 * Attended workshops on using machine learning to combine MRI data
 * Finished MRI pipeline (BIDS + pre and post scans)
 
@@ -57,6 +65,7 @@
 #### Where do you need help from Kirstie?
 
 * Feedback on paper once I send it around (hellooo repeat, but purely my fault!)
+  * KW: 😂
 
 ### Date: 1 September 2021
 
