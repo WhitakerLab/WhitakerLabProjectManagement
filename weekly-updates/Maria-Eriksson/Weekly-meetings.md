@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [23 September 2021](#date-23-september-2021)
 * [1 September 2021](#date-1-september-2021)
 * [18 August 2021](#date-18-august-2021)
 * [8 July 2021](#date-8-july-2021)
@@ -24,6 +25,38 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 23 September 2021
+
+#### Who did you help this week?
+
+* BSc student re neuropsychology project
+* Clinician w data
+
+#### What did you achieve?
+
+* Finished MRI status classification
+* Re-ran analyses for paper
+* Presented at journal club
+* Attended ILAE British branch conference
+* Sent off Turing Book Dash application
+* Prepped data for predictive model
+* Attended "How to be FAIR when working with administrative data"; maybe suggest presenting Turing Way at next meeting? 
+* Attended workshops on using machine learning to combine MRI data
+* Finished MRI pipeline (BIDS + pre and post scans)
+
+#### What did you struggle with?
+
+* Placeholder
+
+#### What would you like to work on next week?
+
+* Finish re-writing the original paper's discussion
+* Prep MRI data for meeting with ["resector" developer](https://github.com/fepegar) (revelant paper [here](https://link.springer.com/article/10.1007/s11548-021-02420-2))
+
+#### Where do you need help from Kirstie?
+
+* Feedback on paper once I send it around (hellooo repeat, but purely my fault!)
 
 ### Date: 1 September 2021
 
