@@ -21,17 +21,24 @@
 
 - KW with CC Summit slides (thank you!) 
 - Support from KW and HB with my absence (thank you again) 
+  - KW: This was low engagement on my part - who doesn't wish someone well when they're unexpectedly off work?!?
+  - (I know there are people who are a bit rubbish, so thank you - I'm glad I was supportive!)
 
 #### What did you achieve?
 
 - Sent out feedback on personal performance and the project
+  - KW: This is great - well done 🌺
 - EPR write up (cutting to 300 and 100 words was difficult)
+  - KW: In my calendar for Friday morning to add my comments ✔️
 - CC Summit slides
+  - KW: Excited for the presentation - I hope it goes well!
 - Presentation on my secondment at the lab meeting
+  - KW: Loved this!
 
 #### What did you struggle with?
 
 - Time associated with leave and absence, I feel like I didn't get enough stuff done! 💔
+  - KW: Don't worry! Even without time off (for whatever reason!) not every 2 week period needs to be maximum productivity! 🌻
 
 #### What would you like to work on next week?
 
@@ -39,12 +46,20 @@
 - Collating all the feedback
 - CC Summit
 - Half year report for AutSPACEs
-- Handover for community management 
+  - KW: This will be really valuable - thank you!
+- Handover for community management
+  - KW: There's a lot inside of this
+    - Infrastructure weekly calls -- SL
+    - Meet ups -- Not sure - to be discussed on Thursday
+    - Newsletters - Not sure - likely GA
+    - Project updates - Not sure - likely GA w SL?
 - Onboard Soledad
+  - KW: The ultimate test of the onboarding pack 😉
 
 #### Where do you need help from Kirstie?
 
 - EPR write up, we have a deadline of uploading all docs by COP 27th September
+  - KW 👀 On it!
 
 ### Date 8 September 2021
 
