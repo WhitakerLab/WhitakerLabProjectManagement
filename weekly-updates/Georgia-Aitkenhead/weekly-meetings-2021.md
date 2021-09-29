@@ -26,15 +26,17 @@ Georgia's weekly meeting notes.
 
 #### Who helped you this week?
 
-* RT and JK helped me and Lotty with planning Milestone 3 work in dev session
+* RT and JK helped me and LC with planning Milestone 3 work in dev session
+  * KW: Fab!
 * SF helped with presentations  
 
 #### What did you achieve?
 
 * OH community call
 * CC summit presentation
-* Auistica environments workshop
+* Autistica environments workshop
 * Moderation summaries sent out! Made some adjustments based on feedback
+  * KW: Aaaaaaaah - well done!! ✨
 
 #### What did you struggle with?
 
@@ -42,13 +44,18 @@ Georgia's weekly meeting notes.
 
 #### Where do you need help from Kirstie?
 
-* Planning LC handover 
+* Planning LC handover
+  * KW: Being the main point of contact, newsletters, project progress slide
+    * SL: Meet ups, GitHub tidying, dev sessions (led by RT)
 
 #### What would you like to work on next week?
 
 * TPS lightning talk 
+  * KW: Today!! 🙀 😜
 * SeptembRSE video for MS
+  * KW: Great ✔️
 * Position paper 
+  * KW: Fab!
 
 ### Date: 01 September 2021
 
