@@ -23,16 +23,20 @@
 
 **For how long?** 1 hour
 
-## Date: 14 September 2021
+## Date: 1 October 2021
 
 ### What brought you joy this week?
 * ME - FINALLY got the first draft sent off to KW :tada: 
+ * EK - AMAZING!!! :tada:
 ### What did you achieve
 * ME - See above hehehe. Have done some more MRI stuff and started on the prediction paper :+1:
+ * EK - this is great! :star:
 ### What did you struggle with?
 * ME - Nothing to report...
 ### Any other topics
 * ME - Nothing to report...
+* EK - wWe talked about getting help from busy people with our work.
+* Planning session for Turing way bookdash on Sensitive data/topics - make a planning document. Expanding out from personal data to sensitive data overall - different examples.
 
 ## Date: 14 September 2021
 
