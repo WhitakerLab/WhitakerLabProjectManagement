@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [1 October 2021](#date-1-october-2021)
 * [14 September 2021](#date-14-september-2021)
 * [1 September 2021](#date-1-september-2021)
 * [17 August 2021](#date-17-august-2021)
@@ -25,6 +26,17 @@
 ## Date: 14 September 2021
 
 ### What brought you joy this week?
+* ME - FINALLY got the first draft sent off to KW :tada: 
+### What did you achieve
+* ME - See above hehehe. Have done some more MRI stuff and started on the prediction paper :+1:
+### What did you struggle with?
+* ME - Nothing to report...
+### Any other topics
+* ME - Nothing to report...
+
+## Date: 14 September 2021
+
+### What brought you joy this week?
 * ME - End in sight with the paper... Gosh what a journey it has been! Looking forward to a workshop I'm attending later today on using machine learning in imaging :sparkles:
  * EK - this is so great! Well done for all your hard work and perserverance. 💪 
 ### What did you achieve
@@ -34,7 +46,7 @@
 * ME - A lot of family stuff happening at the same time...
 ### Any other topics
 * ME - Nothing to report...
-* EK - Maternity pay and fellowships - [UKRI terms and conditions for leave](https://www.ukri.org/wp-content/uploads/2021/08/UKRI-170821-FullEconomicCostingGrantTermsConditions-Aug2021.pdf)
+* EK - Pay and fellowships - [UKRI terms and conditions for leave](https://www.ukri.org/wp-content/uploads/2021/08/UKRI-170821-FullEconomicCostingGrantTermsConditions-Aug2021.pdf)
 
 ## Date: 1 September 2021
 
