@@ -35,8 +35,8 @@
 * ME - Nothing to report...
 ### Any other topics
 * ME - Nothing to report...
-* EK - wWe talked about getting help from busy people with our work.
-* Planning session for Turing way bookdash on Sensitive data/topics - make a planning document. Expanding out from personal data to sensitive data overall - different examples.
+* EK - We talked about getting help from busy people with our work.
+* Planning session for Turing way bookdash on Sensitive data/topics - make a planning document. Expanding out from personal data to sensitive data overall - different examples. Notes: https://hackmd.io/DRiGvOgbRdy9YkYdUzZC7A.
 
 ## Date: 14 September 2021
 
