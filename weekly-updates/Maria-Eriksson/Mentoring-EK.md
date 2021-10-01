@@ -23,7 +23,7 @@
 
 **For how long?** 1 hour
 
-## Date: 14 September 2021
+## Date: 1 October 2021
 
 ### What brought you joy this week?
 * ME - FINALLY got the first draft sent off to KW :tada: 
