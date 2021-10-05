@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [7 October 2021](#date-7-october-2021)
 * [23 September 2021](#date-23-september-2021)
 * [1 September 2021](#date-1-september-2021)
 * [18 August 2021](#date-18-august-2021)
@@ -25,6 +26,38 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 7 October 2021
+
+#### Who did you help this week?
+
+* BSc student re neuropsychology project (SHE HAS SUBMITTED WOHOO)
+
+#### Who helped you this week?
+
+* PhD student w modelling
+
+#### What did you achieve?
+
+* Presented at PhD club
+* Compared overlap (dice score) between resection masks created manually and [automatically](https://github.com/fepegar) (seems promising...)
+* Ran correlations between all clinical variables
+* Created grid-plots to show 1) which tests were used to run the correlation analyses, 2) which relationships were significant, and 3) which relationships survived correction for multiple comparison 
+* Started on logistic regression analyses
+
+#### What did you struggle with?
+
+* Nothing to report
+
+#### What would you like to work on next week?
+
+* Finish logistic regression analyses
+
+#### Where do you need help from Kirstie?
+
+* Feedback on paper
+* Plots to show post hoc comparisons (current plots are very ugly 😢) 
+* Writing a letter to the journal editors when submitted a paper (Lancet Neurology)
 
 ### Date: 23 September 2021
 
