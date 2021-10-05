@@ -59,7 +59,9 @@
 * Feedback on paper
 * Plots showing post hoc comparisons (current plots are very ugly 😢) 
 * Plot showing showing probability of achieving seizure freedom by duration of epilepsy & different aetiologies (attempt to replicate Lamberink et al. 2020)
-  * How plot individual data point as they did?
+  * Should aetiologies with small N (less than 20) be excluded?
+  * How also plot encephalitis (currently the reference value)
+  * How plot individual data point as Lamberink et al. (2020) did?
 * Writing a letter to the journal editors when submitted a paper (Lancet Neurology)
 
 ### Date: 23 September 2021
