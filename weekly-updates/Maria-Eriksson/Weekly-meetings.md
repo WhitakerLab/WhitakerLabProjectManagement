@@ -42,8 +42,9 @@
 * Presented at PhD club
 * Compared overlap (dice score) between resection masks created manually and [automatically](https://github.com/fepegar) (seems promising...)
 * Ran correlations between all clinical variables
-* Created grid-plots to show 1) which tests were used to run the correlation analyses, 2) which relationships were significant, and 3) which relationships survived correction for multiple comparison 
-* Started on logistic regression analyses
+  * Created grid-plots to show 1) which tests were used to run the correlation analyses, 2) which relationships were significant, and 3) which relationships survived correction for multiple comparison
+* Created plot showing showing probability of achieving seizure freedom by duration of epilepsy & different aetiologies
+* Started on logistic regression model
 
 #### What did you struggle with?
 
@@ -56,7 +57,9 @@
 #### Where do you need help from Kirstie?
 
 * Feedback on paper
-* Plots to show post hoc comparisons (current plots are very ugly 😢) 
+* Plots showing post hoc comparisons (current plots are very ugly 😢) 
+* Plot showing showing probability of achieving seizure freedom by duration of epilepsy & different aetiologies (attempt to replicate Lamberink et al. 2020)
+  * How plot individual data point as they did?
 * Writing a letter to the journal editors when submitted a paper (Lancet Neurology)
 
 ### Date: 23 September 2021
