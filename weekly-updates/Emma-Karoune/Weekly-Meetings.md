@@ -17,37 +17,37 @@
 
 #### Who did you help this week?
 
-* NB and AP - onboarding info and meeting 
-* ME - been helping with bookdash application and sensitive data writing.
+* NB and AP - onboarding info, meetings and training 
+* ME - been helping with bookdash application and writing about sensitive data.
 
 #### Who helped you this week?
 
-* MS - helping me to sort out turing way chapter. 
+* MS - helping me to sort out turing way chapter and she is also being an amazing mentor for my SSI Fellowship.
 
 #### What did you achieve?
 
 * Set up regular meeting with NB and students - also inital meeting with SG. Sent more resources to NB for the data paper.
+* Amol onboarding - project repo tour, Hackmd and Github training, linking him up with others to get on with data paper. 
 * Turing Way workshop at Open Science FAIR. 
 * Academic authorship chapter now in Turing Way.
 * Working on generic templates of project procedures for sensitive data chapter.
-* 
+* FAIR Phytoliths now fully started - we had a launch day with EOSC-life, onboarding new postdoc based in Spain and started FAIR assessment. Also we have now formed an international committee for open phytolith science in the International Phytolith Society. 
+* Been planning a workshop on reproducibility in archaeology at Durham Uni, which is this friday afternoon. Also got open science skills workshops coming up in November.   
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* Everything ok apart from still struggling with ESOC-funding 🤯
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Writing about sensitive data/managing these types of projects for turing way in prep for bookdash - co-working with Maria.
+* Working with Amol on data paper - we are going through the wiki and data management repo to fill in any gaps. 
+* Keeping on top of authorship prep for data paper.   
 
 #### Where do you need help from Kirstie?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Data paper - data access procedure and clarity about whether dataset is just for covid or can be for acute care?
+* Chat about National Collections project - how could I get Turing involved in this as I think it something great for Turing 2.0?
 
 #### Any other topics
 
