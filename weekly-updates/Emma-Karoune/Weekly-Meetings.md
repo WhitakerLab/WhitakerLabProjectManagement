@@ -27,7 +27,7 @@
 #### What did you achieve?
 
 * Set up regular meeting with NB and students - also inital meeting with SG. Sent more resources to NB for the data paper.
-* Amol onboarding - project repo tour, Hackmd and Github training, linking him up with others to get on with data paper. 
+* AP onboarding - project repo tour, Hackmd and Github training, linking him up with others to get on with data paper. 
 * Turing Way workshop at Open Science FAIR. 
 * Academic authorship chapter now in Turing Way.
 * Working on generic templates of project procedures for sensitive data chapter.
@@ -40,14 +40,15 @@
 
 #### What would you like to work on next week?
 
-* Writing about sensitive data/managing these types of projects for turing way in prep for bookdash - co-working with Maria.
-* Working with Amol on data paper - we are going through the wiki and data management repo to fill in any gaps. 
+* Writing about sensitive data/managing these types of projects for turing way in prep for bookdash - co-working with ME.
+* Working with AP on data paper - we are going through the wiki and data management repo to fill in any gaps. 
 * Keeping on top of authorship prep for data paper.   
 
 #### Where do you need help from Kirstie?
 
 * Data paper - data access procedure and clarity about whether dataset is just for covid or can be for acute care?
-* Chat about National Collections project - how could I get Turing involved in this as I think it something great for Turing 2.0?
+* Academic authorship paper - I have talked to MS about this and we need to all meet to discuss a plan, journal, sections and others we want involved such as living with machines, etc.
+* Chat about National Collections project - how could I get Turing involved in this as I think it something great for Turing 2.0? - maybe we can talk more about this at one of your office hours?
 
 #### Any other topics
 
