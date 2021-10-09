@@ -1,5 +1,221 @@
 # Sophia Bi-Weekly Updates
 
+* [14 September 2021](#date-14-september-2021)
+
+*Sophia & Kirstie meet every 2 weeks on Tuesdays*
+
+## Date: 14 September 2021
+
+#### Who did you help this week?
+* GA & AutSPACEs team with Citizen Science [paper draft](https://docs.google.com/document/d/1_hCeDvu3I-2XBA0nDXCsGhHPSw1N4adQ2mftbZs0hlg/edit?usp=sharing)
+  * KW: THANK YOU - looks great 🌈
+* SG with 🐈 sitting 
+* 👫 with job transition
+  * KW: Fantastic - congratulations 🎊 
+* Colleague with Transfer Report edits/feedback
+* MIT Hackathon team with initial set up for Reality Hack
+* NZ University reached out for advice on EEGs/VR so I had a few calls 
+
+#### Who helped you this week?
+* I've done 2 practice transfer vivas to prep with the PGR Development team. They've been super super helpful!
+  * KW: REALLY good - well done!
+* 👫 with cooking
+* SG sent a lovely treat as a thank you for 🐈
+* EK and AB for checking in while I was deep in TR and struggling 
+* EK and AB for taking Lab Shepard while I was locked out of the Slack 
+* AB for getting me back into the Slack! 
+  * KW: 🔓 YAY!
+
+### Updates
+
+#### PhD Progress
+* 👩‍🎓 TRANSFER REPORT IS DONE WHOOOO!
+  * Oral defence set for the 24 September 
+  * Haven't got feedback from M & R and meetings for the rest of September have been cancelled 
+* ➡️ **Next Step**
+  * Registered Report
+  * Ethics
+
+#### General achievements 
+* 🏡 Moved out of Leeds 
+* 🌲 Saw Key Gardens and had a reset afternoon amongst the trees 
+* 📬 Got back into the Slack so am feeling more in touch with the going-ons! (two accounts though, don't entirely understand why)
+* ✍️ Worked on the citizen science paper with GA
+
+#### What did you struggle with?
+* Feeling overwhelmed and tired. It took most of last week to recharge after the work push as emotional batteries kept getting drained each day. 
+* Generally pretty homesick at the moment, the trip to Kew Gardens helped. 
+
+#### What would you like to work on in the next week?
+* Registered Report: turning the pieces of the transfer report and the excess material into an RR submission
+  * GOAL: have each section of the "what you need to include" addressed in draft form 
+* ❗Fellowship Application❗
+  * GOAL: draft done by the **16th**, 3 reviews, submit on **19th**
+* Ethics/IRB Application: draft of IRB submission for the pilot study 
+  * GOAL: full draft completed by the **24th**
+
+#### What brought you joy this week?
+* The (NZ) Alpine plant section of Kew Gardens, it reminded me of home so I sat and had ☕ for a while
+* SG's gift of oreos!!
+* Went for a bike ride on the super sunny day last week 
+
+#### Where do you need help from Kirstie?
+* Review of Fellowship Application (500 words), will send through before the **16th**
+* May need a letter of recommendation but was going to ask M & R first
+  * KW: Maybe try MB?
+* ❗Before the **24th**, can you read Section 6 of [this document](https://docs.google.com/document/d/1OhYr5pR88bK9jWxwx4OqFgMCT0Y_koQ6S8EoAVZZegQ/edit?usp=sharing) (the stats section of the transfer report). 
+  * I trimmed it down massively to stay under word count and feedback on 1) legibility, and 2) correctness would be appreciated.    
+  * KW: Interesting exploration! Make up some data into a csv file and use it to demonstrate the findings.
+    * I think you're looking at a 2 way repeated measures ANOVA, but I'm not clear on how the covariates come in so that might need some exploration. Same with the Bayes for equivalence.
+
+#### Any other topics
+* JB has been assigned as an examiner
+* Transfer Viva is the 24 September at 12:00
+  * KW: Exciting! 💪
+
+## Date: 17 August 2021
+
+#### Who did you help this week?
+
+* ADHD Hive (the adhd support community I'm part of) launched! 
+ * I helped set up their TikTok page and recorded some poems for them 🎙️
+* SG borrowing suitcase for trip :suitcase:   
+* Had a good call with GA discussing AutSPACEs and helped support decision making
+ * Had a good brain storm/work session about the 'papers' and started pulling together pieces of the docs together 
+* 👫 has been quite ill so I did a big cook to support us both and have been taking care of them a bit 
+* connected a VR person to another VR person! 
+ 
+
+#### Who helped you this week?
+
+* had a good coffee chat with SG
+* 👫 supported me building the PC (gave me their old graphics card which was what actually made it possible!) 
+* Had a great chat with a friend from SF 
+* KW with a massive brain strom and problem soliving logistics session that put me on the right path 
+* the lab/EK checked in on me after a quiet time on slack and it was just the most lovely 'people care' moment that had me in tears out of gratitude 
+* AB is looking into sorting out the Slack lock out 
+
+
+#### What did you achieve?
+
+##### Based off last meeting's goals 
+* I was more mindful about the ways in which I can help support people (in all ways) 
+* Website (it's a few hours away from getting finished - with no automation yet), and then I'll update git
+  * ❗ hampered by computer breaking down (the issue hadn't been fixed) so I couldn't progress   
+* Resume
+  * As per our chelmsford chats, I went all in on the phd and withdrew resources from window shopping jobs 
+  * although I had already done up a snazzy resume so that's now there and has been updated for 2021 
+* Research themes with descriptions
+  * Have created doc for those and iterated on them so they're snazzy! (ie. v1 had the two themes - remote research and transfer of learning. v2 has 'everything is about learning' which creates a smoother narrative. what was written for remote research and citizen science can be used for grant apps and other work)   
+* Current research description
+  * This is in a MVP/bullet point state where there's an outline but it's not fleshed out  
+* ~~The~~ Some key papers pulled out and in a slide deck
+  * not in a slide deck, but in a doc! 
+
+
+##### General achievements 
+
+* 👩‍🎓 Transfer Report 
+  * Made epic level progress!! 
+  * Have reached word count! (yay!) so am less worried about that and now get to fill in the blanks and choose the best way to express things 
+  * (also am still worried about it but the chance of failure is now so much lower) 
+  * this week will be filling in the gaps (writing) and then the efforts will be about improvements as opposed to fixing leaks. 
+* 🖥️ Built a PC!! It's my first PC build!! AND I HAVE A WORKING COMPUTER AGAIN!! 
+* Done draft of bio for the whitaker website 
+  * next step is to add it to the doc 
+* Made it back to a morning coffee
+* Have been going on awesome walks more recently and finding the groove 
+* Am generally just reaping the rewards of the work put in to find the routine/balance and that's pretty cool 
+
+
+#### What did you struggle with?
+
+* Anything and everything computer related 
+* Had a very disheartening and unhelpful monday meeting about the project which I just struggled with in general as it made me loose steam
+* energy drain from life immoveables stunted progress 
+* Getting the courage to email PM about the TR 
+  * I completed an interim step as a consolidation prize and emailed the head of PGR studies to 1) ask advice on emailing PM, 2) outline the worries, 3) ask advice on the worries. 
+    * I haven't heard back yet. 
+
+#### What would you like to work on in the next week?
+
+* Packing up apt in Leeds (scheduled for tomorrow and thursday)
+* Transfer Report (14 days to hand in)  
+
+#### What brought you joy this week?
+
+* How pretty the PC is 
+* the fact that I actually built a PC! (It's way easier due to the popularity of the tech now but I was always too worried/lacking the knowledge to do it!)
+
+
+#### Where do you need help from Kirstie?
+
+* Advice on what to cut out/down for the Transfer Report 
+* 10-15 mins brainstorm time on maze vs. sandbox 
+
+
+#### Any other topics
+
+* I know that I should have emailed PM and started trying to get in touch with new supervisors...I'm just scared of rocking the boat and ending up in the water. 
+
+
+
+## Date: 3 August 2021
+
+#### Who did you help this week?
+
+* I shared my 'ramping back to work' plan with the lab and have heard that it was cool and helpful 
+  * KW: YAY!
+* DL - a canandian vr colleague who needed some info/brain storming about their vr projects
+  * KW: Also fun!
+
+#### Who helped you this week?
+
+* I met in hyde park :deciduous_tree: with MS for a lovely chit chat 
+  * KW: :deciduous_tree: indeed!
+* Monday coffee chats were amaizng this week! General thanks to AB, MS, and SG for being peppy and laughing about things
+  * KW: FAB!
+* Last week AB & AM had an awesome lab meeting on negotiations which was just so awesome 
+  * KW: I'm so glad!
+* JY is awesome and helping make things run smoothly at Leeds
+  * KW: :raised_hands: Great stuff, so glad she's around!
+* NG, an old friend from NZ who I chatted with about the approaches of science 
+  * KW: Oh good stuff :sparkles: 
+
+#### What did you achieve?
+
+* Got hold of and read previous lab members' transfer reports which have massive massively helped frame what is expected from our lab specifically
+* This is the first week back at work and so far I'm above water 
+
+#### What did you struggle with?
+
+* Laptop broke :scream: (it's in for repairs so I'm using :couple:'s home computer for a few days) 
+* Things got super hectic end of last week and I got swept under the waves a bit 
+* General feeling of overwhelm due to the hecticness
+
+#### What would you like to work on in the next week?
+
+* I realized my 'who did I help' was quite low so I want t be more mindful about my impact and where I can be supportive 
+  * KW: It wasn't low! The goal is just recognising one person, even if that's something really small :hugging_face: 
+* Website (it's a few hours away from getting finished - with no automation yet), and then I'll update git 
+* Resume (backup plan)
+* Research themes with descriptions 
+* Current research description 
+* The key papers pulled out and in a slide deck 
+
+
+#### What brought you joy this week?
+
+* Monday coffee chats :rocket: 
+
+#### Where do you need help from Kirstie?
+
+* Unsure - I'm honestly just overwhelmed and am unsure where to ask for help. There aren't clear action items and I mostly just need gentleness as bumble my way along into the right direction
+
+#### Any other topics
+
+* Getting second vaxx on thursday :tada: # Sophia Bi-Weekly Updates
+
 *Sophia & Kirstie meet every 2 weeks on Tuesdays*
 
 ### Date: 22 June 2021
