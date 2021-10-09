@@ -1,5 +1,9 @@
 # Weekly Meetings
 
+* [23 September 2021](#date-23-september-2021)
+* [1 September 2021](#date-1-september-2021)
+* [18 August 2021](#date-18-august-2021)
+* [8 July 2021](#date-8-july-2021)
 * [10 June 2021](#date-10-june-2021)
 * [1 June 2021](#date-1-june-2021)
 * [29 April 2021](#date-29-april-2021)
@@ -22,7 +26,124 @@
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
 
-### Date: 10 June 2021
+### Date: 23 September 2021
+
+#### Who did you help this week?
+
+* BSc student re neuropsychology project
+* Clinician w data
+
+#### Who helped you this week?
+
+* SAW & clinicians for MRI classifications
+* KW choosing between plots
+  * KW: LOVE helping on plots 😂
+
+#### What did you achieve?
+
+* Finished MRI status classification
+* Re-ran analyses for paper
+  * KW: Very cool
+* Presented at journal club
+* Attended ILAE British branch conference (talk on modelling in epilepsy [John Terry](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/terry-john.aspx))
+* Sent off Turing Book Dash application
+* Prepped data for predictive model
+* Attended "How to be FAIR when working with administrative data"; maybe suggest presenting Turing Way at next meeting?
+  * KW: Sounds great - go for it!
+* Attended workshops on using machine learning to combine MRI data
+* Finished MRI pipeline (BIDS + pre and post scans)
+
+#### What did you struggle with?
+
+* Placeholder
+
+#### What would you like to work on next week?
+
+* Finish re-writing the original paper's discussion
+* Prep MRI data for meeting with ["resector" developer](https://github.com/fepegar) (revelant paper [here](https://link.springer.com/article/10.1007/s11548-021-02420-2))
+
+#### Where do you need help from Kirstie?
+
+* Feedback on paper once I send it around (hellooo repeat, but purely my fault!)
+  * KW: 😂
+
+### Date: 1 September 2021
+
+#### Who did you help this week?
+
+* BSc student re neuropsychology project
+  * KW: Well done! I hope your work with them can be shared (thesis? paper? etc)
+* Mentoring w IKG
+ 
+#### What did you achieve?
+
+* Got some good feedback on [subchapter to Project Design in the Turing Way](https://github.com/alan-turing-institute/the-turing-way/pull/2076) - thanks again for sharing with the other students! 💖
+  * KW: Well done! Super exciting!
+* Attended IEC conference all week - gave presentation and participated in mentorship programme
+  * KW: Way to go on the talk, and so glad the mentorship as fun
+* Continued retrieving additional clinical factors
+* Worked on MRI pipeline 
+* Drafted Turing Way Book Dash application
+  * KW: Fab - excited to review!
+
+#### What did you struggle with?
+
+* Placeholder
+
+#### What would you like to work on next week?
+
+* Finish MRI status classification (need some help from SA)
+* Re-run analyses for paper (and then re-send to co-authors for feedback)
+
+#### Where do you need help from Kirstie?
+
+* Feedback on paper once I send it around
+  * KW: Will keep an eye out!
+* [Thoughts on sensitive data/projects structure in Turing Way](https://github.com/alan-turing-institute/the-turing-way/pull/2076#issuecomment-903610932)
+
+### Date: 18 August 2021
+
+#### Who did you help this week?
+
+* BSc student re neuropsychology project
+  * KW: How time passes!! Wild!
+
+#### Who helped you this week?
+
+* EK mentoring: how to make a correction in the Turing Way and how to add a new subchapter
+  * KW: WOOOOO! 🚀🌟
+ 
+#### What did you achieve?
+
+* Added [subchapter to Project Design in the Turing Way](https://github.com/alan-turing-institute/the-turing-way/pull/2076)
+  * KW: Fantastic - well done!
+    * I've shared with the DECOVID Engage at Turing students, lets see if they have time to give it a read.
+    * If you can also ping Ed in the issue that would be really helpful.
+* Accepted for mentorship programme at ICE conference
+  * KW: Great stuff - congratulations!
+* Continued retrieving additional clinical factors
+* Re-ran MSc paper analyses
+
+#### What did you struggle with?
+
+* All good
+
+#### What would you like to work on next week?
+
+* Clinical data retrieval
+* 'MRI negative vs positive' over time analysis - have trialled the analyses (and figures), just need to add the remaining data
+* Add additional MRI focal lesion and non-focal lesion to MRI positive categorisation
+
+KW: Good discussion in our meeting - I like the idea of negative, focal and diffuse as categories, but I think some of the other MRI information is just going to make your models hard to interpret!!
+
+#### Where do you need help from Kirstie?
+
+* Figures for MRI status?
+  * KW: Looking good - fingers crossed for a yellow wedge 😉
+* Additional bits for Sensitive Data Projects?
+  * KW: Nothing from me - see what others say and then merge away!
+
+### Date: 8 July 2021
 
 #### Who did you help this week?
 
@@ -30,7 +151,44 @@
 
 #### Who helped you this week?
 
-* EK mentoring.
+* EK mentoring: blog post feedback
+ 
+#### What did you achieve?
+
+* Batch-processed all scan data through BIDS
+* Organised scans into pre- and post-surgical scans (now following BIDS ’ses’ method - though still have the scan date in the name for now)
+* Written a few blog posts
+  * Working openly with sensitive data: (1) [keeping sensitive files safe using .gitignore](https://hackmd.io/byxo1WQhThu_ASe2lcExxw); (2) [safely sharing Jupiter notebooks using nbstripout](https://hackmd.io/tpveHyQZT8O_OlREGwc0Rg); (3) [what do you do if you inadvertently expose sensitive data on Github?](https://hackmd.io/U5MfHx5aSgGlHfQ4YCxbDw)
+  * Increasing your research impact: [creating an ORCID iD](https://hackmd.io/4VAXgulTRsK9M6SKdq34uQ) (but just realised that someone else has written about this in the Turing Way waaaah)
+* Continue retrieving additional clinical factors
+* Worked on Poisson regression, but am unsure about a few things…
+
+#### What did you struggle with?
+
+* All good
+
+#### What would you like to work on next week?
+
+* Clinical data retrieval
+* Work on ILAE presentation (due 23 July) - trying to finish data retrieval so I can add the 'MRI negative vs positive' over time analysis...
+* Poisson regression - need to get this right 😆
+* Tidying stuffs re the scan data (clean folders, finish protocol...)
+* Blog posts
+
+#### Where do you need help from Kirstie?
+
+* Poisson regression
+
+### Date: 10 June 2021
+
+#### Who did you help this week?
+
+* BSc student re neuropsychology project
+* IKG mentoring sessions
+
+#### Who helped you this week?
+
+* EK mentoring
  
 #### What did you achieve?
 
@@ -64,6 +222,7 @@
 #### Who did you help this week?
 
 * BSc student re neuropsychology project
+* IKG mentoring sessions
 
 #### Who helped you this week?
 

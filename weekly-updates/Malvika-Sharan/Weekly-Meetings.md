@@ -2,6 +2,8 @@
 
 *[Template](#template-date-dd-month-yyyy)*
 
+* [17 August 2021](#date-17-August-2021)
+* [02 August 2021](#date-02-August-2021)
 * [20 July 2021](#date-20-July-2021)
 * [21 June 2021](#date-21-June-2021)
 * [25 May 2021](#date-25-may-2021)
@@ -28,6 +30,114 @@
 * [07 February 2020](#date-07-february-2020)
 
 ---
+
+### Date: 17 August 2021
+
+#### Who did you help this week?
+- AG in having a chat about EDI and Ally Skills in the context of Turing Way, OLS
+  - KW: Ah - really great.
+- Kw et al - CM applicant shortlisting
+  - KW: Thank you! 🙏
+
+#### Who helped you this week?
+- Book Dash committee to finalising all docs and getting the call out
+  - KW: WILD THAT THAT IS SO SOON!
+- AB in setting Scriberia chat
+  - KW: Fab! 
+
+#### What did you achieve?
+- Project scoping discussions with REG team
+  - UX/UI was smooth, Turing/Crick required a bit if thinking on risks and mitigation plans
+  - KW: Well done - I know these can be tricky sometimes - I think they're worth it to go through at the start
+- OLS-4 applicants selected - 3 applications from Turing
+  - KW: EXCITING!
+- Catch up calls with community lead/managers
+  - The Carpentries and eScience center this week, DataKind and CS&S is planned
+  - KW: Oh FAB! This is wonderful - are we capturing this network of awesome people?
+- GSoC career panel chat
+  - KW: Very cool!
+- The Turing Way SeptembRSE talk is accepted
+  - KW: Delighted 🌺
+- EDI panel is currently being planned with RSE members
+  - KW: Well done - this is harder work than anyone really realises 💛
+
+#### What did you struggle with?
+- Quitting UKRI grant - not because of proposal but for the possible collaboration
+  - Thinking about how to keep them involved (UX/UI project maybe)
+  - KW: This is a RAM task - so AM may be able to take on some of these connections forwards too?
+    - There are other project related pieces too of course - maybe something to bring the community manager in on when they arrive?
+
+#### What would you like to work on next week?
+- Governance call for working group
+- TPS open science programme proposal with MF and AB
+  - KW: This sounds awesome - v strong support 🚀🌟
+    - Application for Tranche 2
+    - Worth creating a schedule showing how the guest lectures integrate across Turing / TPS
+    - Have a think about how this fits in with MN and MF's plans (scalability, bandwidth etc)
+
+#### Where do you need help from Kirstie?
+- Project Charter for Turing/Crick: https://github.com/alan-turing-institute/data-training-for-bioscience/pull/9
+  - KW: Looks great! Thank you for doing this work!
+- Reviewing and finishing diversifying leadership application (Monday is the deadline)
+- Governance call for working group discussion in the coming days
+
+---
+
+### Template: Date: DD Month YYYY
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
+
+
+### Date: 02 August 2021
+
+#### Who did you help this week?
+- 1:1 with ABL, discussion and planning for August
+- PS on discussion regarding community development and roles
+  - KW: NICE!
+
+#### Who helped you this week?
+- AM and KW in preparing a short pitch for CM and RAM presentation 
+  - KW: WENT GREAT - well done!
+- ABL and KW and getting my contract sorted
+  - KW: HMcC more than me, and I'm sorry that the comms around that were so bad.
+
+#### What did you achieve?
+- TMT meeting with AM and KW
+  - KW: So delighted with this!!
+- 2 SeptembRSE proposals accepted
+  - KW: Fantastic - Turing Way talk and missing narratives in RSE (the "not" EDI proposal 😜)
+- Collaborated with RA, EP and EK in submitting two proposals in OSFair 2021
+  - KW: Awesome!
+- TPS report and TTW newsletter
+  - KW: AMAZING - I'm editing on Thursday
+- Revising TTW pages that were outdated, thanks to BA, DG and FAIR-cookbook team
+  - KW: Well done!
+  - For my reference: https://the-turing-way.netlify.app/afterword/contributors-record.html
+- Turing-Crick plannning with REG members, BM and KW
+- Hosted a BOSC session
+
+#### What did you struggle with?
+- Contract and lack of communication from admin side
+
+#### What would you like to work on next week?
+- TTW-CM JD and recruitment
+- Other CM recruitment related work
+  - KW: Roche - paper exercise, send questions in advance, agree on shortlist
+  - KW: ASG Community Manager
+- UKRI grant design and planning meeting with ABL and hopefully CH (Jupyter)
+
+#### Where do you need help from Kirstie?
+- Ongoing CM recruitment discussion
 
 ### Date: 20 July 2021
 
@@ -73,23 +183,6 @@ KW: Really helpful discussion in the meeting with an acknowledgement that balanc
 #### Where do you need help from Kirstie?
 - Research Fellow discussion
   - KW: Thank you for bringing this up - I hope it was helpful
-
----
-
-### Template: Date: DD Month YYYY
-
-#### Who did you help this week?
-
-#### Who helped you this week?
-
-#### What did you achieve?
-
-#### What did you struggle with?
-
-#### What would you like to work on next week?
-
-#### Where do you need help from Kirstie?
-
 
 ### Date: 21 June 2021
 

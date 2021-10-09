@@ -2,6 +2,10 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [15 September 2021](#date-15-september-2021)
+* [18 August 2021](#date-18-august-2021)
+* [04 August 2021](#date-04-august-2021)
+* [21 July 2021](#date-21-july-2021)
 * [07 July 2021](#date-07-july-2021)
 * [29 June 2021](#date-29-june-2021)
 * [09 June 2021](#date-09-june-2021)
@@ -12,6 +16,248 @@
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 15 September 2021
+
+*Gap between meetings due to 1 week of holiday + co-working in 1-Sept 1-1 on proposal instead* 
+
+#### Who did you help this month?
+* Lots of people with proposals & ideas & budgets
+  * KW: Yes you did! 🙏
+* GaSh prep for management meeting
+* GS with last minute presentation to Enrichment Students 
+  * KW: Fantastic! Phew!
+* KP/AM on some tasks for AIM 
+  * KW: Thank you!
+* MR keeping on track with plan for budget 
+  * KW: Well done - really valuable!
+* Light lab support when people were swamped
+  * KW: Thank you!
+
+#### Who helped you this month?
+* PK with advice on progressing some work tasks 
+  * KW: Phew! Thank you!
+* AG with Flexigrant help! I would have found it eventually but so pleased she was able to help 
+  * KW: Also SO helpful!
+* MS with developing workshop ideas and materials + good chats about longer term plans
+  * KW: Great stuff!
+* CM on PM advice 
+  * KW: :raised_hands:
+
+#### What did you achieve? 
+* Parliamentary Inquiry workshop - overall pleased with how that turned out and glad we tried a different structure to encourage participation
+  * KW: I really loved it - well done!
+* Open Research Lunch & Learn presentation on Monday 
+  * KW: So glad you gave this - thank you!
+* TW CM role now finally live! ✨ 
+  * KW: Excellent!
+* We ran an open call for TPS leadership volunteers & got >5 applications!
+  * KW: YES WE DID! WOOOOO!
+
+#### What bought you joy this month?
+* TPS Coffees are going really well - like the mix of chats + presentations. Aiming at 2 "themed/presentation" coffees a month + some general ones
+  * KW: Yes - agree - loving these short opportunities to connect ☕
+* Enjoyed developing the workshop idea for the Parliamentary Inquiry 
+* Week off in the Lake District which was good for a proper reset
+* Have some days where I feel entirely on top of things 😅 
+  * KW: WHAT IS THAT LIKE I AM CURIOUS TO KNOW 😜 (But also - YAY - well done!)
+* Implementation of TPS status slides in leadership meetings seems to be working 
+  * KW: Really liking the slides - well done.
+  * Lets add Skills in as a box for BM to complete.
+
+#### What did you struggle with?
+* Last minute TPS leadership rush this week due to technology fail/unfamiliarity - caused people stress and me extra work 😒
+  * KW: Ah, so sad. Lesson learned: flexigrant sucks? I feel like people before you have come to similar conclusions 😭
+* Finished my lunch & learn presentation & immediately thought of several things I could have done better, despite good feedback 
+* Problems with an internal system 💻 + communication 
+* Still chasing some people and a bit out of ideas on how to generate a response without hassling them 
+  * KW: I've sent a chaser 🤞
+* A contract :( 
+  * KW: I'm glad you've got support on this - how frustrating.
+
+#### What would you like to work on next week?
+* EPSRC calls - check we're on track as co-Is
+* Risk Register first draft
+* Newsletter (yes again, already!) 
+* Presenting on the Open Access Block Grant at the Turing Town Hall next Tues 
+
+#### Where do you need help from Kirstie?
+* ✨Short blog post on the TPS leadership call for the Turing blog ✨
+  * KW: 🙀 😜 - sounds good! Get some of the information from the twitter thread ✔️
+* Newsletter paragraph :) 
+  * KW: I can write something about reviewing our applications 🙌 
+* Review of risk register draft 
+  * KW: Honestly, I think I'll need walking through that - so maybe we can find a time to zoom?
+* Working on development plan with GS - any thoughts or input welcome 
+
+#### Any other topics? 
+* Think that's quite enough to be going on with 🤯
+  * KW: Absolutely!! 
+
+## Date: 18 August 2021
+
+#### Who did you help this week?
+* PMU team - transferred an onboarding document into a OneNote document that's more accessible for everyone as a trial for a knowledgebase
+ * KW: FUN! SO USEFUL!
+* Teams with contracts and 10.3 projects have had questions I've been able to help with 
+  * KW: Well done - thank you!
+* Relayed views to the hybrid working session 
+  * KW: I'm so grateful for you going to that.
+* CL with external open access discussion
+  * KW: I heard from her that you did really well! WELL DONE!
+* Discussions on grant calls 
+  * KW: Thank you for keeping us all in line 🙏
+
+#### Who helped you this week?
+* HM with extra queries and flexibility that projects need. 
+* TPS leadership panellists for signing up to be on the panel 
+* GS has been leading on 10.3 liaising and it's been really useful
+  * KW: Thank you to GS!
+
+#### What did you achieve? 
+* Open Access work UNBLOCKED! 🎉
+  * KW: 🚀🌟
+* Set up light touch TPS reporting in response to previous discussions: https://thealanturininstitute.sharepoint.com/:p:/s/rid/EY4azu4klFhJgf4_yi-ysZIBoaomFBNchrLbdYf8SQzJWw?e=RvDraC (view only) 
+  * KW: Loved this. Thank you to you and MS for getting me out of my "Kirstie's head" way of working 😭
+* Have also set up a governance documentation tracker to help me keep on top of implementing programme paperwork: https://thealanturininstitute.sharepoint.com/:x:/s/rid/EdkeYSLvePVGgvJDiwXQ5CwBAHVHB6bL8aZ8DWdwuFTUpQ?e=rkIRFx (view only)
+  * No action required from KW on this, but once stuff is drafted will need sign off 
+  * KW: Thank you for talking me through this - bring on March 2022 when we have a completed sheet 💪
+* Quarterly reports all in! 
+  * KW: Well done on that - great job.
+
+#### What bought you joy this week?
+* Digital Public Goods Alliance coffee chat was a meeting of minds and it was AWESOME
+  * KW: Yes - loved it!
+* Have enjoyed putting together a lot of the documentation mentioned above + the project plan for the EPSRC call (even though we're not using it now)
+  * KW: Oh no - I'm so sorry - please do share w the other two teams!!
+* Also enjoyed putting together the budgets for 10.3 projects (just being a documentation nerd atm!) 😌
+  * KW: Everyone's got to love something! 😜
+  * But also - YAY - thank you!
+
+#### What did you struggle with?
+* Focusing was a bit tough last week because of personal things (all resolved)
+  * KW: HUUUUUUUUUUUGS - well done putting on the show 🌻
+* Some uneasiness about big picture things 
+  * KW: Solidarity. Try not to take on responsibilities that you don't have control over 😕
+* Need to be mindful about how I'm scheduling my time if I go into the office - wasn't ideal to have so many meetings last Thursday  
+* I'm ready for a holiday
+
+#### What would you like to work on next week?
+* NOTHING: I'm on holiday 🏖️ 😄
+  * KW: The solution to the struggle!! YOU DESERVE IT 🌴
+
+#### Where do you need help from Kirstie?
+* Email to TPS PIs inviting them to book a slot at the Sept TPS seminar + suggestions for October seminar
+  * KW: 🙈🙈🙈 Sorry! And RADDISH for October!
+* Newsletter week - will be scheduled for Monday so with you Friday to review before leave!
+  * KW: Ah - great - I'm in a lot of interviews on Friday... can I see it early? Maybe late on Thursday?
+  * NEED THE PARAGRAPH! I can write that earlier. Note to self: write a little about our hirings for community manager roles!
+* Discuss what I should go to MD for directly
+  * KW: Please cc her on any messages that have actions! She'll remind me to actually do them! 💖
+
+#### Any other topics? 
+* Need to put together a presentation on what is open research - links to other presentations on this would be great 
+ * KW: One of my favourites: https://doi.org/10.5281/zenodo.3243216
+
+## Date: 04 August 2021
+
+#### Who did you help this week?
+* PMU team - following discussions with a support person for a key system we use, we now have a lot more updated documentation accessible to us! 
+* Support for an extra week of goatherding 🙂
+* AP with contacts and a chat 
+* MS with Book Dash discussions
+
+#### Who helped you this week?
+* KW for leading the TPS seminar while I was in bed watching terrible films 
+* AM who contributed to the discussion on negotiation 
+* Someone providing extra, needed context for a conversation!
+
+#### What did you achieve?
+* TPS Leadership call launched! Fingers crossed for some good applications 🤞
+* Quarterly reports neeeearly in!
+* Success on the Board application submitted (not my strongest due to last minute-ness 😞)
+ 
+#### What bought you joy this week?
+* Feeling confident enough to put together a contract myself and send it for the partner to review (no special conditions + could find all the templates + was confident in budgets!) 
+* Adding work package deliverables to GitHub for AIM 😃 (just really satisfying to have them in there ready for use)
+* Non-work but I loved the Alice in Wonderland exhibition 
+
+#### What did you struggle with?
+* Last week was a short week and I was knocked out by vaccine 2nd jab - also a little annoyed that I didn't *think* about these two things and plan ahead to minimise the impact (like not signing up to be goatherd!) 
+* Want some more clarity on which projects need PM support from me and which do not from the 10.3 fund so we're not duplicating efforts
+
+#### What would you like to work on next week?
+* 10.3 project support 
+* EPSRC plans, keep them moving 
+* Clearing out old OA applications we've had to place on hold 
+* Reviewing my OLS-4 applications
+* Making time for onboarding chapter work and goatherding blog w/ MS (probably at Collab Cafe) 
+  
+#### Where do you need help from Kirstie?
+* JDs please!
+* TPS quarterly report - should be with you tomorrow
+* Turing Fellows - nudge 
+
+#### Any other topics? 
+* Might be useful to have a chat about what documentation would be useful for *you* and potentially other TPS leadership team members to have in place so I can factor that in to documentation plans 
+
+
+## Date: 21 July 2021
+
+#### Who did you help this week?
+* Various: gave feedback on some of the £10.3m proposals - excited to see what the news is today!
+  * KW: ME TOOOOOO! And you really did a fantastic job - thank you!
+* Also helped pulling together the documents for extension projects to go to REG
+* Feedback on Slack user document to PS - really good to see that being pulled together 
+  * KW: Thank you
+* KLG quick chat through how the open access block grant works 
+  * KW: Would you mind finding UKRI / Wellcome / other funder guidance for organisations on open access / open data / open source.
+
+#### Who helped you this week?
+* All the folks who turned up to the Collaboration Cafe to talk through onboarding, felt we had a really good discussion.
+  * KW: So glad you're leading on this!
+* TC for contract reviews - I'm going to miss her!
+  * KW: Helpful people are SO HELPFUL! Good luck to her on the studies!
+* GS - long chat about programme governance documents which I can now incorporate into programme planning alongside leadership chats.
+  * KW: I'm delighted that I'm learning too! Thank you, and GS 🌻
+* KR for support in meetings and showing me Flexigrant
+  * KW: 💪
+
+#### What did you achieve?
+* CSCCE DEI programming call - we're at the stage where we need to bring in new volunteers to keep the next set of programming going and this was a productive call to agree next steps
+  * KW: Very cool - good luck on the next phase!
+* Sent off a contract or two that have been hanging around
+  * KW: Ooooooooooh - if these get signed that is a LONG TERM WIN! 🌠
+* Chased & processed a whole bunch of invoices which feels satisfying to tick them off on the tracker 😄
+* Got the TPS leadership call into Flexigrant!
+ 
+#### What bought you joy this week?
+* Liked the Lunch & Learn with Christine, felt I learnt a lot
+* Making my own ice cream 
+  * KW: 🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦 😋 
+* Collab Cafe 
+* Devouring a book!
+  * KW: 🧚‍♀️ 🧚‍♂️
+
+#### What did you struggle with?
+* It's so hot, I am genuinely struggling with focus - trying to be proactive about moving to cooler parts of the house/staying hydrated/using cooling towels 😓
+  * KW: SOLIDARITY AAAAAAAAAAAAH
+
+#### What would you like to work on next week?
+* Launching TPS Leadership call ✨
+* Planning governance document roll outs 
+* Contracts + admin to set up any successful projects/initiatives from 10.3 round 
+* Set up calls for EPSRC discussions so we can track proposals 
+* TPS seminar 
+  * KW: Promote to ASG, AI Programme (RD), REG & tweet?
+
+#### Where do you need help from Kirstie?
+* Want to discuss application to Success on the Board
+  * KW: Strong support!
+* Keep plugging at JDs!
+
+#### Any other topics? 
+* Not for now 
 
 ## Date: 07 July 2021
 *Just one week as updating before KW & AB meeting on 7 July 2021*

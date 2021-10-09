@@ -2,11 +2,165 @@
 
 *Meetings with Kirstie approximately every 2 weeks*
 
+* [22 September 2021](#date-22-september-2021)
+* [8 September 2021](#date-8-september-2021)
+* [11 August 2021](#date-11-august-2021) 
 * [27 July 2021](#date-27-july-2021)
 * [30 June 2021](#date-30-june-2021)
 * [09 June 2021](#date-09-june-2021)
 * [01 June 2021](#date-01-june-2021)
 * [28 April 2021](#date-28-april-2021)
+
+### Date 22 September 2021
+
+#### Who did you help this week?
+
+- GA with the CC Summit slides
+
+#### Who helped you this week?
+
+- KW with CC Summit slides (thank you!) 
+- Support from KW and HB with my absence (thank you again) 
+  - KW: This was low engagement on my part - who doesn't wish someone well when they're unexpectedly off work?!?
+  - (I know there are people who are a bit rubbish, so thank you - I'm glad I was supportive!)
+
+#### What did you achieve?
+
+- Sent out feedback on personal performance and the project
+  - KW: This is great - well done 🌺
+- EPR write up (cutting to 300 and 100 words was difficult)
+  - KW: In my calendar for Friday morning to add my comments ✔️
+- CC Summit slides
+  - KW: Excited for the presentation - I hope it goes well!
+- Presentation on my secondment at the lab meeting
+  - KW: Loved this!
+
+#### What did you struggle with?
+
+- Time associated with leave and absence, I feel like I didn't get enough stuff done! 💔
+  - KW: Don't worry! Even without time off (for whatever reason!) not every 2 week period needs to be maximum productivity! 🌻
+
+#### What would you like to work on next week?
+
+- Prepping for EPR on the 29th at 2pm 
+- Collating all the feedback
+- CC Summit
+- Half year report for AutSPACEs
+  - KW: This will be really valuable - thank you!
+- Handover for community management
+  - KW: There's a lot inside of this
+    - Infrastructure weekly calls -- SL
+    - Meet ups -- Not sure - to be discussed on Thursday
+    - Newsletters - Not sure - likely GA
+    - Project updates - Not sure - likely GA w SL?
+- Onboard Soledad
+  - KW: The ultimate test of the onboarding pack 😉
+
+#### Where do you need help from Kirstie?
+
+- EPR write up, we have a deadline of uploading all docs by COP 27th September
+  - KW 👀 On it!
+
+### Date 8 September 2021
+
+#### Who did you help this week?
+
+- Helped AR, SR, GA, RT get the slides ready for the Open Humans
+  - KW: It was great! Well done!
+- Gave some additional information to AL
+  - KW: That's lovely - thank you for checking in with him.
+
+#### Who helped you this week?
+
+- AR, SR, GA and RT to get content for the open humans presentation 
+  - KW: Team work makes the dream work 🙌
+- RT provided his spotlight for the newsletter
+  - KW: Loved this! Well done!
+
+#### What did you achieve?
+
+- Sent out the August Newsletter
+  - KW: Great work!
+- Robin Twitter thread on the spotlight contribution
+- Anoushka passing GSoC!!! 
+  - KW: I'm so proud of her! And well done to you with your mentorship 🌻
+- Navigating the repo document to go with the promotion pack
+- Finalising the promotion pack and getting ready for lab meeting
+  - KW: Looking forward to it! Exciting! ✨
+- Open Humans community call 
+- Starting prepping for the CC Summit
+
+#### What did you struggle with?
+
+- WIFI!!!!💢
+  - KW: uuuuurgh - I hope they figure it all out 🤞
+
+#### What would you like to work on next week?
+
+- Feedback for project on the repo
+  - KW: You might need to chase folks for this - but please do chase them!
+- Feedback for my performance from contributors that I've worked closely with
+  - KW: Share with folks in lab too ✔️
+- EPR Write up for the EPR on 29 September
+- Impact Stories to use to promote the project and community building
+- Update the roadmap for this month
+- Leave 16-20 and WFH in France 13-15 September
+  - KW: Lovely!
+- KW: And also start drafting the half year report for TPS please 🙏
+
+#### Where do you need help from Kirstie?
+
+- My EPR requires 300 words from my Activity Manager on my performance!
+  Deadline to upload Tuesday 21 September.
+  - KW: GREAT - good heads up!
+
+### Date 11 August 2021
+
+#### Who did you help this week?
+
+- Found some helpful past GSoC final reports for AR and provided some ideas on the structure
+  - KW: The combo looks great - well done!
+
+#### Who helped you this week?
+
+- AB, SB and MS gave me some really good tips in a coffee chat on how to measure success on community building and social media platforms
+  - KW: Oh fab! Excited to hear more about that!
+- SM reviewed the promotion pack draft and provided some good feedback  
+  - KW: Also fab!
+
+#### What did you achieve?
+
+- Newsletter twitter thread for SF's spotlight
+  - KW: https://twitter.com/AutSpaces/status/1423588596657840128?s=20
+- Planning for gathering evidence for my objectives
+- Putting moderation tasks into their own roadmap 
+  - KW: Oh, very helpful!
+- Promotion pack and FAQs 
+  - KW: Very excited for this!
+- Good platform development co-working session where JK explained the process of scoping issues and projects to AR/RT/GA
+  - KW: Really great - glad that we're sharing that information a little more!
+- Had my DTA! Find out my results on the 16th August, fingers crossed for a pass 🤞
+  - KW: FINGERS CROSSED! I'm sure you did great ✨
+
+#### What did you struggle with?
+
+- Struggling to concentrate this week!
+  - KW: Be gentle with yourself. Shout to the lab if you need co-working motivation... but also its fine if you're a bit spacy sometimes 🌺
+
+#### What would you like to work on next week?
+
+- Impact 1-pager for the project
+  - KW: Very cool, let me also link you up with JoS (Turing) - I'm keen for her to see what you're working on re: engagement! 
+- Updating the roadmap 
+- Github updating
+- Planning the talks for both Open Humans (7 Sept) and CC Summit (23 Sept)
+  - KW: Looking foward to brainstorming in the meet up
+
+#### Where do you need help from Kirstie?
+
+- JK access to the link he sent: https://autistica-demo-deployment.herokuapp.com/
+- Is there anything that you think would be really good for me to do/get involved with in my last couple of months in this posting? 
+  - KW: Presentation to lab on 9 September for promotion pack
 
 ### Date 27 July 2021
 

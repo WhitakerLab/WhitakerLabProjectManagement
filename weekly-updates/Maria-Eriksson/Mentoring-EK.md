@@ -1,5 +1,10 @@
 # Mentoring Sessions with Emma
 
+* [1 October 2021](#date-1-october-2021)
+* [14 September 2021](#date-14-september-2021)
+* [1 September 2021](#date-1-september-2021)
+* [17 August 2021](#date-17-august-2021)
+* [11 August 2021](#date-11-august-2021)
 * [6 July 2021](#date-6-july-2021)
 * [28 June 2021](#date-28-june-2021)
 * [8 June 2021](#date-8-june-2021)
@@ -18,6 +23,70 @@
 
 **For how long?** 1 hour
 
+## Date: 1 October 2021
+
+### What brought you joy this week?
+* ME - FINALLY got the first draft sent off to KW :tada: 
+ * EK - AMAZING!!! :tada:
+### What did you achieve
+* ME - See above hehehe. Have done some more MRI stuff and started on the prediction paper :+1:
+ * EK - this is great! :star:
+### What did you struggle with?
+* ME - Nothing to report...
+### Any other topics
+* ME - Nothing to report...
+* EK - wWe talked about getting help from busy people with our work.
+* Planning session for Turing way bookdash on Sensitive data/topics - make a planning document. Expanding out from personal data to sensitive data overall - different examples.
+
+## Date: 14 September 2021
+
+### What brought you joy this week?
+* ME - End in sight with the paper... Gosh what a journey it has been! Looking forward to a workshop I'm attending later today on using machine learning in imaging :sparkles:
+ * EK - this is so great! Well done for all your hard work and perserverance. 💪 
+### What did you achieve
+* ME - So much tidying of folder and scripts. And finally got the Book Dash application submitted :pray: Thank you again! 🧡
+ * EK - looking forward to working with you during the bookdash. 📚 💨 
+### What did you struggle with?
+* ME - A lot of family stuff happening at the same time...
+### Any other topics
+* ME - Nothing to report...
+* EK - Pay and fellowships - [UKRI terms and conditions for leave](https://www.ukri.org/wp-content/uploads/2021/08/UKRI-170821-FullEconomicCostingGrantTermsConditions-Aug2021.pdf)
+
+## Date: 1 September 2021
+
+### What brought you joy this week?
+* ME - Conference (and its mentorship programme) was gooood :sparkles:
+### What did you achieve
+* ME - Had presentation and Open and Big Data task force :+1: And finished retrieving MRI 
+### What did you struggle with?
+* ME - Nothing to report
+### Any other topics
+* ME - Chat about task force (and their paper https://onlinelibrary.wiley.com/doi/epdf/10.1111/epi.16633), Turing Way Book Dash application, and fellowship applications (thanks again for the reassurance!!)
+
+## Date: 17 August 2021
+
+### What brought you joy this week?
+* ME - Being at home in Finland and seeing friends 💖
+### What did you achieve
+* ME - I've been doing bitty things: some data retrieval, gave feedback on BSc project, was accepted for mentorship programme at ICE conference. 
+### What did you struggle with?
+* ME - Nothing to report
+### Any other topics
+* ME - Go over how to make update in Turing Way (picked up on spelling/link error) and how to add subchapter. Thank you - this was so helpful! :pray: 😌
+
+## Date: 11 August 2021
+
+### What brought you joy this week?
+* ME - Being off for 2 weeks brought me lots of joy :pray: Easing back into things at a nice pace...
+ * Glad you got to see your family and have some rest. It's important to have a healthy life/work balance. 😄  
+### What did you achieve
+* ME - Nothing because I've been off heh. But recorded my presentation for IEC before I went on leave :star:
+ * Good job recording the presentation 🌟   
+### What did you struggle with?
+* ME - Nothing to report
+### Any other topics
+* ME - Would be nice to do some co-writing sessions so that I get the blog posts into the Turing Way?
+ * Yep! Good idea - we have booked two sessions over the next few weeks to do this. 
 
 ## Date: 6 July 2021
 
