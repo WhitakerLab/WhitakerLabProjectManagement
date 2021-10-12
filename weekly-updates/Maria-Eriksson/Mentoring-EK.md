@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [12 October 2021](#date-12-october-2021)
 * [1 October 2021](#date-1-october-2021)
 * [14 September 2021](#date-14-september-2021)
 * [1 September 2021](#date-1-september-2021)
@@ -22,6 +23,19 @@
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
+
+
+## Date: 12 October 2021
+
+### What brought you joy this week?
+* ME - Finally started data analysis on the new paper - so happy ✨
+### What did you achieve
+* ME - Got some initialy modelling done :+1:
+### What did you struggle with?
+* ME - Nothing to report...
+### Any other topics
+* ME - [Bogue fellowship application](https://www.ucl.ac.uk/lifesciences-faculty/study/funding-and-scholarships/bogue-fellowships) - application deadline 18 November (earliest start date January 2022).
+* EK - Set date for "Turing Way Book Dash planning session". Potential date: Monday 18th November at 11am - EK to confirm with EP.
 
 ## Date: 1 October 2021
 
