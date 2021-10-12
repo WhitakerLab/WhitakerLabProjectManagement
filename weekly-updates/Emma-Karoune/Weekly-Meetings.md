@@ -1,6 +1,6 @@
 # Emma's Weekly Meeting Notes
 
-* [29 September 2021](#date-23-june-2021)
+* [12 October 2021](#date-12-october-2021)
 * [23 June 2021](#date-23-june-2021)
 * [9 June 2021](#date-9-june-2021)
 * [26 May 2021](#date-26-may-2021)
@@ -13,11 +13,11 @@
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: 29 September 2021
+### Date: 12 October 2021
 
 #### Who did you help this week?
 
-* NB and AP - onboarding info, meetings and training 
+* NB and AP - onboarding info, meetings and Github training. 
 * ME - been helping with bookdash application and writing about sensitive data.
 
 #### Who helped you this week?
@@ -26,11 +26,12 @@
 
 #### What did you achieve?
 
-* Set up regular meeting with NB and students - also inital meeting with SG. Sent more resources to NB for the data paper.
+* Having regular meetings with NB, RG, SG, AP and students for data paper. Sent more resources to NB for the data paper.
+* AP and I are working on updating the data management repo and wiki. Adding info from clinicians about data collection in each hospital.
 * AP onboarding - project repo tour, Hackmd and Github training, linking him up with others to get on with data paper. 
 * Turing Way workshop at Open Science FAIR. 
 * Academic authorship chapter now in Turing Way.
-* Working on generic templates of project procedures for sensitive data chapter.
+* Working on generic templates of project procedures for sensitive data chapter. Overview of sensitive data/projects.
 * FAIR Phytoliths now fully started - we had a launch day with EOSC-life, onboarding new postdoc based in Spain and started FAIR assessment. Also we have now formed an international committee for open phytolith science in the International Phytolith Society. 
 * Been planning a workshop on reproducibility in archaeology at Durham Uni, which is this friday afternoon. Also got open science skills workshops coming up in November.   
 
