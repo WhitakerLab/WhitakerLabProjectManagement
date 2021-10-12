@@ -1,6 +1,6 @@
 # Emma's Weekly Meeting Notes
 
-* [12 October 2021](#date-12-october-2021)
+* [13 October 2021](#date-13-october-2021)
 * [23 June 2021](#date-23-june-2021)
 * [9 June 2021](#date-9-june-2021)
 * [26 May 2021](#date-26-may-2021)
@@ -13,7 +13,7 @@
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: 12 October 2021
+### Date: 13 October 2021
 
 #### Who did you help this week?
 
