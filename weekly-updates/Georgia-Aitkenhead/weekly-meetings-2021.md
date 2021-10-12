@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [29 September 2021](#date-29-september-2021)
 * [01 September 2021](#date-01-september-2021)
 * [18 August 2021](#date-18-august-2021)
 * [04 August 2021](#date-04-august-2021)
@@ -16,6 +17,45 @@ Georgia's weekly meeting notes.
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 29 September 2021
+
+#### Who did you help this week?
+
+* Proof reading for SG
+
+#### Who helped you this week?
+
+* RT and JK helped me and LC with planning Milestone 3 work in dev session
+  * KW: Fab!
+* SF helped with presentations  
+
+#### What did you achieve?
+
+* OH community call
+* CC summit presentation
+* Autistica environments workshop
+* Moderation summaries sent out! Made some adjustments based on feedback
+  * KW: Aaaaaaaah - well done!! ✨
+
+#### What did you struggle with?
+
+* Attention swiching (position paper and presentations)
+
+#### Where do you need help from Kirstie?
+
+* Planning LC handover
+  * KW: Being the main point of contact, newsletters, project progress slide
+    * SL: Meet ups, GitHub tidying, dev sessions (led by RT)
+
+#### What would you like to work on next week?
+
+* TPS lightning talk 
+  * KW: Today!! 🙀 😜
+* SeptembRSE video for MS
+  * KW: Great ✔️
+* Position paper 
+  * KW: Fab!
 
 ### Date: 01 September 2021
 
