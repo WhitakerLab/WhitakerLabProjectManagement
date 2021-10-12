@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [13 October 2021](#date-13-october-2021)
 * [29 September 2021](#date-29-september-2021)
 * [01 September 2021](#date-01-september-2021)
 * [18 August 2021](#date-18-august-2021)
@@ -17,6 +18,36 @@ Georgia's weekly meeting notes.
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 13 October 2021
+
+* Helped KK with user testing submission
+
+#### Who helped you this week?
+
+* SB mentoring was really helpful!
+
+#### What did you achieve?
+
+* Completed objectives 
+* More work on position paper [#247](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/247) 
+* Worked with Malvika on planning/slides for a SIG presentation [#562](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/562)
+* Worked with Sophia and Soledad on user testing resources [#560](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/560)
+
+#### What did you struggle with? 
+
+* Structuring paper: lots of inter-relations and entanglements (but that is a positive sign too)
+
+#### Where do you need help from Kirstie?
+
+* Planning for meeting with JG
+
+#### What would you like to work on next week?
+
+* Position paper/getting ready to present on the paper to the lab on the 28th
+* Apply for Turing training in [Responsible Research and Innovation](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=43818&eventID=134&traceRedir=2): deadline 22nd October
+* TPS report for AutSPACEs [#551](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/551)
+* Supporting SL in meet-up session
 
 ### Date: 29 September 2021
 
