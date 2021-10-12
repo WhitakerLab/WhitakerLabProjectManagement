@@ -45,7 +45,7 @@ Georgia's weekly meeting notes.
 #### What would you like to work on next week?
 
 * Position paper/getting ready to present on the paper to the lab on the 28th
-* Apply for Turing training in [Responsible Research and Innovation](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=43818&eventID=134&traceRedir=2): deadline 22nd October
+* Apply for Turing training in [Responsible Research and Innovation](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=43818&eventID=134&traceRedir=2): deadline 20th October
 * TPS report for AutSPACEs [#551](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/551)
 * Supporting SL in meet-up session
 
@@ -71,7 +71,7 @@ Georgia's weekly meeting notes.
 
 #### What did you struggle with?
 
-* Attention swiching (position paper and presentations)
+* Attention switching (position paper and presentations)
 
 #### Where do you need help from Kirstie?
 
