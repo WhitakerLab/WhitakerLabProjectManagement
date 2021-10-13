@@ -18,22 +18,33 @@
 #### Who did you help this week?
 
 * NB and AP - onboarding info, meetings and Github training. 
+  * KW: Thank you! Fantastic 👋
 * ME - been helping with bookdash application and writing about sensitive data.
+  * KW: Delighted with this!
 
 #### Who helped you this week?
 
 * MS - helping me to sort out turing way chapter and she is also being an amazing mentor for my SSI Fellowship.
+  * KW: So wonderful - great news 💖
 
 #### What did you achieve?
 
 * Having regular meetings with NB, RG, SG, AP and students for data paper. Sent more resources to NB for the data paper.
+  * KW: SO SO exciting that these are moving forwards 🚀
 * AP and I are working on updating the data management repo and wiki. Adding info from clinicians about data collection in each hospital.
+  * KW: How fantastic!
 * AP onboarding - project repo tour, Hackmd and Github training, linking him up with others to get on with data paper. 
+  * KW: Thank you 🙏
 * Turing Way workshop at Open Science FAIR. 
+  * KW: Great!
 * Academic authorship chapter now in Turing Way.
+  * KW: SO FREAKING COOL - absolutely amazing - THANK YOU 🙏🌸
 * Working on generic templates of project procedures for sensitive data chapter. Overview of sensitive data/projects.
+  * KW: Really delighted with this collaboration!
 * FAIR Phytoliths now fully started - we had a launch day with EOSC-life, onboarding new postdoc based in Spain and started FAIR assessment. Also we have now formed an international committee for open phytolith science in the International Phytolith Society. 
-* Been planning a workshop on reproducibility in archaeology at Durham Uni, which is this friday afternoon. Also got open science skills workshops coming up in November.   
+  * KW: Glad it has all started!!!!
+* Been planning a workshop on reproducibility in archaeology at Durham Uni, which is this friday afternoon. Also got open science skills workshops coming up in November.
+  * KW: Exciting!
 
 #### What did you struggle with?
 
@@ -48,12 +59,11 @@
 #### Where do you need help from Kirstie?
 
 * Data paper - data access procedure and clarity about whether dataset is just for covid or can be for acute care?
+  * KW: Chat in the next meeting! 🚀
 * Academic authorship paper - I have talked to MS about this and we need to all meet to discuss a plan, journal, sections and others we want involved such as living with machines, etc.
+  * KW: Very excited about this!
 * Chat about National Collections project - how could I get Turing involved in this as I think it something great for Turing 2.0? - maybe we can talk more about this at one of your office hours?
 
-#### Any other topics
-
-This space is yours to add to as needed.
 
 ### Date: 23 June 2021
 
