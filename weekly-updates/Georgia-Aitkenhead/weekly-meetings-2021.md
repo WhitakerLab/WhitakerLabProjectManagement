@@ -22,32 +22,45 @@ Georgia's weekly meeting notes.
 ### Date: 13 October 2021
 
 * Helped KK with user testing submission
+  * KW: I'm really glad that we could bring OS into this process - thank you 🙏
 
 #### Who helped you this week?
 
 * SB mentoring was really helpful!
+  * KW: Fantastic ✨
 
 #### What did you achieve?
 
 * Completed objectives 
+  * KW: These look great - thank you!
 * More work on position paper [#247](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/247) 
-* Worked with Malvika on planning/slides for a SIG presentation [#562](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/562)
-* Worked with Sophia and Soledad on user testing resources [#560](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/560)
+  * KW: Fantastic - great conversation in the meeting - thank you for talking me through it
+* Worked with MS on planning/slides for a SIG presentation [#562](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/562) 
+  * KW: Great - that sounds like a great talk - fab ✔️
+* Worked with SB and SL on user testing resources [#560](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/560)
+  * KW: Thank you for connecting with SL and welcoming her - great team 🌸
 
 #### What did you struggle with? 
 
 * Structuring paper: lots of inter-relations and entanglements (but that is a positive sign too)
+  * KW: Well done digging through the tangles! Sounds like you're making really great progress ✨
 
 #### Where do you need help from Kirstie?
 
 * Planning for meeting with JG
+  * KW: Please find a time that I can be there too.
 
 #### What would you like to work on next week?
 
 * Position paper/getting ready to present on the paper to the lab on the 28th
+  * KW: This sounds like a great plan - lets also see if we can work together on a post-it style structure for when we next meet on 27 Oct
+    * Lab meeting and the structure exercise _sound_ like they're different but they aren't really - your talk can be structured around the subheadings in the paper - and potentially the sentence summaries of each paragraph can be converted to your bullet points in the talk.
 * Apply for Turing training in [Responsible Research and Innovation](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=43818&eventID=134&traceRedir=2): deadline 20th October
+  * KW: Exciting - this will be such a great course!
 * TPS report for AutSPACEs [#551](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/551)
+  * KW: Thank you for taking this forwards 🙏
 * Supporting SL in meet-up session
+  * KW: Great stuff - thank you!
 
 ### Date: 29 September 2021
 
