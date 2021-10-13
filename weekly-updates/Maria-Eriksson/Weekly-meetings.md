@@ -41,6 +41,7 @@
 #### What did you achieve?
 
 * Presented at PhD club
+* Planning session w EK for Turing Way Book Dash; to meet EP on Monday to discuss more
 * Compared overlap (dice score) between resection masks created manually and [automatically](https://github.com/fepegar) (seems promising...)
 * Worked on Predicting outcome-paper
   1. Ran correlations between all clinical variables
