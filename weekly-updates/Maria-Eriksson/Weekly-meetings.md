@@ -1,6 +1,6 @@
 # Weekly Meetings
 
-* [7 October 2021](#date-7-october-2021)
+* [13 October 2021](#date-13-october-2021)
 * [23 September 2021](#date-23-september-2021)
 * [1 September 2021](#date-1-september-2021)
 * [18 August 2021](#date-18-august-2021)
@@ -27,24 +27,29 @@
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
 
-### Date: 7 October 2021
+### Date: 13 October 2021
 
 #### Who did you help this week?
 
 * BSc student re neuropsychology project (SHE HAS SUBMITTED WOHOO)
+* PhD student w MRI data
 
 #### Who helped you this week?
 
-* PhD student w modelling
+* Data scientists at GOSH DRIVE w modelling questions
 
 #### What did you achieve?
 
 * Presented at PhD club
 * Compared overlap (dice score) between resection masks created manually and [automatically](https://github.com/fepegar) (seems promising...)
-* Ran correlations between all clinical variables
-  * Created grid-plots to show 1) which tests were used to run the correlation analyses, 2) which relationships were significant, and 3) which relationships survived correction for multiple comparison
-* Created plot showing showing probability of achieving seizure freedom by duration of epilepsy & different aetiologies
-* Started on logistic regression model
+* Worked on Predicting outcome-paper
+  1. Ran correlations between all clinical variables
+  2. Created grid-plots to show a) which tests were used to run the correlation analyses, b) which relationships were significant, and c) which relationships survived correction for multiple comparison
+  3. Created visualisations of post hoc comparisons when the correlation survived correction for multiple comparison
+  4. Created plots showing showing probability of achieving seizure freedom by duration of epilepsy/age of onset & different aetiologies/surgical procedures
+  5. Created logistic regression model
+  6. Tested logistic regression model
+  7. Started working on Random forest model, to see if it achieves better AUC score than the logistic regression
 
 #### What did you struggle with?
 
@@ -52,17 +57,19 @@
 
 #### What would you like to work on next week?
 
-* Finish logistic regression analyses
+* Finish Random forest model
+* Try creating categorical variables of the continous predictors using 'r-part'
+* Compare MRI diagnosis with histopathology diagnosis: how important is it to achieve an accurate MRI diagnosis pre-surgically?
 
 #### Where do you need help from Kirstie?
 
 * Feedback on paper
-* Plots showing post hoc comparisons (current plots are very ugly 😢) 
-* Plot showing showing probability of achieving seizure freedom by duration of epilepsy & different aetiologies (attempt to replicate Lamberink et al. 2020)
-  * Should aetiologies with small N (less than 20) be excluded?
-  * How also plot encephalitis (currently the reference value)
-  * How plot individual data point as Lamberink et al. (2020) did?
-* Writing a letter to the journal editors when submitted a paper (Lancet Neurology)
+* Save these questions for the next meeting: 
+  * Plots showing post hoc comparisons of chi suqare tests (current plots are very ugly 😢) 
+  * Plot showing showing probability of achieving seizure freedom by duration of epilepsy & different aetiologies (attempt to replicate Lamberink et al. 2020)
+    * How also plot encephalitis (currently the reference value)
+    * How plot individual data point as Lamberink et al. (2020) did?
+  * Feedback on letter to editor
 
 ### Date: 23 September 2021
 
