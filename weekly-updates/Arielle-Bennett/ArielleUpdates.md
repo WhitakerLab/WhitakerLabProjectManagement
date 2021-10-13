@@ -2,6 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [13 October 2021](#date-13-october-2021)
 * [15 September 2021](#date-15-september-2021)
 * [18 August 2021](#date-18-august-2021)
 * [04 August 2021](#date-04-august-2021)
@@ -16,6 +17,52 @@
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 13 October 2021
+*Gap between meetings due to rescheduling / deadlines / illness* 
+
+#### Who did you help this month?
+* MS new role! Very relieved this is sorted 
+* KP & AMM with RSF stuff 
+* BN with open call discussion
+* Lots of people with Flexigrant 
+* Folks with grant submissions 
+
+#### Who helped you this month?
+* TC with contract stuff 
+* MS & AM with Parliamentary Inquiry work 
+* CL with contract
+* AO with finance stuff
+
+#### What did you achieve? 
+* Parliamentary Inquiry submission 🎉 (that was a lot of fun and I enjoyed the process; real team effort!) 
+* Lots of presentations: open access, enrichment students, etc etc etc
+* TPS leadership team selected, meeting scheduled 
+* Invoices chased - mostly just reconciling final spend for projects 
+* TPS Seminar went Very Well Indeed!
+
+#### What bought you joy this month?
+* Achieving the submission! 
+* Feeling on top of our TPS invoicing 
+* People offering TPS Coffee Chat topics
+* Producing governance documents
+
+#### What did you struggle with?
+* Proving tricky to get some of the proposals underway 
+* Uncertainty around overall budget - taking steps to resolve
+
+#### What would you like to work on next week?
+* Preparing for first leadership team meeting 
+* Budget updating 
+* Newsletter preparation 
+* Supporting AIM workshop and project initiation 
+
+#### Where do you need help from Kirstie?
+* JDs 
+* Input on chasing some people 
+
+#### Any other topics? 
+* Not right now 
 
 ## Date: 15 September 2021
 
