@@ -23,43 +23,64 @@
 
 #### Who did you help this month?
 * MS new role! Very relieved this is sorted 
+  * KW: YESSSSSSSS! Great great work there!
 * KP & AMM with RSF stuff 
+  * KW: Thank you 🙏
 * BN with open call discussion
+  * KW: Yeaaaaaaaah 🚀
 * Lots of people with Flexigrant 
+  * KW: 🙀🙀🙀
 * Folks with grant submissions 
+  * KW: Yes - thank you!
 
 #### Who helped you this month?
 * TC with contract stuff 
 * MS & AM with Parliamentary Inquiry work 
+  * KW: 💯
 * CL with contract
+  * KW: 😭
 * AO with finance stuff
 
 #### What did you achieve? 
-* Parliamentary Inquiry submission 🎉 (that was a lot of fun and I enjoyed the process; real team effort!) 
+* Parliamentary Inquiry submission 🎉 (that was a lot of fun and I enjoyed the process; real team effort!)
+  * KW: Really great - so sorry for my slow slow slowness - you did a really wonderful job.
 * Lots of presentations: open access, enrichment students, etc etc etc
+  * KW: These were all fantastic - well done!
 * TPS leadership team selected, meeting scheduled 
+  * KW: 🚀🌟 Exciting!!
 * Invoices chased - mostly just reconciling final spend for projects 
 * TPS Seminar went Very Well Indeed!
+  * KW: Absolutely - really fantastic!
 
 #### What bought you joy this month?
 * Achieving the submission! 
 * Feeling on top of our TPS invoicing 
 * People offering TPS Coffee Chat topics
 * Producing governance documents
+  * KW: Thank you for doing all of these!!
 
 #### What did you struggle with?
 * Proving tricky to get some of the proposals underway 
+  * KW: Great conversation in the meeting - thank you for all this work and taking it forwards.
 * Uncertainty around overall budget - taking steps to resolve
+  * KW: A process!! A way forwards! What fun!
 
 #### What would you like to work on next week?
 * Preparing for first leadership team meeting 
+  * KW: Exciiiiiiiiting! ✨
+    * Getting to know each other - template slide
+    * Timeline / proposed phases of work
+      * Slack channel, ways of working / comms etc
+    * Single biggest problem TPS should be working on (breakout rooms & then share out?)
 * Budget updating 
 * Newsletter preparation 
 * Supporting AIM workshop and project initiation 
 
 #### Where do you need help from Kirstie?
 * JDs 
+  * KW: Accountability check scheduled for next week ✔️
 * Input on chasing some people 
+  * KW: Good conversation in the meeting
 
 #### Any other topics? 
 * Not right now 
