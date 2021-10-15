@@ -1,5 +1,7 @@
 # Emma and Georgia's Mentoring Meetings
 
+
+* [30 September 2021](#date-30-september-2021)
 * [04 June 2021](#date-04-june-2021)
 * [22 March 2021](#date-22-march-2021)
 * [8 March 2021](#date-8-march-2021)
@@ -7,13 +9,50 @@
 
 **Why?** Peer mentoring, community management & GitHub
 
-**When?** Fortnightly, Mondays 10am.
+**When?** Fortnightly, Weds 3.30pm.
 
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
 
 **Next meeting:** [12th April 2021] No meeting on 5th April as it's a bank holiday.
+
+## Date: 14 October 2021
+
+### What brought you joy this week?
+
+* New members of the team have been great - AP and SL.
+
+### What did you achieve
+
+* Writing position paper and going to use the reverse outline to work on the flow of the article.
+
+### What did you struggle with?
+
+* Shift in the team - leaving members have changed the dynamics of the team so it will take a while to establish a new one. 
+
+### Any other topics
+
+- we talked about nurturing communities and different ways to do this.
+- making sure that meetings are productive but also buildlng personal relationships with community members is important. so leave some time for chats and then address the work. 
+
+## Date: 30 September 2021
+
+### What brought you joy this week?
+
+* Back to London.
+
+### What did you achieve
+
+* Replace this text with a bullet point list of what you achieved this week.
+
+### What did you struggle with?
+
+* Flow of article - we talked about using different methods such as reverse outlining or going back to starting a fresh with an original planned structure to look at the current structure you have. 
+
+### Any other topics
+
+This space is yours to add to as needed.
 
 ## Date: 04 June 2021
 
