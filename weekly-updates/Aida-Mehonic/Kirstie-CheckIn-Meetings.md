@@ -1,5 +1,6 @@
 # Check in meetings with Kirstie
 
+* [Date: 21 October 2021](#date-21-october-2021)
 * [Date: 15 September 2021](#date-15-september-2021)
 * [Date: 11 August 2021](#date-11-august-2021)
 * [Date: 30 June 2021](#date-30-june-2021)
@@ -9,6 +10,46 @@
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+
+### Date: 21 October 2021
+
+#### Who did you help over the past fortnight? 
+* AC - onboarding 
+
+#### Who helped you over the past fortnight?
+
+#### What did you achieve?
+* I've been off work a lot over the past month (mostly annual leave and some sickness days).
+* Presented at ASG Mgmt Board Meeting. 
+* Presented at Whitaker Lab meeting on impact & stakeholder mapping for ASG.
+* Facilitated the Shocks and Resilience Journal Club session.
+* Attended the stakeholder workshop for the 'Food Security' within E&S and volunteered to join the Community & Infrastructure working group. 
+* Joined a team meeting for the RADDISH project. Agreed to work with SG to organise a stakeholder workshop in November. 
+* Took part in the Leadership Panel for TPS. 
+* Attended a SPARRA seminar - RAM plans to be created in discussion with AC. 
+* Wrote my Objectives and we signed them off together. 
+* I pitched the plan to create a Roadmap for Scivision to the team and then launch it during our first community call. They liked it. I'm following up to fix the date.
+* Met new joiner AD. 
+* Had a chat with HS and McC about potentially getting some Band 2 support for the RAM team (coordinator?) as an agency temp for 6 months. 
+* I have been assigned a Turing mentor and a Turing mentee for the next 3 months. 
+* I finally finished the JD for the DSH RAM. 
+
+#### What did you struggle with?
+* LOL, this has been a hard month, but not because of work. Una needs to adjust to her nursery properly, and then all will be well. Getting there. 
+
+#### What would you like to work on next week?
+* Help AC with settling in and specifically around ideas for SPARRA. 
+* Liase with SG to scope the remit of the stakeholder/user workshop for RADDISH and to begin organising. 
+* Get in applications to the December DSG for the RAM team. 
+* Liaise with REG to get a place for AC to attend their Data Science as a Craft training course. 
+* Follow up with DyME about RAM support (just awarded extra funding). 
+* Follow up with TA about IceNet RAM plans. 
+* Have a chat during TPS coffee about the community building strategy for Raphtory. 
+
+#### Where do you need help from Kirstie?
+* What do you think about getting a 6 month temp placement in the RAM team (funded by ASG)? I think this would be helpful if we go ahead and organise the RAM (un)conference in March 2022 that we discussed last week. This idea was suggested by HS and AC. 
+
 
 ### Date: 15 September 2021
 
