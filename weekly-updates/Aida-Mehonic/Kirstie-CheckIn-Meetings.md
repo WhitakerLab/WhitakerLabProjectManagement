@@ -46,6 +46,7 @@
 * Follow up with DyME about RAM support (just awarded extra funding). 
 * Follow up with TA about IceNet RAM plans. 
 * Have a chat during TPS coffee about the community building strategy for Raphtory. 
+* Prepare the RAM quarterly report. 
 
 #### Where do you need help from Kirstie?
 * What do you think about getting a 6 month temp placement in the RAM team (funded by ASG)? I think this would be helpful if we go ahead and organise the RAM (un)conference in March 2022 that we discussed last week. This idea was suggested by HS and AC. 
