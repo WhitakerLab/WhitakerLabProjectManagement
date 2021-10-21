@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [27 October 2021](#date-27-october-2021)
 * [13 October 2021](#date-13-october-2021)
 * [23 June 2021](#date-23-june-2021)
 * [9 June 2021](#date-9-june-2021)
@@ -12,6 +13,46 @@
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 27 October 2021
+
+#### Who did you help this week?
+
+* Lab - I was the goatherd last week!
+* GE and ME - mentoring.
+
+#### Who helped you this week?
+
+* KW - thanks for the super chat last week. 
+
+#### What did you achieve?
+
+* Data paper - working on fig3 data workflow/ wiki with AP.
+* More Github training with AP - working on newsletter together.
+* Turing Way bookdash planning committee and organising the openpublishing fest workshop with EP and RA.
+* Wrote a blog for SSI about my experience having a coding mentor - podcast to come!
+* Ran a reproducible research workshop at Durham uni with another SSI fellow.
+* Did train the trainer training with Elixir.
+
+#### What did you struggle with?
+
+* Nothing at the moment.
+
+#### What would you like to work on next week?
+
+* Writing about sensitive types of data.
+* 
+
+#### Where do you need help from Kirstie?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
 
 ### Date: 13 October 2021
 
