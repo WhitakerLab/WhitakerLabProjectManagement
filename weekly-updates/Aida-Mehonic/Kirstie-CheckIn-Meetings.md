@@ -16,6 +16,7 @@
 
 #### Who did you help over the past fortnight? 
 * AC - onboarding 
+  * KW: Great - two 🐏s!!
 
 #### Who helped you over the past fortnight?
 
@@ -26,23 +27,30 @@
 * Facilitated the Shocks and Resilience Journal Club session.
 * Attended the stakeholder workshop for the 'Food Security' within E&S and volunteered to join the Community & Infrastructure working group. 
 * Joined a team meeting for the RADDISH project. Agreed to work with SG to organise a stakeholder workshop in November. 
+  * KW: Great! Exciting 🚀
 * Took part in the Leadership Panel for TPS. 
 * Attended a SPARRA seminar - RAM plans to be created in discussion with AC. 
 * Wrote my Objectives and we signed them off together. 
 * I pitched the plan to create a Roadmap for Scivision to the team and then launch it during our first community call. They liked it. I'm following up to fix the date.
-* Met new joiner AD. 
+  * KW: Make sure to connect with MS, EK and AB about running the community calls - there are real skills around making them both useful and having space for people to share their perspectives
+* Met new joiner AD.
+  * KW: Great!
 * Had a chat with HS and McC about potentially getting some Band 2 support for the RAM team (coordinator?) as an agency temp for 6 months. 
-* I have been assigned a Turing mentor and a Turing mentee for the next 3 months. 
-* I finally finished the JD for the DSH RAM. 
+* I have been assigned a Turing mentor and a Turing mentee for the next 3 months.
+* I finally finished the JD for the DSH RAM.
+  * KW: AND I REVIEWED IT WHAAAAAAT?!
 
 #### What did you struggle with?
 * LOL, this has been a hard month, but not because of work. Una needs to adjust to her nursery properly, and then all will be well. Getting there. 
+  * KW: 🌻🌻🌻
 
 #### What would you like to work on next week?
 * Help AC with settling in and specifically around ideas for SPARRA. 
 * Liase with SG to scope the remit of the stakeholder/user workshop for RADDISH and to begin organising. 
 * Get in applications to the December DSG for the RAM team. 
+  * KW: Yes please. It will feel like a lot of time but it will be really worth it I think 🌺
 * Liaise with REG to get a place for AC to attend their Data Science as a Craft training course. 
+  * KW: GREAT.
 * Follow up with DyME about RAM support (just awarded extra funding). 
 * Follow up with TA about IceNet RAM plans. 
 * Have a chat during TPS coffee about the community building strategy for Raphtory. 
@@ -50,6 +58,7 @@
 
 #### Where do you need help from Kirstie?
 * What do you think about getting a 6 month temp placement in the RAM team (funded by ASG)? I think this would be helpful if we go ahead and organise the RAM (un)conference in March 2022 that we discussed last week. This idea was suggested by HS and AC. 
+  * KW: Chatted about in the meeting - I'm not sure that a coordinator will be helpful for the RAM event but maybe they could be helpful for some user testing?
 
 
 ### Date: 15 September 2021
