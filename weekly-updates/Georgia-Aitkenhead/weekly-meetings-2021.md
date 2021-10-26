@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [27 October 2021](#date-27-october-2021)
 * [13 October 2021](#date-13-october-2021)
 * [29 September 2021](#date-29-september-2021)
 * [01 September 2021](#date-01-september-2021)
@@ -18,6 +19,41 @@ Georgia's weekly meeting notes.
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 27 October 2021
+
+#### Who did you help this week?
+
+* Helped Whitaker Lab by goathearding 🐐
+* Helped SL run meet-up session
+* Proof-read TPS newsletter for AB 
+
+#### Who helped you this week?
+
+* AP helped with meet-up session
+
+#### What did you achieve?
+
+* Half year report for TPS [#551](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/551)
+* Made a "reverse structure" for position paper on Trello: https://trello.com/b/DBL80VR3/method-paper 
+* Created a presentation for the lab meetnig [#570](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/570)
+* Successful application to RRI training  
+
+#### What did you struggle with?
+
+* I accidentally chose an ugly template for my presentation :/
+* Feeling tired 
+
+#### Where do you need help from Kirstie?
+
+* Prep for call with Autistica 
+* Position paper structuring 🧠
+
+#### What would you like to work on next week?
+
+* October newsletter
+* Moderation work: getting dataset combined and onto GitHub
+* Position paper  
 
 ### Date: 13 October 2021
 
