@@ -23,7 +23,7 @@
 
 #### Who helped you this week?
 
-* KW - thanks for the super chat last week. 
+* KW - thanks for the super chat last night about my new project idea. 
 
 #### What did you achieve?
 
@@ -41,13 +41,13 @@
 #### What would you like to work on next week?
 
 * Writing about sensitive types of data.
-* 
+* Finish figure 3 for data paper.
+* TW bookdash onboarding session.
 
 #### Where do you need help from Kirstie?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* How do you start a new repo on the alan turing organisation - thinking we need to set up a clean one to go with the data paper. 
+ * We'll transfer across datamanagement info and wiki and also include code for figures. 
 
 #### Any other topics
 
