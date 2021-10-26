@@ -2,11 +2,9 @@
 
 *Meetings are scheduled every 2 weeks*
 
-* [Template](#template)
+* [Template](#date-template)
 
-## Template
-
-### Date: [Template]
+## Date: Template
 
 #### Who did you help this week?
 
