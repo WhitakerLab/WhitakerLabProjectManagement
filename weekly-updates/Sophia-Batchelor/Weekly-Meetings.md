@@ -8,6 +8,54 @@
 
 *Sophia & Kirstie meet every 2 weeks on Tuesdays*
 
+
+## Date: 26 October 2021
+#### Who did you help this week?
+* MIT Reality Hack ran this weekend and it involved a lot of world building (in VR) and I was roped in to help run the event
+* Lots of things going on at home :house:
+* Jumped on with some of the Hacktober github threads (not as much as I would have liked)
+* Picked friends up from the airport for a conference
+* Am supporting a VR research team back in NZ with some work
+* Had a design work session for AutSPACEs 🎨
+* LC with jumping in to chair lab 
+
+#### Who helped you this week?
+* Synced with some VR folk and am pulling together the visa application. Am incredibly grateful to everyone for their support.
+* Had an informal "let's circle back after this conference" job talk which gave me a lot of hope 
+* KW chat over job prospects
+
+#### What did you achieve?
+* Had 2 job interviews 
+* Chatted with a recruiter 
+* Had 2 coffee chats with people about jobs 
+* Bought a 🚗 (and managed to get all the paperwork sorted that goes along with that)
+* Contributed to an awesome VR project (the MIT Hack) which was super fun
+* Had an eye test (have needed new glasses)
+* Set up a semi-automated spreadsheet to track applications, requirements, and responses from jobs 
+* Finished chapter of a "read for fun" book
+* Connected with a professor at westminster in comp bio 
+* Applied for November's Data Study Group 📊 💻
+
+#### What did you struggle with?
+* The workload for the MIT project was a lot more than it was advertised to be. I would have preffered to be brought in earlier and helped lay strong foundations instead of being used as a firefighter but either way the event was super cool (just exhausting).
+* Feeling spread super thin trying to search for "all and any jobs I qualify for" and am sinking a lot of time on the resume.
+* Feeling really "imposter-y" as I don't feel connected to my skills or "achievements" that I've done before. 
+* Am very overwhelmed about resumes.
+* Still no feedback from Leeds.
+
+#### What would you like to work on in the next two weeks?
+* AutSPACEs design brief 
+* AutSPACEs design template 
+* Turing Way (There's an issue about the design and usability and I would love to dive in and help lend some UX/design thinking)
+
+#### Where do you need help from Kirstie?
+
+
+#### Anything else?
+* Review of meetings (since not going to do supervision, would it help to bump these off the calendar?)
+* Trying to not step on toes while I'm in a "low battery" state 🔋
+
+
 ## Date: 12 October 2021
 
 #### Who did you help this week?
