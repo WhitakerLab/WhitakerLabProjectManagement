@@ -2,6 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [27 October 2021](#date-27-october-2021)
 * [13 October 2021](#date-13-october-2021)
 * [15 September 2021](#date-15-september-2021)
 * [18 August 2021](#date-18-august-2021)
@@ -17,6 +18,47 @@
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 27 October 2021
+
+#### Who did you help this week?
+* AM new role (nearly) 
+* Interviews for AIM - nice to get back in the saddle with hiring 
+* AIM RSF things: workshop, schedules etc 
+* 
+#### Who helped you this week?
+* JR&FM with recruitment queries
+* GS with contract ✨
+* HMc looking into budget things
+
+
+#### What did you achieve? 
+* Amendment letters drafted/issued 
+* Scoping meetings scheduled 
+* TPS and CTP budgets updated for reporting 
+* Newsletter out 
+* First meeting of the TPS leadership team 🎉
+
+#### What bought you joy this month?
+* TPS Coffee Chats - still feel they're going really well
+* The first meeting of the TPS leadership team!
+* Being useful and helping people out 
+* Exciting plans for new projects
+
+#### What did you struggle with?
+* I had The Cold which meant I needed time off 😷
+* Sometimes I am finding I'm struggling with focus so maybe need to rethink my routine or set up 
+
+#### What would you like to work on next week?
+* Q2 Report is absolute priority until it's in 
+* AIM webpage live 
+
+#### Where do you need help from Kirstie?
+* Q2 report front section 
+* AIM webpage thumbs up pls 
+
+#### Any other topics? 
+* Yes - lets discuss (a good thing!) 
 
 ## Date: 13 October 2021
 *Gap between meetings due to rescheduling / deadlines / illness* 
