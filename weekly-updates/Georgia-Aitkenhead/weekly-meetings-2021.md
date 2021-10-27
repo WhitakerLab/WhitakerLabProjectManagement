@@ -36,7 +36,7 @@ Georgia's weekly meeting notes.
 
 * Half year report for TPS [#551](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/551)
 * Made a "reverse structure" for position paper on Trello: https://trello.com/b/DBL80VR3/method-paper 
-* Created a presentation for the lab meetnig [#570](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/570)
+* Created a presentation for the lab meeting [#570](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/570)
 * Successful application to RRI training  
 
 #### What did you struggle with?
