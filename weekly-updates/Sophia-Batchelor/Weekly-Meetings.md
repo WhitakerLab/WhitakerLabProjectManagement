@@ -1,5 +1,6 @@
 # Sophia Bi-Weekly Updates
 
+* [26 October 2021](#date-26-october-2021)
 * [12 October 2021](#date-12-october-2021)
 * [14 September 2021](#date-14-september-2021)
 * [17 August 2021](#date-17-august-2021)
@@ -7,7 +8,6 @@
 * [22 June 2021](#date-22-june-2021)
 
 *Sophia & Kirstie meet every 2 weeks on Tuesdays*
-
 
 ## Date: 26 October 2021
 #### Who did you help this week?
@@ -35,13 +35,16 @@
 * Finished chapter of a "read for fun" book
 * Connected with a professor at westminster in comp bio 
 * Applied for November's Data Study Group 📊 💻
+  * KW: Very cool - I think you'll really enjoy the couple of weeks!
 
 #### What did you struggle with?
 * The workload for the MIT project was a lot more than it was advertised to be. I would have preffered to be brought in earlier and helped lay strong foundations instead of being used as a firefighter but either way the event was super cool (just exhausting).
+  * KW: To quote you from our chat: MIND BENDING indeed! Exciting and creative work!
 * Feeling spread super thin trying to search for "all and any jobs I qualify for" and am sinking a lot of time on the resume.
 * Feeling really "imposter-y" as I don't feel connected to my skills or "achievements" that I've done before. 
 * Am very overwhelmed about resumes.
 * Still no feedback from Leeds.
+  * KW: Appalling. I'm so disappointed (in them! NOT YOU!)
 
 #### What would you like to work on in the next two weeks?
 * AutSPACEs design brief 
@@ -53,8 +56,9 @@
 
 #### Anything else?
 * Review of meetings (since not going to do supervision, would it help to bump these off the calendar?)
+  * KW: Lets keep them wrt AutSPACEs working
 * Trying to not step on toes while I'm in a "low battery" state 🔋
-
+  * KW: Discussed in meeting 🌺
 
 ## Date: 12 October 2021
 
