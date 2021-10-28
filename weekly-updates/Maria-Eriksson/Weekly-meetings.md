@@ -42,8 +42,10 @@
 #### What did you achieve?
 
 * Made changes in manuscript based on KW's and clinicians' feedback (though a bit tricky to do both)
+  * KW: Discussed in meeting - so hard!! Stay the course 💪
 * Made poster for conference
 * Planned some more bits for Turing Way Book Dash w EK and EP
+  * KW: This is going to be super fun!
 
 #### What did you struggle with?
 
@@ -58,7 +60,9 @@
 
 * Another round of feedback on updated manuscript, if possible?
 * Thoughts on letter (pre-submission request) to editor
+  * KW: Discussed in meeting ✔️
 * Check one stat (value in ordinal log reg)
+  * KW: Will do!
 
 ### Date: 13 October 2021
 
