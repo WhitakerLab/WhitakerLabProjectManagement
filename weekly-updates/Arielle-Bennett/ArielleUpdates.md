@@ -2,6 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [27 October 2021](#date-27-october-2021)
 * [13 October 2021](#date-13-october-2021)
 * [15 September 2021](#date-15-september-2021)
 * [18 August 2021](#date-18-august-2021)
@@ -17,6 +18,62 @@
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 27 October 2021
+
+#### Who did you help this week?
+* AM new role (nearly) 
+  * KW: 🤞🤞 - exciting!
+* Interviews for AIM - nice to get back in the saddle with hiring 
+  * KW: FUN!
+* AIM RSF things: workshop, schedules etc 
+  * KW: VERY HELPFUL!
+
+#### Who helped you this week?
+* JR&FM with recruitment queries
+  * KW: ✔️ great!
+* GS with contract ✨
+  * KW: 💪 we can cross this liiiiiiiiiine
+* HMc looking into budget things
+  * KW: 💰 Woooo!
+
+#### What did you achieve? 
+* Amendment letters drafted/issued  
+* Scoping meetings scheduled 
+  * KW: Great - looking forward to those!
+* TPS and CTP budgets updated for reporting 
+  * KW: WOO
+* Newsletter out 
+  * KW: WOO AGAIN!
+* First meeting of the TPS leadership team 🎉
+  * KW: This went really well - well done!
+
+#### What bought you joy this month?
+* TPS Coffee Chats - still feel they're going really well
+  * KW: Totally agree - I think these are rocking along! ☕
+* The first meeting of the TPS leadership team!
+  * KW: Excited for some brainstorming for the next session!
+* Being useful and helping people out 
+* Exciting plans for new projects
+
+#### What did you struggle with?
+* I had The Cold which meant I needed time off 😷
+  * Everyone has the plague at the moment (not even just COVID 😭)
+  * KW: BOOOOOOO 😭
+* Sometimes I am finding I'm struggling with focus so maybe need to rethink my routine or set up 
+
+#### What would you like to work on next week?
+* Q2 Report is absolute priority until it's in 
+* AIM webpage live 
+
+#### Where do you need help from Kirstie?
+* Q2 report front section 
+* AIM webpage thumbs up pls 
+  * KW: Yes - will do!
+
+#### Any other topics? 
+* Yes - lets discuss (a good thing!) 
+  * KW: YEAAAAAAAAAAAAH I LOVE THIS GOOD THING ✊
 
 ## Date: 13 October 2021
 *Gap between meetings due to rescheduling / deadlines / illness* 
