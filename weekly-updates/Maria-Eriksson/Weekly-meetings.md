@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [28 October 2021](#date-28-october-2021)
 * [13 October 2021](#date-13-october-2021)
 * [23 September 2021](#date-23-september-2021)
 * [1 September 2021](#date-1-september-2021)
@@ -26,6 +27,38 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 28 October 2021
+
+#### Who did you help this week?
+
+* PhD student & clinicians w MRI data
+* IKG
+
+#### Who helped you this week?
+
+* Clinicians provided feedback on manuscript 
+
+#### What did you achieve?
+
+* Made changes in manuscript based on KW's and clinicians' feedback (though a bit tricky to do both)
+* Made poster for conference
+* Planned some more bits for Turing Way Book Dash w EK and EP
+
+#### What did you struggle with?
+
+* Nothing to report
+
+#### What would you like to work on next week?
+
+* Finish manuscript and send off
+* Go back to working on prediction paper
+
+#### Where do you need help from Kirstie?
+
+* Another round of feedback on updated manuscript, if possible?
+* Thoughts on letter (pre-submission request) to editor
+* Check one stat (value in ordinal log reg)
 
 ### Date: 13 October 2021
 
