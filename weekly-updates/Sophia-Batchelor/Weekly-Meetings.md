@@ -1,8 +1,114 @@
 # Sophia Bi-Weekly Updates
 
+* [26 October 2021](#date-26-october-2021)
+* [12 October 2021](#date-12-october-2021)
 * [14 September 2021](#date-14-september-2021)
+* [17 August 2021](#date-17-august-2021)
+* [3 August 2021](#date-3-august-2021)
+* [22 June 2021](#date-22-june-2021)
 
 *Sophia & Kirstie meet every 2 weeks on Tuesdays*
+
+## Date: 26 October 2021
+#### Who did you help this week?
+* MIT Reality Hack ran this weekend and it involved a lot of world building (in VR) and I was roped in to help run the event
+* Lots of things going on at home :house:
+* Jumped on with some of the Hacktober github threads (not as much as I would have liked)
+* Picked friends up from the airport for a conference
+* Am supporting a VR research team back in NZ with some work
+* Had a design work session for AutSPACEs 🎨
+* LC with jumping in to chair lab 
+
+#### Who helped you this week?
+* Synced with some VR folk and am pulling together the visa application. Am incredibly grateful to everyone for their support.
+* Had an informal "let's circle back after this conference" job talk which gave me a lot of hope 
+* KW chat over job prospects
+
+#### What did you achieve?
+* Had 2 job interviews 
+* Chatted with a recruiter 
+* Had 2 coffee chats with people about jobs 
+* Bought a 🚗 (and managed to get all the paperwork sorted that goes along with that)
+* Contributed to an awesome VR project (the MIT Hack) which was super fun
+* Had an eye test (have needed new glasses)
+* Set up a semi-automated spreadsheet to track applications, requirements, and responses from jobs 
+* Finished chapter of a "read for fun" book
+* Connected with a professor at westminster in comp bio 
+* Applied for November's Data Study Group 📊 💻
+  * KW: Very cool - I think you'll really enjoy the couple of weeks!
+
+#### What did you struggle with?
+* The workload for the MIT project was a lot more than it was advertised to be. I would have preffered to be brought in earlier and helped lay strong foundations instead of being used as a firefighter but either way the event was super cool (just exhausting).
+  * KW: To quote you from our chat: MIND BENDING indeed! Exciting and creative work!
+* Feeling spread super thin trying to search for "all and any jobs I qualify for" and am sinking a lot of time on the resume.
+* Feeling really "imposter-y" as I don't feel connected to my skills or "achievements" that I've done before. 
+* Am very overwhelmed about resumes.
+* Still no feedback from Leeds.
+  * KW: Appalling. I'm so disappointed (in them! NOT YOU!)
+
+#### What would you like to work on in the next two weeks?
+* AutSPACEs design brief 
+* AutSPACEs design template 
+* Turing Way (There's an issue about the design and usability and I would love to dive in and help lend some UX/design thinking)
+
+#### Where do you need help from Kirstie?
+
+
+#### Anything else?
+* Review of meetings (since not going to do supervision, would it help to bump these off the calendar?)
+  * KW: Lets keep them wrt AutSPACEs working
+* Trying to not step on toes while I'm in a "low battery" state 🔋
+  * KW: Discussed in meeting 🌺
+
+## Date: 12 October 2021
+
+#### Who did you help this week?
+* MIT is running a VR event next week, I'm helping with code and design of VR env
+* 👫 with Scotland trip
+* SL with design goals and helping support her during the internship
+* GA to figure out how to scope front end design 
+* Current Cal student who was thinking of switching majors and reached out for general guidance
+* 👫 during migrane 
+* Turing Way & MS with Hacktober stuff 
+
+#### Who helped you this week?
+* Immigration lawyer with advice and what gives me the best 🥅 to aim for
+* DeepMind recruiter gave advice and said to stay in touch based on my skill set 
+* CB had a good chat about ethical assurance and the RRI course they're running
+* DSP assessment identified areas of support and was absolutely amazing
+* PH gave awesome advice on where to visit in 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+* SG found two job adverts and sent them through
+
+
+### Updates
+
+#### PhD 
+![Obama Gif](https://media.giphy.com/media/26gJy2PnOKrgVfOus/giphy.gif)
+
+#### General Updates 
+* Scotland is beautiful! Am back home on Friday and back to work Monday.
+* I think taking a step back (once safe to do so) until January would be good. And I can spend that time re-learning skills that I've fallen out of practice with. 
+
+#### What did you struggle with?
+* Figuring out what the best route is visa wise - apparently the Global Talent would actually be the best best (after chatting to lawyers). 
+* Not getting feedback/input. 
+* The decision about 🇳🇿 university offer and wondering if that's the best thing to do. 
+* Time wise, just had a lot going on last two weeks and all bitty tasks. 
+
+#### What would you like to work on in the next two weeks?
+* Scotland
+* Life decisions (visa, which car to get, insurance etc)
+* Application for Global Talent Visa started (pending Leeds and letters of recc)
+* MIT Event (due Oct 20th)
+* AutSPACEs design (design sprint + scope, folder organization)
+
+#### Where do you need help from Kirstie?
+* Letter of recc (if that's okay to ask for!!) for Global Talent visa
+* Requirements for the letter [here](https://hackmd.io/@brainonsilicon/ryyOHG7BK) 
+
+
+#### Any other topics
+* 
 
 ## Date: 14 September 2021
 
