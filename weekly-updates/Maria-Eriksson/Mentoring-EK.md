@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [1 November 2021](#date-1-november-2021)
 * [12 October 2021](#date-12-october-2021)
 * [1 October 2021](#date-1-october-2021)
 * [14 September 2021](#date-14-september-2021)
@@ -24,6 +25,16 @@
 
 **For how long?** 1 hour
 
+## Date: 1 November 2021
+
+### What brought you joy this week?
+* ME - Internet fixed 😆
+### What did you achieve
+* ME - Addressed feedback and comments on manuscript
+### What did you struggle with?
+* ME - Nothing to report...
+### Any other topics
+* ME - We updated [Book Dash notes](https://hackmd.io/DRiGvOgbRdy9YkYdUzZC7A). And Emma helped me sign up for Book Dash properly ☺️
 
 ## Date: 12 October 2021
 
