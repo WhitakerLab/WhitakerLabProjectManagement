@@ -1,6 +1,6 @@
 # Emma and Georgia's Mentoring Meetings
 
-
+* [03 November 2021](#date-03-november-2021)
 * [30 September 2021](#date-30-september-2021)
 * [04 June 2021](#date-04-june-2021)
 * [22 March 2021](#date-22-march-2021)
@@ -16,6 +16,24 @@
 **For how long?** 1 hour
 
 **Next meeting:** [12th April 2021] No meeting on 5th April as it's a bank holiday.
+
+## Date: 03 November 2021 
+
+### What brought you joy this week?
+
+* Seeing the design system progress by Sophia and Soledad! 
+
+### What did you achieve
+
+* Meet-up and dev session, presentation on paper for lab, moderation work
+
+### What did you struggle with?
+
+* Paper is still tricky but getting through it and it's fun :D
+
+### Any other topics?
+
+* We talked about volunteer labour, the ethics of it, how to plan with a community, motivating people without directing them
 
 ## Date: 14 October 2021
 
