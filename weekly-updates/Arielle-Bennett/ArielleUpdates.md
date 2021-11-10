@@ -2,6 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [10 November 2021](#date-10-november-2021)
 * [27 October 2021](#date-27-october-2021)
 * [13 October 2021](#date-13-october-2021)
 * [15 September 2021](#date-15-september-2021)
@@ -18,6 +19,47 @@
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 10 November 2021
+
+#### Who did you help this week?
+* New Book Dash participants: reviewing, mentoring etc etc
+* AR on some pointers
+* MK with newsletters
+* AF with contracts and project set up 
+* VH with discussions
+* Interview panel 
+
+#### Who helped you this week?
+* HMc as always!
+* WT with some guidance on 2.0 stuff
+* EP, LK & others on my Book Dash chapter
+
+#### What did you achieve? 
+* Alllll the scoping meetings 
+* Presented on the Turing Way to the RPMs 
+* Kept projects ticking over
+* Got our reports all submitted in a timely manner 
+
+#### What bought you joy this week?
+* Book Dash stuff ✨
+* Coffee Chats
+* Positive feedback on big grant finance 
+* Meeting all the new folks!
+
+#### What did you struggle with?
+* Slow contracts
+* Slow answers 
+* Confusing contracts 😅
+* Dropped the ball on a report 😞
+* Feeling a little wrung out with not enough time to get my head around the big picture stuff
+
+#### Where do you need help from Kirstie?
+* Answer to an email I sent you on the JH project 
+* Suggestions for other ways to get a firm answer on citizen science
+
+#### Any other topics? 
+* 🗺️
 
 ## Date: 27 October 2021
 
