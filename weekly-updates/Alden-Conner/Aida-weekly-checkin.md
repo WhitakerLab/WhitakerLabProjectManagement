@@ -1,6 +1,7 @@
 # Check-in meetings with Aida
 
 * [Date: 9 November 2021](#date-9-november-2021)
+* [Date: 15 November 2021](#date-15-november-2021)
 
 ### Date: 9 November, 2021
 
@@ -39,3 +40,115 @@ AM, VH, MS, SG, AR, HM, HS, AB
   - [AM] Happy to review, also happy for you to run with it. ✨
 * Discuss format for "worksheet"
   - [AM] Had a discussion about two different versions of the rubric: one word doc to be used for information consolisation and for decision-making by the RAM team; the second will be a worksheet in the style of the Open Canvas whose main purpose is to enable brainstorming sessions with the project team. The word doc version is more time-sensitive for us as a team, so let's work on that one first.📄
+
+
+### Date: [15 November, 2021]
+
+#### Who did you help this week?
+
+Replace this text with a one/two sentence description of who you helped this week and how.
+
+
+#### Who helped you this week?
+
+Replace this text with a one/two sentence description of who helped you this week and how.
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Plan for COVID modelling RAM engagement - next step meet with Ben and James
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Aida?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
+### Date: [INSERT DATE OF MEETING]
+
+#### Who did you help this week?
+
+Replace this text with a one/two sentence description of who you helped this week and how.
+
+
+#### Who helped you this week?
+
+Replace this text with a one/two sentence description of who helped you this week and how.
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Aida?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
+### Date: [INSERT DATE OF MEETING]
+
+#### Who did you help this week?
+
+Replace this text with a one/two sentence description of who you helped this week and how.
+
+
+#### Who helped you this week?
+
+Replace this text with a one/two sentence description of who helped you this week and how.
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Aida?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
