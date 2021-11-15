@@ -46,38 +46,33 @@ AM, VH, MS, SG, AR, HM, HS, AB
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
-
+RAM team with first draft of rubric, project management research. CMs with (Aida's) Turing overview.
 
 #### Who helped you this week?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+RAM team!
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* first draft of rubric
+* first meeting with Turing researcher
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* Where to begin with SPARRA
 
 #### What would you like to work on next week?
 
-* Plan for COVID modelling RAM engagement - next step meet with Ben and James
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* expanding rubric - pre-interview/interview/post-interview sections
+* filling pre-interview rubric and scheduling interviews for for COVID modelling and SPARRA
 
 #### Where do you need help from Aida?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* better SPARRA understanding
 
-#### Any other topics
 
-This space is yours to add to as needed.
+
+
 
 ### Date: [INSERT DATE OF MEETING]
 
