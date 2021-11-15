@@ -1,7 +1,46 @@
 # Check-in meetings with Aida
 
-* [Date: 9 November 2021](#date-9-november-2021)
 * [Date: 15 November 2021](#date-15-november-2021)
+* [Date: 9 November 2021](#date-9-november-2021)
+
+
+### Date: [15 November, 2021]
+
+#### Who did you help this week?
+
+RAM team with first draft of rubric, project management research. CMs with (Aida's) Turing overview.
+- [AM] Woo well done on sending in the rubric last week!! 🎉
+- [AM] AR, JD and VH help --- thank you!! 🥇
+
+#### Who helped you this week?
+
+RAM team!
+- [AM] It was lovely coming together as a team both IRL and virtally last week! 
+
+#### What did you achieve?
+
+* first draft of rubric
+* first meeting with Turing researcher
+  - [AM] Sooo excited to hear about this! Well done! Outward-facing website with sliders and plots; 100% try and create the GUI version earlier rather than later;
+  - [AM] Excited about the Zero to Binder training for the postdocs!    
+
+#### What did you struggle with?
+
+* Where to begin with SPARRA
+- [AM] Let's reach out to JL - AM to send contact details.  
+
+#### What would you like to work on next week?
+
+* expanding rubric - pre-interview/interview/post-interview sections
+- [AM] I really like this!  
+* filling pre-interview rubric and scheduling interviews for COVID modelling and SPARRA
+- [AM] So happy to see it all coming together. 
+
+#### Where do you need help from Aida?
+
+* better SPARRA understanding
+- [AM] We have a plan to have a chat with JL. 
+
 
 ### Date: 9 November, 2021
 
@@ -42,33 +81,6 @@ AM, VH, MS, SG, AR, HM, HS, AB
   - [AM] Had a discussion about two different versions of the rubric: one word doc to be used for information consolisation and for decision-making by the RAM team; the second will be a worksheet in the style of the Open Canvas whose main purpose is to enable brainstorming sessions with the project team. The word doc version is more time-sensitive for us as a team, so let's work on that one first.📄
 
 
-### Date: [15 November, 2021]
-
-#### Who did you help this week?
-
-RAM team with first draft of rubric, project management research. CMs with (Aida's) Turing overview.
-
-#### Who helped you this week?
-
-RAM team!
-
-#### What did you achieve?
-
-* first draft of rubric
-* first meeting with Turing researcher
-
-#### What did you struggle with?
-
-* Where to begin with SPARRA
-
-#### What would you like to work on next week?
-
-* expanding rubric - pre-interview/interview/post-interview sections
-* filling pre-interview rubric and scheduling interviews for for COVID modelling and SPARRA
-
-#### Where do you need help from Aida?
-
-* better SPARRA understanding
 
 
 
