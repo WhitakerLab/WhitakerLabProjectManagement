@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [17 November 2021](#date-17-november-2021)
 * [27 October 2021](#date-27-october-2021)
 * [13 October 2021](#date-13-october-2021)
 * [29 September 2021](#date-29-september-2021)
@@ -19,6 +20,47 @@ Georgia's weekly meeting notes.
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 17 November 2021
+
+* Reviewed work for SL
+* Shared resources with RRI group
+* Feedback on ethics form for IGK [(Defining "fairness")](https://hackmd.io/RXaaQ52sSvO8abhSdwWtbA)
+
+#### Who helped you this week?
+
+* SB has been amazing! 
+* Mentoring from IS was fantastic 
+* RP working on REG document
+* Aprecciating AC's recipes
+
+#### What did you achieve?
+
+* Applied for MozFest with SB [#582](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/582)
+* RRI training course: worked on a case study involving an algorithm for predicting reoffence rates - loved the course! 
+* Moderation summaries combined and in markdown on GitHub (still needs some work formatting and proof-reading) [#416](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/416)
+* Co-working on code of conduct with SF [#566](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/566)
+* Some more work on position paper [#247](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/247)
+
+#### What did you struggle with?
+
+* I was sick on Friday which meant I missed the last day of the RRI course - such bad timing! 😿
+* Keeping momentum going
+* Not making as much progress with position paper as I wanted
+
+#### Where do you need help from Kirstie?
+
+* JS DCMS opportunity
+* Team planning 
+* How to sustain momentum
+* Ethics application? 
+
+#### What would you like to work on next week?
+
+* Position paper (prioritise this!)
+* November newsletter
+* PS-SIG presentation [562](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/562)
+* Co-working on code of conduct
 
 ### Date: 27 October 2021
 
