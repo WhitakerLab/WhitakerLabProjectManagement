@@ -32,7 +32,7 @@ Georgia's weekly meeting notes.
 * SB has been amazing! 
 * Mentoring from IS was fantastic 
 * RP working on REG document
-* Aprecciating AC's recipes
+* Apprecciating AC's recipes
 
 #### What did you achieve?
 
