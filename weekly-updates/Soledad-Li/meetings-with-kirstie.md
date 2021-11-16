@@ -3,7 +3,42 @@
 *Meetings are scheduled every 2 weeks*
 
 * [Template](#date-template)
+* [16 November 2021](#date-16-November-2021)
 
+### Date: 16 November 2021
+#### Who did you help this week?
+* Helped GA for solving a merge conflict
+
+#### Who helped you this week?
+* SB supported me a lot for my internship and I got to learn a lot as well
+* AP supported me last meet-up as a time keeper :timer_clock: 
+
+#### What did you achieve?
+* For the past three weeks, I focused on **community and user research design work**
+* Community
+    * Led two AutSPACEs meet-up
+    * Sent meet-up updates on twitter, slack, and tiny newsletter 
+* User Research Design
+     * Conducted my first user research interview with LC and SB together
+    * Finished [the Information Architecture Diagram](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=IA_AutSPACEs.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1THiziivGBr89J5x9oJahXuHtL7iib8J1%26export%3Ddownload) for AutSPACEs wireframe and am  waiting for merging the progress to [github repo ](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/584)
+    * Finished and presented User Persona and added a carer persona based on the community's feedback: [User Persona on GitHub](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/platform-designs/design-research/Personas)
+    * Working on [User Needs Matrix](https://docs.google.com/spreadsheets/d/11vbZ0TYvY2qq-EgF5IHNowC4Mfksf_fekJ5rUXY4deM/edit#gid=0)
+    * Updated [design-feedback](https://docs.google.com/presentation/d/1VTJbexcdFIkcNOYoW9C61iOVWgRw46ec08PSIv9flPs/edit#slide=id.gf192724d12_0_0)
+* Design System
+    * Identified [three accessible color palettes](https://docs.google.com/presentation/d/18_V4i4zlKcZWg7UTgsejTk0Bc8Xye33wApLhzC2Fwtc/edit#slide=id.p) for AutSPACEs platform 
+
+#### What did you struggle with?
+* Currently making progress on user research design and got lots of support from SB and am not stuck :smiley: 
+
+#### What would you like to work on next week?
+- Continue the work on [User Needs Matrix](https://docs.google.com/spreadsheets/d/11vbZ0TYvY2qq-EgF5IHNowC4Mfksf_fekJ5rUXY4deM/edit#gid=0)
+- Building [User Flow](https://hackmd.io/ZH3drANbSVyQR2IUbmVj0Q) 
+#### Where do you need help from Kirstie?
+* Any feedback for me for the last AutSPACEs meet-up :smiley: 
+#### Any other topics
+* I really enjoy useer research design and am taking Coursera class on it as well! 
+
+---
 ## Date: Template
 
 #### Who did you help this week?
