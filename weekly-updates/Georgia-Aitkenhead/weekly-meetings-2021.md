@@ -2,6 +2,8 @@
 
 Georgia's weekly meeting notes.
 
+* [17 November 2021](#date-17-november-2021)
+* [27 October 2021](#date-27-october-2021)
 * [13 October 2021](#date-13-october-2021)
 * [29 September 2021](#date-29-september-2021)
 * [01 September 2021](#date-01-september-2021)
@@ -18,6 +20,98 @@ Georgia's weekly meeting notes.
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 17 November 2021
+
+* Reviewed work for SL
+  * KW: Really helpful
+* Shared resources with RRI group
+* Feedback on ethics form for IGK [(Defining "fairness")](https://hackmd.io/RXaaQ52sSvO8abhSdwWtbA)
+  * KW: Fab!
+
+#### Who helped you this week?
+
+* SB has been amazing! 
+* Mentoring from IS was fantastic 
+* RP working on REG document
+* Apprecciating AC's recipes
+
+Aaaah - lovely range of help across lots of different topics!! 🍰
+
+#### What did you achieve?
+
+* Applied for MozFest with SB [#582](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/582)
+  * KW: Chatted in the meeting - a couple of edits to fit in. Looks good though - fingers crossed.
+  * Please do add to the GitHub so we have a record 😸
+* RRI training course: worked on a case study involving an algorithm for predicting reoffence rates - loved the course!
+  * KW: Really delighted that you enjoyed it so much!
+* Moderation summaries combined and in markdown on GitHub (still needs some work formatting and proof-reading) [#416](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/416)
+  * KW: This is great - can you ask AP to review? 
+* Co-working on code of conduct with SF [#566](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/566)
+  * KW: This is really starting to come together - enforcement needs a bit more work - potentially cribbing from the Turing Way code of conduct?
+* Some more work on position paper [#247](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/247)
+
+#### What did you struggle with?
+
+* I was sick on Friday which meant I missed the last day of the RRI course - such bad timing! 😿
+* Keeping momentum going
+* Not making as much progress with position paper as I wanted
+
+#### Where do you need help from Kirstie?
+
+* JS DCMS opportunity
+  * KW: Recycle a talk that already exists!
+* Team planning 
+  * KW: Very helpful chat in the meeting. Thank you for discussing.
+* How to sustain momentum
+  * KW: For the community - honestly - we can't - we don't have capacity. It's a shame but better to be honest about it rather than promise connectivity / activity and not be able to deliver.
+    * For the position paper - protect your time like a mama bear getting ready for hibernation 🐻🧸
+* Ethics application? 
+  * KW: Got a slot in the calendar for December 👍
+
+#### What would you like to work on next week?
+
+* Position paper (prioritise this!)
+  * KW: ✔️✔️✔️
+* November newsletter
+  * KW: Can SL do a draft of this? First pass at least.
+* PS-SIG presentation [562](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/562)
+* Co-working on code of conduct
+
+### Date: 27 October 2021
+
+#### Who did you help this week?
+
+* Helped Whitaker Lab by goathearding 🐐
+* Helped SL run meet-up session
+* Proof-read TPS newsletter for AB 
+
+#### Who helped you this week?
+
+* AP helped with meet-up session
+
+#### What did you achieve?
+
+* Half year report for TPS [#551](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/551)
+* Made a "reverse structure" for position paper on Trello: https://trello.com/b/DBL80VR3/method-paper 
+* Created a presentation for the lab meeting [#570](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/570)
+* Successful application to RRI training  
+
+#### What did you struggle with?
+
+* I accidentally chose an ugly template for my presentation :/
+* Feeling tired 
+
+#### Where do you need help from Kirstie?
+
+* Prep for call with Autistica 
+* Position paper structuring 🧠
+
+#### What would you like to work on next week?
+
+* October newsletter
+* Moderation work: getting dataset combined and onto GitHub
+* Position paper  
 
 ### Date: 13 October 2021
 
