@@ -24,8 +24,10 @@ Georgia's weekly meeting notes.
 ### Date: 17 November 2021
 
 * Reviewed work for SL
+  * KW: Really helpful
 * Shared resources with RRI group
 * Feedback on ethics form for IGK [(Defining "fairness")](https://hackmd.io/RXaaQ52sSvO8abhSdwWtbA)
+  * KW: Fab!
 
 #### Who helped you this week?
 
@@ -34,12 +36,19 @@ Georgia's weekly meeting notes.
 * RP working on REG document
 * Apprecciating AC's recipes
 
+Aaaah - lovely range of help across lots of different topics!! 🍰
+
 #### What did you achieve?
 
 * Applied for MozFest with SB [#582](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/582)
-* RRI training course: worked on a case study involving an algorithm for predicting reoffence rates - loved the course! 
+  * KW: Chatted in the meeting - a couple of edits to fit in. Looks good though - fingers crossed.
+  * Please do add to the GitHub so we have a record 😸
+* RRI training course: worked on a case study involving an algorithm for predicting reoffence rates - loved the course!
+  * KW: Really delighted that you enjoyed it so much!
 * Moderation summaries combined and in markdown on GitHub (still needs some work formatting and proof-reading) [#416](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/416)
+  * KW: This is great - can you ask AP to review? 
 * Co-working on code of conduct with SF [#566](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/566)
+  * KW: This is really starting to come together - enforcement needs a bit more work - potentially cribbing from the Turing Way code of conduct?
 * Some more work on position paper [#247](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/247)
 
 #### What did you struggle with?
@@ -51,14 +60,21 @@ Georgia's weekly meeting notes.
 #### Where do you need help from Kirstie?
 
 * JS DCMS opportunity
+  * KW: Recycle a talk that already exists!
 * Team planning 
+  * KW: Very helpful chat in the meeting. Thank you for discussing.
 * How to sustain momentum
+  * KW: For the community - honestly - we can't - we don't have capacity. It's a shame but better to be honest about it rather than promise connectivity / activity and not be able to deliver.
+    * For the position paper - protect your time like a mama bear getting ready for hibernation 🐻🧸
 * Ethics application? 
+  * KW: Got a slot in the calendar for December 👍
 
 #### What would you like to work on next week?
 
 * Position paper (prioritise this!)
+  * KW: ✔️✔️✔️
 * November newsletter
+  * KW: Can SL do a draft of this? First pass at least.
 * PS-SIG presentation [562](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/562)
 * Co-working on code of conduct
 
