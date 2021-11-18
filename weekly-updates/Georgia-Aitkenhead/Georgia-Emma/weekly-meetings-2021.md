@@ -18,7 +18,7 @@
 
 **Next meeting:** [12th April 2021] No meeting on 5th April as it's a bank holiday.
 
-## Date: 03 November 2021 
+## Date: 18 November 2021 
 
 ### What brought you joy this week?
 
