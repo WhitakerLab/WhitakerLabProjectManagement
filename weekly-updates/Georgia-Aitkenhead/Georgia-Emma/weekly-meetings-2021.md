@@ -1,5 +1,8 @@
 # Emma and Georgia's Mentoring Meetings
 
+* [18 November 2021](#date-18-november-2021)
+* [03 November 2021](#date-03-november-2021)
+* [30 September 2021](#date-30-september-2021)
 * [04 June 2021](#date-04-june-2021)
 * [22 March 2021](#date-22-march-2021)
 * [8 March 2021](#date-8-march-2021)
@@ -7,13 +10,87 @@
 
 **Why?** Peer mentoring, community management & GitHub
 
-**When?** Fortnightly, Mondays 10am.
+**When?** Fortnightly, Weds 3.30pm.
 
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
 
 **Next meeting:** [12th April 2021] No meeting on 5th April as it's a bank holiday.
+
+## Date: 18 November 2021 
+
+### What brought you joy this week?
+
+* My sister wrote me a motivational song! 
+
+### What did you achieve
+
+* RRI course, moderation summaries in PR, co-working on CoC
+
+### What did you struggle with?
+
+* Low energy levels and trouble concentrating 
+
+### Any other topics?
+
+We talked about inequity in funding options and how to create opportunities for people who may be disadvantaged. 
+We also planned co-working! 
+
+## Date: 03 November 2021 
+
+### What brought you joy this week?
+
+* Seeing the design system progress by Sophia and Soledad! 
+
+### What did you achieve
+
+* Meet-up and dev session, presentation on paper for lab, moderation work
+
+### What did you struggle with?
+
+* Paper is still tricky but getting through it and it's fun :D
+
+### Any other topics?
+
+* We talked about volunteer labour, the ethics of it, how to plan with a community, motivating people without directing them
+
+## Date: 14 October 2021
+
+### What brought you joy this week?
+
+* New members of the team have been great - AP and SL.
+
+### What did you achieve
+
+* Writing position paper and going to use the reverse outline to work on the flow of the article.
+
+### What did you struggle with?
+
+* Shift in the team - leaving members have changed the dynamics of the team so it will take a while to establish a new one. 
+
+### Any other topics
+
+- we talked about nurturing communities and different ways to do this.
+- making sure that meetings are productive but also buildlng personal relationships with community members is important. so leave some time for chats and then address the work. 
+
+## Date: 30 September 2021
+
+### What brought you joy this week?
+
+* Back to London.
+
+### What did you achieve
+
+* Replace this text with a bullet point list of what you achieved this week.
+
+### What did you struggle with?
+
+* Flow of article - we talked about using different methods such as reverse outlining or going back to starting a fresh with an original planned structure to look at the current structure you have. 
+
+### Any other topics
+
+This space is yours to add to as needed.
 
 ## Date: 04 June 2021
 
