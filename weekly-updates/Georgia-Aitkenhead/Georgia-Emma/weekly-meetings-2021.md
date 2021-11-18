@@ -1,5 +1,6 @@
 # Emma and Georgia's Mentoring Meetings
 
+* [18 November 2021](#date-18-november-2021)
 * [03 November 2021](#date-03-november-2021)
 * [30 September 2021](#date-30-september-2021)
 * [04 June 2021](#date-04-june-2021)
@@ -16,6 +17,25 @@
 **For how long?** 1 hour
 
 **Next meeting:** [12th April 2021] No meeting on 5th April as it's a bank holiday.
+
+## Date: 03 November 2021 
+
+### What brought you joy this week?
+
+* My sister wrote me a motivational song! 
+
+### What did you achieve
+
+* RRI course, moderation summaries in PR, co-working on CoC
+
+### What did you struggle with?
+
+* Low energy levels and trouble concentrating 
+
+### Any other topics?
+
+We talked about inequity in funding options and how to create opportunities for people who may be disadvantaged. 
+We also planned co-working! 
 
 ## Date: 03 November 2021 
 
