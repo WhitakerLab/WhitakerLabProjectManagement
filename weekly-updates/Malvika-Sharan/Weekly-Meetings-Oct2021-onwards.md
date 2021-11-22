@@ -10,7 +10,7 @@
 ### Template: Date: 22 November 2021
 
 #### Who did you help this week?
-- LF in getting some ideas framed
+- LF in getting some ideas framed for Turing-Crick
 - Onboarding new team members
 - Onborading AC as RAM in Gem projects
 - New team members in discussing their projects, setting SMART goals
