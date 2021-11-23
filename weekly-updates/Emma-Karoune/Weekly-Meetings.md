@@ -1,6 +1,6 @@
 # Emma's Weekly Meeting Notes
 
-* [27 October 2021](#date-27-october-2021)
+* [27 October 2021](#date-24-november-2021)
 * [13 October 2021](#date-13-october-2021)
 * [23 June 2021](#date-23-june-2021)
 * [9 June 2021](#date-9-june-2021)
@@ -14,25 +14,22 @@
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: 27 October 2021
+### Date: 24 November 2021
 
 #### Who did you help this week?
 
-* Lab - I was the goatherd last week!
 * GE and ME - mentoring.
 
 #### Who helped you this week?
 
-* KW - thanks for the super chat last night about my new project idea. 
+* MS - had a mentoring chat - I as I was feeling a bit stressed at the beginning of last week. 
 
 #### What did you achieve?
 
-* Data paper - working on fig3 data workflow/ wiki with AP.
+* Data paper - finished fig3 data workflow/ wiki with AP - there is a hold up with SG getting access to computer.
 * More Github training with AP - working on newsletter together.
-* Turing Way bookdash planning committee and organising the openpublishing fest workshop with EP and RA.
-* Wrote a blog for SSI about my experience having a coding mentor - podcast to come!
-* Ran a reproducible research workshop at Durham uni with another SSI fellow.
-* Did train the trainer training with Elixir.
+* Turing Way - bookdash and running the openpublishing fest workshop with EP and RA.
+* Ran a reproducible research workshop at Durham uni with another SSI fellow and open science intro workshops.
 
 #### What did you struggle with?
 
@@ -40,9 +37,9 @@
 
 #### What would you like to work on next week?
 
-* Writing about sensitive types of data.
-* Finish figure 3 for data paper.
-* TW bookdash onboarding session.
+* Start making the clean repo for the data paper.
+* Continue working on writing about sensitive types of data.
+* Plannning out the academic authorship paper and writing to journals about it.
 
 #### Where do you need help from Kirstie?
 
