@@ -1,7 +1,24 @@
-* [16 June 2021](#date-21-April-2021)
-* [19 May 2021](#date-21-April-2021)
+* [30 June 2021](#date-30-June-2021)
+* [16 June 2021](#date-16-June-2021)
+* [19 May 2021](#date-19-May-2021)
 * [21 April 2021](#date-21-April-2021)
 * [07 April 2021](#date-07-April-2021)
+
+
+### Date: 30 June 2021
+
+### Past: What would you highlight from the past couple of weeks? Did you face any new challenges? You can take this opportunity to reflect on what we discussed in our previous session.
+* We have the RAM interviews tomorrow! Doing some final prep today.
+* We drafted a pitch for an article in Nature Comments. Not sure if we should proceed though, or wait to polish it a bit: https://docs.google.com/document/d/11IQ-zWxutSHKlZhEhonoFyO2tlTVOUqiw0FBX4egrKE/edit
+* I am trying to get appropriate IT permissions for the RAM team --- need to have admin rights to install Python etc. 
+
+
+### Present: How are you feeling? Where do you see yourself right now?
+* It's very hot weather outside, so struggling to keep the usual pace actually. But I feel productive after 8pm, so I do a bit of work then.
+* I am so looking forward to coding a bit, after I sort out my Python installation etc.
+
+### Future: What will the focus for this meeting be? Hopefully the two previous questions prompt an idea  for this question. If not, we will figure it out together!
+* Let's see!
 
 ---
 
