@@ -1,6 +1,6 @@
 # Sophia Bi-Weekly Updates
 
-* [23 November 2021](#date-23-october-2021)
+* [23 November 2021](#date-23-november-2021)
 * [26 October 2021](#date-26-october-2021)
 * [12 October 2021](#date-12-october-2021)
 * [14 September 2021](#date-14-september-2021)
@@ -10,26 +10,32 @@
 
 *Sophia & Kirstie meet every 2 weeks on Tuesdays*
 
-
 ## Date: 23 November 2021 
 
 #### Who did you help this week?
 * SL internship, was working through various pieces for AutSPACEs
-* GA with MozillaFest application 
+* GA with MozFest application
+  * KW: Fingers crossed!
 * Neuosity (old company) reached out for some advice 🧠🤖
 * MS with her amazing talk during lab meeting last week. I previously thought that Community Managers were incredibly talented people who worked hard, and now I'm convinced that they're wizards 🧙
+  * KW: How fab!! Send her a screenshot of this sentence when you merge the PR :magic_wand: :wink:
 * 👫's new job, I'm now the chaffeur and helped manage household tasks so they could focus on transitioning into the new job. 
-
+  * KW: Great stuff!!
 
 #### Who helped you this week?
 * SL taking on more responsibility and initiave lightened the workload while also being so awesome to see (development wise).
+  * KW: Great stuff - and well self-reflected and communicated
 * SG had a good conversation about imposter syndrome
+  * KW: 💙
 * KW with a really good talk last thursday with Data Study Group advice and various other things 
+  * KW: I'm glad this was useful
 * PwC offered research space (not that it can be used, but it was good to know that there was a solution somewhere)
 * International Students office held a "cover letter and CV for the UK job market" workshop 
+  * KW: That does sounds really useful!
 * Attended a cool workshop on meta-analyses and literature reviews which was good general upskilling 
+  * KW: Very cool
 * Had a really good call with a mentor on Wednesday about life
-
+  * KW: 🌺
 
 #### What did you achieve?
 * Organized `platform-designs` repo in `/AutisticaCizizenScience`
@@ -37,15 +43,17 @@
 * MozFest application for AutSPACEs
 * Checked in with Leeds (no news)
 * Got through to the next stage of a fellowship 
+  * KW: YAAAAAAAY!! 🚀🌟
 * Started motif/illustration work with Scriberia for AutSPACEs
+  * KW: Thank you for starting this process! ♾️
 * Did 2 job interviews. The process and preparing was informative (in that I'm not totally ready to go back into a highly technical role yet as the interview was fine but prepping for it was more than I should have taken on). 
-
+  * KW: FINGERS CROSSED!! (And feel free to say no if you don't want the role - always good to be offered!)
 
 #### What did you struggle with?
 * New "way of working" has been tiring (longer days and mentally draining to commute in heavy traffic)
 * Imposter Syndrome flared when a BCI/neurotech company reached out and I fell back into burnout 
 * Technical interview prep (optimization algorithms and online neurophys analysis is very rusty)
-
+  * KW: YOU DID IT! 💪
 
 #### What would you like to work on in the next two weeks?
 * Preparing for Data Study Group (pre-research, brushing up on skills). 
@@ -53,10 +61,12 @@
 
 
 #### Where do you need help from Kirstie?
-* General check in that my presence in lab is contributive and 
+* General check in that my presence in lab is contributive and helpful
+  * KW: Good chat in the meeting. Short answer: very much yes. (And your worth is not related to your productivity!)
 * You mentioned during coffee that the templates would be useful for The Turing Way, we'd also chatted about product design (and responsible workflows). I don't have capacity until after Data Study Group, but what is it that would be useful? 
+  * KW: How to communicate your updates in a collaboration - following a template etc! 💞
 * Development plan for Soledad's internship. Requirements are that she fully implement something (involves code), it would be helpful to brainstorm and ensure that something is appropriately scoped. 
-
+  * KW: Don't get too het up about the phrasing of "fully implement"!! She's already doing an awful lot - aim for something small and achievable (a search bar? getting the colours looking good etc!)
 
 
 ## Date: 26 October 2021
