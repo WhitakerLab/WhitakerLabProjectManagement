@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [23 November 2021](#date-23-november-2021)
 * [1 November 2021](#date-1-november-2021)
 * [12 October 2021](#date-12-october-2021)
 * [1 October 2021](#date-1-october-2021)
@@ -24,6 +25,17 @@
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
+
+## Date: 23 November 2021
+
+### What brought you joy this week?
+* ME - Prediction analyses have been fun (mainly because no data extraction needed) :tada:
+### What did you achieve
+* ME - Have finished final draft of manuscript - just awaiting comments from geneticists :pray:
+### What did you struggle with?
+* ME - Health stuffs and feeling tired - sooooon Christmas break ✨
+### Any other topics
+* ME - Plans for the next year: abstracts, presentations, thesis writing with [Data Edit R](https://github.com/DillonHammill/DataEditR)
 
 ## Date: 1 November 2021
 
