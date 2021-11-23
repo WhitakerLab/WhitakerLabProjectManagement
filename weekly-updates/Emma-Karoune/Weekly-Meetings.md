@@ -1,6 +1,6 @@
 # Emma's Weekly Meeting Notes
 
-* [27 October 2021](#date-24-november-2021)
+* [24 November 2021](#date-24-november-2021)
 * [13 October 2021](#date-13-october-2021)
 * [23 June 2021](#date-23-june-2021)
 * [9 June 2021](#date-9-june-2021)
