@@ -1,5 +1,6 @@
 # Sophia Bi-Weekly Updates
 
+* [23 November 2021](#date-23-october-2021)
 * [26 October 2021](#date-26-october-2021)
 * [12 October 2021](#date-12-october-2021)
 * [14 September 2021](#date-14-september-2021)
@@ -8,6 +9,55 @@
 * [22 June 2021](#date-22-june-2021)
 
 *Sophia & Kirstie meet every 2 weeks on Tuesdays*
+
+
+## Date: 23 November 2021 
+
+#### Who did you help this week?
+* SL internship, was working through various pieces for AutSPACEs
+* GA with MozillaFest application 
+* Neuosity (old company) reached out for some advice 🧠🤖
+* MS with her amazing talk during lab meeting last week. I previously thought that Community Managers were incredibly talented people who worked hard, and now I'm convinced that they're wizards 🧙
+* 👫's new job, I'm now the chaffeur and helped manage household tasks so they could focus on transitioning into the new job. 
+
+
+#### Who helped you this week?
+* SL taking on more responsibility and initiave lightened the workload while also being so awesome to see (development wise).
+* SG had a good conversation about imposter syndrome
+* KW with a really good talk last thursday with Data Study Group advice and various other things 
+* PwC offered research space (not that it can be used, but it was good to know that there was a solution somewhere)
+* International Students office held a "cover letter and CV for the UK job market" workshop 
+* Attended a cool workshop on meta-analyses and literature reviews which was good general upskilling 
+* Had a really good call with a mentor on Wednesday about life
+
+
+#### What did you achieve?
+* Organized `platform-designs` repo in `/AutisticaCizizenScience`
+* Started writing READMEs for `platform-designs` so that people could onboard and the design process was open and more collaborative
+* MozFest application for AutSPACEs
+* Checked in with Leeds (no news)
+* Got through to the next stage of a fellowship 
+* Started motif/illustration work with Scriberia for AutSPACEs
+* Did 2 job interviews. The process and preparing was informative (in that I'm not totally ready to go back into a highly technical role yet as the interview was fine but prepping for it was more than I should have taken on). 
+
+
+#### What did you struggle with?
+* New "way of working" has been tiring (longer days and mentally draining to commute in heavy traffic)
+* Imposter Syndrome flared when a BCI/neurotech company reached out and I fell back into burnout 
+* Technical interview prep (optimization algorithms and online neurophys analysis is very rusty)
+
+
+#### What would you like to work on in the next two weeks?
+* Preparing for Data Study Group (pre-research, brushing up on skills). 
+* Templates and workflow for Soledad/AutSPACEs so that the two/three weeks off won't derail progress. 
+
+
+#### Where do you need help from Kirstie?
+* General check in that my presence in lab is contributive and 
+* You mentioned during coffee that the templates would be useful for The Turing Way, we'd also chatted about product design (and responsible workflows). I don't have capacity until after Data Study Group, but what is it that would be useful? 
+* Development plan for Soledad's internship. Requirements are that she fully implement something (involves code), it would be helpful to brainstorm and ensure that something is appropriately scoped. 
+
+
 
 ## Date: 26 October 2021
 #### Who did you help this week?
