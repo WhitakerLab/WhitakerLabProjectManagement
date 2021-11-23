@@ -1,5 +1,8 @@
 # Mentoring Sessions: Ismael & Maria
 
+* [23 June 2021](#date-23-june-2021)
+* [11 June 2021](#date-11-june-2021)
+* [26 May 2021](#date-26-may-2021)
 * [28 April 2021](#date-28-april-2021)
 * [14 April 2021](#date-14-april-2021)
 * [31 March 2021](#date-31-march-2021)
@@ -19,6 +22,33 @@
 #### Next meeting
 
 ---
+
+### Date: 23 June 2021
+
+#### What brought you joy this week?
+* Discussed in meeting
+#### What did you achieve?
+* Discussed in meeting
+#### What did you struggle with?
+* Discussed in meeting
+
+### Date: 11 June 2021
+
+#### What brought you joy this week?
+* Discussed in meeting
+#### What did you achieve?
+* Discussed in meeting
+#### What did you struggle with?
+* Discussed in meeting
+
+### Date: 26 May 2021
+
+#### What brought you joy this week?
+* Discussed in meeting
+#### What did you achieve?
+* Discussed in meeting
+#### What did you struggle with?
+* Discussed in meeting
 
 ### Date: 28 April 2021
 
