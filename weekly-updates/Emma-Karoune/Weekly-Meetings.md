@@ -29,6 +29,7 @@
 * Data paper - finished fig3 data workflow/ wiki with AP - there is a hold up with SG getting access to computer.
 * More Github training with AP - working on newsletter together.
 * Turing Way - bookdash and running the openpublishing fest workshop with EP and RA.
+* Met with David Bevan and Kasra Hosseini about Natural History Museum Project - need to find out more information about the research element of the project as they are not interested in the infrastructure part.
 * Ran a reproducible research workshop at Durham uni with another SSI fellow and open science intro workshops.
 
 #### What did you struggle with?
