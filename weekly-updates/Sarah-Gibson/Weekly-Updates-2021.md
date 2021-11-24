@@ -1,5 +1,6 @@
 # Sarah's Fortnightly Mentoring Meetings
 
+- [2021-10-14](#date-2021-10-14)
 - [2021-09-16](#date-2021-09-16)
 - [2021-08-18](#date-2021-08-18)
 - [2021-08-05](#date-2021-08-05)
@@ -15,6 +16,33 @@
 - [Template](#template)
 
 ---
+
+## Date: 2021-10-14
+
+### Who did you help this week?
+
+- Cheered on Georgiana who was nervous about facilitating her first meeting
+
+### Who helped you this week?
+
+- Erik talking me through network policies for Kubernetes
+
+### What did you achieve?
+
+- Merged a lot of stuff so that 2i2c JupyterHubs can authenticate with GitHub Teams!
+- I started a blog about some work I did in mybinder.org for testing PRs
+
+### What did you struggle with?
+
+- Network policies on our JupyterHubs: where is traffic allowed to come from/go to, and what should the users be able to access/not access
+- Migrating the Pangeo user directories.
+  I'm having difficulty ssh'ing from one machine to another with the correct user and I'm praying that it has nothing to do with Columbia's IT policies!
+
+### What would you like to work on next week?
+
+- I need to continue cracking on with network policy and user migration work for Pangeo
+- Continue with blog writing, get a rough draft to Chris so he can cut out everywhere I've waffled
+- I also need to record a short video (2mins) on our JupyterHub Community Strategy Lead project for the CZI EOSS launch call
 
 ## Date: 2021-09-16
 
