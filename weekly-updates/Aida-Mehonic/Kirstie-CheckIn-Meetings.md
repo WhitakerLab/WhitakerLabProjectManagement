@@ -1,5 +1,6 @@
 # Check in meetings with Kirstie
 
+* [Date: 17 November 2021](#date-17-november-2021)
 * [Date: 21 October 2021](#date-21-october-2021)
 * [Date: 15 September 2021](#date-15-september-2021)
 * [Date: 11 August 2021](#date-11-august-2021)
@@ -11,6 +12,40 @@
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
 
+
+### Date: 17 November 2021
+
+#### Who did you help over the past fortnight? 
+* The RAM team - as we're learning the ropes of the job together. 💪 
+  * KW: I'm so enjoying the vibe!! Well done!
+
+#### Who helped you over the past fortnight?
+* Also, the RAM team - they always have loads of ideas and so I get feedback on my thinking. 
+  * KW: As it should be!! ✨
+* JM - with DSG plans. 
+
+#### What did you achieve?
+* Onboarding AC and JD into ASG projects has been the most successful and the most exciting thing. I think the team dynamics is really fun and the fact that we have complementary skills works really well so far. 
+* We came up with some team processes - weekly meetings, 1-2-1s, github repo process - the project board and the Issues, etc. For example, we had an indepth exploration of whether to use Github Projects (Beta). 
+* AC and JD scoped and started working on their side projects - I supported them in this. 
+* RADDISH - I attended their project meeting and we brainstormed about stakeholders - we came up with three potential stakeholders to focus on in the period to March: UKAEA, Met Office and the Underground Farm. One networking meeting mid-December (with the Met Office) and one stakeholder workshop to organise end of Jan / beginning of Feb.
+  * KW: This plan sounds GREAT.
+
+#### What did you struggle with?
+* Una's nursery adjustment has been a big theme in my life over the past fortnight - happy to say that we have a very good rhythm now. 🎉 👶
+* Now that I have more cleanly protected time for work, I want to also ramp up my own project work, in addition to supporting JD and AC. This didn't recieve as much attention as I would have wanted.
+
+#### What would you like to work on next week?
+* EVERYTHING :)))
+* On a serious note: continue supporting AC and JD as they embed into ASG projects; on my own projects, follow up with: RADDISH, IceNET, DyME, scivision. Chat with AD & AC on the Health Theme Impact. Follow up with JM about equadratures and the upcoming DSGs. 
+
+#### Where do you need help from Kirstie?
+* Facilitating the December DSG - any advice on managing the technical hands on work and the facilitation?
+  * KW: Good chat in the meeting - will be quite RAM-y to be faciliating! (Just a bit more work 😬)
+* Broad question: when RAMs work on inviting organisations to test a new research application - okay to aim for the 'social good' orgs as a default? 
+  * KW: What an interesting question!! We discussed in the meeting 3 different dimensions: 1) social good / public sector, or 2) strengthen internal / existing Turing partnerships, or 3) "get shit done" (who do we know already who are interested!)
+  * I think all 3 are totally justifiable so long as you don't end up with an overly homogenous grouping at the end.
+  * Really great question and glad you're thinking about this 🕷️🕸️
 
 ### Date: 21 October 2021
 
