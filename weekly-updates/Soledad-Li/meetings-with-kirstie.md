@@ -2,9 +2,39 @@
 
 *Meetings are scheduled every 2 weeks*
 
+* [24 November 2021](#date-24-November-2021)
 * [16 November 2021](#date-16-November-2021)
 * [Template](#date-template)
 
+
+### Date: 24 November 2021
+#### Who helped you this week?
+* Helped GA draft November Newsletter
+
+#### Who helped you this week?
+* SB rescheduled our meeting an hour earlier so that I have enough time to see a doctor : )
+
+#### What did you achieve?
+* Drafted [November Newsletter #597](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/597)
+* Identified questions need to be discussed for moderation process [#593](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/593)
+* Finished user flow for [moderator](https://app.diagrams.net/#G1pohsA28S36n1yIWvAJhNd5k79qazjSeg) and mocked a high-fidelity [figma wireframe](https://www.figma.com/file/tk56jUzusw1ZiCx91cgqFV/Design-System-(Drafts)?node-id=0%3A1)
+* Mapped out my plan before January
+
+| 22-26 Nov | 29 Nov-3 Dec | 6-10 Dec | 13-17 Dec |20-24 Dec|
+| -------- | -------- | -------- | -- | -- | 
+| Work on User Flow| Finish User Flow | Start new IA| Edit IA & mock up view experience|Update the mock up and finalize it| 
+
+#### What did you struggle with?
+* One of my family members is very sick, and I am struggled with the sad emotions coming with this news.
+
+#### What would you like to work on next week?
+* Organizing meet-up 
+* Continuing my work on user flow diagram
+
+#### Where do you need help from Kirstie?
+* Any suggestion for the discussion on [moderation](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/593) on meet-up
+
+---
 ### Date: 16 November 2021
 #### Who did you help this week?
 * Helped GA for solving a merge conflict
