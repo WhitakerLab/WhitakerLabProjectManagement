@@ -22,7 +22,7 @@
 
 #### Who helped you this week?
 
-* MS - had a mentoring chat - I as I was feeling a bit stressed at the beginning of last week. 
+* MS - had a mentoring chat - I was feeling a bit stressed at the beginning of last week. 
 
 #### What did you achieve?
 
