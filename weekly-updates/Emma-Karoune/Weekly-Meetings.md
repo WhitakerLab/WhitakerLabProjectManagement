@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [24 November 2021](#date-24-november-2021)
 * [13 October 2021](#date-13-october-2021)
 * [23 June 2021](#date-23-june-2021)
 * [9 June 2021](#date-9-june-2021)
@@ -12,6 +13,54 @@
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 24 November 2021
+
+#### Who did you help this week?
+
+* GA and ME - mentoring.
+  * KW: Great stuff!
+
+#### Who helped you this week?
+
+* MS - had a mentoring chat - I was feeling a bit stressed at the beginning of last week.
+  * KW: I'm so glad 🌸
+
+#### What did you achieve?
+
+* Data paper - finished fig3 data workflow/ wiki with AP - there is a hold up with SG getting access to computer.
+  * KW: Very exciting that everyone is rocking along with this so well! Well done!
+* More Github training with AP - working on newsletter together.
+  * KW: This sounds great - thank you! 🙏
+* Turing Way - bookdash and running the openpublishing fest workshop with EP and RA.
+* Ran a reproducible research workshop at Durham uni with another SSI fellow and open science intro workshops.
+  * KW: BUSY WEEKS with all these workshops!!!
+* Met with DB and KH about Natural History Museum Project - need to find out more information about the research element of the project as they are not interested in the infrastructure part.
+  * KW: Good chat - lets see if I can join the next one & see if we can tease apart this infrastructure / innovation angle.
+
+#### What did you struggle with?
+
+* Nothing at the moment.
+  * KW: Except for the whole feeling stressed and overwhelmed thing 😉
+  * Glad you got support and worked through it though 🌺
+
+#### What would you like to work on next week?
+
+* Start making the clean repo for the data paper.
+* Continue working on writing about sensitive types of data.
+* Plannning out the academic authorship paper and writing to journals about it.
+  * KW: Or maybe in the new year 😜
+
+#### Where do you need help from Kirstie?
+
+* How do you start a new repo on the alan turing organisation - thinking we need to set up a clean one to go with the data paper. 
+  * We'll transfer across datamanagement info and wiki and also include code for figures. 
+  * KW: Discussed in meeting 🚀
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
 
 ### Date: 13 October 2021
 
