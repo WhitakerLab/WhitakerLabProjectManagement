@@ -17,15 +17,22 @@
 #### What did you achieve?
 * Drafted [November Newsletter #597](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/597)
 * Identified questions need to be discussed for moderation process [#593](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/593)
+  * KW: Added my comments in a reply - thank you so much for pulling them all together! 
 * Finished user flow for [moderator](https://app.diagrams.net/#G1pohsA28S36n1yIWvAJhNd5k79qazjSeg) and mocked a high-fidelity [figma wireframe](https://www.figma.com/file/tk56jUzusw1ZiCx91cgqFV/Design-System-(Drafts)?node-id=0%3A1)
+  * KW: These are looking great - really helpful to stimulate some discussion.
+  * We talked about check boxes vs a free text comment box for moderators and also my concerns about how difficult this will be to build into the infrastructure - keen to get feedback from the community on both of those points at the meet up (sorry I can't be there!)
 * Mapped out my plan before January
 
-| 22-26 Nov | 29 Nov-3 Dec | 6-10 Dec | 13-17 Dec |20-24 Dec|
-| -------- | -------- | -------- | -- | -- | 
-| Work on User Flow| Finish User Flow | Start new IA| Edit IA & mock up view experience|Update the mock up and finalize it| 
+| 22-26 Nov | 29 Nov-3 Dec | 6-10 Dec | 13-17 Dec | 20-24 Dec |
+| -------- | -------- | -------- | --- | --- | 
+| Work on User Flow  | Finish User Flow | Start new IA | Edit IA & mock up view experience | Update the mock up and finalize it | 
+
+KW: I think the plan is fine..... except it might be a little ambitious - I think you could actually aim to just focus on the user flow and get some feedback on it before 17 Dec and then enjoy a bit more of your holidays. Maybe come back to the information architecture in the new year?
 
 #### What did you struggle with?
 * One of my family members is very sick, and I am struggled with the sad emotions coming with this news.
+  * KW: I'm so sorry to hear this. As we discussed in the meeting, take the time that you need to take care of yourself and connect with your family.
+  * It's even harder being far away and if you would have taken some time off if you were in the same place as your family member, consider still taking that time off - you probably need it 🌺
 
 #### What would you like to work on next week?
 * Organizing meet-up 
