@@ -11,13 +11,16 @@
 * RAM Team helped me with a brainstorming session for Equadratures
 #### What did you achieve?
 * Email out to Chris, Helen, and Cosmina about Standards & Assurances
-* Meeting with Lawrence Bull and brainstorming session with Equadratures core team
+* Greaft first meeting with Lawrence Bull
 #### What did you struggle with?
 * Understanding how RAMs can most effectively plug into work streams
 #### What would you like to work on next week?
 * Successful kick off to DSG!
+* Reach out to Dani from Urban Analytics / Urban Grammar
 #### Where do you need help?
 * Understanding how/when to best engage with PIs
+#### Any other topics
+* Applying for [Research Software Engineering with Python](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=50389&eventID=152&traceRedir=2)?
 
 ---
 
