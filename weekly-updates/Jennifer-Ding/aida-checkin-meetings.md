@@ -18,6 +18,7 @@
 * Successful kick off to DSG!
 * Reach out to Dani from Urban Analytics / Urban Grammar
 #### Where do you need help?
+* Understanding the different EQ workshops (Turing vs. R-R)
 * Understanding how/when to best engage with PIs
 #### Any other topics
 * Applying for [Research Software Engineering with Python](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=50389&eventID=152&traceRedir=2)?
