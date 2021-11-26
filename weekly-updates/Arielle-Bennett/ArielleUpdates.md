@@ -2,6 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [26 Novmeber 2021](#date-26-november-2021)
 * [10 November 2021](#date-10-november-2021)
 * [27 October 2021](#date-27-october-2021)
 * [13 October 2021](#date-13-october-2021)
@@ -20,8 +21,49 @@
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
 
-## Date: 10 November 2021
+## Date: 26 November 2021
+#### Who did you help this week?
+* DC & EB with welcome and intro 
+* KW with leadership session brainstorming 
+* JM with some advice on ITT etc
 
+#### Who helped you this week?
+* KW, AM & MS with taking on the brainstorming meeting w/o me 
+* EP & LK & lots of others on the research infrastructure roles chapter 
+* TC on a chat about contracts 
+
+#### What did you achieve? 
+* Presented to NIHR on Turing Way 
+* Ensure we were all set for TW CM interviews
+* DSH RAM role online! 
+* Good chat with JA on citizen science!
+* OA report ready for JA sign off 
+
+#### What bought you joy this week?
+* Seeing all the cool stuff achieved in the Book Dash 
+* Travelling to see my sister ✨
+
+#### What did you struggle with?
+* Uncertainty with transitions & project work in a specific area
+* Trying to wrap everything up before Xmas! 
+
+#### What would you like to work on next week?
+* Closing out recruitment requirements & contracts/invoicing before Christmas
+* Event planning
+* TPS Leadership follow up 
+* CRM updates 
+* Handover
+
+#### Where do you need help from Kirstie?
+* JD for TPS Senior Research on Citizen Science 
+* Paragraph for newsletter please 
+
+#### Any other topics? 
+* Think that's enough :D 
+
+
+## Date: 10 November 2021
+*No 1:1 this week as Book Dash*
 #### Who did you help this week?
 * New Book Dash participants: reviewing, mentoring etc etc
 * AR on some pointers
