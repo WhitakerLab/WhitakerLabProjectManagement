@@ -2,6 +2,8 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [26 November 2021](#date-26-november-2021)
+* [10 November 2021](#date-10-november-2021)
 * [27 October 2021](#date-27-october-2021)
 * [13 October 2021](#date-13-october-2021)
 * [15 September 2021](#date-15-september-2021)
@@ -18,6 +20,99 @@
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 26 November 2021
+#### Who did you help this week?
+* DC & EB with welcome and intro 
+* KW with leadership session brainstorming 
+  * KW: YEAAAAAH! Went so well!
+* TL with some advice on ITT etc
+
+#### Who helped you this week?
+* KW, AM & MS with taking on the brainstorming meeting w/o me 
+  * KW: You left us in such a great position! It was fantastic!
+* EP & LK & lots of others on the research infrastructure roles chapter 
+  * https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html
+  * KW: VERY EXCITING!!
+* TC on a chat about contracts 
+
+#### What did you achieve? 
+* Presented to NIHR on Turing Way 
+* Ensure we were all set for TW CM interviews
+* DSH RAM role online! 
+* Good chat with JA on citizen science!
+  * KW: VERY SUCCESSFUL! WELL DONE!
+* OA report ready for JA sign off 
+  * KW: How exciting!
+
+#### What bought you joy this week?
+* Seeing all the cool stuff achieved in the Book Dash 
+* Travelling to see my sister ✨
+
+#### What did you struggle with?
+* Uncertainty with transitions & project work in a specific area
+* Trying to wrap everything up before Xmas! 
+
+#### What would you like to work on next week?
+* Closing out recruitment requirements & contracts/invoicing before Christmas
+  * KW: Great stuff!
+* Event planning
+* TPS Leadership follow up 
+  * KW: Chase me on this in a week or so!
+* CRM updates 
+* Handover
+
+#### Where do you need help from Kirstie?
+* JD for TPS Senior Research on Citizen Science 
+  * KW: NOT DONE! I'm getting closer though!
+* Paragraph for newsletter please 
+  * KW: DONE!!
+
+
+#### Any other topics? 
+* Think that's enough :D 
+  * KW: AMEN!
+
+## Date: 10 November 2021
+*No 1:1 this week as Book Dash*
+#### Who did you help this week?
+* New Book Dash participants: reviewing, mentoring etc etc
+* AR on some pointers
+* MK with newsletters
+* AF with contracts and project set up 
+* VH with discussions
+* Interview panel 
+
+#### Who helped you this week?
+* HMc as always!
+* WT with some guidance on 2.0 stuff
+* EP, LK & others on my Book Dash chapter
+
+#### What did you achieve? 
+* Alllll the scoping meetings 
+* Presented on the Turing Way to the RPMs 
+* Kept projects ticking over
+* Got our reports all submitted in a timely manner 
+
+#### What bought you joy this week?
+* Book Dash stuff ✨
+* Coffee Chats
+* Positive feedback on big grant finance 
+* Meeting all the new folks!
+
+#### What did you struggle with?
+* Slow contracts
+* Slow answers 
+* Confusing contracts 😅
+* Dropped the ball on a report 😞
+* Feeling a little wrung out with not enough time to get my head around the big picture stuff
+
+#### Where do you need help from Kirstie?
+* Answer to an email I sent you on the JH project 
+* Suggestions for other ways to get a firm answer on citizen science
+
+#### Any other topics? 
+* 🗺️
 
 ## Date: 27 October 2021
 
