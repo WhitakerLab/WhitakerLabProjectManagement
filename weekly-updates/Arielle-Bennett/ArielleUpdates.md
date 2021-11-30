@@ -2,7 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
-* [26 Novmeber 2021](#date-26-november-2021)
+* [26 November 2021](#date-26-november-2021)
 * [10 November 2021](#date-10-november-2021)
 * [27 October 2021](#date-27-october-2021)
 * [13 October 2021](#date-13-october-2021)
@@ -25,11 +25,15 @@
 #### Who did you help this week?
 * DC & EB with welcome and intro 
 * KW with leadership session brainstorming 
-* JM with some advice on ITT etc
+  * KW: YEAAAAAH! Went so well!
+* TL with some advice on ITT etc
 
 #### Who helped you this week?
 * KW, AM & MS with taking on the brainstorming meeting w/o me 
+  * KW: You left us in such a great position! It was fantastic!
 * EP & LK & lots of others on the research infrastructure roles chapter 
+  * https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html
+  * KW: VERY EXCITING!!
 * TC on a chat about contracts 
 
 #### What did you achieve? 
@@ -37,7 +41,9 @@
 * Ensure we were all set for TW CM interviews
 * DSH RAM role online! 
 * Good chat with JA on citizen science!
+  * KW: VERY SUCCESSFUL! WELL DONE!
 * OA report ready for JA sign off 
+  * KW: How exciting!
 
 #### What bought you joy this week?
 * Seeing all the cool stuff achieved in the Book Dash 
@@ -49,18 +55,23 @@
 
 #### What would you like to work on next week?
 * Closing out recruitment requirements & contracts/invoicing before Christmas
+  * KW: Great stuff!
 * Event planning
 * TPS Leadership follow up 
+  * KW: Chase me on this in a week or so!
 * CRM updates 
 * Handover
 
 #### Where do you need help from Kirstie?
 * JD for TPS Senior Research on Citizen Science 
+  * KW: NOT DONE! I'm getting closer though!
 * Paragraph for newsletter please 
+  * KW: DONE!!
+
 
 #### Any other topics? 
 * Think that's enough :D 
-
+  * KW: AMEN!
 
 ## Date: 10 November 2021
 *No 1:1 this week as Book Dash*
