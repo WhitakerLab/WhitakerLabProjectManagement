@@ -2,44 +2,58 @@
 
 *Meetings are scheduled every 2 weeks*
 
-* 1st Dec 2021
+* [1st Dec 2021](#date-wed-1st-december-2021)
 * [Template](#date-template)
 
 ## Date: Wed 1st December 2021
 
 #### Who did you help this week?
 
-* Supported Soledad and Jennifer with Goatherding, took notes for Emma at DECOVID data paper co-working
+* Supported SL and JD with Goatherding
+* Took notes for EK at DECOVID data paper co-working
+
+KW: Super helpful!
 
 #### Who helped you this week?
 
-* Emma helped me set up a DECOVID Data paper repository
+* EK helped me set up a DECOVID Data paper repository
+  * KW: Very cool!!
 
 #### What did you achieve?
 
-* Created and started working on DECOVIID data paper repository
+* Created and started working on DECOVID data paper repository
 * Started comparing DECOVID and Pioneer data access protocols
+  * https://www.decovid.org/about
+  * https://www.pioneerdatahub.co.uk/public-documents/pioneer-protocol-10-april-2021
+* Meetings w NL and WKW
 * Explored HDRUK Gateway
 * Successfully inducted onto UCLH DSH
+  * KW: 🙌🙌🙌
 
 #### What did you struggle with?
 
 * Moving house and coming down with the flu all at once! Getting settled and feeling better now though
+  * KW: Glad you're feeling better!!
 
 #### What would you like to work on next week?
 
 * Have a working DECOVID data paper repository set up
-* have a list of similarities and differences foor DECOVID and Pioneer Data Access Protocols
-* start work on DECOVID infographic
+* Have a list of similarities and differences for DECOVID and Pioneer Data Access Protocols
+* Understand a bit more about what Pioneer is and how it works:
+  * https://www.youtube.com/watch?v=nXJ3IrxJYMk
+  * https://www.pioneerdatahub.co.uk/blogs/partnering-with-pioneer-ahsn-webinar
+* Start work on DECOVID infographic
+  * KW: This doesn't feel like the highest priority - or maybe better to go through Pioneer to figure out how they made the one that exists for UHB data
+* KW: Also worth keeping an eye on the AutSPACEs user experiences data paper
+  * Data Management: https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/ethics-applications/stage-1-co-design-phase/A8_DataManagement.pdf 
+  * Study Protocol: https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/project-management/ethics-applications/stage-1-co-design-phase/A9_StudyProtocol.pdf
 
 #### Where do you need help from Kirstie?
 
 * Some insight into Pioneer and DECOVID to help start my comparisons perhaps?
-
-#### Any other topics
-
-This space is yours to add to as needed.
-
+  * KW: A bit of a chat in the meeting but it is all a bit complicated 😩
+  * Sent a couple of emails to see if I can get you a bit more information!
+* Book meeting for January.
 
 ## Date: Template
 
