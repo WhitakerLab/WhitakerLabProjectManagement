@@ -2,6 +2,7 @@
 
 Georgia's weekly meeting notes.
 
+* [01 December 2021](#date-01-december-2021) 
 * [17 November 2021](#date-17-november-2021)
 * [27 October 2021](#date-27-october-2021)
 * [13 October 2021](#date-13-october-2021)
@@ -20,6 +21,53 @@ Georgia's weekly meeting notes.
 * [03 February 2021](#date-03-february-2021)
 * [20 January 2021](#date-20-january-2021)
 * [13 January 2021](#date-13-january-2021)
+
+### Date: 01 December 2021
+
+#### Who did you help this week? 
+
+* Helped AB by proof-reading TPS newsletter
+  * KW: Fab - thank you!
+* Helped SL with markdown to html conversion for newsletter
+  * KW: Great stuff 😸
+
+#### Who helped you this week?
+
+* EK helped me focus by doing co-working with me
+* SL wrote the November newsletter
+* AP was interviewed for the November newsletter 
+* AR proof-read the November newsletter
+* MS offered to read my position paper and give feedback 
+
+KW: These all look super helpful - well done on asking for support ✨
+
+#### What did you achieve?
+
+* Position paper progress :) restructured; made general not AutSPACEs specific, made a (very rough) draft [#247](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/247)
+  * KW: Exciting!
+* Delivered PS-SIG workshop with MS on contextualisating research [562](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/562)
+  * KW: Great - I'm glad that went well - keen to find ways with MS to promote those worksheets further (probably a good contribution to The Turing Way & maybe specific workshop proposals in the future).
+* Reviewed some PRs/gave feedback to SL
+* Co-working via. meet-up and dev sessions
+
+#### What did you struggle with?
+
+* Expressing myself clearly and concisely in my paper - looking forward to doing some editing!
+* Some of the facilitation.
+  * KW: Really helpful conversation in the meeting - a difficult challenge for sure but one that I'm confident we can realign in January.
+
+#### Where do you need help from Kirstie?
+
+* Planning December/more qs about dependencies
+  * KW: Meet up on 9 Dec run by SL, End of year celebration on 23 Dec
+  * As discussed in the meeting - its difficult to keep momentum going during December even at the best of times.
+* Position paper
+  * KW: Happy to go with your suggestions on structure!
+
+#### What would you like to work on next week?
+
+* Get position paper draft ready for review before holiday on the 7th 
+  * KW: Perfect!
 
 ### Date: 17 November 2021
 
