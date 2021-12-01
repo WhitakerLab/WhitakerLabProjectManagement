@@ -1,5 +1,6 @@
 # Check in meetings with Kirstie
 
+* [Date: 1 December 2021](#date-1-december-2021)
 * [Date: 17 November 2021](#date-17-november-2021)
 * [Date: 21 October 2021](#date-21-october-2021)
 * [Date: 15 September 2021](#date-15-september-2021)
@@ -13,6 +14,41 @@
 * [Date: 25 March 2021](#date-25-march-2021)
 
 
+### Date: 1 December 2021
+
+#### Who did you help over the past fortnight? 
+* The RAM team - as project meetings are becoming more frequent.
+* AR joined the RAM meeting yesterday - hope it was useful!
+* MBA students from JBS working on IceNet route to market project.
+* JG chat about impact at Turing.
+
+#### Who helped you over the past fortnight?
+* Also, the RAM team - bouncing off ideas!
+* NG - plans to help from the Partnerships with equadratures & potentially other RAs. 
+
+
+#### What did you achieve?
+* Had a chat with OS from REG about DyME - agreed to coordinate REG & RAM plans. I'm now invited to weekly stand-up meetings.
+* Supported JD in creating a RAM plan for equadratures - joined a meeting with the PI. 
+* Supported AC in prep for SPARRA engagement & had a chat with AD about the Health Theme Impact outputs. 
+* Facilitator training for DSG.
+* Had a chat with Sarah about our mentorship plans for 2022 (& facilitated the Lab chat about mentorship & goatherding experiences).
+* Pitched first vision of Research Application Showcase plan to closest colleagues. 
+* Joined the EAB for the Exeter Uni CDT in EI. 🎉
+
+#### What did you struggle with?
+* There's just lots to do - so many back to back meetings - plus the DSG is ramping up. 
+
+#### What would you like to work on next week?
+* DSG
+* Attend my first DyME meeting and start to scope out engagement
+* Attend RADDISH meeting and progress planning for the workshop
+* Exeter Uni CDT EAB meeting
+* ASG MB meeting
+
+#### Where do you need help from Kirstie?
+* I had a chat with MBA students this morning about what pathways to commercial sustainability we promoted at Turing. I'd love to chat with you about this.
+  
 ### Date: 17 November 2021
 
 #### Who did you help over the past fortnight? 
