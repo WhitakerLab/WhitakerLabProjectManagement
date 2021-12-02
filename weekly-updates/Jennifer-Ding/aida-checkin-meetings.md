@@ -1,7 +1,28 @@
 # Check in meetings with Aida
 
+* [Date: 2 December 2021](#date-2-december-2021)
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
+
+---
+
+### Date: 2 December 2021
+#### Who did you help over the past fortnight?
+*
+#### Who helped you over the past fortnight?
+* Aida with equadratures convo
+#### What did you achieve?
+* Brainstomring/planning convo with equadratures team
+* e-attending Urban Analytics event for some ideas for future RAM event
+* New developments to RAM rubric
+#### What did you struggle with?
+* Participating fully in DSG events so far
+#### What would you like to work on next week?
+* DSG!
+#### Where do you need help?
+* At this point, should I potentially put off the Dani email until early next year? Since we may only have 1 week to schedule a meeting with RAMs+Kirstie?
+#### Any other topics
+* Reaching out to Ruchi?
 
 ---
 
