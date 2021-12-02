@@ -8,9 +8,9 @@
 
 ### Date: 2 December 2021
 #### Who did you help over the past fortnight?
-*
+* RAM team - spreading the new RAM JDs on social media/to my network!
 #### Who helped you over the past fortnight?
-* Aida with equadratures convo
+* Aida with equadratures planning & partnerships outreach
 #### What did you achieve?
 * Brainstomring/planning convo with equadratures team
 * e-attending Urban Analytics event for some ideas for future RAM event
