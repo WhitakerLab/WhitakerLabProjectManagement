@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [8 December 2021](#date-8-december-2021)
 * [24 November 2021](#date-24-november-2021)
 * [13 October 2021](#date-13-october-2021)
 * [23 June 2021](#date-23-june-2021)
@@ -13,6 +14,44 @@
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 8 December 2021
+
+#### Who did you help this week?
+
+* SSI selection day reviewer
+* Mentoring GA and ME
+
+#### Who helped you this week?
+
+* AP - helping setting up the clean Github repo for data paper.
+
+#### What did you achieve?
+
+* Setting up the clean Github repo for data paper. 
+* Organising meetings and other community manager stuff.
+* Finishing off some bits from bookdash. 
+* Started planning academic authorship paper. 
+* Sensitive data - been linking up with other Elixir UK fellows to plan our work around sensitive data - we will be making short videos - RDM bites - that will then be turned into online and in person courses.
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Wrapping up things before the end of the year. 
+ * end of year newsletter for project
+* 
+
+#### Where do you need help from Kirstie?
+
+* Review end of year newsletter - maybe write a thank you part?
+
+#### Any other topics
+
+This space is yours to add to as needed.
 
 ### Date: 24 November 2021
 
