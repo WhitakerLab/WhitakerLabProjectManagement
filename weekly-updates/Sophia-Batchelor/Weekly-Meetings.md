@@ -1,5 +1,6 @@
 # Sophia Bi-Weekly Updates
 
+* [7 December 2021](#date-7-december-2021)
 * [23 November 2021](#date-23-november-2021)
 * [26 October 2021](#date-26-october-2021)
 * [12 October 2021](#date-12-october-2021)
@@ -9,6 +10,52 @@
 * [22 June 2021](#date-22-june-2021)
 
 *Sophia & Kirstie meet every 2 weeks on Tuesdays*
+
+## Date: 7 December 2021
+
+#### Who did you help this week?
+* AC with getting set up with the DSG
+* AB/TPS giving a small presentation on using github to manage projects (made my first [Zenodo upload!](https://doi.org/10.5281/zenodo.5742752))
+* SG with ideas for how to set up templates for presentations
+* DSG - somehow ended up being tech support (to a very limited extent!) for the first day 🐛💻
+* SL with some [feature prioritization for the AutSPACEs homepage](https://miro.com/app/board/uXjVOersUEs=/) 
+
+
+#### Who helped you this week?
+* FN with scoping out what the Data Safe Haven can (and can't) do
+* JD with a supportive note on the daily check in 
+* AC with the organization and getting messages to our DSG group 
+* AB and DC with a great discussion during lab meeting during GA's exercise. It was cool to hear DC's thought process and how they're approaching their project.
+* EK with a lovely lovely message about some group work I was part of last Thursday. 
+* The DSG's PI who was so helpful in understanding the project and gave great feedback on our ideas. 
+* Whitaker Lab's Christmas catch up. It was so lovely to see people and to share some holiday joy (AB's cookies were incredible), so a massive thank you to KW for organizing it. 
+* SL has been doing a lot of work keeping up with github comment threads, they've also started doing the prep notes for meetings which has been so helpful. 
+
+
+#### What did you achieve?
+* MozFest talk go accepted! (I've blocked off the calendar)
+* Started DSG 👩‍💻!! It's really cool and the group is awesome. 
+* Had an AMAZING collaboration day last Thursday which I learnt a lot from (implicit skills of collaboration and communication, and explicit knowledge of tools).
+* Finished a [feature prioritization workshop for AutSPACEs' homepage](https://miro.com/app/board/uXjVOersUEs=/) (using MoSCoW method - info about what MoSCoW is [here](https://www.interaction-design.org/literature/article/making-your-ux-life-easier-with-the-moscow)) which will help move the design forward.
+
+
+#### What did you struggle with?
+* Got overwhelmed with the amount of socialization and seeing people. I haven't really done big group things in person for a while. They were so fun and I'm so glad I was invited, just did not realize how rusty my social skills were. 
+* Ended up facilitating DSG after reflecting about where I was and what I wanted to get out of the DSG. 
+* Email backlog is piling up, I scanned the lab's HackMD from a while back for some strategies but am tempted to put an `out of office` on while working on DSG.
+* The Safe Haven!! Oh my gosh it's so hard to get set up and figure out what's going wrong when you get an error! 
+
+
+#### What would you like to work on in the next two weeks?
+* DSG is my main focus. 
+* Unblocking any AutSPACEs tasks so that SL can move ahead. 
+
+
+#### Where do you need help from Kirstie?
+* Pretty a-okay. DSG is relatively self contained and has support from the organizers.  
+
+
+
 
 ## Date: 23 November 2021 
 
