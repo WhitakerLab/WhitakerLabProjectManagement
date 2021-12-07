@@ -20,7 +20,7 @@
 #### Who did you help this week?
 
 * SSI selection day reviewer
-* Mentoring GA and ME
+* Mentoring chats with GA and ME
 
 #### Who helped you this week?
 
@@ -31,23 +31,23 @@
 * Setting up the clean Github repo for data paper. 
 * Organising meetings and other community manager stuff.
 * Finishing off some bits from bookdash. 
-* Started planning academic authorship paper. 
+* Started planning academic authorship paper - link [here](https://docs.google.com/document/d/1QVkItbEvg4sEgl-PpEH2UOYTiz4cFuQqfmd8B72bMes/edit?usp=sharing) 
 * Sensitive data - been linking up with other Elixir UK fellows to plan our work around sensitive data - we will be making short videos - RDM bites - that will then be turned into online and in person courses.
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* Another sick kiddie :cry: - major juggling going on at the moment. 
 
 #### What would you like to work on next week?
 
 * Wrapping up things before the end of the year. 
  * end of year newsletter for project
-* 
+ * data paper sent out to leadership team
+ * planning paper writing - academic authorship, barriers to repro in archaeology and FAIR phytos intro paper.
 
 #### Where do you need help from Kirstie?
 
-* Review end of year newsletter - maybe write a thank you part?
+* Review end of year newsletter please - maybe write a thank you part?
 
 #### Any other topics
 
