@@ -41,9 +41,9 @@
 #### What would you like to work on next week?
 
 * Wrapping up things before the end of the year. 
- * end of year newsletter for project
- * data paper sent out to leadership team
- * planning paper writing - academic authorship, barriers to repro in archaeology and FAIR phytos intro paper.
+  * end of year newsletter for project
+  * data paper sent out to leadership team
+  * planning paper writing - academic authorship, barriers to repro in archaeology and FAIR phytos intro paper.
 
 #### Where do you need help from Kirstie?
 
