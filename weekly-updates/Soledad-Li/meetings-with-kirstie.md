@@ -2,11 +2,41 @@
 
 *Meetings are scheduled every 2 weeks*
 
+* [8 December 2021](#date-8-December-2021)
 * [24 November 2021](#date-24-November-2021)
 * [16 November 2021](#date-16-November-2021)
 * [Template](#date-template)
 
+### Date: 8 December 2021
+#### Who you helped this week?
+* Helped JD with the goatherd :goat: 
+#### Who helped you this week?
+* GA helped me proofread the November Newsletter
 
+#### What did you achieve?
+* Iterated [moderation workflow](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/593) based on the community's feedback #593
+* Created [the strategy process moderation folder](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/601/files) to document changes in moderation from the meet-up discussions #601
+* Updated the [Figma Prototype on Moderating Experiences](https://www.figma.com/file/tk56jUzusw1ZiCx91cgqFV/Design-System-(Drafts)?node-id=166%3A1670) 
+    * Free text box is preferred
+* Brainstormed with SB about information to include on homepage
+    * Information to include in [Homepage](https://hackmd.io/MnKpTWXXRpK0fYdr6kQg0w)
+* Working on [the Homepage Option 1](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=homepage_autspaces#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1LmNptvWpwAFvOId9OMjN_9ffUWzTSgxg%26export%3Ddownload)
+* Issued my first monthly Newsletter - [November Newsletter](https://github.com/alan-turing-institute/AutisticaCitizenScience/pull/597/files) #597
+
+#### What did you struggle with?
+* I knew whom should ask help from and I am currently not stuck. 😃
+
+#### What would you like to work on next week?
+* Working on other two layouts for [Homepage Prototype](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=homepage_autspaces#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1LmNptvWpwAFvOId9OMjN_9ffUWzTSgxg%26export%3Ddownload)
+* Creating sign in workflow 
+
+#### Where do you need help from Kirstie?
+* Advice on [moderation workflow](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/593)
+    * Is it clear enough? 
+* Advice on [Homepage Prototype](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=homepage_autspaces#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1LmNptvWpwAFvOId9OMjN_9ffUWzTSgxg%26export%3Ddownload)
+    * Is the logic clear?
+    * Does the Homepage include too much information?
+---
 ### Date: 24 November 2021
 #### Who helped you this week?
 * Helped GA draft November Newsletter
