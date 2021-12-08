@@ -20,6 +20,7 @@
 * DSG - somehow ended up being tech support (to a very limited extent!) for the first day 🐛💻
 * SL with some [feature prioritization for the AutSPACEs homepage](https://miro.com/app/board/uXjVOersUEs=/) 
 
+KW: THANK YOU - so helpful!
 
 #### Who helped you this week?
 * FN with scoping out what the Data Safe Haven can (and can't) do
@@ -31,6 +32,7 @@
 * Whitaker Lab's Christmas catch up. It was so lovely to see people and to share some holiday joy (AB's cookies were incredible), so a massive thank you to KW for organizing it. 
 * SL has been doing a lot of work keeping up with github comment threads, they've also started doing the prep notes for meetings which has been so helpful. 
 
+KW: These are delightful 🎇
 
 #### What did you achieve?
 * MozFest talk go accepted! (I've blocked off the calendar)
@@ -38,24 +40,22 @@
 * Had an AMAZING collaboration day last Thursday which I learnt a lot from (implicit skills of collaboration and communication, and explicit knowledge of tools).
 * Finished a [feature prioritization workshop for AutSPACEs' homepage](https://miro.com/app/board/uXjVOersUEs=/) (using MoSCoW method - info about what MoSCoW is [here](https://www.interaction-design.org/literature/article/making-your-ux-life-easier-with-the-moscow)) which will help move the design forward.
 
-
 #### What did you struggle with?
 * Got overwhelmed with the amount of socialization and seeing people. I haven't really done big group things in person for a while. They were so fun and I'm so glad I was invited, just did not realize how rusty my social skills were. 
-* Ended up facilitating DSG after reflecting about where I was and what I wanted to get out of the DSG. 
+  * KW: HUGS!
+* Ended up facilitating DSG after reflecting about where I was and what I wanted to get out of the DSG.
+  * KW: Loooooooolzzzzz - I am unsurprised. Glad you're using your strengths, be careful not to burn out!
 * Email backlog is piling up, I scanned the lab's HackMD from a while back for some strategies but am tempted to put an `out of office` on while working on DSG.
+  * KW: I like this OOO plan 💯
 * The Safe Haven!! Oh my gosh it's so hard to get set up and figure out what's going wrong when you get an error! 
-
+  * KW: 😭 I hope you can find a way forwards with the team. Please note all the pain points for the RAM when they start!!
 
 #### What would you like to work on in the next two weeks?
 * DSG is my main focus. 
 * Unblocking any AutSPACEs tasks so that SL can move ahead. 
 
-
 #### Where do you need help from Kirstie?
 * Pretty a-okay. DSG is relatively self contained and has support from the organizers.  
-
-
-
 
 ## Date: 23 November 2021 
 
