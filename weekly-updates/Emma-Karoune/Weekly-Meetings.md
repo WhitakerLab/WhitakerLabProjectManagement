@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [8 December 2021](#date-8-december-2021)
 * [24 November 2021](#date-24-november-2021)
 * [13 October 2021](#date-13-october-2021)
 * [23 June 2021](#date-23-june-2021)
@@ -13,6 +14,50 @@
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 8 December 2021
+
+#### Who did you help this week?
+
+* SSI selection day reviewer
+  * KW: Big day!! Glad it was fun!
+* Mentoring chats with GA and ME
+  * KW: Thank you 🙏
+
+#### Who helped you this week?
+
+* AP - helping setting up the clean Github repo for data paper.
+  * KW: Great stuff! Super exciting.
+
+#### What did you achieve?
+
+* Setting up the clean Github repo for data paper.
+* Organising meetings and other community manager stuff.
+* Finishing off some bits from bookdash.
+* Started planning academic authorship paper - link [here](https://docs.google.com/document/d/1QVkItbEvg4sEgl-PpEH2UOYTiz4cFuQqfmd8B72bMes/edit?usp=sharing)
+  * KW: Really keen to brainstorm in the new year - thank you for leading on this!
+* Sensitive data - been linking up with other Elixir UK fellows to plan our work around sensitive data - we will be making short videos - RDM bites - that will then be turned into online and in person courses.
+  * KW: Fantastic!! Such an important topic!
+  * And yes to the lunch and learn idea!
+
+#### What did you struggle with?
+
+* Another sick kiddie :cry: - major juggling going on at the moment.
+  * KW: Poor kiddooooo. Rubbish 😭
+
+#### What would you like to work on next week?
+
+* Wrapping up things before the end of the year. 
+  * end of year newsletter for project
+  * data paper sent out to leadership team
+  * planning paper writing - academic authorship, barriers to repro in archaeology and FAIR phytos intro paper.
+
+KW: These all look great - thank you!
+
+#### Where do you need help from Kirstie?
+
+* Review end of year newsletter please - maybe write a thank you part?
+  * KW: Yes - very happy to do so!
 
 ### Date: 24 November 2021
 
