@@ -2,6 +2,7 @@
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
+* [08 December 2021](#date-08-december-2021)
 * [26 November 2021](#date-26-november-2021)
 * [10 November 2021](#date-10-november-2021)
 * [27 October 2021](#date-27-october-2021)
@@ -20,6 +21,44 @@
 * [17 March 2021](#date-17-march-2021)
 * [23 February 2021](#date-23-february-2021)
 * [15 February 2021 (w/e 14 Feburary 2021)](#date-15-february-2021-we-14-feburary-2021)
+
+## Date: 08 December 2021
+#### Who did you help this week?
+* TL & MR with project discussions 
+* AIM debriefing 
+* VH with newsletter chat 
+* CL with external contact chat 
+
+#### Who helped you this week?
+* KC with the CONTRACT 🎉
+* WT with a project catch up 
+
+#### What did you achieve? 
+* All recruitment stuff with the recruitment team
+* E&S meeting 
+* Newsletter sent 
+* Updated ALL THE CRM (will try not to get behind on this in the future!) 
+* Working through invoicing 
+
+#### What bought you joy this week?
+* Trying the Yesterbox technique and hoping this helps me focus a bit more on my emails 
+* Discussing budgets and planning ✨
+* My festive lunches 🎄
+
+#### What did you struggle with?
+* Handover is worrying me 
+
+#### What would you like to work on next week?
+* Wrapping things up before Xmas: contracts, recruitment, final newsletter 
+* Have a nice shiny budget :D 
+
+#### Where do you need help from Kirstie?
+* Newsletter paragraph 
+* December/January work for TPS leadership team 
+
+#### Any other topics? 
+
+
 
 ## Date: 26 November 2021
 #### Who did you help this week?
