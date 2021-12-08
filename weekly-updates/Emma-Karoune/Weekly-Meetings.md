@@ -20,23 +20,30 @@
 #### Who did you help this week?
 
 * SSI selection day reviewer
+  * KW: Big day!! Glad it was fun!
 * Mentoring chats with GA and ME
+  * KW: Thank you 🙏
 
 #### Who helped you this week?
 
 * AP - helping setting up the clean Github repo for data paper.
+  * KW: Great stuff! Super exciting.
 
 #### What did you achieve?
 
-* Setting up the clean Github repo for data paper. 
+* Setting up the clean Github repo for data paper.
 * Organising meetings and other community manager stuff.
-* Finishing off some bits from bookdash. 
-* Started planning academic authorship paper - link [here](https://docs.google.com/document/d/1QVkItbEvg4sEgl-PpEH2UOYTiz4cFuQqfmd8B72bMes/edit?usp=sharing) 
+* Finishing off some bits from bookdash.
+* Started planning academic authorship paper - link [here](https://docs.google.com/document/d/1QVkItbEvg4sEgl-PpEH2UOYTiz4cFuQqfmd8B72bMes/edit?usp=sharing)
+  * KW: Really keen to brainstorm in the new year - thank you for leading on this!
 * Sensitive data - been linking up with other Elixir UK fellows to plan our work around sensitive data - we will be making short videos - RDM bites - that will then be turned into online and in person courses.
+  * KW: Fantastic!! Such an important topic!
+  * And yes to the lunch and learn idea!
 
 #### What did you struggle with?
 
-* Another sick kiddie :cry: - major juggling going on at the moment. 
+* Another sick kiddie :cry: - major juggling going on at the moment.
+  * KW: Poor kiddooooo. Rubbish 😭
 
 #### What would you like to work on next week?
 
@@ -45,13 +52,12 @@
   * data paper sent out to leadership team
   * planning paper writing - academic authorship, barriers to repro in archaeology and FAIR phytos intro paper.
 
+KW: These all look great - thank you!
+
 #### Where do you need help from Kirstie?
 
 * Review end of year newsletter please - maybe write a thank you part?
-
-#### Any other topics
-
-This space is yours to add to as needed.
+  * KW: Yes - very happy to do so!
 
 ### Date: 24 November 2021
 
