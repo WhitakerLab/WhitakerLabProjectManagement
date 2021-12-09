@@ -8,10 +8,14 @@
 * [Template](#date-template)
 
 ### Date: 8 December 2021
+
 #### Who you helped this week?
 * Helped JD with the goatherd :goat: 
+  * KW: Yes!! Thank you for that!
+
 #### Who helped you this week?
 * GA helped me proofread the November Newsletter
+  * KW: Fantastic 💛
 
 #### What did you achieve?
 * Iterated [moderation workflow](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/593) based on the community's feedback #593
@@ -25,6 +29,7 @@
 
 #### What did you struggle with?
 * I knew whom should ask help from and I am currently not stuck. 😃
+  * KW: Great news!
 
 #### What would you like to work on next week?
 * Working on other two layouts for [Homepage Prototype](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=homepage_autspaces#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1LmNptvWpwAFvOId9OMjN_9ffUWzTSgxg%26export%3Ddownload)
@@ -33,9 +38,12 @@
 #### Where do you need help from Kirstie?
 * Advice on [moderation workflow](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/593)
     * Is it clear enough? 
+    * KW: Thank you for taking me through it!! Looks great - a few edits in the meeting 😸
 * Advice on [Homepage Prototype](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=homepage_autspaces#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1LmNptvWpwAFvOId9OMjN_9ffUWzTSgxg%26export%3Ddownload)
     * Is the logic clear?
     * Does the Homepage include too much information?
+    * KW: Quite a lot of information but really ueful to have the draft! Chatted in the meeting about which parts could be pulled out a little 😺
+
 ---
 ### Date: 24 November 2021
 #### Who helped you this week?
