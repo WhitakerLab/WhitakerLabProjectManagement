@@ -11,6 +11,12 @@
 * [14-06-2021](#Date-14-06-2021)
 * [28-06-2021](#Date-28-06-2021)
 * [13-07-2021](#Date-13-07-2021)
+* [10-08-2021](#Date-10-08-2021)
+* [06-09-2021](#Date-06-09-2021)
+* [24-09-2021](#Date-24-09-2021)
+* [04-10-2021](#Date-04-10-2021)
+* [15-11-2021](#Date-15-11-2021)
+* [08-12-2021](#Date-08-12-2021)
 
 ## Patricia Goals & Aims 
 *What skills, support, plans, objectives do you have for your work at the moment? How can these meetings support these?*
@@ -381,8 +387,7 @@ Is there any particular reading/topic/task we want to explore and bring to our n
 **Is there any particular reading/task we said we will do before we meet?**
 
 * Yes, good pointers to help with the interviews 
-	* need to spend some time on answers for questions we might get - on low energy days I find it very hard to answer them spontaneously 
-
+	* need to spend some time on answers for questions we might get
 * Interrupting seems more rude virtually, there are a lot of cues that get lost
 
 ## Agenda and Notes
@@ -402,8 +407,200 @@ Nothing right now
 Is there any particular reading/topic/task we want to explore and bring to our next meetings?
 * Cal Newport's blogs on Rethinking Passion - Arielle to pick: https://www.calnewport.com/blog/category/features-rethinking-passion/
 
+## Date: 10-08-2021
+
+### Patricia's achievements
+
+* Did a round of interviews for our tech lead post but didn't appoint anyone
+* Took almost 2 weeks off
+* Set up calendly to make it easier for folks to see my availability
+
+### Check-in ritual
+* Friends that we met up with on our holiday and the lovely hotel folks that made our trip awesome - I might get used to people again
+
+## Before this call
+**Is there any particular reading/task we said we will do before we meet?**
+
+Yes, but postponed to next time
+
+## Agenda and Notes
+* Review your current projects, relation and skill-building that you are working on.
+
+	* need to do proper reflection in preparation for annual review
+	* trying to progress a few of the "side projects", such as the hidden REF award ceremony and our "coding confession" session for SeptembRSE 
+
+* Since last time, review progress you’ve made towards your goals. Any challenges to mention?
+
+	* Had a bit of a low while being on holiday seeing that quite a few people make it into (hierarchical, not community based) leadership/management positions and suddenly felt "behind in my career" without fully understanding why
+
+* Review if we can attract any attention or help highlight your work.
+	* Attend the hidden REF award ceremony https://hidden-ref.org/hidden-ref-award-ceremony/
+
+## After this call
+Is there any particular reading/topic/task we want to explore and bring to our next meetings?
+* Will be picking up the Cal Newport reading
+
+## Date: 06-09-2021
+
+### Patricia's achievements
+* Annual review
+* Prepared run of show for hidden REF award ceremony
+* Finalized last round of project reports, they are all now up on zenodo
+* Progressed SeptembRSE panel organisation
+* Joined [BitList](https://www.dpconline.org/digipres/champion-digital-preservation/bit-list) jury 
+* Finally joined the local department reading group on Toxic Positivity
+* Trying to do some planning for the DMPonline service while it's quiet
+
+### Check-in ritual
+* The wonderful hidden REF committee and everyone who took part - it was amazing :sparkling_heart: 
+
+## Before this call
+**Is there any particular reading/task we said we will do before we meet?**
+* https://www.askamanager.org/2017/12/advice-for-first-time-managers.html
+	* Good tips, I might not manage people that "do my previous job" which might make some of them easier. Also think something like introducing a personal user manual could help create clarity with some of the aspects.
+
+* https://www.calnewport.com/blog/2021/07/16/on-the-myth-of-big-ideas/
+	* Interesting - requires time to keep sticking with something, but it felt like the last weeks that were a bit quieter, I was slow with tasks but not as unhappy with the final results as usual
+	* Also makes a good point for taking breaks or switching tasks after a certain period of time
+
+* https://www.calnewport.com/blog/2021/05/06/the-neuroscience-of-busyness/
+	* Similar to the above - requires resources to make sure colleagues are not overwhelmed and the to do list can be kept short
+
+## Agenda and Notes
+* Review your current projects, relation and skill-building that you are working on.
+
+	* There were some options highlighted to get involved in project proposals etc. but everything is moving slowly
+
+* Review if we can attract any attention or help highlight your work.
+	* Last round of input to the hybrid events guide so it can be published
+
+## Date: 24-09-2021
+
+### Patricia's achievements
+* Coding confessions panel done
+* Attending OS FAIR: not much new, more of a reminder of all the things I should do and don't get around to
+* Trying to finally get the hybrid guide published
+* Covering service helpdesk while colleague is away and ran our monthly community call
+* Somehow contributed to a project proposal - not entirely sure how that went though, didn't feel too organised and that my input was very intentional
+* Booked annual leave to make sure I don't end up with too many untaken leave and also I think I need the break
+* Applied for a job just to see what my options are and keep the CV up to date
+
+### Check-in ritual
+* Thanks to hidden REF committee colleague Gemma that took a presentation on from me that conflicted with my jury citation
+
+## Before this call
+**Is there any particular reading/task we said we will do before we meet?**
+
+Not this time
+
+## Agenda and Notes
+* Review your current projects, relation and skill-building that you are working on.
+
+	* not sure I learned anything from being involved in the project proposal which was pretty disappointing
+
+* Since last time, review progress you’ve made towards your goals. Any challenges to mention?
+ 	* Just seems everyone is overworked, most things are on hold and we're back to fire fighting
+ 
+* Review if we can attract any attention or help highlight your work.
+	* I'm fully booked but not with anything fun someone could attend :joy_cat: 
+
+## After this call
+Is there any particular reading/topic/task we want to explore and bring to our next meetings?
+* Reflect about these meetings: do they need restructuring, anything we need to change?
+
+## Date: 04-10-2021
+
+### Patricia's achievements
+* had an enjoyable job interview, even if not successful, I really liked preparing and the chat and it was a good experience overall
+* hybrid events guide published :muscle: 
+* prepared training slides, first time I will support some training in quite a while
+* plenty of heldesk support time..
+
+### Check-in ritual
 
 
+## Before this call
+**Is there any particular reading/task we said we will do before we meet?**
+
+* Limited time to reflect on these meetings, will pick this up by next meeting if that's okay
+
+## Agenda and Notes
+
+* Since last time, review progress you’ve made towards your goals. Any challenges to mention?
+	* Working on application for management training, not have had much time to think about it and still do not have the write up of my annual review
+
+* Review if we can attract any attention or help highlight your work.
+	* Job posts for developers are finally out - will be publicized soon and some attention might be useful; same for the hybrid event guide 
+
+## After this call
+Is there any particular reading/topic/task we want to explore and bring to our next meetings?
+* https://www.linkedin.com/learning/managing-up-down-and-across-the-organization/welcome?u=50251009
+
+## Date: 15-11-2021
+
+### Patricia's achievements
+* jury duty - insightful
+* ran some training with colleagues; first time doing online training after ages
+* Shortlisted and interviewed for developer position
+* Ran a documentation sprint (co-working type session) with colleagues which was fun
+* Ran a "journal club" type session with colleagues which was also fun and useful
+* voted for next round of UCU strikes :weary: 
+
+### Check-in ritual
+*(Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs)*
+* My colleague M who has been pretty good with my rants and encouraging me to take time off when it got too demotivating
+
+## Before this call
+**Is there any particular reading/task we said we will do before we meet?**
+
+Yes.  It had interesting parts. The "dress for the job/stand out" part made me cringe wildly.
+* There are a few parts I disagree with
+* Some good/useful parts (common sense?)
+* Very face to face focused, limited applicability in remote/hybrid settings
+
+* Overall it made me think that I'm in the wrong place in my current job.
+
+
+## Agenda and Notes
+* Review your current projects, relation and skill-building that you are working on.
+
+	* I'm in a quarter-life crisis and need reflection time, but don't even have the energy to do that. I think it will be re-charging over the Germany trip (when they are just going into the fourth wave :sob:) and then using Christmas to think about life and what I want to do 
+
+* Since last time, review progress you’ve made towards your goals. Any challenges to mention?
+	* General energy/motivation is the challenge
+
+* Review if we can attract any attention or help highlight your work.
+	* Nothing to promote at the moment
+
+## Date: 08-12-2021
+
+### Patricia's achievements
+* took time off and went to Germany to see family
+* 2 days of strike
+* ran some more training (this time with an engaged group which was fun)
+* booked some coaching to tackle the planning/reflection for next year (and life in general) with some help
+
+### Check-in ritual
+* My colleague M who pushed for some Christmas social and had the energy to organise everything - very good head elf :christmas_tree: 
+
+## Before this call
+**Is there any particular reading/task we said we will do before we meet?**
+
+We said we'd look at some exercises from talks I attended, but due lack of prep time, this is my coaching questionnaire prep, highlighting the questions I probably struggle with:
+
+6) What new things did you discover about yourself? *
+7) What was the wisest decision you made? *
+8) What was the scariest decision you took? *
+13) What were your 3 proudest moments over the past 12 months? *
+
+## Agenda and Notes
+* Review your current projects, relation and skill-building that you are working on.
+
+	* Making the most out of the coaching is current priority - I have a day of leave next week to write thoughts up properly in preparation
+	* I'll present at OLS next week, I think I might even not be super negative about my job and enjoy the prep and the talk
+
+* Since last time, review progress you’ve made towards your goals. Any challenges to mention?
+	* still quite a lack of clarity (to me) what my job might might look like, so trying to prepare for more uncertainty 
 
 ## Reading list suggestions
 
