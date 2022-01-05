@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [5 January 2022](#date-5-january-2022)
 * [8 December 2021](#date-8-december-2021)
 * [24 November 2021](#date-24-november-2021)
 * [13 October 2021](#date-13-october-2021)
@@ -14,6 +15,44 @@
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 5 January 2022
+
+#### Who did you help this week?
+
+* Nobody yet as been on holidays and can't remember before that - seems very long ago.
+  * KW: All your family to have a lovely winter break 😉 ❄️
+
+#### Who helped you this week?
+
+* HM - a lot with all onboarding materials!
+  * KW: Great stuff - thank you for working through all of those!
+
+#### What did you achieve?
+
+* Data paper - spoke to NB about editing and finishing off figures, arranged meeting with EP, updated the license to MIT and CCBY 4.0 using turing way as template. 
+  * KW: Great stuff! 🚀
+* Onboarding for Turing-RSS lab - reading lots, met with technical directors and will go to lots of meetings. 
+  * KW: Really great - and thank you for the chat in the meeting to get prepped for our meetings this afternoon!
+* Academic authorship paper - have dug out the prototype tool I helped with at the CW21 - contacted those involved, they are happy to be involved or hand over work on this, and the tool will then be taken on by Living with Machines REG top develop further. I'll arrange a meeting soon about this for planning. 
+  * KW: Very fun!! ✍️
+
+#### What did you struggle with?
+
+* Nothing - I've been on holiday!
+  * KW: 💝
+
+#### What would you like to work on next week?
+
+* Starting to work on things from the PID for community building in Turing-RSS lab - probably commmunity network mapping and other documentation.
+* Arranging planning meeting for academic authorship paper - in next collab cafe or separate meeting?
+  * KW: Totally fine to use the collaboration cafe - that was one of the ideas I had about having the collab cafes be a regular window! If folks can't make that time then go ahead and find another 😄
+* Working transferring useful documentation from data management repo to clean repo to create data dictionary/documentation. 
+
+#### Where do you need help from Kirstie?
+
+* PID for community building - expand community network map to more in depth community building docs. 
+  * KW: Discussed in meeting - gentle steps and linking up with DS... and really agree with the 
 
 ### Date: 8 December 2021
 
