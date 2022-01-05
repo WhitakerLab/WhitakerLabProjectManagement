@@ -28,7 +28,7 @@
 
 #### What did you achieve?
 
-* Data paper - editing and finishing off figures by NB, arranged meeting with EP, did update the license to MIT and CCBY 4.0 using turing way as template. 
+* Data paper - spoke to NB about editing and finishing off figures, arranged meeting with EP, updated the license to MIT and CCBY 4.0 using turing way as template. 
 * Onboarding for Turing-RSS lab - reading lots, met with technical directors and will go to lots of meetings. 
 * Academic authorship paper - have dug out the prototype tool I helped with at the CW21 - contacted those involved, they are happy to be involved or hand over work on this, and the tool will then be taken on by Living with Machines REG top develop further. I'll arrange a meeting soon about this for planning. 
 
@@ -44,7 +44,7 @@
 
 #### Where do you need help from Kirstie?
 
-* OK for now. 
+* PID for community building - expand community network map to more in depth community building docs. 
 
 #### Any other topics
 
