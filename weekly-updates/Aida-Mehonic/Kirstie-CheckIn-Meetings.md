@@ -18,12 +18,14 @@
 
 #### Who did you help over the past fortnight? 
 * Mostly JD and AC getting on with their work.
+  * KW: Brilliant! ☀️
 
 #### Who helped you over the past fortnight?
 * I think folks in the DSG worked really hard! My co-facilitator was excellent (he is a PhD student). 
 
 #### What did you achieve?
 * Managed to juggle a huge number of meetings into year-end. 😂
+  * KW: Amen! I hope you get a breath in January!
 
 #### What did you struggle with?
 * DSG was exhausting, especially as I tried not to entirely drop the ball on my day job (I presented at ASG MB, Partnerships monthly, joined an Exeter EI EAB, etc). 
@@ -31,15 +33,19 @@
 #### What would you like to work on next fortnight?
 * My goal is to get the RAM position paper to a decent draft by the end of Jan.
 * RA showcase planning and figuring out who to invite with NG's team.
+  * KW: I'll introduce you to SC this week - I'm hopeful he can be a really strong connection for us!
 * I'll submit my L&D on Cezanne this week (finally!)
+  * KW: Aaaaaaactually - the objectives need updating for your new role (TPS Senior Researcher) so if you can have a read though those and ping them back to me for a review that would be super helpful 🙏
 * Get on with the RAM project work as well: follow up on CEFAS & scivision, manage RADDISH, scope DyME. 
 * Recruitment!!
+  * KW: Discussed in meeting - likely reopen until 30 January.
 
 #### Where do you need help from Kirstie?
-* Showcase is a massive thing - any steer on who to invite for which project, how to curate and manage the event would be very welcome, and anything else would be very welcome. 
+* Showcase is a massive thing - any steer on who to invite for which project, how to curate and manage the event would be very welcome, and anything else would be very welcome.
+  * KW: Good chat in the meeting - try actioning the fast streamers who are working in the Office for the Director! I think they'll come into contact with lots of good people / organisations and we just need them to remember to tell us (you!)
+  * Also, get the prep meetings with projects that are going to pitch in the calendar ASAP - probably for end of Feb but hopefully with enough time for them to realise that they have more work to do to prepare 😬
 * For the RAM paper: If you have any papers (or initiatives) that you think I should obviously reference, ping me! :)
-
-
+  * KW: I will keep my eyes open - and then I think the other thing to consider is who the audience is... JC, MG are worth pitching to I think!
 
 ### Date: 17 November 2021
 
