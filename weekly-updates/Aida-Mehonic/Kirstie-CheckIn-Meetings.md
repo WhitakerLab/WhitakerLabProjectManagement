@@ -17,17 +17,24 @@
 ### Date: 10 January 2022
 
 #### Who did you help over the past fortnight? 
+* Mostly JD and AC getting on with their work.
 
 #### Who helped you over the past fortnight?
+* I think folks in the DSG worked really hard! My co-facilitator was excellent (he is a PhD student). 
 
 #### What did you achieve?
+* Managed to juggle a huge number of meetings into year-end. 😂
 
 #### What did you struggle with?
+* DSG was exhausting, especially as I tried not to entirely drop the ball on my day job (I presented at ASG MB, Partnerships monthly, joined an Exeter EI EAB, etc). 
 
-#### What would you like to work on next week?
+#### What would you like to work on next fortnight?
+* My goal is to get the RAM position paper to a decent draft by the end of Jan.
+* RA showcase planning and figuring out who to invite with NG's team.
 
 #### Where do you need help from Kirstie?
-
+* Showcase is a massive thing - any steer on who to invite for which project, how to curate and manage the event would be very welcome, and anything else would be very welcome. 
+* For the RAM paper: If you have any papers (or initiatives) that you think I should obviously reference, ping me! :)
 
 
 
