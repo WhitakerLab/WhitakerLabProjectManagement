@@ -31,6 +31,9 @@
 #### What would you like to work on next fortnight?
 * My goal is to get the RAM position paper to a decent draft by the end of Jan.
 * RA showcase planning and figuring out who to invite with NG's team.
+* I'll submit my L&D on Cezanne this week (finally!)
+* Get on with the RAM project work as well: follow up on CEFAS & scivision, manage RADDISH, scope DyME. 
+* Recruitment!!
 
 #### Where do you need help from Kirstie?
 * Showcase is a massive thing - any steer on who to invite for which project, how to curate and manage the event would be very welcome, and anything else would be very welcome. 
