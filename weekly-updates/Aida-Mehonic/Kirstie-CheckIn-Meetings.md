@@ -1,5 +1,6 @@
 # Check in meetings with Kirstie
 
+* [Date: 10 January 2022](#date-10-january-2022)
 * [Date: 17 November 2021](#date-17-november-2021)
 * [Date: 21 October 2021](#date-21-october-2021)
 * [Date: 15 September 2021](#date-15-september-2021)
@@ -11,6 +12,23 @@
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+
+### Date: 10 January 2022
+
+#### Who did you help over the past fortnight? 
+
+#### Who helped you over the past fortnight?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
+
+
 
 
 ### Date: 17 November 2021
