@@ -1,9 +1,9 @@
 # Check in meetings with Aida
 
+* [Date: 13 January 2022](#date-13-january-2022)
 * [Date: 2 December 2021](#date-2-december-2021)
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
-* [Date: 13 January 2022](#date-13-january-2022)
 
 ---
 
