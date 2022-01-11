@@ -3,6 +3,31 @@
 * [Date: 2 December 2021](#date-2-december-2021)
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
+* [Date: 13 January 2022](#date-13-january-2022)
+
+---
+
+### Date: 13 January 2022
+#### Who did you help over the past fortnight?
+* Helped create a new glossy for Equadratures (6 drafts, with key stakeholder feedback throughout)
+* Identified a potential avenue for Layik (UA) to engage with RAM work
+#### Who helped you over the past fortnight?
+* Achintya + RAM team helped provide feedback for the eq glossy
+#### What did you achieve?
+* EQ Glossy
+* Various goals frameworks for this week's lab meeting to hopefully make the goal setting process more accesible and less daunting
+#### What did you struggle with?
+* Understanding what work streams I should focus on
+#### What would you like to work on next week?
+* Outreach to DT & UA projects re: RAM Showcase (underground farm, data-linked visualisations, skania, SPENSER/TGVe)
+* EQ Workshop planning
+* RAM KPIs
+* Research impact communication framework
+#### Where do you need help?
+* Understanding how I can self advocate for work streams I am interested in
+* Target Goals and direction for RAM KPIs
+#### Any other topics
+*
 
 ---
 
