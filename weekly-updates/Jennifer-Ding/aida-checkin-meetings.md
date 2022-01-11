@@ -27,7 +27,9 @@
 * Understanding how I can self advocate for work streams I am interested in
 * Target Goals and direction for RAM KPIs
 #### Any other topics
-*
+* RAM Showcase Theme idea (personally I think it can be helpful way to brand the flavor impact that we as RAMs value, since there's so many visions for how AI is "changing the world")
+* Example of what I think we are not: "AI is revolutionising the world through automation, efficiency/profit gains, replacing traditional industries/human expertise"
+* Example of what I think we are more about: "By co-developing AI with stakeholders from academia/industry/gov/citizens, we can create solutions that allow traditional industries to expand human capabilities and build brighter social, economic, and environmental futures."
 
 ---
 
