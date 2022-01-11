@@ -25,6 +25,7 @@
 * Research impact communication framework
 #### Where do you need help?
 * Better understand the process for how work streams are assigned & responsibilities allocated
+* Mentorship ops
 * Target Goals and direction for RAM KPIs
 #### Any other topics
 * RAM Showcase Theme idea (personally I think it can be helpful way to brand the flavor impact that we as RAMs value, since there's so many visions for how AI is "changing the world")
