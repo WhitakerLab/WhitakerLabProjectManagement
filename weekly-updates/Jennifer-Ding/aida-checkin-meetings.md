@@ -12,19 +12,19 @@
 * Helped create a new glossy for Equadratures (6 drafts, with key stakeholder feedback throughout)
 * Identified a potential avenue for Layik (UA) to engage with RAM work
 #### Who helped you over the past fortnight?
-* Achintya + RAM team helped provide feedback for the eq glossy
+* Achintya + RAM team provided feedback for the eq glossy
 #### What did you achieve?
 * EQ Glossy
-* Various goals frameworks for this week's lab meeting to hopefully make the goal setting process more accesible and less daunting
+* Goal setting frameworks for this week's lab meeting to hopefully make the goal setting process more accesible and less daunting
 #### What did you struggle with?
 * Understanding what work streams I should focus on
 #### What would you like to work on next week?
 * Outreach to DT & UA projects re: RAM Showcase (underground farm, data-linked visualisations, skania, SPENSER/TGVe)
 * EQ Workshop planning
-* RAM KPIs
+* [RAM KPIs](!https://hackmd.io/tPwR0NbpTKyHB1M5FHz1WA?view)
 * Research impact communication framework
 #### Where do you need help?
-* Understanding how I can self advocate for work streams I am interested in
+* Better understand the process for how work streams are assigned & responsibilities allocated
 * Target Goals and direction for RAM KPIs
 #### Any other topics
 * RAM Showcase Theme idea (personally I think it can be helpful way to brand the flavor impact that we as RAMs value, since there's so many visions for how AI is "changing the world")
