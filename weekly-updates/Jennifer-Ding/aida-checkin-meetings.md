@@ -21,7 +21,7 @@
 #### What would you like to work on next week?
 * Outreach to DT & UA projects re: RAM Showcase (underground farm, data-linked visualisations, skania, SPENSER/TGVe)
 * EQ Workshop planning
-* [RAM KPIs](!https://hackmd.io/tPwR0NbpTKyHB1M5FHz1WA?view)
+* [RAM KPIs](https://hackmd.io/tPwR0NbpTKyHB1M5FHz1WA?view)
 * Research impact communication framework
 #### Where do you need help?
 * Better understand the process for how work streams are assigned & responsibilities allocated
