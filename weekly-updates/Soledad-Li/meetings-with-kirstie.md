@@ -2,11 +2,41 @@
 
 *Meetings are scheduled every 2 weeks*
 
+* [12 January 2022](#date-12-January-2022)
 * [8 December 2021](#date-8-December-2021)
 * [24 November 2021](#date-24-November-2021)
 * [16 November 2021](#date-16-November-2021)
 * [Template](#date-template)
 
+### Date: 12 January 2022
+#### What did you achieve?
+* GitHub Branch I am working with: [build-tmp](https://github.com/alan-turing-institute/AutSPACEs/tree/build-tmp)
+    * Fixed broken links & webpages & built a complete experience tour 
+    * Tidied up the design & coded the homepage
+    * Separating css files out from the codes
+    * Setting up templates for navigation, footer
+  
+#### What did you struggle with?
+* I struggled with coding from time to time but I managed them through tutorials online. :smiley: 
+
+#### What would you like to work on next week?
+#### Coding Plan until February
+* Improving templates and front-end structures
+* Coding static webpages 
+    * What Autism Is
+    * About Us
+* Coding pages with features
+    * Registration
+        * Registration Workflow
+    * Moderator page  
+* Adding database models to the front-end
+    * Users
+    * Moderators
+  
+#### Where do you need help from Kirstie?
+* Feedback on the current platform 
+* People I could go for code reviewing 
+---
 ### Date: 8 December 2021
 
 #### Who you helped this week?
