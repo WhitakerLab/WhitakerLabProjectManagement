@@ -10,27 +10,24 @@
 ### Date: 13 January 2022
 #### Who did you help over the past fortnight?
 * Helped create a new glossy for Equadratures (6 drafts, with key stakeholder feedback throughout)
-* Identified a potential avenue for Layik (UA) to engage with RAM work
 #### Who helped you over the past fortnight?
 * Achintya + RAM team provided feedback for the eq glossy
 #### What did you achieve?
 * EQ Glossy
 * Goal setting frameworks for this week's lab meeting to hopefully make the goal setting process more accesible and less daunting
+* Connecting with more DT & UA folks
 #### What did you struggle with?
 * Understanding what work streams I should focus on
 #### What would you like to work on next week?
-* Outreach to DT & UA projects re: RAM Showcase (underground farm, data-linked visualisations, skania, SPENSER/TGVe)
-* EQ Workshop planning
+* RAM Showcase Outreach
 * [RAM KPIs](https://hackmd.io/tPwR0NbpTKyHB1M5FHz1WA?view)
 * Research impact communication framework
 #### Where do you need help?
 * Better understand the process for how work streams are assigned & responsibilities allocated
-* Mentorship ops
-* Target Goals and direction for RAM KPIs
+* Discussion of 6-month/long term goals
+* Direction for RAM KPIs workstream
 #### Any other topics
-* RAM Showcase Theme idea (personally I think it can be helpful way to brand the flavor impact that we as RAMs value, since there's so many visions for how AI is "changing the world")
-* Example of what I think we are not: "AI is revolutionising the world through automation, efficiency/profit gains, replacing traditional industries/human expertise"
-* Example of what I think we are more about: "By co-developing AI with stakeholders from academia/industry/gov/citizens, we can create solutions that allow traditional industries to expand human capabilities and build brighter social, economic, and environmental futures."
+* Integrating professional mentorship into 1:1s?
 
 ---
 
