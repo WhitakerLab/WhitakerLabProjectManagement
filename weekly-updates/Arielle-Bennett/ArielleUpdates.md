@@ -1,4 +1,4 @@
-# Arielle Bi-Weekly Updates 
+# Arielle Bi-Weekly Updates - 2021
 
 *Arielle & Kirstie meet every 2 weeks on Wednesdays* 
 
