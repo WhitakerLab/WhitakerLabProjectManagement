@@ -35,3 +35,4 @@ Georgia's biweekly meeting notes.
 * Guidelines for sharing on behalf of others with JS and SF
 * AutSPACEs paper
 * Prepare for presentation with JS
+* Public Engagement training workshop
