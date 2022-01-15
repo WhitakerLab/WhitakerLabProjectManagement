@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [19 January 2022](#date-19-january-2022)
 * [5 January 2022](#date-5-january-2022)
 * [8 December 2021](#date-8-december-2021)
 * [24 November 2021](#date-24-november-2021)
@@ -15,6 +16,46 @@
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 19 January 2022
+
+#### Who did you help this week?
+
+* DS - updating on my experiences so far and planning together. 
+* Data paper team - getting the data paper out for further feedback 🎉
+
+#### Who helped you this week?
+
+HM - again a superstar- ansering my many many questions! 
+
+#### What did you achieve?
+
+* TRRS - many meetings, started to meet with small groups (REG and data wranglers so far), planning community building and communications in more detail with DS, started baseline assessment of lecture series data, started community network map. 
+* Data paper sent for feedback.
+* Academic authorship paper organising meeting and planning document. 
+* Keeping an eye on project exec presentations prep. 👀
+* Had meetings with grants officer and partnership manager about NHM projects. 
+* Gave a talk on open science to opendoors?
+
+#### What did you struggle with?
+
+* so many meetings!
+
+#### What would you like to work on next week?
+
+* Completing baseline data for metrics.
+* Finish first draft of community network map.
+* Start work on Github repo/s.
+* Academic authorship paper writing.
+
+#### Where do you need help from Kirstie?
+
+* Performance management objectives, etc.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
 
 ### Date: 5 January 2022
 
