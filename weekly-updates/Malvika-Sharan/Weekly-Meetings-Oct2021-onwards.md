@@ -2,10 +2,76 @@
 
 *[Template](#template-date-dd-month-yyyy)*
 
+* [17 January 2022](#date-17-January-2022)
 * [22 November 2021](#date-22-November-2021)
 * [11 October 2021](#date-11-October-2021)
 
 ---
+
+### Date: 17 January 2022
+
+#### Who did you help this week?
+- Training team in designing two projects
+
+#### Who helped you this week?
+- REG team in giving a final demo of the documents for the UX project handover
+- MN in involving in two projects and organising session for community discussion
+
+#### What did you achieve?
+- Ran a community engagement discussion
+- Got access to the community manager page
+- Set up the team GitHub and CoC revision
+
+#### What did you struggle with?
+- Delayed submission of objectives and GSoC due to many meetings
+
+#### What would you like to work on next week?
+- UKRI panel
+
+#### Where do you need help from Kirstie?
+- Review of CM team GitHub and CoC revision
+
+### Date: 16 December 2021
+
+#### Who did you help this week?
+- Facilitating Responsible Participation workshop with GA
+- AR and VH in project planning and discussion
+- Training team in co-designing two projects
+
+#### Who helped you this week?
+- KW in project planning and onboarding of AR and VH
+- MN in organising community engagement workshop
+- ET, KH, MM, HD, J in running the fireside chat
+
+#### What did you achieve?
+- Worked on the GEM projects with the REG members (added them on the TTW team doc)
+- Chat with eScience team about future engagement
+- Validate AI session
+- developed the foundation community engagement workshop materials
+
+#### What did you struggle with?
+- Delayed newsletters
+
+#### What would you like to work on next week?
+- Holidays!
+
+#### Where do you need help from Kirstie?
+
+---
+
+### Template: Date: DD Month YYYY
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
 
 ### Date: 22 November 2021
 
@@ -57,22 +123,6 @@
 #### Where do you need help from Kirstie?
 - Discussions on the CM team development, TPS alignment, vision
   - KW: Useful chat in the meeting
-
----
-
-### Template: Date: DD Month YYYY
-
-#### Who did you help this week?
-
-#### Who helped you this week?
-
-#### What did you achieve?
-
-#### What did you struggle with?
-
-#### What would you like to work on next week?
-
-#### Where do you need help from Kirstie?
 
 ### Date: 11 October 2021
 
