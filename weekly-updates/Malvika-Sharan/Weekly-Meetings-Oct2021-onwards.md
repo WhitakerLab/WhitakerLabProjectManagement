@@ -13,15 +13,24 @@
 
 #### Who did you help this week?
 - Training team in designing two projects
+  - KW: Great stuff - so delighted about this (high level) collaboration ✨
 
 #### Who helped you this week?
 - REG team in giving a final demo of the documents for the UX project handover
+  - KW: I'm really glad I could attend - it was super helpful to see the demo.
 - MN in involving in two projects and organising session for community discussion
+  - KW: So fab 💖
 
 #### What did you achieve?
 - Ran a community engagement discussion
+  - KW: So delighted that these are happening within the Turing!
 - Got access to the community manager page
+  - KW: YAAAAAAY 🚀🌟
 - Set up the team GitHub and CoC revision
+  - KW: https://github.com/alan-turing-institute/open-community-building
+  - Looks great - left a comment on the PR
+- KW: Ran the demo for the Turing Way UX project!
+  - Noted from the meeting that you did a great job nudging on getting the documentation captured too 🙌
 
 #### What did you struggle with?
 - Delayed submission of objectives and GSoC due to many meetings
@@ -35,6 +44,7 @@
 
 #### Where do you need help from Kirstie?
 - Review of CM team GitHub and CoC revision
+  - KW: Done! Thank you for putting so much work into this!
 
 ### Date: 16 December 2021
 
