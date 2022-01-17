@@ -3,6 +3,7 @@
 *[Template](#template-date-dd-month-yyyy)*
 
 * [17 January 2022](#date-17-January-2022)
+* [16 December 2021](#date-16-December-2021)
 * [22 November 2021](#date-22-November-2021)
 * [11 October 2021](#date-11-October-2021)
 
