@@ -27,6 +27,10 @@
 
 #### What would you like to work on next week?
 - UKRI panel
+- Getting some abstract in
+- TTW newsletter and fireside chat
+- Meeting with ALS 
+- 1:1 progress check with VH and AR
 
 #### Where do you need help from Kirstie?
 - Review of CM team GitHub and CoC revision
