@@ -26,6 +26,17 @@
 
 **For how long?** 1 hour
 
+## Date: 18 January 2021
+
+### What brought you joy this week?
+* ME - I'm back from Finland! Gosh I was there for ages - 5 weeks...! Was really lovely, but I - of course - did not get as much work done as I would have hoped to...
+### What did you achieve
+* ME - Had a conference (the Young Epilepsy research retreat) the first week back - presenting and chairing. Got some good feedback, and things are rolling along. I am currently working on the predictive model and trying to figure out how to make it explainable and interpretable - especially if it's going to be used in a clinical context. And playing around with alluvial plots in R, which is fun!
+### What did you struggle with?
+* ME - Not exactly struggling, but am thinking a lot about what to do after the PhD. Still just trying to keep an open mind and explore all options. 
+### Any other topics
+* ME - Shall we at some point try to finish the Sensitive data chapter for the Turing Way?
+
 ## Date: 23 November 2021
 
 ### What brought you joy this week?
