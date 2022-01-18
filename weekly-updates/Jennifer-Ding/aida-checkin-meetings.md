@@ -25,6 +25,7 @@
 * Research Pitch Framework
 * [RAM KPIs](https://hackmd.io/tPwR0NbpTKyHB1M5FHz1WA?view)
 #### Where do you need help?
+* Travel in March for US wedding
 * [6 Month Objectives](https://hackmd.io/M4s9wArQR4aGF4utjbQPbQ?view)
 #### Any other topics
 *
