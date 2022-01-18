@@ -26,16 +26,16 @@
 
 #### Who helped you this week?
 
-HM - again a superstar- ansering my many many questions! 
+HM - again a superstar- answering my many many questions! 
 
 #### What did you achieve?
 
-* TRRS - many meetings, started to meet with small groups (REG and data wranglers so far), planning community building and communications in more detail with DS, started baseline assessment of lecture series data, started community network map. 
+* TRRS - many many meetings, started to meet with small groups (REG and data wranglers so far), met with RSS, planning community building and communications in more detail with DS, started baseline assessment of lecture series data and other lab outputs, started community network map. 
 * Data paper sent for feedback.
 * Academic authorship paper organising meeting and planning document. 
 * Keeping an eye on project exec presentations prep. 👀
 * Had meetings with grants officer and partnership manager about NHM projects. 
-* Gave a talk on open science to opendoors?
+* Gave a talk on open science to opendoors EU. 
 
 #### What did you struggle with?
 
