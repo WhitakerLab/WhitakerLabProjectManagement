@@ -1,10 +1,33 @@
 # Check in meetings with Aida
 
+* [Date: 18 January 2022](#date-18-january-2022)
 * [Date: 13 January 2022](#date-13-january-2022)
 * [Date: 2 December 2021](#date-2-december-2021)
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
 
+---
+### Template
+
+### Date: 18 January 2022
+#### Who did you help over the past fortnight?
+* First goatherding of lab meeting! 
+#### Who helped you over the past fortnight?
+* RPMs in outreach to DCE & UA projects
+* Kirstie goal setting dog walk chat
+#### What did you achieve?
+* RAM team: admin/org - create Note of Notes, Showcase outreach
+* Engagement with Fleet Modeling PI (LB) for showcase, Binderising code, glossy
+* Plant the seeds for TW-inspired virtual EQ workshop
+#### What did you struggle with?
+* 
+#### What would you like to work on next week?
+* Research Pitch Framework
+* [RAM KPIs](https://hackmd.io/tPwR0NbpTKyHB1M5FHz1WA?view)
+#### Where do you need help?
+* [6 Month Objectives](https://hackmd.io/M4s9wArQR4aGF4utjbQPbQ?view)
+#### Any other topics
+*
 ---
 
 ### Date: 13 January 2022
@@ -91,7 +114,7 @@
 
 ### Template
 
-### Date: DD MM 2021
+### Date: DD MM 2022
 #### Who did you help over the past fortnight?
 *
 #### Who helped you over the past fortnight?
