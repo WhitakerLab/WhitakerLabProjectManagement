@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [18 January 2022](#date-18-january-2022)
 * [23 November 2021](#date-23-november-2021)
 * [1 November 2021](#date-1-november-2021)
 * [12 October 2021](#date-12-october-2021)
@@ -26,7 +27,7 @@
 
 **For how long?** 1 hour
 
-## Date: 18 January 2021
+## Date: 18 January 2022
 
 ### What brought you joy this week?
 * ME - I'm back from Finland! Gosh I was there for ages - 5 weeks...! Was really lovely, but I - of course - did not get as much work done as I would have hoped to...
