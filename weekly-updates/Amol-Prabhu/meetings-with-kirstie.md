@@ -2,9 +2,41 @@
 
 *Meetings are scheduled every 2 weeks*
 
-* [15th Dec 2021] (#date-wed-15th-december-2021)
+* [26th Jan 2022](#date-wed-26th-january-2022) 
+* [15th Dec 2021](#date-wed-15th-december-2021)
 * [1st Dec 2021](#date-wed-1st-december-2021)
 * [Template](#date-template)
+
+
+## Date: Wed 26th January 2022
+
+#### Who did you help this week?
+
+* Last week was away in Budapest but have since taken on the responsibilities of facilitating the DECOVID data extract moment and curating and circulating the DECOVID monthly newsletter, helping to free more time up for EK. Also before going away I took notes at the AutSPACEs monthly meetup and shared the comments and suggestions to GitHub
+
+#### Who helped you this week?
+
+* EK provided comments on my section in the DECOVID data paper which allowed me to revise and add parts before the paper was circulated. 
+
+#### What did you achieve?
+
+* Had a more thorough recharge on holiday than over Xmas which has allowed me to come back this week with a focus to finish up writing the AutSPACEs data paper for a first draft review. 
+
+#### What did you struggle with?
+
+* Turning my mind to writing my End Posting Review, need to get thinking about describing and relaying behaviours and actions, turning to my trusty planner and to-do list for this! 
+
+#### What would you like to work on next week?
+
+* Get started on the EPR, start collecting, logging and evaluating comments from DECOVID data paper review, finish AutSPACEs paper first draft 
+
+#### Where do you need help from Kirstie?
+
+* Review of the AutSPACEs data paper, forward planning and review of milestones and deadlines for when I finish, start thinking about how to tie up any loose ends and potentially start thinking about writing up a handover doc for the next FSer (if there is one) 
+
+#### Any other topics
+
+Slightly less in terms of recent review as I was away over Xmas and last week but approaching the final stretch now (sadly) so looking to make the most of the next two months here! 
 
 ## Date: Wed 15th December 2021
 
