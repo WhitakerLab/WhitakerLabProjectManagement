@@ -9,9 +9,10 @@
 ---
 ### Template
 
-### Date: 18 January 2022
+### Date: 18 January 2022  
+(and also 26-Jan)
 #### Who did you help over the past fortnight?
-* First goatherding of lab meeting! 
+* First goatherding of lab meeting! Creation of goals templates used in other settings too
 #### Who helped you over the past fortnight?
 * RPMs in outreach to DCE & UA projects
 * Kirstie goal setting dog walk chat
@@ -19,14 +20,16 @@
 * RAM team: admin/org - create Note of Notes, Showcase outreach
 * Engagement with Fleet Modeling PI (LB) for showcase, Binderising code, glossy
 * Plant the seeds for TW-inspired virtual EQ workshop
+* Lighting Talk Framework Draft - https://hackmd.io/gxE5QbD0TgWAi9Zui8dZVQ?view
 #### What did you struggle with?
-* 
+* Understanding UA projects
 #### What would you like to work on next week?
-* Research Pitch Framework
-* [RAM KPIs](https://hackmd.io/tPwR0NbpTKyHB1M5FHz1WA?view)
+* Lighting Talk Framework Feedback & Test Run with 1 PI
+* [RAM KPIs](https://docs.google.com/spreadsheets/d/1vmXKh_yNTzmQcrNm1ixtPMhlf8uT_5DqyhP82uYxoZQ/edit#gid=958210607)
 #### Where do you need help?
 * Travel in March for US wedding
 * [6 Month Objectives](https://hackmd.io/M4s9wArQR4aGF4utjbQPbQ?view)
+* Facilitator Training next steps
 #### Any other topics
 *
 ---
