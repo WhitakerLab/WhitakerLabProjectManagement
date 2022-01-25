@@ -1,5 +1,6 @@
 # Sophia Bi-Weekly Updates
 
+* [25 January 2022](#date-25-january-2022)
 * [7 December 2021](#date-7-december-2021)
 * [23 November 2021](#date-23-november-2021)
 * [26 October 2021](#date-26-october-2021)
@@ -10,6 +11,46 @@
 * [22 June 2021](#date-22-june-2021)
 
 *Sophia & Kirstie meet every 2 weeks on Tuesdays*
+
+
+## Date: 25 January 2022
+
+#### Who did you help this week?
+* 👫 with freezer meals 
+* Contract work got completed where it felt like my contribution had a massive impact
+
+#### Who helped you this week?
+* EK with a coffee chat about what they did during their SSI fellowship and generally about the cool work they do as a Community Manager
+* Friend coworked with me for a while which gave a super productivity boost
+* 👫 did so much work at home while I was unwell
+
+#### What did you achieve?
+* ✅ 2 draft CVs that I ran through an ATS to check (and now have concrete things to improve)
+* ✅ Sent a visa extension request over to the Home Office
+* 💬 had a DSG debrief with the team about how the DSG facilitator role went 
+*  SSI FELLOWSHIP WAS ANNOUNCED!! 🎉 
+
+#### What did you struggle with?
+* Really bad illness. Have been off work since 7 Jan and am at a bit of a reduced capacity now. 
+
+#### What would you like to work on in the next two weeks?
+* CVs 
+* View Experiences page for AutSPACEs
+* Need to manage workload as I'm still a touch under the weather and don't have as much capacity as usual this week. 
+
+#### Where do you need help from Kirstie?
+* Feedback on a CV (ETA: Fri 28rd || Deadline: Thur 3rd). I'll be specific about the feedback, right now the struggle is formating/readability).
+* SSI brainstorming. Strategic brainblast to see where opportunities to feed into TTW, AutSPACEs etc are. No deadline and I have not thought deeply about it yet so would be open to seeing what could be possible. 
+
+#### Other Info
+* Retro/recap of the SL-KW-SB meeting (feedback would be helpful in order to improve future collaborative meetings)
+	* **Was sending the email and agenda ahead of time useful? (would a PR be better in the future?)**
+	* **Was the balance of charing and sharing effective for communicating between everyone?**
+	* **Would you have expected summary notes or action items written somewhere to be rechecked over by you?**
+	* **Do you have any general requests or things that would have made the meeting better?** 
+	
+
+
 
 ## Date: 7 December 2021
 
