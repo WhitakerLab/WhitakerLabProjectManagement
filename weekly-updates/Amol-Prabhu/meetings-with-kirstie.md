@@ -2,8 +2,52 @@
 
 *Meetings are scheduled every 2 weeks*
 
+* [15th Dec 2021] (#date-wed-15th-december-2021)
 * [1st Dec 2021](#date-wed-1st-december-2021)
 * [Template](#date-template)
+
+## Date: Wed 15th December 2021
+
+#### Who did you help this week?
+
+* Reviewed and made some comments on GA's moderation report but will discuss further before approving PR together
+  * KW: Great stuff
+* Held role of time keeper and note taker at AutSPACEs community meetup
+  * KW: Thank you for keeping everyone on track!
+
+#### Who helped you this week?
+
+* KW helped to put me on the right track to continue shaping the AutSPACEs data paper
+  * KW: I'm glad this was helpful - easier to get going in the new year I think!
+
+#### What did you achieve?
+
+* Reviewed the PIONEER Data Request form and made notes on what the DECOVID team can help researchers with accessing to contribute to that section of the paper and asked PIONEER for a bit of insight into some of the questions
+  * KW: This is helpful - a little blocked but probably enough to add in those links to point to the links on Pioneer.
+* Started writing up the AutSPACEs paper and got some more insights from the community meetup where I took notes and kept time
+  * KW: Great stuff - really helpful to get started so we can iterate ✨
+* Attended a really useful workshop: Conducting high quality conversations and learned a lot about how to navigate challenging conversations. 
+
+#### What did you struggle with?
+
+* Got a response from PIONEER but only to say they will provide answers later this week, once I receive those I will have to review them and see if they are appropriate
+  * KW: Yeah - fingers crossed for a reply before Christmas...
+
+#### What would you like to work on next week?
+
+* Write up my findings for DECOVID/PIONEER data access questions into the data access section of the paper
+  * KW: I think this is good to prioritise before Christmas.
+* Have more sections of the AutSPACEs paper written up 
+  * KW: Personally I'd focus on DECOVID before this, you have lots of scope to explore in the new year.
+* Celebrate Christmas!
+  * KW: 🎄
+* KW: Don't forget to deliver to WKW on the comparison of the protocols too. Ideally quite soon after Christmas.
+
+#### Where do you need help from Kirstie?
+
+* Comments today and this week on the DECOVID Data Access section and suggestions for the next part of the AutSPACEs paper to write before you are away for the holidays! 
+  * KW: I don't think you can do the AutSPACEs work before I go away.
+  * Useful discussion in the meeting.
 
 ## Date: Wed 1st December 2021
 
