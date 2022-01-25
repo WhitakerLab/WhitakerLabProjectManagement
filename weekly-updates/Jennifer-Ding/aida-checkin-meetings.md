@@ -30,6 +30,7 @@
 * Travel in March for US wedding
 * [6 Month Objectives](https://hackmd.io/M4s9wArQR4aGF4utjbQPbQ?view)
 * Facilitator Training next steps
+* Process to contact Comms about impact stories
 #### Any other topics
 *
 ---
