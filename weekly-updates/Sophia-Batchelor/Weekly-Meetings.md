@@ -17,21 +17,33 @@
 
 #### Who did you help this week?
 * 👫 with freezer meals 
+  * KW: Oh GOOD, I'm glad 🥣
 * Contract work got completed where it felt like my contribution had a massive impact
+  * KW: How cool is THAT?! Fabulous 🙌
 
 #### Who helped you this week?
 * EK with a coffee chat about what they did during their SSI fellowship and generally about the cool work they do as a Community Manager
+  * KW: Lovely!! 💜
 * Friend coworked with me for a while which gave a super productivity boost
+  * KW: Mega helpful ✨
 * 👫 did so much work at home while I was unwell
+  * KW: Oh yay, and you deserve to be taken care of 🧹
 
 #### What did you achieve?
 * ✅ 2 draft CVs that I ran through an ATS to check (and now have concrete things to improve)
+  * KW: REALLY helpful to see what biases the AI propagates 😉
 * ✅ Sent a visa extension request over to the Home Office
+  * KW: Fingers crossed! COME ON UK Home Office!!! 🤞🤞
 * 💬 had a DSG debrief with the team about how the DSG facilitator role went 
+  * KW: Love the discussion in the meeting - how fun.
+    I'm really glad that you were able to give this feedback!
 *  SSI FELLOWSHIP WAS ANNOUNCED!! 🎉 
+  * KW: LOOK AT YOU!! https://www.software.ac.uk/about/fellows/sophia-batchelor
+  * Congratulations 🎊🎊🎊 
 
 #### What did you struggle with?
 * Really bad illness. Have been off work since 7 Jan and am at a bit of a reduced capacity now. 
+  * KW: Booooooo - keep taking care of yourself!! 🤒
 
 #### What would you like to work on in the next two weeks?
 * CVs 
@@ -39,18 +51,26 @@
 * Need to manage workload as I'm still a touch under the weather and don't have as much capacity as usual this week. 
 
 #### Where do you need help from Kirstie?
-* Feedback on a CV (ETA: Fri 28rd || Deadline: Thur 3rd). I'll be specific about the feedback, right now the struggle is formating/readability).
-* SSI brainstorming. Strategic brainblast to see where opportunities to feed into TTW, AutSPACEs etc are. No deadline and I have not thought deeply about it yet so would be open to seeing what could be possible. 
+* Feedback on a CV (ETA: Fri 28rd || Deadline: Thur 3rd). I'll be specific about the feedback, right now the struggle is formating/readability.
+  * KW: Good chat about the CV - cover letter more important to focus on at this point 👀
+* SSI brainstorming. Strategic brainblast to see where opportunities to feed into TTW, AutSPACEs etc are. No deadline and I have not thought deeply about it yet so would be open to seeing what could be possible.
+  * KW: Ah - we didn't get to this! Shout if you'd like a dog walk chat one evening before the kickoff!
 
 #### Other Info
 * Retro/recap of the SL-KW-SB meeting (feedback would be helpful in order to improve future collaborative meetings)
-	* **Was sending the email and agenda ahead of time useful? (would a PR be better in the future?)**
-	* **Was the balance of charing and sharing effective for communicating between everyone?**
-	* **Would you have expected summary notes or action items written somewhere to be rechecked over by you?**
-	* **Do you have any general requests or things that would have made the meeting better?** 
-	
-
-
+  * **Was sending the email and agenda ahead of time useful? (would a PR be better in the future?)**
+    * KW: Doing the thinking ahead of time is the MOST important point.
+      I like the PR personally, it demonstrates best practice that I'm keen for TPS team members to showcase.
+    * Personally I don't need the email and agenda ahead of time but I know colleagues for whom that is VERY useful.
+      So I think my steer is to keep up with that good practice!
+  * **Was the balance of chairing and sharing effective for communicating between everyone?**
+    * KW: Yes - I have no memories of the meeting being anything but smooth 🚀
+  * **Would you have expected summary notes or action items written somewhere to be rechecked over by you?**
+    * KW: Yes, ideally in GitHub issues, but I wouldn't need to see them.
+      But see my note above that others would likely really appreciate this opportunity so if you can fit it into your workflow then that's fantastic!
+  * **Do you have any general requests or things that would have made the meeting better?**
+    * KW: Discussed in meeting - I thought the meeting was excellent!
+      The preparation and collaborative working with SL really shows!
 
 ## Date: 7 December 2021
 
