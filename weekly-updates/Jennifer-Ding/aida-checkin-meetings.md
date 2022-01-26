@@ -18,7 +18,7 @@
 * Kirstie goal setting dog walk chat
 #### What did you achieve?
 * RAM team: admin/org - create Note of Notes, Showcase outreach
-* Engagement with Fleet Modeling PI (LB) for showcase, Binderising code, glossy
+* Engagement with Fleet Modeling, EnergyFlex, QUANT-SPENSER, Low-Traffic Neighborhoods
 * Plant the seeds for TW-inspired virtual EQ workshop
 * Lighting Talk Framework Draft - https://hackmd.io/gxE5QbD0TgWAi9Zui8dZVQ?view
 #### What did you struggle with?
