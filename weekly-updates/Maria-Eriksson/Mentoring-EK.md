@@ -32,13 +32,17 @@
 
 ### What brought you joy this week?
 * ME - End is in sight in terms of extracting predictors.  
+  *  EK - Yeah, well done!
 ### What did you achieve
 * ME - Cleaning and exploring neuropsychology data, journal club, ILAE abstract + membership (committee?), hospital+university collaboration for MRI scans. 
+ * Sounds like you are making good progress.  
 ### What did you struggle with?
 * ME - Nothing to report - data extraction is just boring... 
 ### Any other topics
 * ME - Chat about hospital+university collaboration for MRI scans - how does one get credit for this? Blog post/data paper, which could be written in collaboration with the DRIVE team: process of setting up the database (a how-to for other hospitals), how to gain access to the data, how to query the database...
-* ME - Working on Sensitive data chapter for the Turing Way: next session will be on Wednesday 3-5pm (during the Turing Way Collaboration Cafe)
+  * EK - This is AMAZING - make sure that you get the credit you deserve for this - maybe write a review paper or data paper? 🌟
+* ME - Working on Sensitive data chapter for the Turing Way: next session will be on Wednesday 3-5pm (during the Turing Way Collaboration Cafe).
+  * EK - looking forward to working with you on this and getting it done 💪
 
 ## Date: 18 January 2022
 
