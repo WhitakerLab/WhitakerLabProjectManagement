@@ -2,11 +2,53 @@
 
 *Meetings are scheduled every 2 weeks*
 
+* [1st Feb 2022](#date-tue-1st-february-2022) 
 * [26th Jan 2022](#date-wed-26th-january-2022) 
 * [15th Dec 2021](#date-wed-15th-december-2021)
 * [1st Dec 2021](#date-wed-1st-december-2021)
 * [Template](#date-template)
 
+## Date: Tue 1st Feb 2022
+
+#### Who did you help this week?
+
+* I helped SL facilitate the AutSPACEs community meet up by keeping time and taking notes
+  * KW: Thank you for this 🙏
+
+#### Who helped you this week?
+
+* KW helped me with comments for review on the AutSPACEs paper 
+  * KW: Keen to keep this momentum up!
+* MB helped with guidance on staying focused and what I need to do for the next two months of the posting
+  * KW: Glad it was useful.
+
+#### What did you achieve?
+
+* I made progress on the AutSPACEs paper (fixed abstract, background and wrote methods section mainly, started work on Technical Validation) and got to understand the purpose of the paper more as I was writing it 
+* Started bullet pointing the EPR, aligning behaviours and competencies to work I've achieved during the posting so far 
+  * KW: Great stuff - really helpful to do early!!
+
+#### What did you struggle with?
+
+* As I enter writing mode leading up to the finishing of the papers and the EPR report, I need to be rigorous and set up (and stick to) a pomodoro for some focused writing every day.
+  * KW: Really useful conversation in the meeting.
+  * I hope AR & SB are able to recommend some techniques that work for them and could work for you too 🌻
+
+#### What would you like to work on next week?
+
+* Continue the AutSPACEs paper - make a figure for the cycle of data collection on PP 
+* Understand, track and begin evaluating the comments from the review of the DECOVID paper
+* Continue writing the EPR report and have a draft ready for some initial comments 
+* Attend the Management Development Programme: Your Impact on Others workshop and take away some useful guidance on the topic 
+  * KW: Fab! I hope this is fun! (Please share with me anything you think really helps!)
+* Start the weekly Secondment Behaviour Sessions 
+
+KW: Plan looks great! 💪
+
+#### Where do you need help from Kirstie?
+
+* Continue giving feedback on AutSPACEs paper and suggest ways of focusing and getting stuff done! 
+  * KW: Thank you for taking on my feedback - technical writing is tough! 
 
 ## Date: Wed 26th January 2022
 
