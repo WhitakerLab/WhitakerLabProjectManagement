@@ -2,12 +2,43 @@
 
 *Meetings are scheduled every 2 weeks*
 
+* [1st Feb 2022](#date-tue-1st-february-2022) 
 * [26th Jan 2022](#date-wed-26th-january-2022) 
 * [15th Dec 2021](#date-wed-15th-december-2021)
 * [1st Dec 2021](#date-wed-1st-december-2021)
 * [Template](#date-template)
 
+## Date: Tue 1st Feb 2022
 
+#### Who did you help this week?
+
+* I helped SL facilitate the AutSPACEs community meet up by keeping time and taking notes
+
+#### Who helped you this week?
+
+* KW helped me with comments for review on the AutSPACEs paper 
+* MB helped with guidance on staying focused and what I need to do for the next two months of the posting
+
+#### What did you achieve?
+
+* I made progress on the AutSPACEs paper and got to understand the purpose of the paper more as I was writing it 
+* Started bullet pointing the EPR, aligning behaviours and competencies to work I've achieved during the posting so far 
+
+#### What did you struggle with?
+
+* As I enter writing mode leading up to the finishing of the papers and the EPR report, I need to be rigorous and set up (and stick to) a pomodoro for some focused writing every day.
+
+#### What would you like to work on next week?
+
+* Continue the AutSPACEs paper - make a figure for the cycle of data collection on PP 
+* Continue writing the EPR report and have a draft ready for some initial comments 
+* Attend the Management Development Programme: Your Impact on Others workshop and take away some useful guidance on the topic 
+* Start the weekly Secondment Behaviour Sessions 
+
+#### Where do you need help from Kirstie?
+
+* Continue giving feedback on AutSPACEs paper and suggest ways of focusing and getting stuff done! 
+* 
 ## Date: Wed 26th January 2022
 
 #### Who did you help this week?
