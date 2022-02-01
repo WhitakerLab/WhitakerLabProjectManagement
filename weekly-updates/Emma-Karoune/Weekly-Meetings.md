@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [02 February 2022](#date-02-february-2022)
 * [19 January 2022](#date-19-january-2022)
 * [5 January 2022](#date-5-january-2022)
 * [8 December 2021](#date-8-december-2021)
@@ -16,6 +17,45 @@
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 02 February 2022
+
+#### Who did you help this week?
+
+* VH & AR - we had some discussions about Github repository set ups and project management docs.
+
+#### Who helped you this week?
+
+* HM & DS - great teamwork! :star2: 
+
+#### What did you achieve?
+
+* DC - coordinating data extracts, data paper feedback.
+* TRSS - oh so many planning documents! 
+  * Finished first draft of baseline impact assessment, now redrafting to be more narrative. 
+  * Started stakeholder mapping - did a big spreadsheet but have been having fun making this into a fancy pretty picture! [See here](https://app.mural.co/invitation/mural/thelab3596/1643648254195?sender=ub9d4f38e45699383003a3927&key=9858a19a-bc39-4dcc-8cdc-089295274683). 
+  * Met with organisers of UKHA events and now arranging talks by lab projects at UKHSA events.
+* First meeting of academic authorship paper at collab cafe - went ok but found a very similar paper that I need to read. 
+* MS and I met with uni of camb about FAIR training.
+
+#### What did you struggle with?
+
+* Aspirational stakeholders? who are they? and what do I do if TD and UK--- have differing opinions on this? 
+
+#### What would you like to work on next week?
+
+* stakeholder mapping - finish adding exisiting stakeholders and moving on to thinking more about engagement - who, in what and how? Also those aspirational stakeholders.
+* engaging more with lab members and ukhsa SROs and data scientist - more coffee chats. 
+
+#### Where do you need help from Kirstie?
+
+* please take another look at my preformance management objectives: https://docs.google.com/document/d/1sIHOG05HC27-b8A76Zy4YUoXu_kXqe-K-iJBjySYjoo/edit?usp=sharing
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
+
 
 ### Date: 19 January 2022
 
