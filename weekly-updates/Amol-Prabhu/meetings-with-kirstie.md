@@ -21,7 +21,7 @@
 
 #### What did you achieve?
 
-* I made progress on the AutSPACEs paper and got to understand the purpose of the paper more as I was writing it 
+* I made progress on the AutSPACEs paper (fixed abstract, background and wrote methods section mainly, started work on Technical Validation) and got to understand the purpose of the paper more as I was writing it 
 * Started bullet pointing the EPR, aligning behaviours and competencies to work I've achieved during the posting so far 
 
 #### What did you struggle with?
@@ -31,6 +31,7 @@
 #### What would you like to work on next week?
 
 * Continue the AutSPACEs paper - make a figure for the cycle of data collection on PP 
+* Understand, track and begin evaluating the comments from the review of the DECOVID paper
 * Continue writing the EPR report and have a draft ready for some initial comments 
 * Attend the Management Development Programme: Your Impact on Others workshop and take away some useful guidance on the topic 
 * Start the weekly Secondment Behaviour Sessions 
