@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 1 February 2022](#date-1-february-2022)
 * [Date: 18 January 2022](#date-18-january-2022)
 * [Date: 13 January 2022](#date-13-january-2022)
 * [Date: 2 December 2021](#date-2-december-2021)
@@ -8,6 +9,25 @@
 
 ---
 ### Template
+
+### Date: 01 February 2022
+#### Who did you help over the past fortnight?
+* 
+#### Who helped you over the past fortnight?
+* 1:1 with Sophia
+* Dani chat re: UA projects & AI UK
+#### What did you achieve?
+* Glossy Templates on Figma
+* RAM KPIs to prepare for MEIL collab
+#### What did you struggle with?
+*
+#### What would you like to work on next week?
+* Finalising RAM KPIs 
+* Confirming DCE/UA PI participation in AI UK
+#### Where do you need help?
+* 6 Month Objectives: https://hackmd.io/M4s9wArQR4aGF4utjbQPbQ
+#### Any other topics
+* Framing of RAM parallel roles
 
 ### Date: 18 January 2022  
 (and also 26-Jan)
