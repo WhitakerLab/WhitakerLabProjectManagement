@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [18 November 2021](#date-18-november-2021)
 * [28 October 2021](#date-28-october-2021)
 * [13 October 2021](#date-13-october-2021)
 * [23 September 2021](#date-23-september-2021)
@@ -27,6 +28,38 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 18 November 2021
+
+#### Who did you help this week?
+
+* PhD student & clinicians
+
+#### Who helped you this week?
+
+* PhD student & clinicians
+
+#### What did you achieve?
+
+* Sensitive Data Projects during the Turing Way Book Dash
+* NHS R conference and workshops
+* More edits on paper but should now be ready to submit
+* Updated predictive model following data re-classification; slight improvement in AUC
+
+#### What did you struggle with?
+
+* Placeholder
+
+#### What would you like to work on next week?
+
+* Send off manuscript
+* Go back to working on prediction paper
+* Prep presentation for departmental meeting
+
+#### Where do you need help from Kirstie?
+
+* Check manuscript when it is sent round for final check
+* Check letter to editor
 
 ### Date: 28 October 2021
 

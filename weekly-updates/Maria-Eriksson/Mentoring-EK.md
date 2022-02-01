@@ -1,5 +1,7 @@
 # Mentoring Sessions with Emma
 
+* [18 January 2022](#date-18-january-2022)
+* [23 November 2021](#date-23-november-2021)
 * [1 November 2021](#date-1-november-2021)
 * [12 October 2021](#date-12-october-2021)
 * [1 October 2021](#date-1-october-2021)
@@ -24,6 +26,32 @@
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
+
+## Date: 18 January 2022
+
+### What brought you joy this week?
+* ME - I'm back from Finland! Gosh I was there for ages - 5 weeks...! Was really lovely, but I - of course - did not get as much work done as I would have hoped to...
+  * EK - glad you had a good break and are now more refreshed for that last PHD push this year.  
+### What did you achieve
+* ME - Had a conference (the Young Epilepsy research retreat) the first week back - presenting and chairing. Got some good feedback, and things are rolling along. I am currently working on the predictive model and trying to figure out how to make it explainable and interpretable - especially if it's going to be used in a clinical context. And playing around with alluvial plots in R, which is fun!
+  * Great work chairing a session 🎉
+### What did you struggle with?
+* ME - Not exactly struggling, but am thinking a lot about what to do after the PhD. Still just trying to keep an open mind and explore all options. 
+  * EK - good idea to explore all your options and apply for a few different things to keep your options open. 
+### Any other topics
+* ME - Shall we at some point try to finish the Sensitive data chapter for the Turing Way?
+  * EK - yes let's talk about this at our next meeting and make some plans to finish it.  
+
+## Date: 23 November 2021
+
+### What brought you joy this week?
+* ME - Prediction analyses have been fun (mainly because no data extraction needed) :tada:
+### What did you achieve
+* ME - Have finished final draft of manuscript - just awaiting comments from geneticists :pray:
+### What did you struggle with?
+* ME - Health stuffs and feeling tired - sooooon Christmas break ✨
+### Any other topics
+* ME - Plans for the next year: abstracts, presentations, thesis writing with [Data Edit R](https://github.com/DillonHammill/DataEditR)
 
 ## Date: 1 November 2021
 
