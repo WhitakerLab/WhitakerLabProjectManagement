@@ -8,6 +8,25 @@
 * [16 November 2021](#date-16-November-2021)
 * [Template](#date-template)
 
+### Date: 02 February 2022
+#### What did you achieve?
+* Implemented the following web pages
+    * About Autism
+    * View Shared Stories
+    * About Us
+* Created [an issue to collect feedback #213](https://github.com/alan-turing-institute/AutSPACEs/issues/213)
+* Did my internship presentation at the meet-up 
+* Continued on refactoring the frontend codes
+#### What did you struggle with?
+* I struggled with the user access and receive answers on Slack! :smile: 
+#### What would you like to work on next week?
+* Working on View Shared Stories Page & Submit Stories page 
+#### Where do you need help from Kirstie?
+* Feedback on my internship poster 
+![autspaces_defence-new](https://user-images.githubusercontent.com/67457005/152135216-43e38f34-f9e7-4c0a-b0d8-0814b1e4dbee.jpg)
+* Feedback on the implemented pages 
+---
+
 ### Date: 12 January 2022
 #### What did you achieve?
 * GitHub Branch I am working with: [build-tmp](https://github.com/alan-turing-institute/AutSPACEs/tree/build-tmp)
