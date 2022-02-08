@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 9 February 2022](#date-9-february-2022)
 * [Date: 1 February 2022](#date-1-february-2022)
 * [Date: 18 January 2022](#date-18-january-2022)
 * [Date: 13 January 2022](#date-13-january-2022)
@@ -8,9 +9,36 @@
 * [Date: 18 November 2021](#date-18-november-2021)
 
 ---
+
 ### Template
 
-### Date: 01 February 2022
+### Date: 9 February 2022
+#### Who did you help over the past fortnight?
+* PIs find AI UK opportunities to showcase their work
+* DyME interview Panel
+#### Who helped you over the past fortnight?
+* AI UK name brainstorming - Turing Research In Action!
+* Malvika organised call to chat about/provide help with RAM integration of TTW in our work
+* Dani and Will have helped me make UA inroads tremendously
+* RAM team feedback on [AI UK lightning talks](https://docs.google.com/presentation/d/1Qi3qIeuJwY_g4l0AxIUbKI4zS9aY9sElAIpL37HS_QA/edit#slide=id.p) + EQ workshop facilitation scoping
+#### What did you achieve?
+* Lightning Talk Format + AI UK Deck
+* Signing up 5 workshops (notably QUANT-SPENSER/DyME) + 8 lightning talks (some pending... but likely)
+* RAM KPIs text and google sheet
+#### What did you struggle with?
+* Trying to wrap UA work into a neat package - every project is complex and distributed which apparently is part of the vision (this is a feature)
+#### What would you like to work on next week?
+* Feedback on KPIs from Hannah & Mafalda
+* Contribute to ASG projects scoping list
+#### Where do you need help?
+* Should I officially submit my 6 month goals?
+#### Any other topics
+* 
+---
+
+### Template
+
+### Date: 1 February 2022
 #### Who did you help over the past fortnight?
 * 
 #### Who helped you over the past fortnight?
