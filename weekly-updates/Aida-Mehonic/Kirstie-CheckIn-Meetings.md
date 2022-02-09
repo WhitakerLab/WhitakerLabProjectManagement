@@ -1,5 +1,6 @@
 # Check in meetings with Kirstie
 
+* [Date: 9 February 2022](#date-9-february-2022)
 * [Date: 10 January 2022](#date-10-january-2022)
 * [Date: 17 November 2021](#date-17-november-2021)
 * [Date: 21 October 2021](#date-21-october-2021)
@@ -12,6 +13,15 @@
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+
+
+### Date: 9 February 2022
+
+#### Where do you need help from Kirstie?
+* Planning for 2022: taking stock of scoping across ASG; picking "winners"; taking stock of resource allocation; trying to project likely impact to end of ASG for the RAM team; let's discuss!
+* RADDISH stakeholder workshop and beyond; 
+* Email to JA about a RAM for DCE;
 
 
 ### Date: 10 January 2022
