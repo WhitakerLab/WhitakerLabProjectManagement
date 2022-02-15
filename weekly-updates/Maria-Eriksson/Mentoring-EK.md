@@ -1,5 +1,6 @@
 # Mentoring Sessions with Emma
 
+* [15 February 2022](#date-15-february-2022)
 * [1 February 2022](#date-1-february-2022)
 * [18 January 2022](#date-18-january-2022)
 * [23 November 2021](#date-23-november-2021)
@@ -27,6 +28,17 @@
 **Where?** Microsoft Teams
 
 **For how long?** 1 hour
+
+## Date: 15 February 2022
+
+### What brought you joy this week?
+* ME - Wrapping up bits like the predictors, neuropsychology data, genetics... Lots of meetings with clinicians. And career chats.
+### What did you achieve
+* ME -  Managing different aspects of the project to keep things ticking over.
+### What did you struggle with?
+* ME - Nothing to report... 
+### Any other topics
+* ME - Collaboration café tomorrow to get those missing bits in the chapter!
 
 ## Date: 1 February 2022
 
