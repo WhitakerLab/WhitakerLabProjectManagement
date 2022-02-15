@@ -37,6 +37,7 @@
 * Take notes on the AutSPACEs community meetup 
 * Help EK collecting review comments and possibly listing the contributors
 * Check back on the DECOVID repo to see if I can make any updates 
+* Present on the Fast Stream at the Turing Catchup 
 * If I have time then start writing a piece for the Turing Way about ethical considerations when using qualitative data, tie this in with the paper 
 
 #### Where do you need help from Kirstie?
