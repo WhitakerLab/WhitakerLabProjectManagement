@@ -24,6 +24,7 @@
 * Finished reverse outlining exercise for AutSPACEs paper which really helped me focus on the main objective on the paper 
 * Discussed next steps for DECOVID paper to be circulated more widely 
 * Wrote a first draft of my objectives review for my EPR 
+* Attended a few workshops (your impact on others and public engagement) which had useful tips and guidance on those topics! 
 
 #### What did you struggle with?
 
@@ -36,6 +37,7 @@
 * Take notes on the AutSPACEs community meetup 
 * Help EK collecting review comments and possibly listing the contributors
 * Check back on the DECOVID repo to see if I can make any updates 
+* If I have time then start writing a piece for the Turing Way about ethical considerations when using qualitative data, tie this in with the paper 
 
 #### Where do you need help from Kirstie?
 
