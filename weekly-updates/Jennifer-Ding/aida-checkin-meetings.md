@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 17 February 2022](#date-17-february-2022)
 * [Date: 9 February 2022](#date-9-february-2022)
 * [Date: 1 February 2022](#date-1-february-2022)
 * [Date: 18 January 2022](#date-18-january-2022)
@@ -10,7 +11,24 @@
 
 ---
 
-### Template
+### Date: 17 February 2022
+#### Who did you help over the past fortnight?
+* Promote EQ for ASG newsletter & connect them with Nico
+#### Who helped you over the past fortnight?
+* RAM team with KPIs
+#### What did you achieve?
+* Paticipation in DyME Interview Panel
+* Pushing forward DyME convos with UA
+#### What did you struggle with?
+* Have I "said yes" to too much? DyME, RRI, AI Infra, + general UA/DCE
+#### What would you like to work on next week?
+* 
+#### Where do you need help?
+* RAM KPIs deadline?
+#### Any other topics
+*
+
+---
 
 ### Date: 9 February 2022
 #### Who did you help over the past fortnight?
@@ -35,8 +53,6 @@
 #### Any other topics
 * 
 ---
-
-### Template
 
 ### Date: 1 February 2022
 #### Who did you help over the past fortnight?
