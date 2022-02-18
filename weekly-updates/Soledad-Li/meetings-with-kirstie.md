@@ -2,11 +2,90 @@
 
 *Meetings are scheduled every 2 weeks*
 
-* [8 December 2021](#date-8-December-2021)
-* [24 November 2021](#date-24-November-2021)
-* [16 November 2021](#date-16-November-2021)
+* [2 February 2022](#date-02-february-2022)
+* [12 January 2022](#date-12-january-2022)
+* [8 December 2021](#date-8-december-2021)
+* [24 November 2021](#date-24-november-2021)
+* [16 November 2021](#date-16-november-2021)
 * [Template](#date-template)
 
+### Date: 02 February 2022
+
+#### Who you helped this week?
+
+* Hosted the meet up because GA was unwell and KW wasn't able to attend.
+* Answered questions as contributor in focus for the January newsletter.
+
+KW: There are always ways that you help, even if sometimes it feels unbalanced 💝
+
+#### Who helped you this week?
+
+* AP took notes during the meet up which was really helpful 🙏
+
+#### What did you achieve?
+
+* Implemented the following web pages
+    * About Autism
+    * View Shared Stories
+    * About Us
+* Created [an issue to collect feedback #213](https://github.com/alan-turing-institute/AutSPACEs/issues/213)
+* Did my internship presentation at the meet-up 
+* Continued on refactoring the frontend codes
+
+#### What did you struggle with?
+
+* I struggled with the user access and receive answers on Slack! :smile: 
+  * KW: Good I'm so glad.
+  * Have we captured these answers somewhere for the next person who needs them?
+    * Recommend at least adding an explanation of _why_ we don't have a superuser etc to the Developers Notes.
+    * Don't put the username and password in the GitHub repository... but do say _who_ can be contacted to get them if needed.  
+
+#### What would you like to work on next week?
+
+* Working on View Shared Stories Page & Submit Stories page 
+  * KW: Sounds great!
+* Present poster to CRI (now [Learning Planet Institute](https://learningplanetinstitute.org/en)!) audience
+
+#### Where do you need help from Kirstie?
+
+* Feedback on the implemented pages 
+  * KW: Looking fantastic!
+* Feedback on my internship poster 
+  * KW: Feedback given in the meeting - looking good - just make the font a bit bigger (get rid of some of the whitespace) and replace keywords with "Goal"
+  * Enjoy the presentation on Friday!! Good luck! 🧧
+![autspaces_defence-new](https://user-images.githubusercontent.com/67457005/152135216-43e38f34-f9e7-4c0a-b0d8-0814b1e4dbee.jpg)
+
+---
+
+### Date: 12 January 2022
+#### What did you achieve?
+* GitHub Branch I am working with: [build-tmp](https://github.com/alan-turing-institute/AutSPACEs/tree/build-tmp)
+    * Fixed broken links & webpages & built a complete experience tour 
+    * Tidied up the design & coded the homepage
+    * Separating css files out from the codes
+    * Setting up templates for navigation, footer
+  
+#### What did you struggle with?
+* I struggled with coding from time to time but I managed them through tutorials online. :smiley: 
+
+#### What would you like to work on next week?
+#### Coding Plan until February
+* Improving templates and front-end structures
+* Coding static webpages 
+    * What Autism Is
+    * About Us
+* Coding pages with features
+    * Registration
+        * Registration Workflow
+    * Moderator page  
+* Adding database models to the front-end
+    * Users
+    * Moderators
+  
+#### Where do you need help from Kirstie?
+* Feedback on the current platform 
+* People I could go for code reviewing 
+---
 ### Date: 8 December 2021
 
 #### Who you helped this week?
