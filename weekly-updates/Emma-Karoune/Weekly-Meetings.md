@@ -24,19 +24,25 @@
 #### Who did you help this week?
 
 * VH & AR - we had some discussions about Github repository set ups and project management docs.
+  * KW: AAAAH - so helpful 🙏
 
 #### Who helped you this week?
 
 * HM & DS - great teamwork! :star2: 
+  * KW: Dreeeeeem team! 🚀
 
 #### What did you achieve?
 
 * DC - coordinating data extracts, data paper feedback.
+  * KW: WELL DONE ON CIRCULATING THE PAPER! Mega milestone! 🚀
 * TRSS - less planning and more actual work. 
   * Finished first draft of stakeholder mapping - [See here](https://app.mural.co/invitation/mural/thelab3596/1643648254195?sender=ub9d4f38e45699383003a3927&key=9858a19a-bc39-4dcc-8cdc-089295274683).
-  * Writing lay summaries for labp projects. 
-  * Organising knowledge shares - first one was this week. 
-* Working with ME and EP on sensitive data overiew chapter - hoping to get finished in next few weeks.  
+  * Writing lay summaries for lab projects. 
+    * KW: Really appreciate your update and work on this - good luck on seeing if you can get reviews going in GitHub PRs 🤞 
+  * Organising knowledge shares - first one was this week.
+    * KW: Aaaah - how lovely! 
+* Working with ME and EP on sensitive data overview chapter - hoping to get finished in next few weeks.
+  * KW: Very exciting!!
 
 #### What did you struggle with?
 
@@ -49,12 +55,7 @@
 
 #### Where do you need help from Kirstie?
 
-* please take another look at my preformance management objectives: https://docs.google.com/document/d/1sIHOG05HC27-b8A76Zy4YUoXu_kXqe-K-iJBjySYjoo/edit?usp=sharing
-
-#### Any other topics
-
-This space is yours to add to as needed.
-
+* please take another look at my performance management objectives: https://docs.google.com/document/d/1sIHOG05HC27-b8A76Zy4YUoXu_kXqe-K-iJBjySYjoo/edit?usp=sharing
 
 ### Date: 02 February 2022
 
