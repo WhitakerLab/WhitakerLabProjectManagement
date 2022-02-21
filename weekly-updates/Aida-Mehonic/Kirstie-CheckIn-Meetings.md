@@ -1,5 +1,6 @@
 # Check in meetings with Kirstie
 
+* [Date: 21 February 2022](#date-21-february-2022)
 * [Date: 9 February 2022](#date-9-february-2022)
 * [Date: 10 January 2022](#date-10-january-2022)
 * [Date: 17 November 2021](#date-17-november-2021)
@@ -13,6 +14,27 @@
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+
+### Date: 21 February 2022
+#### Who did you help over the past fortnight? 
+* the RAM team with the showcase planning
+* the RADDISH team with the stakeholder workshop
+
+#### Who helped you over the past fortnight?
+
+#### What did you achieve?
+* RADDISH workshop
+* AIUK TRIA coming together 
+* Took part in 3 different hiring panels 
+* Progressed the RAM paper
+
+
+#### What did you struggle with?
+
+#### What would you like to work on next fortnight?
+
+#### Where do you need help from Kirstie?
 
 
 
