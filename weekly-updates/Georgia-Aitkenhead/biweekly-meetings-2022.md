@@ -33,7 +33,7 @@ Georgia's biweekly meeting notes.
 #### Where do you need help from Kirstie?
 
 * Lots of team changes - planning for that
-* Lab mentoring
+* Funding for participants
 * AutSPACEs paper structure
 
 #### What would you like to work on next week?
