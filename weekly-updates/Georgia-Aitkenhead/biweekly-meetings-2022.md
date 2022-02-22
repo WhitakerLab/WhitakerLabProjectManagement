@@ -2,8 +2,46 @@
 
 Georgia's biweekly meeting notes.
 
+* [23 February 2022](#date-23-february-2022)
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
+
+### Date: 23 February 2022
+
+#### Who did you help this week?
+
+* Helped SL with some PRs
+* Helped JW with some Turing lecturer ideas
+
+### Who helped you this week?
+
+* RT helped by deploying [AutSPACEs](https://robintaylor.dev/autspacestest/registration)
+* SL and SB did repo work
+
+#### What did you achieve?
+
+* Community manager interviews :star2: exciting! 
+* Some work on AutSPACEs paper[#616](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/616)
+* Finished all my online training on TopDesk 😅
+* MozFest planning [#613](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/613)
+
+#### What did you struggle with?
+
+* GitHub organisation
+* Combining focussed work and upcoming deadlines 
+
+#### Where do you need help from Kirstie?
+
+* Lots of team changes - planning for that
+* Lab mentoring
+* AutSPACEs paper structure
+
+#### What would you like to work on next week?
+
+* MozFest
+* OLS-5 mentoring upcoming
+* Autistica festival submission
+* Whiteboarding session with SB? 
 
 ### Date: 09 February 2022
 
