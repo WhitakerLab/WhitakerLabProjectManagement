@@ -31,9 +31,9 @@
 * RAM KPIs second draft + organise into format for Hannah
 * AI UK Lightning Talk recordings
 #### Where do you need help?
-* How to get in touch with programme directors / PIs
-#### Any other topics
 * 
+#### Any other topics
+* Will the DSG white papers be published?
 ---
 
 ### Date: 17 February 2022
