@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 24 February 2022](#date-24-february-2022)
 * [Date: 17 February 2022](#date-17-february-2022)
 * [Date: 9 February 2022](#date-9-february-2022)
 * [Date: 1 February 2022](#date-1-february-2022)
@@ -9,6 +10,30 @@
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
 
+
+---
+
+### Date: 24 February 2022
+#### Who did you help over the past fortnight?
+* Pushing DyME work forward - panel organisation & potential collabs with EnergyFlex
+#### Who helped you over the past fortnight?
+* Kirstie & Arielle in demystifying the UK AI Research Infra team & project context
+* Sophia in providing clarity on a UA project/PI
+* Scott Hosking for moving the EQ/BAS workshop forward so smoothly
+#### What did you achieve?
+* Contributed survey & big picture feedback to the UK AI Research Infra team, as part of the advisor group
+* Scheduled all my AI UK Lightning Talk recording sessions
+* Wrote RAM KPIs section for position paper
+* Invited attendees to BAS workshop 
+#### What did you struggle with?
+* How to get in touch with programme directors / PIs
+#### What would you like to work on next week?
+* RAM KPIs second draft + organise into format for Hannah
+* AI UK Lightning Talk recordings
+#### Where do you need help?
+* How to get in touch with programme directors / PIs
+#### Any other topics
+* 
 ---
 
 ### Date: 17 February 2022
