@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [02 March 2022](#date-02-march-2022)
 * [16 February 2022](#date-16-february-2022)
 * [02 February 2022](#date-02-february-2022)
 * [19 January 2022](#date-19-january-2022)
@@ -18,6 +19,42 @@
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 02 March 2022
+
+#### Who did you help this week?
+
+* DS - been helping with planning the lecture series - finding diverse speakers. 
+
+#### Who helped you this week?
+
+* MS - co-working on training workshop prep.  
+
+#### What did you achieve?
+
+* DC - coordinating data extracts, data paper authorship tracking, meeting with SG and NB about github repo for the paper.
+* TRSS - Stakeholder mapping - have some comments but still waiting for more, now working on engagement plan.
+  * Lay summaries first drafts shared - went for slack discussion and also coffee chats to get comments. 
+  * Organising more knowledge shares and show and tell presentations of projects to UKHSA. 
+* Working with MS on planning for uni of Cambridge Reproducible, Open and FAIR research training - it's happening 4th and 11th March mornings. 
+* Sensitive data work - been making presentations and scripts to make into videos for RDM kit - UK-Elixir work but will be very similar content in the Turing Way chapter. 
+* 
+#### What did you struggle with?
+
+* Still lack of comments and feedback from UKHSA colleagues - have spoken to HM about this and reinforcing the need for comments so I can make progress.
+
+#### What would you like to work on next week?
+
+* finalise first draft of engagement plan.
+* finalise lay summaries.
+* doing more work on sorting out the TRSS central Github repository.
+* working with PD on a lay piece about 'How many covid cases are there?' - comparing the results of different surveys. 
+* finishing first lot of sensitive data presentations/videos.
+
+#### Where do you need help from Kirstie?
+
+* For Elixir videos - also had confirmation that affliation logos will be on videos so is it best to put alan turing or turing way or both if room?
+
 
 ### Date: 16 February 2022
 
