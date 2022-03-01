@@ -2,11 +2,58 @@
 
 *Meetings are scheduled every 2 weeks*
 
+* [15th Feb 2022](#date-tue-15th-february-2022) 
 * [26th Jan 2022](#date-wed-26th-january-2022) 
 * [15th Dec 2021](#date-wed-15th-december-2021)
 * [1st Dec 2021](#date-wed-1st-december-2021)
 * [Template](#date-template)
 
+## Date: Tue 15th February 2022
+
+#### Who did you help this week?
+
+* I pushed out the DECOVID newsletter for review after a final edit, helping EK
+  * KW: Waiting on me 🤦‍♀️ So sorry
+* I reviewed an AutSPACEs PR for GA and also reviewed some of the outstanding issues on the AutSPACEs repo
+  * KW: Great stuff
+
+#### Who helped you this week?
+
+* AR really helped me with a support chat speaking about his own experiences and gave me tips on how to focus better in writing
+  * KW: FAB - so glad you connected!
+
+#### What did you achieve?
+
+* Finished reverse outlining exercise for AutSPACEs paper which really helped me focus on the main objective on the paper 
+  * KW: GREAT
+* Discussed next steps for DECOVID paper to be circulated more widely 
+* Wrote a first draft of my objectives review for my EPR 
+  * KW: Well done - super helpful to start early
+* Attended a few workshops (your impact on others and public engagement) which had useful tips and guidance on those topics! 
+  * KW: I so appreciated you sharing some of the learnings with the lab 🙏
+
+#### What did you struggle with?
+
+* Felt really motivated actually and have hit a good vein of focused working, though as sod's law dictates I now feel a cold coming on
+  * KW: Boo on the cold - but great on the motivation - and so glad that you found the "reverse outline" technique helpful!
+
+#### What would you like to work on next week?
+
+* Continue working on my EPR to get it ready well ahead of time
+* Finish a second draft of the AutSPACEs paper 
+* Take notes on the AutSPACEs community meetup 
+* Help EK collecting review comments and possibly listing the contributors
+* Check back on the DECOVID repo to see if I can make any updates 
+* Present on the Fast Stream at the Turing Catchup 
+  * KW: Oh that's great - thank you for presenting there!
+* If I have time then start writing a piece for the Turing Way about ethical considerations when using qualitative data, tie this in with the paper 
+
+#### Where do you need help from Kirstie?
+
+* Continue reviewing the AutSPACEs paper
+  * KW: Thank you for the co-working. I'll try to protect some time next week to review the next iteration!
+* Where can I help on DECOVID paper going forward? 
+  * KW: I think there's not much you can do for DECOVID at the moment beyond incorporating the feedback comments 😸
 
 ## Date: Wed 26th January 2022
 
