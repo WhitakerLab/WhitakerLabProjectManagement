@@ -53,7 +53,7 @@
 
 #### Where do you need help from Kirstie?
 
-* For Elixir videos - also had confirmation that affliation logos will be on videos so is it best to put alan turing or turing way or both if room?
+* For Elixir videos - had confirmation that affiliation logos will be on videos so is it best to put alan turing or turing way or both if room?
 
 
 ### Date: 16 February 2022
