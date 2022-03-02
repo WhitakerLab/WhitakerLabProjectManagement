@@ -10,7 +10,25 @@
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
 
+---
 
+### Date: 03 March 2022
+#### Who did you help over the past fortnight?
+* DyME team with project naming, code testing, and panel organisation
+#### Who helped you over the past fortnight?
+* Nico & Scott - with equadratures workshops
+#### What did you achieve?
+* 
+#### What did you struggle with?
+* Getting in contact with people & stagnant decision making processes
+#### What would you like to work on next week?
+* KCIs to Paper?
+* AI UK Lighting Talk recording & Hopin prep for workshops
+* UK AI Infra Group
+#### Where do you need help?
+* Inviting 2 undergrads from Rice U join the Collab Cafe on March 16?
+#### Any other topics
+* Key Collaboration Indicators (https://alan-turing-institute.slack.com/archives/C02KXCLJYP2/p1646229612310159)
 ---
 
 ### Date: 24 February 2022
