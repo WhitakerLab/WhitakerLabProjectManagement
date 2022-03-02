@@ -12,7 +12,7 @@
 
 ---
 
-### Date: 03 March 2022
+### Date: 3 March 2022
 #### Who did you help over the past fortnight?
 * DyME team with project naming, code testing, and panel organisation
 #### Who helped you over the past fortnight?
