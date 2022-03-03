@@ -1,5 +1,8 @@
 # Check in meetings with Aida
 
+* [Date: 3 March 2022](#date-3-march-2022)
+* [Date: 24 February 2022](#date-24-february-2022)
+* [Date: 17 February 2022](#date-17-february-2022)
 * [Date: 9 February 2022](#date-9-february-2022)
 * [Date: 1 February 2022](#date-1-february-2022)
 * [Date: 18 January 2022](#date-18-january-2022)
@@ -10,7 +13,70 @@
 
 ---
 
-### Template
+### Date: 3 March 2022
+#### Who did you help over the past fortnight?
+* DyME team with project naming, code testing, and panel organisation
+  * [AM] ASPICS 🤦 Super interesting to hear about the computational environment issue with MacOS or Conda; solution is better documentation; I'm soooo happy that you're doing code testing! 
+#### Who helped you over the past fortnight?
+* Nico & Scott - with equadratures workshops
+  * [AM] What a joy to hear that this has been effective! ✨  
+#### What did you achieve?
+* Key collaboration indicators vs KPIs? How do you abstract collaboration as a goal? E.g. you should be able to onboard to any Turing output within 30 minutes. I really like this as an overall Turing-wide goal, and almost as a TPS mission?! 
+#### What did you struggle with?
+* Getting in contact with people & stagnant decision making processes
+#### What would you like to work on next week?
+* KCIs to Paper?
+  * [AM] So exciting! 
+* AI UK Lighting Talk recording & Hopin prep for workshops
+* UK AI Infra Group
+#### Where do you need help?
+* Inviting 2 undergrads from Rice U join the Collab Cafe on March 16?
+  * [AM] Well done on mentoring!! It's such a valuable skill to mentor well and great service.   
+#### Any other topics
+* Key Collaboration Indicators (https://alan-turing-institute.slack.com/archives/C02KXCLJYP2/p1646229612310159)
+---
+
+### Date: 24 February 2022
+#### Who did you help over the past fortnight?
+* Pushing DyME work forward - panel organisation & potential collabs with EnergyFlex
+#### Who helped you over the past fortnight?
+* Kirstie & Arielle in demystifying the UK AI Research Infra team & project context
+* Sophia in providing clarity on a UA project/PI
+* Scott Hosking for moving the EQ/BAS workshop forward so smoothly
+#### What did you achieve?
+* Contributed survey & big picture feedback to the UK AI Research Infra team, as part of the advisor group
+* Scheduled all my AI UK Lightning Talk recording sessions
+* Wrote RAM KPIs section for position paper
+* Invited attendees to BAS workshop 
+#### What did you struggle with?
+* How to get in touch with programme directors / PIs
+#### What would you like to work on next week?
+* RAM KPIs second draft + organise into format for Hannah
+* AI UK Lightning Talk recordings
+#### Where do you need help?
+* 
+#### Any other topics
+* Will the DSG white papers be published?
+---
+
+### Date: 17 February 2022
+#### Who did you help over the past fortnight?
+* Promote EQ for ASG newsletter & connect them with Nico
+#### Who helped you over the past fortnight?
+* RAM team with KPIs
+#### What did you achieve?
+* Paticipation in DyME Interview Panel
+* Pushing forward DyME convos with UA
+#### What did you struggle with?
+* Have I "said yes" to too much? DyME, RRI, AI Infra, + general UA/DCE
+#### What would you like to work on next week?
+* 
+#### Where do you need help?
+* RAM KPIs deadline?
+#### Any other topics
+*
+
+---
 
 ### Date: 9 February 2022
 #### Who did you help over the past fortnight?
@@ -35,8 +101,6 @@
 #### Any other topics
 * 
 ---
-
-### Template
 
 ### Date: 1 February 2022
 #### Who did you help over the past fortnight?
