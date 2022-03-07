@@ -1,5 +1,6 @@
 # Check in meetings with Kirstie
 
+* [Date: 7 March 2022](#date-7-march-2022)
 * [Date: 21 February 2022](#date-21-february-2022)
 * [Date: 9 February 2022](#date-9-february-2022)
 * [Date: 10 January 2022](#date-10-january-2022)
@@ -14,6 +15,32 @@
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+
+
+### Date: 7 March 2022
+
+#### Who did you help over the past fortnight? 
+* AR with the ASG event 
+
+#### Who helped you over the past fortnight?
+*  KW with scivision conversations
+*  JD and AC - we are all helping each other as we work towards finalising planning for the AIUK showcase
+
+#### What did you achieve?
+* The programme, invites, LTs and workshops almost all finalised for AIUK
+* Spoke at the ASG event: one short presentation and chaired a panel
+* Interview panel for the DSH RAM - offer sent!
+* Took some time off work :)
+
+#### Where do you need help from Kirstie?
+* Let's talk about RAM plans for scivision, RADDISH, Raphtory and TTW
+* Should we remind KH regarding a possible additional RAM?
+* Giving a talk to a Strategic Partner org in early April on RAMs
+
+#### What would you like to work on next fortnight?
+* AIUK last bits of planning 
+* RADDISH conversation about plans for EoY outputs
 
 
 ### Date: 21 February 2022
