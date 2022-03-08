@@ -2,9 +2,45 @@
 
 Georgia's biweekly meeting notes.
 
+* [09 March 2022](#date-09-march-2022)
 * [23 February 2022](#date-23-february-2022)
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
+
+### Date: 09 March 2022
+
+#### Who did you help this week?
+
+* Helped SF with processing feedback 
+
+### Who helped you this week?
+
+* SB, JS, SF, KW and Whitaker lab helped me prep for MozFest. 
+* EK helped me with advice for creating work forms.
+
+#### What did you achieve?
+
+* MozFest workshop with SB, JS and SF [#613](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/613)
+* Some work on AutSPACEs paper (paper 2) [#616](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/616)
+* Applied to Autistica Festival with SB [#612](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/612)
+* Draft newsletter [#627](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/627)
+* Created job add and form for design work and liaised with Autistica and JW about payment for participants options
+* Started OLS-5 mentoring 
+
+#### What did you struggle with?
+
+* Some stress this week
+* Didn't get a Feb newsletter out 😞
+
+#### Where do you need help from Kirstie?
+
+* Papers
+* Strategies for community work 
+
+#### What would you like to work on next week?
+
+* Papers! - try to get rough draft of paper 2 complete 
+* Prep for Presentation with JS (23rd March)
 
 ### Date: 23 February 2022
 
