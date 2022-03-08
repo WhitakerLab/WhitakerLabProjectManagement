@@ -16,7 +16,7 @@ Georgia's biweekly meeting notes.
 ### Who helped you this week?
 
 * SB, JS, SF, KW and Whitaker lab helped me prep for MozFest. 
-* EK helped me with advice for creating work forms.
+* EK helped me with advice for creating application forms.
 
 #### What did you achieve?
 
