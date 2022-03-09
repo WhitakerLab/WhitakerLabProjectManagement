@@ -24,24 +24,30 @@
 
 #### Who did you help this week?
 
-* DS - been helping with planning the lecture series - finding diverse speakers. 
+* DS - been helping with planning the lecture series - finding diverse speakers.
+  * KW: AWESOME - great chat about linking up DC & EB on your and DS' process here?
 
 #### Who helped you this week?
 
 * MS - co-working on training workshop prep.  
+  * KW: THANK YOU both for this! 🙏
 
 #### What did you achieve?
 
 * DC - coordinating data extracts, data paper authorship tracking, meeting with SG and NB about github repo for the paper.
+  * KW: Awesome 🚀
 * TRSS - Stakeholder mapping - have some comments but still waiting for more, now working on engagement plan.
   * Lay summaries first drafts shared - went for slack discussion and also coffee chats to get comments. 
-  * Organising more knowledge shares and show and tell presentations of projects to UKHSA. 
+  * Organising more knowledge shares and show and tell presentations of projects to UKHSA.
 * Working with MS on planning for uni of Cambridge Reproducible, Open and FAIR research training - it's happening 4th and 11th March mornings. 
+  * KW: So great to be delivering this - thank you!
 * Sensitive data work - been making presentations and scripts to make into videos for RDM kit - UK-Elixir work but will be very similar content in the Turing Way chapter. 
-* 
+  * KW: Very exciting!
+
 #### What did you struggle with?
 
 * Still lack of comments and feedback from UKHSA colleagues - have spoken to HM about this and reinforcing the need for comments so I can make progress.
+  * KW: Discussed in the meeting - best of luck!! 💪
 
 #### What would you like to work on next week?
 
@@ -49,12 +55,14 @@
 * finalise lay summaries.
 * doing more work on sorting out the TRSS central Github repository.
 * working with PD on a lay piece about 'How many covid cases are there?' - comparing the results of different surveys. 
+  * KW: Ooooooooh - that sounds so interesting!
 * finishing first lot of sensitive data presentations/videos.
 
 #### Where do you need help from Kirstie?
 
 * For Elixir videos - had confirmation that affiliation logos will be on videos so is it best to put alan turing or turing way or both if room?
-
+  * Both if room please, Turing Way if can only have one.
+  * Could ping an email to comms team at Turing to confirm? cc MS and me just in case they get twitchy!
 
 ### Date: 16 February 2022
 
