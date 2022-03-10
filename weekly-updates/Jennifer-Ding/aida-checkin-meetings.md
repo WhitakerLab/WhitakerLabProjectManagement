@@ -19,8 +19,6 @@
 #### Who did you help over the past fortnight?
 * Working with Warwick ULM for EQ workshop
 * Outreach to UA researchers
-* Future Turing Mapathon - Open Source Mapping/Map Data Day?
-<img width="676" alt="Screenshot 2022-03-10 at 10 04 35" src="https://user-images.githubusercontent.com/5104098/157642264-8c6b6afe-340f-41a6-a273-414bb3df7d7d.png">
 #### Who helped you over the past fortnight?
 * Warwick ULM
 * Other RAMs with Lightning talk recordings
@@ -36,9 +34,8 @@
 #### Where do you need help?
 * Prep before US travel (missing the potential final checkin with Kirstie, ASG Impact Meeting)
 #### Any other topics
-* 
-
-
+* Future Turing Mapathon - Open Source Mapping/Map Data Day?
+<img width="676" alt="Screenshot 2022-03-10 at 10 04 35" src="https://user-images.githubusercontent.com/5104098/157642264-8c6b6afe-340f-41a6-a273-414bb3df7d7d.png">
 
 ---
 
