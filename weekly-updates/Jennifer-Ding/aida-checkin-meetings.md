@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 10 March 2022](#date-10-march-2022)
 * [Date: 3 March 2022](#date-3-march-2022)
 * [Date: 24 February 2022](#date-24-february-2022)
 * [Date: 17 February 2022](#date-17-february-2022)
@@ -10,6 +11,34 @@
 * [Date: 2 December 2021](#date-2-december-2021)
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
+
+
+---
+
+### Date: 10 March 2022
+#### Who did you help over the past fortnight?
+* Working with Warwick ULM for EQ workshop
+* Outreach to UA researchers
+* Future Turing Mapathon - Open Source Mapping/Map Data Day?
+<img width="676" alt="Screenshot 2022-03-10 at 10 04 35" src="https://user-images.githubusercontent.com/5104098/157642264-8c6b6afe-340f-41a6-a273-414bb3df7d7d.png">
+#### Who helped you over the past fortnight?
+* Warwick ULM
+* Other RAMs with Lightning talk recordings
+* Kirstie with "email psychology 101" + Tech Nation rec later
+#### What did you achieve?
+* 1:1 scheduled with Gavin (see: previous point) for mid-April re: DyME-CHH strategy!
+* Lightning talk recordings!
+* Attended first UK AI Infra meeting with working group + partner
+#### What did you struggle with?
+* 
+#### What would you like to work on next week?
+* Final AI UK prep (Hopin dry-runs, speaker guidelines)
+#### Where do you need help?
+* Prep before US travel (missing the potential final checkin with Kirstie, ASG Impact Meeting)
+#### Any other topics
+* 
+
+
 
 ---
 
