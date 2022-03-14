@@ -2,10 +2,91 @@
 
 *[Template](#template-date-dd-month-yyyy)*
 
+* [17 January 2022](#date-17-January-2022)
+* [16 December 2021](#date-16-December-2021)
 * [22 November 2021](#date-22-November-2021)
 * [11 October 2021](#date-11-October-2021)
 
 ---
+
+### Date: 17 January 2022
+
+#### Who did you help this week?
+- Training team in designing two projects
+  - KW: Great stuff - so delighted about this (high level) collaboration ✨
+
+#### Who helped you this week?
+- REG team in giving a final demo of the documents for the UX project handover
+  - KW: I'm really glad I could attend - it was super helpful to see the demo.
+- MN in involving in two projects and organising session for community discussion
+  - KW: So fab 💖
+
+#### What did you achieve?
+- Ran a community engagement discussion
+  - KW: So delighted that these are happening within the Turing!
+- Got access to the community manager page
+  - KW: YAAAAAAY 🚀🌟
+- Set up the team GitHub and CoC revision
+  - KW: https://github.com/alan-turing-institute/open-community-building
+  - Looks great - left a comment on the PR
+- KW: Ran the demo for the Turing Way UX project!
+  - Noted from the meeting that you did a great job nudging on getting the documentation captured too 🙌
+
+#### What did you struggle with?
+- Delayed submission of objectives and GSoC due to many meetings
+
+#### What would you like to work on next week?
+- UKRI panel
+- Getting some abstract in
+- TTW newsletter and fireside chat
+- Meeting with ALS 
+- 1:1 progress check with VH and AR
+
+#### Where do you need help from Kirstie?
+- Review of CM team GitHub and CoC revision
+  - KW: Done! Thank you for putting so much work into this!
+
+### Date: 16 December 2021
+
+#### Who did you help this week?
+- Facilitating Responsible Participation workshop with GA
+- AR and VH in project planning and discussion
+- Training team in co-designing two projects
+
+#### Who helped you this week?
+- KW in project planning and onboarding of AR and VH
+- MN in organising community engagement workshop
+- ET, KH, MM, HD, J in running the fireside chat
+
+#### What did you achieve?
+- Worked on the GEM projects with the REG members (added them on the TTW team doc)
+- Chat with eScience team about future engagement
+- Validate AI session
+- developed the foundation community engagement workshop materials
+
+#### What did you struggle with?
+- Delayed newsletters
+
+#### What would you like to work on next week?
+- Holidays!
+
+#### Where do you need help from Kirstie?
+
+---
+
+### Template: Date: DD Month YYYY
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
 
 ### Date: 22 November 2021
 
@@ -57,22 +138,6 @@
 #### Where do you need help from Kirstie?
 - Discussions on the CM team development, TPS alignment, vision
   - KW: Useful chat in the meeting
-
----
-
-### Template: Date: DD Month YYYY
-
-#### Who did you help this week?
-
-#### Who helped you this week?
-
-#### What did you achieve?
-
-#### What did you struggle with?
-
-#### What would you like to work on next week?
-
-#### Where do you need help from Kirstie?
 
 ### Date: 11 October 2021
 
