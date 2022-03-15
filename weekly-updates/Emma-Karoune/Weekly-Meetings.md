@@ -25,7 +25,7 @@
 
 #### Who did you help this week?
 
-* 
+* HM - Been meeting with UKHSA about data legacy of project dataset. 
 
 #### Who helped you this week?
 
@@ -34,7 +34,9 @@
 #### What did you achieve?
 
 * DC - data paper authorship tracking, co-ordinating paper comments.
-* TRSS - finished lay summaries and now with UKHSA for com
+* TRSS - finished lay summaries and now with UKHSA for comments. 
+ *  organising the central github repo
+ *  
 
 #### What did you struggle with?
 
