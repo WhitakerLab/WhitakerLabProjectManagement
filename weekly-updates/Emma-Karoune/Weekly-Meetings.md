@@ -33,7 +33,8 @@
 
 #### What did you achieve?
 
-* DC - 
+* DC - data paper authorship tracking, co-ordinating paper comments.
+* TRSS - finished lay summaries and now with UKHSA for com
 
 #### What did you struggle with?
 
