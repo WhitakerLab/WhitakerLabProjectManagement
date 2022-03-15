@@ -2,11 +2,49 @@
 
 *Meetings are scheduled every 2 weeks*
 
+* [15th Mar 2022](#date-tue-15th-march-2022) 
 * [15th Feb 2022](#date-tue-15th-february-2022) 
 * [26th Jan 2022](#date-wed-26th-january-2022) 
 * [15th Dec 2021](#date-wed-15th-december-2021)
 * [1st Dec 2021](#date-wed-1st-december-2021)
 * [Template](#date-template)
+
+## Date: Tue 15th March 2022
+
+#### Who did you help this week?
+
+* Helped the partnerships team by taking on the case studies task 
+* Timekept at the AutSPACEs meetup
+
+#### Who helped you this week?
+
+* Honestly a lot of a much needed self-motivation has been dug up the past to weeks to achieve..
+* MS and the Turing Way will help me tomorrow to give me guidance on writing a blog post 
+* XB was very helpful with case study review and feedback 
+
+#### What did you achieve?
+
+* ... a finished EPR report
+* a finished draft of the AutSPACEs paper 
+* a working copy of the DSG Case Study 
+
+#### What did you struggle with?
+
+* Just getting my final affairs in order, it's been going well so far though fingers crossed! 
+
+#### What would you like to work on next week?
+
+* Once I get a brief for the TIN Case Study I hope to have a draft of that done by this week 
+* A blog post on the ethical considerations of handling sensitive data on DECOVID and AutSPACEs
+* Hand in a final draft of AutSPACEs data paper 
+
+#### Where do you need help from Kirstie?
+
+* Feedback document for my report please! 
+
+#### Any other topics
+
+😸 Just a note to say thank you so much Kirstie for being such an incredible line manager, you've really empowered, supported, guided and been there for me despite having a million things on and you really are a shining example of what a great line manager should be! It's been an honour and a pleasure to work with you and the amazing Whitaker lab and I really am sad to be leaving the team - 6 months is such a whirlwind and it would be great to revisit after I finish my postings and keep in touch if there are any interesting roles available then! I will also give a more emotional farewell at the lunch I'm sure.. 
 
 ## Date: Tue 15th February 2022
 
