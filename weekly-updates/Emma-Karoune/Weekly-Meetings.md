@@ -29,26 +29,28 @@
 
 #### Who helped you this week?
 
-* 
+* HM and DS - always helpful!
 
 #### What did you achieve?
 
 * DC - data paper authorship tracking, co-ordinating paper comments.
 * TRSS - finished lay summaries and now with UKHSA for comments. 
- *  organising the central github repo
- *  
+  *  organising the central github repo
+  *  data legacy discussions and organising. 
+  *  attended research impact assessment training by Elixir - was very useful [link to doc about research impact pathways](https://ri-paths-tool.eu/en)
 
 #### What did you struggle with?
 
-* 
+* All ok.
 
 #### What would you like to work on next week?
 
-* 
+* Morte work on the Github repo
+* Attend some of AIUK
 
 #### Where do you need help from Kirstie?
 
-* 
+* We were going to discuss job prospects for me after august if the TRSS Lab folds. 
 
 ### Date: 02 March 2022
 
