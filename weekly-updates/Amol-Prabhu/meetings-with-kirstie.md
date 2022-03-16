@@ -36,15 +36,20 @@
 
 * Once I get a brief for the TIN Case Study I hope to have a draft of that done by this week 
 * A blog post on the ethical considerations of handling sensitive data on DECOVID and AutSPACEs
+  * KW: Sounds great - where would this go?
 * Hand in a final draft of AutSPACEs data paper 
+  * KW: Thank you - I'll do my best to get it uploaded somewhere before I go on leave... it might be a bit delayed though 😩
 
 #### Where do you need help from Kirstie?
 
-* Feedback document for my report please! 
+* Feedback document for my report please!
+  * KW: In the calendar! 💯
 
 #### Any other topics
 
 😸 Just a note to say thank you so much Kirstie for being such an incredible line manager, you've really empowered, supported, guided and been there for me despite having a million things on and you really are a shining example of what a great line manager should be! It's been an honour and a pleasure to work with you and the amazing Whitaker lab and I really am sad to be leaving the team - 6 months is such a whirlwind and it would be great to revisit after I finish my postings and keep in touch if there are any interesting roles available then! I will also give a more emotional farewell at the lunch I'm sure.. 
+
+* KW: We've SO SO enjoyed having you in the lab - thank you so much!
 
 ## Date: Tue 15th February 2022
 
