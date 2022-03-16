@@ -22,21 +22,25 @@
 
 #### Who helped you this week?
 - EK in workshop last two weeks
-- ABL in  Athena proposal
-- KW in lot sof admin stuff
+- ABL in Athena proposal
+- KW in lots of admin stuff
 
 #### What did you struggle with?
 
 - Time
+  - KW: 😭 Feel you - and you're doing SO much. Be gentle with yourself 🌺
 
 #### What would you like to work on next week?
 
 - TTW delgation
+  - KW: 💯
 
 #### Where do you need help from Kirstie?
 
-- Parnership
+- Partnership
+  - KW: Good chat - thank you 🙏
 - OLS contract
+  - KW: Discussed in meeting - exciting! 🙌
 
 ---
 
