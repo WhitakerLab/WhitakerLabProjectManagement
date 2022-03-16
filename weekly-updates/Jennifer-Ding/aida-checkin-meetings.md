@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 16 March 2022](#date-16-march-2022)
 * [Date: 10 March 2022](#date-10-march-2022)
 * [Date: 3 March 2022](#date-3-march-2022)
 * [Date: 24 February 2022](#date-24-february-2022)
@@ -12,6 +13,27 @@
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
 
+
+---
+
+### Date: 16 March 2022
+
+#### Who did you help over the past fortnight?
+* Helped facilitate part of the UA Digital Twins Session
+#### Who helped you over the past fortnight?
+* Events team with Hopin onboarding
+#### What did you achieve?
+* 
+#### What did you struggle with?
+* Preparing for panels
+* Figuring out how to prepare workshop presenters for Hopin
+#### What would you like to work on next week?
+* AI UK!
+* Prepare for Equadratures BAS + Warwick Workshops
+#### Where do you need help?
+* Balancing Warwick workshop with lab lunch
+#### Any other topics
+*
 
 ---
 
