@@ -1,5 +1,6 @@
 # Check in meetings with Kirstie
 
+* [Date: 21 March 2022](#date-21-march-2022)
 * [Date: 7 March 2022](#date-7-march-2022)
 * [Date: 21 February 2022](#date-21-february-2022)
 * [Date: 9 February 2022](#date-9-february-2022)
@@ -16,6 +17,13 @@
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
 
+### Date: 21 March 2022
+
+#### Where do you need help from Kirstie?
+* DCE RAM next steps
+* My Objectives
+* RAM paper - KW section
+* UKRN LNL for 22-23 
 
 
 ### Date: 7 March 2022
