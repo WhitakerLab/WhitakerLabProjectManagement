@@ -13,24 +13,30 @@ Georgia's biweekly meeting notes.
 #### Who did you help this week?
 
 * Helped lab by goathearding
+  * KW: 🐐 Thank you!
 
 ### Who helped you this week?
 
 * AB helped with funding/payment options
-* KW helped with particpatory science/and spotlight for newsletter! 
+  * KW: Great to loop her in.
+* KW helped with particpatory science/and spotlight for newsletter!
+  * KW: I think good to get this out without the job ad part...
 
 #### What did you achieve?
 
 * Created slides and prepped for CDEI talk [#647](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/647)
 * OLS-5 mentoring 
 * More work on AutSPACEs paper (paper 2) [#616](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/616)
+  * KW: Stick with the detangling - keep going!
 * Biotech workshop was fab/interesting
+  * KW: Very cool - thank you for the update.
 
 #### What did you struggle with?
 
 * Slightly stressed to do with non-work stuff 
 * Procedural stuff
 * Pulling everything together for paper 2
+  * KW: 💪 You can do this. 
 
 #### Where do you need help from Kirstie?
 
@@ -43,7 +49,10 @@ Georgia's biweekly meeting notes.
 * Complete draft of paper 2 finally
 * Present on AutSPACEs for CDEI with JS 
 * Run meet-up session on Thursday
+  * KW: Let make tomorrow the last meet up, but keep 14 April as a "Good luck Kirstie!" session just so we don't rather abruptly finish the sessions!
+  * They'll come back in June when SB is in post, but with a clear strategy and link with AIM
 * Send out March newsletter and job ad for design work 
+  * KW: Looks like job ad might need some more time.... lets just send the newsletter without it for now.
 
 ### Date: 09 March 2022
 
