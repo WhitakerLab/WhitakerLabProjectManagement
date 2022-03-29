@@ -1,6 +1,6 @@
 # Emma's Weekly Meeting Notes
 
-* [16 March 2022](#date-16-march-2022)
+* [30 March 2022](#date-30-march-2022)
 * [02 March 2022](#date-02-march-2022)
 * [16 February 2022](#date-16-february-2022)
 * [02 February 2022](#date-02-february-2022)
@@ -21,7 +21,7 @@
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: 16 March 2022
+### Date: 30 March 2022
 
 #### Who did you help this week?
 
@@ -34,23 +34,27 @@
 #### What did you achieve?
 
 * DC - data paper authorship tracking, co-ordinating paper comments.
-* TRSS - finished lay summaries and now with UKHSA for comments. 
-  *  organising the central github repo
-  *  data legacy discussions and organising. 
+* TRSS - finished lay summaries and now reviewed and going on website. 
+  *  organising the central github repo - archiving docs, people folder. 
+  *  data legacy discussions and organising - writing data paper! 
   *  attended research impact assessment training by Elixir - was very useful [link to doc about research impact pathways](https://ri-paths-tool.eu/en)
+     * going to use this framework to write impact case studies for lab. 
 
 #### What did you struggle with?
 
-* All ok.
+* bit tricky with lab uncertainty but we spoke about this already. 
 
 #### What would you like to work on next week?
 
-* Morte work on the Github repo
-* Attend some of AIUK
+* Attending CW22 - Mon to weds.
+* More work on the Github repo
+* Start writing impact case studies. 
 
 #### Where do you need help from Kirstie?
 
-* We were going to discuss job prospects for me after august if the TRSS Lab folds. 
+* We were going to discuss job prospects for me after august if the TRSS Lab folds - will update you on this as some changes since we spoke. 
+* please complete the leadership course form for me. 
+* decovid handover. 
 
 ### Date: 02 March 2022
 
