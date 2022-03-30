@@ -25,20 +25,31 @@
 
 #### Who did you help this week?
 
-* HM - Been meeting with UKHSA about data legacy of project dataset. 
+* HM - Been meeting with UKHSA about data legacy of project dataset.
+  * KW: Very cool ✔️ 
 
 #### Who helped you this week?
 
 * HM and DS - always helpful!
+  * KW: Dreeeem team 🙌
 
 #### What did you achieve?
 
 * DC - data paper authorship tracking, co-ordinating paper comments.
-* TRSS - finished lay summaries and now reviewed and going on website. 
+  * KW: Thank you 🙏
+* TRSS
+  * finished lay summaries and now reviewed and going on website. 
+    * KW: Wooo! 
   *  organising the central github repo - archiving docs, people folder. 
-  *  data legacy discussions and organising - writing data paper! 
+    * KW: Great 🌠
+    * Please can you demonstrate to DC? I think he'd find that super helpful ✨ 
+  *  data legacy discussions and organising - writing data paper!
+    * KW: SO SO COOL! 
   *  attended research impact assessment training by Elixir - was very useful [link to doc about research impact pathways](https://ri-paths-tool.eu/en)
-     * going to use this framework to write impact case studies for lab. 
+     * going to use this framework to write impact case studies for TRSS lab.
+     * KW: REALLY great - thank you - maybe captured in The Turing Way??
+       Maybe in the project design guide, what should people be thinking about at the start?
+     * KW: Also potentially very valuable for a lab meeting / the RAM team?  
 
 #### What did you struggle with?
 
@@ -47,14 +58,18 @@
 #### What would you like to work on next week?
 
 * Attending CW22 - Mon to weds.
+  * KW: SO FUN - I shall live vicariously through you 💖
 * More work on the Github repo
 * Start writing impact case studies. 
 
 #### Where do you need help from Kirstie?
 
 * We were going to discuss job prospects for me after august if the TRSS Lab folds - will update you on this as some changes since we spoke. 
+  * KW: Discussed in the meeting. I'll take forwards with CH and MS. 
 * please complete the leadership course form for me. 
-* decovid handover. 
+  * KW: ✔️
+* decovid handover
+  * KW: To LA ✔️
 
 ### Date: 02 March 2022
 
