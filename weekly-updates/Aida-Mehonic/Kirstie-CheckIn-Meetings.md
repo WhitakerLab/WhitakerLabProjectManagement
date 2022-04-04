@@ -1,5 +1,6 @@
 # Check in meetings with Kirstie
 
+* [Date: 4 April 2022](#date-4-april-2022)
 * [Date: 21 March 2022](#date-21-march-2022)
 * [Date: 7 March 2022](#date-7-march-2022)
 * [Date: 21 February 2022](#date-21-february-2022)
@@ -16,6 +17,21 @@
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+
+### Date: 4 April 2022
+
+#### Where do you need help from Kirstie?
+
+* Commercialisation & RAMs - DCE programme - what should be the 12month goal? Also involving the Legal team?
+* Also update on the LRF proposal chat and TRIC. 
+* I am preparing a new talk on RAMs - will discuss details in the meeting
+* Following up on AIUK - this week; 
+* TTW - next workshop - share some feedback from NG; share some feedback from the Lab meeting; 
+* UKRN LNL for 2022-23 
+* RAM paper - KW section
+* RAMs will do the next Book Dash
+
 
 ### Date: 21 March 2022
 
