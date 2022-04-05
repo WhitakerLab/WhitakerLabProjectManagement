@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 6 April 2022](#date-6-april-2022)
 * [Date: 16 March 2022](#date-16-march-2022)
 * [Date: 10 March 2022](#date-10-march-2022)
 * [Date: 3 March 2022](#date-3-march-2022)
@@ -15,6 +16,33 @@
 
 
 ---
+
+### Date: 06 April 2022
+
+#### Who did you help over the past fortnight?
+* Support equadratures workshop
+* DCE + UA Follow-ups (Francesca/Neave, Polly Hudson, Francesco/Andre, Lawrence, Pranay)
+* Reach out to startup founders and ethical AI academics for AI UK Infra survey (Shannon Vallor responded!)
+#### Who helped you over the past fortnight?
+* Fernando - helping actually push forward EDT + DyME work
+#### What did you achieve?
+* Create research note HackMDs for [Digital Twins](https://hackmd.io/4mLh4KBzSIqFdhS9YZkWSw?view) and [Open Source ](https://hackmd.io/Dj4bFeVtTwKCfeZ8o_1puA?view)
+* Applied for Aspiring Leadership Programme + Public Engagement Course
+* Reached out to Theo (RSS Sir David Attenborough), Omar Matar (Quasir), Fehmi Cirak (Stat-fem)
+* Assigned a mentor: Amit Mulji Head of the Office of the Director)
+#### What did you struggle with?
+* Cold e-mails to DCE folks (I think the RAM webpage might help when we have this?)
+* 
+#### What would you like to work on next week?
+* Prepare for a strong strategy meeting with Gavin Shaddick mid-week
+* Use Mapathon as a point to start conversations on map-based collaborations (with eye towards public engagement opportunities)
+* Create DCE Commercalisation workstream plan
+* Try to get in touch with Margaret Mitchell through her BL event next week
+#### Where do you need help?
+* How to think about supporting PIs pitching directly to Mark G (vs. within their ASG programme)?
+#### Any other topics
+*
+
 
 ### Date: 16 March 2022
 
@@ -280,6 +308,7 @@
 ### Template
 
 ### Date: DD MM 2022
+
 #### Who did you help over the past fortnight?
 *
 #### Who helped you over the past fortnight?
