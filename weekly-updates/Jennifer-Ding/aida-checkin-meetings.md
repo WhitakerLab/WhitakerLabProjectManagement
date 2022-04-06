@@ -32,7 +32,6 @@
 * Assigned a mentor: Amit Mulji Head of the Office of the Director)
 #### What did you struggle with?
 * Cold e-mails to DCE folks (I think the RAM webpage might help when we have this?)
-* 
 #### What would you like to work on next week?
 * Prepare for a strong strategy meeting with Gavin Shaddick mid-week
 * Use Mapathon as a point to start conversations on map-based collaborations (with eye towards public engagement opportunities)
@@ -41,7 +40,9 @@
 #### Where do you need help?
 * How to think about supporting PIs pitching directly to Mark G (vs. within their ASG programme)?
 #### Any other topics
-*
+* Next phase of EQ: governance/decision-making power, CIC, steering committee, funding postdoc (or PhD student); Minimum Viable Governance
+* UA DyME Codeathon (Hannah)
+* Entrepreneur/Designer-in residence
 
 
 ### Date: 16 March 2022
