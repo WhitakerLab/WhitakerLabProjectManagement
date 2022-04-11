@@ -15,18 +15,26 @@
 
 #### Who did you help this week?
 - Training and skills team in two projects
+  - KW: Exciting - thank you for helping them 🌠
 - SC in having some discussion on partnership
+  - KW: Thank you too! I think we're getting closer...
 
 #### Who helped you this week?
 - KW, AB, AS, lots of TPS and TTW members
-- Skills team (AD) and getting lots of work done on the AI and Data science project
+  - KW: Go collaboration go 🙌
+- Skills team (AD) and getting lots of work done on the AI and Data Science Educators project
+  - KW: Discussed in meeting - interest group and training programme. Link up w Carpentries, OLS, TTW, Turing Commons
+  - VERY COOL!
 - AD and REG members in Turing Crick project
+  - KW: Really appreciate you keeping this project on track and with clear reflections 💖
 
 #### What did you achieve?
 - Catch up with team members' projects
 - CW22 participation
 - Starting off with TTW scoping for governance
+  - KW: So excited for this!! 🙌
 - JISC panel and writing piece on TTW
+  - KW: Ah - thank you! Very cool.
 
 #### What did you struggle with?
 - Time management, catching up on urgent tasks
@@ -34,12 +42,17 @@
 
 #### What would you like to work on next week?
 - Book Dash
+  - KW: Keen to support the hubs plan 🕸️
 - Turing-Crick review sprint
+  - KW: Webinar this evening - exciting!
 - Partnership planning for OLS and Binder
 - CM team management
 
+KW: These all sound great!
+
 #### Where do you need help from Kirstie?
 - Einstein awards
+  - KW: Thank you for the chat here - I think you and AB take forwards and make sure to have ghost writer folks for the big names on the letters of support 👻🖊️.
 
 ---
 
