@@ -2,12 +2,60 @@
 
 *[Template](#template-date-dd-month-yyyy)*
 
-
-* [14 March 2022](#date-14-March-2022)* 
+* [11 April 2022](#date-11-April-2022)
+* [14 March 2022](#date-14-March-2022)
 * [17 January 2022](#date-17-January-2022)
 * [16 December 2021](#date-16-December-2021)
 * [22 November 2021](#date-22-November-2021)
 * [11 October 2021](#date-11-October-2021)
+
+---
+
+### Date: 11 April 2022
+
+#### Who did you help this week?
+- Training and skills team in two projects
+- SC in having some discussion on partnership
+
+#### Who helped you this week?
+- KW, AB, AS, lots of TPS and TTW members
+- Skills team (AD) and getting lots of work done on the AI and Data science project
+- AD and REG members in Turing Crick project
+
+#### What did you achieve?
+- Catch up with team members' projects
+- CW22 participation
+- Starting off with TTW scoping for governance
+- JISC panel and writing piece on TTW
+
+#### What did you struggle with?
+- Time management, catching up on urgent tasks
+- Turing-Crick project wrap up
+
+#### What would you like to work on next week?
+- Book Dash
+- Turing-Crick review sprint
+- Partnership planning for OLS and Binder
+- CM team management
+
+#### Where do you need help from Kirstie?
+- Einstein awards
+
+---
+
+### Template: Date: DD Month YYYY
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+
+#### What did you struggle with?
+
+#### What would you like to work on next week?
+
+#### Where do you need help from Kirstie?
 
 ---
 
@@ -42,21 +90,6 @@
 - OLS contract
   - KW: Discussed in meeting - exciting! 🙌
 
----
-
-### Template: Date: DD Month YYYY
-
-#### Who did you help this week?
-
-#### Who helped you this week?
-
-#### What did you achieve?
-
-#### What did you struggle with?
-
-#### What would you like to work on next week?
-
-#### Where do you need help from Kirstie?
 
 ### Date: 17 January 2022
 
