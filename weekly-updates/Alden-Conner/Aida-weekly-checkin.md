@@ -1,7 +1,43 @@
 # Check-in meetings with Aida
 
+* [Date: 11 April 2022](#date-11-april-2022)
 * [Date: 15 November 2021](#date-15-november-2021)
 * [Date: 9 November 2021](#date-9-november-2021)
+
+### Date: [11 April 2022]
+
+#### Who did you help this week?
+
+Helped the RAM team and Partnerships with work on AI UK follow-up, goat herded for the Whitaker lab, promoted the DSxHE event on Turing Slack channels.
+
+
+#### Who helped you this week?
+
+RAM team helped with book dash proposal, Malvika helped me understand what is needed for Turing-Crick sprint, Vicky joined me at the DSxHE event.
+
+#### What did you achieve?
+
+* Attended DSxHE, did some networking, ate friend ice cream :)
+* Attended S&R meeting, have a stronger understanding of their projects and where I might be able to help
+
+#### What did you struggle with?
+
+* Still searching for another strong project to work on, lots of open ends
+* Wasn't very happy with my goat herding
+
+#### What would you like to work on next week?
+
+* Getting RAM website online
+* RAM paper
+* Case studies for Turing-Crick course
+
+#### Where do you need help from Aida?
+
+* Case studies (on RAM meeting agenda for tomorrow)
+
+#### Any other topics
+
+* AI UK "metrics" for Mafalda - set up a meeting?
 
 
 ### Date: [15 November, 2021]
@@ -85,43 +121,6 @@ AM, VH, MS, SG, AR, HM, HS, AB
 
 
 
-
-### Date: [INSERT DATE OF MEETING]
-
-#### Who did you help this week?
-
-Replace this text with a one/two sentence description of who you helped this week and how.
-
-
-#### Who helped you this week?
-
-Replace this text with a one/two sentence description of who helped you this week and how.
-
-#### What did you achieve?
-
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
-
-#### What did you struggle with?
-
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
-
-#### What would you like to work on next week?
-
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
-
-#### Where do you need help from Aida?
-
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
-
-#### Any other topics
-
-This space is yours to add to as needed.
 
 ### Date: [INSERT DATE OF MEETING]
 
