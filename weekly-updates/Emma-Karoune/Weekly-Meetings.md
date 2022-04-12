@@ -35,40 +35,26 @@
 #### What did you achieve?
 
 * DC - data paper meetings, monthly meeting, prep of newsletter, prep with HM. 
-  
 * TRSS
-  * finished lay summaries and now reviewed and going on website. 
-    * KW: Wooo! 
-  *  organising the central github repo - archiving docs, people folder. 
-    * KW: Great 🌠
-    * Please can you demonstrate to DC? I think he'd find that super helpful ✨ 
-  *  data legacy discussions and organising - writing data paper!
-    * KW: SO SO COOL! 
-  *  attended research impact assessment training by Elixir - was very useful [link to doc about research impact pathways](https://ri-paths-tool.eu/en)
-     * going to use this framework to write impact case studies for TRSS lab.
-     * KW: REALLY great - thank you - maybe captured in The Turing Way??
-       Maybe in the project design guide, what should people be thinking about at the start?
-     * KW: Also potentially very valuable for a lab meeting / the RAM team?  
+  * working on updating the webpages.
+  *  still organising the central github repo - archiving docs, people folder. 
+  *  making progress on data legacy discussions, UK data service is now confirmed as repository and discussions of final datset - writing data paper!
+  *  bit of a win to
+  *  started working on impact pathways. 
+* Turing way - starting to organise bookdash - trying to form a group to work on sensitive data chapter. 
 
 #### What did you struggle with?
 
-* bit tricky with lab uncertainty but we spoke about this already. 
+* all ok. 
 
 #### What would you like to work on next week?
 
-* Attending CW22 - Mon to weds.
-  * KW: SO FUN - I shall live vicariously through you 💖
-* More work on the Github repo
-* Start writing impact case studies. 
+* get first draft of impact pathways done and meet with people to add case studies.
+* 
 
 #### Where do you need help from Kirstie?
 
-* We were going to discuss job prospects for me after august if the TRSS Lab folds - will update you on this as some changes since we spoke. 
-  * KW: Discussed in the meeting. I'll take forwards with CH and MS. 
-* please complete the leadership course form for me. 
-  * KW: ✔️
-* decovid handover
-  * KW: To LA ✔️
+* DECOVID handover - newsletter, data paper comments, data deposition on pioneer. 
 
 ### Date: 30 March 2022
 
