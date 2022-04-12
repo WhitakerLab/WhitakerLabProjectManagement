@@ -39,7 +39,6 @@
   * working on updating the webpages.
   *  still organising the central github repo - archiving docs, people folder. 
   *  making progress on data legacy discussions, UK data service is now confirmed as repository and discussions of final datset - writing data paper!
-  *  bit of a win to
   *  started working on impact pathways. 
 * Turing way - starting to organise bookdash - trying to form a group to work on sensitive data chapter. 
 
