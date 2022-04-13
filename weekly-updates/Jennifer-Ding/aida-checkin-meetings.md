@@ -32,7 +32,7 @@
 * Andrew Duncan for starting the commercialisation convos
 #### What did you achieve?
 * See first bullet
-* 1:1 with Gavin Shaddick
+* 1:1 with Gavin Shaddick - Stakeholder Contact Info!!!!
 #### What did you struggle with?
 * Getting in contact with elusive DCE PIs
 #### What would you like to work on next week?
@@ -42,6 +42,7 @@
 * Attend first Turing Mentoring session 
 #### Where do you need help?
 * Putting together pieces for DyME-CHH project planning
+* How does one submit to a conference? (e.g. [this](https://connectedlife.oii.ox.ac.uk/call-for-papers/) for [this](https://connectedlife.oii.ox.ac.uk/call-for-papers/), Globalisation of Data Flows)
 #### Any other topics
 * 
 
