@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 14 April 2022](#date-14-april-2022)
 * [Date: 6 April 2022](#date-6-april-2022)
 * [Date: 16 March 2022](#date-16-march-2022)
 * [Date: 10 March 2022](#date-10-march-2022)
@@ -14,6 +15,35 @@
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
 
+
+---
+
+### Date: 14 April 2022
+#### Who did you help over the past fortnight?
+* Dustin - LTN feedback, work plan for training development/landing page
+* Lawrence - Fleet Modelling glossy
+* Fernando - recreating ASPICS OpenGL error, resources on Turing blog post
+* UKRI AI review - outreach to AI founders to take the survey
+#### Who helped you over the past fortnight?
+* All of my probation review feedback providers!
+* Malvika for general advice, re: open collaboration/community development
+* Anne for brainstorming on Mapathon & TPS collaborations in general
+* Francesca for sharing her advice re: engaging policymakers from the start of a project
+* Andrew Duncan for starting the commercialisation convos
+#### What did you achieve?
+* See first bullet
+* 1:1 with Gavin Shaddick
+#### What did you struggle with?
+* Getting in contact with elusive DCE PIs
+#### What would you like to work on next week?
+* LTN training copy feedback/landing page
+* Meeting with Polly (Colouring Cities) on wider CC opportunities
+* Conversation with Pranay about commercialisation and connecting Pranay<>Lawrence
+* Attend first Turing Mentoring session 
+#### Where do you need help?
+* Putting together pieces for DyME-CHH project planning
+#### Any other topics
+* 
 
 ---
 
