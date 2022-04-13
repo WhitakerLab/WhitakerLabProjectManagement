@@ -42,7 +42,7 @@
 * Attend first Turing Mentoring session 
 #### Where do you need help?
 * Putting together pieces for DyME-CHH project planning
-* How does one submit to a conference? (e.g. [this](https://connectedlife.oii.ox.ac.uk/call-for-papers/) for [this](https://connectedlife.oii.ox.ac.uk/call-for-papers/), Globalisation of Data Flows)
+* How does one submit to a conference? (e.g. [this](https://pudding.cool/2021/10/lenna/) for [this](https://connectedlife.oii.ox.ac.uk/call-for-papers/), Globalisation of Data Flows)
 #### Any other topics
 * 
 
