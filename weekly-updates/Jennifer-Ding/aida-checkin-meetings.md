@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 20 April 2022](#date-20-april-2022)
 * [Date: 14 April 2022](#date-14-april-2022)
 * [Date: 6 April 2022](#date-6-april-2022)
 * [Date: 16 March 2022](#date-16-march-2022)
@@ -15,6 +16,30 @@
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
 
+
+---
+
+### Date: 20 April 2022
+
+#### Who did you help over the past fortnight?
+* Dustin - progress on A/B streets landing page
+* Pranay - figuring out eq's final year
+* Fernando - figuring out how to bring him onto DyME
+* Polly - offering help for building Colouring Cities training materials + Mapathon
+#### Who helped you over the past fortnight?
+* Arielle - helping wade through the complexities of DyME-CHH
+* Hannah - convo about ASG resourcing
+#### What did you achieve?
+* Convo with Daniel (BL) about organising Meg Mitchell talk at Turing + trying to invite him to give a TPS Coffee Chat
+#### What did you struggle with?
+* So much meeting organisation for early May... also still the recurring challenge of getting in touch with Gavin
+#### What would you like to work on next week?
+* Public Engagement course (keeping upcoming training materials dev in mind)
+#### Where do you need help?
+* OII Abstract Feedback - https://docs.google.com/document/d/1ixrQAkEsibc-wOXB_0_l02PdrF7QT7uYjyY3Dfrkdl4/edit
+* Figuring out commercialisation next steps - do we need to reach out to Nico / legal?
+#### Any other topics
+*
 
 ---
 
