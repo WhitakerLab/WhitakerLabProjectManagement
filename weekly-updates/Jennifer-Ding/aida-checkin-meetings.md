@@ -37,7 +37,7 @@
 * Public Engagement course (keeping upcoming training materials dev in mind)
 #### Where do you need help?
 * OII Abstract Feedback - https://docs.google.com/document/d/1ixrQAkEsibc-wOXB_0_l02PdrF7QT7uYjyY3Dfrkdl4/edit
-* Figuring out commercialisation next steps - do we need to reach out to Nico / legal?
+* Meeting with Partnerships about RAM upcoming workshops/commercialisation situation? (e.g. bring them/share new opps like Dustin's work with LTN, Colour Cities, feedback from eq workshops, the whole AQ/EQ situation with Dan)
 #### Any other topics
 *
 
