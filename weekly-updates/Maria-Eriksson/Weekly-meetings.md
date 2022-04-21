@@ -29,6 +29,25 @@
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
 
+### Date: 21 April 2022 - FINAL MEETING
+
+#### What did you achieve?
+
+* GitHub: project management and collaborative working 🧑‍🤝‍🧑
+* Visualisations 🎨
+* Working openly with sensitive data 👐
+
+#### Plan for moving forward
+
+* Finish Sensitive Data Projects section in the Turing Way (with EK)
+* Public engagement: parents & children in the epilepsy surgery department
+* Paper on prediction of outcome
+* Paper on neuropsychology profiles
+
+#### Where do you need help from Kirstie?
+
+* All done! 🎇
+
 ### Date: 18 November 2021
 
 #### Who did you help this week?
