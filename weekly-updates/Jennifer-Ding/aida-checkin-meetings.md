@@ -24,6 +24,7 @@
 
 #### Who did you help over the past fortnight?
 * Ruth - onboarding sessions & planning
+ * AM: DyME - Scaling Up & Interoperability
 * Dustin - pushing forward work on LTN consultation incl. championing it as a project for Public Engagement course 
 * Alden - contributed to Probation Review
 #### Who helped you over the past fortnight?
@@ -31,15 +32,19 @@
 * Everyone who contributed to my Probation Review
 #### What did you achieve?
 * Scheduled TPS Coffee with Daniel (BL) + first email exchanges with Meg Mitchell (!) and BigScience team for a Turing event
-* Scheduled meeting with Lachlan (Quasir) during Book Dash Week)
+ * AM: Steering Committee for event - reach out to Malvika + Anne?
+ * AM: Ask Kate Wicks about Turing Lecture Series
+* Scheduled meeting with Lachlan (Quasir) during Book Dash Week
 #### What did you struggle with?
 * 
 #### What would you like to work on next week?
 * Onboarding Hari
 * EAB slides and presentation
+ * AM: Practice session before 5 May presentation
 * Meeting with LCAT team (the people actually doing DyME-CHH right now)
-* Next steps for eq (finding funding with Katy, Dobson ozon meeting with BAS)
+* Next steps for eq (finding funding with Katy, Dobson ozone meeting with BAS)
 * Setting Fernando up for success re: DyME
+ * Work with Mark to inform S&R leads on the resource change
 #### Where do you need help?
 * OII Abstract Feedback - https://docs.google.com/document/d/1ixrQAkEsibc-wOXB_0_l02PdrF7QT7uYjyY3Dfrkdl4/edit
 * Should I be reaching out to Trina directly, or waiting to respond after you do?
