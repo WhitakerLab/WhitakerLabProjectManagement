@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 27 April 2022](#date-27-april-2022)
 * [Date: 20 April 2022](#date-20-april-2022)
 * [Date: 14 April 2022](#date-14-april-2022)
 * [Date: 6 April 2022](#date-6-april-2022)
@@ -15,6 +16,35 @@
 * [Date: 2 December 2021](#date-2-december-2021)
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
+
+
+---
+
+### Date: 27 April 2022
+
+#### Who did you help over the past fortnight?
+* Ruth - onboarding sessions & planning
+* Dustin - pushing forward work on LTN consultation incl. championing it as a project for Public Engagement course 
+* Alden - contributed to Probation Review
+#### Who helped you over the past fortnight?
+* Scott, Aida, James for helping identify a possible collab path for eq with BAS!
+* Everyone who contributed to my Probation Review
+#### What did you achieve?
+* Scheduled TPS Coffee with Daniel (BL) + first email exchanges with Meg Mitchell (!) and BigScience team for a Turing event
+* Scheduled meeting with Lachlan (Quasir) during Book Dash Week)
+#### What did you struggle with?
+* 
+#### What would you like to work on next week?
+* Onboarding Hari
+* EAB slides and presentation
+* Meeting with LCAT team (the people actually doing DyME-CHH right now)
+* Next steps for eq (finding funding with Katy, Dobson ozon meeting with BAS)
+* Setting Fernando up for success re: DyME
+#### Where do you need help?
+* OII Abstract Feedback - https://docs.google.com/document/d/1ixrQAkEsibc-wOXB_0_l02PdrF7QT7uYjyY3Dfrkdl4/edit
+* Should I be reaching out to Trina directly, or waiting to respond after you do?
+#### Any other topics
+*
 
 
 ---
