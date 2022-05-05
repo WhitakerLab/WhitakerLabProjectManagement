@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 05 May 2022](#date-05-may-2022)
 * [Date: 27 April 2022](#date-27-april-2022)
 * [Date: 20 April 2022](#date-20-april-2022)
 * [Date: 14 April 2022](#date-14-april-2022)
@@ -17,6 +18,31 @@
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
 
+
+---
+
+### Date: 05 May 2022
+
+#### Who did you help over the past fortnight?
+* LTNs - case study for Public Engagement Group; help Dustin with user testing & developing website/script
+* Coordinating with Ruth & Meg's team to try to organise BigScience event at Turing
+* Connected Alden with Polly to help with Colouring Cities
+#### Who helped you over the past fortnight?
+* Anne provided really thoughtful comments for my OII submission
+* Amit and I have scheduled a first mentorship meeting - thoughts on what might be good topics (outside of individual growth goals) with him?
+#### What did you achieve?
+* Brought Dustin and Fernando to Collab Cafe to cowork - wrote an LTN tool summary 
+* Invite 
+#### What did you struggle with?
+* DyME project organisation - Gavin is never available, and I've starting to feel like his Turing-side PA
+#### What would you like to work on next week?
+* Bristol LTN chat with Chris Burr - UA + PP collab?
+* Huge week of UA meetings including an EDT Roundtable I'm co-organising with Dani
+* Onboarding meetings for Ruth to UA
+#### Where do you need help?
+* DyME project organisation
+#### Any other topics
+*
 
 ---
 
