@@ -2,11 +2,44 @@
 
 Georgia's biweekly meeting notes.
 
+* [11 May 2022](#date-11-may-2022)
 * [23 March 2022](#date-23-march-2022)
 * [09 March 2022](#date-09-march-2022)
 * [23 February 2022](#date-23-february-2022)
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
+
+### Date: 11 May 2022
+
+#### Who did you help this week?
+
+* Helped SB with onboarding (HackMD & sketch of AutSPACEs)
+
+### Who helped you this week?
+
+* SB helped rewrite an abstract for Autistica and start to strategise
+
+#### What did you achieve?
+
+* Submitted reworked abstract for Autistica Festival [#656](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/656)
+* Wrote a draft "finishing" report for Autistica [#652](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/652)
+* Co-working with SB and IS
+
+#### What did you struggle with?
+
+* Some organisational/strucutral stuff 
+
+#### Where do you need help from Arron? 
+
+* Ethics submissions
+* Planninig out timing and priorities
+* Performance review prep
+
+#### What would you like to work on next week?
+
+* Co-working with SB, IS, and SF (whiteboarding session)
+* Prep for Autistica vid/ITAKOM conf?
+* Putting together materials for Autistica report with AB and others 
 
 ### Date: 23 March 2022
 
