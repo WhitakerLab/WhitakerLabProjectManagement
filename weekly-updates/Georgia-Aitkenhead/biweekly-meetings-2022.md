@@ -15,31 +15,40 @@ Georgia's biweekly meeting notes.
 #### Who did you help this week?
 
 * Supported SB
+   * AL: Excellent - you seem to be making a great team!
 
 ### Who helped you this week?
 
 IS helped me review GitHub repos
+   * AL: good work!
 
 #### What did you achieve?
 
 * Created presentation for Autistica [#657](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/657)
+   * AL: presentation looks great and I'm sure it will go down really well at the Festival
 * Updated draft for "finishing" report for Autistica [#652](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/652)
+   * AL: Great work!
 * Coworking wiith SF and SB
+   * Well done on helping SF contribute as she's getting more and more involved 
 * Worked on repos/wrote new issues for repo refresh
+   * AL: Good luck and I hope everyone is helping eachother with this - old branches on forks can be a mountain to climb! 
 
 #### What did you struggle with?
 
 * Dependencies and timings
+   * AL: You're doing great - hopefully some of the ideas we talked about can help 🤞 
 
 #### Where do you need help from Arron? 
 
 * Performance review
+   * AL: I literally got an email from HR as I'm typing this confirming the line managment change on Cezanne. I'll follow up to find a time we cna go through this :) 
 
 #### What would you like to work on next week?
 
 * Get everything back to Ned for the Autistica report
 * Film video for Autistica fest
-* Performance review 
+   * AL: Good luck! 
+* Performance review  
 
 ### Date: 11 May 2022
 
