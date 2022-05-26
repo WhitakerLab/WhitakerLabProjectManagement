@@ -44,6 +44,7 @@
 * LTN training materials prep
 #### Where do you need help?
 * Understanding the line between asking permission vs. going for it re: HF collab
+* Debrief convo with dan
 #### Any other topics
 *
 
