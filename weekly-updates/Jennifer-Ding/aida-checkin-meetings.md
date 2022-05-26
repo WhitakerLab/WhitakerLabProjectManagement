@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 26 May 2022](#date-26-may-2022)
 * [Date: 05 May 2022](#date-05-may-2022)
 * [Date: 27 April 2022](#date-27-april-2022)
 * [Date: 20 April 2022](#date-20-april-2022)
@@ -18,6 +19,33 @@
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
 
+
+---
+
+### Date: 26 May 2022
+
+#### Who did you help over the past fortnight?
+* Built A/B street landing page! https://a-b-street.github.io/docs/landing_page/ 
+* Search for opportunities for eq's final year
+#### Who helped you over the past fortnight?
+* Lachlan from Quasir conversation 
+* Aida's encouragement to take on HF collab as a potential research project
+* Arielle/Aida with upcoming HF event with MM!
+#### What did you achieve?
+* Represented RAM DCE work to Partnerships team
+* Bringing together AI/PP/TPS for HF event https://hackmd.io/dyZ8tv5QSjKxu2h8-TPOlg?view
+* Inviting Prem to speak at TPS Coffee (Seals from Space)
+* Organising ASG Event Mapathon
+#### What did you struggle with?
+* Finding (making?) a path as a non-researcher to do a research project at the Turing
+#### What would you like to work on next week?
+* Start promoting HF Event
+* Bring PP + Malvika on board with HF Event/Potential Collab
+* LTN training materials prep
+#### Where do you need help?
+* Understanding the line between asking permission vs. going for it re: HF collab
+#### Any other topics
+*
 
 ---
 
