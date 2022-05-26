@@ -1,5 +1,13 @@
 # Check in meetings with Aida
 
+* [Date: 26 May 2022](#date-26-may-2022)
+* [Date: 05 May 2022](#date-05-may-2022)
+* [Date: 27 April 2022](#date-27-april-2022)
+* [Date: 20 April 2022](#date-20-april-2022)
+* [Date: 14 April 2022](#date-14-april-2022)
+* [Date: 6 April 2022](#date-6-april-2022)
+* [Date: 16 March 2022](#date-16-march-2022)
+* [Date: 10 March 2022](#date-10-march-2022)
 * [Date: 3 March 2022](#date-3-march-2022)
 * [Date: 24 February 2022](#date-24-february-2022)
 * [Date: 17 February 2022](#date-17-february-2022)
@@ -10,6 +18,221 @@
 * [Date: 2 December 2021](#date-2-december-2021)
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
+
+
+---
+
+### Date: 26 May 2022
+
+#### Who did you help over the past fortnight?
+* Built A/B street landing page! https://a-b-street.github.io/docs/landing_page/ 
+* Search for opportunities for eq's final year
+#### Who helped you over the past fortnight?
+* Lachlan from Quasir conversation 
+* Aida's encouragement to take on HF collab as a potential research project
+* Arielle/Aida with upcoming HF event with MM!
+#### What did you achieve?
+* Represented RAM DCE work to Partnerships team
+* Bringing together AI/PP/TPS for HF event https://hackmd.io/dyZ8tv5QSjKxu2h8-TPOlg?view
+* Inviting Prem to speak at TPS Coffee (Seals from Space)
+* Organising ASG Event Mapathon
+#### What did you struggle with?
+* Finding (making?) a path as a non-researcher to do a research project at the Turing
+#### What would you like to work on next week?
+* Start promoting HF Event
+* Bring PP + Malvika on board with HF Event/Potential Collab
+* LTN training materials prep
+#### Where do you need help?
+* Understanding the line between asking permission vs. going for it re: HF collab
+* Debrief convo with dan
+#### Any other topics
+*
+
+---
+
+### Date: 05 May 2022
+
+#### Who did you help over the past fortnight?
+* LTNs - case study for Public Engagement Group; help Dustin with user testing & developing website/script
+* Coordinating with Ruth & Meg's team to try to organise BigScience event at Turing
+* Connected Alden with Polly to help with Colouring Cities
+#### Who helped you over the past fortnight?
+* Anne provided really thoughtful comments for my OII submission
+* Amit and I have scheduled a first mentorship meeting - thoughts on what might be good topics (outside of individual growth goals) with him?
+#### What did you achieve?
+* Brought Dustin and Fernando to Collab Cafe to cowork - wrote an LTN tool summary 
+* Invite 
+#### What did you struggle with?
+* DyME project organisation - Gavin is never available, and I've starting to feel like his Turing-side PA
+#### What would you like to work on next week?
+* Bristol LTN chat with Chris Burr - UA + PP collab?
+* Huge week of UA meetings including an EDT Roundtable I'm co-organising with Dani
+* Onboarding meetings for Ruth to UA
+#### Where do you need help?
+* DyME project organisation
+#### Any other topics
+*
+
+---
+
+### Date: 27 April 2022
+
+#### Who did you help over the past fortnight?
+* Ruth - onboarding sessions & planning
+ * AM: DyME - Scaling Up & Interoperability
+* Dustin - pushing forward work on LTN consultation incl. championing it as a project for Public Engagement course 
+* Alden - contributed to Probation Review
+#### Who helped you over the past fortnight?
+* Scott, Aida, James for helping identify a possible collab path for eq with BAS!
+* Everyone who contributed to my Probation Review
+#### What did you achieve?
+* Scheduled TPS Coffee with Daniel (BL) + first email exchanges with Meg Mitchell (!) and BigScience team for a Turing event
+ * AM: Steering Committee for event - reach out to Malvika + Anne?
+ * AM: Ask Kate Wicks about Turing Lecture Series
+* Scheduled meeting with Lachlan (Quasir) during Book Dash Week
+#### What did you struggle with?
+* 
+#### What would you like to work on next week?
+* Onboarding Hari
+* EAB slides and presentation
+ * AM: Practice session before 5 May presentation
+* Meeting with LCAT team (the people actually doing DyME-CHH right now)
+* Next steps for eq (finding funding with Katy, Dobson ozone meeting with BAS)
+* Setting Fernando up for success re: DyME
+ * Work with Mark to inform S&R leads on the resource change
+#### Where do you need help?
+* OII Abstract Feedback - https://docs.google.com/document/d/1ixrQAkEsibc-wOXB_0_l02PdrF7QT7uYjyY3Dfrkdl4/edit
+* Should I be reaching out to Trina directly, or waiting to respond after you do?
+#### Any other topics
+*
+
+
+---
+
+### Date: 20 April 2022
+
+#### Who did you help over the past fortnight?
+* Dustin - progress on A/B streets landing page
+* Pranay - figuring out eq's final year
+* Fernando - figuring out how to bring him onto DyME
+* Polly - offering help for building Colouring Cities training materials + Mapathon
+#### Who helped you over the past fortnight?
+* Arielle - helping wade through the complexities of DyME-CHH
+* Hannah - convo about ASG resourcing
+#### What did you achieve?
+* Convo with Daniel (BL) about organising Meg Mitchell talk at Turing + trying to invite him to give a TPS Coffee Chat
+#### What did you struggle with?
+* So much meeting organisation for early May... also still the recurring challenge of getting in touch with Gavin
+#### What would you like to work on next week?
+* Public Engagement course (keeping upcoming training materials dev in mind)
+#### Where do you need help?
+* OII Abstract Feedback - https://docs.google.com/document/d/1ixrQAkEsibc-wOXB_0_l02PdrF7QT7uYjyY3Dfrkdl4/edit
+* Meeting with Partnerships about RAM upcoming workshops/commercialisation situation? (e.g. bring them/share new opps like Dustin's work with LTN, Colour Cities, feedback from eq workshops, the whole AQ/EQ situation with Dan)
+#### Any other topics
+*
+
+---
+
+### Date: 14 April 2022
+#### Who did you help over the past fortnight?
+* Dustin - LTN feedback, work plan for training development/landing page
+* Lawrence - Fleet Modelling glossy
+* Fernando - recreating ASPICS OpenGL error, resources on Turing blog post
+* UKRI AI review - outreach to AI founders to take the survey
+#### Who helped you over the past fortnight?
+* All of my probation review feedback providers!
+* Malvika for general advice, re: open collaboration/community development
+* Anne for brainstorming on Mapathon & TPS collaborations in general
+* Francesca for sharing her advice re: engaging policymakers from the start of a project
+* Andrew Duncan for starting the commercialisation convos
+#### What did you achieve?
+* See first bullet
+* 1:1 with Gavin Shaddick - Stakeholder Contact Info!!!!
+#### What did you struggle with?
+* Getting in contact with elusive DCE PIs
+#### What would you like to work on next week?
+* LTN training copy feedback/landing page
+* Meeting with Polly (Colouring Cities) on wider CC opportunities
+* Conversation with Pranay about commercialisation and connecting Pranay<>Lawrence
+* Attend first Turing Mentoring session 
+#### Where do you need help?
+* Putting together pieces for DyME-CHH project planning
+* How does one submit to a conference? (e.g. [this](https://pudding.cool/2021/10/lenna/) for [this](https://connectedlife.oii.ox.ac.uk/call-for-papers/), Globalisation of Data Flows)
+#### Any other topics
+* 
+
+---
+
+### Date: 06 April 2022
+
+#### Who did you help over the past fortnight?
+* Support equadratures workshop
+* DCE + UA Follow-ups (Francesca/Neave, Polly Hudson, Francesco/Andre, Lawrence, Pranay)
+* Reach out to startup founders and ethical AI academics for AI UK Infra survey (Shannon Vallor responded!)
+#### Who helped you over the past fortnight?
+* Fernando - helping actually push forward EDT + DyME work
+#### What did you achieve?
+* Create research note HackMDs for [Digital Twins](https://hackmd.io/4mLh4KBzSIqFdhS9YZkWSw?view) and [Open Source ](https://hackmd.io/Dj4bFeVtTwKCfeZ8o_1puA?view)
+* Applied for Aspiring Leadership Programme + Public Engagement Course
+* Reached out to Theo (RSS Sir David Attenborough), Omar Matar (Quasir), Fehmi Cirak (Stat-fem)
+* Assigned a mentor: Amit Mulji Head of the Office of the Director)
+#### What did you struggle with?
+* Cold e-mails to DCE folks (I think the RAM webpage might help when we have this?)
+#### What would you like to work on next week?
+* Prepare for a strong strategy meeting with Gavin Shaddick mid-week
+* Use Mapathon as a point to start conversations on map-based collaborations (with eye towards public engagement opportunities)
+* Create DCE Commercalisation workstream plan
+* Try to get in touch with Margaret Mitchell through her BL event next week
+#### Where do you need help?
+* How to think about supporting PIs pitching directly to Mark G (vs. within their ASG programme)?
+#### Any other topics
+* Next phase of EQ: governance/decision-making power, CIC, steering committee, funding postdoc (or PhD student); Minimum Viable Governance
+* UA DyME Codeathon (Hannah)
+* Entrepreneur/Designer-in residence
+
+
+### Date: 16 March 2022
+
+#### Who did you help over the past fortnight?
+* Helped facilitate part of the UA Digital Twins Session
+#### Who helped you over the past fortnight?
+* Events team with Hopin onboarding
+#### What did you achieve?
+* 
+#### What did you struggle with?
+* Preparing for panels
+* Figuring out how to prepare workshop presenters for Hopin
+#### What would you like to work on next week?
+* AI UK!
+* Prepare for Equadratures BAS + Warwick Workshops
+#### Where do you need help?
+* Balancing Warwick workshop with lab lunch
+#### Any other topics
+*
+
+---
+
+### Date: 10 March 2022
+#### Who did you help over the past fortnight?
+* Working with Warwick ULM for EQ workshop
+* Outreach to UA researchers
+#### Who helped you over the past fortnight?
+* Warwick ULM
+* Other RAMs with Lightning talk recordings
+* Kirstie with "email psychology 101" + Tech Nation rec later
+#### What did you achieve?
+* 1:1 scheduled with Gavin (see: previous point) for mid-April re: DyME-CHH strategy!
+* Lightning talk recordings!
+* Attended first UK AI Infra meeting with working group + partner
+#### What did you struggle with?
+* 
+#### What would you like to work on next week?
+* Final AI UK prep (Hopin dry-runs, speaker guidelines)
+#### Where do you need help?
+* Prep before US travel (missing the potential final checkin with Kirstie, ASG Impact Meeting)
+#### Any other topics
+* Future Turing Mapathon - Open Source Mapping/Map Data Day?
+<img width="676" alt="Screenshot 2022-03-10 at 10 04 35" src="https://user-images.githubusercontent.com/5104098/157642264-8c6b6afe-340f-41a6-a273-414bb3df7d7d.png">
 
 ---
 
@@ -232,6 +455,7 @@
 ### Template
 
 ### Date: DD MM 2022
+
 #### Who did you help over the past fortnight?
 *
 #### Who helped you over the past fortnight?
