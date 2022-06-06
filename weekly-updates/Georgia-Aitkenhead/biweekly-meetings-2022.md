@@ -33,7 +33,7 @@ Georgia's biweekly meeting notes.
 
 #### Where do you need help from Arron?
 
-* Planning and strategy 
+* Personal development plan 
 
 #### What would you like to work on next week?
 
