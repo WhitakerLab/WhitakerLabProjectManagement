@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [06 June 2022](#date-06-june-2022)
 * [25 May 2022](#date-25-may-2022)
 * [11 May 2022](#date-11-may-2022)
 * [23 March 2022](#date-23-march-2022)
@@ -9,6 +10,45 @@ Georgia's biweekly meeting notes.
 * [23 February 2022](#date-23-february-2022)
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
+
+### Date: 06 June 2022
+
+#### Who did you help this week?
+
+* Helped IKG by reviewing work on the history of research ethics
+  * AL - sound interesting and challenging! 
+
+#### Who helped you this week
+
+* SB and AL helped me fix a broken link [#666](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/666)
+  * AL: It was nothing really! 
+
+#### What did you achieve?
+
+* Completed performance review for Turing
+  * AL: You're doing great! 
+* Finished recording for Autistica Festival [#657](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/657)
+  * AL: Presentation looks great and good luck for the festival! 
+* Completed and sent finishing report for Autistica
+  * AL: Excellent and well done juggling all the deadlines! 
+
+#### What did you struggle with?
+
+* Elements of GitHub
+  * AL: It would be great for the community to organize what they are working on in advance to avoid merge conflicts etc.
+  * AL: But it's tough!   
+
+#### Where do you need help from Arron?
+
+* Personal development plan
+  * AL: I will check on Cezanne what we need to do - but PDRs are always good regardless.
+  * AL: Perhaps we could start of a HackMD - an ongoing PDP that you maintain is something that can keep you focussed  
+
+#### What would you like to work on next week?
+
+* Papers
+* Ethics submission
+  * AL: Hope the meeting goes well with CB - happy to take a look at it if you want?  
 
 ### Date: 25 May 2022
 
