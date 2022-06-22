@@ -40,6 +40,7 @@
 * Confusing role within DyME-CHH and (lately) Urban Analytics
 #### What would you like to work on next week?
 * Blog post on HF event
+* Strategy for "local authority" impact examples - DyME-CHH, LTN tool
 * Meeting with Turing Commons team / come up with plan for case studies a la TTW
 * Check in with Lawrence (interactive blog post) + Dom (book)
 #### Where do you need help?
