@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 22 June 2022](#date-22-june-2022)
 * [Date: 26 May 2022](#date-26-may-2022)
 * [Date: 05 May 2022](#date-05-may-2022)
 * [Date: 27 April 2022](#date-27-april-2022)
@@ -19,6 +20,32 @@
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
 
+
+---
+
+
+### Date: 22 June 2022
+
+#### Who did you help over the past fortnight?
+* LTN session with Dustin for Bristol local authority
+* AI Infrastructure Strategy Working Group feedback
+* Ruth presentation at Ordnance Survey 
+#### Who helped you over the past fortnight?
+* Aida, Arielle and everyone in TPS to make the Hugging Face event possible!
+#### What did you achieve?
+* Hugging Face event! https://www.turing.ac.uk/events/bigscience-philosophy-building-open-ai
+* Meeting with IDEO designers
+#### What did you struggle with?
+* Everything that happened with Equadratures
+* Confusing role within DyME-CHH and (lately) Urban Analytics
+#### What would you like to work on next week?
+* Blog post on HF event
+* Meeting with Turing Commons team / come up with plan for case studies a la TTW
+* Check in with Lawrence (interactive blog post) + Dom (book)
+#### Where do you need help?
+* Travel booking on Gray Dawes...
+#### Any other topics
+*
 
 ---
 
