@@ -21,33 +21,46 @@ Georgia's biweekly meeting notes.
 #### Who helped you this week
 
 * IS helped me with GitHub
+ * AL: awesome!  
 * AL helped with development plan
+ * AL: enjoy the course!
 * AB helped with funding procedures
+ * AL: AB to the rescue! 
 * CB helped with ethics submission
+ * AL: Excellent! 
 
 #### What did you achieve?
 
-* Made and reviewed some PRs for a repo refresh 
+* Made and reviewed some PRs for a repo refresh
+ * AL: I bet that felt good!  
 * Completed a draft for the ethics submission to The Turing [#660](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues/660)
+ * AL: great work 
 * Started working on funding request
+ * AL: hope you get a great person in the role! 
 * Started neuroscience course 😺 
+ * AL: glad you are enjoying! 
 
 #### What did you struggle with?
 
 * Interdependencies
+ * AL: gamify little tasks, document process 
 * I think I have been a little insular and would like to enage with the lab/Turing more
-* Didn't make progress on papers  
+ * AL: More credit needed on your behalf! 
+* Didn't make progress on papers
+ * AL: Diet coke and halloumi fries retreat :)    
 
 #### Where do you need help from Arron?
 
 * Reviewing the ethics submission would be awesome!
+ * AL: Thanks Georgia will get back to you before the end of the week. 
 
 #### What would you like to work on next week?
 
 * Finalise and submit ethics application
 * More GitHub repo work
 * Make progress on paying contributors processe
-* Organise volunteering leave with JS 
+* Organise volunteering leave with JS
+ * AL: I hope you both have a very productive week!  
 
 ### Date: 06 June 2022
 
