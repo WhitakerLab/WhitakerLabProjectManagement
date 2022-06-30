@@ -1,8 +1,45 @@
 # Check-in meetings with Aida
 
+* [Date: 30 June 2022](#date-30-june-2022)
 * [Date: 11 April 2022](#date-11-april-2022)
 * [Date: 15 November 2021](#date-15-november-2021)
 * [Date: 9 November 2021](#date-9-november-2021)
+
+
+
+### Date: [30 June, 2022]
+
+#### Who did you help this week?
+
+I'm trying to help Anna and Alisha with the ONS project but it's a tough one
+
+#### Who helped you this week?
+
+The IceNet team helped with ideas for the proposal to help us finish writing one of the work packages
+
+#### What did you achieve?
+
+* Attended ONS meeting and worked with Anna and Alisha to understand the challenges
+* Added to / re-worded the IceNet proposal
+* Talked to Zoe Kourtzi about SPARRA, possible impact story
+* Follow-up invites and enorolling people in ExplAIn workshop
+
+#### What did you struggle with?
+
+* The ONS project is a mess
+
+#### What would you like to work on next week?
+
+* ExplAIn SME workshop will take place, find participants for the last two
+* ONS workshop part 2 - try to come away with useful next step
+
+#### Where do you need help from Aida?
+
+* IceNet proposal
+
+#### Any other topics
+
+This space is yours to add to as needed.
 
 ### Date: [11 April 2022]
 
