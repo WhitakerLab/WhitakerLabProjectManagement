@@ -1,5 +1,6 @@
 # Check in meetings with Aida
 
+* [Date: 30 June 2022](#date-30-june-2022)
 * [Date: 22 June 2022](#date-22-june-2022)
 * [Date: 26 May 2022](#date-26-may-2022)
 * [Date: 05 May 2022](#date-05-may-2022)
@@ -22,6 +23,33 @@
 
 
 ---
+
+### Date: 30 June 2022
+
+#### Who did you help over the past fortnight?
+* Zainab on some ASG event planning
+#### Who helped you over the past fortnight?
+* Aida & Anne for carrying lab meeting when I was at Stansted!
+* Aida & Arielle for convos on "what next" after BigScience event
+* Andrew on a huge download of DCE info/strategy
+#### What did you achieve?
+* Submission for [MozFest Trustworthy AI Working Group](https://www.mozillafestival.org/en/working-groups/lead-a-working-group-project/) with Anne - focus on community-centred AI development
+* Contributing to a review of the Mitigating bias in AI working group
+* Feedback on final paper for UKRI on AI Research Infra 
+#### What did you struggle with?
+* Understanding BigScience next steps (for now I'm trying to get out the blog post, joining their working group)
+* What to do about IDEO
+#### What would you like to work on next week?
+* Schedule meetings with Lawrence, Dom, Pranay, Rebecca (Growing Underground) for late July
+* ASG Mapathon planning/execution
+* Scoping for DyME-CHH next steps + plan for LCAT trip
+* Turing Commons (Clau) @ Turing Way Collab Cafe
+* OLS application
+#### Where do you need help?
+* Questions about TRIC:DTs + Model Interoperability
+* Questions about PhD
+#### Any other topics
+* Attended ODI event on Tues
 
 
 ### Date: 22 June 2022
