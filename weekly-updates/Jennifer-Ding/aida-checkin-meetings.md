@@ -45,6 +45,7 @@
 * Scoping for DyME-CHH next steps + plan for LCAT trip
 * Turing Commons (Clau) @ Turing Way Collab Cafe
 * OLS application
+* AM: Contact Data Wrangler about Big Team Science symposia
 #### Where do you need help?
 * Questions about TRIC:DTs + Model Interoperability
 * Questions about PhD
