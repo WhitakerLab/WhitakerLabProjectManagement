@@ -27,11 +27,11 @@
 ### Date: 30 June 2022
 
 #### Who did you help over the past fortnight?
-* Zainab on some ASG event planning
+* ZI on some ASG event planning
 #### Who helped you over the past fortnight?
-* Aida & Anne for carrying lab meeting when I was at Stansted!
-* Aida & Arielle for convos on "what next" after BigScience event
-* Andrew on a huge download of DCE info/strategy
+* AM & ALS for carrying lab meeting when I was at Stansted!
+* AM & AB for convos on "what next" after BigScience event
+* AD on a huge download of DCE info/strategy
 #### What did you achieve?
 * Submission for [MozFest Trustworthy AI Working Group](https://www.mozillafestival.org/en/working-groups/lead-a-working-group-project/) with Anne - focus on community-centred AI development
 * Contributing to a review of the Mitigating bias in AI class
