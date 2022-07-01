@@ -11,18 +11,21 @@
 
 #### Who did you help this week?
 
-I'm trying to help Anna and Alisha with the ONS project but it's a tough one
+I'm trying to help A and AD with the ONS project but it's a tough one
 
 #### Who helped you this week?
 
 The IceNet team helped with ideas for the proposal to help us finish writing one of the work packages
+  - [AM] So excited about this work!! 
 
 #### What did you achieve?
 
-* Attended ONS meeting and worked with Anna and Alisha to understand the challenges
+* Attended ONS meeting and worked with A and AD to understand the challenges
 * Added to / re-worded the IceNet proposal
-* Talked to Zoe Kourtzi about SPARRA, possible impact story
+* Talked to ZK about SPARRA, possible impact story
+  * [AM] Well done on identifying this story - what a shame if it were missed out. 
 * Follow-up invites and enorolling people in ExplAIn workshop
+  * [AM] Excited to see how this all goes - sounds like there are a lot of stakeholders to interact with. 
 
 #### What did you struggle with?
 
@@ -36,6 +39,7 @@ The IceNet team helped with ideas for the proposal to help us finish writing one
 #### Where do you need help from Aida?
 
 * IceNet proposal
+  * [AM] Thanks for sharing this, I really look forward to helping out!
 
 #### Any other topics
 
