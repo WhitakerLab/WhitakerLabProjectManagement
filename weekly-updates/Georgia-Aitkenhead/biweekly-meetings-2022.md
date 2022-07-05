@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [06 July 2022](#date-06-july-2022)
 * [23 June 2022](#date-23-june-2022)
 * [06 June 2022](#date-06-june-2022)
 * [25 May 2022](#date-25-may-2022)
@@ -11,6 +12,39 @@ Georgia's biweekly meeting notes.
 * [23 February 2022](#date-23-february-2022)
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
+
+### Date: 06 July 2022
+
+#### Who did you help this week?
+
+* Helped some fellow students with neuroscience course
+
+#### Who helped you this week
+
+* Lab helped me think about different communication channels
+* MB and NR helped me with elements of Autistica festival 
+
+#### What did you achieve?
+
+* Got funding for design work confirmed by Autistic and job description, timeline and application questions finalised. 
+* Completed updated supporting documents for ethics submission and made some revisions based on recommendations from reviewers
+* Completed coursework on the nearnst potential
+
+#### What did you struggle with?
+
+* Some things still feel blocked
+* Sustained focus 
+
+#### Where do you need help from Arron?
+
+* Straetgies 
+
+#### What would you like to work on next week?
+
+* Quarterly updates for TPS
+* GitHub
+* Autistica Festival
+* Neuroscience course
 
 ### Date: 23 June 2022
 
@@ -58,7 +92,7 @@ Georgia's biweekly meeting notes.
 
 * Finalise and submit ethics application
 * More GitHub repo work
-* Make progress on paying contributors processe
+* Make progress on paying contributors processes
 * Organise volunteering leave with JS
  * AL: I hope you both have a very productive week!  
 
