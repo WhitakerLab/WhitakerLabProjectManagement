@@ -18,33 +18,46 @@ Georgia's biweekly meeting notes.
 #### Who did you help this week?
 
 * Helped some fellow students with neuroscience course
+ * AL: excellent glad you're enjoying!
 
 #### Who helped you this week
 
 * Lab helped me think about different communication channels
 * MB and NR helped me with elements of Autistica festival 
+ * AL: great that you're considering your fellow panel members
 
 #### What did you achieve?
 
 * Got funding for design work confirmed by Autistic and job description, timeline and application questions finalised. 
+ * AL: this is really important in supporting the community - glad you pushed through.
 * Completed updated supporting documents for ethics submission and made some revisions based on recommendations from reviewers
+ * AL: excellent - it read very well, fingers crossed 🤞
 * Completed coursework on the nearnst potential
+ * AL: looking forward to the talk! 
 
 #### What did you struggle with?
 
 * Some things still feel blocked
-* Sustained focus 
+ * AL: w/ finance for AutSPACES - could AB help? 
+ * I'm happy to look at the paper as well if you like ✂️
+ * Could you start a GitHub Gardening Co-working group? 🌻
+* Sustained focus
+ * AL: I'd be very supportive of doing a condensed hours work week trial - it definately helps me focus.
 
 #### Where do you need help from Arron?
 
-* Straetgies 
+* Strategies
 
 #### What would you like to work on next week?
 
 * Quarterly updates for TPS
+ * thanks for reminding me!
 * GitHub
+ * maybe some co-working sessions might help?
 * Autistica Festival
+ * hope you enjoy!
 * Neuroscience course
+ * ⚡️🧠⚡️
 
 ### Date: 23 June 2022
 
