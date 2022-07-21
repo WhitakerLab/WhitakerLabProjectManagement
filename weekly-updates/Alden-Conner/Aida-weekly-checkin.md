@@ -1,11 +1,47 @@
 # Check-in meetings with Aida
 
+* [Date: 21 July 2022](#date-21-july-2022)
 * [Date: 30 June 2022](#date-30-june-2022)
 * [Date: 11 April 2022](#date-11-april-2022)
 * [Date: 15 November 2021](#date-15-november-2021)
 * [Date: 9 November 2021](#date-9-november-2021)
 
+### Date: [21 July, 2022]
 
+#### Who did you help this week?
+
+helped the RAM team with abstract submission
+
+#### Who helped you this week?
+
+RAM team collaboratively worked on abstracts, partnerships team helped us think about how to work with OpenUK
+
+#### What did you achieve?
+
+* chaired IceNet working group
+* gave UWE Bristol talk
+* contributed to IceNet proposal
+* explAIn workshops and follow-up
+
+#### What did you struggle with?
+
+* the heat!
+* how to help with comms, feels like everything is going in a circle (eg email about Colouring Cities)
+
+#### What would you like to work on next week?
+
+* S&R project
+* SPARRA document
+* OpenUK discussion
+
+#### Where do you need help from Aida?
+
+* S&R plan
+* comms
+
+#### Any other topics
+
+* ideas for 50% funding?
 
 ### Date: [30 June, 2022]
 
