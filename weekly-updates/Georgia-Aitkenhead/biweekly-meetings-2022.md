@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [05 August 2022](#date-05-august-2022)
 * [06 July 2022](#date-06-july-2022)
 * [23 June 2022](#date-23-june-2022)
 * [06 June 2022](#date-06-june-2022)
@@ -12,6 +13,40 @@ Georgia's biweekly meeting notes.
 * [23 February 2022](#date-23-february-2022)
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
+
+### Date: 05 August 2022
+
+#### Who did you help this week?
+
+* Helped some fellow neuroscience learners with coursework 
+
+#### Who helped you this week
+
+* SF helped me with ideas for moderation via. GitHUB 💚 :octocat:
+* KR helped with expenses claim 
+
+#### What did you achieve?
+
+* Work on moderation paper 
+* Some community management strategising
+* Caught up on emails after holiday break
+* Linked up with CDEI
+* Joined NASA Open Science Initiative discussion
+* Completed neuroscience coursework on passive membrane properties
+
+#### What did you struggle with?
+
+* Details! I tend to want to rocket through coursework when I understand the principles but need to spend time focussing on the details
+
+#### Where do you need help from Arron?
+
+* Linking with other work
+
+#### What would you like to work on next week?
+
+* More updates due for Autistica!
+* Moderation paper 
+* Community management planning/roadmap
 
 ### Date: 06 July 2022
 
