@@ -19,20 +19,27 @@ Georgia's biweekly meeting notes.
 #### Who did you help this week?
 
 * Helped some fellow neuroscience learners with coursework 
+ * AL: glad you're enjoying!   
 
 #### Who helped you this week
 
 * SF helped me with ideas for moderation via. GitHUB 💚 :octocat:
-* KR helped with expenses claim 
+ * AL: great stuff that SF is enjoying GitHub! 
+ * AL: Shall we put in a role for her at the Turing?
+* KR helped with expenses claim
+ * AL : I'll follow up with Khanisa  
 
 #### What did you achieve?
 
-* Work on moderation paper 
+* Work on moderation paper
 * Some community management strategising
 * Caught up on emails after holiday break
 * Linked up with CDEI
+ * AL: that sounds awesome! yes definately invite them to the Turing TPS seminar / Whitaker Lab meeting 
 * Joined NASA Open Science Initiative discussion
+ * AL: thanks for repping TTW!  
 * Completed neuroscience coursework on passive membrane properties
+ * AL: great work! let's enrol you on part 2 and 3! 
 
 #### What did you struggle with?
 
@@ -41,12 +48,14 @@ Georgia's biweekly meeting notes.
 #### Where do you need help from Arron?
 
 * Linking with other work
+ * AL: perhaps a workshop might be good? 
 
 #### What would you like to work on next week?
 
 * More updates due for Autistica!
 * Moderation paper 
 * Community management planning/roadmap
+ * AL: co-working session with SB and I next week? 
 
 ### Date: 06 July 2022
 
