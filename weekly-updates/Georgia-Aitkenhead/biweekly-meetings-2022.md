@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [01 September 2022](#date-01-september-2022)
 * [17 August 2022](#date-17-august-2022)
 * [05 August 2022](#date-05-august-2022)
 * [06 July 2022](#date-06-july-2022)
@@ -14,6 +15,38 @@ Georgia's biweekly meeting notes.
 * [23 February 2022](#date-23-february-2022)
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
+
+### Date:01 September 2022
+
+#### Who did you help this week?
+
+* Helped JS with some diagrams/graphs
+
+#### Who helped you this week?
+
+* IS solved some docker problems for deploying platform on an M1 card.
+
+#### What did you achieve?
+
+* DPAP forms completed
+* Amended ethics form
+* Co-working with MS on funding
+* Co-working with SB and IS on repoo
+
+#### What did you struggle with?
+
+* Ethics is becoming complex and Google Docs is being sloow!!
+
+#### Where do you need help from Arron?
+
+* Ethics
+
+#### What would you like to work on next week?
+
+* Essential priotity to submit ethics form and DPAP
+* Prep for workshop on the 26th
+* Prep for JS volunteering leave
+* Send MS and AB draft JD
 
 ### Date:17 August 2022
 
