@@ -21,25 +21,34 @@ Georgia's biweekly meeting notes.
 #### Who did you help this week?
 
 * Helped JS with some diagrams/graphs
+ * AL: have fun with tikz!
 
 #### Who helped you this week?
 
 * IS solved some docker problems for deploying platform on an M1 card.
+ * AL: excellent - M1 is such a pain sometimes!
 
 #### What did you achieve?
 
 * DPAP forms completed
+ * AL: Amazing work - forms are the worst! 
 * Amended ethics form
+ * AL: Thanks for this - it's getting closer to you being able to sign off when you are happy with it
 * Co-working with MS on funding
-* Co-working with SB and IS on repoo
+ * AL: so glad this is being supported by MS and AB!
+* Co-working with SB and IS on repo
+ * AL: Good to start thinking about merging the repos so project managmenet in in the AutSPACES repo. 
+       If pressed for time, I would consider prioritising the REG-database work if possible.
 
 #### What did you struggle with?
 
 * Ethics is becoming complex and Google Docs is being sloow!!
+ * AL: hopefully fixed with SB providing edit access
 
 #### Where do you need help from Arron?
 
 * Ethics
+ * AL: Happy to work on final review next week if we are there
 
 #### What would you like to work on next week?
 
@@ -47,6 +56,8 @@ Georgia's biweekly meeting notes.
 * Prep for workshop on the 26th
 * Prep for JS volunteering leave
 * Send MS and AB draft JD
+
+AL comments: Excellent work Georgia! Let me know if you need any help at all, co-working sessions etc. Let's try and map out database work for when REG are ready in October/November. We should try an estimate how much effort is needed and if you, SB (and IS?) have enough time to do it for October/November - if more time is needed then that's absolutely fine - just need to communicate with REG in advance so a new proposed timeline suits everyone.
 
 ### Date:17 August 2022
 
