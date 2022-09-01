@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [17 August 2022](#date-17-august-2022)
 * [05 August 2022](#date-05-august-2022)
 * [06 July 2022](#date-06-july-2022)
 * [23 June 2022](#date-23-june-2022)
@@ -14,6 +15,44 @@ Georgia's biweekly meeting notes.
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
 
+### Date:17 August 2022
+
+#### Who did you help this week?
+
+* Helped MS and AB by reviewing funding submission 
+ * AL: Thanks Georgia!
+
+#### Who helped you this week?
+
+* IS helped me with repo work
+ * AL: excellent!
+
+#### What did you achieve?
+
+* Ethics co-working with SB
+ * This does need to be submitted, REAG will give god feedback. Ask SB to submit changes by a certain date if needs be due to REAG lead time (6 weeks)
+* Repo co-working with IS and SB
+* Repo structuring and mapping
+* TOPS community call 
+ * AL: sounds brill!
+* Neuroscience course progress (complete apart from final test)
+ * AL: I'm sure you'll smash it! 💪
+
+#### What did you struggle with?
+
+* Feeling a little blocked again
+ * AL: Hopefully we have a plan in place for the ethics submission
+
+#### Where do you need help from Arron?
+
+* How to move things forwards
+
+#### What would you like to work on next week?
+
+* Complete repo deep dive
+* Submit ethics application 
+ * AL: Draft up JD for lived experience role
+
 ### Date: 05 August 2022
 
 #### Who did you help this week?
@@ -21,7 +60,7 @@ Georgia's biweekly meeting notes.
 * Helped some fellow neuroscience learners with coursework 
  * AL: glad you're enjoying!   
 
-#### Who helped you this week
+#### Who helped you this week? 
 
 * SF helped me with ideas for moderation via. GitHUB 💚 :octocat:
  * AL: great stuff that SF is enjoying GitHub! 
