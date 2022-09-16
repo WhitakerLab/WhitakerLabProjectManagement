@@ -12,16 +12,19 @@
 #### Who did you help this week?
 
 RAM team with retreat planning and all-important lunch reservations
+- [AM] Thank you! Looking forward to the retreat next week!! :sparkles:
 
 #### Who helped you this week?
 
 TTW working group coming together! AIM RSF talk (Meag) got me thinking about UI/UX
+- [AM] We'll get to build out some UX/UI capacity, I am sure. Great to keep thinking about best approaches.
 
 #### What did you achieve?
 
 * started trainers & mentors working group for TTW
 * reviewed Kat's code
 * reviewed white paper
+- [AM] I am really excited about the labour market project!
 
 #### What did you struggle with?
 
@@ -38,6 +41,7 @@ TTW working group coming together! AIM RSF talk (Meag) got me thinking about UI/
 #### Any other topics
 
 RSE course in November?
+- [AM] Yep!
 
 
 ### Date: [21 July, 2022]
