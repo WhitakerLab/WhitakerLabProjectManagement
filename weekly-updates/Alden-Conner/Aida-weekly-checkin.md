@@ -1,10 +1,48 @@
 # Check-in meetings with Aida
 
+* [Date: 16 September 2022](#date-21-july-2022)
 * [Date: 21 July 2022](#date-21-july-2022)
 * [Date: 30 June 2022](#date-30-june-2022)
 * [Date: 11 April 2022](#date-11-april-2022)
 * [Date: 15 November 2021](#date-15-november-2021)
 * [Date: 9 November 2021](#date-9-november-2021)
+
+### Date: [16 September 2022]
+
+#### Who did you help this week?
+
+RAM team with retreat planning and all-important lunch reservations
+- [AM] Thank you! Looking forward to the retreat next week!! :sparkles:
+
+#### Who helped you this week?
+
+TTW working group coming together! AIM RSF talk (Meag) got me thinking about UI/UX
+- [AM] We'll get to build out some UX/UI capacity, I am sure. Great to keep thinking about best approaches.
+
+#### What did you achieve?
+
+* started trainers & mentors working group for TTW
+* reviewed Kat's code
+* reviewed white paper
+- [AM] I am really excited about the labour market project!
+
+#### What did you struggle with?
+
+* most projects are quiet
+
+#### What would you like to work on next week?
+
+* would like to learn more about the molecular biology work and hopefully connect with the team
+
+#### Where do you need help from Aida?
+
+* molecular biology group intros
+
+#### Any other topics
+
+RSE course in November?
+- [AM] Yep!
+
 
 ### Date: [21 July, 2022]
 
@@ -42,6 +80,8 @@ RAM team collaboratively worked on abstracts, partnerships team helped us think 
 #### Any other topics
 
 * ideas for 50% funding?
+
+
 
 ### Date: [30 June, 2022]
 
