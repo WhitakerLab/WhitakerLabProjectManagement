@@ -3,7 +3,7 @@
 ### Date: 22 September 2022
 
 #### Who did you help this week?
-
+* 
 
 #### Who helped you this week?
 
