@@ -2,6 +2,36 @@
 
 * [24/5/22](#date-24-may-2022)
 * [30/6/22](#date-30-june-2022)
+* [15/9/22](#date-15-september-2022)
+
+### Date: 15 September 2022
+
+#### Who did you help this week?
+* CarpentriesCon workshop
+* AIM RSF Workshop
+* TRE event at RSE Con collab with Dundee 
+* LTN Bristol workshop preparation
+* EDoN folk
+
+#### Who helped you this week?
+* So many people!!
+* Lots of help from Whitaker Lab on community management (SB, AB, SG, VH), event management (AR, VH), communicating DSH for wider audience (all), more...
+* OLS mentor!
+
+#### What did you achieve?
+* TRE event at RSE Con (and community to come)
+* DSPT certification - and open sourcing?
+* Clarity on EDoN project
+* Set up of TTW workstream for reviewers/editors
+
+#### What did you struggle with?
+* Role scope creep - PM, CM, RAM...
+* Personal chaos
+
+#### What would you like to work on next week?
+* Community management/open source project management research!!
+* Strategising with now wider DSH team
+* Formalising internal process for deploying DSH + docssssss
 
 ### Date: 30 June 2022
 
