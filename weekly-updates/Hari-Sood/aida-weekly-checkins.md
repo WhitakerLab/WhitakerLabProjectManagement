@@ -2,6 +2,41 @@
 
 * [24/5/22](#date-24-may-2022)
 * [30/6/22](#date-30-june-2022)
+* [29/9/22](#date-29-september-2022)
+
+### Date: 29 Sept 2022
+
+#### Who did you help this week?
+* Connections workshop panel
+* RAM retreat
+* TTW review and editors team
+  - [AM] Really appreciated you being so proactive during the retreat and taking the lead on organising some structure for our sessions!
+  
+#### Who helped you this week?
+* JR - lots of help with understanding Sphinx for documentation purposes
+* RAMs - feedback on Connections presentation
+* EC - General great and engaged voice with DSH work
+
+#### What did you achieve?
+* Should be submitting DSPT today :rocket: #Finally
+* Scoping of TRE IGWG session for later in Oct
+* Engaged with DCMS - would be good to engage more
+* Setting up EDoN & writing docs for deploying TRE at Turing!
+* Restructuring DSH catch-ups to be more active with team
+* Feedback on content for RSECon event - need to share with wider community!
+- [AM] It's such a massive milestone you may be a moments away!! So excited about seeing the cutting of that ribbon on open-sourced DSH! 
+
+#### What did you struggle with?
+* My body is tired 🙈
+
+
+#### What would you like to work on next week?
+* Actually write the docs properly - takes aaaaaaages
+* Engage more on actions from RSE Con
+* Become more RAM-y...
+* (Personal) sort living 😅
+* (Personal) Engage in UBI stuff
+
 
 ### Date: 30 June 2022
 
