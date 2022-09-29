@@ -10,7 +10,8 @@
 * Connections workshop panel
 * RAM retreat
 * TTW review and editors team
-
+  - [AM] Really appreciated you being so proactive during the retreat and taking the lead on organising some structure for our sessions!
+  
 #### Who helped you this week?
 * JR - lots of help with understanding Sphinx for documentation purposes
 * RAMs - feedback on Connections presentation
@@ -23,9 +24,11 @@
 * Setting up EDoN & writing docs for deploying TRE at Turing!
 * Restructuring DSH catch-ups to be more active with team
 * Feedback on content for RSECon event - need to share with wider community!
+- [AM] It's such a massive milestone you may be a moments away!! So excited about seeing the cutting of that ribbon on open-sourced DSH! 
 
 #### What did you struggle with?
 * My body is tired 🙈
+
 
 #### What would you like to work on next week?
 * Actually write the docs properly - takes aaaaaaages
