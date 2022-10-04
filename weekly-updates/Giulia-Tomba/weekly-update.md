@@ -13,7 +13,7 @@
 #### What did you struggle with?
 
 
-#### Where do you need help from Kirstie?
+#### Where do you need help from Arron?
 
 
 #### What would you like to work on next week?
