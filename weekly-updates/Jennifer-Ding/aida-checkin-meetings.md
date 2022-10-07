@@ -1,5 +1,7 @@
 # Check in meetings with Aida
 
+* [Date: 30 June 2022](#date-30-june-2022)
+* [Date: 22 June 2022](#date-22-june-2022)
 * [Date: 26 May 2022](#date-26-may-2022)
 * [Date: 05 May 2022](#date-05-may-2022)
 * [Date: 27 April 2022](#date-27-april-2022)
@@ -19,6 +21,65 @@
 * [Date: 25 November 2021](#date-25-november-2021)
 * [Date: 18 November 2021](#date-18-november-2021)
 
+
+---
+
+### Date: 30 June 2022
+
+#### Who did you help over the past fortnight?
+* ZI on some ASG event planning
+#### Who helped you over the past fortnight?
+* AM & ALS for carrying lab meeting when I was at Stansted!
+* AM & AB for convos on "what next" after BigScience event
+* AD on a huge download of DCE info/strategy
+#### What did you achieve?
+* Submission for [MozFest Trustworthy AI Working Group](https://www.mozillafestival.org/en/working-groups/lead-a-working-group-project/) with Anne - focus on community-centred AI development
+* Contributing to a review of the Mitigating bias in AI class
+* Feedback on final paper for UKRI on AI Research Infra 
+#### What did you struggle with?
+* Understanding BigScience next steps (for now I'm trying to get out the blog post, joining their working group)
+* What to do about IDEO (draft e-mail response with Aida/Arielle - in touch by ___)
+#### What would you like to work on next week?
+* Schedule meetings with DCE folks (Growing Underground) for late July
+* ASG Mapathon planning/execution 
+* Scoping for DyME-CHH next steps + plan for LCAT trip
+* Turing Commons @ Turing Way Collab Cafe
+* OLS application
+* AM: AM to schedule meeting with V team (legal)
+* AM: JD to get in touch with T&V (DPO)
+* AM: Schedule RAM + Events meeting
+* AM: Contact Data Wrangler about Big Team Science symposia
+* AM: Ping MB/GS to schedule impact meeting for late July/early Aug (try to avoid 19 July)
+#### Where do you need help?
+* Questions about TRIC:DTs + Model Interoperability
+* Questions about PhD
+#### Any other topics
+* Attended ODI event on Tues
+
+
+### Date: 22 June 2022
+
+#### Who did you help over the past fortnight?
+* LTN session with Dustin for Bristol local authority
+* AI Infrastructure Strategy Working Group feedback
+* Ruth presentation at Ordnance Survey 
+#### Who helped you over the past fortnight?
+* Aida, Arielle and everyone in TPS to make the Hugging Face event possible!
+#### What did you achieve?
+* Hugging Face event! https://www.turing.ac.uk/events/bigscience-philosophy-building-open-ai
+* Meeting with IDEO designers
+#### What did you struggle with?
+* Everything that happened with Equadratures
+* Confusing role within DyME-CHH and (lately) Urban Analytics
+#### What would you like to work on next week?
+* Blog post on HF event
+* Strategy for "local authority" impact examples - DyME-CHH, LTN tool
+* Meeting with Turing Commons team / come up with plan for case studies a la TTW
+* Check in with Lawrence (interactive blog post) + Dom (book)
+#### Where do you need help?
+* Travel booking on Gray Dawes...
+#### Any other topics
+*
 
 ---
 
