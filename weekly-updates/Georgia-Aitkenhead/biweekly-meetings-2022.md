@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [12 October 2022](#date-12-october-2022)
 * [01 September 2022](#date-01-september-2022)
 * [17 August 2022](#date-17-august-2022)
 * [05 August 2022](#date-05-august-2022)
@@ -15,6 +16,65 @@ Georgia's biweekly meeting notes.
 * [23 February 2022](#date-23-february-2022)
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
+
+### Date: 12 October 2022
+
+#### Who did you help this week?
+
+* Helped JS with volunteering leave
+  * AL: lovely chap! Will be great if we can be more involved him as he has great experience.
+* Helped SF get paper access
+  * AL: excellent thanks - Turing should step in...
+
+#### Who helped you this week?
+
+* EK helped me think of open journal options
+  * AL: good stuff - more than happy to ahve a read if you think that would be helpful
+* MS helped plan repo merge
+  * AL: sounds daunting but glad MS is on hand to help
+* RT sent a related paper
+  * AL: excellent
+
+#### What did you achieve?
+
+* Co-working with IS on repo
+  * AL: IS has been so helpful - lucky we have her time.
+* Co-working with JS on Turing Chapter
+  * AL: looking forward to reading this!
+* Co-working with JS and SF on moderation paper/set up group Zenodo
+  * AL: good to have a repository like this.
+* Planning with ALS on TTW Fireside chat
+  * AL: looking forward to this!
+* Transferred all issues into AutSPACEs repo and made project boards
+  * AL: glad to see this is coming on well.
+* Met with the new REG team
+  * AL:perhaps we could get some views from them on data management? good to have them onboard.
+* Presentation for AIM-RSF
+  * AL: excellent!
+* Applied for the SSI fellowship
+  * AL: fingers crossed for you 🤞 
+
+#### What did you struggle with?
+
+* Keeping up energy levels
+  * AL: take your time - health comes first!
+
+#### Where do you need help from Arron?
+
+* Planning/advice for TTW fireside chat and new team 
+  * AL: exciting having REG with us and that they will meet the participants. 
+        Good to have views of the participants for the fireside chat. 
+
+#### What would you like to work on next week?
+
+* Ethics submission (submit tomorrow!)
+ * AL: exciting! 
+* Co-working with JS and SF
+  * AL: make sure you have a nice lunch tomorroW!
+* More repo work
+  * AL: keep at it!
+* Structuring workflow with REG team 
+  * AL: really good to to be planning strategy with them
 
 ### Date:01 September 2022
 
