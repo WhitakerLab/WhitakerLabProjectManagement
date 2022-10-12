@@ -34,11 +34,12 @@ Georgia's biweekly meeting notes.
 
 * Co-working with IS on repo
 * Co-working with JS on Turing Chapter
+* Co-working with JS and SF on moderation paper/set up group Zenodo
 * Planning with ALS on TTW Fireside chat
 * Transferred all issues into AutSPACEs repo and made project boards
 * Met with the new REG team
 * Presentation for AIM-RSF
-* Applied for the SSI fellowship 
+* Applied for the SSI fellowship
 
 #### What did you struggle with?
 
