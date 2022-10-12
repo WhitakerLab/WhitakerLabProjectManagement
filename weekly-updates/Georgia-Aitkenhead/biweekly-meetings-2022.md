@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [12 October 2022](#date-12-october-2022)
 * [01 September 2022](#date-01-september-2022)
 * [17 August 2022](#date-17-august-2022)
 * [05 August 2022](#date-05-august-2022)
@@ -15,6 +16,44 @@ Georgia's biweekly meeting notes.
 * [23 February 2022](#date-23-february-2022)
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
+
+### Date: 12 October 2022
+
+#### Who did you help this week?
+
+* Helped JS with volunteering leave
+* Helped SF get paper access
+
+#### Who helped you this week?
+
+* EK helped me think of open journal options
+* MS helped plan repo merge
+* RT sent a related paper
+
+#### What did you achieve?
+
+* Co-working with IS on repo
+* Co-working with JS on Turing Chapter
+* Planning with ALS on TTW Fireside chat
+* Transferred all issues into AutSPACEs repo and made project boards
+* Met with the new REG team
+* Presentation for AIM-RSF
+* Applied for the SSI fellowship 
+
+#### What did you struggle with?
+
+* Keeping up energy levels
+
+#### Where do you need help from Arron?
+
+* Planning/advice for TTW fireside chat and new team 
+
+#### What would you like to work on next week?
+
+* Ethics submission (submit tomorrow!)
+* Co-working with JS and SF
+* More repo work
+* Structuring workflow with REG team 
 
 ### Date:01 September 2022
 
