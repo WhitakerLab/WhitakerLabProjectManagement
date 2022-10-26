@@ -7,24 +7,32 @@
 
 #### Who did you help this week?
 * I exchanged information with PC, but should do more on this side...
+  * AL: glad you are in touch with eachother
 
 #### Who helped you this week?
 * SW put me in touch with SS and is enquiring on my behalf with NHS whether I need a research passport to shadow their interviews
+  * AL: excellent - the HSEG group were really pleased to be working with you
 
 #### What did you achieve?
 * completed the first part of the Python course by Software Carpentry 
+  * AL: I'm glad you're enjoying - if you any feedback for them that would be great (issues/PRs)
 * discussed with SW and EB from Newcastle about getting involved in their next PPI activities, especially within CODEC II
+  * AL: I would suggest offering the opportunity for the analytics hub to feed into this as well.
 * started researching about bias and lack of diversity in dementia research
+  * AL: Really interested to see what existing biases are out there and how we can tackle them.
 
 #### What did you struggle with?
 * am finding it harder to have sustained focus on a course than when I was a student!
+  * AL: let me know if you need any time blocked
 
 #### Where do you need help from Arron?
 * checking if I could shadow interviews from Vine too and in that case, would I need some kind of approval?
+  * AL: no additional access requirements
 
 #### What would you like to work on next week?
 * continue learning Python and statistics
 * put together a slide deck on cohorts to condense the information I have found on Google Drive/gathered from the meetings and on Internet
+  * AL: Your views for improving onboarding would be really useful - if you have any suggestions would good to share at the Catch Up Meetings.
 
 
 
