@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [28 October 2022](#date-28-october-2022)
 * [12 October 2022](#date-12-october-2022)
 * [01 September 2022](#date-01-september-2022)
 * [17 August 2022](#date-17-august-2022)
@@ -16,6 +17,42 @@ Georgia's biweekly meeting notes.
 * [23 February 2022](#date-23-february-2022)
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
+
+### Date: 28 October 2022
+
+#### Who did you help this week?
+
+* Helped answer questions from HD and CM about AutSPACEs platform and OH
+
+#### Who helped you this week?
+
+* ALS helped thing through TTW fireside chat and prep for it
+* MK made introductions 
+
+#### What did you achieve?
+
+* Submitted ethics application and supporting docs!
+* Met with all speakers for TTW Fireside chat and discussed citizen science :heart: 
+* Co-working with IS and REG team
+* Draft of AutSPACEs 6-month updates
+* Structuring moderation paper 
+
+#### What did you struggle with?
+
+* Still struggling with energy levels!
+* Nervousness 
+* Some repo work 
+
+#### Where do you need help from Arron?
+
+* Onboarding BGT
+
+#### What would you like to work on next week?
+
+* Moderation co-working with SF and JS
+* More work on repo - progress towards merge
+* Onboarding BGT! 
+* Submit 6-month report 
 
 ### Date: 12 October 2022
 
