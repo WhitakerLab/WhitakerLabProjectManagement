@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [28 October 2022](#date-28-october-2022)
 * [12 October 2022](#date-12-october-2022)
 * [01 September 2022](#date-01-september-2022)
 * [17 August 2022](#date-17-august-2022)
@@ -16,6 +17,53 @@ Georgia's biweekly meeting notes.
 * [23 February 2022](#date-23-february-2022)
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
+
+### Date: 28 October 2022
+
+#### Who did you help this week?
+
+* Helped answer questions from HD and CM about AutSPACEs platform and OH
+ * AL: Glad REG have had their first meeting with you!
+
+#### Who helped you this week?
+
+* ALS helped thing through TTW fireside chat and prep for it
+ * AL: glad it went well!
+* MK made introductions 
+ * AL: NASA links - exciting! 
+
+#### What did you achieve?
+
+* Submitted ethics application and supporting docs!
+ * AL: awesome - should here back in December!
+* Met with all speakers for TTW Fireside chat and discussed citizen science :heart: 
+* Co-working with IS and REG team
+ * AL: great stuff!
+* Draft of AutSPACEs 6-month updates
+ * AL: lot's of good work highlighted in the report - well done
+* Structuring moderation paper 
+ * AL: Excellent work!
+
+#### What did you struggle with?
+
+* Still struggling with energy levels!
+ * AL: Hopefully energy levels improve soon!
+* Nervousness 
+ * AL: you're going to be great at the fireside chat! good luck!
+* Some repo work 
+ * AL: Something to bring up with BGT when he starts
+
+#### Where do you need help from Arron?
+
+* Onboarding BGT
+ * AL: Happy to meet after next week (I'm on leave)
+
+#### What would you like to work on next week?
+
+* Moderation co-working with SF and JS 
+* More work on repo - progress towards merge
+* Onboarding BGT! 
+* Submit 6-month report 
 
 ### Date: 12 October 2022
 
