@@ -1,7 +1,34 @@
 # Bi-weekly meetings with Arron
 
+* [10 November 2022](#date-10-november-2022)
 * [21 October 2022](#date-21-october-2022)
 * [22 September 2022](#date-22-september-2022)
+
+### Date: 10 November 2022
+
+#### Who did you help this week?
+* discussed with PC again, but couldn't be of much help unfortunately...
+* gave feedback to SB on phase 2 of PPIE
+
+#### Who helped you this week?
+* JF is now formally my mentor and we are arranging our first meeting
+
+#### What did you achieve?
+* chaired my first Whitaker Lab meeting
+* started to organise material about cohorts/studies into a spreadsheet
+* searched for further initiatives on AI applied to detection of dementia
+
+#### What did you struggle with?
+* networking with lab members
+
+#### Where do you need help from Arron?
+* 8-12 weeks probation review
+* annual leave around Christmas time
+
+#### What would you like to work on next week?
+* continue retraining
+* collecting information on PPIE for AI in dementia
+
 
 ### Date: 21 October 2022
 
