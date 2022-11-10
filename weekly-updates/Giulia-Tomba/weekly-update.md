@@ -8,26 +8,38 @@
 
 #### Who did you help this week?
 * discussed with PC again, but couldn't be of much help unfortunately...
+ * AL: Thank you for trying to help here
 * gave feedback to SB on phase 2 of PPIE
+ * AL: Thank you for this and I'll see you on the Shadow Panel...
 
 #### Who helped you this week?
 * JF is now formally my mentor and we are arranging our first meeting
+ * AL: Fantastic - JF is great!
 
 #### What did you achieve?
 * chaired my first Whitaker Lab meeting
+ * AL: Awesome! Well done!
 * started to organise material about cohorts/studies into a spreadsheet
+ * AL: Can we share with EDoN GDrive?
 * searched for further initiatives on AI applied to detection of dementia
+ * AL: that's great
 
 #### What did you struggle with?
 * networking with lab members
+ * AL: I'd recommend some of The Turing Way event sin the [calendar](https://hackmd.io/@turingway/demo-intro)
+ * AL: TPS Coffee chats
 
 #### Where do you need help from Arron?
 * 8-12 weeks probation review
+ * AL: Please send some draft objectives over sow e can review together.
 * annual leave around Christmas time
+ * AL: please do take Christmas off!
 
 #### What would you like to work on next week?
 * continue retraining
+ * AL: good stuff - let me know if there are any paid courses you want to attend (you have a bursary)
 * collecting information on PPIE for AI in dementia
+ * AL: Perhaps a paper could come out of this?
 
 
 ### Date: 21 October 2022
