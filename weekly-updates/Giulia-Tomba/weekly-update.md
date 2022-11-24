@@ -1,8 +1,31 @@
 # Bi-weekly meetings with Arron
 
+* [24 November 2022](#date-24-november-2022)
 * [10 November 2022](#date-10-november-2022)
 * [21 October 2022](#date-21-october-2022)
 * [22 September 2022](#date-22-september-2022)
+
+### Date: 24 November 2022
+
+#### Who did you help this week?
+* gave feedback to SG on her abstract
+
+#### Who helped you this week?
+* EB sent me a newly published book chapter on AI for dementia research and healthcare (by DEMON network)
+
+#### What did you achieve?
+* dived into D&I issues and approaches in dementia research (e.g., NIHR seems to be offering dedicated support to their researchers)
+* had my first mentoring session with JF
+* attended a Lunch&Learn lesson on professional writing
+
+#### What did you struggle with?
+* balancing retraining vs literature search 
+
+#### Where do you need help from Arron?
+* understand better how EDoN approaches D&I
+
+#### What would you like to work on next week?
+* continue and link together research on D&I, PPIE and AI in dementia research
 
 ### Date: 10 November 2022
 
