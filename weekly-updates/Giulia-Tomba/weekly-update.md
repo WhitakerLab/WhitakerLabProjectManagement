@@ -24,6 +24,7 @@
 
 #### Where do you need help from Arron?
 * understand better how EDoN approaches D&I
+* where can I find information on the features used for training of the ML approaches developed within EDoN?
 
 #### What would you like to work on next week?
 * continue and link together research on D&I, PPIE and AI in dementia research
