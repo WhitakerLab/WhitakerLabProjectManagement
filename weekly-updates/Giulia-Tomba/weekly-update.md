@@ -17,6 +17,7 @@
 * dived into D&I issues and approaches in dementia research (e.g., NIHR seems to be offering dedicated support to their researchers)
 * had my first mentoring session with JF
 * attended a Lunch&Learn lesson on professional writing
+* attended TW Community Share
 
 #### What did you struggle with?
 * balancing retraining vs literature search 
