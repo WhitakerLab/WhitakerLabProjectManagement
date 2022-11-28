@@ -7,7 +7,8 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 28 Nov 2022
 
 * AI UK exhibition call: https://www.eventsforce.net/turingevents/frontend/reg/tOtherPage.csp?pageID=87652&eventID=242&traceRedir=2
-* Fortnightly meet-up sessions and monthly newsletter updates - discuss with Sophia? 
+  * deadline Wednesday 30th 5pm
+* Fortnightly meet-up sessions and monthly newsletter updates - discuss with SB? 
 * Sort out design contract 
 * Create skeleton structure for moderation essay
 * Jonathan Green - discussion about autism phenomenology 
