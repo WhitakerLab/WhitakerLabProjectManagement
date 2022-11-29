@@ -9,22 +9,31 @@
 
 #### Who did you help this week?
 * gave feedback to SG on her abstract
+ * AL: thanks for this!
 
 #### Who helped you this week?
 * EB sent me a newly published book chapter on AI for dementia research and healthcare (by DEMON network)
+ * AL: I hope it's interesting and please do join the DEMON Slack
 
 #### What did you achieve?
 * dived into D&I issues and approaches in dementia research (e.g., NIHR seems to be offering dedicated support to their researchers)
+ * AL: Perhaps we can bring this up in the next EDoN Catch Up meeting?
 * had my first mentoring session with JF
+ * AL: that's great, JF is lovely!
 * attended a Lunch&Learn lesson on professional writing
+ * AL: With lots of different dissemination in mind, if you see any other courses you would like to attend let me know
 * attended TW Community Share
+ * AL: Glad you enjoyed and let's think about how we can feed into TTW from an EDoN perspective. Maybe how to communicate Data Science well?
 
 #### What did you struggle with?
 * balancing retraining vs literature search 
+ * AL: I'm glad the lit review is interesting! plenty of work to do as a position paper on attitudes towards early detection?
 
 #### Where do you need help from Arron?
 * understand better how EDoN approaches D&I
 * where can I find information on the features used for training of the ML approaches developed within EDoN?
+ * AL: Let's have a chat about this so we can respond to SB
+
 
 #### What would you like to work on next week?
 * continue and link together research on D&I, PPIE and AI in dementia research
