@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [05 December 2022](#date-05-december-2022)
 * [28 October 2022](#date-28-october-2022)
 * [12 October 2022](#date-12-october-2022)
 * [01 September 2022](#date-01-september-2022)
@@ -17,6 +18,38 @@ Georgia's biweekly meeting notes.
 * [23 February 2022](#date-23-february-2022)
 * [09 February 2022](#date-09-february-2022)
 * [14 January 2022](#date-14-january-2022)
+
+### Date: 05 December 2022
+
+#### Who did you help this week?
+
+* Helped AB with pro-bono estimates
+
+#### Who helped you this week?
+
+* AB and BGT helped with design contract 
+* BGT helped with planning and strategies 
+
+#### What did you achieve?
+
+* Successful SSI application
+* Completed moderation paper structure
+* Co-working with SB on comms strategies
+* Meeting with JG
+
+#### What did you struggle with?
+
+* Still confused about design contract process  
+
+#### Where do you need help from Bastian?
+
+* Design contract work 
+
+#### What would you like to work on next week?
+
+* More work on moderation paper (possibly draft methods section)
+* Co-working on repo
+* Draft Christmas newsletter and more planning
 
 ### Date: 28 October 2022
 
