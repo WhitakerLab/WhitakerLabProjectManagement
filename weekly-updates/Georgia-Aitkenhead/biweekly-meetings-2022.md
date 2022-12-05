@@ -50,6 +50,7 @@ Georgia's biweekly meeting notes.
 * More work on moderation paper (possibly draft methods section)
 * Co-working on repo
 * Draft Christmas newsletter and more planning
+* Submission for enrichment students
 
 ### Date: 28 October 2022
 
