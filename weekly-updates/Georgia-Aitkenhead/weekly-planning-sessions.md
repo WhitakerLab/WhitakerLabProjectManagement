@@ -2,9 +2,17 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
 
-### Date 28 Nov 2022
+### Date 12 December 2022
+
+* Enrichment students application
+* Christmas newsletter for AutSPACEs
+* Moderation paper - complete methodology section
+* Wrapping up work before Christmas holidays (aiming to be on leave from 16th December)
+
+### Date 28 Novembber 2022
 
 * AI UK exhibition call: https://www.eventsforce.net/turingevents/frontend/reg/tOtherPage.csp?pageID=87652&eventID=242&traceRedir=2
   * deadline Wednesday 30th 5pm
