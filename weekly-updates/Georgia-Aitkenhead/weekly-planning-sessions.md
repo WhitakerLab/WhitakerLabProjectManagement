@@ -11,6 +11,7 @@ Notes from Georgia and Bastian's weekly planning sessions
 * Christmas newsletter for AutSPACEs
 * Moderation paper - complete methodology section
 * Wrapping up work before Christmas holidays (aiming to be on leave from 16th December)
+* Neuro Spaces meeting?
 
 ### Date 28 Novembber 2022
 
