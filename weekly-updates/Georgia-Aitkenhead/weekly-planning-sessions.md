@@ -2,8 +2,17 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [09 January 2022](#date-09-january-2022)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 09 January 2022
+
+* Catch up after leave
+* Podcast
+* Prep for community meet-up and JG visit on Thursday
+* Work on moderation paper
+* Progress design contract
 
 ### Date 12 December 2022
 
