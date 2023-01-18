@@ -2,11 +2,20 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
-* [09 January 2022](#date-09-january-2022)
+* [18 January 2023](#date-18-january-2023)
+* [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
 
-### Date 09 January 2022
+### Date 18 January 2023
+
+* Neuro Spaces meet-up
+* Prepare for environments seminar
+* Plan next meet-up session
+* Apply for Citizen Science 2023 conference
+* Draft January newsletter
+
+### Date 09 January 2023
 
 * Catch up after leave
 * Podcast
