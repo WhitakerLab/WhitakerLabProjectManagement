@@ -2,10 +2,20 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [23 January 2023](#date-23-january-2023)
 * [18 January 2023](#date-18-january-2023)
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 23 January 2023
+
+* Send out January newsletter
+* SSI inaugral meeting
+* Deliver environments seminar with BGT, HD, and OS
+* Repo work with SB and BGT
+* Meet-up session
+* More work on moderation paper
 
 ### Date 18 January 2023
 
