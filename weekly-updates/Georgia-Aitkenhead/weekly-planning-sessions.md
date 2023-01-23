@@ -10,6 +10,7 @@ Notes from Georgia and Bastian's weekly planning sessions
 
 ### Date 23 January 2023
 
+* Submit C*Sci abstract by 27th
 * Send out January newsletter
 * SSI inaugral meeting
 * Deliver environments seminar with BGT, HD, and OS
