@@ -1,9 +1,41 @@
 # Bi-weekly meetings with Arron
 
+* [12 December 2022](#date-12-december-2022)
 * [24 November 2022](#date-24-november-2022)
 * [10 November 2022](#date-10-november-2022)
 * [21 October 2022](#date-21-october-2022)
 * [22 September 2022](#date-22-september-2022)
+
+### Date: 12 December 2022
+
+#### Who did you help this week?
+* nobody I'm afraid...
+
+#### Who helped you this week?
+* SW sent me the literature review she compiled and based her CLEARS framework upon
+ * AL: I enjoyed her presentation on this at All-Hands - shall we work with SW on some training/workshop/support for the EDoN Cohorts
+
+#### What did you achieve?
+* completed most of the Information Security and GDPR Awareness e-Learning courses 
+ * AL: Great stuff - good effort!
+* attended an introductory webinar by the new AI Standards Hub
+ * AL: I think it will be realy useful to be involved with the Hub - was brought up at All-Hands too
+* attended part of the launch event for the new Lancet series on Racism, Xenophobia, Discrimination and Health 
+ * AL: Interesting! Some thoughts we can bring back to EDoN perhaps?
+
+#### What did you struggle with?
+* getting anything done between one family illness and the next...
+ * AL: Take it easy - family comes first!
+
+#### Where do you need help from Arron?
+* response to SB regarding cheat sheets etc 
+ * AL: Lets work with the Digital Hub on this!
+
+#### What would you like to work on next week?
+* don't think I'll manage to  do much structured work over the holidays, but I would like to focus more on technical retraining as soon as I am back in January
+ * AL: sounds good to me! 
+
+
 
 ### Date: 24 November 2022
 
@@ -33,7 +65,6 @@
 * understand better how EDoN approaches D&I
 * where can I find information on the features used for training of the ML approaches developed within EDoN?
  * AL: Let's have a chat about this so we can respond to SB
-
 
 #### What would you like to work on next week?
 * continue and link together research on D&I, PPIE and AI in dementia research
