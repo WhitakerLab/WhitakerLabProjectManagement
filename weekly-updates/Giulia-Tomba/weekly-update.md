@@ -11,22 +11,28 @@
 
 #### Who did you help this week?
 * put some information together for SB in preparation of the next PPIE sessions run by Vine
+ * AL: thanks so much for this - really looking forward to the sessions
 
 #### Who helped you this week?
 * AL made me realise I had skipped a whole bunch of important emails in EDoN's Gmail account!
+ * AL: made me check mine too!
 
 #### What did you achieve?
 * researched the literature and had a really interesting conversation with SW, SS and TW about risk communication for dementia in general and from EDoN's perspective - hope we will work further on it together, and looking forward to seeing what the reactions on the topic from Vine panels are
+ * AL: great these conversations are ongoing and will be useful for gathering info on what they need communicated to them from an Analytics point of view. 
 
 #### What did you struggle with?
 * again, getting focused time while self-isolating for Covid with the whole family
+ * AL: sorry to hear you had to isolate. Hope you all get well soon!
 
 #### Where do you need help from Arron?
 * discuss how to best proceed in order to facilitate Hubs exchanges on risk evaluation/communication
 
 #### What would you like to work on next week?
 * participate to PPIE panels 
+ * AL: please do take my Monday slot!
 * again, technical retraining is on top of the list, together with Gitlab and Wiki
+ * AL: good luck and I hope you find some time after you have isolated.
 
 
 ### Date: 12 December 2022
