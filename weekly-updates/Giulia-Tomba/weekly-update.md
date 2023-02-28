@@ -26,6 +26,7 @@
 
 #### Where do you need help from Arron?
 * content for slides on open science/reproducibility for EDoN
+* objectives for Turing review (https://hackmd.io/hXfAk_F3S_mL50MYBrLb1w?view)
 
 #### What would you like to work on next week?
 * focus on statistical/data science training
