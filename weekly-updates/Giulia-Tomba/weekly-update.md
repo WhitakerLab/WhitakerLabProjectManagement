@@ -1,10 +1,39 @@
 # Bi-weekly meetings with Arron
 
+* [26 January 2023](#date-26-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [24 November 2022](#date-24-november-2022)
 * [10 November 2022](#date-10-november-2022)
 * [21 October 2022](#date-21-october-2022)
 * [22 September 2022](#date-22-september-2022)
+
+### Date: 26 January 2023
+
+#### Who did you help this week?
+* put some information together for SB in preparation of the next PPIE sessions run by Vine
+ * AL: thanks so much for this - really looking forward to the sessions
+
+#### Who helped you this week?
+* AL made me realise I had skipped a whole bunch of important emails in EDoN's Gmail account!
+ * AL: made me check mine too!
+
+#### What did you achieve?
+* researched the literature and had a really interesting conversation with SW, SS and TW about risk communication for dementia in general and from EDoN's perspective - hope we will work further on it together, and looking forward to seeing what the reactions on the topic from Vine panels are
+ * AL: great these conversations are ongoing and will be useful for gathering info on what they need communicated to them from an Analytics point of view. 
+
+#### What did you struggle with?
+* again, getting focused time while self-isolating for Covid with the whole family
+ * AL: sorry to hear you had to isolate. Hope you all get well soon!
+
+#### Where do you need help from Arron?
+* discuss how to best proceed in order to facilitate Hubs exchanges on risk evaluation/communication
+
+#### What would you like to work on next week?
+* participate to PPIE panels 
+ * AL: please do take my Monday slot!
+* again, technical retraining is on top of the list, together with Gitlab and Wiki
+ * AL: good luck and I hope you find some time after you have isolated.
+
 
 ### Date: 12 December 2022
 
