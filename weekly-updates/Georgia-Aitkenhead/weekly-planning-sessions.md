@@ -13,8 +13,10 @@ Notes from Georgia and Bastian's weekly planning sessions
 
 * Submit objectives 
 * Catch up after leave and organise deadlines
+* Add missing quotes from focus groups/workshops to dilemmas in paper
+* Arranging potential TPS coffee chats 
 * Write a user-friendly explanation of moderation for platform
-* Continue work on moderation paper
+* Stretch-goal, actual deadline is March 16: Prepare for safeguarding meeting (existing materials vs. now needed ones)
 
 ### Date 23 January 2023
 
