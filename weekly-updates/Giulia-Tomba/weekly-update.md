@@ -1,5 +1,6 @@
 # Bi-weekly meetings with Arron
 
+* [17 March 2023](#date-17-march-2023)
 * [28 February 2023](#date-28-february-2023)
 * [26 January 2023](#date-26-january-2023)
 * [12 December 2022](#date-12-december-2022)
@@ -7,6 +8,31 @@
 * [10 November 2022](#date-10-november-2022)
 * [21 October 2022](#date-21-october-2022)
 * [22 September 2022](#date-22-september-2022)
+
+### Date: 17 March 2023
+
+#### Who did you help this week?
+* 
+
+#### Who helped you this week?
+*
+
+#### What did you achieve?
+* completed the "Risk and Evidence Communication in Public Health" course by the Winton Centre (Cambridge)
+* attended the first session of the Turing Interpersonal Skills Programme (receiving feedback) following JF's advice
+* attended the Data Hazards, Ethics and Reproducibility Symposium
+* still going through recordings and reading through literature (e.g., ADNI-4 strategy)
+
+#### What did you struggle with?
+*
+
+#### Where do you need help from Arron?
+* objectives for Turing review (https://hackmd.io/hXfAk_F3S_mL50MYBrLb1w?view)
+
+#### What would you like to work on next week?
+* focus on statistical/data science training
+* EDoN SRE Wiki 
+* check with CB about the Turing Commons courses
 
 ### Date: 28 February 2023
 
