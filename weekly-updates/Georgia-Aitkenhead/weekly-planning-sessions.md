@@ -9,7 +9,7 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
 
-### Date 23 January 2023
+### Date 20 March 2023
 
 * Send AB and KW completed safeguarding risk register
 * Complete section of moderation paper
