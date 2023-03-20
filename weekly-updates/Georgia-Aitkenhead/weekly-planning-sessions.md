@@ -3,6 +3,7 @@
 Notes from Georgia and Bastian's weekly planning sessions 
 
 * [20 March 2023](#date-20-march-2023)
+* [06 March 2023](#date-06-march-2023)
 * [23 January 2023](#date-23-january-2023)
 * [18 January 2023](#date-18-january-2023)
 * [09 January 2023](#date-09-january-2023)
@@ -14,6 +15,15 @@ Notes from Georgia and Bastian's weekly planning sessions
 * Send AB and KW completed safeguarding risk register
 * Complete section of moderation paper
 * Participate in MozFest and AI UK sessions
+
+### Date 06 March 2023
+
+* Submit objectives 
+* Catch up after leave and organise deadlines
+* Add missing quotes from focus groups/workshops to dilemmas in paper
+* Arranging potential TPS coffee chats 
+* Write a user-friendly explanation of moderation for platform
+* Stretch-goal, actual deadline is March 16: Prepare for safeguarding meeting (existing materials vs. now needed ones)
 
 ### Date 23 January 2023
 
