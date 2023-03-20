@@ -2,11 +2,18 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [20 March 2023](#date-20-march-2023)
 * [23 January 2023](#date-23-january-2023)
 * [18 January 2023](#date-18-january-2023)
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 23 January 2023
+
+* Send AB and KW completed safeguarding risk register
+* Complete section of moderation paper
+* Participate in MozFest and AI UK sessions
 
 ### Date 23 January 2023
 
