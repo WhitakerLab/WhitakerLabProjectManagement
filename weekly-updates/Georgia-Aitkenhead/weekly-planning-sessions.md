@@ -2,11 +2,21 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [06 March 2023](#date-06-march-2023)
 * [23 January 2023](#date-23-january-2023)
 * [18 January 2023](#date-18-january-2023)
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 06 March 2023
+
+* Submit objectives 
+* Catch up after leave and organise deadlines
+* Add missing quotes from focus groups/workshops to dilemmas in paper
+* Arranging potential TPS coffee chats 
+* Write a user-friendly explanation of moderation for platform
+* Stretch-goal, actual deadline is March 16: Prepare for safeguarding meeting (existing materials vs. now needed ones)
 
 ### Date 23 January 2023
 
