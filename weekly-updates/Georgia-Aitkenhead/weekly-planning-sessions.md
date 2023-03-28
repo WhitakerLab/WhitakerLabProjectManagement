@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [27 March 2023](#date-27-march-2023)
 * [20 March 2023](#date-20-march-2023)
 * [06 March 2023](#date-06-march-2023)
 * [23 January 2023](#date-23-january-2023)
@@ -9,6 +10,31 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 27 March 2023
+
+* [Complete moderation paper first draft](https://docs.google.com/document/d/1q4a6M_SSt80e7TM-p0zflpjr00f1XZFqoz3Ks0r3vdQ/edit#)
+    * Georgia to write conclusion
+    * Bastian to edit the outcomes 
+    * Georgia to ask Susanna if she'd like us to draft her notes on reporting on behalf of others 
+* Send out March newsletter
+    * Georgia to make GH issue once GH works again :D 
+    * Topics: 
+        * submission to EU Prize for CS 
+        * Upcoming conference presentations: Bastian @ CSVconf & Georgia @ C\*Sci
+        * Meetup/no meetup 
+* Plan for next meet-up session (6th April)
+    * Bastian to check with Sophia if we should cancel April given holiday season and potential lack of progress
+* AutSPACEs risk assessment meeting and update based on feedback. 
+* Additions Bastian: 
+    * [semi-annual reporting](https://thealanturininstitute-my.sharepoint.com/:w:/g/personal/bgreshaketzovaras_turing_ac_uk/EeKQSutQI2hMmSs5326kB58BP9mxg2d6jNpZE8a6T2Ootg?e=xVpqUN), Deadline April 28 
+    * C\*Sci conference (relating to Kirstie's post on travel)
+
+
+#### Priorities
+1. Newsletter 
+2. Moderation paper 
+3. Annual reporting
 
 ### Date 20 March 2023
 
