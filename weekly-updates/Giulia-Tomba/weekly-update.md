@@ -19,20 +19,25 @@
 
 #### What did you achieve?
 * completed the "Risk and Evidence Communication in Public Health" course by the Winton Centre (Cambridge)
-* attended the first session of the Turing Interpersonal Skills Programme (receiving feedback) following JF's advice
-* attended the Data Hazards, Ethics and Reproducibility Symposium
-* still going through recordings and reading through literature (e.g., ADNI-4 strategy)
+* attended the first two sessions of the Turing Interpersonal Skills Programme (receiving feedback and filling the blank page), following JF's advice
+* attended the Data Hazards, Ethics and Reproducibility Symposium and a bit of Mozfest
+* still going through recordings and reading through literature (ADNI-4 strategy, cognitive assessments, cultural competency)
+* almost done with the Python course by Software Carpentry
+* putting together a first list of interesting datasets for my reproducibility project
 
 #### What did you struggle with?
-*
+* I'll need to dig a bit into diagnostic tools for dementia (MRI, PET)
 
 #### Where do you need help from Arron?
 * objectives for Turing review (https://hackmd.io/hXfAk_F3S_mL50MYBrLb1w?view)
+* DJT form (to be sent by Friday 31 March)
+* EDoN All Hands on Monday 3 April
 
 #### What would you like to work on next week?
-* focus on statistical/data science training
+* finish the Python course and focus on statistical/data science training
 * EDoN SRE Wiki 
 * check with CB about the Turing Commons courses
+* connect with the Hubs to identify questions for the Analytical Hub
 
 ### Date: 28 February 2023
 
