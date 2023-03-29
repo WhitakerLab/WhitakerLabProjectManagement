@@ -12,21 +12,28 @@
 ### Date: 29 March 2023
 
 #### Who did you help this week?
-* 
+* AL: thank you so much for helping out with AI UK - it was really successful
 
 #### Who helped you this week?
 *
 
 #### What did you achieve?
 * completed the "Risk and Evidence Communication in Public Health" course by the Winton Centre (Cambridge)
+ * AL: amazing - is there anything we can bring back to EDoN? Would you like to present to the modelling meeting?
 * attended the first two sessions of the Turing Interpersonal Skills Programme (receiving feedback and filling the blank page), following JF's advice
+ * AL: sounds interesting!
 * attended the Data Hazards, Ethics and Reproducibility Symposium and a bit of Mozfest
+ * AL: The Data Hazards project were amazing at AI UK - can we invite to the HSEG group?
 * still going through recordings and reading through literature (ADNI-4 strategy, cognitive assessments, cultural competency)
+ * AL: perhaps there could be a paper around harms in AI? Can there be a global assessment i.e. the EDoN toolkit?
 * almost done with the Python course by Software Carpentry
+ * AL: Glad you are enjoying!
 * putting together a first list of interesting datasets for my reproducibility project
+ * AL: this is great and really worthwhile!
 
 #### What did you struggle with?
 * I'll need to dig a bit into diagnostic tools for dementia (MRI, PET)
+ * AL: Let's get you on the clinical hub meetings
 
 #### Where do you need help from Arron?
 * objectives for Turing review (https://hackmd.io/hXfAk_F3S_mL50MYBrLb1w?view)
@@ -35,9 +42,11 @@
 
 #### What would you like to work on next week?
 * finish the Python course and focus on statistical/data science training
-* EDoN SRE Wiki 
+* EDoN SRE Wiki
+ * AL: thanks for this - perhaps we could have a co-working session?
 * check with CB about the Turing Commons courses
 * connect with the Hubs to identify questions for the Analytical Hub
+ * AL: thanks for working on this - it would be great to include cross hub input as discussed and try bring this back to the modelling meetings.
 
 ### Date: 28 February 2023
 
