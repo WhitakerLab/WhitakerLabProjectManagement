@@ -1,6 +1,6 @@
 # Bi-weekly meetings with Arron
 
-* [17 March 2023](#date-17-march-2023)
+* [29 March 2023](#date-29-march-2023)
 * [28 February 2023](#date-28-february-2023)
 * [26 January 2023](#date-26-january-2023)
 * [12 December 2022](#date-12-december-2022)
@@ -9,7 +9,7 @@
 * [21 October 2022](#date-21-october-2022)
 * [22 September 2022](#date-22-september-2022)
 
-### Date: 17 March 2023
+### Date: 29 March 2023
 
 #### Who did you help this week?
 * 
