@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [03 April 2023](#date-03-april-2023)
 * [27 March 2023](#date-27-march-2023)
 * [20 March 2023](#date-20-march-2023)
 * [06 March 2023](#date-06-march-2023)
@@ -10,6 +11,12 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 03 April 2023
+
+* Write a draft of the [semi-annual report](https://thealanturininstitute-my.sharepoint.com/:w:/g/personal/bgreshaketzovaras_turing_ac_uk/EeKQSutQI2hMmSs5326kB58BP9mxg2d6jNpZE8a6T2Ootg?e=xVpqUN), by 6th April (Deadline April 28) 
+* Prepare for the C\*Sci conference and register/book travel
+* Edit moderation paper 
 
 ### Date 27 March 2023
 
