@@ -15,8 +15,31 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 03 April 2023
 
 * Write a draft of the [semi-annual report](https://thealanturininstitute-my.sharepoint.com/:w:/g/personal/bgreshaketzovaras_turing_ac_uk/EeKQSutQI2hMmSs5326kB58BP9mxg2d6jNpZE8a6T2Ootg?e=xVpqUN), by 6th April (Deadline April 28) 
+   * Reporting period: 1 October, 2022 to 31 March 2023.
 * Prepare for the C\*Sci conference and register/book travel
+   * focus on registration payment & travel booking, check-in with Arielle 
+* Ask JG for input on presentation: how long? what to focus on? who else could join as ND participants?
 * Edit moderation paper 
+   
+**Planning for rest of the weeks of April:**
+
+* Week 10-14 April 
+   * Moderation paper: 
+      * Sharing with KW for her input & feedback 
+      * Continue editing based on KW input & susanna/james
+   * Semi-annual report: Share with Arielle, potential edits based on feedback
+   * Work with REG for getting moderation guidelines into MVP (if possible and all other MVP things done :D)
+* Week 17-21 April 
+   * Prepare presentation/talk for event with JG (on April 25)
+      * Bastian can share his CSVconf slides incl. AutSPACEs screenshots 
+   * SSI fellowship: mentorship program
+   * Prepare Newsletter/next community meet-up
+
+**Goals for until Bastian is back:**
+* Share moderation paper with KW 
+* Have a semi-annual report shared with Arielle 
+* Presentation for JG event
+* Draft newsletter/community meet-up plan
 
 ### Date 27 March 2023
 
