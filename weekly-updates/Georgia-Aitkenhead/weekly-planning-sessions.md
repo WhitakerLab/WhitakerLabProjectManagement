@@ -19,8 +19,11 @@ Notes from Georgia and Bastian's weekly planning sessions
 * Create a poster presentation for [C*Sci 2023](https://citizenscience.org/home/events/conferences/csci-2023/)
 * Help facilitate AIM RSF Workshop
 * Send out April newsletter
+  * Waiting for interview/contributor spotlight, otherwise mostly drafted
 * Help organise and facilitate May meet-up session
+  * Probably will be facilitated by GA & BGT
 * Incorporaate any recommendations from KW for moderation paper
+  * sent to Kirstie, but will be busy with AIM-RSF conference
 
 ### Date 03 April 2023
 
