@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [24 April 2023](#date-24-april-2023)
 * [03 April 2023](#date-03-april-2023)
 * [27 March 2023](#date-27-march-2023)
 * [20 March 2023](#date-20-march-2023)
@@ -11,6 +12,15 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 24 April 2023
+
+* Deliver [presentation](https://docs.google.com/presentation/d/13R0qqtmH55LsZyTjWlzO_dGQ4UVMpCV7YDEjsH8_NGM/edit?usp=sharing) with BGT on Tuesday 25 April for phenomenology working group
+* Create a poster presentation for [C*Sci 2023](https://citizenscience.org/home/events/conferences/csci-2023/)
+* Help facilitate AIM RSF Workshop
+* Send out April newsletter
+* Help organise and facilitate May meet-up session
+* Incorporaate any recommendations from KW for moderation paper
 
 ### Date 03 April 2023
 
