@@ -16,11 +16,16 @@ Notes from Georgia and Bastian's weekly planning sessions
 
 ### Date 09 May 2023
 
-* Send reesponses to ethics application
+* Send responses to ethics application
+  * Need to find the responses in existing documentation as much as possible. 
+  * Regarding representation: Autistica picked diverse groups in the past, but currently just volunteer-based. 
+  * GA to make a Google Doc with review questions to collate the responses and existing information 
 * Attend poster peer review session on Thursday and iterate poster design
+  * Draft at https://docs.google.com/presentation/d/1YiHFNzCA1TTBdswnCixtgcdvDpfOOeHU/edit#slide=id.p1 
 * Practice presenting poster
 * Upload poster to online platform
 * Start on annual review
+  * Due end of May 
 * Co-working on platform and moderation
 
 ### Date 24 April 2023
