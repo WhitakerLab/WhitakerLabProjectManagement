@@ -16,6 +16,7 @@ Notes from Georgia and Bastian's weekly planning sessions
 
 ### Date 09 May 2023
 
+* Send reesponses to ethics application
 * Attend poster peer review session on Thursday and iterate poster design
 * Practice presenting poster
 * Upload poster to online platform
