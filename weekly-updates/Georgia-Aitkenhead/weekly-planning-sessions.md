@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [09 May 2023](#date-09-may-2023)
 * [24 April 2023](#date-24-april-2023)
 * [03 April 2023](#date-03-april-2023)
 * [27 March 2023](#date-27-march-2023)
@@ -12,6 +13,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 09 May 2023
+
+* Attend poster peer review session on Thursday and iterate poster design
+* Practice presenting poster
+* Upload poster to online platform
+* Start on annual review
+* Co-working on platform and moderation
 
 ### Date 24 April 2023
 
