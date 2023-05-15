@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [15 May 2023](#date-15-may-2023)
 * [24 April 2023](#date-24-april-2023)
 * [03 April 2023](#date-03-april-2023)
 * [27 March 2023](#date-27-march-2023)
@@ -12,6 +13,12 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 15 May 2023
+
+* Respond to ethics review
+* Work with mentor on AutSPACEs
+* Draft appraisal via. Cezanne
 
 ### Date 24 April 2023
 
