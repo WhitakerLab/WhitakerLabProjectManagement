@@ -17,10 +17,12 @@ Notes from Georgia and Bastian's weekly planning sessions
 
 ### Date 12 June 2023
 
+* Write 250 word abstract for moderation paper
 * Build website usnig Quarto with SSI mentor
 * Send out June newsletter
 * Plan for July meet-up session
 * Turing required training 
+* Co-working on moderation paper 
 * Plan out some user testing and engagement options for testing the platform
 
 ### Date 09 May 2023
