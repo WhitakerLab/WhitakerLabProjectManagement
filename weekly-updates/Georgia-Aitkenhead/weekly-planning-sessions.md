@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [12 June 2023](#date-12-june-2023)
 * [09 May 2023](#date-09-may-2023)
 * [24 April 2023](#date-24-april-2023)
 * [03 April 2023](#date-03-april-2023)
@@ -13,6 +14,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 12 June 2023
+
+* Build website usnig Quarto with SSI mentor
+* Send out June newsletter
+* Plan for July meet-up session
+* Turing required training 
+* Plan out some user testing and engagement options for testing the platform
 
 ### Date 09 May 2023
 
