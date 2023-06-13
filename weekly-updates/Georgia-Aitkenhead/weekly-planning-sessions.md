@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [12 June 2023](#date-12-june-2023)
 * [09 May 2023](#date-09-may-2023)
 * [24 April 2023](#date-24-april-2023)
 * [03 April 2023](#date-03-april-2023)
@@ -13,6 +14,24 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 12 June 2023
+
+* Write 250 word abstract for moderation paper
+* Send Bastian documents on paying SF for design work
+* Turing required training 
+* Build website using Quarto with SSI mentor
+* Send out June newsletter
+  *  Make GH issue and request feedback/input on topics
+  *  Contributor spotlight: David (or Andrea but probably after joining :D)
+* Plan for July meet-up session
+  *  Make GH issue and request feedback/input on topics
+  *  Invite some of C\*Sci conference participants
+* Co-working on moderation paper 
+  * Send reminder to Susanna & James / find time that works 
+* Plan out some user testing and engagement options for testing the platform
+  * Questions to think about: Which features do we want to test/with which priority? Which demographics do we want to test with (gender, age, autistic adult/caretaker, new to project or existing community member, researchers? …) 
+  * Try to find time with Kirstie to agree on those aspects of what/how to test
 
 ### Date 09 May 2023
 
