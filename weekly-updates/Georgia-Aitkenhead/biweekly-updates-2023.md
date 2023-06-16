@@ -41,8 +41,8 @@ Georgia's biweekly meeting notes.
 
 * Complete online Cezanne courses
 * Send out June newsletter
+* Prepare July meetup
 * Release pre-print of moderation paper
-* Make progress with payment options for participants
 * Getting in touch with and onboarding AG
 * Completing Quarto website
 * Producing lightning talk for SSI
