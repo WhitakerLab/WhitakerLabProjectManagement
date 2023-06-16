@@ -2,7 +2,9 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [12 June 2023](#date-12-june-2023)
 * [15 May 2023](#date-15-may-2023)
+* [09 May 2023](#date-09-may-2023)
 * [24 April 2023](#date-24-april-2023)
 * [03 April 2023](#date-03-april-2023)
 * [27 March 2023](#date-27-march-2023)
@@ -14,11 +16,45 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
 
+
+### Date 12 June 2023
+
+* Write 250 word abstract for moderation paper
+* Send Bastian documents on paying SF for design work
+* Turing required training 
+* Build website using Quarto with SSI mentor
+* Send out June newsletter
+  *  Make GH issue and request feedback/input on topics
+  *  Contributor spotlight: David (or Andrea but probably after joining :D)
+* Plan for July meet-up session
+  *  Make GH issue and request feedback/input on topics
+  *  Invite some of C\*Sci conference participants
+* Co-working on moderation paper 
+  * Send reminder to Susanna & James / find time that works 
+* Plan out some user testing and engagement options for testing the platform
+  * Questions to think about: Which features do we want to test/with which priority? Which demographics do we want to test with (gender, age, autistic adult/caretaker, new to project or existing community member, researchers? …) 
+  * Try to find time with Kirstie to agree on those aspects of what/how to test
+
+
 ### Date 15 May 2023
 
 * Respond to ethics review
 * Work with mentor on AutSPACEs
 * Draft appraisal via. Cezanne
+
+### Date 09 May 2023
+
+* Send responses to ethics application
+  * Need to find the responses in existing documentation as much as possible. 
+  * Regarding representation: Autistica picked diverse groups in the past, but currently just volunteer-based. 
+  * GA to make a Google Doc with review questions to collate the responses and existing information 
+* Attend poster peer review session on Thursday and iterate poster design
+  * Draft at https://docs.google.com/presentation/d/1YiHFNzCA1TTBdswnCixtgcdvDpfOOeHU/edit#slide=id.p1 
+* Practice presenting poster
+* Upload poster to online platform
+* Start on annual review
+  * Due end of May 
+* Co-working on platform and moderation
 
 ### Date 24 April 2023
 
