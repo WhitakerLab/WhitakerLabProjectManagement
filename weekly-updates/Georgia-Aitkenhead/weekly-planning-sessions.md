@@ -3,6 +3,7 @@
 Notes from Georgia and Bastian's weekly planning sessions 
 
 * [12 June 2023](#date-12-june-2023)
+* [15 May 2023](#date-15-may-2023)
 * [09 May 2023](#date-09-may-2023)
 * [24 April 2023](#date-24-april-2023)
 * [03 April 2023](#date-03-april-2023)
@@ -14,6 +15,7 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
 
 ### Date 12 June 2023
 
@@ -32,6 +34,13 @@ Notes from Georgia and Bastian's weekly planning sessions
 * Plan out some user testing and engagement options for testing the platform
   * Questions to think about: Which features do we want to test/with which priority? Which demographics do we want to test with (gender, age, autistic adult/caretaker, new to project or existing community member, researchers? …) 
   * Try to find time with Kirstie to agree on those aspects of what/how to test
+
+
+### Date 15 May 2023
+
+* Respond to ethics review
+* Work with mentor on AutSPACEs
+* Draft appraisal via. Cezanne
 
 ### Date 09 May 2023
 
