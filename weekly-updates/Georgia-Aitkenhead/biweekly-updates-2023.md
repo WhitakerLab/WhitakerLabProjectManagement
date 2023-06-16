@@ -37,6 +37,17 @@ Georgia's biweekly meeting notes.
 
 * Helping cut down/edit abstract and to preprint moderation paper
 
+#### What would you like to work on next week?
+
+* Complete online Cezanne courses
+* Send out June newsletter
+* Release pre-print of moderation paper
+* Make progress with payment options for participants
+* Getting in touch with and onboarding AG
+* Completing Quarto website
+* Producing lightning talk for SSI
+
+
 ### Date: 12 May 2023
 
 #### Who did you help this week?
@@ -47,16 +58,6 @@ Georgia's biweekly meeting notes.
 
 * IS helped with coding challenges for AutSPACEs
 * DS, BGT, and DC helped with travel booking for conference
-
-#### What would you like to work on next week?
-
-* Complete online Cezanne courses
-* Send out June newsletter
-* Release pre-print of moderation paper
-* Make progress with payment options for participants
-* Getting in touch with and onboarding AG
-* Completing Quarto website
-* Producing lightning talk for SSI
 
 #### What did you achieve?
 
