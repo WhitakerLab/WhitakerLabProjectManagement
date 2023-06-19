@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [19 June 2023](#date-19-june-2023)
 * [12 June 2023](#date-12-june-2023)
 * [15 May 2023](#date-15-may-2023)
 * [09 May 2023](#date-09-may-2023)
@@ -16,6 +17,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
 
+### Date 19 June 2023
+
+* Send out June newsletter
+* Prepare July meetup
+* Release pre-print of moderation paper
+* Getting in touch with and onboarding AG
+* Completing Quarto website
+* Producing lightning talk for SSI
 
 ### Date 12 June 2023
 
