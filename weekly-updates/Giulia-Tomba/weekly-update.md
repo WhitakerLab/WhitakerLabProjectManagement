@@ -1,5 +1,6 @@
 # Bi-weekly meetings with Arron
 
+* [19 June 2023](#date-19-june-2023)
 * [25 May 2023](#date-25-may-2023)
 * [29 March 2023](#date-29-march-2023)
 * [28 February 2023](#date-28-february-2023)
@@ -9,6 +10,28 @@
 * [10 November 2022](#date-10-november-2022)
 * [21 October 2022](#date-21-october-2022)
 * [22 September 2022](#date-22-september-2022)
+
+### Date: 19 June 2023
+
+#### Who did you help this week?
+* 
+
+#### Who helped you this week?
+* had a mentor session with JF
+
+#### What did you achieve?
+*  going through the new set of Turing Bob's courses
+*  technical retraining
+
+#### What did you struggle with?
+* 
+
+#### Where do you need help from Arron?
+* objectives for Turing review (https://hackmd.io/hXfAk_F3S_mL50MYBrLb1w?view)
+* comments for Probation Review
+
+#### What would you like to work on next week?
+* continue with statistical/data science training
 
 
 ### Date: 25 May 2023
