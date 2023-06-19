@@ -1,5 +1,6 @@
 # Bi-weekly meetings with Arron
 
+* [25 May 2023](#date-25-may-2023)
 * [29 March 2023](#date-29-march-2023)
 * [28 February 2023](#date-28-february-2023)
 * [26 January 2023](#date-26-january-2023)
@@ -8,6 +9,38 @@
 * [10 November 2022](#date-10-november-2022)
 * [21 October 2022](#date-21-october-2022)
 * [22 September 2022](#date-22-september-2022)
+
+
+### Date: 25 May 2023
+
+#### Who did you help this week?
+* helped a bit with the EDoN review
+* helped as online facilitator at the AIM RSF conference
+
+#### Who helped you this week?
+* all of the EDoN team during the review! it was useful to understand better where EDoN is at the moment
+
+#### What did you achieve?
+* attended part of the Dementia Research Conference by Brighton and Sussex Medical School
+* attended the Neurodiversity workshop by the Turing
+* attended "Public Engagement: Data for Science and Health" organised by AIM RSF
+* attended the "Publishing a Scientific Research Paper" organised by Cofactor for the Daphne Jackson Trust (first of three compulsory courses)
+* attended the "Interpersonal Skills Programme: Communicating with Others" course by the Turing
+* had a preliminary chat with SW and EB about inter-Hubs information exchange 
+
+#### What did you struggle with?
+* the EDoN review was a bit tricky!
+
+#### Where do you need help from Arron?
+* objectives for Turing review (https://hackmd.io/hXfAk_F3S_mL50MYBrLb1w?view)
+* what could be the best interface for information exchange?
+* do I need to do anything specific for the Probation Review?
+
+#### What would you like to work on next week?
+* continue with statistical/data science training
+* set up an interface for information exchange 
+* check DP UK
+
 
 ### Date: 29 March 2023
 
