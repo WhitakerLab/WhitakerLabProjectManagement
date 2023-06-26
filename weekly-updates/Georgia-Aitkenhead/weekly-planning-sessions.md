@@ -2,7 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
-* [26 June 2023](#date-19-june-2023)
+* [26 June 2023](#date-26-june-2023)
 * [19 June 2023](#date-19-june-2023)
 * [12 June 2023](#date-12-june-2023)
 * [15 May 2023](#date-15-may-2023)
@@ -22,10 +22,12 @@ Notes from Georgia and Bastian's weekly planning sessions
 
 * Code mentor meeting
 * Co-working on AutSPACEs 
-* SSI graduation and lightning-talk
+* SSI graduation and lightning-talk (Wednesday! 🎉)
 * Facilite Pride network meeting
 * Complete Quarto website
 * Meeting with AG
+* Bigger picture: Which features/things do we want to user-test for AutSPACEs (which tasks do we give participants for think-out-loud tasks)
+  * Maybe organise meeting with KK for how she did it in her PhD
 
 ### Date 19 June 2023
 
