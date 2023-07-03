@@ -49,6 +49,7 @@ Georgia's biweekly meeting notes.
 
 #### What would you like to work on next week?
 
+* Email invites to meet-up / Bastian will share spreadsheet
 * July meet-up session
 * Planning user testing more esp. in terms of community outreach
 * Co-working with Isla and dev team
