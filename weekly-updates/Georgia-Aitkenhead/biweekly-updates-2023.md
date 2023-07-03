@@ -51,6 +51,7 @@ Georgia's biweekly meeting notes.
 
 * Email invites to meet-up / Bastian will share spreadsheet
 * July meet-up session
+* Compile list of relevant C\*Sci contacts
 * Planning user testing more esp. in terms of community outreach
 * Co-working with Isla and dev team
 * Anything I can do to help with payment options? 
