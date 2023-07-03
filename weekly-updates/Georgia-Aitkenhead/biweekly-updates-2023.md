@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [03 July 2023](#date-03-july-2023)
 * [16 June 2023](#date-16-june-2023)
 * [12 May 2023](#date-12-may-2023)
 * [02 May 2023](#date-02-may-2023)
@@ -10,6 +11,50 @@ Georgia's biweekly meeting notes.
 * [02 March 2023](#date-02-march-2023)
 * [02 February 2023](#date-02-february-2023)
 * [19 January 2023](#date-19-january-2023)
+
+### Date: 03 July 2023
+
+#### Who did you help this week?
+
+* Helped EK and LGBTQ+ working group by facilitating for roundtable 
+
+#### Who helped you this week?
+
+* AHN helped me get set up with a new computer!
+* BGT helped me with planning for user testing and onboarding AG
+
+#### What did you achieve?
+
+* Graduated from SSI code mentorship programme and presented lightning talk
+* Facilitated for the pride roundtable
+* Completed all the Bob's business courses
+* June newsletter sent out
+* Moderation paper abstract
+* Met with AG and helped plan future collaboration
+* Worked on user testing strategy
+* Created google doc and agenda for July community meet-up
+
+#### What did you struggle with?
+
+* Computer woes
+* Behind on Geekbot
+
+#### Where do you need help from Bastian?
+
+* Payment options for collaborators
+* Planning out next priorities 
+* Potentially a whole lot of password reminders over the coming days
+* Who else from C*Sci 2023 should I reach out to?
+* Engagement strategies 
+
+#### What would you like to work on next week?
+
+* Email invites to meet-up / Bastian will share spreadsheet
+* July meet-up session
+* Compile list of relevant C\*Sci contacts
+* Planning user testing more esp. in terms of community outreach
+* Co-working with Isla and dev team
+* Anything I can do to help with payment options? 
 
 ### Date: 16 June 2023
 
