@@ -21,10 +21,12 @@ Notes from Georgia and Bastian's weekly planning sessions
 
 ### Date 13 July 2023
 
-* Send out July newsletter
+* Draft July newsletter
 * Plan out August meet-up session
 * Catch up with Geekbot replies
 * Suggested list of specific tasks for user testing
+* Make edits to policy on payment options
+* Formalise a potential contracted role for SF and set up a meeting 
 
 ### Date 26 June 2023
 
