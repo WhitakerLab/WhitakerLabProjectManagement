@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [13 July 2023](#13-july-2023)
 * [26 June 2023](#date-26-june-2023)
 * [19 June 2023](#date-19-june-2023)
 * [12 June 2023](#date-12-june-2023)
@@ -17,6 +18,13 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 13 July 2023
+
+* Send out July newsletter
+* Plan out August meet-up session
+* Catch up with Geekbot replies
+* Suggested list of specific tasks for user testing
 
 ### Date 26 June 2023
 
