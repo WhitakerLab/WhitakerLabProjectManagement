@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [13 July 2023](#13-july-2023)
 * [26 June 2023](#date-26-june-2023)
 * [19 June 2023](#date-19-june-2023)
 * [12 June 2023](#date-12-june-2023)
@@ -17,6 +18,22 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 13 July 2023
+
+* Draft July newsletter
+  * Moderation paper published + will be next month's topic of conversation at meetup
+  * Interview / new team member
+  * Bastian at BOSC conference (slides/video)
+  * (maybe user testing if we can start)
+* Plan out August meet-up session
+  * Talk/presentation on moderation paper
+  * (demo updates of REG)
+* Catch up with Geekbot replies
+* Suggested list of specific tasks for user testing
+* Make edits to policy on payment options
+* Formalise a potential contracted role for SF and set up a meeting
+  * Talk to SF first to see what limitations she might have
 
 ### Date 26 June 2023
 
