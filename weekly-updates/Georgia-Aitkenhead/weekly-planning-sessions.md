@@ -22,7 +22,13 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 13 July 2023
 
 * Draft July newsletter
+  * Moderation paper published
+  * Interview / new team member
+  * (upcoming user testing)
+  * Bastian at BOSC conference (slides/video)
 * Plan out August meet-up session
+  * Talk/presentation on moderation paper
+  * demo updates of REG
 * Catch up with Geekbot replies
 * Suggested list of specific tasks for user testing
 * Make edits to policy on payment options
