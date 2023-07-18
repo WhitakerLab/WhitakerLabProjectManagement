@@ -26,6 +26,7 @@ Notes from Georgia and Bastian's weekly planning sessions
   * James will be there, Susanna maybe. Can plan on Friday!
 * Send out newsletter
   * Send out on Monday (24th of July)
+  * BGT to read draft before
 * Create a draft targetted user testing session plan
   * Planning on Thu morning 
 * Get in touch with AG
