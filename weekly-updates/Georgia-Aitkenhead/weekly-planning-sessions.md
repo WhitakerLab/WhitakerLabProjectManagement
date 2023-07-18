@@ -23,10 +23,18 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 18 July 2023
 
 * Create presentation on moderation paper with James and Susanna
+  * James will be there, Susanna maybe. Can plan on Friday!
 * Send out newsletter
+  * Send out on Monday (24th of July)
 * Create a draft targetted user testing session plan
+  * Planning on Thu morning 
 * Get in touch with AG
+  * Check in end of week
 * Formalise a potential contracted role for SF and set up a meeting
+  *  Vouchers would work best for SF
+  *  Figure out process for inside Turing -> Asking DS for whom to ask :D
+  *  Get in touch with SSI for voucher options for study participants in user testing
+    *  GA will draft email, BGT & GA to email together 
 
 ### Date 13 July 2023
 
