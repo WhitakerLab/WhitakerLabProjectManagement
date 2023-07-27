@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [27 July 2023](#27-july-2023)
 * [18 July 2023](#18-july-2023)
 * [13 July 2023](#13-july-2023)
 * [26 June 2023](#date-26-june-2023)
@@ -19,6 +20,15 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 27 July 2023
+
+* Public involvement payment policy & process - meeting with team, support progress 
+* Co-working on moderation presentation
+* Run meet-up session and deliver presentation (potentially also for PPIE community call)
+* Meet with SS to discuss SSI grant use
+* Finalise user testing plan including funding
+* Recruit for and arrange user testing sessions
 
 ### Date 18 July 2023
 
