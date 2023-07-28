@@ -45,6 +45,7 @@ Georgia's biweekly meeting notes.
 
 #### What would you like to work on next week?
 
+* Adding AG's comments on user testing to GH 
 * Send out calendar invite / reminder for meetup session on Monday
 * Public involvement payment policy & process - meeting with team, support progress
   * Meet with SS to discuss SSI grant use
@@ -53,6 +54,7 @@ Georgia's biweekly meeting notes.
 * Run meet-up session and deliver presentation
 * Finalise user testing plan including funding
 * Recruit for and arrange user testing sessions
+* review post-project report for Autistica
 
 ### Date: 03 July 2023
 
