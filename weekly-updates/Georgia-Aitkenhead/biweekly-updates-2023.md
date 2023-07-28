@@ -32,7 +32,7 @@ Georgia's biweekly meeting notes.
 * Made some progress with payment options and policy 
 * Made a draft plan of user testing session
 * Planned August meet-up and created Google doc and agenda
-* We got ethics approval and pre-print publishedl!! (Awesome team efforts!)
+* We got ethics approval and pre-print published!! (Awesome team efforts!)
 
 #### What did you struggle with?
 
