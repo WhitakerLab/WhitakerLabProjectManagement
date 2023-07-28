@@ -31,7 +31,7 @@ Georgia's biweekly meeting notes.
 * Created moderation paper presentation slides with BGT
 * Made some progress with payment options and policy 
 * Made a draft plan of user testing session
-* Planned August meet-up and created Google doc and agenda
+* Planned August meet-up and [created Google doc and agenda](https://docs.google.com/document/d/1hr5HedTQDGlwD2v70JGyqNXlZJtm8ec028rEFMDU3gM/edit)
 * We got ethics approval and pre-print published!! (Awesome team efforts!)
 
 #### What did you struggle with?
@@ -45,11 +45,12 @@ Georgia's biweekly meeting notes.
 
 #### What would you like to work on next week?
 
+* Send out calendar invite / reminder for meetup session on Monday
 * Public involvement payment policy & process - meeting with team, support progress
+  * Meet with SS to discuss SSI grant use
 * Co-working on moderation presentation
 * PPIE community call presentation
 * Run meet-up session and deliver presentation
-* Meet with SS to discuss SSI grant use
 * Finalise user testing plan including funding
 * Recruit for and arrange user testing sessions
 
