@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [28 July 2023](#date-28-july-2023)
 * [03 July 2023](#date-03-july-2023)
 * [16 June 2023](#date-16-june-2023)
 * [12 May 2023](#date-12-may-2023)
@@ -11,6 +12,46 @@ Georgia's biweekly meeting notes.
 * [02 March 2023](#date-02-march-2023)
 * [02 February 2023](#date-02-february-2023)
 * [19 January 2023](#date-19-january-2023)
+
+### Date: 28 July 2023
+
+#### Who did you help this week?
+
+* Helped SF think through payment options
+* Helped JP - contributed to policy for paying participants 
+
+#### Who helped you this week?
+
+* OO did a wonderful spotlight interview for the newsletter
+* AG gave really useful feedback on user testing ideas
+
+#### What did you achieve?
+
+* Sent out July newsletter
+* Created moderation paper presentation slides with BGT
+* Made some progress with payment options and policy 
+* Made a draft plan of user testing session
+* Planned August meet-up and created Google doc and agenda
+* We got ethics approval and pre-print publishedl!! (Awesome team efforts!)
+
+#### What did you struggle with?
+
+* I was ill a couple of weeks ago :(
+
+#### Where do you need help from Bastian?
+
+* Going through presentation and making a final version
+* Making concrete user testing plans and starting process of recruitment
+
+#### What would you like to work on next week?
+
+* Public involvement payment policy & process - meeting with team, support progress
+* Co-working on moderation presentation
+* PPIE community call presentation
+* Run meet-up session and deliver presentation
+* Meet with SS to discuss SSI grant use
+* Finalise user testing plan including funding
+* Recruit for and arrange user testing sessions
 
 ### Date: 03 July 2023
 
