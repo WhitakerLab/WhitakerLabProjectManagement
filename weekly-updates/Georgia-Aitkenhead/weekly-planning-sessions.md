@@ -25,9 +25,10 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 08 August 2023
 
 * Review Autistica report
+* Get platform running on local computer
 * Work on copy for platform
-* Draft presentation for Autistica webinar
 * Create schedule for user testing sessions
+* Draft presentation for Autistica webinar: check with susanna & james if they are interested in it 
 
 ### Date 27 July 2023
 
