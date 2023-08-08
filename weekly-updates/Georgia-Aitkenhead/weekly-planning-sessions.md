@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [08 August 2023]((#08-august-2023))
 * [27 July 2023](#27-july-2023)
 * [18 July 2023](#18-july-2023)
 * [13 July 2023](#13-july-2023)
@@ -20,6 +21,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 08 August 2023
+
+* Review Autistica report
+* Get platform running on local computer
+* Work on copy for platform
+* Create schedule for user testing sessions
+* Draft presentation for Autistica webinar: check with susanna & james if they are interested in it 
 
 ### Date 27 July 2023
 
