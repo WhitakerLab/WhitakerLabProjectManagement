@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [11 August 2023](#date-11-august-2023)
 * [28 July 2023](#date-28-july-2023)
 * [03 July 2023](#date-03-july-2023)
 * [16 June 2023](#date-16-june-2023)
@@ -12,6 +13,40 @@ Georgia's biweekly meeting notes.
 * [02 March 2023](#date-02-march-2023)
 * [02 February 2023](#date-02-february-2023)
 * [19 January 2023](#date-19-january-2023)
+
+### Date: 11 August 2023
+
+#### Who did you help this week?
+
+* Helped AB by sharing resources and tips for working with autistic people
+
+#### Who helped you this week?
+
+* BGT and HD helped me troubleshoot running platform locally
+
+#### What did you achieve?
+
+* Meet-up session hosting and presentation
+* Presentation for PPIE call
+* Got platform running locally (again)
+* Brainstorming for user test scheduling (https://hackmd.io/ssk6U9ijRkeNDMRSBf86Gg)
+* Suggested changes to platform copy (https://hackmd.io/hgpf6pRDS1OpCcl5er046w)
+* Reviewed post-project report for Autistica
+
+#### What did you struggle with?
+
+* Meds are a little sedating so not fully on form
+
+#### Where do you need help from Bastian?
+
+* User testing schedule and recruitment plans
+* Planning next steps 
+
+#### What would you like to work on next week?
+
+* Co-working with JS and SF to brainstorm plans for the webinar
+* Set up meeting with AG and dev team to discuss user testing
+* Implement copy changes to platform
 
 ### Date: 28 July 2023
 
