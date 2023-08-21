@@ -26,7 +26,13 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 21 August 2023
 
 * Plan out August meet-up session and send reminder email
-* Send out August newsletter
+  * chat about story vs experience terminology
+  * progress from dev team 
+* Send out August newsletter, topics:
+  *  Ask people to email us if they wanna participate in user testing (ideally people who aren't regulars at meetups)
+  *  Ask AG if they'd be happy to be a contributor spotlight, DS as potential backup, BA as 2nd backup?
+  *  Recording of PPIE meet-up talk 
+  *  Next meet-up 
 * Co-working with JS and SF to brainstorm plans for the webinar
 * PR for platform copy 
 
