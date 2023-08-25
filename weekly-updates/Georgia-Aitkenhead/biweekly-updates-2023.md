@@ -36,9 +36,19 @@ Georgia's biweekly meeting notes.
 
 #### What did you struggle with?
 
+* Some formatting issues with the AutSPACEs code
+
 #### Where do you need help from Bastian?
 
+* Planning for AutSPACEs webinar
+* Code for AutSPACEs platform/PR 
+
 #### What would you like to work on next week?
+
+* Run meet-up session
+* Send newsletter
+* Work on AutSPACEs webinar
+* Continue working on copy for AutSPACEs platform 
 
 ### Date: 11 August 2023
 
