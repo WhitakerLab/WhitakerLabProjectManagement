@@ -43,8 +43,9 @@ Georgia's biweekly meeting notes.
 * Planning for AutSPACEs webinar
 * Code for AutSPACEs platform/PR 
 
-#### What would you like to work on next week?
+#### What would you like to work during the next two weeks?
 
+* Prepare the PPIE accessibility slides
 * Run meet-up session
 * Send newsletter
 * Work on AutSPACEs webinar
