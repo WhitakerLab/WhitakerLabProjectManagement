@@ -19,7 +19,7 @@ Georgia's biweekly meeting notes.
 
 #### Who did you help this week?
 
-*  Helped BGT with tect for user testing onboarding wiki
+*  Helped BGT with text for user testing onboarding wiki
 
 #### Who helped you this week?
 
