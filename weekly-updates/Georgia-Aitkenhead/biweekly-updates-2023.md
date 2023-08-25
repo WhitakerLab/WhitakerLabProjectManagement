@@ -19,7 +19,7 @@ Georgia's biweekly meeting notes.
 
 #### Who did you help this week?
 
-*  Helped BGT with tect for user testing onboarding wiki
+*  Helped BGT with text for user testing onboarding wiki
 
 #### Who helped you this week?
 
@@ -43,8 +43,9 @@ Georgia's biweekly meeting notes.
 * Planning for AutSPACEs webinar
 * Code for AutSPACEs platform/PR 
 
-#### What would you like to work on next week?
+#### What would you like to work during the next two weeks?
 
+* Prepare the PPIE accessibility slides
 * Run meet-up session
 * Send newsletter
 * Work on AutSPACEs webinar
