@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [25 August 2023](#date-25-august-2023)
 * [11 August 2023](#date-11-august-2023)
 * [28 July 2023](#date-28-july-2023)
 * [03 July 2023](#date-03-july-2023)
@@ -13,6 +14,42 @@ Georgia's biweekly meeting notes.
 * [02 March 2023](#date-02-march-2023)
 * [02 February 2023](#date-02-february-2023)
 * [19 January 2023](#date-19-january-2023)
+
+### Date: 25 August 2023
+
+#### Who did you help this week?
+
+*  Helped BGT with text for user testing onboarding wiki
+
+#### Who helped you this week?
+
+* AG agreed to be contributor spotlight for AutSPACEs
+* BGT helped me with code for AutSPACEs 
+
+#### What did you achieve?
+
+* Made copy changes to platform and got platform running locally 
+* Created agenda/notes goc for meet-up session
+* Drafted August newsletter
+* Sent application to Autistica for recruiting participants using Discover network
+* Applied for and got funds for vouchers to pay user testing participants 
+
+#### What did you struggle with?
+
+* Some formatting issues with the AutSPACEs code
+
+#### Where do you need help from Bastian?
+
+* Planning for AutSPACEs webinar
+* Code for AutSPACEs platform/PR 
+
+#### What would you like to work during the next two weeks?
+
+* Prepare the PPIE accessibility slides
+* Run meet-up session
+* Send newsletter
+* Work on AutSPACEs webinar
+* Continue working on copy for AutSPACEs platform 
 
 ### Date: 11 August 2023
 
