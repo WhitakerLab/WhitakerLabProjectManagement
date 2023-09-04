@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [04 September 2023](#04-september-2023)
 * [21 August 2023](#21-august-2023)
 * [08 August 2023](#08-august-2023)
 * [27 July 2023](#27-july-2023)
@@ -22,6 +23,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 04 September 2023
+
+* Respond to applicants and arrange first wave of user testing
+* PPIE talk
+* Run meet-up session
+* Co-working on Autistica webinar with SF and JS
+* Any adjusdtements to PR after review
 
 ### Date 21 August 2023
 
