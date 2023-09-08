@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [08 September 2023](#date-08-september-2023)
 * [25 August 2023](#date-25-august-2023)
 * [11 August 2023](#date-11-august-2023)
 * [28 July 2023](#date-28-july-2023)
@@ -14,6 +15,40 @@ Georgia's biweekly meeting notes.
 * [02 March 2023](#date-02-march-2023)
 * [02 February 2023](#date-02-february-2023)
 * [19 January 2023](#date-19-january-2023)
+
+### Date: 08 September 2023
+
+#### Who did you help?
+
+* Helped run meet-up session by facilitating 
+
+#### Who helped you?
+
+* BGT helped with planning, running user tests, resetting platform, making notes etc.
+* Lots of people helped by testing the platform! 
+
+#### What did you achieve?
+
+* Ran 10 user tests
+* AutSPACEs meet-up session
+* PR for platform
+* Presented for PPIE community call 
+
+#### What did you struggle with?
+
+* Energy levels/momentum
+* Responding to some critical emails - but got help from BGT and it was fine! 
+
+#### Where do you need help from Bastian?
+
+* Planning for while he is away and deciding on work for this period
+
+#### What would you like to work during the next two weeks?
+
+* Work on TReX application with DS
+* 3 more user testing sessions
+* Work on webinar
+* Sending out user testing notes and publishing them with approval
 
 ### Date: 25 August 2023
 
