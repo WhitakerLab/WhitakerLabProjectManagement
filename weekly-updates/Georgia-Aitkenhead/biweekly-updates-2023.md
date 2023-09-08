@@ -20,7 +20,8 @@ Georgia's biweekly meeting notes.
 
 #### Who did you help?
 
-* Helped run meet-up session by facilitating 
+* AutSPACEs generally: Helped run meet-up session by facilitating
+* Bastian/Batool/AIM RSF: Giving a talk at the PPIE session
 
 #### Who helped you?
 
@@ -41,14 +42,26 @@ Georgia's biweekly meeting notes.
 
 #### Where do you need help from Bastian?
 
-* Planning for while he is away and deciding on work for this period
+* Planning for while he is away (September 15-24) and deciding on work for this period
 
 #### What would you like to work during the next two weeks?
 
+* User testing follow-ups: 
+  * Sending out user testing notes and publishing them with approval, Ideally sending out asap next week (Sep 11-15)
+  * Turn general problems into GH issues (can be done on Tuesday 12th co-working)
+  * 4 more user testing sessions on Sep 12 & 13
+  * Maybe "quick" review of the videos to check if something was missed
+    *  Potential quotes: understanding of the platform, value of autistic input being recognized, thought we put into moderation, thought of anonymity/privacy/data protection, "wording makes me feel safe", "being on the side of autistic people" (and also some of the issues people identified)
+  *  checkin with SSI (if not done by time Bastian goes on leave)
+* [Work on Autistica webinar](https://hackmd.io/4sYuudxuReeSGrdf8Mk8qg) - need bios of JS, SF & GA and then submit to Mercedes at Autistica
 * Work on TReX application with DS
-* 3 more user testing sessions
-* Work on webinar
-* Sending out user testing notes and publishing them with approval
+
+* Week 18-22 September (Bastian on Leave)
+  * Start drafting newsletter
+    * Spotlight: David S 
+  * Community meet-up planning
+    *  topics: learnings/feedback from user testing 
+
 
 ### Date: 25 August 2023
 
