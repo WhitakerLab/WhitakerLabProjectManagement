@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [26 September 2023](#26-september-2023)
 * [04 September 2023](#04-september-2023)
 * [21 August 2023](#21-august-2023)
 * [08 August 2023](#08-august-2023)
@@ -23,6 +24,37 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 26 September 2023
+
+#### Updates from Bastian's leave
+* User testing follow-ups: 
+  * Sending out user testing notes and publishing them with approval, Ideally sending out asap next week (Sep 11-15)
+    * All sent out, got some requests for changes, only waiting for one last approval
+    * BGT: Noticed that there's only generalized demographics, not deidentified "groupings" per participant. Should we reach out to participants and ask if we can give gender, age range (instead of actual age), relation to autism?
+  * Maybe "quick" review of the videos to check if something was missed
+    *  Potential quotes: understanding of the platform, value of autistic input being recognized, thought we put into moderation, thought of anonymity/privacy/data protection, "wording makes me feel safe", "being on the side of autistic people" (and also some of the issues people identified)
+      * done the quotes and added to PR above (already approved from participants)
+*  checked in with SSI re vouchers, no response yet
+* Autistica Webinar
+  * collected slides
+  * JS confirmed being able to attend
+  * investigated doing interactive elements through Slido
+* Work on TReX application with DS
+  * compiled & sent DS existing information, DS compiled TREx documents 
+* Drafted newsletter & asked DS for spotlight
+
+#### To-Do Week 25-30 September
+* Prepare Autistica webinar
+ *  reach out to SF
+ *  schedule meeting with presenters
+* Planning October meet-up session
+* Send September newsletter
+* Review ECSA abstract: https://hackmd.io/43xaesx8TE6VZhkVLcio_A 
+* Complete objectives & discuss with Bastian on Friday
+* Add ethics information (existing user testing approval submission)
+* Co-working with dev team
+  * PR for user tests to put everything into GitHub
 
 ### Date 04 September 2023
 
