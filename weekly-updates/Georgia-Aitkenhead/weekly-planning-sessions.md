@@ -52,6 +52,7 @@ Notes from Georgia and Bastian's weekly planning sessions
 * Send September newsletter
 * Review ECSA abstract: https://hackmd.io/43xaesx8TE6VZhkVLcio_A 
 * Complete objectives & discuss with Bastian on Friday
+* Add ethics information (existing user testing approval submission)
 * Co-working with dev team
   * PR for user tests to put everything into GitHub
 
