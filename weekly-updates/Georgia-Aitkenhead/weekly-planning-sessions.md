@@ -27,12 +27,33 @@ Notes from Georgia and Bastian's weekly planning sessions
 
 ### Date 26 September 2023
 
-* PR for user tests to put everything into GitHub
-* Complete objectives
+#### Updates from Bastian's leave
+* User testing follow-ups: 
+  * Sending out user testing notes and publishing them with approval, Ideally sending out asap next week (Sep 11-15)
+    * All sent out, got some requests for changes, only waiting for one last approval
+    * BGT: Noticed that there's only generalized demographics, not deidentified "groupings" per participant. Should we reach out to participants and ask if we can give gender, age range (instead of actual age), relation to autism?
+  * Maybe "quick" review of the videos to check if something was missed
+    *  Potential quotes: understanding of the platform, value of autistic input being recognized, thought we put into moderation, thought of anonymity/privacy/data protection, "wording makes me feel safe", "being on the side of autistic people" (and also some of the issues people identified)
+      * done the quotes and added to PR above (already approved from participants)
+*  checked in with SSI re vouchers, no response yet
+* Autistica Webinar
+  * collected slides
+  * JS confirmed being able to attend
+  * investigated doing interactive elements through Slido
+* Work on TReX application with DS
+  * compiled & sent DS existing information, DS compiled TREx documents 
+* Drafted newsletter & asked DS for spotlight
+
+#### To-Do Week 25-30 September
+* Prepare Autistica webinar
+ *  reach out to SF
+ *  schedule meeting with presenters
+* Planning October meet-up session
 * Send September newsletter
+* Review ECSA abstract: https://hackmd.io/43xaesx8TE6VZhkVLcio_A 
+* Complete objectives & discuss with Bastian on Friday
 * Co-working with dev team
-* Run October meet-up session
-* Present Autistica webinar
+  * PR for user tests to put everything into GitHub
 
 ### Date 04 September 2023
 
