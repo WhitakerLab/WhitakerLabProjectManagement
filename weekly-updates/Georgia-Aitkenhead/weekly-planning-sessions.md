@@ -29,13 +29,19 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 02 October 2023
 
 * Co-working with JS and SF to run through Autistica webinar
+* Work with DS on ethics submission
 * Present webinar
 * Finish PR for notes from user testing session and submit
+  * Adding Tom's notes
+  * Proofread, add ToC etc
 * Reach out to participants to see if they would be happy with demographic info being connected to their responses 
 * Respond to review of existing PR for platform copy
-* Work with DS on ethics submission
 * Facilitate meet-up session on Thursday 
-* Finish objectives and discuss with Bastian on Friday    
+* Finish objectives and discuss with Bastian on Friday
+* Book chapter with Bastian
+  * draft document: https://docs.google.com/document/d/1bYI9sfOWj_FOV3FtQTqh1mILJL7qcMwijMM2e_K7Bgs/edit?usp=sharing
+  * Georgia will contribute on Fri morning, adding the "concrete examples" section
+  * catch-up with Bastian on Fri afternoon
 
 ### Date 26 September 2023
 
@@ -62,7 +68,7 @@ Notes from Georgia and Bastian's weekly planning sessions
  *  schedule meeting with presenters
 * Planning October meet-up session
 * Send September newsletter
-* Review ECSA abstract: htCtps://hackmd.io/43xaesx8TE6VZhkVLcio_A 
+* Review ECSA abstract: https://hackmd.io/43xaesx8TE6VZhkVLcio_A 
 * Complete objectives & discuss with Bastian on Friday
 * Add ethics information (existing user testing approval submission)
 * Co-working with dev team
