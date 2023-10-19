@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [10 0ctober 2023](#10-october-2023)
 * [02 October 2023](#02-october-2023)
 * [26 September 2023](#26-september-2023)
 * [04 September 2023](#04-september-2023)
@@ -25,6 +26,23 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 10 October 2023
+
+* Work on copy for platform
+* Support DS with ethics submission
+* Start work on TTW chapter
+  * Considering outline, following up with JS for his existing work unless we can find it in GH
+* If feedback/edit requests: work on book chapter for JG & NS 
+
+Currently blocking/waiting:   
+* Explore options for co-writer of copy for platform
+  * Would make sense to work with someone autistic for a more collective voice (e.g. "they" vs. "we" when talking about autistic people)
+  * who could be someone co-writing this? would SSI be able to fund this? open Q for once we have the vouchers (see below) 
+* Email user test participants with vouchers and request to use demographic info
+  * Vouchers still stalled with SSI, BGT pinged SSI again
+* Update user testing notes
+  * waiting on vouchers 
 
 ### Date 02 October 2023
 
