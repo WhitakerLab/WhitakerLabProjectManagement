@@ -35,6 +35,7 @@ Short-term planning:
 * Chose someone to be spotlighted in the October newsletter (potentially a previous user tester who was interested in further collab)
 * Write October newsletter
 * Plan November meet-up session
+* Make new SSI LowFAT entry for more user testing
 * Organise meeting with MP about future collaborations (potentially longer-term)
 
 Longer-term (while Bastian is gone in November, from November 9 to December 6 incl):
