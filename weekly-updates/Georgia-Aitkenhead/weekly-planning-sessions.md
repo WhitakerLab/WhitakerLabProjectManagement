@@ -32,6 +32,7 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 23 October 2023
 
 * Plan out NHS presentation
+* Reminder existing user test participants for vouchers
 * Plan November meet-up session
   * Meet with SF and BGT to discuss user testing analysis
 * Chose someone to be spotlighted in the October newsletter (potentially a previous user tester who was interested in further collab)
