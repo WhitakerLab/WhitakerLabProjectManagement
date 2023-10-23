@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [23 October 2023](#23-october-2023)
 * [19 October 2023](#19-october-2023)
 * [10 0ctober 2023](#10-october-2023)
 * [02 October 2023](#02-october-2023)
@@ -27,6 +28,15 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 23 October 2023
+
+* Plan out NHS presentation
+* Meet with SF and BGT to discuss user testing analysis
+* Chose someone to be spotlighted in the October newsletter (potentially a previous user tester who was interested in further collab)
+* Write October newsletter
+* Plan November meet-up session
+* Make new SSI LowFAT entry for more user testing
 
 ### Date 19 October 2023
 
