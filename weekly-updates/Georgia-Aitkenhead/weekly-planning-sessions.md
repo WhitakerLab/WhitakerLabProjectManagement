@@ -32,11 +32,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 23 October 2023
 
 * Plan out NHS presentation
-* Meet with SF and BGT to discuss user testing analysis
+* Plan November meet-up session
+  * Meet with SF and BGT to discuss user testing analysis
 * Chose someone to be spotlighted in the October newsletter (potentially a previous user tester who was interested in further collab)
 * Write October newsletter
-* Plan November meet-up session
+  * poster for conference https://zenodo.org/records/10034307 
 * Make new SSI LowFAT entry for more user testing
+  * https://hackmd.io/U0-xEhrcROSpein4RvBICw
+  * Ready to submit for GA & BGT! 🚀
 
 ### Date 19 October 2023
 
