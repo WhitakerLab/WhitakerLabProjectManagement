@@ -30,7 +30,7 @@ Georgia's biweekly meeting notes.
 #### What did you achieve?
 
 * Sent October newsletter
-* Planning and agenda for November newsletter
+* Planning and agenda for November meet-up
 * Draft NHS presentation slides
 * Trans awareness training
 * Reminder emails to user testing participants 🤞
@@ -44,10 +44,13 @@ Georgia's biweekly meeting notes.
 #### Where do you need help from Bastian?
 
 * Run through of NHS talk
+  * GA to meet with SF for run-through
 * Autistica showcase
-* Next wave of user testing? 
+  * still waiting for a date with Autistica
+* Next wave of user testing?
+  * Probably in early/mid December? Depending on the platform progress
 
-#### What would you like to work during the next two weeks?
+#### What would you like to work during the next two weeks/until December?
 
 * Autistica showcase
 * Run November meet-up session
