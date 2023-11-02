@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [02 November 2023](#date-02-november-2023)
 * [08 September 2023](#date-08-september-2023)
 * [25 August 2023](#date-25-august-2023)
 * [11 August 2023](#date-11-august-2023)
@@ -15,6 +16,48 @@ Georgia's biweekly meeting notes.
 * [02 March 2023](#date-02-march-2023)
 * [02 February 2023](#date-02-february-2023)
 * [19 January 2023](#date-19-january-2023)
+
+### Date: 02 November 2023
+
+#### Who did you help?
+
+* Supported SF
+
+#### Who helped you?
+
+* AM did a wonderful spotlight interview 
+
+#### What did you achieve?
+
+* Sent October newsletter
+* Planning and agenda for November newsletter
+* Draft NHS presentation slides
+* Trans awareness training
+* Reminder emails to user testing participants 🤞
+* Successful SSI funding application for user testing   
+
+#### What did you struggle with?
+
+* Annoying cold/feeling tired
+* Sloooow internet in Kent 
+
+#### Where do you need help from Bastian?
+
+* Run through of NHS talk
+* Autistica showcase
+* Next wave of user testing? 
+
+#### What would you like to work during the next two weeks?
+
+* Autistica showcase
+* Run November meet-up session
+* Ethics submission with DS
+* November newsletter (find contributor, draft & send). DS can help with feedback on draft
+* December meet-up planning
+* TTW chapter: Co-working with JS
+* Improve platform copy
+* Begin process of finding/recruiting co-author for platform copy
+* Ultimately: PR for platform copy
 
 ### Date: 08 September 2023
 
