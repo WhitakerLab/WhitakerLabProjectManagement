@@ -1,3 +1,34 @@
+# Bi-weekly meetings with Bastian
+
+* [11 December 2023](#date-11-december-2023)
+
+### Date: 11 December 2023
+
+#### Who did you help this week?
+* SB, but only with a tiny bit of editing - hope to do more in the next round of revisions!
+* worked with Lizzie on the survey
+
+#### Who helped you this week?
+* VK was really helpful with the ethics submission
+
+#### What did you achieve?
+*  participated to 2 PPIE meetings to go through the survey
+*  implemented the survey on SmartSurvey: https://www.smartsurvey.co.uk/s/3DUAX6/
+*  submitted the documents for ethics approval
+*  started settig up a worksheet for literature review on fairness etc https://docs.google.com/spreadsheets/d/11eOobBgFDXuJsTLe6Xrz_G7KeZgb1rJn_p6O_Xksx5c/edit#gid=0
+
+#### What did you struggle with?
+* an endless series of colds&coughs + chickenpox for both kids
+
+#### Where do you need help from Bastian?
+* objective setting 2023-2024: https://hackmd.io/@gtomba/HkBfRFQU6
+
+#### What would you like to work on next week?
+* improve objectives
+* literature review
+
+
+
 # Bi-weekly meetings with Arron
 
 * [19 June 2023](#date-19-june-2023)
