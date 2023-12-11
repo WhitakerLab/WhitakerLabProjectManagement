@@ -2,6 +2,7 @@
 
 Georgia's biweekly meeting notes.
 
+* [11 December 2023](#date-11-december-2023)
 * [02 November 2023](#date-02-november-2023)
 * [08 September 2023](#date-08-september-2023)
 * [25 August 2023](#date-25-august-2023)
@@ -17,6 +18,40 @@ Georgia's biweekly meeting notes.
 * [02 February 2023](#date-02-february-2023)
 * [19 January 2023](#date-19-january-2023)
 
+### Date: 11 December 2023
+
+#### Who did you help?
+
+* Helped DS with ethics submission (got positive response on 1st form! 🎉)
+
+#### Who helped you?
+
+* JG did a spotlight interview for AutSPACEs
+
+#### What did you achieve?
+
+* Sent November newsletter
+* Ran December meet-up session
+* Submitted edited draft of phenomenology paper, did lots of cutting to get it into the word count!
+  * NS is now doing the bringing it together as coherent cut draft with rest of chapter
+* Met with MP
+  * had long chat, did mutual presentations
+  * will meet again now that Bastian is back
+  * Bastian might meet MP tomorrow in Paris
+* Ethics work with DS
+* Met with AM to plan co-writing for AutSPACEs copy
+  * chat with DS on if way to pay/fund her
+
+#### What did you struggle with?
+
+* Community member in distress
+
+#### Where do you need help from Bastian?
+
+* Planning next wave of user testing
+* Planning co-writing with AM
+* Preparing for AutSPACEs showcase 
+
 ### Date: 02 November 2023
 
 #### Who did you help?
@@ -25,7 +60,7 @@ Georgia's biweekly meeting notes.
 
 #### Who helped you?
 
-* AM did a wonderful spotlight interview 
+* AM did a wonderful spotlight interview
 
 #### What did you achieve?
 
