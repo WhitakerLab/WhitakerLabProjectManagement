@@ -22,7 +22,7 @@ Georgia's biweekly meeting notes.
 
 #### Who did you help?
 
-* Helped DS with ethics submission
+* Helped DS with ethics submission (got positive response on 1st form! 🎉)
 
 #### Who helped you?
 
@@ -32,10 +32,15 @@ Georgia's biweekly meeting notes.
 
 * Sent November newsletter
 * Ran December meet-up session
+* Submitted edited draft of phenomenology paper, did lots of cutting to get it into the word count!
+  * NS is now doing the bringing it together as coherent cut draft with rest of chapter
 * Met with MP
-* Submitted edited draft of phenomenology paper
+  * had long chat, did mutual presentations
+  * will meet again now that Bastian is back
+  * Bastian might meet MP tomorrow in Paris
 * Ethics work with DS
-* Met with AM to plan co-writing 
+* Met with AM to plan co-writing for AutSPACEs copy
+  * chat with DS on if way to pay/fund her
 
 #### What did you struggle with?
 
