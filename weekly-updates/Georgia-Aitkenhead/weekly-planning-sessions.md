@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [18 December 2023](#18-december-2023)
 * [23 October 2023](#23-october-2023)
 * [19 October 2023](#19-october-2023)
 * [10 0ctober 2023](#10-october-2023)
@@ -28,6 +29,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 18 December 2023
+
+* Send December newsletter
+* Meet up with AM - plan ask for co-writing
+* Co-working HL and BGT
+* Nesta workshop
+* Wrap up before holidays 🎁
 
 ### Date 23 October 2023
 
