@@ -6,9 +6,8 @@
 ### Date: 15 January 2024
 
 #### Who did you help this week?
-* 
+
 #### Who helped you this week?
-* 
 
 #### What did you achieve?
 *  we submitted the additional information/clarifications required by TREx
