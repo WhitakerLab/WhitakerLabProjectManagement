@@ -1,6 +1,30 @@
 # Bi-weekly meetings with Bastian
 
+* [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
+
+### Date: 15 January 2024
+
+#### Who did you help this week?
+* 
+#### Who helped you this week?
+* 
+
+#### What did you achieve?
+*  we submitted the additional information/clarifications required by TREx
+*  tidied up (a bit) the links and (hopefully) useful resources accumulated over the last months
+*  worked on objectives
+
+#### What did you struggle with?
+* another week with kid at home...
+
+#### Where do you need help from Bastian?
+* objective setting 2023-2024: https://hackmd.io/@gtomba/HkBfRFQU6
+
+#### What would you like to work on next week?
+* professional development plan + submit objectives
+* work on literature summary for fairness in AI
+* make list of PPIE leads within AIM (ask BA?)
 
 ### Date: 11 December 2023
 
