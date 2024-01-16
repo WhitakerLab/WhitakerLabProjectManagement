@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [16 January 2024](#16-january-2024)
 * [23 October 2023](#23-october-2023)
 * [19 October 2023](#19-october-2023)
 * [10 0ctober 2023](#10-october-2023)
@@ -28,6 +29,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 16 January 2024 
+
+* Prep for meeting and and present AutSPACEs to Autistica w BGT
+* Edit and resubmit objectives
+* Meet with BGT JS and SF to discuss moderation paper/co-working
+* Plan for AI UK
+* Anything that could help progress payment options for participants
 
 ### Date 23 October 2023
 
