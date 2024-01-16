@@ -33,10 +33,15 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 16 January 2024 
 
 * Prep for meeting and and present AutSPACEs to Autistica w BGT
+  * do a test run before event
 * Edit and resubmit objectives
 * Meet with BGT JS and SF to discuss moderation paper/co-working
+  * both will make the meeting, but no feedback on paper so far
 * Plan for AI UK
+  * working with AB, DS, JL & LH on it
+  * todo: add BGT to conversation
 * Anything that could help progress payment options for participants
+  * currently with DS to figure out some logistics
 
 ### Date 23 October 2023
 
