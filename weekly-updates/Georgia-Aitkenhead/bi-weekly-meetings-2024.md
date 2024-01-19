@@ -23,6 +23,7 @@ Georgia's biweekly meeting notes.
 * Review of moderation paper, adding additional detail in appendix, co-working with SF and JS.
 * Co-working on funding participants with DS and BGT
 * Brainstorming AI UK ideas with DS and BGT
+* Completed Bob's business modules 
 * Refining objectives after KW review
 
 ### What did you struggle with?
