@@ -45,6 +45,10 @@ Notes from Georgia and Bastian's weekly planning sessions
   * wait for DS green light that we can spend the money, topic for co-work
 * RASP meeting
 * Thinking about SSI CW24: what format/content (demo, workshop, lightning talk)?
+* TODO for planning user tests:
+  * finds time slots (right number of time slots)
+  * set up the MS scheduling thing in Outlook
+  * email people that wanted to participate but didn't get a chance
 
 ### Date 16 January 2024
 
