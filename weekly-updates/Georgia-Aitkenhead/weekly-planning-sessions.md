@@ -2,7 +2,9 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [29 January 2024](#29-january-2024)
 * [16 January 2024](#16-january-2024)
+* [18 December 2023](#18-december-2023)
 * [23 October 2023](#23-october-2023)
 * [19 October 2023](#19-october-2023)
 * [10 0ctober 2023](#10-october-2023)
@@ -30,7 +32,25 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
 
-### Date 16 January 2024 
+### Date 29 January 2024
+
+* Send out January newsletter
+  * BGT already edited it
+  * send out on Tuesday to community, regardless of spotlight
+* Co-working with DS on participant payment/compensation presentation for meet-up session
+* Create agenda for next meet-up session and run meet-up session
+* Plan out citizen science talk for AI UK with BGT and JS
+  * find some time with everyone involved?
+* Plan out co-writing with AM?
+  * wait for DS green light that we can spend the money, topic for co-work
+* RASP meeting
+* Thinking about SSI CW24: what format/content (demo, workshop, lightning talk)?
+* TODO for planning user tests:
+  * finds time slots (right number of time slots)
+  * set up the MS scheduling thing in Outlook
+  * email people that wanted to participate but didn't get a chance
+
+### Date 16 January 2024
 
 * Prep for meeting and and present AutSPACEs to Autistica w BGT
   * do a test run before event
@@ -42,6 +62,14 @@ Notes from Georgia and Bastian's weekly planning sessions
   * todo: add BGT to conversation
 * Anything that could help progress payment options for participants
   * currently with DS to figure out some logistics
+
+### Date 18 December 2023
+
+* Send December newsletter
+* Meet up with AM - plan ask for co-writing
+* Co-working HL and BGT
+* Nesta workshop
+* Wrap up before holidays 🎁
 
 ### Date 23 October 2023
 
