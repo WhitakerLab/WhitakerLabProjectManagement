@@ -1,7 +1,31 @@
 # Bi-weekly meetings with Bastian
 
+* [29 January 2024](#date-29-january-2024)
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
+
+### Date: 29 January 2024
+
+#### Who did you help this week?
+* JF got in touch about the career returner fellowship - sent a few comments on draft for eligibility
+   
+#### Who helped you this week?
+* BGT with the objectives and TREx!
+
+#### What did you achieve?
+*  finalised objectives/professional development (to be loaded on Cezanne today)
+*  got started with Bob's Business
+*  went through saved literature
+
+#### What did you struggle with?
+* everything pretty normal
+
+#### Where do you need help from Bastian?
+* shall I nudge Dennae about TREx?
+
+#### What would you like to work on next week?
+* continue work on literature summary for fairness in AI
+* plan contact with AIM PPIE leads 
 
 ### Date: 15 January 2024
 
