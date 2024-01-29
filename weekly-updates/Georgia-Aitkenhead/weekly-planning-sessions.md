@@ -2,6 +2,8 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [29 January 2024](#29-january-2024)
+* [16 January 2024](#16-january-2024)
 * [18 December 2023](#18-december-2023)
 * [23 October 2023](#23-october-2023)
 * [19 October 2023](#19-october-2023)
@@ -29,6 +31,28 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 29 January 2024
+
+* Send out January newsletter
+* Co-working with DS on participant payment/compensation presentation for meet-up session 
+* Create agenda for next meet-up session and run meet-up session
+* Plan out citizen science talk for AI UK with BGT and JS 
+* Plan out co-writing with AM?
+* RASP meeting
+
+### Date 16 January 2024
+
+* Prep for meeting and and present AutSPACEs to Autistica w BGT
+  * do a test run before event
+* Edit and resubmit objectives
+* Meet with BGT JS and SF to discuss moderation paper/co-working
+  * both will make the meeting, but no feedback on paper so far
+* Plan for AI UK
+  * working with AB, DS, JL & LH on it
+  * todo: add BGT to conversation
+* Anything that could help progress payment options for participants
+  * currently with DS to figure out some logistics
 
 ### Date 18 December 2023
 
