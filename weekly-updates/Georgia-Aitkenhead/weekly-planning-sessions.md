@@ -35,10 +35,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 29 January 2024
 
 * Send out January newsletter
-* Co-working with DS on participant payment/compensation presentation for meet-up session 
+  * BGT already edited it
+  * send out on Tuesday to community, regardless of spotlight
+* Co-working with DS on participant payment/compensation presentation for meet-up session
 * Create agenda for next meet-up session and run meet-up session
-* Plan out citizen science talk for AI UK with BGT and JS 
+* Plan out citizen science talk for AI UK with BGT and JS
+  * find some time with everyone involved?
 * Plan out co-writing with AM?
+  * wait for DS green light that we can spend the money, topic for co-work
 * RASP meeting
 
 ### Date 16 January 2024
