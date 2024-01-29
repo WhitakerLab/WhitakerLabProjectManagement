@@ -44,6 +44,7 @@ Notes from Georgia and Bastian's weekly planning sessions
 * Plan out co-writing with AM?
   * wait for DS green light that we can spend the money, topic for co-work
 * RASP meeting
+* Thinking about SSI CW24: what format/content (demo, workshop, lightning talk)?
 
 ### Date 16 January 2024
 
