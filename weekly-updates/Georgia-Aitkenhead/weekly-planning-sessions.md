@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [05 February 2024](#05-february-2024)
 * [29 January 2024](#29-january-2024)
 * [16 January 2024](#16-january-2024)
 * [18 December 2023](#18-december-2023)
@@ -31,6 +32,15 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 05 February 2024
+
+* Arrange the rest of the user tests: 3 more from previous applicants, 5 for JSy and his network
+* Co-working on citizen science talk for AI UK with BGT and JSc (https://github.com/alan-turing-institute/AutSPACEs/issues/650)
+* Plan SSI CW24: what format/content - use feedback from meet-up session (https://github.com/alan-turing-institute/AutSPACEs/issues/651)
+* Co-working on ethics application resubmission with DS and BGT
+* Create qs for DM
+* Plans for after March! 
 
 ### Date 29 January 2024
 
