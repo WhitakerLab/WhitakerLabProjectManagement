@@ -37,7 +37,9 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 12 February 2024
 
 * Run and take notes of user testing sessions
+  * Bastian put voucher links into shared spreadsheet to send over to people after user testing.
 * Arrange more sessions with Jason and his network?
+  * Jason is scheduled, wait with inviting his network until after he's done
 * SSI CW24
 * Send February newsletter
 * Plan March newsletter
