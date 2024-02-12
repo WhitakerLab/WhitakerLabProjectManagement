@@ -40,10 +40,11 @@ Notes from Georgia and Bastian's weekly planning sessions
   * Bastian put voucher links into shared spreadsheet to send over to people after user testing.
 * Arrange more sessions with Jason and his network?
   * Jason is scheduled, wait with inviting his network until after he's done
-* SSI CW24
-* Send February newsletter
-* Plan March newsletter
-* Move everything to WordPress
+* Next week once user tests done:
+  * SSI CW24
+  * Send February newsletter
+  * Plan March meetup
+  * Move everything to WordPress (if DS didn't get to it yet)
 
 ### Date 05 February 2024
 
