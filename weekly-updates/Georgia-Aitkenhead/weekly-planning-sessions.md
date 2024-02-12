@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [12 February 2024](#12-february-2024)
 * [05 February 2024](#05-february-2024)
 * [29 January 2024](#29-january-2024)
 * [16 January 2024](#16-january-2024)
@@ -32,6 +33,15 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 12 February 2024
+
+* Run and take notes of user testing sessions
+* Arrange more sessions with Jason and his network?
+* SSI CW24
+* Send February newsletter
+* Plan March newsletter
+* Move everything to WordPress
 
 ### Date 05 February 2024
 
