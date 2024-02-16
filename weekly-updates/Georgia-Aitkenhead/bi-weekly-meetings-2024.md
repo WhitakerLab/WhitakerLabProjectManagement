@@ -10,35 +10,39 @@ Georgia's biweekly meeting notes.
 ### Who did you help?
 
 * Helped JS by organising a TPS coffee chat with AB to get feedback on AI assurance
+  * planning in early March!
 
 ### Who helped you? 
 
 * BGT helped me loads with user testing!
-* DS helped with budgetting and paying partiipants
+* DS helped with budgetting, paying participants, and ethics!
 * JS reviewed moderation paper 
 
 ### What did you achieve?
 
-* Running user tests
+* Running user tests (9 done, one more next week)
 * Drafted February newsletter
-* AI UK planning
+  * has job announcements in, need DMs interview & aproval for announcements from DS
+* AI UK planning: agreed on wanting to meet
 
 ### What did you struggle with 
 
 * Finding previous work - need to do some filing and organising!
 * Zoom challenges
+  * in a way good that people who struggle with zoom & their browsers still mostly manage to use AutSPACEs! 
 
 ### Where do you need help from Bastian?
 
 * Planning AI UK, CW, and next meet up session
-* Reviewing newsletter - check call for graphic designer and co-writer
+* Reviewing newsletter - check call for graphic designer and co-writer (maybe mostly on DS)
 
 ### What would you like to work during the next two weeks?
 
 * Send out notes to users and upload onto GitHub
 * Plan out AI UK, SSI CW and coffee chat
 * Send February newsletter
-* Run March meet-up session 
+* Run March meet-up session
+* Potentially: few more user testing rounds (J's & K's connections)
 
 ## 19 January 2023
 
