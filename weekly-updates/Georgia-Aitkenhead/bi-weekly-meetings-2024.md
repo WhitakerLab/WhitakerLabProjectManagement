@@ -2,7 +2,43 @@
 
 Georgia's biweekly meeting notes.
 
+* [16 February 2023](#date-16-fevruary-2023)
 * [19 January 2023](#date-19-january-2023)
+
+## 16 February 2023
+
+### Who did you help?
+
+* Helped JS by organising a TPS coffee chat with AB to get feedback on AI assurance
+
+### Who helped you? 
+
+* BGT helped me loads with user testing!
+* DS helped with budgetting and paying partiipants
+* JS reviewed moderation paper 
+
+### What did you achieve?
+
+* Running user tests
+* Drafted February newsletter
+* AI UK planning
+
+### What did you struggle with 
+
+* Finding previous work - need to do some filing and organising!
+* Zoom challenges
+
+### Where do you need help from Bastian?
+
+* Planning AI UK, CW, and next meet up session
+* Reviewing newsletter - check call for graphic designer and co-writer
+
+### What would you like to work during the next two weeks?
+
+* Send out notes to users and upload onto GitHub
+* Plan out AI UK, SSI CW and coffee chat
+* Send February newsletter
+* Run March meet-up session 
 
 ## 19 January 2023
 
