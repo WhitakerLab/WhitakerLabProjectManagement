@@ -33,11 +33,13 @@ Georgia's biweekly meeting notes.
 * Deciding on March meet-up agenda
 * Planning AI UK
 * Finding illustrator
+* EU prize submission (how can I help?)
 
 ### What would you like to work during the next two weeks?
 
 * Run March meet-up session
-* Send out user testing notes with quotes
+* Send out user testing notes with quotes and publish on GitHub
+* Quantify ease of use for each test for researcher reference 
 * Prepare for AI UK
 * Prioritise tasks from user testing sessions
 * Start working with AM on written content for website 
