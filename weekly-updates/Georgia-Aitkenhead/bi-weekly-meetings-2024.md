@@ -20,9 +20,10 @@ Georgia's biweekly meeting notes.
 ### What did you achieve?
 
 * Submitted application for SSI workshop 
-* Wrote up participant user notes with video quotes
-* Meeting prep for TPS coffee chat with JS and AB
-* Sent February newsletter with job applications
+* Wrote up participant user notes with video quotes, BGT to review
+* Meeting prep for TPS coffee chat with JS and AB (chat will be on March 27)
+* Sent February newsletter with job applications, still no illustrator, BGT will share again on social media
+* User testing: send reminders for vouchers, BGT to check who's missing and needs to be nudged in email with notes
 
 ### What did you struggle with? 
 
@@ -31,9 +32,14 @@ Georgia's biweekly meeting notes.
 ### Where do you need help from Bastian? 
 
 * Deciding on March meet-up agenda
+  * Give brief updates on user testing
+  * Discussion on how we should go about using & sharing the research data from AutSPACEs
 * Planning AI UK
+  * meeting on Thursday with DS, JS, and people from CbD 
 * Finding illustrator
+  * BGT to do more outreach, maybe also DS. "Worst case" -> Scriberia 
 * EU prize submission (how can I help?)
+  * waiting for KW to read if she is back to health in time
 
 ### What would you like to work during the next two weeks?
 
