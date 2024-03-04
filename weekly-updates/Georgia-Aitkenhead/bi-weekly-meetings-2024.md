@@ -2,10 +2,47 @@
 
 Georgia's biweekly meeting notes.
 
-* [16 February 2023](#date-16-fevruary-2023)
-* [19 January 2023](#date-19-january-2023)
+* [04 March 2024](#date-04-march-2024)
+* [16 February 2024](#date-16-february-2024)
+* [19 January 2024](#date-19-january-2024)
 
-## 16 February 2023
+## 04 March 2024
+
+### Who did you help? 
+
+* Helped JS with accessibility 
+
+### Who helped you?
+
+* BGT helped me with user testing notes and SSI workshop
+* DS and BGT helped with getting contract opportunity sent and reviewing applicants
+
+### What did you achieve?
+
+* Submitted application for SSI workshop 
+* Wrote up participant user notes with video quotes
+* Meeting prep for TPS coffee chat with JS and AB
+* Sent February newsletter with job applications
+
+### What did you struggle with? 
+
+* I was unwell and also burned out because of some personal issues so not full capacity 😿
+
+### Where do you need help from Bastian? 
+
+* Deciding on March meet-up agenda
+* Planning AI UK
+* Finding illustrator
+
+### What would you like to work during the next two weeks?
+
+* Run March meet-up session
+* Send out user testing notes with quotes
+* Prepare for AI UK
+* Prioritise tasks from user testing sessions
+* Start working with AM on written content for website 
+
+## 16 February 2024
 
 ### Who did you help?
 
@@ -44,7 +81,7 @@ Georgia's biweekly meeting notes.
 * Run March meet-up session
 * Potentially: few more user testing rounds (J's & K's connections)
 
-## 19 January 2023
+## 19 January 2024
 
 ### Who did you help?
 
