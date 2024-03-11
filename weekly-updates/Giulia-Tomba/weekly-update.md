@@ -29,6 +29,27 @@
 * dissemination of the survey
 * plan analysis
 
+### Date: 26 February 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+* SB put me in touch with the PPIE leads for MELD-B, AI-MIXED, DECODE
+
+#### What did you achieve?
+* put together a bit of summary background for the survey
+
+#### What did you struggle with?
+* maintaining focus due to a couple of health hiccups
+
+#### Where do you need help from Bastian?
+* planning meetings with PPIE leads
+
+#### What would you like to work on next week?
+* prepare and have meetings with PPIE leads
+* learn more about approaches for survey analysis
+
 
 ### Date: 29 January 2024
 
