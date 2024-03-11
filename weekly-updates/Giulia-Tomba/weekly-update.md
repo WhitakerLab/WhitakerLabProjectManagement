@@ -1,30 +1,33 @@
 # Bi-weekly meetings with Bastian
 
+* [11 March 2024](#date-11-march-2024)
 * [26 February 2024](#date-26-february-2024)
 * [29 January 2024](#date-29-january-2024)
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
 
-### Date: 26 February 2024
+### Date: 11 March 2024
 
 #### Who did you help this week?
 * 
    
 #### Who helped you this week?
-* SB put me in touch with the PPIE leads for MELD-B, AI-MIXED, DECODE
+* SB gave me contact details for the remaining consortia
 
 #### What did you achieve?
-* put together a bit of summary background for the survey
+* met the PPIE leads for DECODE, Cluster-AIM and MELD-B
+* arranged for meetings with AIM-CISC and OPTIMAL, still no response from DynAIRx and MULTIPLY
+* applied for the Elementary Academy by DPUK (29 April - 3 May)
 
 #### What did you struggle with?
-* maintaining focus due to a couple of health hiccups
+* 
 
 #### Where do you need help from Bastian?
-* planning meetings with PPIE leads
+* next steps for dissemination of the survey
 
 #### What would you like to work on next week?
-* prepare and have meetings with PPIE leads
-* learn more about approaches for survey analysis
+* dissemination of the survey
+* plan analysis
 
 
 ### Date: 29 January 2024
