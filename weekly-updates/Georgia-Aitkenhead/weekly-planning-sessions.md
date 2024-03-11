@@ -43,8 +43,11 @@ Notes from Georgia and Bastian's weekly planning sessions
   * Present at AI UK
 * Co-writing planning sess with Alex
 * Upload User testing notes onto GitHub and send reminders to people who haven't confirmed
+  *  Waiting for responses from 2 participants, waiting until March 18 (deadline we gave for responding)
 * Prioritise tasks from user testing and turn into GitHub issues
-* Co-working with DS and BGT - alternative to WordPress for newsletter? 
+  * Do in the week after AI UK (when we got approval from everyone too)
+* Co-working with DS and BGT - alternative to WordPress for newsletter?
+  * BGT will be traveling, but DS should be around
 
 ### Date 12 February 2024
 
