@@ -2,9 +2,54 @@
 
 Georgia's biweekly meeting notes.
 
+* [18 March 2024](#date-18-march-2024)
 * [04 March 2024](#date-04-march-2024)
 * [16 February 2024](#date-16-february-2024)
 * [19 January 2024](#date-19-january-2024)
+
+## 18 March 2024
+
+### Who did you help?
+
+* Helped JS with AI UK prep
+
+### Who helped you?
+
+* DS and BGT helped with contract for AM (mainly DS!)
+
+### What did you achieve?
+
+* Created slides, running order and prep for AI UK
+* Onboarding and co-working with AM on co-writing
+* AI assurance prep with JS and AB
+* Ran AutSPACEs meet-up
+
+### What did you struggle with?
+
+* Anxiety about public speaking! 
+
+### Where do you need help from Bastian?
+
+* Graphic design application review
+  * worried about finding autistic designer as priority
+  * BGT can reach out to person he met in Florence
+  * GA can reach out to AG (contact in US)
+* Prioritising issues from user testing
+* SSI CW planning
+  * maybe see with DS for funding of one person of AutSPACEs team to go
+
+### What would you like to work during the next two weeks?
+
+* AI UK!
+* March newsletter
+  * check with DS for alternative to WP
+  * interview CbD co-presenters (people's panel in AI)
+* Plan April meet-up session
+* More work with AM on writing for platform
+* User testing
+  * Send reminder email for user testing, for 2 missing participants
+  * Upload notes from user testing to GitHub and transform into issues
+* Plan SSI workshop
 
 ## 04 March 2024
 
