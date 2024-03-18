@@ -15,7 +15,7 @@ Georgia's biweekly meeting notes.
 
 ### Who helped you?
 
-* DS and BGT helped with contract for AM 
+* DS and BGT helped with contract for AM (mainly DS!)
 
 ### What did you achieve?
 
@@ -31,16 +31,24 @@ Georgia's biweekly meeting notes.
 ### Where do you need help from Bastian?
 
 * Graphic design application review
+  * worried about finding autistic designer as priority
+  * BGT can reach out to person he met in Florence
+  * GA can reach out to AG (contact in US)
 * Prioritising issues from user testing
 * SSI CW planning
+  * maybe see with DS for funding of one person of AutSPACEs team to go
 
 ### What would you like to work during the next two weeks?
 
 * AI UK!
 * March newsletter
+  * check with DS for alternative to WP
+  * interview CbD co-presenters (people's panel in AI)
 * Plan April meet-up session
 * More work with AM on writing for platform
-* Upload notes from user testing to GitHub and transform into issues
+* User testing
+  * Send reminder email for user testing, for 2 missing participants
+  * Upload notes from user testing to GitHub and transform into issues
 * Plan SSI workshop
 
 ## 04 March 2024
