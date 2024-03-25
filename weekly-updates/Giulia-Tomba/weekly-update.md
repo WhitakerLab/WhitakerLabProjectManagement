@@ -1,10 +1,39 @@
 # Bi-weekly meetings with Bastian
 
+* [25 March 2024](#date-25-march-2024)
 * [11 March 2024](#date-11-march-2024)
 * [26 February 2024](#date-26-february-2024)
 * [29 January 2024](#date-29-january-2024)
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
+
+
+### Date: 25 March 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+* Lizzie connected me with the PPIE lead for DynAIRx and AI-MULTIPLY
+* SB sent a list of organisations for further dissemination outside AIM 
+
+#### What did you achieve?
+* met the PPIE leads for AIM-CISC, OPTIMAL, AI-MULTIPLY, DynAIRx
+* got in touch with MLTC CMC and MRC ADMISSION
+* sent out the survey to the 7 AIM consortia and to BA for the AIM newsletter
+* set up a worksheet for outreach: https://docs.google.com/spreadsheets/d/1a-pgQLWgIszJ4NzA9uKSMi5rp7xMD7oeEQv5kysyiSM/edit?usp=drive_link
+
+#### What did you struggle with?
+* DynAIRx was tricky to get in touch with
+
+#### Where do you need help from Bastian?
+* next steps for dissemination of the survey
+
+#### What would you like to work on next week?
+* plan analysis
+* go through the list sent by SB
+* continue with literature review
+  
 
 ### Date: 11 March 2024
 
