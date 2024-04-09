@@ -1,5 +1,6 @@
 # Bi-weekly meetings with Bastian
 
+* [9 April 2024](#date-9-april-2024)
 * [25 March 2024](#date-25-march-2024)
 * [11 March 2024](#date-11-march-2024)
 * [26 February 2024](#date-26-february-2024)
@@ -7,7 +8,32 @@
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
 
+### Date: 25 March 2024
 
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+* VH offered to help disseminate the survey within the Turing-Roche channel (5-minute slot during the next Knowledge Share event + Slack)
+
+#### What did you achieve?
+* met Rachel and Gayle from MRC ADMISSION
+* managed to finally arrange a meeting with Christine from MLTC CNC later today
+* attended a workshop on participatory research organised by STANDING Together
+
+#### What did you struggle with?
+* the negative answers to the Informed Consent statements came a bit as a surprise
+
+#### Where do you need help from Bastian?
+* further dissemination of the survey: Voice? CoMPutE? list from Sophia
+* form for the DPUK Academy
+
+#### What would you like to work on next week?
+* amend survey if ok with ethics
+* plan analysis
+* continue with literature review
+
+  
 ### Date: 25 March 2024
 
 #### Who did you help this week?
