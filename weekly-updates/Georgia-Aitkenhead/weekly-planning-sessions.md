@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [10 April 2024](#10-april-2024)
 * [11 March 2024](#11-march-2024)
 * [12 February 2024](#12-february-2024)
 * [05 February 2024](#05-february-2024)
@@ -34,6 +35,35 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 10 April 2024
+
+Priorities this week: 
+1. Nudging DS for feedback
+2. Data sharing agenda draft
+3. (User testing issues: co-working with BGT & DS)
+4. Design work, check with DS too
+5. stretch-goal: CW24 planning
+
+* Set up time and prioritise issues from user testing
+  * needs to be put into issues and decide on specific tasks
+* Get back to Alex about writing after DS has had a look - incorporate changes onto platform
+  * also can be turned into issues -> still need DS feedback
+* Design co-creation session for planning data sharing
+  * had open-ended discussion at meet-up
+  * need to prep a session to keep discussion on-topic
+  * started [making plan for kinds of questions](https://docs.google.com/document/d/1J3XkdIzZs0hdZd0vyTnXN8w5mU_x0c6sdoHxUuCh4L4/edit#heading=h.7f28vh3w1oai)
+  * Refine plan by co-working with SF, DS and BGT on the topic
+    * SF suggested moderators having pathway to join the data management panel (do all panel community members have to be moderators first? do we have people be both? How do we on-board panel members [and moderators for that matter],…)
+* Meet with KB to discuss participation opportunities
+  * newsletter spotlight, blogging (maybe on SSI blog if Turing comms doesn't want it), etc.
+  * looking at potential paid opportunities if possible
+  * BGT will be optional participant 
+* Collaborations Workshop at end of April
+  * in-person & online facilitation (KW will be in person)
+  * Agenda etc.
+  * CW24 overlaps with regular meet-up session, our session does not though (day 3 is hackathon)
+
 
 ### Date 11 March 2024
 
