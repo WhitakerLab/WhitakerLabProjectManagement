@@ -36,7 +36,7 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
 
-### Date 18 April 2024
+### Date 10April 2024
 
 * Set up time and prioritise issues from user testing
 * Get back to Alex about writing after DS has had a look - incorporate changes onto platform
