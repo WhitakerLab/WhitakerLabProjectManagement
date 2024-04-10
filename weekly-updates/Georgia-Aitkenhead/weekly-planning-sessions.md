@@ -2,7 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
-* [18 April 2024](#18-april-2024)
+* [10 April 2024](#10-april-2024)
 * [11 March 2024](#11-march-2024)
 * [12 February 2024](#12-february-2024)
 * [05 February 2024](#05-february-2024)
