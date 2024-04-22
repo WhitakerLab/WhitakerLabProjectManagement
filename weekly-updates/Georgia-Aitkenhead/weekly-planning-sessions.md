@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [22 April 2024](#22-april-2024)
 * [10 April 2024](#10-april-2024)
 * [11 March 2024](#11-march-2024)
 * [12 February 2024](#12-february-2024)
@@ -35,6 +36,28 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 22 April 2024
+
+* Send out April newsletter
+  * [Topics](https://github.com/alan-turing-institute/AutSPACEs/issues/672):
+    * Celebrate: moderation paper was accepted!
+    * got ethics approval to actually launch (but need to iron out some things first!)
+    * CW SSI: will happen, can share slides
+    * AI UK reflections by Margaret (& potentially James)
+    * spotlight: KB on autism & music
+* Plan meet-up session
+  * (maybe using the plan for the data sharing agenda)
+  * copy editing questions (formality of tone & us/we)
+* Finish prep for SSI CW
+  * linking up rooms/what do we need in person?
+  * worth trying to have a quick meeting with KW this week?
+* Meeting with KB
+  * meeting without BGT to keep casual
+  * things she could be involved in, would be interested in writing
+    * promotional writing/sharing when AutSPACEs launches
+* Follow up with AM
+  * emailed her with feedback, waiting for response
 
 ### Date 10 April 2024
 
