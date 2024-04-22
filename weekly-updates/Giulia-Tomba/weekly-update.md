@@ -1,5 +1,6 @@
 # Bi-weekly meetings with Bastian
 
+* [22 April 2024](#date-22-april-2024)
 * [9 April 2024](#date-9-april-2024)
 * [25 March 2024](#date-25-march-2024)
 * [11 March 2024](#date-11-march-2024)
@@ -7,6 +8,32 @@
 * [29 January 2024](#date-29-january-2024)
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
+
+### Date: 9 April 2024
+
+#### Who did you help this week?
+* plan to team up with SB to write a piece on science communication for a general audience during the next Book Dash
+   
+#### Who helped you this week?
+* AB with the data agreement for the DPUK Academy
+
+#### What did you achieve?
+* met Anica Alvarez Nishio and Mackenzie Graham from CoMPuTe about the survey
+* attended two workshops organised by the Daphne Jackson Trust
+* TTW Collaboration Cafe 
+ 
+#### What did you struggle with?
+* Christine from MLTC CNC has cancelled our chat (in urgent leave until early May)
+* still struggling with getting the data agreement for DPUK signed
+* Dennae is still "work-shopping" a solution regarding our request to modify the Informed Consent part in the survey
+  
+#### Where do you need help from Bastian?
+* next steps for further dissemination of the survey
+
+#### What would you like to work on next week?
+* identify new channels for promoting the survey
+* attend the DPUK Academy (if possible...)
+* apply to the TTW Book Dash
 
 ### Date: 9 April 2024
 
