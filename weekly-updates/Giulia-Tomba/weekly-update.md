@@ -9,7 +9,7 @@
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
 
-### Date: 9 April 2024
+### Date: 22 April 2024
 
 #### Who did you help this week?
 * plan to team up with SB to write a piece on science communication for a general audience during the next Book Dash
