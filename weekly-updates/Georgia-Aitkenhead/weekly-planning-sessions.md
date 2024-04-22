@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [22 April 2024](#22-april-2024)
 * [10 April 2024](#10-april-2024)
 * [11 March 2024](#11-march-2024)
 * [12 February 2024](#12-february-2024)
@@ -35,6 +36,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 22 April 2024
+
+* Send out April newsletter
+* Plan meet-up session (maybe using the plan for the data sharing agenda)
+* Finish prep for SSI CW
+* Meeting with KB
+* Follow up with AM
 
 ### Date 10 April 2024
 
