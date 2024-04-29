@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [29 April 2024](#29-april-2024)
 * [22 April 2024](#22-april-2024)
 * [10 April 2024](#10-april-2024)
 * [11 March 2024](#11-march-2024)
@@ -36,6 +37,19 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 29 April 2024
+
+* Collaborations workshop
+  * [Slides are prepared](https://docs.google.com/presentation/d/17syRbwNO_rN5KSmcXEO7QBcUBU_RY4Jv_6RKdwBrBQQ/edit#slide=id.g2cdf351470c_0_2)
+  * Run mini workshop on Tuesday afternoon (starts at 14:40), KW attending in person
+    * Slack channel on TTW Slack: #co-creation
+  * Join TTW session and help facilitate (Wednesday afternoon)
+* Run monthly community meet-up session (agenda/notes is made, invites are sent)
+* Meet with two community members who want to get more involved (AS and HM)
+  * For potential tech contributions for AS: https://github.com/alan-turing-institute/AutSPACEs/issues/667 has some potential things to work on
+* Reminder for next week: objective review, for next week (can schedule timeslot for that next week)
+* May 6 is a holiday, move weekly 1:1 to 4pm on May 7th
 
 ### Date 22 April 2024
 
