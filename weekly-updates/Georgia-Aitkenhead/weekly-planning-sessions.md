@@ -41,10 +41,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 29 April 2024
 
 * Collaborations workshop
-  * Run mini workshop
-  * Join TTW session and help facilitate
-* Run meet-up session
-* Meet with community members (AS and HM) 
+  * [Slides are prepared](https://docs.google.com/presentation/d/17syRbwNO_rN5KSmcXEO7QBcUBU_RY4Jv_6RKdwBrBQQ/edit#slide=id.g2cdf351470c_0_2)
+  * Run mini workshop on Tuesday afternoon (starts at 14:40), KW attending in person
+    * Slack channel on TTW Slack: #co-creation
+  * Join TTW session and help facilitate (Wednesday afternoon)
+* Run monthly community meet-up session (agenda/notes is made, invites are sent)
+* Meet with two community members who want to get more involved (AS and HM)
+* Reminder for next week: objective review, for next week (can schedule timeslot for that next week)
+* May 6 is a holiday, move weekly 1:1 to 4pm on May 7th
 
 ### Date 22 April 2024
 
