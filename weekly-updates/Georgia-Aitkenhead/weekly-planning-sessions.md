@@ -47,6 +47,7 @@ Notes from Georgia and Bastian's weekly planning sessions
   * Join TTW session and help facilitate (Wednesday afternoon)
 * Run monthly community meet-up session (agenda/notes is made, invites are sent)
 * Meet with two community members who want to get more involved (AS and HM)
+  * For potential tech contributions for AS: https://github.com/alan-turing-institute/AutSPACEs/issues/667 has some potential things to work on
 * Reminder for next week: objective review, for next week (can schedule timeslot for that next week)
 * May 6 is a holiday, move weekly 1:1 to 4pm on May 7th
 
