@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [07 May 2024](#date-07-may-2024)
 * [29 April 2024](#29-april-2024)
 * [22 April 2024](#22-april-2024)
 * [10 April 2024](#10-april-2024)
@@ -37,6 +38,27 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 07 May 2024
+
+* Co-working with AM on platform text following community meet-up feedback
+  * reach out to AM to find time to check-in and report community feedback
+* Work on TTW chapter with SSI CW collaborators
+  * plan to meet up on Collab Cafe on May 15, send out an @channel message as follow-up, as people might otherwise miss it due to notification fatigue
+  * invite CW24 participants individually
+  * come up with structure to get feedback on / have an intro to TTW
+* Objectives review
+  * meeting up Friday at 2pm to go over it
+* KB meet up and plan involvement
+  * already had the meeting and opened an issue on GH
+  * wants to do some writing, starting with newsletter
+  * BGT can meet for tech stuff, GA will do connection
+* AS meet up and plan involvement
+  * seems hard to meet up with
+  * maybe offer a way to do it via text?
+  * could also be over-committment 
+* [Social Data Science interest group](https://www.turing.ac.uk/research/interest-groups/social-data-science)
+  * looking for speakers, interested in policy/tech intersection, maybe JS?
 
 ### Date 29 April 2024
 
