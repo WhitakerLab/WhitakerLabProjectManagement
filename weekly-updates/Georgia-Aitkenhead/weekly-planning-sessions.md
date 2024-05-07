@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [07 May 2024](#date-07-may-2024)
 * [29 April 2024](#29-april-2024)
 * [22 April 2024](#22-april-2024)
 * [10 April 2024](#10-april-2024)
@@ -37,6 +38,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 07 May 2024
+
+* KB meet up and plan involvement
+* AS meet up and plan involvement
+* Objectives review
+* Work on TTW chapter with SSI CW collaborators
+* Co-working on platform text following community meet-up feedback
 
 ### Date 29 April 2024
 
