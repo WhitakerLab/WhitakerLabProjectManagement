@@ -35,7 +35,6 @@
 #### What would you like to work on next week?
 * finalise the appraisal
 * continue revising the DPUK material
-* proofread SB's chapter prior to its publication
 * focus on possible analyses using the ELSA dataset
 
 
