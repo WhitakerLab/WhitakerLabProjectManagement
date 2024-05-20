@@ -1,5 +1,6 @@
 # Bi-weekly meetings with Bastian
 
+* [20 May 2024](#date-20-may-2024)
 * [22 April 2024](#date-22-april-2024)
 * [9 April 2024](#date-9-april-2024)
 * [25 March 2024](#date-25-march-2024)
@@ -8,6 +9,35 @@
 * [29 January 2024](#date-29-january-2024)
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
+
+### Date: 20 May 2024
+
+#### Who did you help this week?
+* worked with LR to identify further channels for the survey dissemination
+   
+#### Who helped you this week?
+* CBa shared a slide about the survey during the Community of Practice meeting, VH gave me some time during the Knowledge Share event, EK shared on Slack and CBu connected me with Mike Katell
+
+#### What did you achieve?
+* attended the 1-week DPUK training workshop
+* modified the online survey to make it stop in case of negative answer to any of the questions in the Informed Consent page
+* successful application to the TW Book Dash
+* reached out to IGNITE, the People's Panel for AI, use MY data, sent out all the information needed for dissemination to UCL Partners, contacted again MLTC CNC to try and arrange a meeting
+* had an informal update with the Daphne Jackson Fellowship advisor
+* worked on the appraisal: https://hackmd.io/T454NRmFQGO6y732CAobRQ 
+ 
+#### What did you struggle with?
+* find further channels for dissemination
+    
+#### Where do you need help from Bastian?
+* appraisal
+
+#### What would you like to work on next week?
+* finalise the appraisal
+* continue revising the DPUK material
+* proofread SB's chapter prior to its publication
+* focus on possible analyses using the ELSA dataset
+
 
 ### Date: 22 April 2024
 
