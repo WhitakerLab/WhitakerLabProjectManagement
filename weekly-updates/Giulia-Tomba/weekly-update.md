@@ -1,5 +1,6 @@
 # Bi-weekly meetings with Bastian
 
+* [03 June 2024](#date-03-june-2024)
 * [20 May 2024](#date-20-may-2024)
 * [22 April 2024](#date-22-april-2024)
 * [9 April 2024](#date-9-april-2024)
@@ -9,6 +10,31 @@
 * [29 January 2024](#date-29-january-2024)
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
+
+
+### Date: 03 June 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+* coordinated again with Lizzie about survey dissemination
+
+#### What did you achieve?
+* finalised the appraisal 
+* pushed the survey forward with HDR UK Voices and the Patients Association (due to be sent out this week) 
+* met a PhD student from UCD Dublin about the survey
+ 
+#### What did you struggle with?
+* 
+    
+#### Where do you need help from Bastian?
+* 
+
+#### What would you like to work on next week?
+* TW Book Dash
+* meeting with MLTC CNC
+  
 
 ### Date: 20 May 2024
 
