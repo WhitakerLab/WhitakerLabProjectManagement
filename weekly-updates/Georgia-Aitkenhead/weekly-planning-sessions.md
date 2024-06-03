@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [03 June 2024](#date-03-june-2024)
 * [07 May 2024](#date-07-may-2024)
 * [29 April 2024](#29-april-2024)
 * [22 April 2024](#22-april-2024)
@@ -38,6 +39,13 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 03 June 2024
+
+* AutSPACEs monthly meet-up session
+* Co-working with JS/community on chapter for Turing Way
+* Work with AM on copy for platform
+* SDS SIG - arrange speakers
 
 ### Date 07 May 2024
 
