@@ -19,6 +19,7 @@
    
 #### Who helped you this week?
 * coordinated again with Lizzie about survey dissemination
+* BGT with the appraisal
 
 #### What did you achieve?
 * finalised the appraisal 
