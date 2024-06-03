@@ -1,5 +1,269 @@
+# Bi-weekly meetings with Bastian
+
+* [03 June 2024](#date-03-june-2024)
+* [20 May 2024](#date-20-may-2024)
+* [22 April 2024](#date-22-april-2024)
+* [9 April 2024](#date-9-april-2024)
+* [25 March 2024](#date-25-march-2024)
+* [11 March 2024](#date-11-march-2024)
+* [26 February 2024](#date-26-february-2024)
+* [29 January 2024](#date-29-january-2024)
+* [15 January 2024](#date-15-january-2024)
+* [11 December 2023](#date-11-december-2023)
+
+
+### Date: 03 June 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+* coordinated again with Lizzie about survey dissemination
+* BGT with the appraisal
+
+#### What did you achieve?
+* finalised the appraisal 
+* pushed the survey forward with HDR UK Voices and the Patients Association (due to be sent out this week) 
+* met a PhD student from UCD Dublin about the survey
+ 
+#### What did you struggle with?
+* 
+    
+#### Where do you need help from Bastian?
+* 
+
+#### What would you like to work on next week?
+* TW Book Dash
+* meeting with MLTC CNC
+  
+
+### Date: 20 May 2024
+
+#### Who did you help this week?
+* worked with LR to identify further channels for the survey dissemination
+   
+#### Who helped you this week?
+* CBa shared a slide about the survey during the Community of Practice meeting, VH gave me some time during the Knowledge Share event, EK shared on Slack and CBu connected me with Mike Katell
+
+#### What did you achieve?
+* attended the 1-week DPUK training workshop
+* modified the online survey to make it stop in case of negative answer to any of the questions in the Informed Consent page
+* successful application to the TW Book Dash
+* reached out to IGNITE, the People's Panel for AI, use MY data, sent out all the information needed for dissemination to UCL Partners, contacted again MLTC CNC to try and arrange a meeting
+* had an informal update with the Daphne Jackson Fellowship advisor
+* worked on the appraisal: https://hackmd.io/T454NRmFQGO6y732CAobRQ 
+ 
+#### What did you struggle with?
+* find further channels for dissemination
+    
+#### Where do you need help from Bastian?
+* appraisal
+
+#### What would you like to work on next week?
+* finalise the appraisal
+* continue revising the DPUK material
+* focus on possible analyses using the ELSA dataset
+
+
+### Date: 22 April 2024
+
+#### Who did you help this week?
+* plan to team up with SB to write a piece on science communication for a general audience during the next Book Dash
+   
+#### Who helped you this week?
+* AB with the data agreement for the DPUK Academy
+
+#### What did you achieve?
+* met Anica Alvarez Nishio and Mackenzie Graham from CoMPuTe about the survey
+* attended two workshops organised by the Daphne Jackson Trust
+* TTW Collaboration Cafe 
+ 
+#### What did you struggle with?
+* Christine from MLTC CNC has cancelled our chat (in urgent leave until early May)
+* still struggling with getting the data agreement for DPUK signed
+* Dennae is still "work-shopping" a solution regarding our request to modify the Informed Consent part in the survey
+  
+#### Where do you need help from Bastian?
+* next steps for further dissemination of the survey
+
+#### What would you like to work on next week?
+* identify new channels for promoting the survey
+* attend the DPUK Academy (if possible...)
+* apply to the TTW Book Dash
+
+### Date: 9 April 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+* VH offered to help disseminate the survey within the Turing-Roche channel (5-minute slot during the next Knowledge Share event + Slack)
+
+#### What did you achieve?
+* met Rachel and Gayle from MRC ADMISSION
+* managed to finally arrange a meeting with Christine from MLTC CNC later today
+* attended a workshop on participatory research organised by STANDING Together
+
+#### What did you struggle with?
+* the negative answers to the Informed Consent statements came a bit as a surprise
+
+#### Where do you need help from Bastian?
+* further dissemination of the survey: Voice? CoMPutE? list from Sophia
+* form for the DPUK Academy
+
+#### What would you like to work on next week?
+* amend survey if ok with ethics
+* plan analysis
+* continue with literature review
+
+  
+### Date: 25 March 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+* Lizzie connected me with the PPIE lead for DynAIRx and AI-MULTIPLY
+* SB sent a list of organisations for further dissemination outside AIM 
+
+#### What did you achieve?
+* met the PPIE leads for AIM-CISC, OPTIMAL, AI-MULTIPLY, DynAIRx
+* got in touch with MLTC CMC and MRC ADMISSION
+* sent out the survey to the 7 AIM consortia and to BA for the AIM newsletter
+* set up a worksheet for outreach: https://docs.google.com/spreadsheets/d/1a-pgQLWgIszJ4NzA9uKSMi5rp7xMD7oeEQv5kysyiSM/edit?usp=drive_link
+
+#### What did you struggle with?
+* DynAIRx was tricky to get in touch with
+
+#### Where do you need help from Bastian?
+* next steps for dissemination of the survey
+
+#### What would you like to work on next week?
+* plan analysis
+* go through the list sent by SB
+* continue with literature review
+  
+
+### Date: 11 March 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+* SB gave me contact details for the remaining consortia
+
+#### What did you achieve?
+* met the PPIE leads for DECODE, Cluster-AIM and MELD-B
+* arranged for meetings with AIM-CISC and OPTIMAL, still no response from DynAIRx and MULTIPLY
+* applied for the Elementary Academy by DPUK (29 April - 3 May)
+
+#### What did you struggle with?
+* 
+
+#### Where do you need help from Bastian?
+* next steps for dissemination of the survey
+
+#### What would you like to work on next week?
+* dissemination of the survey
+* plan analysis
+
+### Date: 26 February 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+* SB put me in touch with the PPIE leads for MELD-B, AI-MIXED, DECODE
+
+#### What did you achieve?
+* put together a bit of summary background for the survey
+
+#### What did you struggle with?
+* maintaining focus due to a couple of health hiccups
+
+#### Where do you need help from Bastian?
+* planning meetings with PPIE leads
+
+#### What would you like to work on next week?
+* prepare and have meetings with PPIE leads
+* learn more about approaches for survey analysis
+
+
+### Date: 29 January 2024
+
+#### Who did you help this week?
+* JF got in touch about the career returner fellowship - sent a few comments on draft for eligibility
+   
+#### Who helped you this week?
+* BGT with the objectives and TREx!
+
+#### What did you achieve?
+*  finalised objectives/professional development (to be loaded on Cezanne today)
+*  got started with Bob's Business
+*  went through saved literature
+
+#### What did you struggle with?
+* everything pretty normal
+
+#### Where do you need help from Bastian?
+* shall I nudge Dennae about TREx?
+
+#### What would you like to work on next week?
+* continue work on literature summary for fairness in AI
+* plan contact with AIM PPIE leads 
+
+### Date: 15 January 2024
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+#### What did you achieve?
+*  we submitted the additional information/clarifications required by TREx
+*  tidied up (a bit) the links and (hopefully) useful resources accumulated over the last months
+*  worked on objectives
+
+#### What did you struggle with?
+* another week with kid at home...
+
+#### Where do you need help from Bastian?
+* objective setting 2023-2024: https://hackmd.io/@gtomba/HkBfRFQU6
+
+#### What would you like to work on next week?
+* professional development plan + submit objectives
+* work on literature summary for fairness in AI
+* make list of PPIE leads within AIM (ask BA?)
+
+### Date: 11 December 2023
+
+#### Who did you help this week?
+* SB, but only with a tiny bit of editing - hope to do more in the next round of revisions!
+* worked with Lizzie on the survey
+
+#### Who helped you this week?
+* VK was really helpful with the ethics submission
+
+#### What did you achieve?
+*  participated to 2 PPIE meetings to go through the survey
+*  implemented the survey on SmartSurvey: https://www.smartsurvey.co.uk/s/3DUAX6/
+*  submitted the documents for ethics approval
+*  started settig up a worksheet for literature review on fairness etc https://docs.google.com/spreadsheets/d/11eOobBgFDXuJsTLe6Xrz_G7KeZgb1rJn_p6O_Xksx5c/edit#gid=0
+
+#### What did you struggle with?
+* an endless series of colds&coughs + chickenpox for both kids
+
+#### Where do you need help from Bastian?
+* objective setting 2023-2024: https://hackmd.io/@gtomba/HkBfRFQU6
+
+#### What would you like to work on next week?
+* improve objectives
+* literature review
+
+
+
 # Bi-weekly meetings with Arron
 
+* [19 June 2023](#date-19-june-2023)
 * [25 May 2023](#date-25-may-2023)
 * [29 March 2023](#date-29-march-2023)
 * [28 February 2023](#date-28-february-2023)
@@ -9,6 +273,28 @@
 * [10 November 2022](#date-10-november-2022)
 * [21 October 2022](#date-21-october-2022)
 * [22 September 2022](#date-22-september-2022)
+
+### Date: 19 June 2023
+
+#### Who did you help this week?
+* 
+
+#### Who helped you this week?
+* had a mentor session with JF
+
+#### What did you achieve?
+*  going through the new set of Turing Bob's courses
+*  technical retraining
+
+#### What did you struggle with?
+* 
+
+#### Where do you need help from Arron?
+* objectives for Turing review (https://hackmd.io/hXfAk_F3S_mL50MYBrLb1w?view)
+* comments for Probation Review
+
+#### What would you like to work on next week?
+* continue with statistical/data science training
 
 
 ### Date: 25 May 2023
