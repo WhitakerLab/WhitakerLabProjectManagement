@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [10 June 2024](#date-10-june-2024)
 * [03 June 2024](#date-03-june-2024)
 * [07 May 2024](#date-07-may-2024)
 * [29 April 2024](#29-april-2024)
@@ -39,6 +40,15 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 10 June 2024
+
+* Meet up with AS to discuss AutSPACEs/TTW collab
+* Co-working with JS
+* Individual meetings with community members for onboarding
+* Review PRs for platform text
+* Bob's business modules
+* Newsletter learning sess 
 
 ### Date 03 June 2024
 
