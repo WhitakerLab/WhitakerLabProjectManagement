@@ -46,10 +46,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 * Meet up with AS to discuss AutSPACEs/TTW collab
 * Co-working with JS
 * Individual meetings with community members for onboarding
+  * 5 people in total want to contribute and wanted onboarding
 * Review PRs for platform text
+  * Already started going through it!
 * Bob's business modules
-* Glossary - create initial structure and share 
-* Newsletter learning sess 
+* Glossary - create initial structure and share
+  * started on this, now cleaning up before sharing
+* Newsletter learning sess
+  * on Tu with DS
 
 ### Date 03 June 2024
 
