@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [10 June 2024](#date-10-june-2024)
 * [03 June 2024](#date-03-june-2024)
 * [07 May 2024](#date-07-may-2024)
 * [29 April 2024](#29-april-2024)
@@ -39,6 +40,22 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 10 June 2024
+
+* TTW chapter
+  * Meet up with AS to discuss AutSPACEs/TTW collab
+  * Co-working with JS
+  * Individual meetings with community members for onboarding
+    * 5 people in total want to contribute and wanted onboarding
+  * Plan: onboard people, decide on TTW collab cafe date, then invite SSI contributors
+* Review PRs for platform text
+  * Already started going through it!
+* Bob's business modules
+* Glossary - create initial structure and share
+  * started on this, now cleaning up before sharing
+* Newsletter learning sess
+  * on Tu with DS
 
 ### Date 03 June 2024
 
