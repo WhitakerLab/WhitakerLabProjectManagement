@@ -43,10 +43,12 @@ Notes from Georgia and Bastian's weekly planning sessions
 
 ### Date 10 June 2024
 
-* Meet up with AS to discuss AutSPACEs/TTW collab
-* Co-working with JS
-* Individual meetings with community members for onboarding
-  * 5 people in total want to contribute and wanted onboarding
+* TTW chapter
+  * Meet up with AS to discuss AutSPACEs/TTW collab
+  * Co-working with JS
+  * Individual meetings with community members for onboarding
+    * 5 people in total want to contribute and wanted onboarding
+  * Plan: onboard people, decide on TTW collab cafe date, then invite SSI contributors
 * Review PRs for platform text
   * Already started going through it!
 * Bob's business modules
