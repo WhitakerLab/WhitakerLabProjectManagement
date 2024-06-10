@@ -48,6 +48,7 @@ Notes from Georgia and Bastian's weekly planning sessions
 * Individual meetings with community members for onboarding
 * Review PRs for platform text
 * Bob's business modules
+* Glossary - create initial structure and share 
 * Newsletter learning sess 
 
 ### Date 03 June 2024
