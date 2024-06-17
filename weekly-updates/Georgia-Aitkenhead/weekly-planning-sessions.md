@@ -44,12 +44,22 @@ Notes from Georgia and Bastian's weekly planning sessions
 
 ### Date 17 June 2024
 
-* Go to collaboration cafe on Wednesday to work on chapter (if people can make it)
-* Write structure for chapter and share
+* TTW writing
+  * Have the _participatory research chapter_ that was co-written with JS
+  * Also a _co-creation_ chapter that is in planning
+  * _participatory research_ could go into _ethics_ part on _why_
+  * _co-creation_ chapter could go into _collaboration_ part
+  * Co-creation chapter:
+    * Write structure for chapter and share
+    * Go to collaboration cafe on Wednesday to work on chapter (if people can make it)
+    * Made plan for ppl to come early to get a TTW intro (~2:30pm)
+    * Start working on it now and see when people get back
+    * Co-working on chapter (synchronous and/or asynchronous)
+  * Participatory research chapter:
+    * Make PR, for AS to review
 * Bob's business
-* PR for participatory research chapter
-* Co-working on chapter (synchronous and/or asynchronous)
-* Finish draft of glossary 
+* Finish draft of glossary
+* (Funding freeze: planning zoom call with JG et al. to discuss)
 
 ### Date 10 June 2024
 
