@@ -1,5 +1,6 @@
 # Bi-weekly meetings with Bastian
 
+* [17 June 2024](#date-17-june-2024)
 * [03 June 2024](#date-03-june-2024)
 * [20 May 2024](#date-20-may-2024)
 * [22 April 2024](#date-22-april-2024)
@@ -10,6 +11,33 @@
 * [29 January 2024](#date-29-january-2024)
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
+
+
+### Date: 17 June 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+* had a chat with DB during the TW Book Dash 
+
+#### What did you achieve?
+* attended TW Book Dash - researched on arts-based approaches to public engagement with research (and got an image to go with it)
+* met Christine from MLTC CNC
+* got in touch with NHS Youth Groups and GenerationR to try and reach out to younger people for the survey
+* proposed amendment for TREx Form2 to use a paper-based version of the survey
+ 
+#### What did you struggle with?
+* finding PPIE groups that focus on minority communities
+    
+#### Where do you need help from Bastian?
+* 
+
+#### What would you like to work on next week?
+* Daphne Jackson's workshop on social media for researchers 
+* look for further channels to disseminate the survey within underrepresented groups
+* Bob's Business
+* try to find a way to share access to the survey with the team
 
 
 ### Date: 03 June 2024
