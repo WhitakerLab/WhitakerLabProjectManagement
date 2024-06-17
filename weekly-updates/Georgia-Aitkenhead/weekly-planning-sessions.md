@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [17 June 2024](#date-17-june-2024))
 * [10 June 2024](#date-10-june-2024)
 * [03 June 2024](#date-03-june-2024)
 * [07 May 2024](#date-07-may-2024)
@@ -40,6 +41,15 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 17 June 2024
+
+* Go to collaboration cafe on Wednesday to work on chapter (if people can make it)
+* Write structure for chapter and share
+* Bob's business
+* PR for participatory research chapter
+* Co-working on chapter (synchronous and/or asynchronous)
+* Finish draft of glossary 
 
 ### Date 10 June 2024
 
