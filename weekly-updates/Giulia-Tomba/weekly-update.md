@@ -1,5 +1,6 @@
 # Bi-weekly meetings with Bastian
 
+* [01 July 2024](#date-01-july-2024)
 * [17 June 2024](#date-17-june-2024)
 * [03 June 2024](#date-03-june-2024)
 * [20 May 2024](#date-20-may-2024)
@@ -11,6 +12,35 @@
 * [29 January 2024](#date-29-january-2024)
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
+
+
+### Date: 17 June 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+*  
+
+#### What did you achieve?
+* Daphne Jackson's workshop on social media for researchers
+* Bob's Business done
+* tried to share the survey among the team, but failed
+* followed-up with Dennae about the amendments for the survey (paper version)
+* Peoples Panel for AI will share the survey in printed form
+* got in touch with the Black Country Voices, Cambridge Ethnic Community Forum, BRAG Voices (Black asian and minority ethnic Research Advisory Group), the Cambridge Council for the Health Fair for travellers
+ 
+#### What did you struggle with?
+* I didn't hear back from the groups I have contacted (youth/Black Country/etc), nor from Christine...
+* NIHR People in Research refused to share the survey
+    
+#### Where do you need help from Bastian?
+* holiday plan
+
+#### What would you like to work on next week?
+* Daphne Jackson's workshop on social media for researchers 
+* insist a bit more on trying other channels to share the survey within underrepresented groups (shall I try Healthwatch?)
+* work on the content for TW
 
 
 ### Date: 17 June 2024
