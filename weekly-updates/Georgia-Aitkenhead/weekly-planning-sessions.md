@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [01 July 2024](#date-01-july-2024)
 * [17 June 2024](#date-17-june-2024))
 * [10 June 2024](#date-10-june-2024)
 * [03 June 2024](#date-03-june-2024)
@@ -41,6 +42,14 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 01 July 2024
+
+* Run meet-up session
+* Finish glossary draft and subit as a PR to GitHub
+* Submit participatory research chapter done with JS as a PR
+* Connect with KB and BR and do some co-working
+* Create a draft engagement strategy for the AutSPACEs website
 
 ### Date 17 June 2024
 
