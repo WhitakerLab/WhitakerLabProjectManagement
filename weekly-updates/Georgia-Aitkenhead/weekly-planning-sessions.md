@@ -46,10 +46,16 @@ Notes from Georgia and Bastian's weekly planning sessions
 ### Date 01 July 2024
 
 * Run meet-up session
-* Finish glossary draft and subit as a PR to GitHub
+* Finish glossary draft and submit as a PR to GitHub
+  * Got people suggest their own additions!
 * Submit participatory research chapter done with JS as a PR
-* Connect with KB and BR and do some co-working
+  * planning one more co-working with him for formatting etc.
+* Co-creation chapter:
+  * Connect with KB and BR and do some co-working
+  * discuss at the meet-up
 * Create a draft engagement strategy for the AutSPACEs website
+  * where to share the launched platform?
+  * how to present it? 
 
 ### Date 17 June 2024
 
