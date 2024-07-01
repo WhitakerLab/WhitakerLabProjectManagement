@@ -14,7 +14,7 @@
 * [11 December 2023](#date-11-december-2023)
 
 
-### Date: 17 June 2024
+### Date: 01 July 2024
 
 #### Who did you help this week?
 * 
@@ -38,7 +38,7 @@
 * holiday plan
 
 #### What would you like to work on next week?
-* Daphne Jackson's workshop on social media for researchers 
+* familiarise myself with the data from the survey and plan analysis
 * insist a bit more on trying other channels to share the survey within underrepresented groups (shall I try Healthwatch?)
 * work on the content for TW
 
