@@ -1,5 +1,6 @@
 # Bi-weekly meetings with Bastian
 
+* [08 July 2024](#date-08-july-2024)
 * [01 July 2024](#date-01-july-2024)
 * [17 June 2024](#date-17-june-2024)
 * [03 June 2024](#date-03-june-2024)
@@ -12,6 +13,30 @@
 * [29 January 2024](#date-29-january-2024)
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
+
+
+### Date: 08 July 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+* Lizzie printed and sent out the survey to Keeley (Peoples Panel for AI) 
+
+#### What did you achieve?
+* followed up with various groups (GenerationR, BRAG, Black Country Voices,...) and Christine, plus got in touch with various local Healthwatch communities (areas with highest ethnic diversity in England) - but only heard back from one
+* attended the Empowering People in Data workshop organised by EK
+* coordinated with Lizzie for the printed survey
+ 
+#### What did you struggle with?
+* very little response from those I contacted
+    
+#### Where do you need help from Bastian?
+* holiday plan: annual leave from 30 July to 9 August, plus work from Italy until 26 August
+
+#### What would you like to work on next week?
+* familiarise myself with the data from the survey and plan analysis
+* final push for sharing the survey
 
 
 ### Date: 01 July 2024
