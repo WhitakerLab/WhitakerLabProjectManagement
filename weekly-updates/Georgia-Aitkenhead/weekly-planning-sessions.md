@@ -2,6 +2,7 @@
 
 Notes from Georgia and Bastian's weekly planning sessions 
 
+* [09 July 2024](#date-09-july-2024)
 * [01 July 2024](#date-01-july-2024)
 * [17 June 2024](#date-17-june-2024))
 * [10 June 2024](#date-10-june-2024)
@@ -42,6 +43,13 @@ Notes from Georgia and Bastian's weekly planning sessions
 * [09 January 2023](#date-09-january-2023)
 * [12 December 2022](#date-12-december-2022)
 * [28 November 2022](#date-28-november-2022)
+
+### Date 09 July 2024
+
+* Co-working with JS on participatory research chapter and submit
+* PR for glossary, incorporating suggestions from meet-up group
+* Draft of co-creation chapter
+* Co-working on soft launch?/Planning 
 
 ### Date 01 July 2024
 
