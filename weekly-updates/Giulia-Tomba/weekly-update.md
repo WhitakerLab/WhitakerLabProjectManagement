@@ -1,5 +1,6 @@
 # Bi-weekly meetings with Bastian
 
+* [29 July 2024](#date-29-july-2024)
 * [08 July 2024](#date-08-july-2024)
 * [01 July 2024](#date-01-july-2024)
 * [17 June 2024](#date-17-june-2024)
@@ -13,6 +14,33 @@
 * [29 January 2024](#date-29-january-2024)
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
+
+### Date: 29 July 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+*  had a chat with CG about her experience chairing GEN  
+
+#### What did you achieve?
+* had a preliminary chat with EMRI - agreed to present the survey to their PPIE leads on 22 August  
+* got in touch with all the NIHR ARCs (except Yorkshire&Humber, which is coordinated by Christine), 6 of them are distributing the survey (South London replied they do not have a real PPIE group to share with) 
+* got in touch with the Just Treatment network (~68,000 members, mostly patients plus healthcare practitioners), which came up from Connected By Data - waiting for a reply
+* had a chat with Khanisa from EDI about the possibility of applying for co-chair of REN
+ 
+#### What did you struggle with?
+* getting the surveys back from Keeley - she mentioned she would be in Portugal for a while (?) and that she still hoped to get some more back from the community. Lizzie is in the loop and can receive them while I'm away in case
+    
+#### Where do you need help from Bastian?
+* keep catch-up on 12 August?
+* REN
+
+#### What would you like to work on next week?
+* explore Kumu to map PPIE groups I have reached out to
+* prepare slides for EMRI (10 min)
+* prepare for analysis
+
 
 
 ### Date: 08 July 2024
