@@ -34,6 +34,7 @@
     
 #### Where do you need help from Bastian?
 * keep catch-up on 12 August?
+  * skip 12th, plan to meet on 21st of August
 * REN
 
 #### What would you like to work on next week?
