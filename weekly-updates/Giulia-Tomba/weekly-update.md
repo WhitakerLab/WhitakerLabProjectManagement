@@ -1,5 +1,6 @@
 # Bi-weekly meetings with Bastian
 
+* [21 August 2024](#date-21-august-2024)
 * [29 July 2024](#date-29-july-2024)
 * [08 July 2024](#date-08-july-2024)
 * [01 July 2024](#date-01-july-2024)
@@ -14,6 +15,30 @@
 * [29 January 2024](#date-29-january-2024)
 * [15 January 2024](#date-15-january-2024)
 * [11 December 2023](#date-11-december-2023)
+
+### Date: 21 August 2024
+
+#### Who did you help this week?
+* 
+   
+#### Who helped you this week?
+*  
+
+#### What did you achieve?
+* application as co-chair of REN successful (to be announced on 2 September)  
+* prepared the slides for tomorrow's meeting with EMRI (https://docs.google.com/presentation/d/1WJzUCpR2WOQqxcyqA19oS8IQLmb0kzUk/edit?usp=drive_link&ouid=113722201045511082227&rtpof=true&sd=true) 
+* survey responses up to about 140
+ 
+#### What did you struggle with?
+    
+#### Where do you need help from Bastian?
+* more of a note: my Daphne Jackson Trust advisor has set up a meeting in mid September
+
+#### What would you like to work on next week?
+* meeting with EMRI
+* various meetings/training/writing for REN
+* try to organise getting back the surveys from Keeley
+
 
 ### Date: 29 July 2024
 
