@@ -1,5 +1,6 @@
 # Sophia Bi-Weekly Updates
 
+* [8 February 2022](#date-8-february-2022)
 * [25 January 2022](#date-25-january-2022)
 * [7 December 2021](#date-7-december-2021)
 * [23 November 2021](#date-23-november-2021)
@@ -11,6 +12,42 @@
 * [22 June 2021](#date-22-june-2021)
 
 *Sophia & Kirstie meet every 2 weeks on Tuesdays*
+
+## Date: 8 February 2022
+#### Who did you help this week?
+* SL with prepping for their presentation. 
+* :couple: with a trip up to York to see their family.
+* SSI kick off event was last week, had some backchannel chats with others who were feeling nervous.
+* Neuro/VR group in NZ was having trouble with setting comp env up for data analysis - I send through some resources and gave general support. 
+* :brain: have asked if I want to do some more contract work which keeps the heat on wonderfully - am helping them sort out an SBIR application which feels super useful!
+
+#### Who helped you this week?
+* AB with some excellent advice during co-working that helped me feel like I was going in the right direction
+* The entire co-working team on Slack huddles (the sound of folks typing away made me so productive!) :keyboard: 
+* :couple: with support and checking over my document drafts (and everything in between).
+* SG with some sanity checks and helped so so so, so so, so much as a sounding board. 
+* KW (obviously!!) with very actionable advice on how to to get the document focused and across the line.
+
+#### What did you achieve?
+* COVER LETTER AND CV WERE DONE AND SUBMITTED!! 
+* Had an awesome SSI kick off (internet was patchy so I was camera off but it was SO FAB!) 
+* GA & I started brain storming and making a plan for MozFest.
+* Spread the good word of Binder (to the neuro/vr folks in NZ doing hyperscanning work).
+
+#### What did you struggle with?
+* Writing!!! Was 100% in my own way and struggled with getting out of my own head. 
+* Felt like spending most of Jan sick has eaten away at time that I didn't exactly have loads of.
+
+
+#### What would you like to work on in the next two weeks?
+* Interview prep
+* 2 other job apps (less high stakes ones this time :sweat_smile:) 
+* Documentation updating for AutSPACEs' Design + the View Experiences plan - I'll need to do some deep thinking which will start later this week and feed in to next week. 
+* MozFest & SXSW prep. 
+
+#### Where do you need help from Kirstie?
+* possibly a non-specific mock interview: to practice answering questions and thinking on my feet. 
+* Syncing up about MozFest presentation. 
 
 
 ## Date: 25 January 2022
