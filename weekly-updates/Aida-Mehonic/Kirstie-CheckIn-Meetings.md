@@ -1,5 +1,10 @@
 # Check in meetings with Kirstie
 
+* [Date: 4 April 2022](#date-4-april-2022)
+* [Date: 21 March 2022](#date-21-march-2022)
+* [Date: 7 March 2022](#date-7-march-2022)
+* [Date: 21 February 2022](#date-21-february-2022)
+* [Date: 9 February 2022](#date-9-february-2022)
 * [Date: 10 January 2022](#date-10-january-2022)
 * [Date: 17 November 2021](#date-17-november-2021)
 * [Date: 21 October 2021](#date-21-october-2021)
@@ -12,6 +17,84 @@
 * [Date: 21 April 2021](#date-21-april-2021)
 * [Date: 7 April 2021](#date-7-april-2021)
 * [Date: 25 March 2021](#date-25-march-2021)
+
+
+### Date: 4 April 2022
+
+#### Where do you need help from Kirstie?
+
+* Commercialisation & RAMs - DCE programme - what should be the 12month goal? Also involving the Legal team?
+* Also update on the LRF proposal chat and TRIC. 
+* I am preparing a new talk on RAMs - will discuss details in the meeting
+* Following up on AIUK - this week; 
+* TTW - next workshop - share some feedback from NG; share some feedback from the Lab meeting; 
+* UKRN LNL for 2022-23 
+* RAM paper - KW section
+* RAMs will do the next Book Dash
+
+
+### Date: 21 March 2022
+
+#### Where do you need help from Kirstie?
+* DCE RAM next steps
+* My Objectives
+* RAM paper - KW section
+* UKRN LNL for 22-23 
+
+
+### Date: 7 March 2022
+
+#### Who did you help over the past fortnight? 
+* AR with the ASG event 
+
+#### Who helped you over the past fortnight?
+*  KW with scivision conversations
+*  JD and AC - we are all helping each other as we work towards finalising planning for the AIUK showcase
+
+#### What did you achieve?
+* The programme, invites, LTs and workshops almost all finalised for AIUK
+* Spoke at the ASG event: one short presentation and chaired a panel
+* Interview panel for the DSH RAM - offer sent!
+* Took some time off work :)
+
+#### Where do you need help from Kirstie?
+* Let's talk about RAM plans for scivision, RADDISH, Raphtory and TTW
+* Should we remind KH regarding a possible additional RAM?
+* Giving a talk to a Strategic Partner org in early April on RAMs
+
+#### What would you like to work on next fortnight?
+* AIUK last bits of planning 
+* RADDISH conversation about plans for EoY outputs
+
+
+### Date: 21 February 2022
+#### Who did you help over the past fortnight? 
+* the RAM team with the showcase planning
+* the RADDISH team with the stakeholder workshop
+
+#### Who helped you over the past fortnight?
+
+#### What did you achieve?
+* RADDISH workshop
+* AIUK TRIA coming together 
+* Took part in 3 different hiring panels 
+* Progressed the RAM paper
+
+
+#### What did you struggle with?
+
+#### What would you like to work on next fortnight?
+
+#### Where do you need help from Kirstie?
+
+
+
+### Date: 9 February 2022
+
+#### Where do you need help from Kirstie?
+* Planning for 2022: taking stock of scoping across ASG; picking "winners"; taking stock of resource allocation; trying to project likely impact to end of ASG for the RAM team; let's discuss!
+* RADDISH stakeholder workshop and beyond; 
+* Email to JA about a RAM for DCE;
 
 
 ### Date: 10 January 2022
