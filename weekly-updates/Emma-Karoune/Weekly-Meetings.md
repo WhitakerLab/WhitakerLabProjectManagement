@@ -1,5 +1,6 @@
 # Emma's Weekly Meeting Notes
 
+* [13 April 2022](#date-14-april-2022)
 * [30 March 2022](#date-30-march-2022)
 * [02 March 2022](#date-02-march-2022)
 * [16 February 2022](#date-16-february-2022)
@@ -20,6 +21,39 @@
 * [17 February 2021](#date-17-february-2021)
 * [10 February 2021](#date-10-february-2021)
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 13 April 2022
+
+#### Who did you help this week?
+
+* DC - met for discussion about Github repos
+
+#### Who helped you this week?
+
+* HM- organising hand over to other project manager and any docs needed - 😢
+
+#### What did you achieve?
+
+* DC - data paper meetings, monthly meeting, prep of newsletter, prep with HM. 
+* TRSS
+  * working on updating the webpages.
+  *  still organising the central github repo - archiving docs, people folder. 
+  *  making progress on data legacy discussions, UK data service is now confirmed as repository and discussions of final datset - writing data paper!
+  *  started working on impact pathways. 
+* Turing way - starting to organise bookdash - trying to form a group to work on sensitive data chapter. 
+
+#### What did you struggle with?
+
+* all ok. 
+
+#### What would you like to work on next week?
+
+* get first draft of impact pathways done and meet with people to add case studies.
+* 
+
+#### Where do you need help from Kirstie?
+
+* DECOVID handover - newsletter, data paper comments, data deposition on pioneer. 
 
 ### Date: 30 March 2022
 
