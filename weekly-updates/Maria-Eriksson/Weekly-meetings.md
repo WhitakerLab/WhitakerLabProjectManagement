@@ -1,5 +1,6 @@
 # Weekly Meetings
 
+* [21 April 2022](#date-21-april-2022)
 * [18 November 2021](#date-18-november-2021)
 * [28 October 2021](#date-28-october-2021)
 * [13 October 2021](#date-13-october-2021)
@@ -28,6 +29,25 @@
 * [14 September 2020](#date-14-september-2020)
 * [7 September 2020](#date-7-september-2020)
 * [12 August 2020](#date-12-august-2020)
+
+### Date: 21 April 2022 - FINAL MEETING
+
+#### What did you achieve?
+
+* GitHub: project management and collaborative working 🧑‍🤝‍🧑
+* Visualisations 🎨
+* Working openly with sensitive data 👐
+
+#### Plan for moving forward
+
+* Finish Sensitive Data Projects section in the Turing Way (with EK)
+* Public engagement: parents & children in the epilepsy surgery department
+* Paper on prediction of outcome
+* Paper on neuropsychology profiles
+
+#### Where do you need help from Kirstie?
+
+* All done! 🎇
 
 ### Date: 18 November 2021
 
